@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1099732" version="1" timestamp="2010-07-25T08:45:02Z" uid="4467" user="Rosscoe" changeset="5309813">
+    <member type="way" ref="32152238" role="from"/>
+    <member type="node" ref="832419097" role="via"/>
+    <member type="way" ref="69554012" role="to"/>
+    <tag k="restriction" v="only_left_turn"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1099783" version="5" timestamp="2010-11-22T19:54:53Z" uid="9581" user="Lobelt" changeset="6434460">
+    <member type="way" ref="13857046" role="inner"/>
+    <member type="way" ref="69717970" role="inner"/>
+    <member type="way" ref="69717967" role="inner"/>
+    <member type="way" ref="69974577" role="inner"/>
+    <member type="way" ref="69974592" role="inner"/>
+    <member type="way" ref="69974585" role="inner"/>
+    <member type="way" ref="57820223" role="outer"/>
+    <tag k="note" v="Acker Scharhof-Rhein"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1099973" version="1" timestamp="2010-07-25T13:42:51Z" uid="33382" user="de_muur" changeset="5312016">
+    <member type="node" ref="811791143" role=""/>
+    <member type="way" ref="69585626" role=""/>
+    <member type="way" ref="24949517" role=""/>
+    <member type="way" ref="69585627" role=""/>
+    <member type="node" ref="832719887" role=""/>
+    <tag k="name" v="Badenermoor - Hellwege"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+</osm>

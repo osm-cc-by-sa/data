@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <node id="669726581" version="2" timestamp="2010-07-29T08:59:56Z" uid="74617" user="JohnSmith" changeset="5344848" lat="51.6797333" lon="0.1235752">
+    <tag k="amenity" v="emergency_phone"/>
+    <tag k="emergency" v="phone"/>
+  </node>
+  <node id="669728286" version="2" timestamp="2010-07-28T20:11:57Z" uid="74617" user="JohnSmith" changeset="5339329" lat="60.214446" lon="24.9503733">
+    <tag k="diameter" v="125"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="location" v="underground"/>
+  </node>
+  <node id="669728286" version="3" timestamp="2010-07-30T17:45:04Z" uid="74617" user="JohnSmith" changeset="5356742" lat="60.214446" lon="24.9503733">
+    <tag k="amenity" v="fire_hydrant"/>
+    <tag k="diameter" v="125"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="location" v="underground"/>
+  </node>
+</osm>

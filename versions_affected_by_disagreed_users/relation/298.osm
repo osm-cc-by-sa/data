@@ -1,0 +1,1260 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="298539" version="1" timestamp="2009-10-19T23:47:20Z" uid="36809" user="pfoten_weg_!_" changeset="2899320">
+    <member type="way" ref="32481995" role="outer"/>
+    <member type="way" ref="32612091" role="inner"/>
+    <tag k="leisure" v="stadium"/>
+    <tag k="name" v="Bezirkssportanlage Forstenried"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="298540" version="1" timestamp="2009-10-19T23:47:20Z" uid="36809" user="pfoten_weg_!_" changeset="2899320">
+    <member type="way" ref="32612091" role="outer"/>
+    <member type="way" ref="32612092" role="inner"/>
+    <tag k="name" v="Fußballfeld"/>
+    <tag k="sport" v="soccer"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="298541" version="5" timestamp="2009-12-05T13:01:39Z" uid="20587" user="balrog-kun" changeset="3293969"/>
+  <relation id="298568" version="2" timestamp="2010-05-01T07:17:56Z" uid="58091" user="Andreas M" changeset="4572048">
+    <member type="way" ref="42699606" role="outer"/>
+    <member type="way" ref="57672385" role="outer"/>
+    <member type="way" ref="42852817" role="outer"/>
+    <member type="way" ref="42852813" role="outer"/>
+    <tag k="landuse" v="forest"/>
+    <tag k="name" v="Hammerlberg"/>
+    <tag k="note" v="Waldareal &apos;Hammerlberg&apos;; segmentiert wegen max. Anz. nodes bzw. long ways"/>
+    <tag k="source" v="plan.at 2009"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="298706" version="3" timestamp="2010-05-19T04:26:28Z" uid="9719" user="dvaey" changeset="4744749">
+    <member type="way" ref="5032697" role="give_way"/>
+    <member type="node" ref="33628630" role="junction"/>
+    <tag k="type" v="traffic_control"/>
+  </relation>
+  <relation id="298706" version="4" timestamp="2010-05-19T04:33:49Z" uid="9719" user="dvaey" changeset="4744772">
+    <member type="way" ref="5032697" role="give_way"/>
+    <member type="node" ref="33628630" role="junction"/>
+    <member type="way" ref="59585805" role="give_way"/>
+    <tag k="type" v="traffic_control"/>
+  </relation>
+  <relation id="298707" version="2" timestamp="2010-05-19T04:26:28Z" uid="9719" user="dvaey" changeset="4744749">
+    <member type="way" ref="5032697" role="street"/>
+    <tag k="name" v="Dalrymple Street"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="298707" version="3" timestamp="2010-05-19T04:33:48Z" uid="9719" user="dvaey" changeset="4744772">
+    <member type="way" ref="5032697" role="street"/>
+    <member type="way" ref="59585805" role="street"/>
+    <tag k="name" v="Dalrymple Street"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="298722" version="21" timestamp="2009-12-05T12:54:11Z" uid="20587" user="balrog-kun" changeset="3293969"/>
+  <relation id="298751" version="2" timestamp="2009-12-16T17:47:54Z" uid="53938" user="ctheile" changeset="3388346">
+    <member type="way" ref="42487485" role=""/>
+    <member type="way" ref="42864404" role=""/>
+    <member type="way" ref="42487482" role=""/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Patar Lia"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="298751" version="3" timestamp="2009-12-16T18:10:03Z" uid="53938" user="ctheile" changeset="3388491">
+    <member type="way" ref="42487485" role=""/>
+    <member type="way" ref="42864404" role=""/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Patar Lia"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="298752" version="4" timestamp="2009-12-16T17:47:54Z" uid="53938" user="ctheile" changeset="3388346">
+    <member type="way" ref="42864405" role=""/>
+    <member type="way" ref="42864408" role=""/>
+    <member type="way" ref="42864409" role=""/>
+    <member type="way" ref="42865080" role=""/>
+    <member type="way" ref="42866211" role=""/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Ouadiour"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="298752" version="5" timestamp="2009-12-16T17:48:14Z" uid="53938" user="ctheile" changeset="3388348">
+    <member type="way" ref="42864405" role=""/>
+    <member type="way" ref="42864409" role=""/>
+    <member type="way" ref="42865080" role=""/>
+    <member type="way" ref="42866211" role=""/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Ouadiour"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="298752" version="6" timestamp="2009-12-16T18:05:35Z" uid="53938" user="ctheile" changeset="3388461">
+    <member type="way" ref="42864405" role=""/>
+    <member type="way" ref="42865080" role=""/>
+    <member type="way" ref="42866211" role=""/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Ouadiour"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="298753" version="2" timestamp="2009-12-16T17:48:14Z" uid="53938" user="ctheile" changeset="3388348">
+    <member type="way" ref="42864407" role=""/>
+    <member type="way" ref="42864411" role=""/>
+    <member type="way" ref="42864412" role=""/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Ndiéné Lagane"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="298753" version="3" timestamp="2009-12-16T17:49:44Z" uid="53938" user="ctheile" changeset="3388364">
+    <member type="way" ref="42864407" role=""/>
+    <member type="way" ref="42864412" role=""/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Ndiéné Lagane"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="298753" version="4" timestamp="2009-12-16T17:54:27Z" uid="53938" user="ctheile" changeset="3388390">
+    <member type="way" ref="42864407" role=""/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Ndiéné Lagane"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="298754" version="3" timestamp="2009-12-08T18:17:47Z" uid="53938" user="ctheile" changeset="3326810">
+    <member type="way" ref="42864411" role=""/>
+    <member type="way" ref="42864410" role=""/>
+    <member type="way" ref="42864414" role=""/>
+    <member type="way" ref="42864541" role=""/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Mbar"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="298754" version="4" timestamp="2009-12-16T17:49:43Z" uid="53938" user="ctheile" changeset="3388364">
+    <member type="way" ref="42864410" role=""/>
+    <member type="way" ref="42864414" role=""/>
+    <member type="way" ref="42864541" role=""/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Mbar"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="298754" version="5" timestamp="2009-12-16T17:50:39Z" uid="53938" user="ctheile" changeset="3388370">
+    <member type="way" ref="42864410" role=""/>
+    <member type="way" ref="42864414" role=""/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Mbar"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="298755" version="2" timestamp="2009-12-08T18:17:47Z" uid="53938" user="ctheile" changeset="3326810">
+    <member type="way" ref="42864414" role=""/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Colobane"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="298759" version="4" timestamp="2009-11-04T12:04:17Z" uid="53938" user="ctheile" changeset="3032219">
+    <member type="way" ref="42864540" role=""/>
+    <member type="way" ref="42864575" role=""/>
+    <member type="way" ref="42864576" role=""/>
+    <member type="way" ref="42864541" role=""/>
+    <member type="node" ref="536540569" role=""/>
+    <member type="node" ref="536540553" role=""/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Ndiago"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="298759" version="5" timestamp="2009-12-16T17:50:39Z" uid="53938" user="ctheile" changeset="3388370">
+    <member type="way" ref="42864540" role=""/>
+    <member type="way" ref="42864575" role=""/>
+    <member type="way" ref="42864576" role=""/>
+    <member type="node" ref="536540569" role=""/>
+    <member type="node" ref="536540553" role=""/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Ndiago"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="298759" version="6" timestamp="2009-12-16T17:52:39Z" uid="53938" user="ctheile" changeset="3388374">
+    <member type="way" ref="46449118" role=""/>
+    <member type="way" ref="42864575" role=""/>
+    <member type="way" ref="42864576" role=""/>
+    <member type="node" ref="536540569" role=""/>
+    <member type="node" ref="536540553" role=""/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Ndiago"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="298759" version="7" timestamp="2009-12-16T18:05:35Z" uid="53938" user="ctheile" changeset="3388461">
+    <member type="way" ref="46449118" role=""/>
+    <member type="way" ref="42864575" role=""/>
+    <member type="node" ref="536540569" role=""/>
+    <member type="node" ref="536540553" role=""/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Ndiago"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="298762" version="4" timestamp="2009-12-16T18:01:43Z" uid="53938" user="ctheile" changeset="3388440">
+    <member type="way" ref="42864575" role=""/>
+    <member type="way" ref="42864574" role=""/>
+    <member type="way" ref="42865442" role=""/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Guinguinéo"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="298770" version="3" timestamp="2009-11-03T18:18:35Z" uid="53938" user="ctheile" changeset="3026886"/>
+  <relation id="298777" version="3" timestamp="2009-11-04T12:04:18Z" uid="53938" user="ctheile" changeset="3032219">
+    <member type="way" ref="42865081" role=""/>
+    <member type="way" ref="42865675" role=""/>
+    <member type="way" ref="42864574" role=""/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Ngathe Naoudé"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="298777" version="4" timestamp="2009-12-16T15:41:50Z" uid="53938" user="ctheile" changeset="3387522">
+    <member type="way" ref="42865081" role=""/>
+    <member type="way" ref="42864574" role=""/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Ngathe Naoudé"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="298784" version="3" timestamp="2009-11-03T18:18:34Z" uid="53938" user="ctheile" changeset="3026886"/>
+  <relation id="298792" version="3" timestamp="2009-11-03T18:18:35Z" uid="53938" user="ctheile" changeset="3026886"/>
+  <relation id="298794" version="2" timestamp="2009-11-03T18:18:35Z" uid="53938" user="ctheile" changeset="3026886"/>
+  <relation id="298833" version="2" timestamp="2009-12-09T14:20:35Z" uid="20587" user="balrog-kun" changeset="3333382"/>
+  <relation id="298863" version="1" timestamp="2009-10-20T14:50:30Z" uid="43863" user="Rundling" changeset="2903905">
+    <member type="way" ref="27115805" role="inner"/>
+    <member type="way" ref="25850089" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="298879" version="3" timestamp="2009-12-05T10:11:55Z" uid="20587" user="balrog-kun" changeset="3293969"/>
+  <relation id="298926" version="25" timestamp="2010-05-01T18:38:47Z" uid="9581" user="Lobelt" changeset="4578133">
+    <member type="node" ref="21412549" role="terminal"/>
+    <member type="way" ref="27276515" role=""/>
+    <member type="way" ref="24145203" role=""/>
+    <member type="way" ref="57730935" role=""/>
+    <member type="way" ref="57730923" role=""/>
+    <member type="way" ref="24145202" role=""/>
+    <member type="way" ref="24048120" role=""/>
+    <member type="way" ref="24048119" role=""/>
+    <member type="way" ref="4250454" role=""/>
+    <member type="node" ref="25436732" role="stop"/>
+    <member type="way" ref="4250672" role=""/>
+    <member type="way" ref="25339906" role=""/>
+    <member type="way" ref="4250671" role=""/>
+    <member type="way" ref="26961739" role=""/>
+    <member type="way" ref="26961741" role=""/>
+    <member type="way" ref="4250679" role=""/>
+    <member type="way" ref="25530096" role=""/>
+    <member type="way" ref="4250509" role=""/>
+    <member type="way" ref="29381388" role=""/>
+    <member type="way" ref="29381387" role=""/>
+    <member type="way" ref="24960952" role=""/>
+    <member type="way" ref="24583342" role=""/>
+    <member type="way" ref="23246718" role=""/>
+    <member type="way" ref="23246717" role=""/>
+    <member type="node" ref="25436271" role="halt"/>
+    <member type="way" ref="24245721" role=""/>
+    <member type="way" ref="24346207" role=""/>
+    <member type="way" ref="4359562" role=""/>
+    <member type="way" ref="23464538" role=""/>
+    <member type="way" ref="23464539" role=""/>
+    <member type="way" ref="34875350" role=""/>
+    <member type="way" ref="34875351" role=""/>
+    <member type="way" ref="23228303" role=""/>
+    <member type="way" ref="4251958" role=""/>
+    <member type="way" ref="4876927" role=""/>
+    <member type="way" ref="30323263" role=""/>
+    <member type="way" ref="22932371" role=""/>
+    <member type="way" ref="22932372" role=""/>
+    <member type="way" ref="4250766" role=""/>
+    <member type="way" ref="4525510" role=""/>
+    <member type="way" ref="4525509" role=""/>
+    <member type="way" ref="4231595" role=""/>
+    <member type="way" ref="22932538" role=""/>
+    <member type="way" ref="4250768" role=""/>
+    <member type="way" ref="40894238" role=""/>
+    <member type="way" ref="40894239" role=""/>
+    <member type="way" ref="42439965" role=""/>
+    <member type="way" ref="27276269" role=""/>
+    <member type="way" ref="55457805" role=""/>
+    <member type="node" ref="402589283" role="terminal"/>
+    <tag k="name" v="KBS 701 Heidelberg - Karlsruhe"/>
+    <tag k="network" v="DB"/>
+    <tag k="operator" v="Deutsche Bahn"/>
+    <tag k="ref" v="701"/>
+    <tag k="route" v="rail"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="298926" version="27" timestamp="2010-05-25T00:37:02Z" uid="6269" user="Mueck" changeset="4799840">
+    <member type="node" ref="21412549" role="terminal"/>
+    <member type="way" ref="27276515" role=""/>
+    <member type="way" ref="24145203" role=""/>
+    <member type="way" ref="57730935" role=""/>
+    <member type="way" ref="57730923" role=""/>
+    <member type="way" ref="24145202" role=""/>
+    <member type="way" ref="24048120" role=""/>
+    <member type="way" ref="24048119" role=""/>
+    <member type="way" ref="4250454" role=""/>
+    <member type="node" ref="25436732" role="stop"/>
+    <member type="way" ref="4250672" role=""/>
+    <member type="way" ref="25339906" role=""/>
+    <member type="way" ref="4250671" role=""/>
+    <member type="way" ref="26961739" role=""/>
+    <member type="way" ref="26961741" role=""/>
+    <member type="way" ref="4250679" role=""/>
+    <member type="way" ref="25530096" role=""/>
+    <member type="way" ref="4250509" role=""/>
+    <member type="way" ref="29381388" role=""/>
+    <member type="way" ref="29381387" role=""/>
+    <member type="way" ref="24960952" role=""/>
+    <member type="way" ref="24583342" role=""/>
+    <member type="way" ref="59584496" role=""/>
+    <member type="way" ref="23246718" role=""/>
+    <member type="way" ref="23246717" role=""/>
+    <member type="node" ref="25436271" role="halt"/>
+    <member type="way" ref="24245721" role=""/>
+    <member type="way" ref="24346207" role=""/>
+    <member type="way" ref="4359562" role=""/>
+    <member type="way" ref="23464538" role=""/>
+    <member type="way" ref="23464539" role=""/>
+    <member type="way" ref="34875350" role=""/>
+    <member type="way" ref="34875351" role=""/>
+    <member type="way" ref="23228303" role=""/>
+    <member type="way" ref="4251958" role=""/>
+    <member type="way" ref="4876927" role=""/>
+    <member type="way" ref="30323263" role=""/>
+    <member type="way" ref="22932371" role=""/>
+    <member type="way" ref="22932372" role=""/>
+    <member type="way" ref="4250766" role=""/>
+    <member type="way" ref="4525510" role=""/>
+    <member type="way" ref="4525509" role=""/>
+    <member type="way" ref="4231595" role=""/>
+    <member type="way" ref="22932538" role=""/>
+    <member type="way" ref="4250768" role=""/>
+    <member type="way" ref="40894238" role=""/>
+    <member type="way" ref="40894239" role=""/>
+    <member type="way" ref="42439965" role=""/>
+    <member type="way" ref="27276269" role=""/>
+    <member type="way" ref="55457805" role=""/>
+    <member type="node" ref="402589283" role="terminal"/>
+    <member type="way" ref="60186190" role=""/>
+    <tag k="name" v="KBS 701 Heidelberg - Karlsruhe"/>
+    <tag k="network" v="DB"/>
+    <tag k="operator" v="Deutsche Bahn"/>
+    <tag k="ref" v="701"/>
+    <tag k="route" v="rail"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="298926" version="29" timestamp="2010-07-08T20:00:37Z" uid="9581" user="Lobelt" changeset="5169001">
+    <member type="node" ref="21412549" role="terminal"/>
+    <member type="way" ref="27276515" role=""/>
+    <member type="way" ref="24145203" role=""/>
+    <member type="way" ref="57730935" role=""/>
+    <member type="way" ref="57730923" role=""/>
+    <member type="way" ref="24145202" role=""/>
+    <member type="way" ref="24048120" role=""/>
+    <member type="way" ref="24048119" role=""/>
+    <member type="node" ref="25436732" role="stop"/>
+    <member type="way" ref="25339906" role=""/>
+    <member type="way" ref="66756087" role=""/>
+    <member type="way" ref="66756156" role=""/>
+    <member type="way" ref="66756138" role=""/>
+    <member type="way" ref="66756157" role=""/>
+    <member type="way" ref="4250671" role=""/>
+    <member type="way" ref="26961739" role=""/>
+    <member type="way" ref="26961741" role=""/>
+    <member type="way" ref="4250679" role=""/>
+    <member type="way" ref="25530096" role=""/>
+    <member type="way" ref="4250509" role=""/>
+    <member type="way" ref="29381388" role=""/>
+    <member type="way" ref="29381387" role=""/>
+    <member type="way" ref="24960952" role=""/>
+    <member type="way" ref="24583342" role=""/>
+    <member type="way" ref="59584496" role=""/>
+    <member type="way" ref="23246718" role=""/>
+    <member type="way" ref="23246717" role=""/>
+    <member type="node" ref="25436271" role="halt"/>
+    <member type="way" ref="24245721" role=""/>
+    <member type="way" ref="24346207" role=""/>
+    <member type="way" ref="4359562" role=""/>
+    <member type="way" ref="23464538" role=""/>
+    <member type="way" ref="23464539" role=""/>
+    <member type="way" ref="34875350" role=""/>
+    <member type="way" ref="34875351" role=""/>
+    <member type="way" ref="23228303" role=""/>
+    <member type="way" ref="4251958" role=""/>
+    <member type="way" ref="4876927" role=""/>
+    <member type="way" ref="30323263" role=""/>
+    <member type="way" ref="22932371" role=""/>
+    <member type="way" ref="22932372" role=""/>
+    <member type="way" ref="4250766" role=""/>
+    <member type="way" ref="4525510" role=""/>
+    <member type="way" ref="4525509" role=""/>
+    <member type="way" ref="4231595" role=""/>
+    <member type="way" ref="22932538" role=""/>
+    <member type="way" ref="4250768" role=""/>
+    <member type="way" ref="40894238" role=""/>
+    <member type="way" ref="40894239" role=""/>
+    <member type="way" ref="42439965" role=""/>
+    <member type="way" ref="27276269" role=""/>
+    <member type="way" ref="55457805" role=""/>
+    <member type="node" ref="402589283" role="terminal"/>
+    <member type="way" ref="60186190" role=""/>
+    <tag k="name" v="KBS 701 Heidelberg - Karlsruhe"/>
+    <tag k="network" v="DB"/>
+    <tag k="operator" v="Deutsche Bahn"/>
+    <tag k="ref" v="701"/>
+    <tag k="route" v="rail"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="298926" version="31" timestamp="2010-08-24T19:11:18Z" uid="9581" user="Lobelt" changeset="5582938">
+    <member type="node" ref="21412549" role="terminal"/>
+    <member type="way" ref="27276515" role=""/>
+    <member type="way" ref="24145203" role=""/>
+    <member type="way" ref="57730935" role=""/>
+    <member type="way" ref="57730923" role=""/>
+    <member type="way" ref="24145202" role=""/>
+    <member type="way" ref="24048120" role=""/>
+    <member type="way" ref="24048119" role=""/>
+    <member type="node" ref="25436732" role="stop"/>
+    <member type="way" ref="25339906" role=""/>
+    <member type="way" ref="74196318" role=""/>
+    <member type="way" ref="74196310" role=""/>
+    <member type="way" ref="66756087" role=""/>
+    <member type="way" ref="66756156" role=""/>
+    <member type="way" ref="66756138" role=""/>
+    <member type="way" ref="66756157" role=""/>
+    <member type="way" ref="4250671" role=""/>
+    <member type="way" ref="26961739" role=""/>
+    <member type="way" ref="26961741" role=""/>
+    <member type="way" ref="4250679" role=""/>
+    <member type="way" ref="25530096" role=""/>
+    <member type="way" ref="4250509" role=""/>
+    <member type="way" ref="29381388" role=""/>
+    <member type="way" ref="29381387" role=""/>
+    <member type="way" ref="68456209" role=""/>
+    <member type="way" ref="24960952" role=""/>
+    <member type="way" ref="24583342" role=""/>
+    <member type="way" ref="59584496" role=""/>
+    <member type="way" ref="23246718" role=""/>
+    <member type="way" ref="23246717" role=""/>
+    <member type="node" ref="25436271" role="halt"/>
+    <member type="way" ref="24245721" role=""/>
+    <member type="way" ref="24346207" role=""/>
+    <member type="way" ref="4359562" role=""/>
+    <member type="way" ref="23464538" role=""/>
+    <member type="way" ref="23464539" role=""/>
+    <member type="way" ref="34875350" role=""/>
+    <member type="way" ref="34875351" role=""/>
+    <member type="way" ref="23228303" role=""/>
+    <member type="way" ref="4251958" role=""/>
+    <member type="way" ref="4876927" role=""/>
+    <member type="way" ref="30323263" role=""/>
+    <member type="way" ref="22932371" role=""/>
+    <member type="way" ref="22932372" role=""/>
+    <member type="way" ref="4250766" role=""/>
+    <member type="way" ref="4525510" role=""/>
+    <member type="way" ref="4525509" role=""/>
+    <member type="way" ref="4231595" role=""/>
+    <member type="way" ref="22932538" role=""/>
+    <member type="way" ref="4250768" role=""/>
+    <member type="way" ref="40894238" role=""/>
+    <member type="way" ref="40894239" role=""/>
+    <member type="way" ref="42439965" role=""/>
+    <member type="way" ref="27276269" role=""/>
+    <member type="way" ref="55457805" role=""/>
+    <member type="node" ref="402589283" role="terminal"/>
+    <member type="way" ref="60186190" role=""/>
+    <tag k="name" v="KBS 701 Heidelberg - Karlsruhe"/>
+    <tag k="network" v="DB"/>
+    <tag k="operator" v="Deutsche Bahn"/>
+    <tag k="ref" v="701"/>
+    <tag k="route" v="rail"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="298926" version="32" timestamp="2010-08-24T19:45:39Z" uid="9581" user="Lobelt" changeset="5583320">
+    <member type="node" ref="21412549" role="terminal"/>
+    <member type="way" ref="27276515" role=""/>
+    <member type="way" ref="24145203" role=""/>
+    <member type="way" ref="57730935" role=""/>
+    <member type="way" ref="57730923" role=""/>
+    <member type="way" ref="24145202" role=""/>
+    <member type="way" ref="24048120" role=""/>
+    <member type="way" ref="24048119" role=""/>
+    <member type="node" ref="25436732" role="stop"/>
+    <member type="way" ref="25339906" role=""/>
+    <member type="way" ref="74196318" role=""/>
+    <member type="way" ref="74196310" role=""/>
+    <member type="way" ref="66756087" role=""/>
+    <member type="way" ref="66756156" role=""/>
+    <member type="way" ref="66756138" role=""/>
+    <member type="way" ref="66756157" role=""/>
+    <member type="way" ref="4250671" role=""/>
+    <member type="way" ref="26961739" role=""/>
+    <member type="way" ref="26961741" role=""/>
+    <member type="way" ref="4250679" role=""/>
+    <member type="way" ref="25530096" role=""/>
+    <member type="way" ref="4250509" role=""/>
+    <member type="way" ref="29381388" role=""/>
+    <member type="way" ref="68456209" role=""/>
+    <member type="way" ref="74200406" role=""/>
+    <member type="way" ref="74200410" role=""/>
+    <member type="way" ref="24960952" role=""/>
+    <member type="way" ref="24583342" role=""/>
+    <member type="way" ref="59584496" role=""/>
+    <member type="way" ref="23246718" role=""/>
+    <member type="way" ref="23246717" role=""/>
+    <member type="node" ref="25436271" role="halt"/>
+    <member type="way" ref="24245721" role=""/>
+    <member type="way" ref="24346207" role=""/>
+    <member type="way" ref="4359562" role=""/>
+    <member type="way" ref="23464538" role=""/>
+    <member type="way" ref="23464539" role=""/>
+    <member type="way" ref="34875350" role=""/>
+    <member type="way" ref="34875351" role=""/>
+    <member type="way" ref="23228303" role=""/>
+    <member type="way" ref="4251958" role=""/>
+    <member type="way" ref="4876927" role=""/>
+    <member type="way" ref="30323263" role=""/>
+    <member type="way" ref="22932371" role=""/>
+    <member type="way" ref="22932372" role=""/>
+    <member type="way" ref="4250766" role=""/>
+    <member type="way" ref="4525510" role=""/>
+    <member type="way" ref="4525509" role=""/>
+    <member type="way" ref="4231595" role=""/>
+    <member type="way" ref="22932538" role=""/>
+    <member type="way" ref="4250768" role=""/>
+    <member type="way" ref="40894238" role=""/>
+    <member type="way" ref="40894239" role=""/>
+    <member type="way" ref="42439965" role=""/>
+    <member type="way" ref="27276269" role=""/>
+    <member type="way" ref="55457805" role=""/>
+    <member type="node" ref="402589283" role="terminal"/>
+    <member type="way" ref="60186190" role=""/>
+    <tag k="name" v="KBS 701 Heidelberg - Karlsruhe"/>
+    <tag k="network" v="DB"/>
+    <tag k="operator" v="Deutsche Bahn"/>
+    <tag k="ref" v="701"/>
+    <tag k="route" v="rail"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="298926" version="34" timestamp="2010-12-01T13:14:42Z" uid="6269" user="Mueck" changeset="6503521">
+    <member type="node" ref="21412549" role="terminal"/>
+    <member type="way" ref="27276515" role=""/>
+    <member type="way" ref="24145203" role=""/>
+    <member type="way" ref="57730935" role=""/>
+    <member type="way" ref="57730923" role=""/>
+    <member type="way" ref="24145202" role=""/>
+    <member type="way" ref="24048120" role=""/>
+    <member type="way" ref="24048119" role=""/>
+    <member type="node" ref="25436732" role="stop"/>
+    <member type="way" ref="25339906" role=""/>
+    <member type="way" ref="74196318" role=""/>
+    <member type="way" ref="74196310" role=""/>
+    <member type="way" ref="66756087" role=""/>
+    <member type="way" ref="66756156" role=""/>
+    <member type="way" ref="66756138" role=""/>
+    <member type="way" ref="66756157" role=""/>
+    <member type="way" ref="4250671" role=""/>
+    <member type="way" ref="26961739" role=""/>
+    <member type="way" ref="26961741" role=""/>
+    <member type="way" ref="4250679" role=""/>
+    <member type="way" ref="25530096" role=""/>
+    <member type="way" ref="4250509" role=""/>
+    <member type="way" ref="29381388" role=""/>
+    <member type="way" ref="68456209" role=""/>
+    <member type="way" ref="74200406" role=""/>
+    <member type="way" ref="74200410" role=""/>
+    <member type="way" ref="24960952" role=""/>
+    <member type="way" ref="24583342" role=""/>
+    <member type="way" ref="59584496" role=""/>
+    <member type="way" ref="23246718" role=""/>
+    <member type="way" ref="23246717" role=""/>
+    <member type="node" ref="25436271" role="halt"/>
+    <member type="way" ref="24245721" role=""/>
+    <member type="way" ref="24346207" role=""/>
+    <member type="way" ref="4359562" role=""/>
+    <member type="way" ref="23464538" role=""/>
+    <member type="way" ref="23464539" role=""/>
+    <member type="way" ref="34875350" role=""/>
+    <member type="way" ref="34875351" role=""/>
+    <member type="way" ref="23228303" role=""/>
+    <member type="way" ref="4251958" role=""/>
+    <member type="way" ref="4876927" role=""/>
+    <member type="way" ref="30323263" role=""/>
+    <member type="way" ref="22932371" role=""/>
+    <member type="way" ref="22932372" role=""/>
+    <member type="way" ref="4250766" role=""/>
+    <member type="way" ref="4525510" role=""/>
+    <member type="way" ref="4525509" role=""/>
+    <member type="way" ref="4231595" role=""/>
+    <member type="way" ref="22932538" role=""/>
+    <member type="way" ref="4250768" role=""/>
+    <member type="way" ref="40894238" role=""/>
+    <member type="way" ref="40894239" role=""/>
+    <member type="way" ref="42439965" role=""/>
+    <member type="way" ref="27276269" role=""/>
+    <member type="way" ref="55457805" role=""/>
+    <member type="node" ref="402589283" role="terminal"/>
+    <member type="way" ref="60186190" role=""/>
+    <member type="way" ref="56810828" role=""/>
+    <tag k="name" v="KBS 701 Heidelberg - Karlsruhe"/>
+    <tag k="network" v="DB"/>
+    <tag k="operator" v="Deutsche Bahn"/>
+    <tag k="ref" v="701"/>
+    <tag k="route" v="rail"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="298926" version="35" timestamp="2010-12-01T13:29:30Z" uid="6269" user="Mueck" changeset="6503521">
+    <member type="node" ref="21412549" role="terminal"/>
+    <member type="way" ref="27276515" role=""/>
+    <member type="way" ref="24145203" role=""/>
+    <member type="way" ref="57730935" role=""/>
+    <member type="way" ref="57730923" role=""/>
+    <member type="way" ref="24145202" role=""/>
+    <member type="way" ref="24048120" role=""/>
+    <member type="way" ref="24048119" role=""/>
+    <member type="node" ref="25436732" role="stop"/>
+    <member type="way" ref="25339906" role=""/>
+    <member type="way" ref="74196318" role=""/>
+    <member type="way" ref="74196310" role=""/>
+    <member type="way" ref="66756087" role=""/>
+    <member type="way" ref="66756156" role=""/>
+    <member type="way" ref="66756138" role=""/>
+    <member type="way" ref="66756157" role=""/>
+    <member type="way" ref="4250671" role=""/>
+    <member type="way" ref="26961739" role=""/>
+    <member type="way" ref="26961741" role=""/>
+    <member type="way" ref="4250679" role=""/>
+    <member type="way" ref="25530096" role=""/>
+    <member type="way" ref="4250509" role=""/>
+    <member type="way" ref="29381388" role=""/>
+    <member type="way" ref="68456209" role=""/>
+    <member type="way" ref="74200406" role=""/>
+    <member type="way" ref="74200410" role=""/>
+    <member type="way" ref="24960952" role=""/>
+    <member type="way" ref="24583342" role=""/>
+    <member type="way" ref="59584496" role=""/>
+    <member type="way" ref="23246718" role=""/>
+    <member type="way" ref="23246717" role=""/>
+    <member type="node" ref="25436271" role="halt"/>
+    <member type="way" ref="24245721" role=""/>
+    <member type="way" ref="24346207" role=""/>
+    <member type="way" ref="4359562" role=""/>
+    <member type="way" ref="23464538" role=""/>
+    <member type="way" ref="23464539" role=""/>
+    <member type="way" ref="34875350" role=""/>
+    <member type="way" ref="34875351" role=""/>
+    <member type="way" ref="23228303" role=""/>
+    <member type="way" ref="4251958" role=""/>
+    <member type="way" ref="4876927" role=""/>
+    <member type="way" ref="30323263" role=""/>
+    <member type="way" ref="22932371" role=""/>
+    <member type="way" ref="22932372" role=""/>
+    <member type="way" ref="4250766" role=""/>
+    <member type="way" ref="4525510" role=""/>
+    <member type="way" ref="4525509" role=""/>
+    <member type="way" ref="4231595" role=""/>
+    <member type="way" ref="22932538" role=""/>
+    <member type="way" ref="4250768" role=""/>
+    <member type="way" ref="40894238" role=""/>
+    <member type="way" ref="40894239" role=""/>
+    <member type="way" ref="42439965" role=""/>
+    <member type="way" ref="27276269" role=""/>
+    <member type="way" ref="55457805" role=""/>
+    <member type="node" ref="402589283" role="terminal"/>
+    <member type="way" ref="60186190" role=""/>
+    <tag k="name" v="KBS 701 Heidelberg - Karlsruhe"/>
+    <tag k="network" v="DB"/>
+    <tag k="operator" v="Deutsche Bahn"/>
+    <tag k="ref" v="701"/>
+    <tag k="route" v="rail"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="298926" version="36" timestamp="2010-12-01T15:05:51Z" uid="6269" user="Mueck" changeset="6503972">
+    <member type="node" ref="21412549" role="terminal"/>
+    <member type="way" ref="27276515" role=""/>
+    <member type="way" ref="24145203" role=""/>
+    <member type="way" ref="57730935" role=""/>
+    <member type="way" ref="57730923" role=""/>
+    <member type="way" ref="24145202" role=""/>
+    <member type="way" ref="24048120" role=""/>
+    <member type="way" ref="24048119" role=""/>
+    <member type="node" ref="25436732" role="stop"/>
+    <member type="way" ref="25339906" role=""/>
+    <member type="way" ref="74196318" role=""/>
+    <member type="way" ref="74196310" role=""/>
+    <member type="way" ref="66756087" role=""/>
+    <member type="way" ref="66756156" role=""/>
+    <member type="way" ref="66756138" role=""/>
+    <member type="way" ref="66756157" role=""/>
+    <member type="way" ref="4250671" role=""/>
+    <member type="way" ref="26961739" role=""/>
+    <member type="way" ref="26961741" role=""/>
+    <member type="way" ref="4250679" role=""/>
+    <member type="way" ref="25530096" role=""/>
+    <member type="way" ref="4250509" role=""/>
+    <member type="way" ref="29381388" role=""/>
+    <member type="way" ref="68456209" role=""/>
+    <member type="way" ref="74200406" role=""/>
+    <member type="way" ref="74200410" role=""/>
+    <member type="way" ref="24960952" role=""/>
+    <member type="way" ref="24583342" role=""/>
+    <member type="way" ref="59584496" role=""/>
+    <member type="way" ref="23246718" role=""/>
+    <member type="way" ref="23246717" role=""/>
+    <member type="node" ref="25436271" role="halt"/>
+    <member type="way" ref="24245721" role=""/>
+    <member type="way" ref="24346207" role=""/>
+    <member type="way" ref="4359562" role=""/>
+    <member type="way" ref="23464538" role=""/>
+    <member type="way" ref="23464539" role=""/>
+    <member type="way" ref="34875350" role=""/>
+    <member type="way" ref="34875351" role=""/>
+    <member type="way" ref="23228303" role=""/>
+    <member type="way" ref="4251958" role=""/>
+    <member type="way" ref="4876927" role=""/>
+    <member type="way" ref="30323263" role=""/>
+    <member type="way" ref="22932371" role=""/>
+    <member type="way" ref="22932372" role=""/>
+    <member type="way" ref="4250766" role=""/>
+    <member type="way" ref="4525510" role=""/>
+    <member type="way" ref="4525509" role=""/>
+    <member type="way" ref="4231595" role=""/>
+    <member type="way" ref="4250768" role=""/>
+    <member type="way" ref="40894238" role=""/>
+    <member type="way" ref="40894239" role=""/>
+    <member type="way" ref="42439965" role=""/>
+    <member type="way" ref="27276269" role=""/>
+    <member type="way" ref="55457805" role=""/>
+    <member type="node" ref="402589283" role="terminal"/>
+    <member type="way" ref="60186190" role=""/>
+    <tag k="name" v="KBS 701 Heidelberg - Karlsruhe"/>
+    <tag k="network" v="DB"/>
+    <tag k="operator" v="Deutsche Bahn"/>
+    <tag k="ref" v="701"/>
+    <tag k="route" v="rail"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="298926" version="37" timestamp="2010-12-01T15:52:14Z" uid="6269" user="Mueck" changeset="6503972">
+    <member type="node" ref="21412549" role="terminal"/>
+    <member type="way" ref="27276515" role=""/>
+    <member type="way" ref="24145203" role=""/>
+    <member type="way" ref="57730935" role=""/>
+    <member type="way" ref="57730923" role=""/>
+    <member type="way" ref="24145202" role=""/>
+    <member type="way" ref="24048120" role=""/>
+    <member type="way" ref="24048119" role=""/>
+    <member type="node" ref="25436732" role="stop"/>
+    <member type="way" ref="25339906" role=""/>
+    <member type="way" ref="74196318" role=""/>
+    <member type="way" ref="74196310" role=""/>
+    <member type="way" ref="66756087" role=""/>
+    <member type="way" ref="66756156" role=""/>
+    <member type="way" ref="66756138" role=""/>
+    <member type="way" ref="66756157" role=""/>
+    <member type="way" ref="4250671" role=""/>
+    <member type="way" ref="26961739" role=""/>
+    <member type="way" ref="26961741" role=""/>
+    <member type="way" ref="4250679" role=""/>
+    <member type="way" ref="25530096" role=""/>
+    <member type="way" ref="4250509" role=""/>
+    <member type="way" ref="29381388" role=""/>
+    <member type="way" ref="68456209" role=""/>
+    <member type="way" ref="74200406" role=""/>
+    <member type="way" ref="74200410" role=""/>
+    <member type="way" ref="24960952" role=""/>
+    <member type="way" ref="24583342" role=""/>
+    <member type="way" ref="59584496" role=""/>
+    <member type="way" ref="23246718" role=""/>
+    <member type="way" ref="23246717" role=""/>
+    <member type="node" ref="25436271" role="halt"/>
+    <member type="way" ref="24245721" role=""/>
+    <member type="way" ref="24346207" role=""/>
+    <member type="way" ref="4359562" role=""/>
+    <member type="way" ref="23464538" role=""/>
+    <member type="way" ref="23464539" role=""/>
+    <member type="way" ref="34875350" role=""/>
+    <member type="way" ref="34875351" role=""/>
+    <member type="way" ref="23228303" role=""/>
+    <member type="way" ref="4251958" role=""/>
+    <member type="way" ref="4876927" role=""/>
+    <member type="way" ref="30323263" role=""/>
+    <member type="way" ref="22932371" role=""/>
+    <member type="way" ref="22932372" role=""/>
+    <member type="way" ref="4250766" role=""/>
+    <member type="way" ref="4525510" role=""/>
+    <member type="way" ref="4525509" role=""/>
+    <member type="way" ref="4231595" role=""/>
+    <member type="way" ref="4250768" role=""/>
+    <member type="way" ref="40894238" role=""/>
+    <member type="way" ref="40894239" role=""/>
+    <member type="way" ref="27276269" role=""/>
+    <member type="way" ref="55457805" role=""/>
+    <member type="node" ref="402589283" role="terminal"/>
+    <member type="way" ref="60186190" role=""/>
+    <tag k="name" v="KBS 701 Heidelberg - Karlsruhe"/>
+    <tag k="network" v="DB"/>
+    <tag k="operator" v="Deutsche Bahn"/>
+    <tag k="ref" v="701"/>
+    <tag k="route" v="rail"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="298926" version="38" timestamp="2010-12-01T20:38:42Z" uid="6269" user="Mueck" changeset="6508237">
+    <member type="node" ref="21412549" role="terminal"/>
+    <member type="way" ref="27276515" role=""/>
+    <member type="way" ref="24145203" role=""/>
+    <member type="way" ref="57730935" role=""/>
+    <member type="way" ref="57730923" role=""/>
+    <member type="way" ref="24145202" role=""/>
+    <member type="way" ref="24048120" role=""/>
+    <member type="way" ref="24048119" role=""/>
+    <member type="node" ref="25436732" role="stop"/>
+    <member type="way" ref="25339906" role=""/>
+    <member type="way" ref="74196318" role=""/>
+    <member type="way" ref="74196310" role=""/>
+    <member type="way" ref="66756087" role=""/>
+    <member type="way" ref="66756156" role=""/>
+    <member type="way" ref="66756138" role=""/>
+    <member type="way" ref="66756157" role=""/>
+    <member type="way" ref="4250671" role=""/>
+    <member type="way" ref="26961739" role=""/>
+    <member type="way" ref="26961741" role=""/>
+    <member type="way" ref="4250679" role=""/>
+    <member type="way" ref="25530096" role=""/>
+    <member type="way" ref="4250509" role=""/>
+    <member type="way" ref="29381388" role=""/>
+    <member type="way" ref="68456209" role=""/>
+    <member type="way" ref="74200406" role=""/>
+    <member type="way" ref="74200410" role=""/>
+    <member type="way" ref="24960952" role=""/>
+    <member type="way" ref="24583342" role=""/>
+    <member type="way" ref="59584496" role=""/>
+    <member type="way" ref="23246718" role=""/>
+    <member type="way" ref="23246717" role=""/>
+    <member type="node" ref="25436271" role="halt"/>
+    <member type="way" ref="24245721" role=""/>
+    <member type="way" ref="24346207" role=""/>
+    <member type="way" ref="4359562" role=""/>
+    <member type="way" ref="23464538" role=""/>
+    <member type="way" ref="23464539" role=""/>
+    <member type="way" ref="34875350" role=""/>
+    <member type="way" ref="34875351" role=""/>
+    <member type="way" ref="23228303" role=""/>
+    <member type="way" ref="4251958" role=""/>
+    <member type="way" ref="4876927" role=""/>
+    <member type="way" ref="30323263" role=""/>
+    <member type="way" ref="22932371" role=""/>
+    <member type="way" ref="22932372" role=""/>
+    <member type="way" ref="4250766" role=""/>
+    <member type="way" ref="4525510" role=""/>
+    <member type="way" ref="4525509" role=""/>
+    <member type="way" ref="4231595" role=""/>
+    <member type="way" ref="4250768" role=""/>
+    <member type="way" ref="87296576" role=""/>
+    <member type="way" ref="40894238" role=""/>
+    <member type="way" ref="40894239" role=""/>
+    <member type="way" ref="27276269" role=""/>
+    <member type="way" ref="55457805" role=""/>
+    <member type="node" ref="402589283" role="terminal"/>
+    <member type="way" ref="60186190" role=""/>
+    <tag k="name" v="KBS 701 Heidelberg - Karlsruhe"/>
+    <tag k="network" v="DB"/>
+    <tag k="operator" v="Deutsche Bahn"/>
+    <tag k="ref" v="701"/>
+    <tag k="route" v="rail"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="298926" version="41" timestamp="2011-02-27T00:31:12Z" uid="6269" user="Mueck" changeset="7406074">
+    <member type="node" ref="21412549" role="terminal"/>
+    <member type="way" ref="27276515" role=""/>
+    <member type="way" ref="24145203" role=""/>
+    <member type="way" ref="57730935" role=""/>
+    <member type="way" ref="57730923" role=""/>
+    <member type="way" ref="24145202" role=""/>
+    <member type="way" ref="24048120" role=""/>
+    <member type="way" ref="24048119" role=""/>
+    <member type="node" ref="25436732" role="stop"/>
+    <member type="way" ref="25339906" role=""/>
+    <member type="way" ref="74196318" role=""/>
+    <member type="way" ref="74196310" role=""/>
+    <member type="way" ref="66756087" role=""/>
+    <member type="way" ref="66756156" role=""/>
+    <member type="way" ref="66756138" role=""/>
+    <member type="way" ref="66756157" role=""/>
+    <member type="way" ref="4250671" role=""/>
+    <member type="way" ref="26961739" role=""/>
+    <member type="way" ref="26961741" role=""/>
+    <member type="way" ref="4250679" role=""/>
+    <member type="way" ref="25530096" role=""/>
+    <member type="way" ref="4250509" role=""/>
+    <member type="way" ref="29381388" role=""/>
+    <member type="way" ref="68456209" role=""/>
+    <member type="way" ref="74200406" role=""/>
+    <member type="way" ref="74200410" role=""/>
+    <member type="way" ref="24960952" role=""/>
+    <member type="way" ref="24583342" role=""/>
+    <member type="way" ref="59584496" role=""/>
+    <member type="way" ref="23246718" role=""/>
+    <member type="way" ref="23246717" role=""/>
+    <member type="node" ref="25436271" role="halt"/>
+    <member type="way" ref="24245721" role=""/>
+    <member type="way" ref="24346207" role=""/>
+    <member type="way" ref="4359562" role=""/>
+    <member type="way" ref="23464538" role=""/>
+    <member type="way" ref="23464539" role=""/>
+    <member type="way" ref="34875350" role=""/>
+    <member type="way" ref="34875351" role=""/>
+    <member type="way" ref="4251958" role=""/>
+    <member type="way" ref="4876927" role=""/>
+    <member type="way" ref="30323263" role=""/>
+    <member type="way" ref="22932371" role=""/>
+    <member type="way" ref="22932372" role=""/>
+    <member type="way" ref="4250766" role=""/>
+    <member type="way" ref="4525510" role=""/>
+    <member type="way" ref="87772784" role=""/>
+    <member type="way" ref="4231595" role=""/>
+    <member type="way" ref="4250768" role=""/>
+    <member type="way" ref="87296576" role=""/>
+    <member type="way" ref="40894238" role=""/>
+    <member type="way" ref="40894239" role=""/>
+    <member type="way" ref="27276269" role=""/>
+    <member type="way" ref="55457805" role=""/>
+    <member type="node" ref="402589283" role="terminal"/>
+    <member type="way" ref="60186190" role=""/>
+    <tag k="name" v="KBS 701 Heidelberg - Karlsruhe"/>
+    <tag k="network" v="DB"/>
+    <tag k="operator" v="Deutsche Bahn"/>
+    <tag k="ref" v="701"/>
+    <tag k="route" v="rail"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="298926" version="42" timestamp="2011-02-28T00:20:18Z" uid="6269" user="Mueck" changeset="7416756">
+    <member type="node" ref="21412549" role="terminal"/>
+    <member type="way" ref="27276515" role=""/>
+    <member type="way" ref="24145203" role=""/>
+    <member type="way" ref="57730935" role=""/>
+    <member type="way" ref="57730923" role=""/>
+    <member type="way" ref="24145202" role=""/>
+    <member type="way" ref="24048120" role=""/>
+    <member type="way" ref="24048119" role=""/>
+    <member type="node" ref="25436732" role="stop"/>
+    <member type="way" ref="25339906" role=""/>
+    <member type="way" ref="74196318" role=""/>
+    <member type="way" ref="74196310" role=""/>
+    <member type="way" ref="66756087" role=""/>
+    <member type="way" ref="66756156" role=""/>
+    <member type="way" ref="66756138" role=""/>
+    <member type="way" ref="66756157" role=""/>
+    <member type="way" ref="4250671" role=""/>
+    <member type="way" ref="26961739" role=""/>
+    <member type="way" ref="26961741" role=""/>
+    <member type="way" ref="4250679" role=""/>
+    <member type="way" ref="25530096" role=""/>
+    <member type="way" ref="4250509" role=""/>
+    <member type="way" ref="29381388" role=""/>
+    <member type="way" ref="68456209" role=""/>
+    <member type="way" ref="74200406" role=""/>
+    <member type="way" ref="74200410" role=""/>
+    <member type="way" ref="24960952" role=""/>
+    <member type="way" ref="24583342" role=""/>
+    <member type="way" ref="59584496" role=""/>
+    <member type="way" ref="23246718" role=""/>
+    <member type="way" ref="23246717" role=""/>
+    <member type="node" ref="25436271" role="halt"/>
+    <member type="way" ref="24245721" role=""/>
+    <member type="way" ref="24346207" role=""/>
+    <member type="way" ref="4359562" role=""/>
+    <member type="way" ref="23464538" role=""/>
+    <member type="way" ref="23464539" role=""/>
+    <member type="way" ref="34875350" role=""/>
+    <member type="way" ref="34875351" role=""/>
+    <member type="way" ref="4251958" role=""/>
+    <member type="way" ref="4876927" role=""/>
+    <member type="way" ref="102079915" role=""/>
+    <member type="way" ref="102079898" role=""/>
+    <member type="way" ref="22932371" role=""/>
+    <member type="way" ref="22932372" role=""/>
+    <member type="way" ref="4250766" role=""/>
+    <member type="way" ref="4525510" role=""/>
+    <member type="way" ref="87772784" role=""/>
+    <member type="way" ref="4231595" role=""/>
+    <member type="way" ref="4250768" role=""/>
+    <member type="way" ref="87296576" role=""/>
+    <member type="way" ref="40894238" role=""/>
+    <member type="way" ref="40894239" role=""/>
+    <member type="way" ref="27276269" role=""/>
+    <member type="way" ref="55457805" role=""/>
+    <member type="node" ref="402589283" role="terminal"/>
+    <member type="way" ref="60186190" role=""/>
+    <tag k="name" v="KBS 701 Heidelberg - Karlsruhe"/>
+    <tag k="network" v="DB"/>
+    <tag k="operator" v="Deutsche Bahn"/>
+    <tag k="ref" v="701"/>
+    <tag k="route" v="rail"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="298926" version="43" timestamp="2011-02-28T18:19:32Z" uid="6269" user="Mueck" changeset="7422830">
+    <member type="node" ref="21412549" role="terminal"/>
+    <member type="way" ref="27276515" role=""/>
+    <member type="way" ref="24145203" role=""/>
+    <member type="way" ref="57730935" role=""/>
+    <member type="way" ref="57730923" role=""/>
+    <member type="way" ref="24145202" role=""/>
+    <member type="way" ref="24048120" role=""/>
+    <member type="way" ref="24048119" role=""/>
+    <member type="node" ref="25436732" role="stop"/>
+    <member type="way" ref="25339906" role=""/>
+    <member type="way" ref="74196318" role=""/>
+    <member type="way" ref="74196310" role=""/>
+    <member type="way" ref="66756087" role=""/>
+    <member type="way" ref="66756156" role=""/>
+    <member type="way" ref="66756138" role=""/>
+    <member type="way" ref="66756157" role=""/>
+    <member type="way" ref="4250671" role=""/>
+    <member type="way" ref="26961739" role=""/>
+    <member type="way" ref="26961741" role=""/>
+    <member type="way" ref="4250679" role=""/>
+    <member type="way" ref="25530096" role=""/>
+    <member type="way" ref="4250509" role=""/>
+    <member type="way" ref="29381388" role=""/>
+    <member type="way" ref="68456209" role=""/>
+    <member type="way" ref="74200406" role=""/>
+    <member type="way" ref="74200410" role=""/>
+    <member type="way" ref="24960952" role=""/>
+    <member type="way" ref="24583342" role=""/>
+    <member type="way" ref="59584496" role=""/>
+    <member type="way" ref="23246718" role=""/>
+    <member type="way" ref="23246717" role=""/>
+    <member type="node" ref="25436271" role="halt"/>
+    <member type="way" ref="24245721" role=""/>
+    <member type="way" ref="24346207" role=""/>
+    <member type="way" ref="4359562" role=""/>
+    <member type="way" ref="23464538" role=""/>
+    <member type="way" ref="23464539" role=""/>
+    <member type="way" ref="34875350" role=""/>
+    <member type="way" ref="34875351" role=""/>
+    <member type="way" ref="4251958" role=""/>
+    <member type="way" ref="4876927" role=""/>
+    <member type="way" ref="102079915" role=""/>
+    <member type="way" ref="102079898" role=""/>
+    <member type="way" ref="22932371" role=""/>
+    <member type="way" ref="22932372" role=""/>
+    <member type="way" ref="4250766" role=""/>
+    <member type="way" ref="4525510" role=""/>
+    <member type="way" ref="87772784" role=""/>
+    <member type="way" ref="4231595" role=""/>
+    <member type="way" ref="4250768" role=""/>
+    <member type="way" ref="87296576" role=""/>
+    <member type="way" ref="40894238" role=""/>
+    <member type="way" ref="40894239" role=""/>
+    <member type="way" ref="27276269" role=""/>
+    <member type="way" ref="55457805" role=""/>
+    <member type="node" ref="402589283" role="terminal"/>
+    <tag k="name" v="KBS 701 Heidelberg - Karlsruhe"/>
+    <tag k="network" v="DB"/>
+    <tag k="operator" v="Deutsche Bahn"/>
+    <tag k="ref" v="701"/>
+    <tag k="route" v="rail"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="298926" version="44" timestamp="2011-03-04T18:54:25Z" uid="6269" user="Mueck" changeset="7456921">
+    <member type="node" ref="21412549" role="terminal"/>
+    <member type="way" ref="27276515" role=""/>
+    <member type="way" ref="24145203" role=""/>
+    <member type="way" ref="57730935" role=""/>
+    <member type="way" ref="57730923" role=""/>
+    <member type="way" ref="24145202" role=""/>
+    <member type="way" ref="24048120" role=""/>
+    <member type="way" ref="24048119" role=""/>
+    <member type="node" ref="25436732" role="stop"/>
+    <member type="way" ref="25339906" role=""/>
+    <member type="way" ref="74196318" role=""/>
+    <member type="way" ref="74196310" role=""/>
+    <member type="way" ref="66756087" role=""/>
+    <member type="way" ref="66756156" role=""/>
+    <member type="way" ref="66756138" role=""/>
+    <member type="way" ref="66756157" role=""/>
+    <member type="way" ref="4250671" role=""/>
+    <member type="way" ref="26961739" role=""/>
+    <member type="way" ref="26961741" role=""/>
+    <member type="way" ref="4250679" role=""/>
+    <member type="way" ref="25530096" role=""/>
+    <member type="way" ref="4250509" role=""/>
+    <member type="way" ref="29381388" role=""/>
+    <member type="way" ref="68456209" role=""/>
+    <member type="way" ref="74200406" role=""/>
+    <member type="way" ref="74200410" role=""/>
+    <member type="way" ref="24960952" role=""/>
+    <member type="way" ref="24583342" role=""/>
+    <member type="way" ref="59584496" role=""/>
+    <member type="way" ref="23246718" role=""/>
+    <member type="way" ref="23246717" role=""/>
+    <member type="node" ref="25436271" role="halt"/>
+    <member type="way" ref="24245721" role=""/>
+    <member type="way" ref="24346207" role=""/>
+    <member type="way" ref="4359562" role=""/>
+    <member type="way" ref="23464538" role=""/>
+    <member type="way" ref="23464539" role=""/>
+    <member type="way" ref="34875350" role=""/>
+    <member type="way" ref="34875351" role=""/>
+    <member type="way" ref="4251958" role=""/>
+    <member type="way" ref="4876927" role=""/>
+    <member type="way" ref="102079915" role=""/>
+    <member type="way" ref="102079898" role=""/>
+    <member type="way" ref="22932371" role=""/>
+    <member type="way" ref="22932372" role=""/>
+    <member type="way" ref="4250766" role=""/>
+    <member type="way" ref="4525510" role=""/>
+    <member type="way" ref="87772784" role=""/>
+    <member type="way" ref="4231595" role=""/>
+    <member type="way" ref="4250768" role=""/>
+    <member type="way" ref="40894238" role=""/>
+    <member type="way" ref="40894239" role=""/>
+    <member type="way" ref="27276269" role=""/>
+    <member type="way" ref="55457805" role=""/>
+    <member type="node" ref="402589283" role="terminal"/>
+    <tag k="name" v="KBS 701 Heidelberg - Karlsruhe"/>
+    <tag k="network" v="DB"/>
+    <tag k="operator" v="Deutsche Bahn"/>
+    <tag k="ref" v="701"/>
+    <tag k="route" v="rail"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="298926" version="45" timestamp="2011-03-04T19:19:59Z" uid="6269" user="Mueck" changeset="7456921">
+    <member type="node" ref="21412549" role="terminal"/>
+    <member type="way" ref="27276515" role=""/>
+    <member type="way" ref="24145203" role=""/>
+    <member type="way" ref="57730935" role=""/>
+    <member type="way" ref="57730923" role=""/>
+    <member type="way" ref="24145202" role=""/>
+    <member type="way" ref="24048120" role=""/>
+    <member type="way" ref="24048119" role=""/>
+    <member type="node" ref="25436732" role="stop"/>
+    <member type="way" ref="25339906" role=""/>
+    <member type="way" ref="74196318" role=""/>
+    <member type="way" ref="74196310" role=""/>
+    <member type="way" ref="66756087" role=""/>
+    <member type="way" ref="66756156" role=""/>
+    <member type="way" ref="66756138" role=""/>
+    <member type="way" ref="66756157" role=""/>
+    <member type="way" ref="4250671" role=""/>
+    <member type="way" ref="26961739" role=""/>
+    <member type="way" ref="26961741" role=""/>
+    <member type="way" ref="4250679" role=""/>
+    <member type="way" ref="25530096" role=""/>
+    <member type="way" ref="4250509" role=""/>
+    <member type="way" ref="29381388" role=""/>
+    <member type="way" ref="68456209" role=""/>
+    <member type="way" ref="74200406" role=""/>
+    <member type="way" ref="74200410" role=""/>
+    <member type="way" ref="24960952" role=""/>
+    <member type="way" ref="24583342" role=""/>
+    <member type="way" ref="59584496" role=""/>
+    <member type="way" ref="23246718" role=""/>
+    <member type="way" ref="23246717" role=""/>
+    <member type="node" ref="25436271" role="halt"/>
+    <member type="way" ref="24245721" role=""/>
+    <member type="way" ref="24346207" role=""/>
+    <member type="way" ref="4359562" role=""/>
+    <member type="way" ref="23464538" role=""/>
+    <member type="way" ref="23464539" role=""/>
+    <member type="way" ref="34875350" role=""/>
+    <member type="way" ref="34875351" role=""/>
+    <member type="way" ref="4251958" role=""/>
+    <member type="way" ref="4876927" role=""/>
+    <member type="way" ref="102079915" role=""/>
+    <member type="way" ref="102079898" role=""/>
+    <member type="way" ref="22932371" role=""/>
+    <member type="way" ref="22932372" role=""/>
+    <member type="way" ref="4250766" role=""/>
+    <member type="way" ref="4525510" role=""/>
+    <member type="way" ref="87772784" role=""/>
+    <member type="way" ref="4231595" role=""/>
+    <member type="way" ref="4250768" role=""/>
+    <member type="way" ref="102708313" role=""/>
+    <member type="way" ref="40894238" role=""/>
+    <member type="way" ref="40894239" role=""/>
+    <member type="way" ref="27276269" role=""/>
+    <member type="way" ref="55457805" role=""/>
+    <member type="node" ref="402589283" role="terminal"/>
+    <tag k="name" v="KBS 701 Heidelberg - Karlsruhe"/>
+    <tag k="network" v="DB"/>
+    <tag k="operator" v="Deutsche Bahn"/>
+    <tag k="ref" v="701"/>
+    <tag k="route" v="rail"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="298926" version="46" timestamp="2011-03-05T11:46:07Z" uid="6269" user="Mueck" changeset="7461820">
+    <member type="node" ref="21412549" role="terminal"/>
+    <member type="way" ref="27276515" role=""/>
+    <member type="way" ref="24145203" role=""/>
+    <member type="way" ref="57730935" role=""/>
+    <member type="way" ref="57730923" role=""/>
+    <member type="way" ref="24145202" role=""/>
+    <member type="way" ref="24048120" role=""/>
+    <member type="way" ref="24048119" role=""/>
+    <member type="node" ref="25436732" role="stop"/>
+    <member type="way" ref="25339906" role=""/>
+    <member type="way" ref="74196318" role=""/>
+    <member type="way" ref="74196310" role=""/>
+    <member type="way" ref="66756087" role=""/>
+    <member type="way" ref="66756156" role=""/>
+    <member type="way" ref="66756138" role=""/>
+    <member type="way" ref="66756157" role=""/>
+    <member type="way" ref="4250671" role=""/>
+    <member type="way" ref="26961739" role=""/>
+    <member type="way" ref="26961741" role=""/>
+    <member type="way" ref="4250679" role=""/>
+    <member type="way" ref="25530096" role=""/>
+    <member type="way" ref="4250509" role=""/>
+    <member type="way" ref="29381388" role=""/>
+    <member type="way" ref="68456209" role=""/>
+    <member type="way" ref="74200406" role=""/>
+    <member type="way" ref="74200410" role=""/>
+    <member type="way" ref="24960952" role=""/>
+    <member type="way" ref="24583342" role=""/>
+    <member type="way" ref="59584496" role=""/>
+    <member type="way" ref="23246718" role=""/>
+    <member type="way" ref="23246717" role=""/>
+    <member type="node" ref="25436271" role="halt"/>
+    <member type="way" ref="24245721" role=""/>
+    <member type="way" ref="24346207" role=""/>
+    <member type="way" ref="4359562" role=""/>
+    <member type="way" ref="23464538" role=""/>
+    <member type="way" ref="23464539" role=""/>
+    <member type="way" ref="34875350" role=""/>
+    <member type="way" ref="34875351" role=""/>
+    <member type="way" ref="4251958" role=""/>
+    <member type="way" ref="4876927" role=""/>
+    <member type="way" ref="102079915" role=""/>
+    <member type="way" ref="102079898" role=""/>
+    <member type="way" ref="22932371" role=""/>
+    <member type="way" ref="22932372" role=""/>
+    <member type="way" ref="4250766" role=""/>
+    <member type="way" ref="4525510" role=""/>
+    <member type="way" ref="87772784" role=""/>
+    <member type="way" ref="4231595" role=""/>
+    <member type="way" ref="4250768" role=""/>
+    <member type="way" ref="102708313" role=""/>
+    <member type="way" ref="40894238" role=""/>
+    <member type="way" ref="40894239" role=""/>
+    <member type="way" ref="27276269" role=""/>
+    <member type="way" ref="55457805" role=""/>
+    <member type="node" ref="402589283" role="terminal"/>
+    <tag k="name" v="KBS 701 Heidelberg - Karlsruhe"/>
+    <tag k="network" v="DB"/>
+    <tag k="operator" v="Deutsche Bahn"/>
+    <tag k="ref" v="701"/>
+    <tag k="route" v="rail"/>
+    <tag k="type" v="route"/>
+  </relation>
+</osm>

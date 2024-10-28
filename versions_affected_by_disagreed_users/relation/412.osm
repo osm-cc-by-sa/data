@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="412264" version="1" timestamp="2010-02-18T20:22:55Z" uid="33382" user="de_muur" changeset="3911868">
+    <member type="node" ref="641910630" role=""/>
+    <member type="node" ref="641910633" role=""/>
+    <member type="way" ref="16595310" role=""/>
+    <member type="way" ref="29118717" role=""/>
+    <member type="node" ref="610443641" role=""/>
+    <tag k="name" v="Centrum - Bhf. Hemelingen"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Geoinformation Bremen"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="412264" version="2" timestamp="2010-03-02T17:37:30Z" uid="33382" user="de_muur" changeset="4018614">
+    <member type="node" ref="641910630" role=""/>
+    <member type="node" ref="641910633" role=""/>
+    <member type="way" ref="16595310" role=""/>
+    <member type="way" ref="29118717" role=""/>
+    <member type="node" ref="610443641" role=""/>
+    <member type="node" ref="659498725" role=""/>
+    <tag k="name" v="Centrum - Bhf. Hemelingen"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Geoinformation Bremen"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="412393" version="3" timestamp="2010-06-07T11:24:53Z" uid="64977" user="CLoeser" changeset="4927194">
+    <member type="way" ref="32534769" role=""/>
+    <member type="way" ref="32534768" role=""/>
+    <member type="way" ref="32534605" role=""/>
+    <member type="way" ref="26604593" role=""/>
+    <member type="way" ref="56318325" role=""/>
+    <member type="way" ref="56318328" role=""/>
+    <member type="way" ref="32534604" role=""/>
+    <tag k="destination" v="Ryck"/>
+    <tag k="name" v="Ryckgraben"/>
+    <tag k="type" v="waterway"/>
+    <tag k="waterway" v="river"/>
+  </relation>
+  <relation id="412723" version="1" timestamp="2010-02-19T05:22:56Z" uid="103576" user="DiverCTH" changeset="3913675">
+    <member type="way" ref="50716701" role="outer"/>
+    <member type="way" ref="50716702" role="inner"/>
+    <tag k="name" v="Life Care Center of Wichita Nursing Home"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="412723" version="2" timestamp="2010-04-07T18:02:04Z" uid="103576" user="DiverCTH" changeset="4357029">
+    <member type="way" ref="50716701" role="outer"/>
+    <member type="way" ref="50716702" role="inner"/>
+    <member type="way" ref="48362797" role=""/>
+    <tag k="name" v="Life Care Center of Wichita Nursing Home"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="412723" version="3" timestamp="2010-04-07T18:02:19Z" uid="103576" user="DiverCTH" changeset="4357029">
+    <member type="way" ref="50716701" role="outer"/>
+    <member type="way" ref="50716702" role="inner"/>
+    <member type="way" ref="48362797" role=""/>
+    <member type="way" ref="48362796" role=""/>
+    <tag k="name" v="Life Care Center of Wichita Nursing Home"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="412723" version="4" timestamp="2010-04-07T18:06:08Z" uid="103576" user="DiverCTH" changeset="4357109">
+    <member type="way" ref="50716701" role="outer"/>
+    <member type="way" ref="50716702" role="inner"/>
+    <member type="way" ref="48362797" role=""/>
+    <member type="way" ref="48362796" role=""/>
+    <tag k="amenity" v="nursing_home"/>
+    <tag k="name" v="Life Care Center of Wichita Nursing Home"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="412723" version="5" timestamp="2010-04-07T18:12:19Z" uid="103576" user="DiverCTH" changeset="4357109">
+    <member type="way" ref="50716701" role="outer"/>
+    <member type="way" ref="50716702" role="inner"/>
+    <member type="way" ref="48362797" role=""/>
+    <member type="way" ref="48362796" role=""/>
+    <tag k="amenity" v="nursing_home"/>
+    <tag k="name" v="Life Care Center of Wichita Nursing Home"/>
+    <tag k="operator" v="Life Care Centers of America"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="412902" version="1" timestamp="2010-02-19T15:37:28Z" uid="23543" user="jkjk" changeset="3916395">
+    <member type="way" ref="50734943" role=""/>
+    <member type="way" ref="50734944" role=""/>
+    <member type="way" ref="50734919" role=""/>
+    <tag k="complete" v="no"/>
+    <tag k="network" v="rcn"/>
+    <tag k="operator" v="cz:KČT"/>
+    <tag k="ref" v="0060"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="source" v="survey"/>
+    <tag k="type" v="route"/>
+  </relation>
+</osm>

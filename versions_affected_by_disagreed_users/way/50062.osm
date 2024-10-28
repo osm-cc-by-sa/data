@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="50062773" version="2" timestamp="2010-05-19T09:32:41Z" uid="4467" user="Rosscoe" changeset="4746459">
+    <nd ref="635797339"/>
+    <nd ref="635797341"/>
+    <nd ref="635797342"/>
+    <nd ref="635797343"/>
+    <nd ref="739370486"/>
+    <nd ref="635797345"/>
+    <nd ref="635797346"/>
+    <nd ref="635797347"/>
+    <nd ref="739370493"/>
+    <nd ref="635797349"/>
+    <nd ref="739370494"/>
+    <nd ref="635797358"/>
+    <nd ref="635797360"/>
+    <nd ref="635797363"/>
+    <nd ref="635797365"/>
+    <nd ref="635797368"/>
+    <nd ref="635797373"/>
+    <nd ref="266738874"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="50062774" version="2" timestamp="2010-05-19T09:32:13Z" uid="4467" user="Rosscoe" changeset="4746459">
+    <nd ref="635797344"/>
+    <nd ref="635797384"/>
+    <nd ref="635797386"/>
+    <nd ref="635797393"/>
+    <nd ref="635797344"/>
+    <tag k="amenity" v="parking"/>
+  </way>
+  <way id="50062775" version="2" timestamp="2010-05-19T09:32:55Z" uid="4467" user="Rosscoe" changeset="4746459">
+    <nd ref="635797319"/>
+    <nd ref="635797416"/>
+    <nd ref="635797267"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="50062775" version="4" timestamp="2010-07-08T19:54:33Z" uid="74617" user="JohnSmith" changeset="5168688">
+    <nd ref="635797319"/>
+    <nd ref="798469662"/>
+    <nd ref="635797416"/>
+    <nd ref="798469665"/>
+    <nd ref="798469667"/>
+    <nd ref="798469669"/>
+    <nd ref="635797267"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+  </way>
+</osm>

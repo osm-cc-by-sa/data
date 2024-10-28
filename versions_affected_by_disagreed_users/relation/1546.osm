@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1546042" version="1" timestamp="2011-04-17T15:10:52Z" uid="33382" user="de_muur" changeset="7887691">
+    <member type="node" ref="1248482970" role=""/>
+    <member type="way" ref="77381760" role=""/>
+    <member type="node" ref="1248482945" role=""/>
+    <tag k="name" v="Hohenaverbergen - Kükenmoor"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1546043" version="1" timestamp="2011-04-17T15:10:52Z" uid="33382" user="de_muur" changeset="7887691">
+    <member type="node" ref="1248395406" role=""/>
+    <member type="way" ref="22965502" role=""/>
+    <member type="way" ref="108927891" role=""/>
+    <member type="node" ref="1248482970" role=""/>
+    <tag k="name" v="Verdenermoor - Wittlohe"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1546050" version="1" timestamp="2011-04-17T15:28:13Z" uid="33382" user="de_muur" changeset="7887898">
+    <member type="node" ref="1248482945" role=""/>
+    <member type="way" ref="77381690" role=""/>
+    <member type="way" ref="77381797" role=""/>
+    <member type="node" ref="1248495966" role=""/>
+    <tag k="name" v="Hamwiede - Hohenaverbergen"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1546082" version="1" timestamp="2011-04-17T15:43:09Z" uid="33382" user="de_muur" changeset="7888080">
+    <member type="node" ref="1248495966" role=""/>
+    <member type="way" ref="108929582" role=""/>
+    <member type="way" ref="108929584" role=""/>
+    <member type="way" ref="108931163" role=""/>
+    <member type="node" ref="1248509806" role=""/>
+    <tag k="name" v="Armsen - Hamwiede"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1546083" version="1" timestamp="2011-04-17T15:43:09Z" uid="33382" user="de_muur" changeset="7888080">
+    <member type="node" ref="1248509806" role=""/>
+    <member type="way" ref="108931164" role=""/>
+    <member type="way" ref="32595240" role=""/>
+    <tag k="name" v="Idsingen"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1546984" version="15" timestamp="2011-05-09T13:18:59Z" uid="66036" user="h4v" changeset="8092750">
+    <member type="way" ref="104361292" role=""/>
+    <member type="way" ref="89309623" role=""/>
+    <member type="way" ref="53566989" role=""/>
+    <member type="way" ref="53567335" role=""/>
+    <member type="way" ref="53567738" role=""/>
+    <member type="way" ref="55885538" role=""/>
+    <member type="way" ref="101768206" role=""/>
+    <member type="way" ref="89309626" role=""/>
+    <member type="way" ref="55885985" role=""/>
+    <member type="way" ref="89309624" role=""/>
+    <member type="way" ref="109778206" role=""/>
+    <member type="way" ref="58073091" role=""/>
+    <member type="way" ref="83811669" role=""/>
+    <member type="way" ref="83813103" role=""/>
+    <member type="way" ref="83813110" role=""/>
+    <member type="way" ref="101770099" role=""/>
+    <member type="way" ref="109208546" role=""/>
+    <member type="way" ref="109208547" role=""/>
+    <member type="way" ref="109208548" role=""/>
+    <member type="way" ref="109208549" role=""/>
+    <member type="way" ref="109209454" role=""/>
+    <member type="way" ref="109211281" role=""/>
+    <member type="way" ref="96135296" role=""/>
+    <member type="way" ref="109211280" role=""/>
+    <member type="way" ref="83813751" role=""/>
+    <member type="way" ref="77352941" role=""/>
+    <member type="way" ref="84379677" role=""/>
+    <member type="way" ref="109212189" role=""/>
+    <member type="way" ref="109212487" role=""/>
+    <member type="way" ref="109212488" role=""/>
+    <member type="way" ref="112461177" role=""/>
+    <member type="way" ref="109212489" role=""/>
+    <member type="way" ref="109746088" role=""/>
+    <tag k="colour" v="#00ff00"/>
+    <tag k="description" v="Zielony Szlak"/>
+    <tag k="distance" v="110"/>
+    <tag k="name" v="Szlak rowerowy &quot;Po Ziemi Poddębickiej&quot;"/>
+    <tag k="network" v="lcn"/>
+    <tag k="osmc:symbol" v="green:white:green_bar"/>
+    <tag k="ref" v="SR-PZP"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="symbol" v="zielone szlaki"/>
+    <tag k="type" v="route"/>
+  </relation>
+</osm>

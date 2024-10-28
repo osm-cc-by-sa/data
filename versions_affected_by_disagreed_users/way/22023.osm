@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="22023491" version="4" timestamp="2010-07-08T04:55:59Z" uid="74617" user="JohnSmith" changeset="5163091">
+    <nd ref="237080948"/>
+    <nd ref="237081223"/>
+    <nd ref="237081346"/>
+    <nd ref="237081599"/>
+    <nd ref="237081732"/>
+    <nd ref="237081902"/>
+    <nd ref="237082016"/>
+    <nd ref="237082200"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Arundel Drive"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="22023502" version="2" timestamp="2008-09-16T10:12:05Z" uid="1066" user="pavel" changeset="646258">
+    <nd ref="237178084"/>
+    <nd ref="237178343"/>
+    <nd ref="237178344"/>
+    <nd ref="237178346"/>
+    <tag k="created_by" v="Potlatch 0.6c"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Nad malým mýtem"/>
+    <tag k="name:source" v="nameit/uir-adr"/>
+  </way>
+</osm>

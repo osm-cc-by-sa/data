@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1469005" version="3" timestamp="2011-03-15T02:01:35Z" uid="66036" user="h4v" changeset="7562862">
+    <member type="way" ref="4724070" role=""/>
+    <member type="way" ref="103630318" role=""/>
+    <member type="way" ref="4724069" role=""/>
+    <member type="way" ref="4724068" role=""/>
+    <member type="way" ref="26292783" role=""/>
+    <member type="way" ref="26292784" role=""/>
+    <member type="way" ref="4724067" role=""/>
+    <member type="way" ref="4724075" role=""/>
+    <member type="way" ref="4724074" role=""/>
+    <member type="way" ref="38605240" role=""/>
+    <member type="way" ref="38605241" role=""/>
+    <member type="way" ref="104214976" role=""/>
+    <member type="way" ref="39921535" role=""/>
+    <member type="way" ref="39921520" role=""/>
+    <member type="way" ref="4724065" role=""/>
+    <member type="way" ref="4724064" role=""/>
+    <member type="way" ref="72879933" role=""/>
+    <member type="way" ref="66641499" role=""/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Droga wojewódzka 702"/>
+    <tag k="network" v="pl:regional"/>
+    <tag k="ref" v="702"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+    <tag k="wikipedia" v="pl:Droga wojewódzka nr 702"/>
+  </relation>
+  <relation id="1469061" version="1" timestamp="2011-03-11T10:05:12Z" uid="7617" user="Franc" changeset="7521816">
+    <member type="way" ref="53268967" role="from"/>
+    <member type="way" ref="53268966" role="to"/>
+    <member type="node" ref="33885067" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+</osm>

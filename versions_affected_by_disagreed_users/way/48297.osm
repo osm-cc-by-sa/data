@@ -1,0 +1,491 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="48297402" version="1" timestamp="2010-01-14T19:22:40Z" uid="9581" user="Lobelt" changeset="3619231">
+    <nd ref="16260136"/>
+    <nd ref="27276859"/>
+    <nd ref="27276860"/>
+    <nd ref="27276861"/>
+    <nd ref="27276862"/>
+    <nd ref="27276863"/>
+    <tag k="name" v="Neue Weschnitz"/>
+    <tag k="waterway" v="river"/>
+    <tag k="width" v="5"/>
+  </way>
+  <way id="48297402" version="2" timestamp="2010-04-11T20:01:56Z" uid="9581" user="Lobelt" changeset="4398298">
+    <nd ref="16260136"/>
+    <nd ref="693545049"/>
+    <nd ref="693545051"/>
+    <nd ref="693545048"/>
+    <nd ref="693545047"/>
+    <nd ref="693545046"/>
+    <nd ref="693545045"/>
+    <nd ref="27276859"/>
+    <nd ref="27276860"/>
+    <nd ref="27276861"/>
+    <nd ref="27276862"/>
+    <nd ref="27276863"/>
+    <tag k="name" v="Neue Weschnitz"/>
+    <tag k="waterway" v="river"/>
+    <tag k="width" v="5"/>
+  </way>
+  <way id="48297408" version="1" timestamp="2010-01-14T19:22:40Z" uid="9581" user="Lobelt" changeset="3619231">
+    <nd ref="613624562"/>
+    <nd ref="10854250"/>
+    <nd ref="10915318"/>
+    <nd ref="10915319"/>
+    <nd ref="294846487"/>
+    <nd ref="10915320"/>
+    <nd ref="10915321"/>
+    <nd ref="10915322"/>
+    <nd ref="10993502"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Bergstraße"/>
+    <tag k="ref" v="B 3"/>
+  </way>
+  <way id="48297408" version="3" timestamp="2010-07-21T18:49:41Z" uid="9581" user="Lobelt" changeset="5281263">
+    <nd ref="613624562"/>
+    <nd ref="10854250"/>
+    <tag k="FIXME:de" v="Gehört diese Straße noch zur B 3 ?"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Bergstraße"/>
+    <tag k="ref" v="B 3; L 3408"/>
+  </way>
+  <way id="48297409" version="1" timestamp="2010-01-14T19:22:41Z" uid="9581" user="Lobelt" changeset="3619231">
+    <nd ref="10993502"/>
+    <nd ref="10915323"/>
+    <nd ref="10915324"/>
+    <nd ref="10854258"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Bergstraße"/>
+    <tag k="ref" v="B 3"/>
+  </way>
+  <way id="48297410" version="1" timestamp="2010-01-14T19:22:41Z" uid="9581" user="Lobelt" changeset="3619231">
+    <nd ref="613624561"/>
+    <nd ref="16260136"/>
+    <tag k="layer" v="-1"/>
+    <tag k="name" v="Neue Weschnitz"/>
+    <tag k="tunnel" v="yes"/>
+    <tag k="waterway" v="river"/>
+    <tag k="width" v="5"/>
+  </way>
+  <way id="48297411" version="1" timestamp="2010-01-14T19:22:41Z" uid="9581" user="Lobelt" changeset="3619231">
+    <nd ref="613624555"/>
+    <nd ref="14806213"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Kapellenstraße"/>
+  </way>
+  <way id="48297412" version="1" timestamp="2010-01-14T19:22:41Z" uid="9581" user="Lobelt" changeset="3619231">
+    <nd ref="14806213"/>
+    <nd ref="320907617"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="maxweight" v="7.5"/>
+    <tag k="name" v="Kapellenstraße"/>
+  </way>
+  <way id="48297415" version="1" timestamp="2010-01-14T19:22:41Z" uid="9581" user="Lobelt" changeset="3619231">
+    <nd ref="613624563"/>
+    <nd ref="613624562"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Bergstraße"/>
+    <tag k="ref" v="B 3"/>
+  </way>
+  <way id="48297586" version="1" timestamp="2010-01-14T19:23:22Z" uid="53938" user="ctheile" changeset="3619237">
+    <nd ref="613624581"/>
+    <nd ref="613624583"/>
+    <nd ref="613624582"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rue KV-6"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="48297586" version="2" timestamp="2010-05-07T11:33:51Z" uid="53938" user="ctheile" changeset="4629232">
+    <nd ref="613624581"/>
+    <nd ref="613624583"/>
+    <nd ref="613624582"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rue KV-06"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="48297586" version="3" timestamp="2010-06-30T17:25:49Z" uid="53938" user="ctheile" changeset="5115055">
+    <nd ref="613624581"/>
+    <nd ref="613624583"/>
+    <nd ref="613624582"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rue KV-06"/>
+    <tag k="surface" v="sand"/>
+  </way>
+  <way id="48297587" version="1" timestamp="2010-01-14T19:23:23Z" uid="53938" user="ctheile" changeset="3619237">
+    <nd ref="613624584"/>
+    <nd ref="613624585"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rue KV-4"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="48297587" version="2" timestamp="2010-03-25T11:35:33Z" uid="53938" user="ctheile" changeset="4228490">
+    <nd ref="613624584"/>
+    <nd ref="674005711"/>
+    <nd ref="613624585"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rue KV-4"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="48297587" version="3" timestamp="2010-05-07T11:33:51Z" uid="53938" user="ctheile" changeset="4629232">
+    <nd ref="613624584"/>
+    <nd ref="674005711"/>
+    <nd ref="613624585"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="KV-4"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="48297588" version="1" timestamp="2010-01-14T19:23:27Z" uid="53938" user="ctheile" changeset="3619237">
+    <nd ref="613624583"/>
+    <nd ref="613624586"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rue KV-11"/>
+  </way>
+  <way id="48297617" version="3" timestamp="2010-01-15T11:48:10Z" uid="8619" user="cetest" changeset="3623615">
+    <nd ref="613624760"/>
+    <nd ref="613624761"/>
+    <nd ref="613624762"/>
+    <nd ref="613624763"/>
+    <nd ref="613624764"/>
+    <nd ref="613624765"/>
+    <nd ref="613624766"/>
+    <nd ref="613013908"/>
+    <nd ref="613013918"/>
+    <nd ref="613624767"/>
+    <nd ref="613624760"/>
+    <tag k="ID" v="34"/>
+    <tag k="refugee" v="yes"/>
+    <tag k="source" v="GeoEye Imagery"/>
+    <tag k="tourism" v="camp_site"/>
+  </way>
+  <way id="48297617" version="4" timestamp="2010-01-16T11:53:50Z" uid="8619" user="cetest" changeset="3630729">
+    <nd ref="613624760"/>
+    <nd ref="613624761"/>
+    <nd ref="613624762"/>
+    <nd ref="613624763"/>
+    <nd ref="613624764"/>
+    <nd ref="613624765"/>
+    <nd ref="614598839"/>
+    <nd ref="613624766"/>
+    <nd ref="613624760"/>
+    <tag k="ID" v="34"/>
+    <tag k="refugee" v="yes"/>
+    <tag k="source" v="GeoEye Imagery"/>
+    <tag k="tourism" v="camp_site"/>
+  </way>
+  <way id="48297660" version="2" timestamp="2011-06-05T15:50:27Z" uid="9581" user="Lobelt" changeset="8350656">
+    <nd ref="613625193"/>
+    <nd ref="285944426"/>
+    <nd ref="285944274"/>
+    <nd ref="613625205"/>
+    <nd ref="1313198697"/>
+    <nd ref="613625209"/>
+    <nd ref="260028185"/>
+    <nd ref="285937807"/>
+    <nd ref="240493741"/>
+    <nd ref="240084351"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="Route de Strasbourg"/>
+    <tag k="ref" v="D 263"/>
+  </way>
+  <way id="48297874" version="5" timestamp="2010-01-16T03:06:04Z" uid="23543" user="jkjk" changeset="3629090">
+    <nd ref="614516456"/>
+    <nd ref="613102807"/>
+    <nd ref="613102809"/>
+    <nd ref="613102810"/>
+    <nd ref="613102811"/>
+    <nd ref="613102813"/>
+    <nd ref="613102815"/>
+    <nd ref="613102817"/>
+    <nd ref="613102819"/>
+    <nd ref="613597012"/>
+    <nd ref="613102821"/>
+    <nd ref="613597013"/>
+    <nd ref="613102824"/>
+    <nd ref="613597014"/>
+    <nd ref="613102826"/>
+    <nd ref="613102828"/>
+    <nd ref="613597015"/>
+    <nd ref="613597016"/>
+    <nd ref="613597017"/>
+    <nd ref="613597018"/>
+    <nd ref="613597019"/>
+    <nd ref="613597020"/>
+    <nd ref="613597021"/>
+    <nd ref="613597022"/>
+    <nd ref="613597023"/>
+    <nd ref="613597024"/>
+    <nd ref="613597025"/>
+    <nd ref="613597026"/>
+    <nd ref="613597027"/>
+    <nd ref="613597028"/>
+    <nd ref="613597029"/>
+    <nd ref="613597030"/>
+    <nd ref="613597031"/>
+    <nd ref="613597032"/>
+    <nd ref="613681119"/>
+    <nd ref="613597033"/>
+    <nd ref="613597034"/>
+    <nd ref="613673776"/>
+    <nd ref="613597035"/>
+    <nd ref="614163325"/>
+    <nd ref="613597036"/>
+    <nd ref="613597037"/>
+    <nd ref="613640783"/>
+    <nd ref="613640785"/>
+    <nd ref="613640784"/>
+    <nd ref="613640795"/>
+    <nd ref="613640794"/>
+    <nd ref="613640793"/>
+    <nd ref="613640792"/>
+    <nd ref="613640791"/>
+    <nd ref="613640790"/>
+    <nd ref="613640789"/>
+    <nd ref="613640801"/>
+    <nd ref="613640800"/>
+    <nd ref="613640799"/>
+    <nd ref="613640798"/>
+    <nd ref="613640797"/>
+    <nd ref="613640796"/>
+    <nd ref="613640788"/>
+    <nd ref="613640787"/>
+    <nd ref="613640806"/>
+    <nd ref="613640805"/>
+    <nd ref="613640804"/>
+    <nd ref="613640803"/>
+    <nd ref="613640802"/>
+    <nd ref="613640816"/>
+    <nd ref="613640815"/>
+    <nd ref="613640814"/>
+    <nd ref="613640813"/>
+    <nd ref="613640812"/>
+    <nd ref="613640833"/>
+    <nd ref="613628111"/>
+    <nd ref="613628114"/>
+    <nd ref="613628116"/>
+    <nd ref="613628118"/>
+    <nd ref="613628120"/>
+    <nd ref="613628122"/>
+    <nd ref="613628125"/>
+    <nd ref="613628126"/>
+    <nd ref="613628128"/>
+    <nd ref="613628130"/>
+    <nd ref="613628132"/>
+    <nd ref="613628134"/>
+    <nd ref="613628135"/>
+    <nd ref="613628137"/>
+    <nd ref="613628174"/>
+    <nd ref="613628176"/>
+    <nd ref="613628179"/>
+    <nd ref="613628182"/>
+    <nd ref="613628184"/>
+    <nd ref="613628187"/>
+    <nd ref="613628193"/>
+    <nd ref="613628195"/>
+    <nd ref="613628199"/>
+    <tag k="boat" v="no"/>
+    <tag k="natural" v="water"/>
+    <tag k="source" v="U.S. Defense Mapping Agency, 1994"/>
+    <tag k="waterway" v="stream"/>
+  </way>
+  <way id="48297877" version="3" timestamp="2010-01-20T20:40:00Z" uid="8619" user="cetest" changeset="3670021">
+    <nd ref="613628232"/>
+    <nd ref="613628234"/>
+    <nd ref="613628258"/>
+    <nd ref="613628260"/>
+    <nd ref="613628267"/>
+    <nd ref="617310953"/>
+    <nd ref="613628269"/>
+    <nd ref="617310954"/>
+    <nd ref="613628271"/>
+    <nd ref="613628273"/>
+    <nd ref="613628275"/>
+    <nd ref="614002977"/>
+    <nd ref="613628277"/>
+    <nd ref="617310955"/>
+    <nd ref="613628279"/>
+    <nd ref="613628281"/>
+    <nd ref="613628283"/>
+    <nd ref="613628292"/>
+    <nd ref="613628294"/>
+    <nd ref="613628296"/>
+    <nd ref="613628298"/>
+    <nd ref="613628300"/>
+    <nd ref="613628302"/>
+    <nd ref="613578118"/>
+    <tag k="source" v="U.S. Defense Mapping Agency, 1994"/>
+    <tag k="waterway" v="stream"/>
+  </way>
+  <way id="48297895" version="2" timestamp="2010-03-28T11:41:40Z" uid="20587" user="balrog-kun" changeset="4254597">
+    <nd ref="258311288"/>
+    <nd ref="122869704"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="2"/>
+    <tag k="name" v="East la Palma Avenue"/>
+    <tag k="name_1" v="La Palma Avenue"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Orange, CA"/>
+    <tag k="tiger:name_base" v="la Palma"/>
+    <tag k="tiger:name_base_1" v="La Palma"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:name_type_1" v="Ave"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="144033063:144033098:144033228:144033238:144084026:144084031:144084047:144128208:144128209:144128893:144138160:144415431:144415432"/>
+    <tag k="tiger:zip_left" v="92807"/>
+    <tag k="tiger:zip_right" v="92807"/>
+  </way>
+  <way id="48297923" version="2" timestamp="2010-07-07T09:33:28Z" uid="74617" user="JohnSmith" changeset="5156250">
+    <nd ref="613629655"/>
+    <nd ref="613629659"/>
+    <nd ref="613629661"/>
+    <nd ref="613629663"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Burbury Close"/>
+  </way>
+  <way id="48297954" version="1" timestamp="2010-01-14T19:33:54Z" uid="53938" user="ctheile" changeset="3619331">
+    <nd ref="613632536"/>
+    <nd ref="613632516"/>
+    <nd ref="286758537"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rue de l&apos;Exportation (KN-11)"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="48297954" version="2" timestamp="2010-01-15T12:49:38Z" uid="53938" user="ctheile" changeset="3623958">
+    <nd ref="613632536"/>
+    <nd ref="613632516"/>
+    <nd ref="614142073"/>
+    <nd ref="614142080"/>
+    <nd ref="614142081"/>
+    <nd ref="614142083"/>
+    <nd ref="614142085"/>
+    <nd ref="286758537"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rue de l&apos;Exportation (KN-11)"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="48297954" version="3" timestamp="2010-03-19T09:43:06Z" uid="53938" user="ctheile" changeset="4168455">
+    <nd ref="613632536"/>
+    <nd ref="613632516"/>
+    <nd ref="614142073"/>
+    <nd ref="614142080"/>
+    <nd ref="614142081"/>
+    <nd ref="614142083"/>
+    <nd ref="614142085"/>
+    <nd ref="669409827"/>
+    <nd ref="669409832"/>
+    <nd ref="669409836"/>
+    <nd ref="286758537"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rue de l&apos;Exportation (KN-11)"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="48297954" version="4" timestamp="2010-03-25T11:35:22Z" uid="53938" user="ctheile" changeset="4228490">
+    <nd ref="613632536"/>
+    <nd ref="613632516"/>
+    <nd ref="614142073"/>
+    <nd ref="674005582"/>
+    <nd ref="614142080"/>
+    <nd ref="614142081"/>
+    <nd ref="614142083"/>
+    <nd ref="614142085"/>
+    <nd ref="669409827"/>
+    <nd ref="669409832"/>
+    <nd ref="669409836"/>
+    <nd ref="286758537"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rue de l&apos;Exportation (KN-11)"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="48297961" version="1" timestamp="2010-01-14T19:34:43Z" uid="43863" user="Rundling" changeset="3619337">
+    <nd ref="613633535"/>
+    <nd ref="613633551"/>
+    <nd ref="613633585"/>
+    <nd ref="613633586"/>
+    <nd ref="613633588"/>
+    <nd ref="613633590"/>
+    <nd ref="613633592"/>
+    <nd ref="613633594"/>
+    <nd ref="613633596"/>
+    <nd ref="613633595"/>
+    <nd ref="613633598"/>
+    <nd ref="613633599"/>
+    <nd ref="613633597"/>
+    <nd ref="613633573"/>
+    <nd ref="613633581"/>
+    <nd ref="613633583"/>
+    <nd ref="613633575"/>
+    <nd ref="613633577"/>
+    <nd ref="613633579"/>
+    <nd ref="613633570"/>
+    <nd ref="613633568"/>
+    <nd ref="613633572"/>
+    <nd ref="613633564"/>
+    <nd ref="613633566"/>
+    <nd ref="613633560"/>
+    <nd ref="613633557"/>
+    <nd ref="613633562"/>
+    <nd ref="613633559"/>
+    <nd ref="613633553"/>
+    <nd ref="613633555"/>
+    <nd ref="613633547"/>
+    <nd ref="613633545"/>
+    <nd ref="613633549"/>
+    <nd ref="613633537"/>
+    <nd ref="613633539"/>
+    <nd ref="613633541"/>
+    <nd ref="613633543"/>
+    <nd ref="613633521"/>
+    <nd ref="613633524"/>
+    <nd ref="613633526"/>
+    <nd ref="613633528"/>
+    <nd ref="613633530"/>
+    <nd ref="613633532"/>
+    <nd ref="613633533"/>
+    <nd ref="613633535"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <way id="48297964" version="3" timestamp="2010-07-07T09:33:20Z" uid="74617" user="JohnSmith" changeset="5156250">
+    <nd ref="102279304"/>
+    <nd ref="673993185"/>
+    <nd ref="339276105"/>
+    <nd ref="613633602"/>
+    <nd ref="339276111"/>
+    <nd ref="339276046"/>
+    <nd ref="339276044"/>
+    <nd ref="613633600"/>
+    <nd ref="102251512"/>
+    <nd ref="102251542"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Eastlake Parade"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="48297965" version="3" timestamp="2010-07-07T09:32:27Z" uid="74617" user="JohnSmith" changeset="5156250">
+    <nd ref="339276090"/>
+    <nd ref="339276091"/>
+    <nd ref="613633601"/>
+    <nd ref="339276045"/>
+    <nd ref="339276043"/>
+    <nd ref="339276095"/>
+    <nd ref="613633603"/>
+    <nd ref="339276100"/>
+    <nd ref="102279304"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Eastlake Parade"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+</osm>

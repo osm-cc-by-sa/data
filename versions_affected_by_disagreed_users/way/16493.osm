@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="16493763" version="2" timestamp="2010-07-09T06:19:20Z" uid="74617" user="JohnSmith" changeset="5171134">
+    <nd ref="170304602"/>
+    <nd ref="170304628"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Tudor Street"/>
+  </way>
+  <way id="16493763" version="3" timestamp="2011-04-04T02:00:08Z" uid="4467" user="Rosscoe" changeset="7760508">
+    <nd ref="170304602"/>
+    <nd ref="170304628"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Tudor Street"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="16493934" version="9" timestamp="2011-05-16T20:08:36Z" uid="23543" user="jkjk" changeset="8166131">
+    <nd ref="170308459"/>
+    <nd ref="1288191737"/>
+    <nd ref="170309377"/>
+    <nd ref="170308460"/>
+    <tag k="highway" v="service"/>
+  </way>
+</osm>

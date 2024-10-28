@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1602082" version="1" timestamp="2011-05-26T19:01:05Z" uid="9581" user="Lobelt" changeset="8256206">
+    <member type="way" ref="30910153" role="outer"/>
+    <member type="way" ref="114996023" role="inner"/>
+    <member type="way" ref="114996024" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1602681" version="1" timestamp="2011-05-27T09:18:29Z" uid="7617" user="Franc" changeset="8260571">
+    <member type="way" ref="115085796" role="from"/>
+    <member type="way" ref="115085800" role="to"/>
+    <member type="node" ref="26428852" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1602682" version="1" timestamp="2011-05-27T09:18:29Z" uid="7617" user="Franc" changeset="8260571">
+    <member type="way" ref="83333869" role="from"/>
+    <member type="way" ref="46738625" role="to"/>
+    <member type="node" ref="26428853" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1602683" version="1" timestamp="2011-05-27T09:18:29Z" uid="7617" user="Franc" changeset="8260571">
+    <member type="way" ref="4869156" role="from"/>
+    <member type="way" ref="47876678" role="to"/>
+    <member type="node" ref="608861223" role="via"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+</osm>

@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1526356" version="1" timestamp="2011-04-03T21:27:03Z" uid="9581" user="Lobelt" changeset="7759179">
+    <member type="way" ref="92702161" role="inner"/>
+    <member type="way" ref="107118549" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1526357" version="1" timestamp="2011-04-03T21:27:04Z" uid="9581" user="Lobelt" changeset="7759179">
+    <member type="way" ref="104665072" role="outer"/>
+    <member type="way" ref="55935006" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1526357" version="2" timestamp="2011-04-05T19:29:56Z" uid="9581" user="Lobelt" changeset="7778363">
+    <member type="way" ref="107356632" role="inner"/>
+    <member type="way" ref="104665072" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1526358" version="1" timestamp="2011-04-03T21:27:04Z" uid="9581" user="Lobelt" changeset="7759179">
+    <member type="way" ref="98490468" role="inner"/>
+    <member type="way" ref="98490471" role="inner"/>
+    <member type="way" ref="107118539" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1526359" version="1" timestamp="2011-04-03T21:27:05Z" uid="9581" user="Lobelt" changeset="7759179">
+    <member type="way" ref="89078255" role="inner"/>
+    <member type="way" ref="71042147" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1526359" version="2" timestamp="2011-04-05T17:30:15Z" uid="9581" user="Lobelt" changeset="7777067">
+    <member type="way" ref="89078255" role="inner"/>
+    <member type="way" ref="71042147" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1526359" version="3" timestamp="2011-04-05T18:14:14Z" uid="9581" user="Lobelt" changeset="7777532">
+    <member type="way" ref="107338583" role="inner"/>
+    <member type="way" ref="89078255" role="inner"/>
+    <member type="way" ref="107338591" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1526359" version="4" timestamp="2011-04-05T18:38:10Z" uid="9581" user="Lobelt" changeset="7777785">
+    <member type="way" ref="107338583" role="inner"/>
+    <member type="way" ref="89078255" role="inner"/>
+    <member type="way" ref="107338591" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1526360" version="1" timestamp="2011-04-03T21:27:05Z" uid="9581" user="Lobelt" changeset="7759179">
+    <member type="way" ref="100905612" role="inner"/>
+    <member type="way" ref="100905609" role="inner"/>
+    <member type="way" ref="100905613" role="inner"/>
+    <member type="way" ref="100905575" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1526628" version="1" timestamp="2011-04-03T23:31:21Z" uid="66036" user="h4v" changeset="7760129">
+    <member type="way" ref="25502931" role="street"/>
+    <member type="way" ref="107133417" role="house"/>
+    <member type="node" ref="1231701926" role="house"/>
+    <member type="node" ref="1231701881" role="house"/>
+    <member type="way" ref="107133426" role="house"/>
+    <member type="node" ref="1231701912" role="house"/>
+    <member type="node" ref="1231701886" role="house"/>
+    <tag k="name" v="Rawska"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1526629" version="1" timestamp="2011-04-03T23:31:21Z" uid="66036" user="h4v" changeset="7760129">
+    <member type="way" ref="106674596" role="street"/>
+    <member type="way" ref="107133445" role="house"/>
+    <member type="node" ref="1231701902" role="house"/>
+    <member type="node" ref="1231701877" role="house"/>
+    <member type="way" ref="107133430" role="house"/>
+    <member type="node" ref="1231701922" role="house"/>
+    <member type="node" ref="1231701921" role="house"/>
+    <tag k="name" v="Strobowska"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1526630" version="1" timestamp="2011-04-03T23:31:21Z" uid="66036" user="h4v" changeset="7760129">
+    <member type="way" ref="107133455" role="street"/>
+    <member type="way" ref="107133447" role="house"/>
+    <member type="node" ref="1231701910" role="house"/>
+    <member type="node" ref="1231701920" role="house"/>
+    <member type="way" ref="107133449" role="house"/>
+    <member type="node" ref="1231701932" role="house"/>
+    <member type="node" ref="1231701883" role="house"/>
+    <tag k="name" v="Koszarowa"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+</osm>

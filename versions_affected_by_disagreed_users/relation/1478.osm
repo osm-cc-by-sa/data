@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1478037" version="1" timestamp="2011-03-16T18:49:52Z" uid="33382" user="de_muur" changeset="7578365">
+    <member type="node" ref="1134209976" role=""/>
+    <member type="way" ref="33238170" role=""/>
+    <member type="way" ref="33238167" role=""/>
+    <member type="way" ref="33238252" role=""/>
+    <member type="way" ref="33238197" role=""/>
+    <member type="way" ref="18817971" role=""/>
+    <member type="node" ref="1204554747" role=""/>
+    <tag k="name" v="Hustedt - Martfeld"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Diepholz"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1478038" version="1" timestamp="2011-03-16T18:49:54Z" uid="33382" user="de_muur" changeset="7578365">
+    <member type="node" ref="1132432969" role=""/>
+    <member type="way" ref="18817928" role=""/>
+    <member type="way" ref="33238188" role=""/>
+    <member type="way" ref="33238184" role=""/>
+    <member type="way" ref="26681284" role=""/>
+    <member type="way" ref="104401331" role=""/>
+    <member type="node" ref="1204554782" role=""/>
+    <tag k="name" v="Martfeld - Schwarme"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Diepholz"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1478078" version="1" timestamp="2011-03-16T19:28:21Z" uid="66036" user="h4v" changeset="7578717">
+    <member type="way" ref="104236351" role="outer"/>
+    <member type="way" ref="104236344" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1478080" version="1" timestamp="2011-03-16T19:28:21Z" uid="66036" user="h4v" changeset="7578717">
+    <member type="way" ref="60824302" role="outer"/>
+    <member type="way" ref="88188224" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1478459" version="1" timestamp="2011-03-16T23:30:29Z" uid="20587" user="balrog-kun" changeset="7580979">
+    <member type="way" ref="104441117" role=""/>
+    <member type="way" ref="104441115" role=""/>
+    <member type="way" ref="104441116" role=""/>
+    <tag k="name" v="Bay Trail"/>
+    <tag k="note" v="TODO"/>
+    <tag k="route" v="hiking"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1478459" version="2" timestamp="2011-03-27T05:40:11Z" uid="20587" user="balrog-kun" changeset="7682307">
+    <member type="way" ref="104441117" role=""/>
+    <member type="way" ref="104441115" role=""/>
+    <member type="way" ref="104441116" role=""/>
+    <member type="way" ref="25319384" role=""/>
+    <member type="way" ref="25319425" role=""/>
+    <member type="way" ref="25319449" role=""/>
+    <tag k="name" v="Bay Trail"/>
+    <tag k="note" v="TODO"/>
+    <tag k="route" v="hiking"/>
+    <tag k="type" v="route"/>
+  </relation>
+</osm>

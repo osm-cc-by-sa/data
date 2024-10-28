@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="38253325" version="3" timestamp="2009-10-15T11:53:12Z" uid="30632" user="antblant" changeset="2853968">
+    <nd ref="451009222"/>
+    <nd ref="451009223"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Bazarowa"/>
+  </way>
+  <way id="38253325" version="4" timestamp="2009-10-26T18:18:12Z" uid="30632" user="antblant" changeset="2958261">
+    <nd ref="451009222"/>
+    <nd ref="451009223"/>
+    <nd ref="540900802"/>
+    <nd ref="540900800"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Bazarowa"/>
+  </way>
+  <way id="38253505" version="1" timestamp="2009-07-29T20:11:28Z" uid="115477" user="wowik" changeset="1979377">
+    <nd ref="451011559"/>
+    <nd ref="451011560"/>
+    <nd ref="451011561"/>
+    <nd ref="451011564"/>
+    <nd ref="451011567"/>
+    <nd ref="451011570"/>
+    <nd ref="451011574"/>
+    <nd ref="451011577"/>
+    <nd ref="451011580"/>
+    <nd ref="451011583"/>
+    <nd ref="451011592"/>
+    <nd ref="451011595"/>
+    <nd ref="451011598"/>
+    <nd ref="451011600"/>
+    <nd ref="451011602"/>
+    <nd ref="451011603"/>
+    <nd ref="451011604"/>
+    <nd ref="451011605"/>
+    <nd ref="451011606"/>
+    <nd ref="451011607"/>
+    <nd ref="451011559"/>
+    <tag k="landuse" v="forest"/>
+    <tag k="natural" v="wood"/>
+  </way>
+  <way id="38253535" version="4" timestamp="2009-12-09T23:03:48Z" uid="200463" user="harmagedon" changeset="3337772">
+    <nd ref="401314453"/>
+    <nd ref="33183199"/>
+    <nd ref="451011009"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lcn" v="yes"/>
+    <tag k="loc_ref" v="K 113"/>
+    <tag k="name" v="Aaretalstrasse"/>
+    <tag k="ref" v="5"/>
+  </way>
+  <way id="38253841" version="5" timestamp="2010-10-07T18:40:44Z" uid="9581" user="Lobelt" changeset="5980318">
+    <nd ref="276945934"/>
+    <nd ref="451016403"/>
+    <nd ref="699584947"/>
+    <nd ref="451016405"/>
+    <nd ref="452165071"/>
+    <nd ref="276945886"/>
+    <tag k="access" v="permissive"/>
+    <tag k="highway" v="track"/>
+    <tag k="motorcar" v="agricultural"/>
+    <tag k="motorcycle" v="agricultural"/>
+    <tag k="surface" v="gravel"/>
+    <tag k="tracktype" v="grade3"/>
+    <tag k="width" v="2.5"/>
+  </way>
+  <way id="38253842" version="4" timestamp="2010-10-07T18:43:00Z" uid="9581" user="Lobelt" changeset="5980318">
+    <nd ref="699584953"/>
+    <nd ref="699584952"/>
+    <nd ref="699584951"/>
+    <nd ref="699584950"/>
+    <nd ref="451016405"/>
+    <tag k="access" v="yes"/>
+    <tag k="highway" v="track"/>
+    <tag k="motorcar" v="forestry"/>
+    <tag k="motorcycle" v="forestry"/>
+    <tag k="noexit" v="yes"/>
+    <tag k="surface" v="ground"/>
+    <tag k="tracktype" v="grade5"/>
+    <tag k="width" v="1,5"/>
+  </way>
+</osm>

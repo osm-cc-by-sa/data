@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="85789104" version="2" timestamp="2010-12-05T05:07:00Z" uid="7617" user="Franc" changeset="6546781">
+    <nd ref="995846890"/>
+    <nd ref="995846847"/>
+    <tag k="highway" v="service"/>
+    <tag k="lcn" v="yes"/>
+    <tag k="service" v="parking_aisle"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="85789871" version="2" timestamp="2010-12-25T21:39:02Z" uid="7617" user="Franc" changeset="6763901">
+    <nd ref="995898669"/>
+    <nd ref="1064601494"/>
+    <nd ref="1064601769"/>
+    <nd ref="995898673"/>
+    <nd ref="995898679"/>
+    <nd ref="1064601458"/>
+    <nd ref="995898685"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="footway"/>
+    <tag k="lcn" v="yes"/>
+    <tag k="source" v="local_knowledge"/>
+  </way>
+  <way id="85789872" version="2" timestamp="2010-12-25T21:41:23Z" uid="7617" user="Franc" changeset="6763901">
+    <nd ref="995898685"/>
+    <nd ref="995898706"/>
+    <nd ref="1064601421"/>
+    <nd ref="995898710"/>
+    <nd ref="995898715"/>
+    <nd ref="1064601860"/>
+    <nd ref="995898669"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="footway"/>
+    <tag k="lcn" v="yes"/>
+    <tag k="source" v="local_knowledge"/>
+  </way>
+  <way id="85789875" version="2" timestamp="2010-12-25T21:39:35Z" uid="7617" user="Franc" changeset="6763901">
+    <nd ref="28882884"/>
+    <nd ref="83324854"/>
+    <nd ref="28882873"/>
+    <nd ref="602524081"/>
+    <nd ref="28882872"/>
+    <nd ref="1064601828"/>
+    <nd ref="602524103"/>
+    <nd ref="995898669"/>
+    <nd ref="8917575"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lcn" v="yes"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Woodford Street"/>
+    <tag k="source" v="yahoo_imagery"/>
+    <tag k="source:name" v="historical"/>
+  </way>
+</osm>

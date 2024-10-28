@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="58931733" version="1" timestamp="2010-05-11T23:01:47Z" uid="4467" user="Rosscoe" changeset="4673494">
+    <nd ref="730190585"/>
+    <nd ref="313885989"/>
+    <nd ref="52492506"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rathcown Road"/>
+    <tag k="source" v="MMBW"/>
+  </way>
+  <way id="58931733" version="2" timestamp="2010-07-09T04:07:28Z" uid="74617" user="JohnSmith" changeset="5170825">
+    <nd ref="730190585"/>
+    <nd ref="313885989"/>
+    <nd ref="52492506"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Rathcown Road"/>
+    <tag k="source" v="MMBW"/>
+  </way>
+  <way id="58931734" version="1" timestamp="2010-05-11T23:01:47Z" uid="4467" user="Rosscoe" changeset="4673494">
+    <nd ref="730190581"/>
+    <nd ref="730190587"/>
+    <nd ref="730190585"/>
+    <nd ref="730190579"/>
+    <nd ref="730190590"/>
+    <nd ref="730190582"/>
+    <nd ref="730190588"/>
+    <nd ref="730190583"/>
+    <nd ref="730190581"/>
+    <tag k="highway" v="residential"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="58931734" version="2" timestamp="2010-07-09T04:03:53Z" uid="74617" user="JohnSmith" changeset="5170825">
+    <nd ref="730190581"/>
+    <nd ref="730190587"/>
+    <nd ref="730190585"/>
+    <nd ref="730190579"/>
+    <nd ref="730190590"/>
+    <nd ref="730190582"/>
+    <nd ref="730190588"/>
+    <nd ref="730190583"/>
+    <nd ref="730190581"/>
+    <tag k="highway" v="residential"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="58931735" version="1" timestamp="2010-05-11T23:01:47Z" uid="4467" user="Rosscoe" changeset="4673494">
+    <nd ref="730190581"/>
+    <nd ref="52492871"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Chenes Street"/>
+  </way>
+  <way id="58931735" version="2" timestamp="2010-07-09T04:00:32Z" uid="74617" user="JohnSmith" changeset="5170825">
+    <nd ref="730190581"/>
+    <nd ref="52492871"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Chenes Street"/>
+  </way>
+</osm>

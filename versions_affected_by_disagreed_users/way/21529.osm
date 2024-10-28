@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="21529171" version="8" timestamp="2010-03-07T08:48:02Z" uid="58091" user="Andreas M" changeset="4058292">
+    <nd ref="31273912"/>
+    <nd ref="231736829"/>
+    <nd ref="231736830"/>
+    <nd ref="231736831"/>
+    <nd ref="231736832"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="is_in:city" v="Stockerau"/>
+    <tag k="is_in:country_code" v="AT"/>
+    <tag k="name" v="Mühlgasse"/>
+    <tag k="postal_code" v="2000"/>
+  </way>
+  <way id="21529230" version="4" timestamp="2010-03-07T08:48:26Z" uid="58091" user="Andreas M" changeset="4058292">
+    <nd ref="231736832"/>
+    <nd ref="231737593"/>
+    <tag k="highway" v="residential"/>
+    <tag k="is_in:city" v="Stockerau"/>
+    <tag k="is_in:country_code" v="AT"/>
+    <tag k="name" v="Kochplatz"/>
+    <tag k="postal_code" v="2000"/>
+  </way>
+  <way id="21529348" version="7" timestamp="2010-03-07T08:48:27Z" uid="58091" user="Andreas M" changeset="4058292">
+    <nd ref="231737731"/>
+    <nd ref="298890642"/>
+    <nd ref="231738808"/>
+    <nd ref="231737593"/>
+    <nd ref="31258261"/>
+    <tag k="highway" v="residential"/>
+    <tag k="is_in:city" v="Stockerau"/>
+    <tag k="is_in:country_code" v="AT"/>
+    <tag k="name" v="Kirchengasse"/>
+    <tag k="postal_code" v="2000"/>
+  </way>
+  <way id="21529758" version="4" timestamp="2010-07-06T08:46:25Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="231729779"/>
+    <nd ref="231738601"/>
+    <nd ref="231738602"/>
+    <nd ref="231738603"/>
+    <nd ref="231736878"/>
+    <nd ref="231730692"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Heaslop Terrace"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="21529896" version="6" timestamp="2010-03-07T08:48:34Z" uid="58091" user="Andreas M" changeset="4058292">
+    <nd ref="31330393"/>
+    <nd ref="31273817"/>
+    <tag k="highway" v="residential"/>
+    <tag k="is_in:city" v="Stockerau"/>
+    <tag k="is_in:country_code" v="AT"/>
+    <tag k="name" v="Holzhof"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="postal_code" v="2000"/>
+  </way>
+</osm>

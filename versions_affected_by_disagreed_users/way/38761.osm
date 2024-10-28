@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="38761544" version="1" timestamp="2009-08-09T13:12:33Z" uid="64977" user="CLoeser" changeset="2085422">
+    <nd ref="281597635"/>
+    <nd ref="281597636"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="created_by" v="Potlatch 0.10b"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="38761545" version="1" timestamp="2009-08-09T13:12:33Z" uid="64977" user="CLoeser" changeset="2085422">
+    <nd ref="281597636"/>
+    <nd ref="281598507"/>
+    <nd ref="281597638"/>
+    <tag k="created_by" v="Potlatch 0.10b"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="38761547" version="1" timestamp="2009-08-09T13:12:34Z" uid="64977" user="CLoeser" changeset="2085422">
+    <nd ref="459652040"/>
+    <nd ref="459652056"/>
+    <tag k="waterway" v="stream"/>
+  </way>
+  <way id="38761547" version="2" timestamp="2010-01-16T13:18:29Z" uid="64977" user="CLoeser" changeset="3631353">
+    <nd ref="459652056"/>
+    <nd ref="459652040"/>
+    <tag k="waterway" v="stream"/>
+    <tag k="wikipedia:de" v="http://de.wikipedia.org/wiki/Hansh%C3%A4ger_Bach"/>
+  </way>
+  <way id="38761548" version="1" timestamp="2009-08-09T13:12:34Z" uid="64977" user="CLoeser" changeset="2085422">
+    <nd ref="459652061"/>
+    <nd ref="281602415"/>
+    <tag k="waterway" v="stream"/>
+  </way>
+  <way id="38761549" version="1" timestamp="2009-08-09T13:12:34Z" uid="64977" user="CLoeser" changeset="2085422">
+    <nd ref="459652056"/>
+    <nd ref="459652061"/>
+    <tag k="description" v="hier fließt das Wasser durch das Gebäude der alten Mühle"/>
+    <tag k="tunnel" v="yes"/>
+    <tag k="waterway" v="stream"/>
+  </way>
+  <way id="38761549" version="2" timestamp="2010-05-22T16:38:55Z" uid="64977" user="CLoeser" changeset="4775899">
+    <nd ref="459652056"/>
+    <nd ref="459652061"/>
+    <tag k="description" v="hier fließt das Wasser durch das Gebäude der alten Mühle"/>
+    <tag k="tunnel" v="yes"/>
+    <tag k="url" v="http://www.cloeser.org/gewaesser/Hanshaeger_Bach_-_Kemnitz.pdf"/>
+    <tag k="waterway" v="stream"/>
+  </way>
+</osm>

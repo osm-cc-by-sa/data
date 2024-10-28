@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="42633165" version="2" timestamp="2010-07-06T18:41:01Z" uid="74617" user="JohnSmith" changeset="5152225">
+    <nd ref="532646237"/>
+    <nd ref="532646239"/>
+    <nd ref="532646211"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Boulton Terrace"/>
+  </way>
+  <way id="42633771" version="2" timestamp="2010-07-06T18:35:46Z" uid="74617" user="JohnSmith" changeset="5152225">
+    <nd ref="532646211"/>
+    <nd ref="282201669"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Campbell Street"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+</osm>

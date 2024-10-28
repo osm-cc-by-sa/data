@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="40608146" version="2" timestamp="2010-06-02T01:53:22Z" uid="4467" user="Rosscoe" changeset="4880068">
+    <nd ref="277880769"/>
+    <nd ref="267860530"/>
+    <nd ref="267860531"/>
+    <nd ref="267860532"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Gilman Street"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="40608147" version="2" timestamp="2010-06-01T03:02:09Z" uid="4467" user="Rosscoe" changeset="4871192">
+    <nd ref="277880713"/>
+    <nd ref="267860526"/>
+    <nd ref="267860527"/>
+    <nd ref="267860528"/>
+    <nd ref="267860529"/>
+    <nd ref="277880769"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Power Terrace"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="40608149" version="2" timestamp="2010-06-02T02:56:01Z" uid="4467" user="Rosscoe" changeset="4880285">
+    <nd ref="267855722"/>
+    <nd ref="267855725"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Knott Street"/>
+  </way>
+  <way id="40608440" version="2" timestamp="2010-06-29T20:47:34Z" uid="74617" user="JohnSmith" changeset="5109183">
+    <nd ref="493161709"/>
+    <nd ref="493161710"/>
+    <nd ref="493161711"/>
+    <nd ref="493161712"/>
+    <nd ref="493161709"/>
+    <tag k="fixme" v="sport=rugby is ambiguous, see http://wiki.osm.org/wiki/Tag:sport%3Drugby for more details"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="rugby"/>
+  </way>
+</osm>

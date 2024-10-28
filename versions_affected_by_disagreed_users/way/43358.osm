@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="43358554" version="1" timestamp="2009-10-30T04:22:31Z" uid="38528" user="acrosscanadatrails" changeset="2986581">
+    <nd ref="545531400"/>
+    <nd ref="545531401"/>
+    <nd ref="545531402"/>
+    <nd ref="545531404"/>
+    <nd ref="545531406"/>
+    <nd ref="545531408"/>
+    <nd ref="470231756"/>
+    <tag k="highway" v="unclassified"/>
+  </way>
+  <way id="43358555" version="1" timestamp="2009-10-30T04:22:31Z" uid="38528" user="acrosscanadatrails" changeset="2986581">
+    <nd ref="271275755"/>
+    <nd ref="279958869"/>
+    <nd ref="279958870"/>
+    <nd ref="279958871"/>
+    <nd ref="279958872"/>
+    <nd ref="279958873"/>
+    <nd ref="279958874"/>
+    <tag k="highway" v="footway"/>
+    <tag k="name" v="Trans Canada Trail"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="43358556" version="1" timestamp="2009-10-30T04:22:31Z" uid="38528" user="acrosscanadatrails" changeset="2986581">
+    <nd ref="279958868"/>
+    <nd ref="271275755"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="footway"/>
+    <tag k="name" v="Trans Canada Trail"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="43358557" version="2" timestamp="2010-06-02T01:55:57Z" uid="4467" user="Rosscoe" changeset="4880068">
+    <nd ref="313106758"/>
+    <nd ref="313106768"/>
+    <nd ref="313106773"/>
+    <nd ref="313106759"/>
+    <nd ref="313106760"/>
+    <nd ref="313106761"/>
+    <nd ref="295880402"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Heinrich Street"/>
+  </way>
+  <way id="43358557" version="3" timestamp="2010-07-06T11:21:53Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="313106758"/>
+    <nd ref="313106768"/>
+    <nd ref="313106773"/>
+    <nd ref="313106759"/>
+    <nd ref="313106760"/>
+    <nd ref="313106761"/>
+    <nd ref="295880402"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Heinrich Street"/>
+  </way>
+</osm>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1376453" version="1" timestamp="2011-01-15T02:46:09Z" uid="4467" user="Rosscoe" changeset="6973376">
+    <member type="way" ref="31336317" role="from"/>
+    <member type="node" ref="420466134" role="via"/>
+    <member type="way" ref="35973119" role="to"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1376454" version="1" timestamp="2011-01-15T02:46:10Z" uid="4467" user="Rosscoe" changeset="6973376">
+    <member type="way" ref="35973119" role="from"/>
+    <member type="way" ref="31336317" role="to"/>
+    <member type="node" ref="420466134" role="via"/>
+    <tag k="restriction" v="only_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1376533" version="3" timestamp="2011-01-29T17:09:48Z" uid="27600" user="Islanit" changeset="7124544">
+    <member type="way" ref="95188492" role="outer"/>
+    <member type="way" ref="94999029" role="outer"/>
+    <member type="way" ref="24580085" role="outer"/>
+    <member type="way" ref="24580083" role="outer"/>
+    <member type="way" ref="24580099" role="outer"/>
+    <member type="way" ref="95188483" role="outer"/>
+    <member type="way" ref="95188488" role="outer"/>
+    <member type="way" ref="95188490" role="outer"/>
+    <member type="way" ref="25414456" role="outer"/>
+    <member type="way" ref="25414455" role="outer"/>
+    <member type="way" ref="26153208" role="outer"/>
+    <member type="way" ref="26153209" role="outer"/>
+    <member type="way" ref="82204767" role="outer"/>
+    <member type="way" ref="82204770" role="outer"/>
+    <member type="way" ref="10773400" role="outer"/>
+    <member type="way" ref="10773399" role="outer"/>
+    <member type="way" ref="10773382" role="outer"/>
+    <member type="way" ref="94531015" role="outer"/>
+    <member type="way" ref="94531016" role="outer"/>
+    <member type="way" ref="49577999" role="outer"/>
+    <member type="way" ref="95188493" role="outer"/>
+    <member type="way" ref="97242808" role="outer"/>
+    <tag k="boundary" v="postal_code"/>
+    <tag k="name" v="21035 Hamburg"/>
+    <tag k="postal_code" v="21035"/>
+    <tag k="postal_code_level" v="8"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1376654" version="1" timestamp="2011-01-15T11:12:14Z" uid="7617" user="Franc" changeset="6975652">
+    <member type="way" ref="94925485" role="from"/>
+    <member type="way" ref="95202651" role="to"/>
+    <member type="node" ref="1101899068" role="via"/>
+    <tag k="restriction" v="only_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1376655" version="1" timestamp="2011-01-15T11:12:15Z" uid="7617" user="Franc" changeset="6975652">
+    <member type="way" ref="10016490" role="from"/>
+    <member type="way" ref="35154886" role="to"/>
+    <member type="node" ref="82262457" role="via"/>
+    <tag k="restriction" v="only_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+</osm>

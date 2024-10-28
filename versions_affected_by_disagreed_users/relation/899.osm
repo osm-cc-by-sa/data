@@ -1,0 +1,968 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="899002" version="2" timestamp="2011-02-23T11:40:51Z" uid="4467" user="Rosscoe" changeset="7371637">
+    <member type="way" ref="29449711" role="give_way"/>
+    <member type="node" ref="1167993074" role="junction"/>
+    <member type="node" ref="60810882" role="junction"/>
+    <tag k="type" v="traffic_control"/>
+  </relation>
+  <relation id="899055" version="2" timestamp="2011-02-23T11:41:04Z" uid="4467" user="Rosscoe" changeset="7371637">
+    <member type="way" ref="11068966" role="from"/>
+    <member type="way" ref="101167843" role="to"/>
+    <member type="node" ref="98717129" role="via"/>
+    <tag k="restriction" v="only_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="899091" version="1" timestamp="2010-05-03T08:46:29Z" uid="151899" user="Bikeman2000" changeset="4592772">
+    <member type="way" ref="57895924" role=""/>
+    <member type="way" ref="57895927" role=""/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="899091" version="2" timestamp="2010-05-03T12:55:33Z" uid="151899" user="Bikeman2000" changeset="4594546">
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="899168" version="1" timestamp="2010-05-03T10:25:37Z" uid="171838" user="argrath" changeset="4593440">
+    <member type="way" ref="57901531" role="outer"/>
+    <member type="way" ref="57901533" role="inner"/>
+    <tag k="name" v="麻那姫湖"/>
+    <tag k="natural" v="water"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（湖沼データ）平成17年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-W09.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="899173" version="1" timestamp="2010-05-03T10:39:01Z" uid="171838" user="argrath" changeset="4593532">
+    <member type="way" ref="57901943" role="outer"/>
+    <member type="way" ref="57901952" role="outer"/>
+    <member type="way" ref="57901959" role="inner"/>
+    <member type="way" ref="57901960" role="inner"/>
+    <tag k="name" v="九頭竜湖"/>
+    <tag k="natural" v="water"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（湖沼データ）平成17年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-W09.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="899194" version="1" timestamp="2010-05-03T11:36:01Z" uid="171838" user="argrath" changeset="4593920">
+    <member type="way" ref="57909249" role="outer"/>
+    <member type="way" ref="57909749" role="outer"/>
+    <member type="way" ref="57909794" role="inner"/>
+    <tag k="name" v="坂本貯水池"/>
+    <tag k="natural" v="water"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（湖沼データ）平成17年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-W09.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="899203" version="1" timestamp="2010-05-03T11:45:18Z" uid="171838" user="argrath" changeset="4594021">
+    <member type="way" ref="57913478" role="outer"/>
+    <member type="way" ref="57913538" role="outer"/>
+    <member type="way" ref="57913545" role="inner"/>
+    <member type="way" ref="57913546" role="inner"/>
+    <tag k="name" v="池原貯水池"/>
+    <tag k="natural" v="water"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（湖沼データ）平成17年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-W09.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="899207" version="1" timestamp="2010-05-03T12:06:03Z" uid="171838" user="argrath" changeset="4594185">
+    <member type="way" ref="57914163" role="outer"/>
+    <member type="way" ref="57914171" role="outer"/>
+    <member type="way" ref="57914172" role="inner"/>
+    <tag k="name" v="風屋貯水池"/>
+    <tag k="natural" v="water"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（湖沼データ）平成17年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-W09.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="899231" version="1" timestamp="2010-05-03T12:51:30Z" uid="33382" user="de_muur" changeset="4594511">
+    <member type="node" ref="718673645" role=""/>
+    <member type="way" ref="57919696" role=""/>
+    <member type="way" ref="24793843" role=""/>
+    <member type="way" ref="24530077" role=""/>
+    <member type="way" ref="57919697" role=""/>
+    <member type="node" ref="718676605" role=""/>
+    <tag k="name" v="Lauenburg/Elbe - Schwarzenbek-Zentrum"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="899231" version="2" timestamp="2010-10-08T18:51:23Z" uid="33382" user="de_muur" changeset="5988390">
+    <member type="node" ref="941759907" role=""/>
+    <member type="way" ref="47223265" role=""/>
+    <member type="node" ref="718673645" role=""/>
+    <member type="way" ref="57919696" role=""/>
+    <member type="way" ref="24793843" role=""/>
+    <member type="way" ref="24530077" role=""/>
+    <member type="way" ref="57919697" role=""/>
+    <member type="node" ref="718676605" role=""/>
+    <tag k="name" v="Lauenburg/Elbe - Schwarzenbek-Zentrum"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="899232" version="1" timestamp="2010-05-03T12:51:37Z" uid="33382" user="de_muur" changeset="4594511">
+    <member type="node" ref="718676605" role=""/>
+    <member type="way" ref="24243713" role=""/>
+    <member type="way" ref="24243711" role=""/>
+    <member type="way" ref="57738482" role=""/>
+    <member type="way" ref="57919700" role=""/>
+    <member type="way" ref="57919701" role=""/>
+    <member type="way" ref="57738481" role=""/>
+    <member type="node" ref="718676609" role=""/>
+    <tag k="name" v="Mölln - Schwarzenbek-Zentrum"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="899232" version="2" timestamp="2010-10-09T08:01:08Z" uid="33382" user="de_muur" changeset="5991545">
+    <member type="node" ref="718676605" role=""/>
+    <member type="way" ref="24243713" role=""/>
+    <member type="way" ref="24243711" role=""/>
+    <member type="way" ref="57738482" role=""/>
+    <member type="way" ref="57919700" role=""/>
+    <member type="way" ref="57919701" role=""/>
+    <member type="way" ref="57738481" role=""/>
+    <member type="node" ref="718676609" role=""/>
+    <member type="way" ref="67711904" role=""/>
+    <member type="way" ref="4625527" role=""/>
+    <member type="way" ref="4625530" role=""/>
+    <member type="node" ref="942280544" role=""/>
+    <tag k="name" v="Mölln - Schwarzenbek-Zentrum"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="899237" version="1" timestamp="2010-05-03T13:02:56Z" uid="33382" user="de_muur" changeset="4594619">
+    <member type="node" ref="718676609" role=""/>
+    <member type="way" ref="57738483" role=""/>
+    <member type="way" ref="24793839" role=""/>
+    <member type="node" ref="718682648" role=""/>
+    <tag k="name" v="Büchen - Schwarzenbek-Zentrum"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="899241" version="1" timestamp="2010-05-03T13:08:28Z" uid="33382" user="de_muur" changeset="4594685">
+    <member type="node" ref="718682648" role=""/>
+    <member type="way" ref="57920062" role=""/>
+    <member type="way" ref="30805052" role=""/>
+    <member type="way" ref="57738484" role=""/>
+    <member type="way" ref="31661556" role=""/>
+    <member type="node" ref="718691500" role=""/>
+    <tag k="name" v="Büchen - Schwarzenbek"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="899241" version="2" timestamp="2010-05-03T13:35:36Z" uid="33382" user="de_muur" changeset="4594919">
+    <member type="node" ref="718682648" role=""/>
+    <member type="way" ref="57920062" role=""/>
+    <member type="way" ref="30805052" role=""/>
+    <member type="way" ref="57738484" role=""/>
+    <member type="way" ref="31661556" role=""/>
+    <member type="node" ref="718691500" role=""/>
+    <member type="way" ref="57920241" role=""/>
+    <member type="way" ref="57923430" role=""/>
+    <member type="node" ref="718726325" role=""/>
+    <tag k="name" v="Büchen - Schwarzenbek"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="899241" version="3" timestamp="2010-07-10T10:18:34Z" uid="33382" user="de_muur" changeset="5181237">
+    <member type="node" ref="718682648" role=""/>
+    <member type="way" ref="57920062" role=""/>
+    <member type="way" ref="30805052" role=""/>
+    <member type="way" ref="57738484" role=""/>
+    <member type="way" ref="31661556" role=""/>
+    <member type="node" ref="718691500" role=""/>
+    <member type="way" ref="57920241" role=""/>
+    <member type="way" ref="57923430" role=""/>
+    <member type="node" ref="718726325" role=""/>
+    <member type="way" ref="25018613" role=""/>
+    <member type="way" ref="63738979" role=""/>
+    <member type="node" ref="809854291" role=""/>
+    <tag k="name" v="Büchen - Schwarzenbek"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="899256" version="1" timestamp="2010-05-03T13:35:36Z" uid="33382" user="de_muur" changeset="4594919">
+    <member type="node" ref="718726325" role=""/>
+    <member type="way" ref="57738485" role=""/>
+    <member type="way" ref="35718457" role=""/>
+    <member type="node" ref="718726334" role=""/>
+    <tag k="name" v="Schwarzenbek - Wotersen"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="899256" version="2" timestamp="2010-05-03T13:53:02Z" uid="33382" user="de_muur" changeset="4595078">
+    <member type="node" ref="718726325" role=""/>
+    <member type="way" ref="57738485" role=""/>
+    <member type="way" ref="35718457" role=""/>
+    <member type="node" ref="718726334" role=""/>
+    <member type="way" ref="57738486" role=""/>
+    <member type="way" ref="57738425" role=""/>
+    <member type="way" ref="57928319" role=""/>
+    <member type="node" ref="718768278" role=""/>
+    <tag k="name" v="Schwarzenbek - Wotersen"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="899256" version="3" timestamp="2010-05-03T13:58:07Z" uid="33382" user="de_muur" changeset="4595134">
+    <member type="node" ref="718726325" role=""/>
+    <member type="way" ref="57738485" role=""/>
+    <member type="way" ref="35718457" role=""/>
+    <member type="node" ref="718726334" role=""/>
+    <member type="way" ref="57738486" role=""/>
+    <member type="way" ref="57738425" role=""/>
+    <member type="way" ref="57928319" role=""/>
+    <member type="node" ref="718768278" role=""/>
+    <member type="way" ref="25018617" role=""/>
+    <member type="way" ref="44215183" role=""/>
+    <member type="way" ref="25018615" role=""/>
+    <member type="way" ref="38047593" role=""/>
+    <member type="way" ref="38047594" role=""/>
+    <member type="way" ref="34943085" role=""/>
+    <member type="way" ref="34943084" role=""/>
+    <member type="node" ref="718782703" role=""/>
+    <tag k="name" v="Schwarzenbek - Wotersen"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="899269" version="1" timestamp="2010-05-03T14:02:48Z" uid="33382" user="de_muur" changeset="4595177">
+    <member type="node" ref="718782703" role=""/>
+    <member type="way" ref="25012633" role=""/>
+    <member type="node" ref="718791218" role=""/>
+    <tag k="name" v="Lauenburg/Elbe - Wotersen"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="899269" version="2" timestamp="2010-05-03T14:07:30Z" uid="33382" user="de_muur" changeset="4595221">
+    <member type="node" ref="718782703" role=""/>
+    <member type="way" ref="25012633" role=""/>
+    <member type="node" ref="718791218" role=""/>
+    <member type="way" ref="8579999" role=""/>
+    <member type="way" ref="57738750" role=""/>
+    <member type="node" ref="718799265" role=""/>
+    <tag k="name" v="Lauenburg/Elbe - Wotersen"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="899269" version="3" timestamp="2010-05-03T14:11:11Z" uid="33382" user="de_muur" changeset="4595249">
+    <member type="node" ref="718782703" role=""/>
+    <member type="way" ref="25012633" role=""/>
+    <member type="node" ref="718791218" role=""/>
+    <member type="way" ref="8579999" role=""/>
+    <member type="way" ref="57738750" role=""/>
+    <member type="node" ref="718799265" role=""/>
+    <member type="way" ref="35101055" role=""/>
+    <member type="node" ref="718805416" role=""/>
+    <tag k="name" v="Lauenburg/Elbe - Wotersen"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="899273" version="1" timestamp="2010-05-03T14:17:25Z" uid="33382" user="de_muur" changeset="4595292">
+    <member type="node" ref="718805416" role=""/>
+    <member type="way" ref="34943089" role=""/>
+    <member type="way" ref="34990014" role=""/>
+    <member type="way" ref="37865239" role=""/>
+    <member type="way" ref="37865238" role=""/>
+    <member type="way" ref="25012636" role=""/>
+    <member type="node" ref="718817087" role=""/>
+    <tag k="name" v="Mölln - Wotersen"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="899273" version="2" timestamp="2010-05-03T14:21:36Z" uid="33382" user="de_muur" changeset="4595322">
+    <member type="node" ref="718805416" role=""/>
+    <member type="way" ref="34943089" role=""/>
+    <member type="way" ref="34990014" role=""/>
+    <member type="way" ref="37865239" role=""/>
+    <member type="way" ref="37865238" role=""/>
+    <member type="way" ref="25012636" role=""/>
+    <member type="node" ref="718817087" role=""/>
+    <member type="way" ref="8580005" role=""/>
+    <member type="way" ref="57738749" role=""/>
+    <member type="node" ref="718825564" role=""/>
+    <tag k="name" v="Mölln - Wotersen"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="899273" version="3" timestamp="2010-05-03T14:25:02Z" uid="33382" user="de_muur" changeset="4595364">
+    <member type="node" ref="718805416" role=""/>
+    <member type="way" ref="34943089" role=""/>
+    <member type="way" ref="34990014" role=""/>
+    <member type="way" ref="37865239" role=""/>
+    <member type="way" ref="37865238" role=""/>
+    <member type="way" ref="25012636" role=""/>
+    <member type="node" ref="718817087" role=""/>
+    <member type="way" ref="8580005" role=""/>
+    <member type="way" ref="57738749" role=""/>
+    <member type="node" ref="718825564" role=""/>
+    <member type="way" ref="57931989" role=""/>
+    <member type="way" ref="57717933" role=""/>
+    <member type="node" ref="718831570" role=""/>
+    <tag k="name" v="Mölln - Wotersen"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="899276" version="1" timestamp="2010-05-03T14:40:16Z" uid="33382" user="de_muur" changeset="4595475">
+    <member type="node" ref="718831570" role=""/>
+    <member type="way" ref="34990064" role=""/>
+    <member type="node" ref="718853933" role=""/>
+    <member type="way" ref="8581116" role=""/>
+    <member type="way" ref="25040477" role=""/>
+    <member type="way" ref="57717943" role=""/>
+    <member type="node" ref="718853935" role=""/>
+    <tag k="name" v="Lauenburg/Elbe - Wotersen"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="899277" version="1" timestamp="2010-05-03T14:40:24Z" uid="33382" user="de_muur" changeset="4595475">
+    <member type="node" ref="718831570" role=""/>
+    <member type="way" ref="8580006" role=""/>
+    <member type="way" ref="57717935" role=""/>
+    <member type="node" ref="718853811" role=""/>
+    <tag k="name" v="Elbe-Lübeck-Kanal - Güster"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="899278" version="1" timestamp="2010-05-03T14:40:25Z" uid="33382" user="de_muur" changeset="4595475">
+    <member type="node" ref="718853935" role=""/>
+    <member type="way" ref="57717934" role=""/>
+    <member type="node" ref="718853811" role=""/>
+    <tag k="name" v="Lauenburg/Elbe - Lübeck"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="899278" version="2" timestamp="2011-05-02T12:50:56Z" uid="33382" user="de_muur" changeset="8030331">
+    <member type="node" ref="718853935" role=""/>
+    <member type="way" ref="57717934" role=""/>
+    <member type="node" ref="718853811" role=""/>
+    <tag k="name" v="Lauenburg - Lübeck"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="899279" version="1" timestamp="2010-05-03T14:40:25Z" uid="33382" user="de_muur" changeset="4595475">
+    <member type="node" ref="718853935" role=""/>
+    <member type="way" ref="57932685" role=""/>
+    <member type="way" ref="57717942" role=""/>
+    <member type="way" ref="25040479" role=""/>
+    <member type="way" ref="57717944" role=""/>
+    <member type="node" ref="718853938" role=""/>
+    <tag k="name" v="Gudow - Güster"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="899285" version="1" timestamp="2010-05-03T14:52:22Z" uid="33382" user="de_muur" changeset="4595561">
+    <member type="node" ref="601499032" role=""/>
+    <member type="way" ref="23603716" role=""/>
+    <member type="way" ref="23578041" role=""/>
+    <member type="node" ref="718870314" role=""/>
+    <tag k="name" v="Aumühle - Geesthacht"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="899285" version="2" timestamp="2010-05-03T14:59:56Z" uid="33382" user="de_muur" changeset="4595630">
+    <member type="node" ref="601499032" role=""/>
+    <member type="way" ref="23603716" role=""/>
+    <member type="way" ref="23578041" role=""/>
+    <member type="node" ref="718870314" role=""/>
+    <member type="way" ref="4920838" role=""/>
+    <member type="way" ref="57767532" role=""/>
+    <member type="node" ref="718885225" role=""/>
+    <tag k="name" v="Aumühle - Geesthacht"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="899285" version="3" timestamp="2010-05-03T15:27:32Z" uid="33382" user="de_muur" changeset="4595797">
+    <member type="node" ref="601499032" role=""/>
+    <member type="way" ref="23603716" role=""/>
+    <member type="way" ref="23578041" role=""/>
+    <member type="node" ref="718870314" role=""/>
+    <member type="way" ref="4920838" role=""/>
+    <member type="way" ref="57767532" role=""/>
+    <member type="node" ref="718885225" role=""/>
+    <member type="way" ref="37649079" role=""/>
+    <member type="node" ref="718891514" role=""/>
+    <tag k="name" v="Aumühle - Geesthacht"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="899285" version="4" timestamp="2010-11-09T20:08:38Z" uid="33382" user="de_muur" changeset="6331014">
+    <member type="node" ref="601499032" role=""/>
+    <member type="way" ref="23603716" role=""/>
+    <member type="way" ref="23578041" role=""/>
+    <member type="node" ref="718870314" role=""/>
+    <member type="way" ref="4920838" role=""/>
+    <member type="way" ref="57767532" role=""/>
+    <member type="node" ref="718885225" role=""/>
+    <member type="way" ref="37649079" role=""/>
+    <member type="node" ref="718891514" role=""/>
+    <member type="way" ref="37649080" role=""/>
+    <member type="way" ref="23549550" role=""/>
+    <member type="way" ref="27797294" role=""/>
+    <member type="way" ref="84679249" role=""/>
+    <member type="way" ref="34601831" role=""/>
+    <member type="way" ref="34601828" role=""/>
+    <member type="way" ref="24177097" role=""/>
+    <member type="way" ref="34601500" role=""/>
+    <member type="node" ref="854703496" role=""/>
+    <tag k="name" v="Aumühle - Geesthacht"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="899318" version="1" timestamp="2010-05-03T15:49:45Z" uid="171838" user="argrath" changeset="4596171">
+    <member type="way" ref="57935404" role="outer"/>
+    <member type="way" ref="57935405" role="outer"/>
+    <tag k="name" v="宮川貯水池"/>
+    <tag k="natural" v="water"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（湖沼データ）平成17年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-W09.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="899322" version="1" timestamp="2010-05-03T15:55:54Z" uid="171838" user="argrath" changeset="4596219">
+    <member type="way" ref="57935556" role="outer"/>
+    <member type="way" ref="57935560" role="inner"/>
+    <tag k="name" v="白石湖"/>
+    <tag k="natural" v="water"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（湖沼データ）平成17年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-W09.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="899500" version="1" timestamp="2010-05-03T17:54:47Z" uid="33382" user="de_muur" changeset="4597247">
+    <member type="node" ref="718891514" role=""/>
+    <member type="way" ref="10770364" role=""/>
+    <member type="way" ref="57767531" role=""/>
+    <member type="way" ref="27517804" role=""/>
+    <member type="way" ref="24908866" role=""/>
+    <member type="way" ref="57767232" role=""/>
+    <member type="way" ref="24908867" role=""/>
+    <member type="node" ref="719100070" role=""/>
+    <tag k="name" v="Hamwarde - Worth"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="899501" version="1" timestamp="2010-05-03T17:57:59Z" uid="171838" user="argrath" changeset="4597278">
+    <member type="way" ref="57953469" role="outer"/>
+    <member type="way" ref="57953471" role="inner"/>
+    <tag k="name" v="東郷池"/>
+    <tag k="natural" v="water"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（湖沼データ）平成17年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-W09.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="899502" version="1" timestamp="2010-05-03T17:59:50Z" uid="33382" user="de_muur" changeset="4597299">
+    <member type="node" ref="719100070" role=""/>
+    <member type="way" ref="24908868" role=""/>
+    <member type="way" ref="31660759" role=""/>
+    <member type="way" ref="57767233" role=""/>
+    <member type="node" ref="719110212" role=""/>
+    <tag k="name" v="Geesthacht - Worth"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="899503" version="1" timestamp="2010-05-03T18:04:51Z" uid="171838" user="argrath" changeset="4597330">
+    <member type="way" ref="57953684" role="outer"/>
+    <member type="way" ref="57953687" role="inner"/>
+    <tag k="name" v="緑水湖"/>
+    <tag k="natural" v="water"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（湖沼データ）平成17年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-W09.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="899505" version="1" timestamp="2010-05-03T18:11:06Z" uid="171838" user="argrath" changeset="4597397">
+    <member type="way" ref="57953891" role="outer"/>
+    <member type="way" ref="57953893" role="inner"/>
+    <tag k="name" v="神西湖"/>
+    <tag k="natural" v="water"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（湖沼データ）平成17年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-W09.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="899505" version="2" timestamp="2010-05-03T18:12:52Z" uid="171838" user="argrath" changeset="4597416">
+    <member type="way" ref="57953891" role="outer"/>
+    <member type="way" ref="57953893" role="inner"/>
+    <tag k="name" v="神西湖"/>
+    <tag k="name:ja_rm" v="Jinzaiko"/>
+    <tag k="natural" v="water"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（湖沼データ）平成17年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-W09.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="899506" version="1" timestamp="2010-05-03T18:13:10Z" uid="33382" user="de_muur" changeset="4597420">
+    <member type="node" ref="719110212" role=""/>
+    <member type="way" ref="31660740" role=""/>
+    <member type="node" ref="719135107" role=""/>
+    <tag k="name" v="Geesthacht - Schwarzenbek"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="899506" version="2" timestamp="2010-08-25T16:13:54Z" uid="33382" user="de_muur" changeset="5591095">
+    <member type="node" ref="879000192" role=""/>
+    <member type="way" ref="32926357" role=""/>
+    <member type="way" ref="41849829" role=""/>
+    <member type="way" ref="29155812" role=""/>
+    <member type="way" ref="31660746" role=""/>
+    <member type="way" ref="29155759" role=""/>
+    <member type="node" ref="719110212" role=""/>
+    <member type="way" ref="31660740" role=""/>
+    <member type="node" ref="719135107" role=""/>
+    <tag k="name" v="Geesthacht - Schwarzenbek"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="899506" version="3" timestamp="2010-08-25T19:56:39Z" uid="33382" user="de_muur" changeset="5593186">
+    <member type="node" ref="879000192" role=""/>
+    <member type="way" ref="32926357" role=""/>
+    <member type="way" ref="41849829" role=""/>
+    <member type="way" ref="29155812" role=""/>
+    <member type="way" ref="31660746" role=""/>
+    <member type="way" ref="29155759" role=""/>
+    <member type="node" ref="719110212" role=""/>
+    <member type="way" ref="31660740" role=""/>
+    <member type="node" ref="719135107" role=""/>
+    <member type="way" ref="57953928" role=""/>
+    <member type="way" ref="27103145" role=""/>
+    <member type="node" ref="879370159" role=""/>
+    <tag k="name" v="Geesthacht - Schwarzenbek"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="899507" version="1" timestamp="2010-05-03T18:13:18Z" uid="33382" user="de_muur" changeset="4597420">
+    <member type="node" ref="719135107" role=""/>
+    <member type="way" ref="33840453" role=""/>
+    <member type="way" ref="57953931" role=""/>
+    <member type="way" ref="10770601" role=""/>
+    <member type="way" ref="10770498" role=""/>
+    <member type="node" ref="719135110" role=""/>
+    <tag k="name" v="Hamwarde - Wiershop"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="899515" version="1" timestamp="2010-05-03T18:20:18Z" uid="171838" user="argrath" changeset="4597492">
+    <member type="way" ref="57955248" role="outer"/>
+    <member type="way" ref="57955469" role="outer"/>
+    <tag k="name" v="来島湖"/>
+    <tag k="natural" v="water"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（湖沼データ）平成17年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-W09.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="899515" version="2" timestamp="2010-05-03T18:21:36Z" uid="171838" user="argrath" changeset="4597504">
+    <member type="way" ref="57955248" role="outer"/>
+    <member type="way" ref="57955469" role="outer"/>
+    <tag k="name" v="来島湖"/>
+    <tag k="name:ja_rm" v="Kijimako"/>
+    <tag k="natural" v="water"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（湖沼データ）平成17年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-W09.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="899516" version="1" timestamp="2010-05-03T18:24:14Z" uid="171838" user="argrath" changeset="4597527">
+    <member type="way" ref="57956906" role="outer"/>
+    <member type="way" ref="57956924" role="inner"/>
+    <member type="way" ref="57956932" role="inner"/>
+    <member type="way" ref="57956936" role="inner"/>
+    <member type="way" ref="57956940" role="inner"/>
+    <member type="way" ref="57956943" role="inner"/>
+    <tag k="name" v="みやび湖"/>
+    <tag k="natural" v="water"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（湖沼データ）平成17年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-W09.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="899526" version="1" timestamp="2010-05-03T18:39:22Z" uid="33382" user="de_muur" changeset="4597665">
+    <member type="node" ref="719135109" role=""/>
+    <member type="way" ref="57953929" role=""/>
+    <member type="way" ref="27586478" role=""/>
+    <member type="node" ref="719135110" role=""/>
+    <member type="way" ref="24243698" role=""/>
+    <member type="way" ref="57766986" role=""/>
+    <member type="way" ref="57766985" role=""/>
+    <member type="node" ref="719157937" role=""/>
+    <tag k="name" v="Büchen - Geesthacht"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="899526" version="2" timestamp="2010-08-25T20:03:54Z" uid="33382" user="de_muur" changeset="5593235">
+    <member type="node" ref="879370159" role=""/>
+    <member type="way" ref="74401420" role=""/>
+    <member type="way" ref="30014291" role=""/>
+    <member type="way" ref="57766983" role=""/>
+    <member type="way" ref="24243699" role=""/>
+    <member type="node" ref="719135109" role=""/>
+    <member type="way" ref="57953929" role=""/>
+    <member type="way" ref="27586478" role=""/>
+    <member type="node" ref="719135110" role=""/>
+    <member type="way" ref="24243698" role=""/>
+    <member type="way" ref="57766986" role=""/>
+    <member type="way" ref="57766985" role=""/>
+    <member type="node" ref="719157937" role=""/>
+    <tag k="name" v="Büchen - Geesthacht"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="899526" version="3" timestamp="2010-08-25T20:09:39Z" uid="33382" user="de_muur" changeset="5593292">
+    <member type="node" ref="854697930" role=""/>
+    <member type="way" ref="24908872" role=""/>
+    <member type="way" ref="24432576" role=""/>
+    <member type="way" ref="34602435" role=""/>
+    <member type="way" ref="27585912" role=""/>
+    <member type="way" ref="24432607" role=""/>
+    <member type="way" ref="24432616" role=""/>
+    <member type="way" ref="34602926" role=""/>
+    <member type="way" ref="23240844" role=""/>
+    <member type="node" ref="879370159" role=""/>
+    <member type="way" ref="74401420" role=""/>
+    <member type="way" ref="30014291" role=""/>
+    <member type="way" ref="57766983" role=""/>
+    <member type="way" ref="24243699" role=""/>
+    <member type="node" ref="719135109" role=""/>
+    <member type="way" ref="57953929" role=""/>
+    <member type="way" ref="27586478" role=""/>
+    <member type="node" ref="719135110" role=""/>
+    <member type="way" ref="24243698" role=""/>
+    <member type="way" ref="57766986" role=""/>
+    <member type="way" ref="57766985" role=""/>
+    <member type="node" ref="719157937" role=""/>
+    <tag k="name" v="Büchen - Geesthacht"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="899535" version="1" timestamp="2010-05-03T18:45:51Z" uid="33382" user="de_muur" changeset="4597742">
+    <member type="node" ref="719157937" role=""/>
+    <member type="way" ref="57960082" role=""/>
+    <member type="node" ref="719172820" role=""/>
+    <tag k="name" v="Lauenburg/Elbe - Schwarzenbek"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="899535" version="2" timestamp="2010-10-08T19:11:56Z" uid="33382" user="de_muur" changeset="5988587"/>
+  <relation id="899536" version="1" timestamp="2010-05-03T18:45:51Z" uid="33382" user="de_muur" changeset="4597742">
+    <member type="node" ref="719172820" role=""/>
+    <member type="way" ref="57766984" role=""/>
+    <member type="node" ref="719172821" role=""/>
+    <tag k="name" v="Büchen - Schwarzenbek"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="899538" version="1" timestamp="2010-05-03T18:50:28Z" uid="33382" user="de_muur" changeset="4597799">
+    <member type="node" ref="719172821" role=""/>
+    <member type="way" ref="35716253" role=""/>
+    <member type="way" ref="57766981" role=""/>
+    <member type="way" ref="27354760" role=""/>
+    <member type="way" ref="37480115" role=""/>
+    <member type="node" ref="719180175" role=""/>
+    <tag k="name" v="Lütau - Schwarzenbek"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="899545" version="1" timestamp="2010-05-03T18:53:34Z" uid="33382" user="de_muur" changeset="4597832">
+    <member type="node" ref="719180175" role=""/>
+    <member type="way" ref="25012662" role=""/>
+    <member type="way" ref="24159413" role=""/>
+    <member type="node" ref="719183942" role=""/>
+    <tag k="name" v="Lütau - Schulendorf"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="899546" version="1" timestamp="2010-05-03T18:56:51Z" uid="171838" user="argrath" changeset="4597861">
+    <member type="way" ref="57961294" role="outer"/>
+    <member type="way" ref="57961375" role="outer"/>
+    <member type="way" ref="57961381" role="inner"/>
+    <member type="way" ref="57961384" role="inner"/>
+    <member type="way" ref="57961385" role="inner"/>
+    <tag k="name" v="湯原湖"/>
+    <tag k="natural" v="water"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（湖沼データ）平成17年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-W09.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="899547" version="1" timestamp="2010-05-03T18:57:45Z" uid="33382" user="de_muur" changeset="4597881">
+    <member type="node" ref="719183942" role=""/>
+    <member type="way" ref="25012660" role=""/>
+    <member type="way" ref="37480113" role=""/>
+    <member type="node" ref="719193339" role=""/>
+    <tag k="name" v="Büchen - Lütau"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="899547" version="2" timestamp="2010-05-05T16:09:45Z" uid="33382" user="de_muur" changeset="4614239">
+    <member type="node" ref="719183942" role=""/>
+    <member type="way" ref="25012660" role=""/>
+    <member type="way" ref="37480113" role=""/>
+    <member type="node" ref="719193339" role=""/>
+    <member type="way" ref="33699077" role=""/>
+    <member type="way" ref="58262412" role=""/>
+    <member type="node" ref="722555567" role=""/>
+    <tag k="name" v="Büchen - Lütau"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="899547" version="3" timestamp="2010-10-08T20:04:43Z" uid="33382" user="de_muur" changeset="5988977">
+    <member type="node" ref="719183942" role=""/>
+    <member type="way" ref="25012660" role=""/>
+    <member type="way" ref="37480113" role=""/>
+    <member type="node" ref="719193339" role=""/>
+    <member type="way" ref="80763673" role=""/>
+    <member type="way" ref="33699077" role=""/>
+    <member type="way" ref="58262412" role=""/>
+    <member type="node" ref="722555567" role=""/>
+    <tag k="name" v="Büchen - Lütau"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="899554" version="1" timestamp="2010-05-03T19:23:39Z" uid="171838" user="argrath" changeset="4598181">
+    <member type="way" ref="57963930" role="outer"/>
+    <member type="way" ref="57963939" role="inner"/>
+    <tag k="name" v="羽高湖"/>
+    <tag k="natural" v="water"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（湖沼データ）平成17年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-W09.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="899554" version="2" timestamp="2010-05-03T19:24:25Z" uid="171838" user="argrath" changeset="4598191">
+    <member type="way" ref="57963930" role="outer"/>
+    <member type="way" ref="57963939" role="inner"/>
+    <tag k="name" v="羽高湖"/>
+    <tag k="name:ja_rm" v="Hatakako"/>
+    <tag k="natural" v="water"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（湖沼データ）平成17年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-W09.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="899557" version="1" timestamp="2010-05-03T19:27:42Z" uid="171838" user="argrath" changeset="4598221">
+    <member type="way" ref="57966057" role="outer"/>
+    <member type="way" ref="57966192" role="inner"/>
+    <tag k="name" v="芦田湖"/>
+    <tag k="natural" v="water"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（湖沼データ）平成17年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-W09.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="899567" version="1" timestamp="2010-05-03T19:30:18Z" uid="171838" user="argrath" changeset="4598244">
+    <member type="way" ref="57967433" role="outer"/>
+    <member type="way" ref="57967436" role="inner"/>
+    <member type="way" ref="57967437" role="inner"/>
+    <tag k="name" v="神農湖"/>
+    <tag k="natural" v="water"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（湖沼データ）平成17年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-W09.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="899568" version="1" timestamp="2010-05-03T19:30:20Z" uid="151899" user="Bikeman2000" changeset="4598248">
+    <member type="way" ref="57967439" role="outer"/>
+    <member type="way" ref="57967441" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="899577" version="1" timestamp="2010-05-03T19:37:18Z" uid="171838" user="argrath" changeset="4598327">
+    <member type="way" ref="57969143" role="outer"/>
+    <member type="way" ref="57969196" role="inner"/>
+    <tag k="name" v="白竜湖"/>
+    <tag k="natural" v="water"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（湖沼データ）平成17年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-W09.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="899583" version="1" timestamp="2010-05-03T19:45:25Z" uid="171838" user="argrath" changeset="4598417">
+    <member type="way" ref="57970416" role="outer"/>
+    <member type="way" ref="57970417" role="inner"/>
+    <tag k="name" v="神之瀬湖"/>
+    <tag k="natural" v="water"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（湖沼データ）平成17年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-W09.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="899583" version="2" timestamp="2010-05-03T19:46:14Z" uid="171838" user="argrath" changeset="4598426">
+    <member type="way" ref="57970416" role="outer"/>
+    <member type="way" ref="57970417" role="inner"/>
+    <tag k="name" v="神之瀬湖"/>
+    <tag k="name:ja_rm" v="Kannoseko"/>
+    <tag k="natural" v="water"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（湖沼データ）平成17年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-W09.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="899584" version="1" timestamp="2010-05-03T19:49:15Z" uid="171838" user="argrath" changeset="4598458">
+    <member type="way" ref="57971878" role="outer"/>
+    <member type="way" ref="57971923" role="inner"/>
+    <tag k="name" v="仙水湖"/>
+    <tag k="natural" v="water"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（湖沼データ）平成17年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-W09.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="899603" version="1" timestamp="2010-05-03T20:08:07Z" uid="171838" user="argrath" changeset="4598712">
+    <member type="way" ref="57978143" role="outer"/>
+    <member type="way" ref="57978192" role="inner"/>
+    <member type="way" ref="57978207" role="inner"/>
+    <tag k="name" v="聖湖"/>
+    <tag k="natural" v="water"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（湖沼データ）平成17年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-W09.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="899629" version="1" timestamp="2010-05-03T20:15:32Z" uid="171838" user="argrath" changeset="4598795">
+    <member type="way" ref="57983560" role="outer"/>
+    <member type="way" ref="57983806" role="outer"/>
+    <member type="way" ref="57983812" role="inner"/>
+    <tag k="name" v="豊田湖"/>
+    <tag k="natural" v="water"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（湖沼データ）平成17年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-W09.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="899634" version="1" timestamp="2010-05-03T20:19:33Z" uid="171838" user="argrath" changeset="4598830">
+    <member type="way" ref="57984649" role="outer"/>
+    <member type="way" ref="57984672" role="inner"/>
+    <tag k="name" v="小野湖"/>
+    <tag k="natural" v="water"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（湖沼データ）平成17年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-W09.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="899635" version="1" timestamp="2010-05-03T20:22:35Z" uid="171838" user="argrath" changeset="4598867">
+    <member type="way" ref="57985089" role="outer"/>
+    <member type="way" ref="57985152" role="inner"/>
+    <member type="way" ref="57985156" role="inner"/>
+    <member type="way" ref="57985163" role="inner"/>
+    <tag k="name" v="常盤池"/>
+    <tag k="natural" v="water"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（湖沼データ）平成17年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-W09.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="899643" version="1" timestamp="2010-05-03T20:37:00Z" uid="171838" user="argrath" changeset="4599051">
+    <member type="way" ref="57988014" role="outer"/>
+    <member type="way" ref="57988363" role="outer"/>
+    <tag k="name" v="阿武湖"/>
+    <tag k="natural" v="water"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（湖沼データ）平成17年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-W09.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="899662" version="1" timestamp="2010-05-03T20:44:55Z" uid="171838" user="argrath" changeset="4599138">
+    <member type="way" ref="57991244" role="outer"/>
+    <member type="way" ref="57991259" role="inner"/>
+    <tag k="name" v="山代湖"/>
+    <tag k="natural" v="water"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（湖沼データ）平成17年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-W09.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="899833" version="1" timestamp="2010-05-03T21:11:08Z" uid="171838" user="argrath" changeset="4599430">
+    <member type="way" ref="57997153" role="outer"/>
+    <member type="way" ref="57997154" role="inner"/>
+    <tag k="name" v="大原湖"/>
+    <tag k="natural" v="water"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（湖沼データ）平成17年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-W09.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+</osm>

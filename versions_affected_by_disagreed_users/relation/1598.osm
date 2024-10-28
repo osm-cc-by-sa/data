@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1598772" version="1" timestamp="2011-05-23T22:16:28Z" uid="66036" user="h4v" changeset="8231105">
+    <member type="way" ref="114609832" role="outer"/>
+    <member type="way" ref="114609866" role="inner"/>
+    <member type="way" ref="114609859" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1598773" version="1" timestamp="2011-05-23T22:16:28Z" uid="66036" user="h4v" changeset="8231105">
+    <member type="way" ref="27152992" role="street"/>
+    <member type="way" ref="114609851" role="house"/>
+    <member type="way" ref="114609828" role="house"/>
+    <member type="way" ref="114609867" role="house"/>
+    <member type="way" ref="114609808" role="house"/>
+    <member type="way" ref="114609832" role="house"/>
+    <tag k="name" v="plac Jana Henryka Dąbrowskiego"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1598774" version="1" timestamp="2011-05-23T22:16:29Z" uid="66036" user="h4v" changeset="8231105">
+    <member type="way" ref="100992822" role="from"/>
+    <member type="way" ref="4724248" role="to"/>
+    <member type="node" ref="30094244" role="via"/>
+    <tag k="except" v="bus"/>
+    <tag k="restriction" v="no_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1598774" version="2" timestamp="2011-06-17T20:50:07Z" uid="66036" user="h4v" changeset="8468449">
+    <member type="way" ref="100992822" role="from"/>
+    <member type="way" ref="4724248" role="to"/>
+    <member type="node" ref="30094244" role="via"/>
+    <tag k="except" v="bus"/>
+    <tag k="restriction" v="no_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1598775" version="1" timestamp="2011-05-23T22:16:29Z" uid="66036" user="h4v" changeset="8231105">
+    <member type="way" ref="100992822" role="from"/>
+    <member type="node" ref="30094244" role="via"/>
+    <member type="way" ref="27152981" role="to"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1598776" version="1" timestamp="2011-05-23T22:16:29Z" uid="66036" user="h4v" changeset="8231105">
+    <member type="way" ref="100992824" role="street"/>
+    <member type="way" ref="114609839" role="house"/>
+    <member type="node" ref="1297822277" role="house"/>
+    <member type="node" ref="1297822486" role="house"/>
+    <member type="way" ref="114609857" role="house"/>
+    <member type="way" ref="114609882" role="house"/>
+    <member type="way" ref="114609830" role="house"/>
+    <member type="way" ref="114609814" role="house"/>
+    <tag k="name" v="Gabriela Narutowicza"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1598777" version="1" timestamp="2011-05-23T22:16:29Z" uid="66036" user="h4v" changeset="8231105">
+    <member type="way" ref="26931071" role="street"/>
+    <member type="way" ref="114609854" role="house"/>
+    <member type="node" ref="1297822204" role="house"/>
+    <member type="node" ref="1297822501" role="house"/>
+    <tag k="name" v="Północna"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1598777" version="2" timestamp="2011-06-12T18:40:37Z" uid="66036" user="h4v" changeset="8418318">
+    <member type="way" ref="117396498" role="street"/>
+    <member type="way" ref="114609854" role="house"/>
+    <member type="node" ref="1297822204" role="house"/>
+    <member type="way" ref="117396501" role="house"/>
+    <member type="node" ref="1322454852" role="house"/>
+    <member type="node" ref="1297822092" role="house"/>
+    <tag k="name" v="Północna"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1598778" version="1" timestamp="2011-05-23T22:16:30Z" uid="66036" user="h4v" changeset="8231105">
+    <member type="way" ref="27148349" role="street"/>
+    <member type="way" ref="114609835" role="house"/>
+    <member type="node" ref="1297822138" role="house"/>
+    <member type="node" ref="1297822410" role="house"/>
+    <member type="way" ref="114609847" role="house"/>
+    <member type="node" ref="1297822189" role="house"/>
+    <member type="node" ref="1297822473" role="house"/>
+    <member type="way" ref="114609809" role="house"/>
+    <member type="node" ref="1297822165" role="house"/>
+    <member type="node" ref="1297822328" role="house"/>
+    <member type="way" ref="103645939" role="house"/>
+    <member type="way" ref="114609804" role="house"/>
+    <member type="way" ref="114609880" role="house"/>
+    <member type="way" ref="114609874" role="house"/>
+    <member type="way" ref="104293036" role="house"/>
+    <member type="way" ref="104293037" role="house"/>
+    <member type="way" ref="103688218" role="house"/>
+    <member type="way" ref="114609887" role="house"/>
+    <member type="node" ref="1297822407" role="house"/>
+    <member type="node" ref="1297822194" role="house"/>
+    <tag k="name" v="Seweryna Sterlinga"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1598778" version="2" timestamp="2011-05-23T22:26:46Z" uid="66036" user="h4v" changeset="8231152">
+    <member type="way" ref="27148349" role="street"/>
+    <member type="way" ref="114609835" role="house"/>
+    <member type="node" ref="1297822138" role="house"/>
+    <member type="node" ref="1297822410" role="house"/>
+    <member type="way" ref="114609847" role="house"/>
+    <member type="node" ref="1297822189" role="house"/>
+    <member type="node" ref="1297822473" role="house"/>
+    <member type="way" ref="114609809" role="house"/>
+    <member type="node" ref="1297822165" role="house"/>
+    <member type="node" ref="1297822328" role="house"/>
+    <member type="way" ref="103645939" role="house"/>
+    <member type="way" ref="114609804" role="house"/>
+    <member type="way" ref="114609880" role="house"/>
+    <member type="way" ref="114609874" role="house"/>
+    <member type="way" ref="104293036" role="house"/>
+    <member type="way" ref="104293037" role="house"/>
+    <member type="way" ref="114613458" role="house"/>
+    <member type="way" ref="103688218" role="house"/>
+    <member type="way" ref="114609887" role="house"/>
+    <member type="node" ref="1297822407" role="house"/>
+    <member type="node" ref="1297822194" role="house"/>
+    <tag k="name" v="Seweryna Sterlinga"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1598779" version="1" timestamp="2011-05-23T22:16:30Z" uid="66036" user="h4v" changeset="8231105">
+    <member type="way" ref="26892506" role="street"/>
+    <member type="way" ref="114609846" role="house"/>
+    <member type="node" ref="1297822208" role="house"/>
+    <member type="node" ref="1297822517" role="house"/>
+    <tag k="name" v="Nowomiejska"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1598779" version="2" timestamp="2011-06-17T20:50:04Z" uid="66036" user="h4v" changeset="8468449">
+    <member type="way" ref="26892506" role="street"/>
+    <member type="way" ref="114609846" role="house"/>
+    <member type="node" ref="1297822208" role="house"/>
+    <member type="node" ref="1297822517" role="house"/>
+    <tag k="name" v="Nowomiejska"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1598780" version="1" timestamp="2011-05-23T22:16:31Z" uid="66036" user="h4v" changeset="8231105">
+    <member type="way" ref="27610881" role="street"/>
+    <member type="node" ref="1297822356" role="house"/>
+    <member type="way" ref="37550743" role="house"/>
+    <tag k="name" v="Ogrodowa"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1598780" version="2" timestamp="2011-06-10T22:46:09Z" uid="66036" user="h4v" changeset="8401653">
+    <member type="way" ref="27610881" role="street"/>
+    <member type="way" ref="37550743" role="house"/>
+    <member type="way" ref="104253587" role="house"/>
+    <member type="node" ref="436961062" role="house"/>
+    <member type="node" ref="436961069" role="house"/>
+    <tag k="name" v="Ogrodowa"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1598780" version="3" timestamp="2011-06-12T18:40:37Z" uid="66036" user="h4v" changeset="8418318">
+    <member type="way" ref="27610881" role="street"/>
+    <member type="way" ref="37550743" role="house"/>
+    <member type="way" ref="104253587" role="house"/>
+    <member type="node" ref="436961062" role="house"/>
+    <member type="node" ref="436961069" role="house"/>
+    <member type="node" ref="432504799" role="house"/>
+    <tag k="name" v="Ogrodowa"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1598781" version="1" timestamp="2011-05-23T22:16:31Z" uid="66036" user="h4v" changeset="8231105">
+    <member type="way" ref="27152974" role="street"/>
+    <member type="way" ref="114609820" role="house"/>
+    <member type="node" ref="1297822540" role="house"/>
+    <member type="node" ref="1297822309" role="house"/>
+    <tag k="name" v="Rewolucji 1905 r."/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+</osm>

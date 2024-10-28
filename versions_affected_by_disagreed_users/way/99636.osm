@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="99636029" version="2" timestamp="2011-03-13T15:22:11Z" uid="4467" user="Rosscoe" changeset="7546162">
+    <nd ref="253268051"/>
+    <nd ref="253455144"/>
+    <nd ref="18802202"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="cycleway" v="lane"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lcn" v="yes"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="George Street"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="99636032" version="2" timestamp="2011-03-13T15:22:32Z" uid="4467" user="Rosscoe" changeset="7546162">
+    <nd ref="253268052"/>
+    <nd ref="253161202"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="40"/>
+    <tag k="name" v="Renwick Street"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="40 Area"/>
+  </way>
+</osm>

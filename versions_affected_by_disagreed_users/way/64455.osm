@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="64455101" version="2" timestamp="2010-08-29T09:22:31Z" uid="4467" user="Rosscoe" changeset="5623367">
+    <nd ref="885882220"/>
+    <nd ref="279088133"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Heidelberg Road"/>
+  </way>
+  <way id="64455316" version="2" timestamp="2010-07-18T08:50:09Z" uid="4467" user="Rosscoe" changeset="5248902">
+    <nd ref="792701215"/>
+    <nd ref="792701214"/>
+    <nd ref="792701220"/>
+    <nd ref="321358639"/>
+    <nd ref="321358640"/>
+    <tag k="highway" v="service"/>
+    <tag k="source" v="yahoo"/>
+  </way>
+  <way id="64455317" version="2" timestamp="2010-07-19T00:22:59Z" uid="4467" user="Rosscoe" changeset="5256757">
+    <nd ref="137485074"/>
+    <nd ref="792725687"/>
+    <nd ref="321358626"/>
+    <nd ref="165154533"/>
+    <nd ref="792701219"/>
+    <nd ref="792701216"/>
+    <nd ref="792701217"/>
+    <tag k="highway" v="residential"/>
+    <tag k="is_in" v="Adelaide,South Australia,Australia"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Union Street"/>
+    <tag k="postal_code" v="5000"/>
+  </way>
+  <way id="64455319" version="2" timestamp="2010-07-18T08:50:30Z" uid="4467" user="Rosscoe" changeset="5248902">
+    <nd ref="792701226"/>
+    <nd ref="792701223"/>
+    <nd ref="664966218"/>
+    <nd ref="251870336"/>
+    <nd ref="664966219"/>
+    <nd ref="792701224"/>
+    <nd ref="792701225"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="64455326" version="2" timestamp="2010-07-18T08:49:55Z" uid="4467" user="Rosscoe" changeset="5248902">
+    <nd ref="792701257"/>
+    <nd ref="792701254"/>
+    <nd ref="792701263"/>
+    <tag k="highway" v="primary_link"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="64455411" version="2" timestamp="2011-06-10T16:57:40Z" uid="23543" user="jkjk" changeset="8398918">
+    <nd ref="365593996"/>
+    <nd ref="365593997"/>
+    <nd ref="365593995"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="uhul:ortofoto;cuzk:km"/>
+  </way>
+</osm>

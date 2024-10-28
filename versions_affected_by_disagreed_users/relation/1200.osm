@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1200247" version="1" timestamp="2010-09-29T12:39:04Z" uid="23543" user="jkjk" changeset="5911367">
+    <member type="way" ref="79696616" role=""/>
+    <member type="way" ref="79696628" role=""/>
+    <member type="way" ref="30107125" role=""/>
+    <member type="way" ref="30107124" role=""/>
+    <member type="way" ref="30107122" role=""/>
+    <tag k="network" v="lcn"/>
+    <tag k="ref" v="1247C"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1200733" version="1" timestamp="2010-09-29T18:36:48Z" uid="9581" user="Lobelt" changeset="5914296">
+    <member type="way" ref="44020109" role="from"/>
+    <member type="way" ref="79734870" role="to"/>
+    <member type="node" ref="33681589" role="via"/>
+    <tag k="restriction" v="no_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1200734" version="1" timestamp="2010-09-29T18:36:48Z" uid="9581" user="Lobelt" changeset="5914296">
+    <member type="way" ref="79734861" role="from"/>
+    <member type="way" ref="78313818" role="to"/>
+    <member type="node" ref="33681598" role="via"/>
+    <tag k="restriction" v="no_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1200735" version="1" timestamp="2010-09-29T18:36:49Z" uid="9581" user="Lobelt" changeset="5914296">
+    <member type="way" ref="79734870" role="from"/>
+    <member type="way" ref="38452778" role="to"/>
+    <member type="node" ref="33681592" role="via"/>
+    <tag k="restriction" v="no_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1200736" version="1" timestamp="2010-09-29T18:36:49Z" uid="9581" user="Lobelt" changeset="5914296">
+    <member type="way" ref="38452786" role="from"/>
+    <member type="way" ref="79734864" role="to"/>
+    <member type="node" ref="33681596" role="via"/>
+    <tag k="restriction" v="no_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1200737" version="1" timestamp="2010-09-29T18:36:50Z" uid="9581" user="Lobelt" changeset="5914296">
+    <member type="way" ref="5036288" role="from"/>
+    <member type="way" ref="79734861" role="to"/>
+    <member type="node" ref="33681599" role="via"/>
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1200738" version="1" timestamp="2010-09-29T18:36:50Z" uid="9581" user="Lobelt" changeset="5914296">
+    <member type="way" ref="38452782" role="from"/>
+    <member type="way" ref="78313819" role="to"/>
+    <member type="node" ref="33681600" role="via"/>
+    <tag k="restriction" v="no_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1200764" version="1" timestamp="2010-09-29T18:48:47Z" uid="9581" user="Lobelt" changeset="5914417">
+    <member type="way" ref="79735699" role="from"/>
+    <member type="way" ref="74002542" role="to"/>
+    <member type="node" ref="875654716" role="via"/>
+    <tag k="restriction" v="no_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1200765" version="1" timestamp="2010-09-29T18:48:47Z" uid="9581" user="Lobelt" changeset="5914417">
+    <member type="way" ref="4992122" role="from"/>
+    <member type="way" ref="79735696" role="to"/>
+    <member type="node" ref="33134013" role="via"/>
+    <tag k="restriction" v="no_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1200766" version="1" timestamp="2010-09-29T18:48:47Z" uid="9581" user="Lobelt" changeset="5914417">
+    <member type="way" ref="4992119" role="from"/>
+    <member type="way" ref="79735693" role="to"/>
+    <member type="node" ref="33134010" role="via"/>
+    <tag k="restriction" v="no_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1200767" version="1" timestamp="2010-09-29T18:48:48Z" uid="9581" user="Lobelt" changeset="5914417">
+    <member type="way" ref="79735699" role="from"/>
+    <member type="way" ref="4992120" role="to"/>
+    <member type="node" ref="33134012" role="via"/>
+    <tag k="restriction" v="no_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+</osm>

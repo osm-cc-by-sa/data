@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="59417579" version="1" timestamp="2010-05-16T19:16:01Z" uid="6269" user="Mueck" changeset="4720770">
+    <nd ref="736831032"/>
+    <nd ref="27159061"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="footway"/>
+    <tag k="layer" v="1"/>
+  </way>
+  <way id="59417579" version="2" timestamp="2010-05-16T19:16:54Z" uid="6269" user="Mueck" changeset="4720770">
+    <nd ref="736831032"/>
+    <nd ref="27159061"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="cycleway"/>
+    <tag k="layer" v="1"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="wood"/>
+    <tag k="width" v="1.4"/>
+  </way>
+  <way id="59417640" version="1" timestamp="2010-05-16T19:17:42Z" uid="6269" user="Mueck" changeset="4720770">
+    <nd ref="27159014"/>
+    <nd ref="27159021"/>
+    <tag k="highway" v="track"/>
+    <tag k="name" v="Häfenweg"/>
+    <tag k="surface" v="paved"/>
+    <tag k="tracktype" v="grade1"/>
+  </way>
+  <way id="59417640" version="2" timestamp="2010-05-17T21:19:56Z" uid="6269" user="Mueck" changeset="4733557">
+    <nd ref="27159014"/>
+    <nd ref="27159021"/>
+  </way>
+  <way id="59417640" version="3" timestamp="2010-05-17T21:20:03Z" uid="6269" user="Mueck" changeset="4733557">
+    <nd ref="27159014"/>
+    <nd ref="27159021"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="cycleway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tracktype" v="grade1"/>
+  </way>
+  <way id="59417855" version="1" timestamp="2010-05-16T19:19:06Z" uid="6269" user="Mueck" changeset="4720770">
+    <nd ref="27159064"/>
+    <nd ref="27159065"/>
+    <nd ref="27159066"/>
+    <nd ref="27159067"/>
+    <nd ref="26211278"/>
+    <tag k="highway" v="track"/>
+    <tag k="surface" v="gravel"/>
+    <tag k="tracktype" v="grade4"/>
+  </way>
+  <way id="59417855" version="2" timestamp="2010-05-17T21:18:58Z" uid="6269" user="Mueck" changeset="4733557">
+    <nd ref="27159064"/>
+    <nd ref="27159065"/>
+    <nd ref="27159066"/>
+    <nd ref="27159067"/>
+    <nd ref="26211278"/>
+    <tag k="highway" v="track"/>
+    <tag k="smoothness" v="intermediate"/>
+    <tag k="surface" v="gravel"/>
+    <tag k="tracktype" v="grade4"/>
+  </way>
+  <way id="59417855" version="3" timestamp="2010-05-17T21:19:30Z" uid="6269" user="Mueck" changeset="4733557">
+    <nd ref="27159064"/>
+    <nd ref="27159065"/>
+    <nd ref="27159066"/>
+    <nd ref="27159067"/>
+    <nd ref="26211278"/>
+    <tag k="highway" v="track"/>
+    <tag k="smoothness" v="intermediate"/>
+    <tag k="surface" v="compacted"/>
+    <tag k="tracktype" v="grade3"/>
+  </way>
+</osm>

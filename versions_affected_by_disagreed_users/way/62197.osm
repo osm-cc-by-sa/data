@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="62197011" version="1" timestamp="2010-06-18T20:49:07Z" uid="33382" user="de_muur" changeset="5019482">
+    <nd ref="775847840"/>
+    <nd ref="775847838"/>
+    <nd ref="775847827"/>
+    <nd ref="775847826"/>
+    <nd ref="775847841"/>
+    <nd ref="775847839"/>
+    <nd ref="775847828"/>
+    <nd ref="157166926"/>
+    <tag k="highway" v="track"/>
+    <tag k="surface" v="paved"/>
+    <tag k="tracktype" v="grade1"/>
+  </way>
+  <way id="62197012" version="1" timestamp="2010-06-18T20:49:07Z" uid="33382" user="de_muur" changeset="5019482">
+    <nd ref="775847840"/>
+    <nd ref="600343159"/>
+    <tag k="bicycle" v="designated"/>
+    <tag k="cycleway" v="track"/>
+    <tag k="foot" v="designated"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="70"/>
+    <tag k="name" v="In der Marsch"/>
+    <tag k="ref" v="L 203"/>
+  </way>
+  <way id="62197092" version="2" timestamp="2010-08-11T09:08:01Z" uid="115477" user="wowik" changeset="5460613">
+    <nd ref="522943620"/>
+    <nd ref="775848503"/>
+    <nd ref="775848508"/>
+    <nd ref="775848512"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="motorcar" v="no"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="62197756" version="1" timestamp="2010-06-18T21:02:46Z" uid="8619" user="cetest" changeset="5019613">
+    <nd ref="44723168"/>
+    <nd ref="253067291"/>
+    <nd ref="338774956"/>
+    <tag k="AND:importance_level" v="5"/>
+    <tag k="AND_nosr_r" v="15056940; 15056939; 15056894; 15056934; 15056985; 15056797; 15056769; 15056693; 15056773; 15056844; 15056731; 15056969; 15057163; 15057139; 15057111; 15057323"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Veilingweg"/>
+  </way>
+  <way id="62197757" version="1" timestamp="2010-06-18T21:02:46Z" uid="8619" user="cetest" changeset="5019613">
+    <nd ref="338774956"/>
+    <nd ref="44728936"/>
+    <tag k="AND:importance_level" v="5"/>
+    <tag k="AND_nosr_r" v="15056940; 15056939; 15056894; 15056934; 15056985; 15056797; 15056769; 15056693; 15056773; 15056844; 15056731; 15056969; 15057163; 15057139; 15057111; 15057323"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Veilingweg"/>
+  </way>
+</osm>

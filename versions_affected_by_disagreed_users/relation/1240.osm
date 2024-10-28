@@ -1,0 +1,248 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1240166" version="1" timestamp="2010-10-22T10:19:58Z" uid="7617" user="Franc" changeset="6134759">
+    <member type="way" ref="55494842" role="from"/>
+    <member type="way" ref="82497052" role="to"/>
+    <member type="node" ref="8090387" role="via"/>
+    <tag k="restriction" v="only_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1240166" version="2" timestamp="2011-02-05T12:13:55Z" uid="30201" user="rrankin" changeset="7191599">
+    <member type="way" ref="55494842" role="from"/>
+    <member type="node" ref="8090387" role="via"/>
+    <member type="way" ref="98298105" role="to"/>
+    <tag k="restriction" v="only_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1240167" version="1" timestamp="2010-10-22T10:19:58Z" uid="7617" user="Franc" changeset="6134759">
+    <member type="way" ref="3992754" role="from"/>
+    <member type="way" ref="82497046" role="to"/>
+    <member type="node" ref="18255221" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1240703" version="1" timestamp="2010-10-22T22:17:14Z" uid="7617" user="Franc" changeset="6140904">
+    <member type="way" ref="12542601" role="from"/>
+    <member type="way" ref="48731416" role="to"/>
+    <member type="node" ref="21400470" role="via"/>
+    <tag k="restriction" v="only_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1240790" version="1" timestamp="2010-10-23T01:10:59Z" uid="7617" user="Franc" changeset="6141510">
+    <member type="way" ref="82575488" role="from"/>
+    <member type="way" ref="82575486" role="to"/>
+    <member type="node" ref="960994920" role="via"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1240791" version="1" timestamp="2010-10-23T01:10:59Z" uid="7617" user="Franc" changeset="6141510">
+    <member type="way" ref="82575486" role="from"/>
+    <member type="way" ref="82575488" role="to"/>
+    <member type="node" ref="960994935" role="via"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1240816" version="1" timestamp="2010-10-23T02:44:16Z" uid="7617" user="Franc" changeset="6141823">
+    <member type="way" ref="3093949" role="from"/>
+    <member type="way" ref="28436613" role="to"/>
+    <member type="node" ref="190053748" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1240816" version="2" timestamp="2010-10-24T05:48:00Z" uid="7617" user="Franc" changeset="6153383">
+    <member type="way" ref="3093949" role="from"/>
+    <member type="node" ref="190053748" role="via"/>
+    <member type="way" ref="82699510" role="to"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1240817" version="1" timestamp="2010-10-23T02:44:17Z" uid="7617" user="Franc" changeset="6141823">
+    <member type="way" ref="35154885" role="from"/>
+    <member type="way" ref="3996524" role="to"/>
+    <member type="node" ref="20955043" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1240818" version="1" timestamp="2010-10-23T02:44:17Z" uid="7617" user="Franc" changeset="6141823">
+    <member type="way" ref="82577371" role="from"/>
+    <member type="way" ref="46940608" role="to"/>
+    <member type="node" ref="8965946" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1240819" version="1" timestamp="2010-10-23T02:44:17Z" uid="7617" user="Franc" changeset="6141823">
+    <member type="way" ref="82577388" role="from"/>
+    <member type="way" ref="4759246" role="to"/>
+    <member type="node" ref="17850378" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1240831" version="1" timestamp="2010-10-23T03:23:16Z" uid="7617" user="Franc" changeset="6141909">
+    <member type="way" ref="9789730" role="from"/>
+    <member type="way" ref="82578205" role="to"/>
+    <member type="way" ref="4966051" role="via"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1240831" version="2" timestamp="2011-06-12T22:06:23Z" uid="7617" user="Franc" changeset="8420502"/>
+  <relation id="1240832" version="1" timestamp="2010-10-23T03:23:17Z" uid="7617" user="Franc" changeset="6141909">
+    <member type="way" ref="4574952" role="from"/>
+    <member type="way" ref="82578207" role="to"/>
+    <member type="way" ref="4809579" role="via"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1240832" version="2" timestamp="2011-02-05T03:08:27Z" uid="30201" user="rrankin" changeset="7189177">
+    <member type="way" ref="82578207" role="to"/>
+    <member type="way" ref="4809579" role="via"/>
+    <member type="way" ref="92551798" role="from"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1240832" version="3" timestamp="2011-04-20T13:11:33Z" uid="7617" user="Franc" changeset="7916137">
+    <member type="way" ref="82578207" role="to"/>
+    <member type="way" ref="4809579" role="via"/>
+    <member type="way" ref="109387217" role="from"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1240832" version="4" timestamp="2011-04-22T23:59:18Z" uid="7617" user="Franc" changeset="7939691"/>
+  <relation id="1240833" version="1" timestamp="2010-10-23T03:23:17Z" uid="7617" user="Franc" changeset="6141909">
+    <member type="way" ref="9789730" role="to"/>
+    <member type="way" ref="4809579" role="via"/>
+    <member type="way" ref="82578205" role="from"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1240833" version="2" timestamp="2011-06-04T10:02:35Z" uid="7617" user="Franc" changeset="8337628"/>
+  <relation id="1240859" version="1" timestamp="2010-10-23T06:38:15Z" uid="33382" user="de_muur" changeset="6142342">
+    <member type="node" ref="961232452" role=""/>
+    <member type="way" ref="5184565" role=""/>
+    <member type="way" ref="47070430" role=""/>
+    <member type="node" ref="961232449" role=""/>
+    <tag k="name" v="Blender - Verden"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1240860" version="1" timestamp="2010-10-23T06:38:15Z" uid="33382" user="de_muur" changeset="6142342">
+    <member type="node" ref="961232449" role=""/>
+    <member type="way" ref="5184566" role=""/>
+    <member type="way" ref="47070418" role=""/>
+    <member type="node" ref="961232444" role=""/>
+    <tag k="name" v="Hiddestorf - (Verden)"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1240861" version="1" timestamp="2010-10-23T06:38:16Z" uid="33382" user="de_muur" changeset="6142342">
+    <member type="node" ref="961232444" role=""/>
+    <member type="way" ref="20918758" role=""/>
+    <tag k="name" v="(Blender) - Intschede"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1240862" version="1" timestamp="2010-10-23T06:38:16Z" uid="33382" user="de_muur" changeset="6142342">
+    <member type="node" ref="707990702" role=""/>
+    <member type="way" ref="14858404" role=""/>
+    <member type="way" ref="14858357" role=""/>
+    <member type="way" ref="14952423" role=""/>
+    <tag k="name" v="Blender - (Intschede)"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1240862" version="2" timestamp="2011-01-28T18:46:19Z" uid="33382" user="de_muur" changeset="7115709">
+    <member type="node" ref="707990702" role=""/>
+    <member type="way" ref="14858404" role=""/>
+    <member type="way" ref="14858357" role=""/>
+    <member type="way" ref="97126827" role=""/>
+    <member type="way" ref="97126818" role=""/>
+    <member type="way" ref="14952423" role=""/>
+    <tag k="name" v="Blender - (Intschede)"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1240863" version="1" timestamp="2010-10-23T06:38:16Z" uid="33382" user="de_muur" changeset="6142342">
+    <member type="way" ref="82587676" role=""/>
+    <tag k="name" v="(Blender) - (Intschede)"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1240863" version="2" timestamp="2011-01-29T16:19:08Z" uid="33382" user="de_muur" changeset="7123910">
+    <member type="way" ref="82587676" role=""/>
+    <member type="way" ref="97236934" role=""/>
+    <tag k="name" v="(Blender) - (Intschede)"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1240863" version="3" timestamp="2011-02-02T15:30:03Z" uid="33382" user="de_muur" changeset="7165726">
+    <member type="way" ref="97236934" role=""/>
+    <tag k="name" v="(Blender) - (Intschede)"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1240864" version="1" timestamp="2010-10-23T06:38:17Z" uid="33382" user="de_muur" changeset="6142342">
+    <member type="node" ref="961232449" role=""/>
+    <member type="way" ref="5184538" role=""/>
+    <member type="way" ref="32494871" role=""/>
+    <member type="node" ref="813510585" role=""/>
+    <tag k="name" v="Holtum/Marsch - Verden"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1240865" version="1" timestamp="2010-10-23T06:38:17Z" uid="33382" user="de_muur" changeset="6142342">
+    <member type="node" ref="961232452" role=""/>
+    <member type="way" ref="69674187" role=""/>
+    <member type="node" ref="961232462" role=""/>
+    <tag k="name" v="Varste - Verden"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1240866" version="1" timestamp="2010-10-23T06:38:17Z" uid="33382" user="de_muur" changeset="6142342">
+    <member type="node" ref="945270586" role=""/>
+    <member type="way" ref="32495407" role=""/>
+    <member type="node" ref="961232462" role=""/>
+    <tag k="name" v="Intschede - Verden"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1240866" version="2" timestamp="2011-05-28T18:56:45Z" uid="33382" user="de_muur" changeset="8274650">
+    <member type="node" ref="945270586" role=""/>
+    <member type="way" ref="32495407" role=""/>
+    <member type="way" ref="115392922" role=""/>
+    <member type="node" ref="961232462" role=""/>
+    <tag k="name" v="Intschede - Verden"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1240886" version="1" timestamp="2010-10-23T07:29:19Z" uid="7617" user="Franc" changeset="6142540">
+    <member type="way" ref="58696542" role="from"/>
+    <member type="way" ref="82578217" role="to"/>
+    <member type="way" ref="4966051" role="via"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1240886" version="2" timestamp="2011-04-26T06:51:55Z" uid="7617" user="Franc" changeset="7971435"/>
+</osm>

@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="16280645" version="2" timestamp="2009-08-11T06:26:33Z" uid="4467" user="Rosscoe" changeset="2104833">
+    <nd ref="166055356"/>
+    <nd ref="166055713"/>
+    <nd ref="166055714"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="is_in" v="NSW, New South Wales, Australia"/>
+    <tag k="name" v="F3 Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH1"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="16280645" version="3" timestamp="2010-03-29T15:50:51Z" uid="74617" user="JohnSmith" changeset="4268496">
+    <nd ref="166055356"/>
+    <nd ref="166055713"/>
+    <nd ref="166055714"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="16280884" version="2" timestamp="2010-03-15T11:29:19Z" uid="61114" user="Trav" changeset="4133709">
+    <nd ref="128714703"/>
+    <nd ref="32121191"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Galston Road"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="16280884" version="3" timestamp="2010-07-12T04:34:03Z" uid="4467" user="Rosscoe" changeset="5195669">
+    <nd ref="128714703"/>
+    <nd ref="32121191"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="1"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Galston Road"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="16280891" version="2" timestamp="2009-08-27T09:45:07Z" uid="61114" user="Trav" changeset="2275904">
+    <nd ref="128714701"/>
+    <nd ref="128714702"/>
+    <nd ref="128714703"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxheight" v="7.5"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Galston Road"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="16280891" version="4" timestamp="2010-03-15T11:29:24Z" uid="61114" user="Trav" changeset="4133709">
+    <nd ref="128714701"/>
+    <nd ref="666805163"/>
+    <nd ref="666805152"/>
+    <nd ref="128714702"/>
+    <nd ref="666805127"/>
+    <nd ref="128714703"/>
+    <tag k="FIXME" v="maxheight of 7.5 meters? Did you mean maxweight?"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxheight" v="7.5"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Galston Road"/>
+    <tag k="source" v="survey"/>
+  </way>
+</osm>

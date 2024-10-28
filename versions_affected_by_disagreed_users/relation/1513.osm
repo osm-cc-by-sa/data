@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1513057" version="1" timestamp="2011-03-27T03:29:46Z" uid="20587" user="balrog-kun" changeset="7681896">
+    <member type="way" ref="40231334" role=""/>
+    <member type="way" ref="44732281" role=""/>
+    <member type="way" ref="44732283" role=""/>
+    <member type="way" ref="44735024" role=""/>
+    <member type="way" ref="48171082" role=""/>
+    <member type="way" ref="52254753" role=""/>
+    <member type="way" ref="44732280" role=""/>
+    <member type="node" ref="31901874" role="admin_centre"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="is_in:county" v="powiat Katowice"/>
+    <tag k="is_in:voivodeship" v="województwo Śląskie"/>
+    <tag k="name" v="Katowice"/>
+    <tag k="name:cs" v="Katovice"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikipedia" v="Katowice"/>
+  </relation>
+  <relation id="1513380" version="2" timestamp="2011-04-26T00:56:40Z" uid="23543" user="jkjk" changeset="7970248">
+    <member type="way" ref="110347929" role=""/>
+    <member type="way" ref="22790693" role=""/>
+    <member type="way" ref="110347931" role=""/>
+    <member type="way" ref="110347917" role=""/>
+    <member type="way" ref="49020715" role=""/>
+    <member type="way" ref="110347912" role=""/>
+    <member type="way" ref="49020708" role=""/>
+    <member type="way" ref="54517077" role=""/>
+    <member type="way" ref="54517079" role=""/>
+    <member type="way" ref="54517078" role=""/>
+    <member type="way" ref="22790651" role=""/>
+    <tag k="colour" v="blue"/>
+    <tag k="complete" v="yes"/>
+    <tag k="description" v="Remetské Hámre - Sninský kameň"/>
+    <tag k="network" v="rwn"/>
+    <tag k="ref" v="2813a"/>
+    <tag k="route" v="hiking"/>
+    <tag k="symbol" v="major"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1513384" version="1" timestamp="2011-03-27T07:12:27Z" uid="33382" user="de_muur" changeset="7682660">
+    <member type="way" ref="106048217" role="outer"/>
+    <member type="way" ref="106048220" role="inner"/>
+    <member type="way" ref="106048219" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+</osm>

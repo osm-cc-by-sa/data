@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1253387" version="1" timestamp="2010-11-03T09:51:52Z" uid="115477" user="wowik" changeset="6274593">
+    <member type="way" ref="8652948" role="from"/>
+    <member type="way" ref="15853340" role="to"/>
+    <member type="node" ref="61680223" role="via"/>
+    <tag k="restriction" v="onli_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1253387" version="2" timestamp="2010-11-03T09:55:50Z" uid="115477" user="wowik" changeset="6274593">
+    <member type="way" ref="8652948" role="from"/>
+    <member type="way" ref="15853340" role="to"/>
+    <member type="node" ref="61680223" role="via"/>
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1253388" version="1" timestamp="2010-11-03T09:51:53Z" uid="115477" user="wowik" changeset="6274593">
+    <member type="way" ref="8095940" role="from"/>
+    <member type="way" ref="23443364" role="to"/>
+    <member type="node" ref="60656162" role="via"/>
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1253390" version="1" timestamp="2010-11-03T09:55:51Z" uid="115477" user="wowik" changeset="6274593">
+    <member type="way" ref="35773330" role="from"/>
+    <member type="node" ref="641522989" role="via"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1253391" version="1" timestamp="2010-11-03T09:55:51Z" uid="115477" user="wowik" changeset="6274593">
+    <member type="way" ref="83804600" role="from"/>
+    <member type="node" ref="641523048" role="via"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1253402" version="1" timestamp="2010-11-03T10:08:41Z" uid="115477" user="wowik" changeset="6274724">
+    <member type="way" ref="51342952" role="from"/>
+    <member type="node" ref="306524024" role="via"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1253402" version="2" timestamp="2010-11-03T10:09:45Z" uid="115477" user="wowik" changeset="6274724">
+    <member type="way" ref="51342952" role="from"/>
+    <member type="node" ref="306524024" role="via"/>
+    <member type="way" ref="29068222" role="to"/>
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+</osm>

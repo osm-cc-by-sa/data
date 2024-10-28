@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="62217004" version="2" timestamp="2010-07-25T14:00:26Z" uid="4467" user="Rosscoe" changeset="5312110">
+    <nd ref="440006709"/>
+    <nd ref="440006710"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Mandurang Road"/>
+    <tag k="name:bridge" v="de Ravin Bridge"/>
+  </way>
+  <way id="62217064" version="5" timestamp="2010-11-25T17:41:15Z" uid="115477" user="wowik" changeset="6455127">
+    <nd ref="776076588"/>
+    <nd ref="776076568"/>
+    <nd ref="1004106018"/>
+    <nd ref="655293408"/>
+    <tag k="addr:postcode" v="171573"/>
+    <tag k="cladr:code" v="69011001000002500"/>
+    <tag k="cladr:name" v="Красноармейская"/>
+    <tag k="cladr:suffix" v="Улица"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Улица Красноармейская"/>
+    <tag k="surface" v="ground"/>
+  </way>
+  <way id="62217365" version="2" timestamp="2010-11-21T17:31:07Z" uid="8619" user="cetest" changeset="6424711">
+    <nd ref="776095376"/>
+    <nd ref="776095387"/>
+    <nd ref="776095389"/>
+    <nd ref="998172308"/>
+    <nd ref="998172414"/>
+    <nd ref="776095392"/>
+    <nd ref="998172244"/>
+    <nd ref="776095394"/>
+    <nd ref="998172211"/>
+    <nd ref="776095396"/>
+    <nd ref="998172418"/>
+    <nd ref="776095399"/>
+    <nd ref="776095401"/>
+    <tag k="highway" v="cycleway"/>
+  </way>
+  <way id="62217366" version="2" timestamp="2010-11-21T17:31:56Z" uid="8619" user="cetest" changeset="6424711">
+    <nd ref="776095401"/>
+    <nd ref="776095411"/>
+    <nd ref="776095414"/>
+    <nd ref="998172166"/>
+    <nd ref="776095416"/>
+    <tag k="highway" v="cycleway"/>
+  </way>
+  <way id="62217883" version="2" timestamp="2010-07-07T09:53:58Z" uid="74617" user="JohnSmith" changeset="5156250">
+    <nd ref="671658707"/>
+    <nd ref="671658708"/>
+    <nd ref="671658675"/>
+    <nd ref="671658674"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Philden Way"/>
+    <tag k="source" v="Nearmap"/>
+  </way>
+  <way id="62217884" version="2" timestamp="2010-07-07T09:53:53Z" uid="74617" user="JohnSmith" changeset="5156250">
+    <nd ref="475254636"/>
+    <nd ref="708304153"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Broad Parade"/>
+    <tag k="source" v="Nearmap"/>
+  </way>
+</osm>

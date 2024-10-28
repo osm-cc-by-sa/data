@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="60023754" version="2" timestamp="2010-07-28T04:44:33Z" uid="4467" user="Rosscoe" changeset="5335000">
+    <nd ref="56331486"/>
+    <nd ref="746157365"/>
+    <nd ref="746157400"/>
+    <nd ref="746157405"/>
+    <tag k="highway" v="cycleway"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="60023767" version="2" timestamp="2010-07-28T04:42:56Z" uid="4467" user="Rosscoe" changeset="5335000">
+    <nd ref="251127269"/>
+    <nd ref="141317530"/>
+    <nd ref="251127226"/>
+    <nd ref="251127225"/>
+    <nd ref="141317532"/>
+    <nd ref="251127202"/>
+    <nd ref="251127203"/>
+    <nd ref="287540888"/>
+    <nd ref="251127204"/>
+    <nd ref="251127259"/>
+    <nd ref="141317533"/>
+    <nd ref="251127179"/>
+    <tag k="cycleway" v="lane"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Golden Grove Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="60023767" version="3" timestamp="2010-07-28T06:27:17Z" uid="4467" user="Rosscoe" changeset="5335298">
+    <nd ref="251127269"/>
+    <nd ref="141317530"/>
+    <nd ref="251127226"/>
+    <nd ref="251127225"/>
+    <nd ref="141317532"/>
+    <nd ref="251127202"/>
+    <nd ref="287540888"/>
+    <nd ref="251127204"/>
+    <nd ref="251127259"/>
+    <nd ref="141317533"/>
+    <nd ref="251127179"/>
+    <tag k="cycleway" v="lane"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Golden Grove Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="60023773" version="2" timestamp="2010-07-28T04:43:33Z" uid="4467" user="Rosscoe" changeset="5335000">
+    <nd ref="746157405"/>
+    <nd ref="251127269"/>
+    <tag k="cycleway" v="lane"/>
+    <tag k="highway" v="primary_link"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="60023773" version="3" timestamp="2010-07-28T06:56:49Z" uid="4467" user="Rosscoe" changeset="5335428">
+    <nd ref="746157405"/>
+    <nd ref="251127269"/>
+    <tag k="cycleway" v="lane"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+</osm>

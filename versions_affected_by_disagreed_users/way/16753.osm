@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="16753023" version="4" timestamp="2010-02-03T01:15:11Z" uid="30201" user="rrankin" changeset="3780262">
+    <nd ref="627205192"/>
+    <nd ref="52985219"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Oxford Street"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="16753027" version="7" timestamp="2010-05-21T07:48:26Z" uid="4467" user="Rosscoe" changeset="4763531">
+    <nd ref="173186772"/>
+    <nd ref="742212191"/>
+    <nd ref="52985219"/>
+    <nd ref="742212141"/>
+    <nd ref="173186795"/>
+    <nd ref="173186814"/>
+    <nd ref="742212159"/>
+    <nd ref="52984180"/>
+    <nd ref="742212296"/>
+    <nd ref="173186772"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="16753029" version="2" timestamp="2010-05-21T07:49:08Z" uid="4467" user="Rosscoe" changeset="4763531">
+    <nd ref="173186795"/>
+    <nd ref="742212385"/>
+    <nd ref="742212093"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Chester Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="16753029" version="3" timestamp="2010-07-08T00:21:45Z" uid="74617" user="JohnSmith" changeset="5162525">
+    <nd ref="173186795"/>
+    <nd ref="742212385"/>
+    <nd ref="742212093"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Chester Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="16753033" version="2" timestamp="2010-07-08T00:27:39Z" uid="74617" user="JohnSmith" changeset="5162525">
+    <nd ref="172981424"/>
+    <nd ref="173186772"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Chester Street"/>
+  </way>
+  <way id="16753230" version="1" timestamp="2007-12-16T14:07:18Z" uid="8931" user="bluepup" changeset="328723">
+    <nd ref="25263871"/>
+    <nd ref="173188239"/>
+    <nd ref="173188243"/>
+    <nd ref="173188245"/>
+    <nd ref="173188251"/>
+    <nd ref="173188257"/>
+    <nd ref="173188260"/>
+    <nd ref="173188265"/>
+    <nd ref="173188269"/>
+    <nd ref="173188270"/>
+    <nd ref="173188277"/>
+    <nd ref="173188291"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="motorway_link"/>
+  </way>
+</osm>

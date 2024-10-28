@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1615431" version="1" timestamp="2011-06-07T16:30:12Z" uid="33382" user="de_muur" changeset="8371653">
+    <member type="node" ref="1284871049" role=""/>
+    <member type="way" ref="113253631" role=""/>
+    <tag k="name" v="Lauenburg/Elbe"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1615432" version="1" timestamp="2011-06-07T16:30:12Z" uid="33382" user="de_muur" changeset="8371653">
+    <member type="node" ref="978264275" role=""/>
+    <member type="way" ref="33682827" role=""/>
+    <member type="way" ref="113253641" role=""/>
+    <member type="node" ref="1284871059" role=""/>
+    <tag k="name" v="Lauenburg/Elbe - Lübeck"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1615440" version="1" timestamp="2011-06-07T16:45:04Z" uid="33382" user="de_muur" changeset="8371768">
+    <member type="node" ref="1242099962" role=""/>
+    <member type="way" ref="103295002" role=""/>
+    <member type="way" ref="108231558" role=""/>
+    <member type="node" ref="1315227251" role=""/>
+    <tag k="name" v="Berkenthin - Düchelsdorf"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1615441" version="1" timestamp="2011-06-07T16:45:04Z" uid="33382" user="de_muur" changeset="8371768">
+    <member type="node" ref="1284871059" role=""/>
+    <member type="way" ref="113541224" role=""/>
+    <member type="node" ref="1315227251" role=""/>
+    <tag k="name" v="Kühsen - Lübeck"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1615446" version="1" timestamp="2011-06-07T16:54:42Z" uid="33382" user="de_muur" changeset="8371854">
+    <member type="node" ref="1315227251" role=""/>
+    <member type="way" ref="116728969" role=""/>
+    <member type="node" ref="1315241457" role=""/>
+    <tag k="name" v="Berkenthin - Lauenburg/Elbe"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1615447" version="1" timestamp="2011-06-07T16:54:42Z" uid="33382" user="de_muur" changeset="8371854">
+    <member type="node" ref="1315241457" role=""/>
+    <member type="way" ref="116728971" role=""/>
+    <member type="way" ref="116728970" role=""/>
+    <member type="way" ref="116728972" role=""/>
+    <member type="way" ref="37914289" role=""/>
+    <member type="node" ref="1244767709" role=""/>
+    <tag k="name" v="Elbe-Lübeck-Kanal - Sandesneben"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1615585" version="1" timestamp="2011-06-07T19:55:09Z" uid="66036" user="h4v" changeset="8373499">
+    <member type="way" ref="105000709" role=""/>
+    <member type="way" ref="105000705" role=""/>
+    <member type="way" ref="116757154" role=""/>
+    <member type="way" ref="116757156" role=""/>
+    <member type="way" ref="116757138" role=""/>
+    <member type="way" ref="116757151" role=""/>
+    <member type="way" ref="116590370" role=""/>
+    <member type="way" ref="116757148" role=""/>
+    <member type="way" ref="116589297" role=""/>
+    <member type="way" ref="116589326" role=""/>
+    <member type="way" ref="116589254" role=""/>
+    <member type="way" ref="116589295" role=""/>
+    <tag k="layer" v="-1"/>
+    <tag k="name" v="Mroga"/>
+    <tag k="type" v="waterway"/>
+    <tag k="waterway" v="river"/>
+  </relation>
+  <relation id="1615585" version="2" timestamp="2011-06-07T21:16:05Z" uid="66036" user="h4v" changeset="8374398">
+    <member type="way" ref="105000709" role=""/>
+    <member type="way" ref="105000705" role=""/>
+    <member type="way" ref="116757154" role=""/>
+    <member type="way" ref="116757156" role=""/>
+    <member type="way" ref="116757138" role=""/>
+    <member type="way" ref="116757151" role=""/>
+    <member type="way" ref="116590370" role=""/>
+    <member type="way" ref="116757148" role=""/>
+    <member type="way" ref="116589297" role=""/>
+    <member type="way" ref="116589326" role=""/>
+    <member type="way" ref="116589254" role=""/>
+    <member type="way" ref="116589295" role=""/>
+    <tag k="destination" v="Bzura"/>
+    <tag k="layer" v="-1"/>
+    <tag k="name" v="Mroga"/>
+    <tag k="type" v="waterway"/>
+    <tag k="waterway" v="river"/>
+  </relation>
+</osm>

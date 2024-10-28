@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="32104660" version="12" timestamp="2009-07-22T13:02:10Z" uid="74617" user="JohnSmith" changeset="1904783">
+    <nd ref="360336803"/>
+    <nd ref="365145554"/>
+    <nd ref="365144460"/>
+    <nd ref="362147335"/>
+    <nd ref="291235029"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Crawford Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source" v="aerial_photography/survey"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="32104660" version="13" timestamp="2009-07-30T22:58:50Z" uid="4467" user="Rosscoe" changeset="1989831">
+    <nd ref="360336803"/>
+    <nd ref="365145554"/>
+    <nd ref="365144460"/>
+    <nd ref="362147335"/>
+    <nd ref="291235029"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Crawford Road"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="32104660" version="15" timestamp="2010-04-16T02:04:04Z" uid="4467" user="Rosscoe" changeset="4435669">
+    <nd ref="536334932"/>
+    <nd ref="698115099"/>
+    <nd ref="365144460"/>
+    <nd ref="362147335"/>
+    <nd ref="291235029"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Crawford Road"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="32104677" version="9" timestamp="2009-07-22T13:02:12Z" uid="74617" user="JohnSmith" changeset="1904783">
+    <nd ref="365823702"/>
+    <nd ref="360336804"/>
+    <nd ref="360336805"/>
+    <nd ref="360336806"/>
+    <nd ref="360336807"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="aerial_photography/survey"/>
+  </way>
+  <way id="32104693" version="9" timestamp="2009-07-22T13:02:21Z" uid="74617" user="JohnSmith" changeset="1904783">
+    <nd ref="365823702"/>
+    <nd ref="360336809"/>
+    <nd ref="360336810"/>
+    <nd ref="360336811"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="oneway" v="-1"/>
+    <tag k="source" v="aerial_photography/survey"/>
+  </way>
+  <way id="32104693" version="10" timestamp="2009-08-03T13:13:45Z" uid="4467" user="Rosscoe" changeset="2025334">
+    <nd ref="360336811"/>
+    <nd ref="360336810"/>
+    <nd ref="360336809"/>
+    <nd ref="365823702"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="aerial_photography/survey"/>
+  </way>
+  <way id="32104887" version="6" timestamp="2011-06-10T16:57:50Z" uid="23543" user="jkjk" changeset="8398918">
+    <nd ref="290134888"/>
+    <nd ref="290134897"/>
+    <nd ref="290134896"/>
+    <nd ref="625793874"/>
+    <nd ref="625793878"/>
+    <nd ref="625793876"/>
+    <nd ref="625793855"/>
+    <nd ref="290134894"/>
+    <nd ref="625793867"/>
+    <nd ref="290134900"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="ref" v="1096"/>
+    <tag k="source" v="uhul:ortofoto"/>
+    <tag k="source:ref" v="rsd_cr"/>
+  </way>
+</osm>

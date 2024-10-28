@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="58855106" version="2" timestamp="2010-06-08T07:30:23Z" uid="4467" user="Rosscoe" changeset="4934831">
+    <nd ref="729201566"/>
+    <nd ref="186643865"/>
+    <nd ref="176643545"/>
+    <nd ref="420461759"/>
+    <nd ref="186656676"/>
+    <nd ref="17379937"/>
+    <nd ref="420461746"/>
+    <nd ref="420461754"/>
+    <nd ref="17379935"/>
+    <nd ref="186656270"/>
+    <nd ref="441511037"/>
+    <nd ref="767061015"/>
+    <nd ref="767061161"/>
+    <nd ref="767061124"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Scott Street"/>
+  </way>
+  <way id="58855106" version="4" timestamp="2011-04-20T23:41:36Z" uid="4467" user="Rosscoe" changeset="7921267">
+    <nd ref="729201566"/>
+    <nd ref="1253245874"/>
+    <nd ref="186643865"/>
+    <nd ref="176643545"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Scott Street"/>
+  </way>
+  <way id="58855406" version="2" timestamp="2010-06-29T18:31:29Z" uid="74617" user="JohnSmith" changeset="5107971">
+    <nd ref="729209194"/>
+    <nd ref="729209200"/>
+    <nd ref="729209205"/>
+    <nd ref="729209210"/>
+    <nd ref="729209194"/>
+    <tag k="fixme" v="sport=football is ambiguous, please use sport=[soccer|rugby_league|rugby_union|australian_football|etc] instead, see http://wiki.osm.org/wiki/Football for more details"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="sport" v="football"/>
+  </way>
+  <way id="58855751" version="2" timestamp="2010-07-09T03:19:56Z" uid="74617" user="JohnSmith" changeset="5170713">
+    <nd ref="247490077"/>
+    <nd ref="729230091"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="58855978" version="4" timestamp="2010-05-11T11:21:23Z" uid="74617" user="JohnSmith" changeset="4667529"/>
+</osm>

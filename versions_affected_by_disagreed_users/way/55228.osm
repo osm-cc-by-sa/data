@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="55228869" version="2" timestamp="2010-07-08T16:56:41Z" uid="74617" user="JohnSmith" changeset="5167338">
+    <nd ref="694215538"/>
+    <nd ref="694215539"/>
+    <nd ref="694215540"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Kuruc Road"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="55228869" version="3" timestamp="2011-02-07T11:15:15Z" uid="4467" user="Rosscoe" changeset="7214726">
+    <nd ref="694215538"/>
+    <nd ref="694215539"/>
+    <nd ref="694215540"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Kuruc Road"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+  </way>
+</osm>

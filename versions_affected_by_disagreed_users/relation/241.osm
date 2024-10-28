@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="241459" version="4" timestamp="2009-11-29T09:32:28Z" uid="20587" user="balrog-kun" changeset="3243253">
+    <member type="way" ref="40802830" role=""/>
+    <member type="way" ref="40802902" role=""/>
+    <member type="way" ref="40797631" role=""/>
+    <member type="way" ref="40803542" role=""/>
+    <member type="way" ref="40803465" role=""/>
+    <tag k="admin_level" v="7"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Mahelma"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="241646" version="3" timestamp="2010-01-31T18:58:59Z" uid="58091" user="Andreas M" changeset="3762200">
+    <member type="way" ref="27631685" role="from"/>
+    <member type="node" ref="305415073" role="via"/>
+    <member type="way" ref="49209953" role="to"/>
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="241668" version="1" timestamp="2009-09-14T18:56:01Z" uid="103576" user="DiverCTH" changeset="2485362">
+    <member type="way" ref="40818440" role=""/>
+    <member type="way" ref="40818441" role=""/>
+    <tag k="name" v="Cobblecreek Way"/>
+    <tag k="route" v="road"/>
+    <tag k="state_id" v="TN"/>
+  </relation>
+  <relation id="241668" version="2" timestamp="2009-09-15T00:20:37Z" uid="103576" user="DiverCTH" changeset="2487752">
+    <member type="way" ref="40818441" role=""/>
+    <tag k="name" v="Cobblecreek Way"/>
+    <tag k="route" v="road"/>
+    <tag k="state_id" v="TN"/>
+  </relation>
+  <relation id="241668" version="3" timestamp="2009-09-16T01:08:44Z" uid="103576" user="DiverCTH" changeset="2498062"/>
+  <relation id="241704" version="7" timestamp="2010-07-04T18:22:27Z" uid="10712" user="Kraeml" changeset="5135723">
+    <member type="way" ref="31797017" role=""/>
+    <member type="way" ref="40820693" role=""/>
+    <member type="way" ref="40821808" role=""/>
+    <member type="way" ref="40822555" role=""/>
+    <member type="way" ref="40822556" role=""/>
+    <member type="way" ref="40822558" role=""/>
+    <member type="way" ref="40823601" role=""/>
+    <member type="way" ref="40822557" role=""/>
+    <member type="way" ref="40823602" role=""/>
+    <member type="way" ref="65724989" role=""/>
+    <tag k="name" v="Rundweg Affalterthal"/>
+    <tag k="osmc:status" v="incomplete"/>
+    <tag k="osmc:symbol" v="green:white:green_circle"/>
+    <tag k="route" v="foot"/>
+    <tag k="symbol" v="Grüner Ring auf weissem Grund"/>
+    <tag k="type" v="route"/>
+    <tag k="wiki:symbol" v="Gruener_ring_auf_weiss.svg"/>
+  </relation>
+  <relation id="241732" version="2" timestamp="2010-07-04T18:22:28Z" uid="10712" user="Kraeml" changeset="5135723">
+    <member type="way" ref="54232251" role=""/>
+    <member type="way" ref="65724991" role=""/>
+    <member type="way" ref="65724987" role=""/>
+    <member type="way" ref="65724989" role=""/>
+    <member type="way" ref="40823604" role=""/>
+    <member type="way" ref="40823605" role=""/>
+    <member type="way" ref="40823687" role=""/>
+    <member type="way" ref="28177405" role=""/>
+    <member type="way" ref="65724981" role=""/>
+    <member type="way" ref="28177410" role=""/>
+    <member type="way" ref="65724996" role=""/>
+    <member type="way" ref="58660520" role=""/>
+    <member type="way" ref="65712041" role=""/>
+    <member type="way" ref="65712047" role=""/>
+    <tag k="name" v="Blauer Punkt"/>
+    <tag k="route" v="hiking"/>
+    <tag k="symbol" v="Blauer Punkt"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="241732" version="3" timestamp="2010-07-12T20:30:55Z" uid="10712" user="Kraeml" changeset="5202570">
+    <member type="way" ref="54232251" role=""/>
+    <member type="way" ref="67398791" role=""/>
+    <member type="way" ref="65724991" role=""/>
+    <member type="way" ref="65724987" role=""/>
+    <member type="way" ref="65724989" role=""/>
+    <member type="way" ref="40823604" role=""/>
+    <member type="way" ref="40823605" role=""/>
+    <member type="way" ref="40823687" role=""/>
+    <member type="way" ref="28177405" role=""/>
+    <member type="way" ref="65724981" role=""/>
+    <member type="way" ref="28177410" role=""/>
+    <member type="way" ref="65724996" role=""/>
+    <member type="way" ref="58660520" role=""/>
+    <member type="way" ref="65712041" role=""/>
+    <member type="way" ref="65712047" role=""/>
+    <tag k="name" v="Blauer Punkt"/>
+    <tag k="route" v="hiking"/>
+    <tag k="symbol" v="Blauer Punkt"/>
+    <tag k="type" v="route"/>
+  </relation>
+</osm>

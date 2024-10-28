@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="41061186" version="1" timestamp="2009-09-18T15:38:03Z" uid="20587" user="balrog-kun" changeset="2525577">
+    <nd ref="500523917"/>
+    <nd ref="500523923"/>
+    <tag k="layer" v="1"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="landsat"/>
+  </way>
+  <way id="41061187" version="1" timestamp="2009-09-18T15:38:03Z" uid="20587" user="balrog-kun" changeset="2525577">
+    <nd ref="500523923"/>
+    <nd ref="60058048"/>
+    <nd ref="60058047"/>
+    <nd ref="335652416"/>
+    <nd ref="60058046"/>
+    <nd ref="277618676"/>
+    <nd ref="335626709"/>
+    <nd ref="335626759"/>
+    <nd ref="335626765"/>
+    <nd ref="335626760"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="landsat"/>
+  </way>
+  <way id="41061187" version="2" timestamp="2009-09-18T20:18:31Z" uid="20587" user="balrog-kun" changeset="2528237">
+    <nd ref="500523923"/>
+    <nd ref="60058048"/>
+    <nd ref="60058047"/>
+    <nd ref="335652416"/>
+    <nd ref="60058046"/>
+    <nd ref="277618676"/>
+    <nd ref="335626709"/>
+    <nd ref="335626759"/>
+    <nd ref="335626765"/>
+    <nd ref="335626760"/>
+    <tag k="electrified" v="yes"/>
+    <tag k="int_ref" v="E20"/>
+    <tag k="maxspeed" v="160"/>
+    <tag k="name" v="Linia Warszawa-Zachodnia - Kunowice"/>
+    <tag k="operator" v="PLK S.A."/>
+    <tag k="railway" v="rail"/>
+    <tag k="ref" v="3"/>
+    <tag k="source" v="landsat"/>
+    <tag k="voltage" v="3000"/>
+    <tag k="wikipedia" v="pl:Linia kolejowa nr 3"/>
+  </way>
+  <way id="41061187" version="3" timestamp="2009-11-11T11:17:18Z" uid="20587" user="balrog-kun" changeset="3089068">
+    <nd ref="500523923"/>
+    <nd ref="60058048"/>
+    <nd ref="60058047"/>
+    <nd ref="335652416"/>
+    <nd ref="60058046"/>
+    <nd ref="277618676"/>
+    <tag k="electrified" v="yes"/>
+    <tag k="maxspeed" v="160"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="landsat"/>
+    <tag k="voltage" v="3000"/>
+  </way>
+  <way id="41061187" version="4" timestamp="2009-11-11T21:59:27Z" uid="20587" user="balrog-kun" changeset="3094063">
+    <nd ref="500523923"/>
+    <nd ref="60058048"/>
+    <nd ref="60058047"/>
+    <tag k="electrified" v="yes"/>
+    <tag k="maxspeed" v="160"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="landsat"/>
+    <tag k="voltage" v="3000"/>
+  </way>
+</osm>

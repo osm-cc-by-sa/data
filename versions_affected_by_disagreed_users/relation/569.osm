@@ -1,0 +1,515 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="569160" version="3" timestamp="2010-11-11T09:08:23Z" uid="115477" user="wowik" changeset="6341972">
+    <tag k="restriction" v="only_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="569164" version="1" timestamp="2010-04-19T19:46:13Z" uid="33382" user="de_muur" changeset="4471594">
+    <member type="node" ref="702205902" role=""/>
+    <member type="way" ref="32494118" role=""/>
+    <tag k="name" v="Emtinghausen - (Ahausen)"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="569165" version="1" timestamp="2010-04-19T19:46:15Z" uid="33382" user="de_muur" changeset="4471594">
+    <member type="node" ref="702205899" role=""/>
+    <member type="way" ref="25566099" role=""/>
+    <member type="way" ref="25566165" role=""/>
+    <tag k="name" v="(Ahausen) - Sudweyhe"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="569166" version="1" timestamp="2010-04-19T19:46:16Z" uid="33382" user="de_muur" changeset="4471594">
+    <member type="node" ref="693272832" role=""/>
+    <member type="way" ref="55933140" role=""/>
+    <member type="node" ref="702205899" role=""/>
+    <tag k="name" v="Ahausen - Emtinghausen"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="569190" version="1" timestamp="2010-04-19T20:06:11Z" uid="33382" user="de_muur" changeset="4471846">
+    <member type="node" ref="692935305" role=""/>
+    <member type="way" ref="50741118" role=""/>
+    <member type="way" ref="25018426" role=""/>
+    <member type="way" ref="25564285" role=""/>
+    <tag k="name" v="Bremen/Arsten - (Eißel)"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="569191" version="1" timestamp="2010-04-19T20:07:09Z" uid="33382" user="de_muur" changeset="4471846">
+    <member type="node" ref="693272832" role=""/>
+    <member type="way" ref="51580451" role=""/>
+    <member type="way" ref="32494108" role=""/>
+    <tag k="name" v="Ahausen - (Emtinghausen)"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="569192" version="1" timestamp="2010-04-19T20:07:09Z" uid="33382" user="de_muur" changeset="4471846">
+    <member type="way" ref="24952425" role=""/>
+    <tag k="name" v="(Ahausen) - Riede"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="569192" version="2" timestamp="2010-04-20T14:52:52Z" uid="33382" user="de_muur" changeset="4477835">
+    <member type="way" ref="24952425" role=""/>
+    <tag k="name" v="(Kirchweyhe) - Riede"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="569308" version="1" timestamp="2010-04-19T21:05:07Z" uid="38528" user="acrosscanadatrails" changeset="4472599">
+    <member type="way" ref="55939606" role="outer"/>
+    <member type="way" ref="55939611" role="inner"/>
+    <member type="way" ref="55939612" role="inner"/>
+    <tag k="addr:province" v="British Colombia"/>
+    <tag k="addr:province:fr" v="Colombie-Britannique"/>
+    <tag k="attribution" v="Natural Resources Canada"/>
+    <tag k="boundary" v="national_park"/>
+    <tag k="boundary:type" v="protected_area"/>
+    <tag k="leisure" v="nature_reserve"/>
+    <tag k="name" v="Hesquiat Peninsula Provincial Park"/>
+    <tag k="name:fr" v="Hesquiat Peninsula Provincial Park"/>
+    <tag k="source" v="NRCANprotarea_Import_2010"/>
+    <tag k="source:url" v="http://geogratis.cgdi.gc.ca/geogratis/en/collection/metadata.do?id=29545"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="569349" version="1" timestamp="2010-04-19T21:53:08Z" uid="59758" user="rendle" changeset="4472986">
+    <member type="way" ref="55942157" role=""/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="569349" version="2" timestamp="2010-04-19T21:53:37Z" uid="59758" user="rendle" changeset="4472986">
+    <member type="way" ref="55942157" role=""/>
+    <member type="way" ref="55942159" role=""/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="569450" version="1" timestamp="2010-04-19T23:57:04Z" uid="244897" user="M526244" changeset="4473457">
+    <member type="way" ref="47286495" role="member"/>
+    <member type="way" ref="47286494" role="member"/>
+    <member type="way" ref="17369924" role="member"/>
+    <member type="way" ref="27669747" role="member"/>
+    <member type="way" ref="27669746" role="member"/>
+    <member type="way" ref="27669743" role="member"/>
+    <member type="way" ref="27669738" role="member"/>
+    <member type="way" ref="27669748" role="member"/>
+    <member type="way" ref="27669728" role="member"/>
+    <member type="way" ref="27669750" role="member"/>
+    <member type="way" ref="27669740" role="member"/>
+    <member type="way" ref="27701466" role="member"/>
+    <member type="way" ref="19141410" role="member"/>
+    <member type="way" ref="27701462" role="member"/>
+    <member type="way" ref="19141528" role="member"/>
+    <member type="way" ref="28103195" role="member"/>
+    <member type="way" ref="19141601" role="member"/>
+    <member type="way" ref="27241703" role="member"/>
+    <member type="way" ref="28103196" role="member"/>
+    <member type="way" ref="28103198" role="member"/>
+    <member type="way" ref="28103197" role="member"/>
+    <member type="way" ref="17363405" role="member"/>
+    <member type="way" ref="19143958" role="member"/>
+    <member type="way" ref="19143650" role="member"/>
+    <member type="way" ref="28103492" role="member"/>
+    <member type="way" ref="19141780" role="member"/>
+    <member type="way" ref="45010322" role="member"/>
+    <member type="way" ref="45010323" role="member"/>
+    <member type="way" ref="19142133" role="member"/>
+    <member type="way" ref="45010326" role="member"/>
+    <member type="way" ref="19142444" role="member"/>
+    <member type="way" ref="45010324" role="member"/>
+    <member type="way" ref="45010478" role="member"/>
+    <tag k="name" v="Smith Street"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="569452" version="1" timestamp="2010-04-20T00:25:07Z" uid="244897" user="M526244" changeset="4473457">
+    <member type="way" ref="27749799" role=""/>
+    <member type="way" ref="27749798" role=""/>
+    <tag k="name" v="Nakina Street"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="569453" version="1" timestamp="2010-04-20T00:25:08Z" uid="244897" user="M526244" changeset="4473457">
+    <member type="way" ref="26599651" role="member"/>
+    <member type="way" ref="26599672" role="member"/>
+    <member type="way" ref="26599666" role="member"/>
+    <tag k="name" v="Kumbari Avenue"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="569454" version="1" timestamp="2010-04-20T00:25:08Z" uid="244897" user="M526244" changeset="4473457">
+    <member type="way" ref="45059885" role="member"/>
+    <member type="way" ref="45059884" role="member"/>
+    <member type="way" ref="26599556" role="member"/>
+    <tag k="name" v="Baratta Street"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="569455" version="1" timestamp="2010-04-20T00:25:08Z" uid="244897" user="M526244" changeset="4473457">
+    <member type="way" ref="45055769" role="member"/>
+    <member type="way" ref="49119809" role="member"/>
+    <member type="way" ref="49119808" role="member"/>
+    <member type="way" ref="45059886" role="member"/>
+    <member type="way" ref="45055768" role="member"/>
+    <member type="way" ref="45013217" role="member"/>
+    <member type="way" ref="45013218" role="member"/>
+    <member type="way" ref="8095615" role="member"/>
+    <tag k="name" v="Johnston Street"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="569456" version="1" timestamp="2010-04-20T00:25:08Z" uid="244897" user="M526244" changeset="4473457">
+    <member type="way" ref="26599558" role="member"/>
+    <member type="way" ref="49119809" role="member"/>
+    <member type="way" ref="26599563" role="member"/>
+    <tag k="name" v="Beale Street"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="569457" version="1" timestamp="2010-04-20T00:25:09Z" uid="244897" user="M526244" changeset="4473457">
+    <member type="way" ref="27749761" role="member"/>
+    <member type="way" ref="27749756" role="member"/>
+    <tag k="name" v="Brooke Avenue"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="569458" version="1" timestamp="2010-04-20T00:25:10Z" uid="244897" user="M526244" changeset="4473457">
+    <member type="way" ref="27749743" role="member"/>
+    <member type="way" ref="27749742" role="member"/>
+    <tag k="name" v="Neville Avenue"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="569615" version="1" timestamp="2010-04-20T06:12:23Z" uid="244897" user="M526244" changeset="4474602">
+    <member type="way" ref="46599044" role="member"/>
+    <member type="way" ref="46599042" role="member"/>
+    <member type="way" ref="46600161" role="member"/>
+    <member type="way" ref="46599045" role="member"/>
+    <member type="way" ref="46600159" role="member"/>
+    <tag k="name" v="Margaret Avenue"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="569635" version="16" timestamp="2011-04-14T10:32:53Z" uid="4467" user="Rosscoe" changeset="7859479">
+    <member type="node" ref="702375240" role=""/>
+    <member type="way" ref="30179661" role=""/>
+    <member type="way" ref="55949417" role=""/>
+    <member type="way" ref="13755724" role=""/>
+    <member type="way" ref="55952304" role=""/>
+    <member type="way" ref="39451700" role=""/>
+    <member type="way" ref="61532925" role=""/>
+    <member type="way" ref="30179541" role=""/>
+    <member type="way" ref="30179512" role=""/>
+    <member type="way" ref="55959079" role=""/>
+    <member type="way" ref="68218758" role=""/>
+    <member type="way" ref="68218759" role=""/>
+    <tag k="name" v="Bus Route 401"/>
+    <tag k="note" v="Pre-Paid Only. Cannot buy tickets from bus driver."/>
+    <tag k="operator" v="Sita Bus Lines"/>
+    <tag k="ref" v="401"/>
+    <tag k="route" v="bus"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="569644" version="1" timestamp="2010-04-20T07:35:51Z" uid="115477" user="wowik" changeset="4474905">
+    <member type="way" ref="8656097" role="from"/>
+    <member type="node" ref="673364805" role="via"/>
+    <member type="way" ref="55885979" role="to"/>
+    <tag k="restriction" v="no_turn_left"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="569646" version="1" timestamp="2010-04-20T07:43:48Z" uid="115477" user="wowik" changeset="4474978">
+    <member type="way" ref="27924367" role="from"/>
+    <member type="node" ref="269098404" role="via"/>
+    <member type="way" ref="27924376" role="to"/>
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="569718" version="1" timestamp="2010-04-20T11:02:48Z" uid="30632" user="antblant" changeset="4476138">
+    <member type="way" ref="55962074" role=""/>
+    <member type="way" ref="55962085" role=""/>
+    <member type="way" ref="55606677" role=""/>
+    <member type="way" ref="55962087" role=""/>
+    <member type="way" ref="55962088" role=""/>
+    <member type="way" ref="55962089" role=""/>
+    <tag k="color" v="green"/>
+    <tag k="name" v="Szlak Zielony przez Las Arkoński i Wzgórza Warszewskie"/>
+    <tag k="osmc:symbol" v="green:white:green_bar"/>
+    <tag k="route" v="hiking"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="569718" version="2" timestamp="2011-04-23T12:25:42Z" uid="30632" user="antblant" changeset="7943152">
+    <member type="way" ref="23460593" role=""/>
+    <member type="way" ref="23459363" role=""/>
+    <member type="way" ref="55962074" role=""/>
+    <member type="way" ref="55962085" role=""/>
+    <member type="way" ref="55606677" role=""/>
+    <member type="way" ref="55962087" role=""/>
+    <member type="way" ref="55962088" role=""/>
+    <member type="way" ref="55962089" role=""/>
+    <tag k="color" v="green"/>
+    <tag k="name" v="Szlak Zielony przez Las Arkoński i Wzgórza Warszewskie"/>
+    <tag k="osmc:symbol" v="green:white:green_bar"/>
+    <tag k="route" v="hiking"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="569718" version="3" timestamp="2011-04-27T20:05:00Z" uid="30632" user="antblant" changeset="7988907">
+    <member type="way" ref="110576132" role=""/>
+    <member type="way" ref="110576131" role=""/>
+    <member type="way" ref="23460593" role=""/>
+    <member type="way" ref="23459363" role=""/>
+    <member type="way" ref="55962074" role=""/>
+    <member type="way" ref="110576117" role=""/>
+    <member type="way" ref="110576138" role=""/>
+    <member type="way" ref="55962085" role=""/>
+    <member type="way" ref="55606677" role=""/>
+    <member type="way" ref="55962087" role=""/>
+    <member type="way" ref="55962088" role=""/>
+    <member type="way" ref="55962089" role=""/>
+    <tag k="color" v="green"/>
+    <tag k="name" v="Szlak Zielony przez Las Arkoński i Wzgórza Warszewskie"/>
+    <tag k="osmc:symbol" v="green:white:green_bar"/>
+    <tag k="route" v="hiking"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="569719" version="1" timestamp="2010-04-20T11:02:50Z" uid="30632" user="antblant" changeset="4476138">
+    <member type="way" ref="55962082" role=""/>
+    <member type="way" ref="23460229" role=""/>
+    <tag k="color" v="yellow"/>
+    <tag k="osmc:symbol" v="yellow:white:yellow_bar"/>
+    <tag k="route" v="hiking"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="569719" version="2" timestamp="2011-04-27T20:04:53Z" uid="30632" user="antblant" changeset="7988907">
+    <member type="way" ref="23460007" role=""/>
+    <member type="way" ref="110576121" role=""/>
+    <member type="way" ref="110576119" role=""/>
+    <member type="way" ref="110576118" role=""/>
+    <member type="way" ref="23460224" role=""/>
+    <member type="way" ref="110576124" role=""/>
+    <member type="way" ref="23459799" role=""/>
+    <member type="way" ref="110576145" role=""/>
+    <member type="way" ref="110576132" role=""/>
+    <member type="way" ref="110576131" role=""/>
+    <member type="way" ref="23459941" role=""/>
+    <member type="way" ref="110576120" role=""/>
+    <member type="way" ref="110576126" role=""/>
+    <member type="way" ref="110576137" role=""/>
+    <member type="way" ref="110576127" role=""/>
+    <member type="way" ref="110576122" role=""/>
+    <member type="way" ref="110576129" role=""/>
+    <member type="way" ref="110576128" role=""/>
+    <member type="way" ref="55962082" role=""/>
+    <member type="way" ref="23460229" role=""/>
+    <tag k="color" v="yellow"/>
+    <tag k="osmc:symbol" v="yellow:white:yellow_bar"/>
+    <tag k="route" v="hiking"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="569747" version="10" timestamp="2011-02-07T14:45:27Z" uid="115477" user="wowik" changeset="7216790">
+    <member type="way" ref="55966270" role="outer"/>
+    <member type="way" ref="87246365" role="outer"/>
+    <member type="way" ref="87246283" role="outer"/>
+    <member type="way" ref="88715408" role="outer"/>
+    <member type="way" ref="88715406" role="outer"/>
+    <member type="way" ref="55966269" role="outer"/>
+    <member type="way" ref="55966280" role="outer"/>
+    <member type="way" ref="55966284" role="outer"/>
+    <member type="way" ref="56009914" role="outer"/>
+    <member type="way" ref="98613013" role="outer"/>
+    <member type="way" ref="86484487" role="outer"/>
+    <member type="way" ref="56009952" role="outer"/>
+    <member type="way" ref="86020141" role="outer"/>
+    <member type="way" ref="86426081" role="outer"/>
+    <member type="way" ref="86419687" role="outer"/>
+    <member type="way" ref="55966271" role="outer"/>
+    <tag k="admin_level" v="6"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="cladr:code" v="6900300000000"/>
+    <tag k="description" v="муниципальный район"/>
+    <tag k="name" v="Бежецкий район"/>
+    <tag k="official_status" v="ru:муниципальный район"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="569749" version="3" timestamp="2011-02-01T19:02:05Z" uid="115477" user="wowik" changeset="7157857">
+    <member type="way" ref="55966286" role="outer"/>
+    <member type="way" ref="55966284" role="outer"/>
+    <member type="way" ref="55966283" role="outer"/>
+    <member type="way" ref="97721909" role="outer"/>
+    <member type="way" ref="55966285" role="outer"/>
+    <tag k="admin_level" v="6"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="cladr:code" v="6903000000000"/>
+    <tag k="description" v="муниципальный район"/>
+    <tag k="name" v="Сонковский район"/>
+    <tag k="official_status" v="ru:муниципальный район"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="569749" version="4" timestamp="2011-02-01T19:48:51Z" uid="115477" user="wowik" changeset="7158370">
+    <member type="way" ref="55966286" role="outer"/>
+    <member type="way" ref="55966284" role="outer"/>
+    <member type="way" ref="55966283" role="outer"/>
+    <member type="way" ref="97721909" role="outer"/>
+    <member type="way" ref="97727114" role="outer"/>
+    <member type="way" ref="97727071" role="outer"/>
+    <member type="way" ref="97727088" role="outer"/>
+    <member type="way" ref="97727083" role="outer"/>
+    <member type="way" ref="55966285" role="outer"/>
+    <tag k="admin_level" v="6"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="cladr:code" v="6903000000000"/>
+    <tag k="description" v="муниципальный район"/>
+    <tag k="name" v="Сонковский район"/>
+    <tag k="official_status" v="ru:муниципальный район"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="569749" version="5" timestamp="2011-02-01T20:29:20Z" uid="115477" user="wowik" changeset="7158878">
+    <member type="way" ref="55966286" role="outer"/>
+    <member type="way" ref="55966284" role="outer"/>
+    <member type="way" ref="55966283" role="outer"/>
+    <member type="way" ref="97721909" role="outer"/>
+    <member type="way" ref="97727114" role="outer"/>
+    <member type="way" ref="97727071" role="outer"/>
+    <member type="way" ref="97727088" role="outer"/>
+    <member type="way" ref="97734549" role="outer"/>
+    <member type="way" ref="97727083" role="outer"/>
+    <member type="way" ref="55966285" role="outer"/>
+    <tag k="admin_level" v="6"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="cladr:code" v="6903000000000"/>
+    <tag k="description" v="муниципальный район"/>
+    <tag k="name" v="Сонковский район"/>
+    <tag k="official_status" v="ru:муниципальный район"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="569749" version="6" timestamp="2011-02-03T12:39:22Z" uid="115477" user="wowik" changeset="7173645">
+    <member type="way" ref="55966286" role="outer"/>
+    <member type="way" ref="55966284" role="outer"/>
+    <member type="way" ref="55966283" role="outer"/>
+    <member type="way" ref="97721909" role="outer"/>
+    <member type="way" ref="97727114" role="outer"/>
+    <member type="way" ref="97727071" role="outer"/>
+    <member type="way" ref="97727088" role="outer"/>
+    <member type="way" ref="97734549" role="outer"/>
+    <member type="way" ref="97727083" role="outer"/>
+    <member type="way" ref="97949614" role="outer"/>
+    <member type="way" ref="55966285" role="outer"/>
+    <tag k="admin_level" v="6"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="cladr:code" v="6903000000000"/>
+    <tag k="description" v="муниципальный район"/>
+    <tag k="name" v="Сонковский район"/>
+    <tag k="official_status" v="ru:муниципальный район"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="569749" version="7" timestamp="2011-02-07T14:59:52Z" uid="115477" user="wowik" changeset="7216953">
+    <member type="way" ref="55966286" role="outer"/>
+    <member type="way" ref="55966284" role="outer"/>
+    <member type="way" ref="55966283" role="outer"/>
+    <member type="way" ref="97721909" role="outer"/>
+    <member type="way" ref="98613775" role="outer"/>
+    <member type="way" ref="97727114" role="outer"/>
+    <member type="way" ref="97727071" role="outer"/>
+    <member type="way" ref="97727088" role="outer"/>
+    <member type="way" ref="97734549" role="outer"/>
+    <member type="way" ref="97727083" role="outer"/>
+    <member type="way" ref="97949614" role="outer"/>
+    <member type="way" ref="55966285" role="outer"/>
+    <tag k="admin_level" v="6"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="cladr:code" v="6903000000000"/>
+    <tag k="description" v="муниципальный район"/>
+    <tag k="name" v="Сонковский район"/>
+    <tag k="official_status" v="ru:муниципальный район"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="569785" version="1" timestamp="2010-04-20T13:52:00Z" uid="7617" user="Franc" changeset="4477398">
+    <member type="way" ref="8112553" role="from"/>
+    <member type="node" ref="60826125" role="via"/>
+    <member type="way" ref="48889049" role="to"/>
+    <tag k="day_off" v="friday"/>
+    <tag k="day_on" v="monday"/>
+    <tag k="hour_off" v="9:30"/>
+    <tag k="hour_on" v="8:00"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="569785" version="2" timestamp="2010-04-21T07:32:09Z" uid="7617" user="Franc" changeset="4483967">
+    <member type="node" ref="60826125" role="via"/>
+    <member type="way" ref="48889049" role="to"/>
+    <member type="way" ref="56012516" role="from"/>
+    <tag k="day_off" v="friday"/>
+    <tag k="day_on" v="monday"/>
+    <tag k="hour_off" v="9:30"/>
+    <tag k="hour_on" v="8:00"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="569786" version="1" timestamp="2010-04-20T13:52:00Z" uid="7617" user="Franc" changeset="4477398">
+    <member type="way" ref="8112553" role="from"/>
+    <member type="node" ref="60826125" role="via"/>
+    <member type="way" ref="48889049" role="to"/>
+    <tag k="day_off" v="friday"/>
+    <tag k="day_on" v="monday"/>
+    <tag k="hour_off" v="16:00"/>
+    <tag k="hour_on" v="14:30"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="569786" version="2" timestamp="2010-04-21T07:32:09Z" uid="7617" user="Franc" changeset="4483967">
+    <member type="node" ref="60826125" role="via"/>
+    <member type="way" ref="48889049" role="to"/>
+    <member type="way" ref="56012516" role="from"/>
+    <tag k="day_off" v="friday"/>
+    <tag k="day_on" v="monday"/>
+    <tag k="hour_off" v="16:00"/>
+    <tag k="hour_on" v="14:30"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="569795" version="2" timestamp="2011-02-04T00:37:47Z" uid="6269" user="Mueck" changeset="7179414">
+    <member type="way" ref="34610598" role="from"/>
+    <tag k="restriction" v="only_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="569802" version="2" timestamp="2011-02-04T00:37:47Z" uid="6269" user="Mueck" changeset="7179414">
+    <member type="way" ref="55969352" role="from"/>
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="569836" version="1" timestamp="2010-04-20T14:52:37Z" uid="33382" user="de_muur" changeset="4477835">
+    <member type="node" ref="702564825" role=""/>
+    <member type="way" ref="24952426" role=""/>
+    <tag k="name" v="(Kirchweyhe) - Riede"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Diepholz"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="569837" version="1" timestamp="2010-04-20T14:52:45Z" uid="33382" user="de_muur" changeset="4477835">
+    <member type="node" ref="702564825" role=""/>
+    <member type="way" ref="4250334" role=""/>
+    <member type="way" ref="4089590" role=""/>
+    <member type="way" ref="55972110" role=""/>
+    <member type="way" ref="23675126" role=""/>
+    <member type="way" ref="23675127" role=""/>
+    <member type="way" ref="26676126" role=""/>
+    <member type="way" ref="4088470" role=""/>
+    <member type="node" ref="702564823" role=""/>
+    <tag k="name" v="Bremen-Arsten - Riede"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Diepholz"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+</osm>

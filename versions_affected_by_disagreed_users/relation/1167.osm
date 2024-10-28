@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1167463" version="1" timestamp="2010-09-08T10:19:12Z" uid="115477" user="wowik" changeset="5715736">
+    <member type="way" ref="76565653" role="outer"/>
+    <member type="way" ref="76565654" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1167525" version="2" timestamp="2010-09-09T21:07:14Z" uid="9581" user="Lobelt" changeset="5736496">
+    <member type="way" ref="76579482" role="outer"/>
+    <member type="way" ref="76579477" role="outer"/>
+    <member type="way" ref="76579478" role="outer"/>
+    <member type="way" ref="76579483" role="outer"/>
+    <tag k="landuse" v="residential"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1167600" version="1" timestamp="2010-09-08T12:29:06Z" uid="115477" user="wowik" changeset="5716807">
+    <member type="way" ref="74166244" role="from"/>
+    <member type="way" ref="76585386" role="to"/>
+    <member type="node" ref="877243440" role="via"/>
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+</osm>

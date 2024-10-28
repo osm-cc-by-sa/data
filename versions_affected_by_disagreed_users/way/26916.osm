@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="26916740" version="3" timestamp="2010-03-07T22:51:14Z" uid="30201" user="rrankin" changeset="4067464">
+    <nd ref="294979815"/>
+    <nd ref="294979819"/>
+    <nd ref="294979820"/>
+    <nd ref="662619745"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Ashbury Avenue"/>
+  </way>
+  <way id="26916740" version="4" timestamp="2010-07-07T19:31:16Z" uid="74617" user="JohnSmith" changeset="5161069">
+    <nd ref="294979815"/>
+    <nd ref="294979819"/>
+    <nd ref="294979820"/>
+    <nd ref="662619745"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Ashbury Avenue"/>
+  </way>
+  <way id="26916741" version="2" timestamp="2010-07-07T19:31:50Z" uid="74617" user="JohnSmith" changeset="5161069">
+    <nd ref="294979820"/>
+    <nd ref="294979823"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Pinnibar Court"/>
+  </way>
+</osm>

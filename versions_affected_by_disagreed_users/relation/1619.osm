@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1619046" version="1" timestamp="2011-06-10T10:15:08Z" uid="115477" user="wowik" changeset="8395424">
+    <member type="way" ref="117055470" role="outer"/>
+    <member type="way" ref="117055468" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1619110" version="1" timestamp="2011-06-10T11:22:31Z" uid="115477" user="wowik" changeset="8396257">
+    <member type="way" ref="117061475" role="outer"/>
+    <member type="way" ref="117061482" role="inner"/>
+    <member type="way" ref="117061458" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1619111" version="1" timestamp="2011-06-10T11:22:32Z" uid="115477" user="wowik" changeset="8396257">
+    <member type="way" ref="117061464" role="outer"/>
+    <member type="way" ref="117061481" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1619434" version="1" timestamp="2011-06-10T15:50:21Z" uid="66036" user="h4v" changeset="8398402">
+    <member type="way" ref="116042712" role="street"/>
+    <member type="way" ref="36919185" role="house"/>
+    <member type="way" ref="106679278" role="house"/>
+    <member type="way" ref="37332710" role="house"/>
+    <member type="way" ref="37548521" role="house"/>
+    <member type="way" ref="117092088" role="house"/>
+    <member type="way" ref="37548520" role="house"/>
+    <member type="way" ref="37548518" role="house"/>
+    <member type="way" ref="102147174" role="house"/>
+    <member type="way" ref="37548516" role="house"/>
+    <member type="way" ref="102147164" role="house"/>
+    <member type="way" ref="36919183" role="house"/>
+    <member type="way" ref="39366923" role="house"/>
+    <member type="way" ref="101177755" role="house"/>
+    <tag k="name" v="Kasprzaka"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1619435" version="1" timestamp="2011-06-10T15:50:21Z" uid="66036" user="h4v" changeset="8398402">
+    <member type="way" ref="42799876" role="street"/>
+    <member type="way" ref="36919181" role="house"/>
+    <member type="way" ref="36919180" role="house"/>
+    <member type="way" ref="36919179" role="house"/>
+    <tag k="name" v="Srebrzyńska"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1619435" version="2" timestamp="2011-06-18T18:42:02Z" uid="66036" user="h4v" changeset="8476543">
+    <member type="way" ref="42799876" role="street"/>
+    <member type="way" ref="36919181" role="house"/>
+    <member type="way" ref="36919180" role="house"/>
+    <member type="way" ref="36919179" role="house"/>
+    <member type="way" ref="37010986" role="house"/>
+    <tag k="name" v="Srebrzyńska"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1619848" version="1" timestamp="2011-06-10T22:09:50Z" uid="7617" user="Franc" changeset="8401446">
+    <member type="way" ref="23272192" role="from"/>
+    <member type="way" ref="3169063" role="to"/>
+    <member type="node" ref="251848951" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1619848" version="2" timestamp="2011-06-19T12:27:18Z" uid="7617" user="Franc" changeset="8483425">
+    <member type="way" ref="3169063" role="to"/>
+    <member type="node" ref="251848951" role="via"/>
+    <member type="way" ref="118304426" role="from"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1619849" version="1" timestamp="2011-06-10T22:09:50Z" uid="7617" user="Franc" changeset="8401446">
+    <member type="way" ref="117136897" role="from"/>
+    <member type="way" ref="3169065" role="to"/>
+    <member type="node" ref="251848952" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1619850" version="1" timestamp="2011-06-10T22:09:50Z" uid="7617" user="Franc" changeset="8401446">
+    <member type="way" ref="117136900" role="from"/>
+    <member type="way" ref="4596017" role="to"/>
+    <member type="node" ref="20166417" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1619897" version="1" timestamp="2011-06-10T22:46:06Z" uid="66036" user="h4v" changeset="8401653">
+    <member type="way" ref="26931012" role="street"/>
+    <member type="way" ref="117139016" role="house"/>
+    <member type="node" ref="1319509461" role="house"/>
+    <member type="node" ref="1319509437" role="house"/>
+    <tag k="name" v="Marii Skłodowskiej-Curie"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1619898" version="1" timestamp="2011-06-10T22:46:07Z" uid="66036" user="h4v" changeset="8401653">
+    <member type="way" ref="117139023" role="outer"/>
+    <member type="way" ref="117139020" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1619899" version="1" timestamp="2011-06-10T22:46:07Z" uid="66036" user="h4v" changeset="8401653">
+    <member type="way" ref="117139027" role="outer"/>
+    <member type="way" ref="117139019" role="outer"/>
+    <member type="way" ref="27144614" role="outer"/>
+    <member type="way" ref="27144337" role="outer"/>
+    <tag k="heritage" v="2"/>
+    <tag k="heritage:operator" v="nid"/>
+    <tag k="landuse" v="residential"/>
+    <tag k="name" v="os. Józefa Montwiłła-Mireckiego"/>
+    <tag k="ref:nid" v="A/56"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1619900" version="1" timestamp="2011-06-10T22:46:07Z" uid="66036" user="h4v" changeset="8401653">
+    <member type="way" ref="56200586" role="street"/>
+    <member type="way" ref="117139017" role="house"/>
+    <member type="node" ref="1319509451" role="house"/>
+    <member type="node" ref="1319509458" role="house"/>
+    <member type="way" ref="107422365" role="house"/>
+    <tag k="name" v="Piramowicza"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1619900" version="2" timestamp="2011-06-12T18:40:40Z" uid="66036" user="h4v" changeset="8418318">
+    <member type="way" ref="56200586" role="street"/>
+    <member type="way" ref="117139017" role="house"/>
+    <member type="node" ref="1319509451" role="house"/>
+    <member type="node" ref="1319509458" role="house"/>
+    <member type="way" ref="107422365" role="house"/>
+    <member type="way" ref="117396500" role="house"/>
+    <member type="node" ref="1322454828" role="house"/>
+    <member type="node" ref="1322454836" role="house"/>
+    <tag k="name" v="Piramowicza"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+</osm>

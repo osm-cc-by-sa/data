@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="5925313" version="4" timestamp="2008-09-22T17:58:44Z" uid="65847" user="LKK" changeset="682875">
+    <nd ref="48685282"/>
+    <nd ref="48686519"/>
+    <nd ref="48686521"/>
+    <nd ref="48686524"/>
+    <nd ref="48686525"/>
+    <nd ref="48686528"/>
+    <nd ref="48686530"/>
+    <nd ref="48686533"/>
+    <nd ref="48686534"/>
+    <nd ref="299095387"/>
+    <nd ref="48686535"/>
+    <nd ref="48686536"/>
+    <tag k="created_by" v="Potlatch 0.10b"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="5925364" version="5" timestamp="2008-10-01T23:17:38Z" uid="65847" user="LKK" changeset="24639">
+    <nd ref="48687113"/>
+    <nd ref="298171944"/>
+    <nd ref="48687230"/>
+    <nd ref="48687231"/>
+    <nd ref="48687232"/>
+    <nd ref="48687233"/>
+    <nd ref="48687237"/>
+    <nd ref="48687238"/>
+    <nd ref="48687239"/>
+    <nd ref="48687241"/>
+    <nd ref="48687242"/>
+    <nd ref="256277317"/>
+    <nd ref="48687243"/>
+    <tag k="created_by" v="Potlatch 0.8a"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="5925463" version="4" timestamp="2008-10-01T23:17:26Z" uid="65847" user="LKK" changeset="24639">
+    <nd ref="48688468"/>
+    <nd ref="48688778"/>
+    <nd ref="48688263"/>
+    <nd ref="48686530"/>
+    <tag k="created_by" v="Potlatch alpha"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="L 3266"/>
+  </way>
+  <way id="5925498" version="2" timestamp="2007-11-11T03:09:19Z" uid="7617" user="Franc" changeset="468934">
+    <nd ref="31485180"/>
+    <nd ref="48689274"/>
+    <nd ref="48689277"/>
+    <nd ref="106599643"/>
+    <nd ref="48689279"/>
+    <nd ref="48689281"/>
+    <nd ref="48689284"/>
+    <nd ref="48689287"/>
+    <tag k="created_by" v="Potlatch alpha"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Jacques Street"/>
+  </way>
+  <way id="5925498" version="5" timestamp="2010-02-24T07:32:01Z" uid="7617" user="Franc" changeset="3960510">
+    <nd ref="31485180"/>
+    <nd ref="48689274"/>
+    <nd ref="652380944"/>
+    <nd ref="48689277"/>
+    <nd ref="106599643"/>
+    <nd ref="48689279"/>
+    <nd ref="48689281"/>
+    <nd ref="48689284"/>
+    <nd ref="48689287"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Jacques Street"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="state_limit"/>
+  </way>
+</osm>

@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1407118" version="1" timestamp="2011-02-04T12:44:46Z" uid="115477" user="wowik" changeset="7182784">
+    <member type="way" ref="98124333" role="outer"/>
+    <member type="node" ref="1131360856" role="admin_centre"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="1407121" version="1" timestamp="2011-02-04T12:44:46Z" uid="115477" user="wowik" changeset="7182784">
+    <member type="node" ref="631523514" role="admin_centre"/>
+    <member type="way" ref="98124336" role="outer"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="1407122" version="1" timestamp="2011-02-04T12:44:47Z" uid="115477" user="wowik" changeset="7182784">
+    <member type="way" ref="98124331" role="outer"/>
+    <member type="node" ref="1135574353" role="admin_centre"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="1407394" version="1" timestamp="2011-02-04T17:13:56Z" uid="115477" user="wowik" changeset="7185118">
+    <member type="way" ref="98185821" role="outer"/>
+    <member type="way" ref="98185835" role="outer"/>
+    <member type="way" ref="98185780" role="outer"/>
+    <member type="way" ref="98185795" role="outer"/>
+    <member type="way" ref="98185778" role="outer"/>
+    <member type="way" ref="98185773" role="outer"/>
+    <member type="way" ref="98185802" role="outer"/>
+    <member type="node" ref="314211016" role="admin_centre"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Семендяевское сельское поселение"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="1407414" version="2" timestamp="2011-04-20T07:31:09Z" uid="115477" user="wowik" changeset="7913535">
+    <member type="way" ref="35814572" role="outline"/>
+    <member type="node" ref="265977319" role="entrance"/>
+    <member type="node" ref="418735551" role="entrance"/>
+    <member type="way" ref="98121524" role=""/>
+    <member type="way" ref="98121500" role=""/>
+    <member type="way" ref="98121517" role=""/>
+    <tag k="addr:city" v="Москва"/>
+    <tag k="addr:country" v="RU"/>
+    <tag k="type" v="building"/>
+  </relation>
+  <relation id="1407636" version="1" timestamp="2011-02-04T18:59:03Z" uid="115477" user="wowik" changeset="7185826">
+    <member type="node" ref="656725214" role="admin_centre"/>
+    <member type="way" ref="98209030" role="outer"/>
+    <member type="way" ref="98209025" role="outer"/>
+    <member type="way" ref="56009950" role="outer"/>
+    <member type="way" ref="37624530" role="outer"/>
+    <member type="way" ref="55507245" role="outer"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Нерльское сельское поселение"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="1407636" version="2" timestamp="2011-02-07T11:58:56Z" uid="115477" user="wowik" changeset="7215151">
+    <member type="node" ref="656725214" role="admin_centre"/>
+    <member type="way" ref="98209030" role="outer"/>
+    <member type="way" ref="98601963" role="outer"/>
+    <member type="way" ref="98209025" role="outer"/>
+    <member type="way" ref="56009950" role="outer"/>
+    <member type="way" ref="37624530" role="outer"/>
+    <member type="way" ref="55507245" role="outer"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Нерльское сельское поселение"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+</osm>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="29956212" version="1" timestamp="2009-01-07T03:26:51Z" uid="7617" user="Franc" changeset="749997">
+    <nd ref="60716676"/>
+    <nd ref="28829647"/>
+    <tag k="created_by" v="YahooApplet 1.0"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Wentworth Street"/>
+  </way>
+  <way id="29956212" version="2" timestamp="2010-07-08T02:54:19Z" uid="74617" user="JohnSmith" changeset="5163091">
+    <nd ref="60716676"/>
+    <nd ref="28829647"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Wentworth Street"/>
+  </way>
+  <way id="29956215" version="1" timestamp="2009-01-07T03:26:52Z" uid="7617" user="Franc" changeset="749997">
+    <nd ref="60716673"/>
+    <nd ref="26360749"/>
+    <nd ref="17604283"/>
+    <nd ref="30596836"/>
+    <nd ref="30596835"/>
+    <tag k="created_by" v="YahooApplet 1.0"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Smith Street"/>
+  </way>
+  <way id="29956215" version="6" timestamp="2010-07-08T02:53:46Z" uid="74617" user="JohnSmith" changeset="5163091">
+    <nd ref="26360748"/>
+    <nd ref="60716673"/>
+    <nd ref="364165640"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Smith Street"/>
+  </way>
+</osm>

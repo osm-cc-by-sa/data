@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="67187062" version="2" timestamp="2010-07-25T22:02:15Z" uid="4467" user="Rosscoe" changeset="5317120">
+    <nd ref="52442976"/>
+    <nd ref="811342649"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="name" v="Western Highway"/>
+  </way>
+  <way id="67187062" version="3" timestamp="2011-02-07T01:24:14Z" uid="4467" user="Rosscoe" changeset="7212030">
+    <nd ref="52442976"/>
+    <nd ref="811342649"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="name" v="Western Highway"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="67187064" version="3" timestamp="2010-07-25T22:02:17Z" uid="4467" user="Rosscoe" changeset="5317120">
+    <nd ref="811342475"/>
+    <nd ref="811342477"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="construction" v="motorway"/>
+    <tag k="highway" v="construction"/>
+    <tag k="layer" v="1"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="67187547" version="3" timestamp="2011-01-04T22:37:03Z" uid="65847" user="LKK" changeset="6866846">
+    <nd ref="248849938"/>
+    <nd ref="811382537"/>
+    <nd ref="811345660"/>
+    <nd ref="811345663"/>
+    <nd ref="811345665"/>
+    <nd ref="811345656"/>
+    <nd ref="811345659"/>
+    <nd ref="811345662"/>
+    <nd ref="811345664"/>
+    <nd ref="811345666"/>
+    <nd ref="811345657"/>
+    <nd ref="811345658"/>
+    <nd ref="811345661"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="67187571" version="1" timestamp="2010-07-11T12:41:28Z" uid="33382" user="de_muur" changeset="5189989">
+    <nd ref="317586750"/>
+    <nd ref="317586754"/>
+    <nd ref="317586757"/>
+    <nd ref="727705888"/>
+    <nd ref="317586758"/>
+    <nd ref="317586759"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Kamper Weg"/>
+    <tag k="postal_code" v="28876"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="67187572" version="1" timestamp="2010-07-11T12:41:28Z" uid="33382" user="de_muur" changeset="5189989">
+    <nd ref="317586751"/>
+    <nd ref="317586755"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Auf dem Kamp"/>
+    <tag k="postal_code" v="28876"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="67187573" version="1" timestamp="2010-07-11T12:41:29Z" uid="33382" user="de_muur" changeset="5189989">
+    <nd ref="317586755"/>
+    <nd ref="343515281"/>
+    <nd ref="343515285"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Auf dem Kamp"/>
+    <tag k="postal_code" v="28876"/>
+    <tag k="surface" v="cobblestone"/>
+  </way>
+  <way id="67187575" version="1" timestamp="2010-07-11T12:41:29Z" uid="33382" user="de_muur" changeset="5189989">
+    <nd ref="811346552"/>
+    <nd ref="343515286"/>
+    <nd ref="21524267"/>
+    <nd ref="266293130"/>
+    <nd ref="266293124"/>
+    <nd ref="21524262"/>
+    <nd ref="21524274"/>
+    <nd ref="651302026"/>
+    <nd ref="343515906"/>
+    <nd ref="21524196"/>
+    <nd ref="21524190"/>
+    <nd ref="21524163"/>
+    <nd ref="21524170"/>
+    <nd ref="262664016"/>
+    <tag k="cycleway" v="track"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Hamburger Straße"/>
+    <tag k="ref" v="L 168"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="67187576" version="1" timestamp="2010-07-11T12:41:29Z" uid="33382" user="de_muur" changeset="5189989">
+    <nd ref="343515285"/>
+    <nd ref="811346552"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Auf dem Kamp"/>
+    <tag k="postal_code" v="28876"/>
+    <tag k="surface" v="paved"/>
+  </way>
+</osm>

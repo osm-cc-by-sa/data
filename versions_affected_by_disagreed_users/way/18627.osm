@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="18627337" version="6" timestamp="2010-07-06T11:23:10Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="192168318"/>
+    <nd ref="192168319"/>
+    <nd ref="192168320"/>
+    <nd ref="192168931"/>
+    <nd ref="192167634"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Binary Street"/>
+  </way>
+  <way id="18627355" version="4" timestamp="2010-07-06T11:27:12Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="192168318"/>
+    <nd ref="192168530"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Program Street"/>
+  </way>
+  <way id="18627932" version="1" timestamp="2007-12-27T14:01:45Z" uid="1066" user="pavel" changeset="441974">
+    <nd ref="192175371"/>
+    <nd ref="192175388"/>
+    <nd ref="192175408"/>
+    <nd ref="192175437"/>
+    <nd ref="192175454"/>
+    <nd ref="192175472"/>
+    <nd ref="192175489"/>
+    <nd ref="192175513"/>
+    <nd ref="192175519"/>
+    <nd ref="192175523"/>
+    <nd ref="192175537"/>
+    <nd ref="192175547"/>
+    <nd ref="192175577"/>
+    <nd ref="192175555"/>
+    <nd ref="192175567"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="track"/>
+  </way>
+  <way id="18627933" version="1" timestamp="2007-12-27T14:01:46Z" uid="1066" user="pavel" changeset="441974">
+    <nd ref="192175577"/>
+    <nd ref="192175594"/>
+    <nd ref="192175611"/>
+    <nd ref="192175631"/>
+    <nd ref="192175653"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="footway"/>
+  </way>
+</osm>

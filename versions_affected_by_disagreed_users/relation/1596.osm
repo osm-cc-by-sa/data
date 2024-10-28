@@ -1,0 +1,234 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1596189" version="1" timestamp="2011-05-22T09:07:33Z" uid="7617" user="Franc" changeset="8213765">
+    <member type="way" ref="114381487" role="from"/>
+    <member type="way" ref="114381501" role="to"/>
+    <member type="node" ref="84330375" role="via"/>
+    <tag k="restriction" v="no_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1596190" version="1" timestamp="2011-05-22T09:07:33Z" uid="7617" user="Franc" changeset="8213765">
+    <member type="way" ref="102662333" role="from"/>
+    <member type="way" ref="114381510" role="to"/>
+    <member type="node" ref="1185685202" role="via"/>
+    <tag k="restriction" v="only_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1596191" version="1" timestamp="2011-05-22T09:07:34Z" uid="7617" user="Franc" changeset="8213765">
+    <member type="way" ref="114381511" role="from"/>
+    <member type="way" ref="114381529" role="to"/>
+    <member type="node" ref="26374686" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1596276" version="1" timestamp="2011-05-22T10:01:40Z" uid="8619" user="cetest" changeset="8214284">
+    <member type="node" ref="44159916" role=""/>
+    <member type="way" ref="7562773" role=""/>
+    <member type="way" ref="7562782" role=""/>
+    <member type="way" ref="7562756" role=""/>
+    <member type="way" ref="7562664" role=""/>
+    <member type="way" ref="7562628" role=""/>
+    <member type="way" ref="7562712" role=""/>
+    <member type="way" ref="7562637" role=""/>
+    <member type="way" ref="79548931" role=""/>
+    <member type="way" ref="79548935" role=""/>
+    <member type="way" ref="114389264" role=""/>
+    <member type="way" ref="7562750" role=""/>
+    <member type="way" ref="56298329" role=""/>
+    <member type="way" ref="56180246" role=""/>
+    <member type="node" ref="704999532" role=""/>
+    <tag k="network" v="rcn"/>
+    <tag k="note" v="36-38"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1596280" version="1" timestamp="2011-05-22T10:16:00Z" uid="8619" user="cetest" changeset="8214414">
+    <member type="node" ref="44159916" role=""/>
+    <member type="way" ref="7562660" role=""/>
+    <member type="way" ref="100662118" role=""/>
+    <member type="way" ref="100662128" role=""/>
+    <member type="node" ref="44176637" role=""/>
+    <tag k="network" v="rcn"/>
+    <tag k="note" v="37-38"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1596282" version="1" timestamp="2011-05-22T10:20:14Z" uid="8619" user="cetest" changeset="8214449">
+    <member type="node" ref="704999532" role=""/>
+    <member type="way" ref="114391094" role=""/>
+    <member type="way" ref="56180247" role=""/>
+    <member type="way" ref="7562798" role=""/>
+    <member type="way" ref="7562794" role=""/>
+    <member type="way" ref="7562598" role=""/>
+    <member type="node" ref="44176637" role=""/>
+    <tag k="network" v="rcn"/>
+    <tag k="note" v="37-38"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1596302" version="1" timestamp="2011-05-22T10:30:25Z" uid="8619" user="cetest" changeset="8214548">
+    <member type="node" ref="44176637" role=""/>
+    <member type="way" ref="7562745" role=""/>
+    <member type="way" ref="14025201" role=""/>
+    <member type="way" ref="14025218" role=""/>
+    <member type="way" ref="7576361" role=""/>
+    <member type="way" ref="7576419" role=""/>
+    <member type="way" ref="7576371" role=""/>
+    <member type="way" ref="7576401" role=""/>
+    <member type="way" ref="7576412" role=""/>
+    <member type="way" ref="7576416" role=""/>
+    <member type="way" ref="7576432" role=""/>
+    <member type="way" ref="7576426" role=""/>
+    <member type="node" ref="44208896" role=""/>
+    <tag k="network" v="rcn"/>
+    <tag k="note" v="34-37"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1596312" version="1" timestamp="2011-05-22T10:40:34Z" uid="8619" user="cetest" changeset="8214633">
+    <member type="way" ref="92481836" role=""/>
+    <member type="node" ref="44208896" role=""/>
+    <member type="way" ref="7576443" role=""/>
+    <member type="way" ref="114385262" role=""/>
+    <member type="way" ref="114392744" role=""/>
+    <member type="way" ref="7576456" role=""/>
+    <member type="node" ref="44148460" role=""/>
+    <member type="way" ref="7577821" role=""/>
+    <member type="way" ref="114385256" role=""/>
+    <tag k="network" v="rcn"/>
+    <tag k="note" v="33-434"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1596312" version="2" timestamp="2011-05-26T18:57:31Z" uid="8619" user="cetest" changeset="8256168">
+    <member type="node" ref="44208896" role=""/>
+    <member type="way" ref="92481836" role=""/>
+    <member type="way" ref="7577821" role=""/>
+    <member type="way" ref="114385256" role=""/>
+    <member type="way" ref="114385262" role=""/>
+    <member type="way" ref="114392744" role=""/>
+    <member type="way" ref="7576456" role=""/>
+    <member type="way" ref="7576443" role=""/>
+    <member type="node" ref="44148460" role=""/>
+    <tag k="network" v="rcn"/>
+    <tag k="note" v="33-34"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1596356" version="1" timestamp="2011-05-22T11:45:43Z" uid="8619" user="cetest" changeset="8215243">
+    <member type="node" ref="729496237" role=""/>
+    <member type="way" ref="79977831" role=""/>
+    <member type="way" ref="7574641" role=""/>
+    <member type="way" ref="7574642" role=""/>
+    <member type="way" ref="7574645" role=""/>
+    <member type="way" ref="7574648" role=""/>
+    <member type="way" ref="7574638" role=""/>
+    <member type="way" ref="7575209" role=""/>
+    <member type="way" ref="93840105" role=""/>
+    <member type="way" ref="93838573" role=""/>
+    <member type="way" ref="86920372" role=""/>
+    <member type="way" ref="59973004" role=""/>
+    <member type="way" ref="92657502" role=""/>
+    <member type="way" ref="114385250" role=""/>
+    <member type="way" ref="96184084" role=""/>
+    <member type="way" ref="59973005" role=""/>
+    <member type="way" ref="59010910" role=""/>
+    <member type="way" ref="7575210" role=""/>
+    <member type="way" ref="7575200" role=""/>
+    <member type="way" ref="93841125" role=""/>
+    <member type="way" ref="92415580" role=""/>
+    <member type="way" ref="93841139" role=""/>
+    <member type="way" ref="114396637" role=""/>
+    <member type="way" ref="92417915" role=""/>
+    <member type="node" ref="1072832542" role=""/>
+    <tag k="network" v="rcn"/>
+    <tag k="note" v="47-86"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1596363" version="1" timestamp="2011-05-22T11:49:07Z" uid="8619" user="cetest" changeset="8215275">
+    <member type="node" ref="44090537" role=""/>
+    <member type="way" ref="7562826" role=""/>
+    <member type="way" ref="114337239" role=""/>
+    <member type="way" ref="86006709" role=""/>
+    <member type="node" ref="729496433" role=""/>
+    <tag k="network" v="rcn"/>
+    <tag k="note" v="46-48"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1596363" version="2" timestamp="2011-05-26T17:54:30Z" uid="8619" user="cetest" changeset="8255645">
+    <member type="node" ref="44090537" role=""/>
+    <member type="way" ref="7562826" role=""/>
+    <member type="way" ref="114337239" role=""/>
+    <member type="node" ref="729496433" role=""/>
+    <tag k="network" v="rcn"/>
+    <tag k="note" v="46-48"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1596364" version="1" timestamp="2011-05-22T11:49:07Z" uid="8619" user="cetest" changeset="8215275">
+    <member type="node" ref="44012767" role=""/>
+    <member type="way" ref="86006740" role=""/>
+    <member type="node" ref="729496237" role=""/>
+    <tag k="network" v="rcn"/>
+    <tag k="note" v="86-86"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1596365" version="1" timestamp="2011-05-22T11:49:07Z" uid="8619" user="cetest" changeset="8215275">
+    <member type="node" ref="729496433" role=""/>
+    <member type="way" ref="58872801" role=""/>
+    <member type="way" ref="7574550" role=""/>
+    <member type="node" ref="729496237" role=""/>
+    <tag k="network" v="rcn"/>
+    <tag k="note" v="48-86"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1596365" version="2" timestamp="2011-05-26T17:54:30Z" uid="8619" user="cetest" changeset="8255645"/>
+  <relation id="1596367" version="1" timestamp="2011-05-22T11:51:26Z" uid="8619" user="cetest" changeset="8215306">
+    <member type="node" ref="44159916" role=""/>
+    <member type="way" ref="7562771" role=""/>
+    <member type="way" ref="7562576" role=""/>
+    <member type="way" ref="7576434" role=""/>
+    <member type="way" ref="7576436" role=""/>
+    <member type="way" ref="7574731" role=""/>
+    <member type="way" ref="7574726" role=""/>
+    <member type="way" ref="114337243" role=""/>
+    <member type="way" ref="114337242" role=""/>
+    <member type="way" ref="79547689" role=""/>
+    <member type="way" ref="62054030" role=""/>
+    <member type="way" ref="94393383" role=""/>
+    <member type="way" ref="94394094" role=""/>
+    <member type="way" ref="7574689" role=""/>
+    <member type="way" ref="114385260" role=""/>
+    <member type="way" ref="7563201" role=""/>
+    <member type="node" ref="44090537" role=""/>
+    <tag k="network" v="rcn"/>
+    <tag k="note" v="38-46"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1596428" version="1" timestamp="2011-05-22T12:27:49Z" uid="7617" user="Franc" changeset="8215656">
+    <member type="way" ref="4601859" role="from"/>
+    <member type="way" ref="114403569" role="to"/>
+    <member type="node" ref="28358878" role="via"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1596429" version="1" timestamp="2011-05-22T12:27:49Z" uid="7617" user="Franc" changeset="8215656">
+    <member type="way" ref="49136123" role="from"/>
+    <member type="way" ref="4601859" role="to"/>
+    <member type="node" ref="29103917" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1596821" version="2" timestamp="2011-06-09T11:50:15Z" uid="20587" user="balrog-kun" changeset="8387822">
+    <member type="node" ref="31897847" role="via"/>
+    <member type="way" ref="4902312" role="to"/>
+    <member type="way" ref="116931784" role="from"/>
+    <tag k="restriction" v="no_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+</osm>

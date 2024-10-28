@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="43551094" version="2" timestamp="2010-03-13T11:32:56Z" uid="30632" user="antblant" changeset="4113734">
+    <nd ref="549890861"/>
+    <nd ref="467712205"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="UMP-PL, ./UMP-Katowice/src/BIELSKO-BIALA.ulice.txt"/>
+  </way>
+  <way id="43551420" version="1" timestamp="2009-11-01T13:11:28Z" uid="30632" user="antblant" changeset="3005940">
+    <nd ref="267894384"/>
+    <nd ref="549891461"/>
+    <nd ref="549891462"/>
+    <nd ref="369268417"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="cycleway"/>
+  </way>
+  <way id="43551420" version="2" timestamp="2010-03-28T21:14:27Z" uid="20587" user="balrog-kun" changeset="4262159">
+    <nd ref="267894384"/>
+    <nd ref="549891461"/>
+    <nd ref="549891462"/>
+    <nd ref="369268417"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="cycleway"/>
+  </way>
+  <way id="43551422" version="1" timestamp="2009-11-01T13:11:28Z" uid="30632" user="antblant" changeset="3005940">
+    <nd ref="369268417"/>
+    <nd ref="412726250"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="43551992" version="2" timestamp="2010-06-29T19:10:07Z" uid="74617" user="JohnSmith" changeset="5108182">
+    <nd ref="549892703"/>
+    <nd ref="549892708"/>
+    <nd ref="549892711"/>
+    <nd ref="549892717"/>
+    <nd ref="549892703"/>
+    <tag k="fixme" v="sport=football is ambiguous, see http://wiki.osm.org/wiki/Football for more details"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="football"/>
+  </way>
+</osm>

@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="37253397" version="3" timestamp="2010-01-30T06:11:00Z" uid="30201" user="rrankin" changeset="3748418">
+    <nd ref="622832171"/>
+    <nd ref="197010383"/>
+    <nd ref="197011103"/>
+    <nd ref="580967424"/>
+    <nd ref="305543150"/>
+    <nd ref="305543191"/>
+    <nd ref="84419684"/>
+    <nd ref="197010145"/>
+    <tag k="cycleway" v="lane"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Day Avenue"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="37253397" version="5" timestamp="2011-06-19T12:27:27Z" uid="7617" user="Franc" changeset="8483425">
+    <nd ref="622832171"/>
+    <nd ref="197010383"/>
+    <nd ref="197011103"/>
+    <nd ref="580967424"/>
+    <nd ref="305543150"/>
+    <nd ref="305543191"/>
+    <nd ref="84419684"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lcn" v="yes"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Day Avenue"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="37253398" version="3" timestamp="2010-01-30T06:10:59Z" uid="30201" user="rrankin" changeset="3748418">
+    <nd ref="622832190"/>
+    <nd ref="26359651"/>
+    <nd ref="26359680"/>
+    <nd ref="42585948"/>
+    <nd ref="26359679"/>
+    <nd ref="26359634"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Cottenham Avenue"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="state_limit"/>
+  </way>
+  <way id="37253399" version="3" timestamp="2010-01-30T06:11:00Z" uid="30201" user="rrankin" changeset="3748418">
+    <nd ref="622832184"/>
+    <nd ref="26359641"/>
+    <nd ref="26359642"/>
+    <tag k="cycleway" v="lane"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Day Avenue"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="37253399" version="4" timestamp="2010-02-15T03:32:56Z" uid="230283" user="AuFCL" changeset="3880035">
+    <nd ref="622832184"/>
+    <nd ref="26359641"/>
+    <nd ref="639374992"/>
+    <nd ref="26359642"/>
+    <tag k="cycleway" v="lane"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Day Avenue"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="37253401" version="2" timestamp="2009-12-10T02:31:19Z" uid="30201" user="rrankin" changeset="3338883">
+    <nd ref="18319558"/>
+    <nd ref="18319557"/>
+    <nd ref="18319556"/>
+    <nd ref="18319555"/>
+    <nd ref="18319554"/>
+    <nd ref="58100094"/>
+    <tag k="cycleway" v="track"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="cycleway"/>
+  </way>
+  <way id="37253402" version="3" timestamp="2010-07-07T21:44:39Z" uid="74617" user="JohnSmith" changeset="5161069">
+    <nd ref="18319551"/>
+    <nd ref="600901113"/>
+    <nd ref="58148443"/>
+    <tag k="cycleway" v="lane"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:(Mo-Fr 08:00-09:30,14:30-16:00)" v="40"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Florence Avenue"/>
+    <tag k="restriction" v="school_zone"/>
+  </way>
+  <way id="37253403" version="2" timestamp="2009-12-10T02:31:10Z" uid="30201" user="rrankin" changeset="3338883">
+    <nd ref="15080327"/>
+    <nd ref="26359870"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Maloney Street"/>
+  </way>
+  <way id="37253404" version="2" timestamp="2009-12-10T02:31:10Z" uid="30201" user="rrankin" changeset="3338883">
+    <nd ref="26359870"/>
+    <nd ref="56877969"/>
+    <nd ref="56877977"/>
+    <nd ref="56878117"/>
+    <nd ref="56878111"/>
+    <nd ref="56878039"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Maloney Street"/>
+  </way>
+  <way id="37253404" version="3" timestamp="2010-01-30T06:10:52Z" uid="30201" user="rrankin" changeset="3748418">
+    <nd ref="26359870"/>
+    <nd ref="56877969"/>
+    <nd ref="56877977"/>
+    <nd ref="56878117"/>
+    <nd ref="56878111"/>
+    <nd ref="622831742"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Maloney Street"/>
+  </way>
+</osm>

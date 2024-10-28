@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="13732168" version="3" timestamp="2008-07-05T19:29:19Z" uid="6975" user="ulfl" changeset="398437">
+    <nd ref="127071714"/>
+    <nd ref="127071715"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="layer" v="1"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="13732465" version="3" timestamp="2010-04-03T13:34:31Z" uid="20587" user="balrog-kun" changeset="4312936">
+    <nd ref="127078072"/>
+    <nd ref="127078076"/>
+    <nd ref="127078079"/>
+    <nd ref="127078082"/>
+    <nd ref="127078084"/>
+    <nd ref="127078086"/>
+    <nd ref="127078089"/>
+    <nd ref="127078093"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Milligan Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Bonneville, ID"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="119183713"/>
+  </way>
+  <way id="13732996" version="6" timestamp="2010-05-17T06:16:58Z" uid="4467" user="Rosscoe" changeset="4725911">
+    <nd ref="51651991"/>
+    <nd ref="127090872"/>
+    <nd ref="425000985"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Melrose Avenue"/>
+  </way>
+  <way id="13732996" version="7" timestamp="2010-07-08T03:40:49Z" uid="74617" user="JohnSmith" changeset="5163091">
+    <nd ref="51651991"/>
+    <nd ref="127090872"/>
+    <nd ref="425000985"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Melrose Avenue"/>
+  </way>
+</osm>

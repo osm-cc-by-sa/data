@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="81630632" version="1" timestamp="2010-10-16T10:18:00Z" uid="96874" user="Quedel" changeset="6056097">
+    <nd ref="299533504"/>
+    <nd ref="951411579"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Grabengasse"/>
+    <tag k="parking:condition:right" v="residents"/>
+    <tag k="parking:lane:left" v="no_parking"/>
+    <tag k="parking:lane:right" v="orthogonal"/>
+    <tag k="surface" v="cobblestone"/>
+    <tag k="width" v="5"/>
+  </way>
+  <way id="81630633" version="1" timestamp="2010-10-16T10:18:00Z" uid="96874" user="Quedel" changeset="6056097">
+    <nd ref="951411579"/>
+    <nd ref="297471686"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Grabengasse"/>
+    <tag k="parking:lane:both" v="no_stopping"/>
+    <tag k="surface" v="cobblestone"/>
+    <tag k="width" v="5"/>
+  </way>
+  <way id="81630713" version="3" timestamp="2011-02-22T13:11:30Z" uid="20587" user="balrog-kun" changeset="7362943">
+    <nd ref="951413185"/>
+    <nd ref="951413186"/>
+    <nd ref="951413187"/>
+    <nd ref="1166389985"/>
+    <nd ref="951413188"/>
+    <nd ref="1166389993"/>
+    <nd ref="951413189"/>
+    <nd ref="951413190"/>
+    <nd ref="119594460"/>
+    <nd ref="951413191"/>
+    <nd ref="783667137"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="81630714" version="1" timestamp="2010-10-16T10:23:02Z" uid="9581" user="Lobelt" changeset="6056350">
+    <nd ref="26915541"/>
+    <nd ref="26915543"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="70"/>
+    <tag k="name" v="Ludwigshafener Straße"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="81630715" version="1" timestamp="2010-10-16T10:23:02Z" uid="9581" user="Lobelt" changeset="6056350">
+    <nd ref="26915541"/>
+    <nd ref="21648952"/>
+    <nd ref="21650011"/>
+    <nd ref="951413228"/>
+    <tag k="highway" v="primary_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="81630716" version="1" timestamp="2010-10-16T10:23:02Z" uid="9581" user="Lobelt" changeset="6056350">
+    <nd ref="26915543"/>
+    <nd ref="26915551"/>
+    <tag k="highway" v="primary_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="81630717" version="1" timestamp="2010-10-16T10:23:03Z" uid="9581" user="Lobelt" changeset="6056350">
+    <nd ref="951413227"/>
+    <nd ref="951413211"/>
+    <nd ref="951413221"/>
+    <nd ref="298859091"/>
+    <nd ref="951413213"/>
+    <nd ref="951413205"/>
+    <nd ref="951413216"/>
+    <nd ref="951413224"/>
+    <nd ref="951413195"/>
+    <nd ref="951413210"/>
+    <nd ref="951413220"/>
+    <nd ref="951413192"/>
+    <nd ref="951413197"/>
+    <nd ref="951413199"/>
+    <nd ref="951413206"/>
+    <nd ref="951413218"/>
+    <nd ref="951413227"/>
+    <tag k="natural" v="scrub"/>
+  </way>
+  <way id="81630718" version="1" timestamp="2010-10-16T10:23:03Z" uid="9581" user="Lobelt" changeset="6056350">
+    <nd ref="26915543"/>
+    <nd ref="26915539"/>
+    <nd ref="282419276"/>
+    <nd ref="26915540"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="70"/>
+    <tag k="name" v="Ludwigshafener Straße"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="81630719" version="1" timestamp="2010-10-16T10:23:03Z" uid="9581" user="Lobelt" changeset="6056350">
+    <nd ref="26915551"/>
+    <nd ref="26915541"/>
+    <tag k="highway" v="primary_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="81630763" version="3" timestamp="2011-02-22T13:11:54Z" uid="20587" user="balrog-kun" changeset="7362943"/>
+  <way id="81630962" version="6" timestamp="2011-01-18T03:07:30Z" uid="20587" user="balrog-kun" changeset="7006661">
+    <nd ref="951416510"/>
+    <nd ref="951416511"/>
+    <tag k="construction" v="secondary"/>
+    <tag k="highway" v="construction"/>
+  </way>
+</osm>

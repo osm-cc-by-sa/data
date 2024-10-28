@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1265065" version="2" timestamp="2011-04-20T17:40:29Z" uid="115477" user="wowik" changeset="7918311">
+    <member type="way" ref="84632789" role="inner"/>
+    <member type="way" ref="84632742" role="inner"/>
+    <member type="way" ref="37757252" role="outer"/>
+    <tag k="addr:city" v="Москва"/>
+    <tag k="addr:country" v="RU"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="building" v="yes"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1265066" version="2" timestamp="2011-04-20T17:40:58Z" uid="115477" user="wowik" changeset="7918311">
+    <member type="way" ref="84632816" role="outer"/>
+    <member type="way" ref="84632827" role="inner"/>
+    <tag k="addr:city" v="Москва"/>
+    <tag k="addr:country" v="RU"/>
+    <tag k="addr:housenumber" v="13-15"/>
+    <tag k="building" v="yes"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1265067" version="2" timestamp="2011-04-20T17:41:26Z" uid="115477" user="wowik" changeset="7918311">
+    <member type="way" ref="84632906" role="outer"/>
+    <member type="way" ref="84632743" role="inner"/>
+    <tag k="addr:city" v="Москва"/>
+    <tag k="addr:country" v="RU"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="building" v="yes"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1265068" version="2" timestamp="2011-04-20T17:41:28Z" uid="115477" user="wowik" changeset="7918311">
+    <member type="way" ref="84632823" role="inner"/>
+    <member type="way" ref="46267183" role="outer"/>
+    <tag k="addr:city" v="Москва"/>
+    <tag k="addr:country" v="RU"/>
+    <tag k="addr:housenumber" v="5/2"/>
+    <tag k="building" v="yes"/>
+    <tag k="cladr:code" v="77000000000702700"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1265071" version="1" timestamp="2010-11-09T10:39:38Z" uid="7617" user="Franc" changeset="6326877">
+    <member type="way" ref="78088600" role="from"/>
+    <member type="way" ref="3633078" role="to"/>
+    <member type="node" ref="17989363" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+</osm>

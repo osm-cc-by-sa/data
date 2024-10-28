@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1173231" version="1" timestamp="2010-09-12T01:29:55Z" uid="7617" user="Franc" changeset="5755261">
+    <member type="way" ref="48847263" role="from"/>
+    <member type="node" ref="18813611" role="via"/>
+    <member type="way" ref="3771636" role="to"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1173232" version="1" timestamp="2010-09-12T01:29:56Z" uid="7617" user="Franc" changeset="5755261">
+    <member type="way" ref="47134543" role="from"/>
+    <member type="node" ref="18322527" role="via"/>
+    <member type="way" ref="49076624" role="to"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1173233" version="1" timestamp="2010-09-12T01:29:56Z" uid="7617" user="Franc" changeset="5755261">
+    <member type="way" ref="47134522" role="from"/>
+    <member type="node" ref="14698318" role="via"/>
+    <member type="way" ref="4934859" role="to"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1173237" version="3" timestamp="2011-02-10T19:14:51Z" uid="16922" user="amai" changeset="7248422">
+    <member type="way" ref="77082678" role="outer"/>
+    <tag k="landuse" v="industrial"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1173237" version="4" timestamp="2011-02-15T22:52:12Z" uid="16922" user="amai" changeset="7299979">
+    <member type="way" ref="77082678" role="outer"/>
+    <tag k="landuse" v="industrial"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1173313" version="1" timestamp="2010-09-12T08:15:01Z" uid="143719" user="DarkoS" changeset="5756697">
+    <member type="way" ref="77097406" role="inner"/>
+    <member type="way" ref="77097398" role="inner"/>
+    <member type="way" ref="77097405" role="inner"/>
+    <member type="way" ref="77097403" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+</osm>

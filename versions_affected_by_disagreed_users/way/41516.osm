@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="41516550" version="2" timestamp="2009-12-24T07:09:29Z" uid="4467" user="Rosscoe" changeset="3440232">
+    <nd ref="417745975"/>
+    <nd ref="598796419"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="41516550" version="3" timestamp="2010-07-09T05:29:24Z" uid="74617" user="JohnSmith" changeset="5170986">
+    <nd ref="417745975"/>
+    <nd ref="598796419"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="41516552" version="2" timestamp="2009-10-26T09:08:38Z" uid="4467" user="Rosscoe" changeset="2954287">
+    <nd ref="360645101"/>
+    <nd ref="360645103"/>
+    <nd ref="360645106"/>
+    <nd ref="360645108"/>
+    <nd ref="360645111"/>
+    <nd ref="360645113"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="41516552" version="3" timestamp="2010-07-09T05:29:19Z" uid="74617" user="JohnSmith" changeset="5170986">
+    <nd ref="360645101"/>
+    <nd ref="360645103"/>
+    <nd ref="360645106"/>
+    <nd ref="360645108"/>
+    <nd ref="360645111"/>
+    <nd ref="360645113"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="source" v="survey"/>
+  </way>
+</osm>

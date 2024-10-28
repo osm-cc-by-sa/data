@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1618012" version="1" timestamp="2011-06-09T12:26:39Z" uid="7617" user="Franc" changeset="8388076">
+    <member type="way" ref="48806443" role="from"/>
+    <member type="way" ref="4597277" role="to"/>
+    <member type="node" ref="12226010" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1618203" version="1" timestamp="2011-06-09T16:54:02Z" uid="66036" user="h4v" changeset="8390166">
+    <member type="way" ref="37047683" role=""/>
+    <member type="way" ref="37051812" role=""/>
+    <member type="way" ref="37052007" role=""/>
+    <member type="way" ref="37052069" role=""/>
+    <member type="way" ref="116960095" role=""/>
+    <member type="way" ref="116960090" role=""/>
+    <tag k="destination" v="Mroga"/>
+    <tag k="layer" v="-1"/>
+    <tag k="name" v="Mrożyca"/>
+    <tag k="type" v="waterway"/>
+    <tag k="waterway" v="river"/>
+  </relation>
+  <relation id="1618341" version="1" timestamp="2011-06-09T19:06:38Z" uid="33382" user="de_muur" changeset="8391176">
+    <member type="node" ref="876900753" role=""/>
+    <member type="way" ref="24719180" role=""/>
+    <member type="way" ref="74120071" role=""/>
+    <member type="way" ref="34597308" role=""/>
+    <tag k="name" v="Nusse - (Sirksfelde)"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1618788" version="1" timestamp="2011-06-10T05:54:46Z" uid="33382" user="de_muur" changeset="8394221">
+    <member type="node" ref="1317600300" role=""/>
+    <member type="way" ref="25351290" role=""/>
+    <member type="way" ref="77468900" role=""/>
+    <member type="way" ref="37462492" role=""/>
+    <member type="way" ref="26165199" role=""/>
+    <member type="way" ref="77468901" role=""/>
+    <member type="node" ref="1318423035" role=""/>
+    <tag k="name" v="Mölln-Zentrum - Trittau"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+</osm>

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1102057" version="7" timestamp="2010-08-30T11:52:20Z" uid="18775" user="drlizau" changeset="5635428">
+    <member type="way" ref="8438709" role="member"/>
+    <member type="way" ref="23133295" role="member"/>
+    <member type="way" ref="27327794" role="member"/>
+    <member type="way" ref="23133296" role="member"/>
+    <member type="way" ref="27327795" role="member"/>
+    <member type="way" ref="27327796" role="member"/>
+    <member type="way" ref="23133457" role="member"/>
+    <member type="way" ref="23133456" role="member"/>
+    <member type="way" ref="45234710" role="member"/>
+    <member type="way" ref="29171824" role="member"/>
+    <member type="way" ref="17505317" role=""/>
+    <member type="way" ref="45234711" role="member"/>
+    <member type="way" ref="4726223" role="member"/>
+    <member type="way" ref="28308570" role="member"/>
+    <member type="way" ref="4726221" role="member"/>
+    <member type="way" ref="23133554" role="member"/>
+    <member type="way" ref="23133555" role="member"/>
+    <member type="way" ref="45234712" role="member"/>
+    <member type="way" ref="69843685" role="member"/>
+    <member type="way" ref="44662595" role="member"/>
+    <member type="way" ref="15944456" role="member"/>
+    <member type="way" ref="44662594" role="member"/>
+    <member type="way" ref="45235052" role="member"/>
+    <member type="way" ref="45232375" role="member"/>
+    <member type="way" ref="45232376" role="member"/>
+    <member type="way" ref="44664236" role="member"/>
+    <member type="way" ref="23134260" role="member"/>
+    <member type="way" ref="44664234" role="member"/>
+    <member type="way" ref="75243105" role="member"/>
+    <member type="way" ref="29339116" role="member"/>
+    <member type="way" ref="75243103" role="member"/>
+    <member type="way" ref="29339118" role="member"/>
+    <member type="way" ref="15944449" role="member"/>
+    <member type="way" ref="15944445" role="member"/>
+    <member type="way" ref="44664317" role="member"/>
+    <member type="way" ref="44664318" role="member"/>
+    <member type="way" ref="15944464" role="member"/>
+    <member type="way" ref="15944460" role="member"/>
+    <tag k="network" v="S"/>
+    <tag k="ref" v="94"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1102416" version="1" timestamp="2010-07-27T13:58:27Z" uid="4467" user="Rosscoe" changeset="5329691">
+    <member type="way" ref="3619823" role="from"/>
+    <member type="node" ref="17922173" role="via"/>
+    <member type="way" ref="3619828" role="to"/>
+    <tag k="restriction" v="only_left_turn"/>
+    <tag k="source" v="neamap"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1102416" version="2" timestamp="2010-10-03T22:05:59Z" uid="7617" user="Franc" changeset="5949318">
+    <member type="way" ref="3619823" role="from"/>
+    <member type="node" ref="17922173" role="via"/>
+    <member type="way" ref="3619828" role="to"/>
+    <tag k="restriction" v="only_left_turn"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1102686" version="1" timestamp="2010-07-27T21:08:26Z" uid="9581" user="Lobelt" changeset="5333529">
+    <member type="way" ref="24991902" role="from"/>
+    <member type="way" ref="69932513" role="to"/>
+    <member type="node" ref="10993471" role="via"/>
+    <tag k="restriction" v="no_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1102687" version="1" timestamp="2010-07-27T21:08:27Z" uid="9581" user="Lobelt" changeset="5333529">
+    <member type="way" ref="69932486" role="from"/>
+    <member type="way" ref="4020496" role="to"/>
+    <member type="node" ref="835850405" role="via"/>
+    <tag k="restriction" v="no_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+</osm>

@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="944454" version="1" timestamp="2010-05-31T05:34:59Z" uid="74617" user="JohnSmith" changeset="4859196">
+    <member type="way" ref="60725162" role="outer"/>
+    <member type="way" ref="60725160" role="outer"/>
+    <member type="way" ref="49200775" role="outer"/>
+    <member type="way" ref="49200771" role="outer"/>
+    <member type="way" ref="60725165" role="outer"/>
+    <member type="way" ref="50877201" role="inner"/>
+    <tag k="natural" v="wetland"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="944455" version="1" timestamp="2010-05-31T05:35:11Z" uid="74617" user="JohnSmith" changeset="4859196">
+    <member type="way" ref="60725161" role=""/>
+    <member type="way" ref="60725158" role=""/>
+    <member type="way" ref="60725160" role=""/>
+    <tag k="natural" v="beach"/>
+    <tag k="surface" v="sand"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="944461" version="1" timestamp="2010-05-31T06:38:00Z" uid="74617" user="JohnSmith" changeset="4860116">
+    <member type="way" ref="60725892" role="outer"/>
+    <member type="way" ref="60725891" role="outer"/>
+    <tag k="natural" v="beach"/>
+    <tag k="surface" v="sand"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="944462" version="1" timestamp="2010-05-31T06:38:15Z" uid="74617" user="JohnSmith" changeset="4860116">
+    <member type="way" ref="47421353" role="outer"/>
+    <member type="way" ref="60725895" role="outer"/>
+    <tag k="leisure" v="common"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="944463" version="1" timestamp="2010-05-31T06:38:16Z" uid="74617" user="JohnSmith" changeset="4860116">
+    <member type="way" ref="27527776" role="outer"/>
+    <member type="way" ref="32310991" role="outer"/>
+    <tag k="natural" v="water"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="944464" version="1" timestamp="2010-05-31T06:38:16Z" uid="74617" user="JohnSmith" changeset="4860116">
+    <member type="way" ref="60725889" role="outer"/>
+    <member type="way" ref="60725887" role="outer"/>
+    <tag k="natural" v="water"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="944465" version="1" timestamp="2010-05-31T06:38:16Z" uid="74617" user="JohnSmith" changeset="4860116">
+    <member type="way" ref="47421355" role="outer"/>
+    <member type="way" ref="60725895" role="outer"/>
+    <tag k="natural" v="wood"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="944880" version="1" timestamp="2010-05-31T16:18:51Z" uid="33382" user="de_muur" changeset="4865391">
+    <member type="node" ref="760471951" role=""/>
+    <member type="node" ref="760471950" role=""/>
+    <member type="way" ref="22752325" role=""/>
+    <member type="way" ref="29118080" role=""/>
+    <member type="way" ref="14194296" role=""/>
+    <member type="node" ref="760473720" role=""/>
+    <member type="node" ref="760473709" role=""/>
+    <tag k="name" v="Centrum - Lilienthal"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Geoinformation Bremen"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="944880" version="2" timestamp="2010-11-20T21:16:17Z" uid="33382" user="de_muur" changeset="6418089">
+    <member type="node" ref="760471951" role=""/>
+    <member type="node" ref="760471950" role=""/>
+    <member type="way" ref="22752325" role=""/>
+    <member type="way" ref="29118080" role=""/>
+    <member type="way" ref="14194296" role=""/>
+    <member type="node" ref="760473720" role=""/>
+    <member type="node" ref="760473709" role=""/>
+    <member type="way" ref="14194298" role=""/>
+    <member type="way" ref="32780369" role=""/>
+    <member type="node" ref="996848677" role=""/>
+    <member type="node" ref="996848670" role=""/>
+    <tag k="name" v="Centrum - Lilienthal"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Geoinformation Bremen"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+</osm>

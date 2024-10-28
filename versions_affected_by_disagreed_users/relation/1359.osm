@@ -1,0 +1,479 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1359233" version="4" timestamp="2011-04-20T17:40:38Z" uid="115477" user="wowik" changeset="7918311">
+    <member type="way" ref="93671614" role="outer"/>
+    <member type="way" ref="93671598" role="outer"/>
+    <member type="way" ref="93671591" role="outer"/>
+    <member type="way" ref="93671623" role="outer"/>
+    <member type="way" ref="23378752" role="outer"/>
+    <member type="way" ref="93671619" role="outer"/>
+    <member type="way" ref="28403177" role="inner"/>
+    <member type="way" ref="28403176" role="inner"/>
+    <member type="way" ref="93540504" role="inner"/>
+    <member type="way" ref="93540519" role="inner"/>
+    <member type="way" ref="93540579" role="inner"/>
+    <member type="way" ref="93540575" role="inner"/>
+    <member type="way" ref="93540524" role="inner"/>
+    <member type="way" ref="28403175" role="inner"/>
+    <tag k="addr:city" v="Москва"/>
+    <tag k="addr:country" v="RU"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Сенат"/>
+    <tag k="name:de" v="Senatspalast"/>
+    <tag k="name:en" v="Kremlin Senate"/>
+    <tag k="name:es" v="Palacio del Senado"/>
+    <tag k="name:ru" v="Сенатский дворец"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1359248" version="3" timestamp="2011-04-20T17:41:30Z" uid="115477" user="wowik" changeset="7918311">
+    <member type="way" ref="93540525" role="outer"/>
+    <member type="way" ref="93540515" role="outer"/>
+    <member type="way" ref="93673835" role="outer"/>
+    <member type="way" ref="93673845" role="outer"/>
+    <member type="way" ref="93540531" role="outer"/>
+    <member type="way" ref="93540518" role="outer"/>
+    <member type="way" ref="93540512" role="outer"/>
+    <member type="way" ref="93540568" role="outer"/>
+    <tag k="addr:city" v="Москва"/>
+    <tag k="addr:country" v="RU"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Патриаршие палаты"/>
+    <tag k="tourism" v="museum"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1359249" version="2" timestamp="2011-04-20T17:40:51Z" uid="115477" user="wowik" changeset="7918311">
+    <member type="way" ref="93540538" role="outer"/>
+    <member type="way" ref="93540539" role="outer"/>
+    <member type="way" ref="93540568" role="outer"/>
+    <member type="way" ref="37959833" role="outer"/>
+    <tag k="addr:city" v="Москва"/>
+    <tag k="addr:country" v="RU"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Церковь Двенадцати Апостолов"/>
+    <tag k="religion" v="christian"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1359250" version="2" timestamp="2011-04-20T17:41:18Z" uid="115477" user="wowik" changeset="7918311">
+    <member type="way" ref="93540524" role="outer"/>
+    <member type="way" ref="93540521" role="outer"/>
+    <tag k="addr:city" v="Москва"/>
+    <tag k="addr:country" v="RU"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Сенатская башня"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1359254" version="1" timestamp="2011-01-05T23:26:38Z" uid="6269" user="Mueck" changeset="6877632">
+    <member type="way" ref="4176706" role="from"/>
+    <tag k="restriction" v="only_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1359254" version="2" timestamp="2011-01-05T23:27:00Z" uid="6269" user="Mueck" changeset="6877632">
+    <member type="way" ref="4176706" role="from"/>
+    <tag k="restriction" v="only_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1359254" version="3" timestamp="2011-01-05T23:27:18Z" uid="6269" user="Mueck" changeset="6877632">
+    <member type="way" ref="4176706" role="from"/>
+    <member type="node" ref="23054213" role="via"/>
+    <tag k="restriction" v="only_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1359254" version="4" timestamp="2011-01-05T23:31:06Z" uid="6269" user="Mueck" changeset="6877660">
+    <member type="way" ref="4176706" role="from"/>
+    <member type="node" ref="23054213" role="via"/>
+    <member type="way" ref="4177888" role=""/>
+    <tag k="note" v="Anliegerf. Herrenalber -&gt; Ostendorf"/>
+    <tag k="restriction" v="only_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1359254" version="5" timestamp="2011-01-05T23:32:46Z" uid="6269" user="Mueck" changeset="6877660">
+    <member type="way" ref="4176706" role="from"/>
+    <member type="node" ref="23054213" role="via"/>
+    <member type="way" ref="4177888" role=""/>
+    <member type="way" ref="93540826" role="from"/>
+    <tag k="note" v="Anliegerf. Herrenalber -&gt; Ostendorf"/>
+    <tag k="restriction" v="only_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1359254" version="6" timestamp="2011-01-05T23:32:59Z" uid="6269" user="Mueck" changeset="6877660">
+    <member type="node" ref="23054213" role="via"/>
+    <member type="way" ref="4177888" role=""/>
+    <member type="way" ref="93540826" role="from"/>
+    <tag k="note" v="Anliegerf. Herrenalber -&gt; Ostendorf"/>
+    <tag k="restriction" v="only_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1359254" version="7" timestamp="2011-01-05T23:37:53Z" uid="6269" user="Mueck" changeset="6877660">
+    <member type="node" ref="23054213" role="via"/>
+    <member type="way" ref="4177888" role=""/>
+    <member type="way" ref="93540826" role="from"/>
+    <tag k="note" v="Anliegerf. Herrenalber -&gt; Ostendorf"/>
+    <tag k="restriction" v="only_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1359254" version="8" timestamp="2011-01-05T23:40:44Z" uid="6269" user="Mueck" changeset="6877660">
+    <member type="node" ref="23054213" role="via"/>
+    <member type="way" ref="4177888" role=""/>
+    <member type="way" ref="93540826" role="from"/>
+    <tag k="name" v="Anliegerf. Ostend. N -&gt; S"/>
+    <tag k="restriction" v="only_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1359254" version="9" timestamp="2011-01-05T23:42:29Z" uid="6269" user="Mueck" changeset="6877660">
+    <member type="node" ref="23054213" role="via"/>
+    <member type="way" ref="4177888" role=""/>
+    <member type="way" ref="93540826" role="from"/>
+    <tag k="name" v="AOdp N-&gt;S"/>
+    <tag k="restriction" v="only_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1359260" version="1" timestamp="2011-01-05T23:37:32Z" uid="6269" user="Mueck" changeset="6877660">
+    <member type="way" ref="54649932" role="from"/>
+    <tag k="note" v="Ostend. N -&gt; O"/>
+    <tag k="restriction" v="no_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1359260" version="2" timestamp="2011-01-05T23:38:35Z" uid="6269" user="Mueck" changeset="6877660">
+    <member type="way" ref="54649932" role="from"/>
+    <member type="way" ref="3474598" role="to"/>
+    <member type="node" ref="15750981" role="via"/>
+    <tag k="note" v="Ostend. N -&gt; O"/>
+    <tag k="restriction" v="no_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1359260" version="3" timestamp="2011-01-05T23:40:57Z" uid="6269" user="Mueck" changeset="6877660">
+    <member type="way" ref="54649932" role="from"/>
+    <member type="way" ref="3474598" role="to"/>
+    <member type="node" ref="15750981" role="via"/>
+    <tag k="name" v="Ostend. N -&gt; O"/>
+    <tag k="restriction" v="no_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1359260" version="4" timestamp="2011-01-05T23:42:55Z" uid="6269" user="Mueck" changeset="6877660">
+    <member type="way" ref="54649932" role="from"/>
+    <member type="way" ref="3474598" role="to"/>
+    <member type="node" ref="15750981" role="via"/>
+    <tag k="name" v="Odp N-&gt;O"/>
+    <tag k="restriction" v="no_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1359261" version="1" timestamp="2011-01-05T23:39:45Z" uid="6269" user="Mueck" changeset="6877660">
+    <member type="way" ref="54649932" role="from"/>
+    <tag k="except" v="bicycle"/>
+    <tag k="name" v="Ostend. N -&gt; W"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1359261" version="2" timestamp="2011-01-05T23:40:11Z" uid="6269" user="Mueck" changeset="6877660">
+    <member type="way" ref="54649932" role="from"/>
+    <member type="way" ref="93540733" role="to"/>
+    <member type="node" ref="15750981" role="via"/>
+    <tag k="except" v="bicycle"/>
+    <tag k="name" v="Ostend. N -&gt; W"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1359261" version="3" timestamp="2011-01-05T23:42:06Z" uid="6269" user="Mueck" changeset="6877660">
+    <member type="way" ref="54649932" role="from"/>
+    <member type="way" ref="93540733" role="to"/>
+    <member type="node" ref="15750981" role="via"/>
+    <tag k="except" v="bicycle"/>
+    <tag k="name" v="Odp N-&gt;W"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1359261" version="4" timestamp="2011-01-06T00:28:31Z" uid="6269" user="Mueck" changeset="6877660">
+    <member type="way" ref="54649932" role="from"/>
+    <member type="way" ref="93540733" role="to"/>
+    <member type="node" ref="15750981" role="via"/>
+    <member type="way" ref="93543950" role="to"/>
+    <tag k="except" v="bicycle"/>
+    <tag k="name" v="Odp N-&gt;W"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1359261" version="5" timestamp="2011-01-06T00:28:52Z" uid="6269" user="Mueck" changeset="6877660">
+    <member type="way" ref="54649932" role="from"/>
+    <member type="node" ref="15750981" role="via"/>
+    <member type="way" ref="93543950" role="to"/>
+    <tag k="except" v="bicycle"/>
+    <tag k="name" v="Odp N-&gt;W"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1359261" version="6" timestamp="2011-01-06T00:29:17Z" uid="6269" user="Mueck" changeset="6877660">
+    <member type="way" ref="54649932" role="from"/>
+    <member type="node" ref="15750981" role="via"/>
+    <member type="way" ref="93543950" role="to"/>
+    <member type="way" ref="93543960" role="to"/>
+    <tag k="except" v="bicycle"/>
+    <tag k="name" v="Odp N-&gt;W"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1359261" version="7" timestamp="2011-01-06T00:30:03Z" uid="6269" user="Mueck" changeset="6877660">
+    <member type="way" ref="54649932" role="from"/>
+    <member type="node" ref="15750981" role="via"/>
+    <member type="way" ref="93543960" role="to"/>
+    <tag k="except" v="bicycle"/>
+    <tag k="name" v="Odp N-&gt;W"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1359264" version="1" timestamp="2011-01-05T23:45:45Z" uid="6269" user="Mueck" changeset="6877660">
+    <member type="way" ref="93541058" role="from"/>
+    <tag k="name" v="NOdp O-&gt;N"/>
+    <tag k="restriction" v="only_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1359264" version="2" timestamp="2011-01-05T23:46:07Z" uid="6269" user="Mueck" changeset="6877660">
+    <member type="way" ref="93541058" role="from"/>
+    <member type="way" ref="87609587" role="to"/>
+    <member type="node" ref="15750983" role="via"/>
+    <tag k="name" v="NOdp O-&gt;N"/>
+    <tag k="restriction" v="only_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1359265" version="1" timestamp="2011-01-05T23:48:12Z" uid="6269" user="Mueck" changeset="6877660">
+    <member type="way" ref="4211752" role="from"/>
+    <tag k="name" v="Dia O-&gt;N"/>
+    <tag k="restriction" v="only_right_turn"/>
+    <tag k="type" v="restriciton"/>
+  </relation>
+  <relation id="1359265" version="2" timestamp="2011-01-05T23:48:51Z" uid="6269" user="Mueck" changeset="6877660">
+    <member type="way" ref="4211752" role="from"/>
+    <member type="way" ref="93541967" role="to"/>
+    <member type="node" ref="15843279" role="via"/>
+    <tag k="name" v="Dia O-&gt;N"/>
+    <tag k="restriction" v="only_right_turn"/>
+    <tag k="type" v="restriciton"/>
+  </relation>
+  <relation id="1359269" version="1" timestamp="2011-01-05T23:51:18Z" uid="6269" user="Mueck" changeset="6877660">
+    <member type="way" ref="26206148" role=""/>
+    <tag k="name" v="ATu N-&gt;O"/>
+    <tag k="restriction" v="no_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1359269" version="2" timestamp="2011-01-05T23:51:46Z" uid="6269" user="Mueck" changeset="6877660">
+    <member type="way" ref="26206148" role=""/>
+    <member type="way" ref="4819916" role="to"/>
+    <member type="node" ref="24554678" role="via"/>
+    <tag k="name" v="ATu N-&gt;O"/>
+    <tag k="restriction" v="no_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1359271" version="1" timestamp="2011-01-05T23:53:51Z" uid="6269" user="Mueck" changeset="6877660">
+    <member type="way" ref="39642387" role="from"/>
+    <tag k="name" v="ATu O-&gt;N"/>
+    <tag k="restriction" v="only_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1359271" version="2" timestamp="2011-01-05T23:54:02Z" uid="6269" user="Mueck" changeset="6877660">
+    <member type="way" ref="39642387" role="from"/>
+    <member type="way" ref="3530521" role="to"/>
+    <tag k="name" v="ATu O-&gt;N"/>
+    <tag k="restriction" v="only_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1359271" version="3" timestamp="2011-01-05T23:54:17Z" uid="6269" user="Mueck" changeset="6877660">
+    <member type="way" ref="39642387" role="from"/>
+    <member type="way" ref="3530521" role="to"/>
+    <tag k="name" v="ATu O-&gt;N"/>
+    <tag k="restriction" v="only_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1359290" version="2" timestamp="2011-04-20T17:41:24Z" uid="115477" user="wowik" changeset="7918311">
+    <member type="way" ref="93540554" role="outer"/>
+    <member type="way" ref="93540573" role="outer"/>
+    <member type="way" ref="93540548" role="outer"/>
+    <member type="way" ref="93540505" role="outer"/>
+    <member type="way" ref="93540496" role="outer"/>
+    <member type="way" ref="93540551" role="outer"/>
+    <member type="way" ref="93540550" role="outer"/>
+    <member type="way" ref="93540537" role="outer"/>
+    <member type="way" ref="93540547" role="outer"/>
+    <member type="way" ref="93540541" role="outer"/>
+    <tag k="addr:city" v="Москва"/>
+    <tag k="addr:country" v="RU"/>
+    <tag k="building" v="yes"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1359297" version="1" timestamp="2011-01-06T00:22:50Z" uid="6269" user="Mueck" changeset="6877660">
+    <member type="way" ref="4567478" role="from"/>
+    <tag k="name" v="Kita O&gt;N"/>
+    <tag k="restriction" v="only_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1359297" version="2" timestamp="2011-01-06T00:23:21Z" uid="6269" user="Mueck" changeset="6877660">
+    <member type="way" ref="4567478" role="from"/>
+    <member type="way" ref="4230641" role="to"/>
+    <tag k="name" v="Kita O&gt;N"/>
+    <tag k="restriction" v="only_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1359297" version="3" timestamp="2011-01-06T00:23:34Z" uid="6269" user="Mueck" changeset="6877660">
+    <member type="way" ref="4567478" role="from"/>
+    <member type="way" ref="4230641" role="to"/>
+    <tag k="name" v="Kita O&gt;N"/>
+    <tag k="restriction" v="only_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1359306" version="1" timestamp="2011-01-06T00:24:51Z" uid="6269" user="Mueck" changeset="6877660">
+    <member type="way" ref="30813878" role="from"/>
+    <tag k="name" v="Kita N&gt;O"/>
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1359306" version="2" timestamp="2011-01-06T00:25:34Z" uid="6269" user="Mueck" changeset="6877660">
+    <member type="way" ref="30813878" role="from"/>
+    <member type="way" ref="87609587" role="to"/>
+    <tag k="name" v="Kita N&gt;O"/>
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1359306" version="3" timestamp="2011-01-06T00:25:48Z" uid="6269" user="Mueck" changeset="6877660">
+    <member type="way" ref="30813878" role="from"/>
+    <member type="way" ref="87609587" role="to"/>
+    <tag k="name" v="Kita N&gt;O"/>
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1359311" version="1" timestamp="2011-01-06T00:31:49Z" uid="6269" user="Mueck" changeset="6877660">
+    <member type="way" ref="93544043" role="from"/>
+    <tag k="name" v="ROdp N&gt;O"/>
+    <tag k="restriction" v="no_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1359311" version="2" timestamp="2011-01-06T00:31:59Z" uid="6269" user="Mueck" changeset="6877660">
+    <member type="way" ref="93544043" role="from"/>
+    <member type="way" ref="93543960" role="to"/>
+    <tag k="name" v="ROdp N&gt;O"/>
+    <tag k="restriction" v="no_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1359311" version="3" timestamp="2011-01-06T00:32:37Z" uid="6269" user="Mueck" changeset="6877660">
+    <member type="way" ref="93544043" role="from"/>
+    <member type="way" ref="93543960" role="to"/>
+    <member type="node" ref="528849332" role="via"/>
+    <tag k="name" v="ROdp N&gt;O"/>
+    <tag k="restriction" v="no_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1359335" version="5" timestamp="2011-04-20T17:41:10Z" uid="115477" user="wowik" changeset="7918311">
+    <member type="way" ref="66865689" role="outer"/>
+    <member type="way" ref="50301478" role="outer"/>
+    <member type="way" ref="93673840" role="outer"/>
+    <member type="way" ref="93673843" role="outer"/>
+    <member type="way" ref="93673838" role="outer"/>
+    <member type="way" ref="102034061" role="outer"/>
+    <member type="way" ref="93675973" role="outer"/>
+    <member type="way" ref="93545123" role="outer"/>
+    <member type="way" ref="93545125" role="outer"/>
+    <member type="way" ref="93675990" role="outer"/>
+    <member type="way" ref="93675969" role="outer"/>
+    <member type="way" ref="93675983" role="outer"/>
+    <member type="way" ref="93545124" role="outer"/>
+    <member type="way" ref="93545119" role="outer"/>
+    <member type="way" ref="93545120" role="outer"/>
+    <tag k="addr:city" v="Москва"/>
+    <tag k="addr:country" v="RU"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Оружейная палата"/>
+    <tag k="name:de" v="Rüstkammer"/>
+    <tag k="name:en" v="Armoury"/>
+    <tag k="tourism" v="museum"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1359337" version="3" timestamp="2011-04-20T17:40:36Z" uid="115477" user="wowik" changeset="7918311">
+    <member type="way" ref="93545122" role="outer"/>
+    <member type="way" ref="93545125" role="outer"/>
+    <member type="way" ref="93675990" role="outer"/>
+    <member type="way" ref="93675969" role="outer"/>
+    <member type="way" ref="93675983" role="outer"/>
+    <tag k="addr:city" v="Москва"/>
+    <tag k="addr:country" v="RU"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Потешный дворец"/>
+    <tag k="tourism" v="museum"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1359372" version="9" timestamp="2011-04-20T17:40:46Z" uid="115477" user="wowik" changeset="7918311">
+    <member type="way" ref="93675994" role="outer"/>
+    <member type="way" ref="93675978" role="outer"/>
+    <member type="way" ref="93672329" role="outer"/>
+    <member type="way" ref="93672330" role="outer"/>
+    <member type="way" ref="93672327" role="outer"/>
+    <member type="way" ref="93676546" role="outer"/>
+    <member type="way" ref="93675974" role="outer"/>
+    <member type="way" ref="48628757" role="outer"/>
+    <member type="way" ref="93545982" role="outer"/>
+    <tag k="addr:city" v="Москва"/>
+    <tag k="addr:country" v="RU"/>
+    <tag k="building" v="yes"/>
+    <tag k="height" v="70.4"/>
+    <tag k="historic" v="castle"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="name" v="Никольская башня"/>
+    <tag k="name:de" v="Nikolausturm"/>
+    <tag k="tourism" v="attraction"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="wikipedia:ru" v="Никольская башня"/>
+  </relation>
+  <relation id="1359374" version="6" timestamp="2011-04-20T17:40:36Z" uid="115477" user="wowik" changeset="7918311">
+    <member type="way" ref="93545984" role="outer"/>
+    <member type="way" ref="93545978" role="outer"/>
+    <member type="way" ref="93676573" role="outer"/>
+    <member type="way" ref="93676560" role="outer"/>
+    <member type="way" ref="93676554" role="outer"/>
+    <member type="way" ref="48628758" role="outer"/>
+    <member type="way" ref="93545977" role="outer"/>
+    <tag k="addr:city" v="Москва"/>
+    <tag k="addr:country" v="RU"/>
+    <tag k="building" v="yes"/>
+    <tag k="height" v="34"/>
+    <tag k="historic" v="castle"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="name" v="Сенатская башня"/>
+    <tag k="name:de" v="Senatsturm"/>
+    <tag k="tourism" v="attraction"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="wikipedia:ru" v="Сенатская башня"/>
+  </relation>
+  <relation id="1359385" version="2" timestamp="2011-04-20T17:41:06Z" uid="115477" user="wowik" changeset="7918311">
+    <member type="way" ref="93548799" role="outer"/>
+    <member type="way" ref="93548793" role="outer"/>
+    <member type="way" ref="93548787" role="outer"/>
+    <member type="way" ref="93548789" role="outer"/>
+    <member type="way" ref="93548784" role="outer"/>
+    <member type="way" ref="93548778" role="outer"/>
+    <member type="way" ref="93548779" role="outer"/>
+    <member type="way" ref="93548801" role="outer"/>
+    <member type="way" ref="93548783" role="outer"/>
+    <member type="way" ref="93548782" role="outer"/>
+    <tag k="addr:city" v="Москва"/>
+    <tag k="addr:country" v="RU"/>
+    <tag k="alt_name" v="Собор Василия Блаженного"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="yes"/>
+    <tag k="denomination" v="orthodox"/>
+    <tag k="name" v="Покровский собор (Собор Василия Блаженного)"/>
+    <tag k="name:de" v="Basilius-Kathedrale"/>
+    <tag k="name:en" v="Saint Basil&apos;s Cathedral"/>
+    <tag k="official_name" v="Покровский собор"/>
+    <tag k="religion" v="christian"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1359753" version="1" timestamp="2011-01-06T14:19:21Z" uid="43863" user="Rundling" changeset="6882870">
+    <member type="way" ref="93594803" role="outer"/>
+    <member type="way" ref="93594798" role="inner"/>
+    <member type="way" ref="93594802" role="inner"/>
+    <member type="way" ref="93594800" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1359985" version="1" timestamp="2011-01-06T16:32:28Z" uid="43863" user="Rundling" changeset="6884230">
+    <member type="way" ref="93611428" role="outer"/>
+    <member type="way" ref="93611426" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+</osm>

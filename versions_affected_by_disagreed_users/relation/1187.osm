@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1187168" version="1" timestamp="2010-09-22T08:49:30Z" uid="7617" user="Franc" changeset="5843623">
+    <member type="way" ref="8062524" role="from"/>
+    <member type="way" ref="78088751" role="to"/>
+    <member type="node" ref="26364424" role="via"/>
+    <tag k="restriction" v="no_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1187169" version="1" timestamp="2010-09-22T08:51:49Z" uid="74617" user="JohnSmith" changeset="5843650">
+    <member type="way" ref="44488846" role="member"/>
+    <member type="relation" ref="1101004" role="member"/>
+    <member type="way" ref="50617752" role="member"/>
+    <member type="way" ref="77445866" role="member"/>
+    <member type="way" ref="44125517" role="member"/>
+    <member type="way" ref="52549434" role="member"/>
+    <member type="way" ref="68861133" role="member"/>
+    <member type="relation" ref="904578" role="member"/>
+    <member type="way" ref="70241028" role="member"/>
+    <member type="relation" ref="389909" role="member"/>
+    <member type="way" ref="70204021" role="member"/>
+    <member type="way" ref="44367445" role="member"/>
+    <member type="way" ref="44122101" role="member"/>
+    <member type="way" ref="54155204" role="member"/>
+    <tag k="boundary" v="nearmap"/>
+    <tag k="hires" v="yes"/>
+    <tag k="note" v="Nearmap hires imagery"/>
+    <tag k="type" v="collection"/>
+  </relation>
+  <relation id="1187169" version="2" timestamp="2010-09-22T08:59:25Z" uid="74617" user="JohnSmith" changeset="5843699">
+    <member type="relation" ref="389909" role="member"/>
+    <member type="relation" ref="1187173" role="member"/>
+    <member type="relation" ref="1187172" role="member"/>
+    <member type="relation" ref="1187174" role="member"/>
+    <tag k="boundary" v="nearmap"/>
+    <tag k="hires" v="yes"/>
+    <tag k="note" v="Nearmap hires imagery"/>
+    <tag k="type" v="collection"/>
+  </relation>
+  <relation id="1187169" version="3" timestamp="2010-09-22T09:04:41Z" uid="74617" user="JohnSmith" changeset="5843730">
+    <member type="relation" ref="1187173" role="member"/>
+    <member type="relation" ref="1187172" role="member"/>
+    <member type="relation" ref="1187174" role="member"/>
+    <member type="relation" ref="1187176" role="member"/>
+    <tag k="boundary" v="nearmap"/>
+    <tag k="hires" v="yes"/>
+    <tag k="note" v="Nearmap hires imagery"/>
+    <tag k="type" v="collection"/>
+  </relation>
+  <relation id="1187172" version="1" timestamp="2010-09-22T08:59:22Z" uid="74617" user="JohnSmith" changeset="5843699">
+    <member type="relation" ref="904578" role="member"/>
+    <member type="way" ref="50617752" role="member"/>
+    <member type="way" ref="44122101" role="member"/>
+    <member type="way" ref="68861133" role="member"/>
+    <member type="way" ref="77445866" role="member"/>
+    <tag k="boundary" v="nearmap"/>
+    <tag k="hires" v="yes"/>
+    <tag k="note" v="Nearmap hires imagery for New South Wales, Victoria and the ACT"/>
+    <tag k="type" v="collection"/>
+  </relation>
+  <relation id="1187172" version="2" timestamp="2010-09-22T09:04:42Z" uid="74617" user="JohnSmith" changeset="5843730">
+    <member type="relation" ref="904578" role="member"/>
+    <member type="way" ref="44122101" role="member"/>
+    <member type="way" ref="68861133" role="member"/>
+    <member type="way" ref="77445866" role="member"/>
+    <tag k="boundary" v="nearmap"/>
+    <tag k="hires" v="yes"/>
+    <tag k="note" v="Nearmap hires imagery for New South Wales and Victoria"/>
+    <tag k="type" v="collection"/>
+  </relation>
+  <relation id="1187173" version="1" timestamp="2010-09-22T08:59:23Z" uid="74617" user="JohnSmith" changeset="5843699">
+    <member type="way" ref="70241028" role="member"/>
+    <member type="relation" ref="1101004" role="member"/>
+    <member type="way" ref="70204021" role="member"/>
+    <member type="way" ref="54155204" role="member"/>
+    <member type="way" ref="52549434" role="member"/>
+    <tag k="boundary" v="nearmap"/>
+    <tag k="hires" v="yes"/>
+    <tag k="note" v="Nearmap hires imagery for Queensland"/>
+    <tag k="type" v="collection"/>
+  </relation>
+  <relation id="1187174" version="1" timestamp="2010-09-22T08:59:24Z" uid="74617" user="JohnSmith" changeset="5843699">
+    <member type="way" ref="44488846" role="member"/>
+    <member type="way" ref="44125517" role="member"/>
+    <member type="way" ref="44367445" role="member"/>
+    <tag k="boundary" v="nearmap"/>
+    <tag k="hires" v="yes"/>
+    <tag k="note" v="Nearmap hires imagery for Western Australia"/>
+    <tag k="type" v="collection"/>
+  </relation>
+  <relation id="1187176" version="1" timestamp="2010-09-22T09:04:41Z" uid="74617" user="JohnSmith" changeset="5843730">
+    <member type="relation" ref="389909" role="member"/>
+    <member type="way" ref="50617752" role="member"/>
+    <tag k="boundary" v="nearmap"/>
+    <tag k="hires" v="yes"/>
+    <tag k="note" v="Nearmap hires imagery for South Australia and the ACT"/>
+    <tag k="type" v="collection"/>
+  </relation>
+  <relation id="1187176" version="2" timestamp="2010-10-30T19:25:10Z" uid="74617" user="JohnSmith" changeset="6232372">
+    <member type="relation" ref="389909" role="member"/>
+    <member type="way" ref="50617752" role="member"/>
+    <member type="way" ref="83397966" role="member"/>
+    <tag k="boundary" v="nearmap"/>
+    <tag k="hires" v="yes"/>
+    <tag k="note" v="Nearmap hires imagery for South Australia and the ACT"/>
+    <tag k="type" v="collection"/>
+  </relation>
+  <relation id="1187176" version="3" timestamp="2010-11-23T08:57:16Z" uid="74617" user="JohnSmith" changeset="6437765">
+    <member type="relation" ref="389909" role="member"/>
+    <member type="way" ref="50617752" role="member"/>
+    <member type="way" ref="48572597" role="member"/>
+    <tag k="boundary" v="nearmap"/>
+    <tag k="hires" v="yes"/>
+    <tag k="note" v="Nearmap hires imagery for South Australia and the ACT"/>
+    <tag k="type" v="collection"/>
+  </relation>
+</osm>

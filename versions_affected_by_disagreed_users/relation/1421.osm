@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1421227" version="1" timestamp="2011-02-11T19:33:35Z" uid="115477" user="wowik" changeset="7258243">
+    <member type="way" ref="99226078" role="from"/>
+    <member type="node" ref="1147833033" role="via"/>
+    <member type="way" ref="99226163" role="to"/>
+    <tag k="restriction" v="only_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1421227" version="2" timestamp="2011-02-15T14:16:38Z" uid="115477" user="wowik" changeset="7295219">
+    <member type="node" ref="1147833033" role="via"/>
+    <member type="way" ref="99226163" role="to"/>
+    <member type="way" ref="99862192" role="from"/>
+    <tag k="restriction" v="only_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1421227" version="3" timestamp="2011-02-18T16:19:08Z" uid="115477" user="wowik" changeset="7323798">
+    <member type="node" ref="1147833033" role="via"/>
+    <member type="way" ref="99226163" role="to"/>
+    <tag k="restriction" v="only_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1421228" version="1" timestamp="2011-02-11T19:33:36Z" uid="115477" user="wowik" changeset="7258243">
+    <member type="way" ref="99225996" role="outer"/>
+    <member type="way" ref="99226168" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1421229" version="1" timestamp="2011-02-11T19:33:36Z" uid="115477" user="wowik" changeset="7258243">
+    <member type="way" ref="99225999" role="inner"/>
+    <member type="way" ref="49961523" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1421230" version="1" timestamp="2011-02-11T19:33:36Z" uid="115477" user="wowik" changeset="7258243">
+    <member type="way" ref="27924376" role="from"/>
+    <member type="node" ref="269098404" role="via"/>
+    <member type="way" ref="27924375" role="to"/>
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1421486" version="1" timestamp="2011-02-11T21:44:16Z" uid="7617" user="Franc" changeset="7259617">
+    <member type="way" ref="54688640" role="from"/>
+    <member type="way" ref="4564819" role="to"/>
+    <member type="node" ref="688621017" role="via"/>
+    <tag k="restriction" v="only_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1421486" version="2" timestamp="2011-06-14T12:04:50Z" uid="7617" user="Franc" changeset="8436623">
+    <member type="way" ref="54688640" role="from"/>
+    <member type="node" ref="688621017" role="via"/>
+    <member type="way" ref="117632010" role="to"/>
+    <tag k="restriction" v="only_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1421832" version="1" timestamp="2011-02-12T04:45:48Z" uid="4467" user="Rosscoe" changeset="7261402">
+    <member type="way" ref="6867193" role="member"/>
+    <member type="way" ref="99284317" role="member"/>
+    <member type="way" ref="99284335" role="member"/>
+    <tag k="name" v="North West Coastal Highway"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1421832" version="2" timestamp="2011-02-12T05:49:54Z" uid="4467" user="Rosscoe" changeset="7261544">
+    <member type="way" ref="4772893" role="member"/>
+    <member type="way" ref="77098127" role="member"/>
+    <member type="way" ref="89435222" role="member"/>
+    <member type="way" ref="89435219" role="member"/>
+    <member type="way" ref="89435214" role="member"/>
+    <member type="way" ref="89435217" role="member"/>
+    <member type="way" ref="89435932" role="member"/>
+    <member type="way" ref="89435933" role="member"/>
+    <member type="way" ref="89435221" role="member"/>
+    <member type="way" ref="89435220" role="member"/>
+    <member type="way" ref="77098109" role="member"/>
+    <member type="way" ref="77098116" role="member"/>
+    <member type="way" ref="6867201" role="member"/>
+    <member type="way" ref="77098105" role="member"/>
+    <member type="way" ref="77098117" role="member"/>
+    <member type="way" ref="6867193" role="member"/>
+    <member type="way" ref="99285282" role="member"/>
+    <member type="way" ref="99285280" role="member"/>
+    <member type="way" ref="99285290" role="member"/>
+    <member type="way" ref="99285288" role="member"/>
+    <member type="way" ref="99285278" role="member"/>
+    <member type="way" ref="99285292" role="member"/>
+    <member type="way" ref="99285281" role="member"/>
+    <member type="way" ref="99285279" role="member"/>
+    <member type="way" ref="99285293" role="member"/>
+    <member type="way" ref="99285289" role="member"/>
+    <member type="way" ref="99285286" role="member"/>
+    <member type="way" ref="99285283" role="member"/>
+    <member type="way" ref="99285285" role="member"/>
+    <member type="way" ref="99285291" role="member"/>
+    <member type="way" ref="99285287" role="member"/>
+    <member type="way" ref="99285284" role="member"/>
+    <member type="way" ref="99284317" role="member"/>
+    <member type="way" ref="99284335" role="member"/>
+    <tag k="name" v="North West Coastal Highway"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1421832" version="3" timestamp="2011-02-19T07:11:10Z" uid="4467" user="Rosscoe" changeset="7328887">
+    <member type="way" ref="4772893" role="member"/>
+    <member type="way" ref="77098127" role="member"/>
+    <member type="way" ref="89435222" role="member"/>
+    <member type="way" ref="89435219" role="member"/>
+    <member type="way" ref="89435214" role="member"/>
+    <member type="way" ref="89435217" role="member"/>
+    <member type="way" ref="89435932" role="member"/>
+    <member type="way" ref="89435933" role="member"/>
+    <member type="way" ref="89435221" role="member"/>
+    <member type="way" ref="89435220" role="member"/>
+    <member type="way" ref="77098109" role="member"/>
+    <member type="way" ref="77098116" role="member"/>
+    <member type="way" ref="6867201" role="member"/>
+    <member type="way" ref="77098105" role="member"/>
+    <member type="way" ref="77098117" role="member"/>
+    <member type="way" ref="6867193" role="member"/>
+    <member type="way" ref="99285282" role="member"/>
+    <member type="way" ref="99285280" role="member"/>
+    <member type="way" ref="100404960" role="member"/>
+    <member type="way" ref="100404963" role="member"/>
+    <member type="way" ref="99285290" role="member"/>
+    <member type="way" ref="99285288" role="member"/>
+    <member type="way" ref="99285278" role="member"/>
+    <member type="way" ref="99285292" role="member"/>
+    <member type="way" ref="99285281" role="member"/>
+    <member type="way" ref="99285279" role="member"/>
+    <member type="way" ref="99285293" role="member"/>
+    <member type="way" ref="99285289" role="member"/>
+    <member type="way" ref="99285286" role="member"/>
+    <member type="way" ref="99285283" role="member"/>
+    <member type="way" ref="100404956" role="member"/>
+    <member type="way" ref="100404965" role="member"/>
+    <member type="way" ref="99285285" role="member"/>
+    <member type="way" ref="99285291" role="member"/>
+    <member type="way" ref="99285287" role="member"/>
+    <member type="way" ref="99285284" role="member"/>
+    <member type="way" ref="100404948" role="member"/>
+    <member type="way" ref="100404951" role="member"/>
+    <member type="way" ref="99284317" role="member"/>
+    <member type="way" ref="99284335" role="member"/>
+    <tag k="name" v="North West Coastal Highway"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1421832" version="4" timestamp="2011-02-19T07:30:56Z" uid="4467" user="Rosscoe" changeset="7328968">
+    <member type="way" ref="4772893" role="member"/>
+    <member type="way" ref="77098127" role="member"/>
+    <member type="way" ref="89435222" role="member"/>
+    <member type="way" ref="89435219" role="member"/>
+    <member type="way" ref="89435214" role="member"/>
+    <member type="way" ref="89435217" role="member"/>
+    <member type="way" ref="89435932" role="member"/>
+    <member type="way" ref="89435933" role="member"/>
+    <member type="way" ref="89435221" role="member"/>
+    <member type="way" ref="89435220" role="member"/>
+    <member type="way" ref="77098109" role="member"/>
+    <member type="way" ref="77098116" role="member"/>
+    <member type="way" ref="6867201" role="member"/>
+    <member type="way" ref="77098105" role="member"/>
+    <member type="way" ref="77098117" role="member"/>
+    <member type="way" ref="6867193" role="member"/>
+    <member type="way" ref="99285282" role="member"/>
+    <member type="way" ref="99285280" role="member"/>
+    <member type="way" ref="100404960" role="member"/>
+    <member type="way" ref="100404963" role="member"/>
+    <member type="way" ref="99285290" role="member"/>
+    <member type="way" ref="99285288" role="member"/>
+    <member type="way" ref="99285278" role="member"/>
+    <member type="way" ref="99285292" role="member"/>
+    <member type="way" ref="99285281" role="member"/>
+    <member type="way" ref="99285279" role="member"/>
+    <member type="way" ref="99285293" role="member"/>
+    <member type="way" ref="99285289" role="member"/>
+    <member type="way" ref="99285286" role="member"/>
+    <member type="way" ref="99285283" role="member"/>
+    <member type="way" ref="100404956" role="member"/>
+    <member type="way" ref="100404965" role="member"/>
+    <member type="way" ref="99285285" role="member"/>
+    <member type="way" ref="99285291" role="member"/>
+    <member type="way" ref="99285287" role="member"/>
+    <member type="way" ref="99285284" role="member"/>
+    <member type="way" ref="100405515" role="member"/>
+    <member type="way" ref="100405513" role="member"/>
+    <member type="way" ref="100404948" role="member"/>
+    <member type="way" ref="100404951" role="member"/>
+    <member type="way" ref="99284317" role="member"/>
+    <member type="way" ref="99284335" role="member"/>
+    <tag k="name" v="North West Coastal Highway"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+</osm>

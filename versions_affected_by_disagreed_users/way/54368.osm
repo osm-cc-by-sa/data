@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="54368086" version="1" timestamp="2010-04-05T10:37:09Z" uid="9719" user="dvaey" changeset="4331293">
+    <nd ref="34611784"/>
+    <nd ref="34611785"/>
+    <nd ref="34611786"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Sulwood Drive"/>
+  </way>
+  <way id="54368153" version="1" timestamp="2010-04-05T10:37:15Z" uid="9719" user="dvaey" changeset="4331293">
+    <nd ref="34611783"/>
+    <nd ref="34611784"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Sulwood Drive"/>
+  </way>
+  <way id="54368153" version="2" timestamp="2010-04-05T10:37:29Z" uid="9719" user="dvaey" changeset="4331293">
+    <nd ref="34611783"/>
+    <nd ref="34611784"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Sulwood Drive"/>
+  </way>
+  <way id="54368932" version="2" timestamp="2010-07-08T17:58:30Z" uid="74617" user="JohnSmith" changeset="5167338">
+    <nd ref="685159448"/>
+    <nd ref="685159449"/>
+    <nd ref="685159450"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="54368932" version="3" timestamp="2011-04-13T14:37:40Z" uid="4467" user="Rosscoe" changeset="7852475">
+    <nd ref="685159448"/>
+    <nd ref="685159449"/>
+    <nd ref="685159450"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="54368933" version="3" timestamp="2010-07-08T17:58:41Z" uid="74617" user="JohnSmith" changeset="5167338">
+    <nd ref="685159449"/>
+    <nd ref="685159460"/>
+    <nd ref="685159467"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Scott Street"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="54368933" version="4" timestamp="2011-04-13T14:37:46Z" uid="4467" user="Rosscoe" changeset="7852475">
+    <nd ref="685159449"/>
+    <nd ref="685159460"/>
+    <nd ref="685159467"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Scott Street"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="54368936" version="4" timestamp="2010-07-08T17:58:19Z" uid="74617" user="JohnSmith" changeset="5167338">
+    <nd ref="685172856"/>
+    <nd ref="685172863"/>
+    <nd ref="685159516"/>
+    <nd ref="685159530"/>
+    <nd ref="685159534"/>
+    <nd ref="685159564"/>
+    <nd ref="685159571"/>
+    <nd ref="685159579"/>
+    <nd ref="685159585"/>
+    <nd ref="685159595"/>
+    <nd ref="685159598"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Bent Street"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="54368936" version="5" timestamp="2011-04-13T14:37:47Z" uid="4467" user="Rosscoe" changeset="7852475">
+    <nd ref="685172856"/>
+    <nd ref="685172863"/>
+    <nd ref="685159516"/>
+    <nd ref="685159530"/>
+    <nd ref="685159534"/>
+    <nd ref="685159564"/>
+    <nd ref="685159571"/>
+    <nd ref="685159579"/>
+    <nd ref="685159585"/>
+    <nd ref="685159595"/>
+    <nd ref="685159598"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Bent Street"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="54368937" version="4" timestamp="2010-07-08T17:58:30Z" uid="74617" user="JohnSmith" changeset="5167338">
+    <nd ref="685159564"/>
+    <nd ref="685159744"/>
+    <nd ref="685159757"/>
+    <nd ref="685159770"/>
+    <nd ref="685159776"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="McLean Street"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="54368937" version="5" timestamp="2011-04-13T14:37:54Z" uid="4467" user="Rosscoe" changeset="7852475">
+    <nd ref="685159564"/>
+    <nd ref="685159744"/>
+    <nd ref="685159757"/>
+    <nd ref="685159770"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="McLean Street"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+</osm>

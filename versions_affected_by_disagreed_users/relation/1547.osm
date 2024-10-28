@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1547421" version="1" timestamp="2011-04-18T11:13:42Z" uid="7617" user="Franc" changeset="7895871">
+    <member type="way" ref="26920750" role="from"/>
+    <member type="way" ref="26920752" role="to"/>
+    <member type="node" ref="294988388" role="via"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1547422" version="1" timestamp="2011-04-18T11:13:42Z" uid="7617" user="Franc" changeset="7895871">
+    <member type="way" ref="48781644" role="from"/>
+    <member type="way" ref="48781646" role="to"/>
+    <member type="node" ref="619007293" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1547423" version="1" timestamp="2011-04-18T11:13:43Z" uid="7617" user="Franc" changeset="7895871">
+    <member type="way" ref="4601191" role="from"/>
+    <member type="way" ref="26920754" role="to"/>
+    <member type="node" ref="29098503" role="via"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1547579" version="1" timestamp="2011-04-18T13:00:36Z" uid="7617" user="Franc" changeset="7896777">
+    <member type="way" ref="25684878" role="from"/>
+    <member type="way" ref="25684879" role="to"/>
+    <member type="node" ref="30431165" role="via"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1547580" version="1" timestamp="2011-04-18T13:00:36Z" uid="7617" user="Franc" changeset="7896777">
+    <member type="way" ref="25684879" role="from"/>
+    <member type="way" ref="46903757" role="to"/>
+    <member type="node" ref="30431175" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1547987" version="1" timestamp="2011-04-18T19:11:44Z" uid="33382" user="de_muur" changeset="7900253">
+    <member type="node" ref="683792100" role=""/>
+    <member type="way" ref="54226079" role=""/>
+    <member type="way" ref="109148754" role=""/>
+    <member type="way" ref="78401931" role=""/>
+    <member type="node" ref="1250318840" role=""/>
+    <tag k="name" v="Kreepen - Odeweg"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1547988" version="1" timestamp="2011-04-18T19:11:44Z" uid="33382" user="de_muur" changeset="7900253">
+    <member type="node" ref="683792544" role=""/>
+    <member type="way" ref="32638780" role=""/>
+    <member type="way" ref="32638779" role=""/>
+    <member type="node" ref="1250318840" role=""/>
+    <tag k="name" v="Odeweg - Schomühlen"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1547992" version="1" timestamp="2011-04-18T19:18:36Z" uid="33382" user="de_muur" changeset="7900323">
+    <member type="node" ref="1250318840" role=""/>
+    <member type="way" ref="109148753" role=""/>
+    <member type="node" ref="1250323715" role=""/>
+    <member type="way" ref="32638778" role=""/>
+    <member type="node" ref="1250323714" role=""/>
+    <tag k="name" v="Kirchwalsede - Schomühlen"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+</osm>

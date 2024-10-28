@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="81599287" version="1" timestamp="2010-10-15T22:26:16Z" uid="96874" user="Quedel" changeset="6051410">
+    <nd ref="266823257"/>
+    <nd ref="266823304"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Carl-Ritter-Straße"/>
+    <tag k="parking:lane:both" v="no_parking"/>
+    <tag k="surface" v="cobblestone"/>
+  </way>
+  <way id="81599289" version="1" timestamp="2010-10-15T22:26:16Z" uid="96874" user="Quedel" changeset="6051410">
+    <nd ref="335728310"/>
+    <nd ref="287081552"/>
+    <nd ref="683600523"/>
+    <nd ref="287081553"/>
+    <nd ref="266823257"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Carl-Ritter-Straße"/>
+    <tag k="parking:condition:left" v="ticket"/>
+    <tag k="parking:lane:left" v="inline"/>
+    <tag k="parking:lane:right" v="no_stopping"/>
+    <tag k="surface" v="cobblestone"/>
+  </way>
+</osm>

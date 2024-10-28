@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="60949095" version="2" timestamp="2010-06-29T19:11:31Z" uid="74617" user="JohnSmith" changeset="5108182">
+    <nd ref="763021048"/>
+    <nd ref="763021049"/>
+    <nd ref="763021050"/>
+    <nd ref="763021051"/>
+    <nd ref="763021048"/>
+    <tag k="fixme" v="sport=football is ambiguous, see http://wiki.osm.org/wiki/Football for more details"/>
+    <tag k="sport" v="football"/>
+  </way>
+  <way id="60949121" version="1" timestamp="2010-06-03T07:45:33Z" uid="6269" user="Mueck" changeset="4889721">
+    <nd ref="763021263"/>
+    <nd ref="763021264"/>
+    <nd ref="760144108"/>
+  </way>
+  <way id="60949121" version="2" timestamp="2010-06-03T07:46:13Z" uid="6269" user="Mueck" changeset="4889721">
+    <nd ref="763021263"/>
+    <nd ref="763021264"/>
+    <nd ref="760144108"/>
+    <tag k="public_transport" v="platformm"/>
+    <tag k="railway" v="platform"/>
+  </way>
+  <way id="60949978" version="1" timestamp="2010-06-03T07:58:11Z" uid="6269" user="Mueck" changeset="4889721">
+    <nd ref="763027802"/>
+    <nd ref="763027803"/>
+  </way>
+  <way id="60949978" version="2" timestamp="2010-06-03T07:58:20Z" uid="6269" user="Mueck" changeset="4889721">
+    <nd ref="763027802"/>
+    <nd ref="763027803"/>
+    <tag k="railway" v="rail"/>
+  </way>
+  <way id="60949978" version="3" timestamp="2011-03-06T22:58:10Z" uid="6269" user="Mueck" changeset="7479604">
+    <nd ref="763027802"/>
+    <nd ref="1190108819"/>
+    <nd ref="1190108831"/>
+    <nd ref="763027803"/>
+    <tag k="railway" v="rail"/>
+  </way>
+  <way id="60949978" version="4" timestamp="2011-03-07T11:21:23Z" uid="6269" user="Mueck" changeset="7483128">
+    <nd ref="763027802"/>
+    <nd ref="1190108819"/>
+    <nd ref="1190108831"/>
+    <nd ref="763027803"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="frequency" v="16.7"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="operator" v="DB Netz"/>
+    <tag k="railway" v="rail"/>
+    <tag k="tracks" v="1"/>
+    <tag k="usage" v="main"/>
+    <tag k="voltage" v="15000"/>
+    <tag k="workrules" v="EBO"/>
+  </way>
+</osm>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="66254554" version="1" timestamp="2010-07-06T08:43:02Z" uid="4467" user="Rosscoe" changeset="5148386">
+    <nd ref="797225085"/>
+    <nd ref="797225637"/>
+    <nd ref="797225603"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="66254564" version="1" timestamp="2010-07-06T08:43:03Z" uid="4467" user="Rosscoe" changeset="5148386">
+    <nd ref="296038853"/>
+    <nd ref="287208834"/>
+    <nd ref="306124329"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Bowes Street"/>
+  </way>
+  <way id="66254564" version="2" timestamp="2010-07-07T08:57:20Z" uid="74617" user="JohnSmith" changeset="5156250">
+    <nd ref="296038853"/>
+    <nd ref="287208834"/>
+    <nd ref="306124329"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Bowes Street"/>
+  </way>
+  <way id="66254569" version="1" timestamp="2010-07-06T08:43:04Z" uid="4467" user="Rosscoe" changeset="5148386">
+    <nd ref="803402378"/>
+    <nd ref="803402147"/>
+    <nd ref="803401979"/>
+    <nd ref="62047006"/>
+    <tag k="highway" v="secondary_link"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="66254573" version="1" timestamp="2010-07-06T08:43:05Z" uid="4467" user="Rosscoe" changeset="5148386">
+    <nd ref="797220915"/>
+    <nd ref="296038842"/>
+    <tag k="access" v="no"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="psv" v="yes"/>
+  </way>
+  <way id="66254577" version="1" timestamp="2010-07-06T08:43:06Z" uid="4467" user="Rosscoe" changeset="5148386">
+    <nd ref="801463961"/>
+    <nd ref="801463965"/>
+    <nd ref="801463966"/>
+    <nd ref="801463970"/>
+    <nd ref="801463973"/>
+    <nd ref="801463975"/>
+    <nd ref="801463976"/>
+    <nd ref="801463961"/>
+    <tag k="highway" v="service"/>
+    <tag k="service" v="parking_aisle"/>
+  </way>
+  <way id="66254757" version="1" timestamp="2010-07-06T08:43:45Z" uid="8619" user="cetest" changeset="5148397">
+    <nd ref="612620463"/>
+    <nd ref="612620464"/>
+    <nd ref="44972639"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="cycleway" v="lane"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Oudeweg"/>
+  </way>
+</osm>

@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1616266" version="1" timestamp="2011-06-08T05:00:14Z" uid="33382" user="de_muur" changeset="8375976">
+    <member type="node" ref="1243686721" role=""/>
+    <member type="way" ref="40120419" role=""/>
+    <member type="way" ref="33888476" role=""/>
+    <member type="way" ref="33888477" role=""/>
+    <member type="node" ref="1315849905" role=""/>
+    <member type="way" ref="33888475" role=""/>
+    <member type="way" ref="33887433" role=""/>
+    <member type="way" ref="33887432" role=""/>
+    <member type="node" ref="1244767702" role=""/>
+    <tag k="name" v="Bad Oldesloe - Ratzeburg"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1616267" version="1" timestamp="2011-06-08T05:00:14Z" uid="33382" user="de_muur" changeset="8375976">
+    <member type="node" ref="1315241457" role=""/>
+    <member type="way" ref="116178349" role=""/>
+    <member type="node" ref="1315849905" role=""/>
+    <member type="way" ref="116178355" role=""/>
+    <tag k="name" v="Lauenburg - Lübeck"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1616795" version="1" timestamp="2011-06-08T15:54:37Z" uid="33382" user="de_muur" changeset="8380777">
+    <member type="node" ref="1315849905" role=""/>
+    <member type="way" ref="116838166" role=""/>
+    <tag k="name" v="Lübeck - (Mölln)"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1616796" version="1" timestamp="2011-06-08T15:54:38Z" uid="33382" user="de_muur" changeset="8380777">
+    <member type="node" ref="1316248428" role=""/>
+    <member type="way" ref="116838164" role=""/>
+    <member type="way" ref="39839503" role=""/>
+    <tag k="name" v="(Lübeck) - Mölln"/>
+    <tag k="network" v="lcn"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1616797" version="1" timestamp="2011-06-08T15:54:38Z" uid="33382" user="de_muur" changeset="8380777">
+    <member type="relation" ref="1616796" role=""/>
+    <tag k="name" v="Radwegenetz Hansestadt Lübeck"/>
+    <tag k="network" v="lcn"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="network"/>
+  </relation>
+  <relation id="1616797" version="2" timestamp="2011-06-08T16:02:05Z" uid="33382" user="de_muur" changeset="8380836">
+    <member type="relation" ref="1616796" role=""/>
+    <member type="relation" ref="1616800" role=""/>
+    <tag k="name" v="Radwegenetz Hansestadt Lübeck"/>
+    <tag k="network" v="lcn"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="network"/>
+  </relation>
+  <relation id="1616800" version="1" timestamp="2011-06-08T16:02:04Z" uid="33382" user="de_muur" changeset="8380836">
+    <member type="node" ref="1316248428" role=""/>
+    <member type="way" ref="70537765" role=""/>
+    <member type="way" ref="116839404" role=""/>
+    <member type="node" ref="1316256117" role=""/>
+    <tag k="name" v="Lübeck - Mölln"/>
+    <tag k="network" v="lcn"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1616829" version="1" timestamp="2011-06-08T16:37:30Z" uid="33382" user="de_muur" changeset="8381165">
+    <member type="node" ref="1245955842" role=""/>
+    <member type="way" ref="37947885" role=""/>
+    <member type="way" ref="24792865" role=""/>
+    <member type="way" ref="24824403" role=""/>
+    <member type="node" ref="937008700" role=""/>
+    <member type="way" ref="80279264" role=""/>
+    <member type="way" ref="58394601" role=""/>
+    <member type="way" ref="84229780" role=""/>
+    <member type="way" ref="84229784" role=""/>
+    <member type="way" ref="84229811" role=""/>
+    <member type="way" ref="84229807" role=""/>
+    <member type="way" ref="38446994" role=""/>
+    <member type="way" ref="38446989" role=""/>
+    <member type="way" ref="24955939" role=""/>
+    <member type="way" ref="38446992" role=""/>
+    <member type="way" ref="24544875" role=""/>
+    <member type="way" ref="24544874" role=""/>
+    <member type="way" ref="38446993" role=""/>
+    <member type="node" ref="1316248414" role=""/>
+    <tag k="name" v="Krummesse - Ratzeburg"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1616830" version="1" timestamp="2011-06-08T16:37:30Z" uid="33382" user="de_muur" changeset="8381165">
+    <member type="way" ref="4262046" role=""/>
+    <member type="way" ref="24544873" role=""/>
+    <tag k="description" v="Krummesse - Sierksrade - Klinkrade - Labenz - Ahrensfelde - Gr. Schenkenberg - Krummesse"/>
+    <tag k="distance" v="36km"/>
+    <tag k="name" v="Tour 1"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="ref" v="1"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1616830" version="2" timestamp="2011-06-08T20:06:08Z" uid="33382" user="de_muur" changeset="8383147">
+    <member type="way" ref="4262046" role=""/>
+    <member type="way" ref="116845068" role=""/>
+    <member type="way" ref="24973698" role=""/>
+    <member type="way" ref="24973697" role=""/>
+    <member type="way" ref="116868220" role=""/>
+    <member type="way" ref="116868221" role=""/>
+    <member type="way" ref="24544873" role=""/>
+    <tag k="description" v="Krummesse - Sierksrade - Klinkrade - Labenz - Ahrensfelde - Gr. Schenkenberg - Krummesse"/>
+    <tag k="distance" v="36km"/>
+    <tag k="name" v="Tour 1"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="ref" v="1"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1616830" version="3" timestamp="2011-06-09T16:11:06Z" uid="33382" user="de_muur" changeset="8389806">
+    <member type="way" ref="4262046" role=""/>
+    <member type="way" ref="116845068" role=""/>
+    <member type="way" ref="24973698" role=""/>
+    <member type="way" ref="24973697" role=""/>
+    <member type="way" ref="116868220" role=""/>
+    <member type="way" ref="116868221" role=""/>
+    <member type="way" ref="24544873" role=""/>
+    <member type="way" ref="28034187" role=""/>
+    <member type="way" ref="116953775" role=""/>
+    <member type="way" ref="26414405" role=""/>
+    <tag k="description" v="Krummesse - Sierksrade - Klinkrade - Labenz - Ahrensfelde - Gr. Schenkenberg - Krummesse"/>
+    <tag k="distance" v="36km"/>
+    <tag k="name" v="Tour 1"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="ref" v="1"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1616831" version="1" timestamp="2011-06-08T16:37:31Z" uid="33382" user="de_muur" changeset="8381165">
+    <member type="node" ref="1316248414" role=""/>
+    <member type="way" ref="28575048" role=""/>
+    <member type="way" ref="4262046" role=""/>
+    <member type="node" ref="1316290032" role=""/>
+    <tag k="name" v="Bad Oldesloe - Krummesse"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1616887" version="1" timestamp="2011-06-08T17:35:36Z" uid="115477" user="wowik" changeset="8381626">
+    <member type="way" ref="116850451" role="from"/>
+    <member type="node" ref="249262070" role="via"/>
+    <member type="way" ref="86379754" role="to"/>
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1616927" version="1" timestamp="2011-06-08T18:12:22Z" uid="115477" user="wowik" changeset="8381626">
+    <member type="way" ref="107465735" role="from"/>
+    <member type="node" ref="510618015" role="via"/>
+    <member type="way" ref="25468836" role="to"/>
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1616928" version="1" timestamp="2011-06-08T18:12:23Z" uid="115477" user="wowik" changeset="8381626">
+    <member type="way" ref="107465730" role="from"/>
+    <member type="node" ref="1235017970" role="via"/>
+    <member type="way" ref="107465720" role="to"/>
+    <tag k="restriction" v="only_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+</osm>

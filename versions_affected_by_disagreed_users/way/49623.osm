@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="49623148" version="1" timestamp="2010-02-05T21:09:53Z" uid="33382" user="de_muur" changeset="3800738">
+    <nd ref="197766681"/>
+    <nd ref="262546631"/>
+    <nd ref="104471309"/>
+    <nd ref="29037423"/>
+    <nd ref="262546625"/>
+    <nd ref="197766660"/>
+    <nd ref="197766486"/>
+    <nd ref="197766461"/>
+    <tag k="cycleway" v="track"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Hannoversche Straße"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="49623149" version="1" timestamp="2010-02-05T21:09:53Z" uid="33382" user="de_muur" changeset="3800738">
+    <nd ref="197766719"/>
+    <nd ref="197766725"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="cycleway"/>
+    <tag k="layer" v="1"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="49623450" version="3" timestamp="2010-07-09T06:36:17Z" uid="74617" user="JohnSmith" changeset="5171134">
+    <nd ref="631034407"/>
+    <nd ref="631034405"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="49623453" version="3" timestamp="2010-07-09T06:40:56Z" uid="74617" user="JohnSmith" changeset="5171134">
+    <nd ref="631034414"/>
+    <nd ref="632232654"/>
+    <nd ref="632232660"/>
+    <nd ref="632232672"/>
+    <nd ref="631034418"/>
+    <nd ref="631014139"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Rapson Street"/>
+  </way>
+</osm>

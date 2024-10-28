@@ -1,0 +1,512 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1629055" version="1" timestamp="2011-06-17T19:07:03Z" uid="66036" user="h4v" changeset="8467520">
+    <member type="way" ref="26930805" role="street"/>
+    <member type="way" ref="118079968" role="house"/>
+    <member type="node" ref="1328811154" role="house"/>
+    <member type="node" ref="1328811231" role="house"/>
+    <tag k="name" v="Pogonowskiego"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1629056" version="1" timestamp="2011-06-17T19:07:03Z" uid="66036" user="h4v" changeset="8467520">
+    <member type="way" ref="108396730" role="street"/>
+    <member type="way" ref="118079960" role="house"/>
+    <member type="node" ref="1328811210" role="house"/>
+    <member type="node" ref="1328811167" role="house"/>
+    <tag k="name" v="Adama Próchnika"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1629098" version="1" timestamp="2011-06-17T19:42:39Z" uid="8619" user="cetest" changeset="8467855">
+    <member type="node" ref="692068588" role=""/>
+    <member type="way" ref="118084710" role=""/>
+    <member type="way" ref="43334616" role=""/>
+    <member type="way" ref="92888244" role=""/>
+    <member type="way" ref="115467027" role=""/>
+    <member type="node" ref="44402479" role=""/>
+    <tag k="network" v="rcn"/>
+    <tag k="note" v="01-51"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1629149" version="1" timestamp="2011-06-17T20:49:58Z" uid="66036" user="h4v" changeset="8468449">
+    <member type="way" ref="118098522" role="from"/>
+    <member type="node" ref="30094242" role="via"/>
+    <member type="way" ref="4724236" role="to"/>
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629150" version="1" timestamp="2011-06-17T20:49:58Z" uid="66036" user="h4v" changeset="8468449">
+    <member type="way" ref="118098519" role="outer"/>
+    <member type="way" ref="118098510" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1629151" version="1" timestamp="2011-06-17T20:49:58Z" uid="66036" user="h4v" changeset="8468449">
+    <member type="way" ref="26892506" role="from"/>
+    <member type="node" ref="304699734" role="via"/>
+    <member type="way" ref="9930035" role="to"/>
+    <tag k="restriction" v="no_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629152" version="1" timestamp="2011-06-17T20:49:59Z" uid="66036" user="h4v" changeset="8468449">
+    <member type="way" ref="4694954" role="from"/>
+    <member type="way" ref="118098500" role="to"/>
+    <member type="node" ref="29846458" role="via"/>
+    <tag k="restriction" v="only_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629587" version="1" timestamp="2011-06-18T10:24:04Z" uid="7617" user="Franc" changeset="8471793">
+    <member type="way" ref="118148288" role="from"/>
+    <member type="way" ref="118148299" role="to"/>
+    <member type="node" ref="260738712" role="via"/>
+    <tag k="restriction" v="only_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629588" version="1" timestamp="2011-06-18T10:24:04Z" uid="7617" user="Franc" changeset="8471793">
+    <member type="way" ref="109387230" role="from"/>
+    <member type="way" ref="109387200" role="to"/>
+    <member type="node" ref="29495396" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629589" version="1" timestamp="2011-06-18T10:24:04Z" uid="7617" user="Franc" changeset="8471793">
+    <member type="way" ref="110176245" role="from"/>
+    <member type="way" ref="24042275" role="to"/>
+    <member type="node" ref="39609983" role="via"/>
+    <tag k="restriction" v="no_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629762" version="1" timestamp="2011-06-18T12:35:02Z" uid="7617" user="Franc" changeset="8472865">
+    <member type="way" ref="118165111" role="from"/>
+    <member type="way" ref="118165109" role="to"/>
+    <member type="node" ref="26391512" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629763" version="1" timestamp="2011-06-18T12:35:02Z" uid="7617" user="Franc" changeset="8472865">
+    <member type="way" ref="50440940" role="from"/>
+    <member type="way" ref="4911300" role="to"/>
+    <member type="node" ref="17392982" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629764" version="1" timestamp="2011-06-18T12:35:02Z" uid="7617" user="Franc" changeset="8472865">
+    <member type="way" ref="4573945" role="from"/>
+    <member type="way" ref="118165124" role="to"/>
+    <member type="node" ref="665691910" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629765" version="1" timestamp="2011-06-18T12:35:02Z" uid="7617" user="Franc" changeset="8472865">
+    <member type="way" ref="118165110" role="from"/>
+    <member type="way" ref="118165116" role="to"/>
+    <member type="node" ref="665692008" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629766" version="1" timestamp="2011-06-18T12:35:02Z" uid="7617" user="Franc" changeset="8472865">
+    <member type="way" ref="118165120" role="from"/>
+    <member type="way" ref="118165126" role="to"/>
+    <member type="node" ref="256890044" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629767" version="1" timestamp="2011-06-18T12:35:03Z" uid="7617" user="Franc" changeset="8472865">
+    <member type="way" ref="118165115" role="from"/>
+    <member type="way" ref="4602518" role="to"/>
+    <member type="node" ref="35724545" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629768" version="1" timestamp="2011-06-18T12:35:03Z" uid="7617" user="Franc" changeset="8472865">
+    <member type="way" ref="79166400" role="from"/>
+    <member type="way" ref="79166401" role="to"/>
+    <member type="node" ref="60087488" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629769" version="1" timestamp="2011-06-18T12:35:03Z" uid="7617" user="Franc" changeset="8472865">
+    <member type="way" ref="23840774" role="to"/>
+    <member type="node" ref="665691892" role="via"/>
+    <member type="way" ref="118165107" role="from"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629770" version="1" timestamp="2011-06-18T12:35:03Z" uid="7617" user="Franc" changeset="8472865">
+    <member type="way" ref="118165119" role="from"/>
+    <member type="way" ref="118165115" role="to"/>
+    <member type="node" ref="35724545" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629771" version="1" timestamp="2011-06-18T12:35:03Z" uid="7617" user="Franc" changeset="8472865">
+    <member type="way" ref="50424004" role="from"/>
+    <member type="way" ref="118165112" role="to"/>
+    <member type="node" ref="640889408" role="via"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629772" version="1" timestamp="2011-06-18T12:35:03Z" uid="7617" user="Franc" changeset="8472865">
+    <member type="way" ref="118165126" role="from"/>
+    <member type="way" ref="118165121" role="to"/>
+    <member type="node" ref="256890044" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629773" version="1" timestamp="2011-06-18T12:35:03Z" uid="7617" user="Franc" changeset="8472865">
+    <member type="way" ref="118165109" role="from"/>
+    <member type="way" ref="118165106" role="to"/>
+    <member type="node" ref="26391512" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629774" version="1" timestamp="2011-06-18T12:35:04Z" uid="7617" user="Franc" changeset="8472865">
+    <member type="way" ref="4911300" role="from"/>
+    <member type="way" ref="118165120" role="to"/>
+    <member type="node" ref="17392982" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629775" version="1" timestamp="2011-06-18T12:35:04Z" uid="7617" user="Franc" changeset="8472865">
+    <member type="way" ref="52324598" role="from"/>
+    <member type="way" ref="4573945" role="to"/>
+    <member type="node" ref="665691910" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629776" version="1" timestamp="2011-06-18T12:35:04Z" uid="7617" user="Franc" changeset="8472865">
+    <member type="way" ref="42295945" role="from"/>
+    <member type="way" ref="79166395" role="to"/>
+    <member type="node" ref="362442740" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629777" version="1" timestamp="2011-06-18T12:35:04Z" uid="7617" user="Franc" changeset="8472865">
+    <member type="way" ref="23840774" role="from"/>
+    <member type="way" ref="118165122" role="to"/>
+    <member type="node" ref="665691892" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629778" version="1" timestamp="2011-06-18T12:35:04Z" uid="7617" user="Franc" changeset="8472865">
+    <member type="way" ref="52324597" role="from"/>
+    <member type="way" ref="118165110" role="to"/>
+    <member type="node" ref="665692008" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629779" version="1" timestamp="2011-06-18T12:35:05Z" uid="7617" user="Franc" changeset="8472865">
+    <member type="way" ref="109387170" role="from"/>
+    <member type="way" ref="109387161" role="to"/>
+    <member type="node" ref="60087493" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629780" version="1" timestamp="2011-06-18T12:35:05Z" uid="7617" user="Franc" changeset="8472865">
+    <member type="way" ref="118165112" role="from"/>
+    <member type="way" ref="109387244" role="to"/>
+    <member type="node" ref="117065345" role="via"/>
+    <tag k="restriction" v="no_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629781" version="1" timestamp="2011-06-18T12:35:05Z" uid="7617" user="Franc" changeset="8472865">
+    <member type="way" ref="47244924" role="from"/>
+    <member type="way" ref="109387154" role="to"/>
+    <member type="node" ref="60087491" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629788" version="1" timestamp="2011-06-18T12:55:37Z" uid="7617" user="Franc" changeset="8473039">
+    <member type="way" ref="4335989" role="from"/>
+    <member type="way" ref="118166853" role="to"/>
+    <member type="node" ref="17392932" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629789" version="1" timestamp="2011-06-18T12:55:37Z" uid="7617" user="Franc" changeset="8473039">
+    <member type="way" ref="118166852" role="to"/>
+    <member type="node" ref="665707002" role="via"/>
+    <member type="way" ref="118166825" role="from"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629790" version="1" timestamp="2011-06-18T12:55:37Z" uid="7617" user="Franc" changeset="8473039">
+    <member type="way" ref="118166849" role="to"/>
+    <member type="node" ref="665707020" role="via"/>
+    <member type="way" ref="118166842" role="from"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629791" version="1" timestamp="2011-06-18T12:55:38Z" uid="7617" user="Franc" changeset="8473039">
+    <member type="way" ref="118166820" role="from"/>
+    <member type="way" ref="118166847" role="to"/>
+    <member type="node" ref="1329584862" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629792" version="1" timestamp="2011-06-18T12:55:38Z" uid="7617" user="Franc" changeset="8473039">
+    <member type="way" ref="118166819" role="from"/>
+    <member type="way" ref="23260297" role="to"/>
+    <member type="node" ref="251722672" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629793" version="1" timestamp="2011-06-18T12:55:38Z" uid="7617" user="Franc" changeset="8473039">
+    <member type="way" ref="118166852" role="from"/>
+    <member type="way" ref="52324600" role="to"/>
+    <member type="node" ref="665707002" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629794" version="1" timestamp="2011-06-18T12:55:38Z" uid="7617" user="Franc" changeset="8473039">
+    <member type="way" ref="118166846" role="from"/>
+    <member type="way" ref="118166830" role="to"/>
+    <member type="node" ref="665707030" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629795" version="1" timestamp="2011-06-18T12:55:38Z" uid="7617" user="Franc" changeset="8473039">
+    <member type="way" ref="118166849" role="from"/>
+    <member type="way" ref="118166817" role="to"/>
+    <member type="node" ref="665707020" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629796" version="1" timestamp="2011-06-18T12:55:38Z" uid="7617" user="Franc" changeset="8473039">
+    <member type="way" ref="118166839" role="from"/>
+    <member type="way" ref="118166826" role="to"/>
+    <member type="node" ref="665707058" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629797" version="1" timestamp="2011-06-18T12:55:39Z" uid="7617" user="Franc" changeset="8473039">
+    <member type="way" ref="23260297" role="from"/>
+    <member type="way" ref="118166827" role="to"/>
+    <member type="node" ref="251722672" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629798" version="1" timestamp="2011-06-18T12:55:39Z" uid="7617" user="Franc" changeset="8473039">
+    <member type="way" ref="52325633" role="from"/>
+    <member type="way" ref="118166829" role="to"/>
+    <member type="node" ref="17392936" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629799" version="1" timestamp="2011-06-18T12:55:39Z" uid="7617" user="Franc" changeset="8473039">
+    <member type="way" ref="118166821" role="from"/>
+    <member type="way" ref="52325643" role="to"/>
+    <member type="node" ref="35724597" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629800" version="1" timestamp="2011-06-18T12:55:39Z" uid="7617" user="Franc" changeset="8473039">
+    <member type="way" ref="118166839" role="to"/>
+    <member type="node" ref="665707058" role="via"/>
+    <member type="way" ref="118166830" role="from"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629801" version="1" timestamp="2011-06-18T12:55:39Z" uid="7617" user="Franc" changeset="8473039">
+    <member type="way" ref="22738718" role="from"/>
+    <member type="way" ref="118166843" role="to"/>
+    <member type="node" ref="17392946" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629802" version="1" timestamp="2011-06-18T12:55:40Z" uid="7617" user="Franc" changeset="8473039">
+    <member type="way" ref="52327260" role="from"/>
+    <member type="way" ref="118166846" role="to"/>
+    <member type="node" ref="665707030" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629802" version="2" timestamp="2011-06-18T13:26:36Z" uid="7617" user="Franc" changeset="8473322">
+    <member type="way" ref="118166846" role="to"/>
+    <member type="node" ref="665707030" role="via"/>
+    <member type="way" ref="118173936" role="from"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629803" version="1" timestamp="2011-06-18T12:55:40Z" uid="7617" user="Franc" changeset="8473039">
+    <member type="way" ref="118166841" role="from"/>
+    <member type="way" ref="4335989" role="to"/>
+    <member type="node" ref="17392932" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629804" version="1" timestamp="2011-06-18T12:55:40Z" uid="7617" user="Franc" changeset="8473039">
+    <member type="way" ref="118166829" role="from"/>
+    <member type="way" ref="118166818" role="to"/>
+    <member type="node" ref="17392936" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629805" version="1" timestamp="2011-06-18T12:55:40Z" uid="7617" user="Franc" changeset="8473039">
+    <member type="way" ref="118166824" role="from"/>
+    <member type="way" ref="118166821" role="to"/>
+    <member type="node" ref="35724597" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629806" version="1" timestamp="2011-06-18T12:55:40Z" uid="7617" user="Franc" changeset="8473039">
+    <member type="way" ref="52325643" role="from"/>
+    <member type="way" ref="22738718" role="to"/>
+    <member type="node" ref="17392946" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629807" version="1" timestamp="2011-06-18T12:55:41Z" uid="7617" user="Franc" changeset="8473039">
+    <member type="way" ref="118166820" role="to"/>
+    <member type="node" ref="1329584862" role="via"/>
+    <member type="way" ref="118166844" role="from"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629867" version="1" timestamp="2011-06-18T13:26:32Z" uid="7617" user="Franc" changeset="8473322">
+    <member type="way" ref="4942054" role="from"/>
+    <member type="way" ref="118173928" role="to"/>
+    <member type="node" ref="665724917" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629868" version="1" timestamp="2011-06-18T13:26:32Z" uid="7617" user="Franc" changeset="8473322">
+    <member type="way" ref="52325947" role="from"/>
+    <member type="way" ref="52325946" role="to"/>
+    <member type="node" ref="665708902" role="via"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629869" version="1" timestamp="2011-06-18T13:26:32Z" uid="7617" user="Franc" changeset="8473322">
+    <member type="way" ref="100400033" role="from"/>
+    <member type="way" ref="4631572" role="to"/>
+    <member type="node" ref="665725061" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629870" version="1" timestamp="2011-06-18T13:26:32Z" uid="7617" user="Franc" changeset="8473322">
+    <member type="way" ref="57641014" role="from"/>
+    <member type="way" ref="118173921" role="to"/>
+    <member type="node" ref="29898557" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629871" version="1" timestamp="2011-06-18T13:26:33Z" uid="7617" user="Franc" changeset="8473322">
+    <member type="way" ref="4608162" role="from"/>
+    <member type="way" ref="118173916" role="to"/>
+    <member type="node" ref="665724962" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629872" version="1" timestamp="2011-06-18T13:26:33Z" uid="7617" user="Franc" changeset="8473322">
+    <member type="way" ref="4608857" role="to"/>
+    <member type="node" ref="665725019" role="via"/>
+    <member type="way" ref="118173914" role="from"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629873" version="1" timestamp="2011-06-18T13:26:33Z" uid="7617" user="Franc" changeset="8473322">
+    <member type="way" ref="96772654" role="from"/>
+    <member type="way" ref="21502787" role="to"/>
+    <member type="node" ref="231348310" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629874" version="1" timestamp="2011-06-18T13:26:33Z" uid="7617" user="Franc" changeset="8473322">
+    <member type="way" ref="52327242" role="from"/>
+    <member type="way" ref="21502164" role="to"/>
+    <member type="node" ref="231340352" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629875" version="1" timestamp="2011-06-18T13:26:33Z" uid="7617" user="Franc" changeset="8473322">
+    <member type="way" ref="12107490" role="from"/>
+    <member type="way" ref="118173936" role="to"/>
+    <member type="node" ref="665724959" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629876" version="1" timestamp="2011-06-18T13:26:33Z" uid="7617" user="Franc" changeset="8473322">
+    <member type="way" ref="52327252" role="from"/>
+    <member type="way" ref="57641014" role="to"/>
+    <member type="node" ref="29898557" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629877" version="1" timestamp="2011-06-18T13:26:34Z" uid="7617" user="Franc" changeset="8473322">
+    <member type="way" ref="52327243" role="from"/>
+    <member type="way" ref="4608162" role="to"/>
+    <member type="node" ref="665724962" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629878" version="1" timestamp="2011-06-18T13:26:34Z" uid="7617" user="Franc" changeset="8473322">
+    <member type="way" ref="118173940" role="from"/>
+    <member type="way" ref="4869278" role="to"/>
+    <member type="node" ref="31429752" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629879" version="1" timestamp="2011-06-18T13:26:34Z" uid="7617" user="Franc" changeset="8473322">
+    <member type="way" ref="52327254" role="from"/>
+    <member type="way" ref="4942054" role="to"/>
+    <member type="node" ref="665724917" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629880" version="1" timestamp="2011-06-18T13:26:34Z" uid="7617" user="Franc" changeset="8473322">
+    <member type="way" ref="52327250" role="from"/>
+    <member type="way" ref="118173927" role="to"/>
+    <member type="node" ref="665724907" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629881" version="1" timestamp="2011-06-18T13:26:34Z" uid="7617" user="Franc" changeset="8473322">
+    <member type="way" ref="21502787" role="from"/>
+    <member type="way" ref="118173932" role="to"/>
+    <member type="node" ref="231348310" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629882" version="1" timestamp="2011-06-18T13:26:34Z" uid="7617" user="Franc" changeset="8473322">
+    <member type="way" ref="4869278" role="from"/>
+    <member type="way" ref="118173915" role="to"/>
+    <member type="node" ref="31429752" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629883" version="1" timestamp="2011-06-18T13:26:34Z" uid="7617" user="Franc" changeset="8473322">
+    <member type="way" ref="52327260" role="from"/>
+    <member type="way" ref="12107490" role="to"/>
+    <member type="node" ref="665724959" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629884" version="1" timestamp="2011-06-18T13:26:34Z" uid="7617" user="Franc" changeset="8473322">
+    <member type="way" ref="52325946" role="from"/>
+    <member type="way" ref="52325947" role="to"/>
+    <member type="node" ref="665708898" role="via"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629885" version="1" timestamp="2011-06-18T13:26:35Z" uid="7617" user="Franc" changeset="8473322">
+    <member type="way" ref="21502164" role="from"/>
+    <member type="way" ref="71463096" role="to"/>
+    <member type="node" ref="231340352" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629886" version="1" timestamp="2011-06-18T13:26:35Z" uid="7617" user="Franc" changeset="8473322">
+    <member type="way" ref="4631576" role="from"/>
+    <member type="way" ref="118173933" role="to"/>
+    <member type="node" ref="665725068" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1629887" version="1" timestamp="2011-06-18T13:26:35Z" uid="7617" user="Franc" changeset="8473322">
+    <member type="way" ref="4631576" role="to"/>
+    <member type="node" ref="665725068" role="via"/>
+    <member type="way" ref="118173913" role="from"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+</osm>

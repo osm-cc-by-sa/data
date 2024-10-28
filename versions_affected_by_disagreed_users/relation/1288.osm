@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1288024" version="1" timestamp="2010-11-27T02:09:34Z" uid="7617" user="Franc" changeset="6466742">
+    <member type="way" ref="22918029" role="from"/>
+    <member type="way" ref="86577367" role="to"/>
+    <member type="node" ref="1006233730" role="via"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1288567" version="2" timestamp="2011-05-05T13:32:00Z" uid="20587" user="balrog-kun" changeset="8057516">
+    <member type="way" ref="59471854" role="outer"/>
+    <member type="way" ref="59472260" role="inner"/>
+    <tag k="name" v="Rozlewiska Nadarzyckie"/>
+    <tag k="natural" v="water"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 17:06:51 05/17/10 (UMP-Pila\src\pila.woda.txt)"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+</osm>

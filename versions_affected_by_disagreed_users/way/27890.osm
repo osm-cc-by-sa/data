@@ -1,0 +1,919 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="27890044" version="2" timestamp="2008-10-23T17:19:47Z" uid="6975" user="ulfl" changeset="530870">
+    <nd ref="300390529"/>
+    <nd ref="306218212"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="service" v="driveway"/>
+  </way>
+  <way id="27890141" version="2" timestamp="2010-03-28T00:16:01Z" uid="20587" user="balrog-kun" changeset="4250871">
+    <nd ref="306219377"/>
+    <nd ref="306219381"/>
+    <nd ref="57814024"/>
+    <nd ref="57814025"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Heald Court"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Contra Costa, CA"/>
+    <tag k="tiger:name_base" v="Heald"/>
+    <tag k="tiger:name_type" v="Ct"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="192094400"/>
+    <tag k="tiger:zip_left" v="94525"/>
+    <tag k="tiger:zip_right" v="94525"/>
+  </way>
+  <way id="27890217" version="1" timestamp="2008-10-21T17:56:54Z" uid="36809" user="pfoten_weg_!_" changeset="498271">
+    <nd ref="306219935"/>
+    <nd ref="254901070"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="footway"/>
+    <tag k="source" v="UMP-PL, ./UMP-Szczecin/src/POLICE.ulice.txt"/>
+  </way>
+  <way id="27890217" version="2" timestamp="2008-11-13T04:11:43Z" uid="36809" user="pfoten_weg_!_" changeset="741999">
+    <nd ref="306219935"/>
+    <nd ref="254901070"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="footway"/>
+    <tag k="note" v="ump source = data garbage"/>
+    <tag k="source" v="UMP-PL, ./UMP-Szczecin/src/POLICE.ulice.txt"/>
+  </way>
+  <way id="27890217" version="3" timestamp="2008-11-13T15:28:54Z" uid="36809" user="pfoten_weg_!_" changeset="742907">
+    <nd ref="306219935"/>
+    <nd ref="254901070"/>
+    <tag k="created_by" v="fixbot"/>
+    <tag k="fixme" v="ump source = data garbage"/>
+    <tag k="highway" v="footway"/>
+    <tag k="layer" v="-5"/>
+    <tag k="note" v="ump source = data garbage"/>
+    <tag k="source" v="UMP-PL, ./UMP-Szczecin/src/POLICE.ulice.txt"/>
+  </way>
+  <way id="27890217" version="4" timestamp="2008-11-14T15:40:23Z" uid="36809" user="pfoten_weg_!_" changeset="747907">
+    <nd ref="306219935"/>
+    <nd ref="254901070"/>
+    <tag k="created_by" v="fixbot"/>
+    <tag k="fixme" v="ump source = data garbage"/>
+    <tag k="highway" v="track"/>
+    <tag k="layer" v="-5"/>
+    <tag k="note" v="ump source = fake"/>
+    <tag k="source" v="UMP-PL, ./UMP-Szczecin/src/POLICE.ulice.txt"/>
+    <tag k="width" v="0"/>
+  </way>
+  <way id="27890217" version="5" timestamp="2008-11-21T21:27:56Z" uid="36809" user="pfoten_weg_!_" changeset="776750">
+    <nd ref="306219935"/>
+    <nd ref="254901070"/>
+    <tag k="created_by" v="fixbot"/>
+    <tag k="fixme" v="ump source = data garbage"/>
+    <tag k="highway" v="track"/>
+    <tag k="layer" v="-5"/>
+    <tag k="note" v="ump source = fake"/>
+    <tag k="source" v="UMP-PL, ./UMP-Szczecin/src/POLICE.ulice.txt"/>
+    <tag k="tunnel" v="yes"/>
+    <tag k="width" v="0"/>
+  </way>
+  <way id="27890217" version="6" timestamp="2008-11-21T23:37:59Z" uid="36809" user="pfoten_weg_!_" changeset="779358"/>
+  <way id="27890218" version="1" timestamp="2008-10-21T17:56:54Z" uid="36809" user="pfoten_weg_!_" changeset="498271">
+    <nd ref="306219942"/>
+    <nd ref="306189817"/>
+    <nd ref="306219943"/>
+    <nd ref="306189823"/>
+    <tag k="created_by" v="RambaZamba"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Jabłoniowa"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="27890218" version="2" timestamp="2009-08-26T14:42:59Z" uid="36809" user="pfoten_weg_!_" changeset="2268294">
+    <nd ref="306219942"/>
+    <nd ref="306189817"/>
+    <nd ref="306219943"/>
+    <nd ref="306189823"/>
+    <tag k="discovered_by" v="RambaZamba"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Jabłoniowa"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="27890218" version="4" timestamp="2009-08-31T11:55:05Z" uid="64924" user="leck_mich_alle_am_arsch" changeset="2325369">
+    <nd ref="306219942"/>
+    <nd ref="306189817"/>
+    <nd ref="306219943"/>
+    <nd ref="306189823"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Jabłoniowa"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="27890218" version="5" timestamp="2009-10-21T18:00:01Z" uid="36809" user="pfoten_weg_!_" changeset="2914872">
+    <nd ref="306219942"/>
+    <nd ref="306189817"/>
+    <nd ref="306219943"/>
+    <nd ref="306189823"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Jabłoniowa"/>
+  </way>
+  <way id="27890219" version="1" timestamp="2008-10-21T17:56:55Z" uid="36809" user="pfoten_weg_!_" changeset="498271">
+    <nd ref="306219962"/>
+    <nd ref="306189748"/>
+    <tag k="created_by" v="RambaZamba"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="layer" v="1"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="27890219" version="2" timestamp="2008-11-13T15:28:54Z" uid="36809" user="pfoten_weg_!_" changeset="742907">
+    <nd ref="306219962"/>
+    <nd ref="306189748"/>
+    <tag k="created_by" v="fixbot"/>
+    <tag k="fixme" v="ump source = data garbage"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="layer" v="-5"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="27890219" version="3" timestamp="2009-02-18T20:50:02Z" uid="30632" user="antblant" changeset="537487">
+    <nd ref="306219962"/>
+    <nd ref="306189748"/>
+    <tag k="created_by" v="fixbot"/>
+    <tag k="fixme" v="ump source = data garbage"/>
+    <tag k="highway" v="track"/>
+    <tag k="layer" v="-5"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="27890219" version="4" timestamp="2009-08-26T14:44:21Z" uid="36809" user="pfoten_weg_!_" changeset="2268294">
+    <nd ref="306219962"/>
+    <nd ref="306189748"/>
+    <tag k="discovered_by" v="RambaZamba"/>
+    <tag k="fixme" v="ump source = data garbage"/>
+    <tag k="highway" v="track"/>
+    <tag k="layer" v="-5"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="27890219" version="6" timestamp="2009-08-31T11:53:45Z" uid="64924" user="leck_mich_alle_am_arsch" changeset="2325369">
+    <nd ref="306219962"/>
+    <nd ref="306189748"/>
+    <tag k="fixme" v="ump source = data garbage"/>
+    <tag k="highway" v="track"/>
+    <tag k="layer" v="-5"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="27890219" version="7" timestamp="2009-10-21T18:00:01Z" uid="36809" user="pfoten_weg_!_" changeset="2914872">
+    <nd ref="306219962"/>
+    <nd ref="306189748"/>
+    <tag k="fixme" v="ump source = data garbage"/>
+    <tag k="highway" v="track"/>
+    <tag k="layer" v="-5"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="27890242" version="2" timestamp="2008-10-23T17:50:50Z" uid="6975" user="ulfl" changeset="530870">
+    <nd ref="306220065"/>
+    <nd ref="306220066"/>
+    <nd ref="306220068"/>
+    <nd ref="306220069"/>
+    <nd ref="306220065"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="name" v="Ganløse Kirke"/>
+  </way>
+  <way id="27890330" version="1" timestamp="2008-10-21T18:03:01Z" uid="36809" user="pfoten_weg_!_" changeset="498271">
+    <nd ref="306220836"/>
+    <nd ref="306220839"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="created_by" v="RambaZamba"/>
+    <tag k="layer" v="0"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="27890330" version="3" timestamp="2009-09-30T21:48:12Z" uid="36809" user="pfoten_weg_!_" changeset="2693732">
+    <nd ref="306220836"/>
+    <nd ref="306220839"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="layer" v="0"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="27890330" version="4" timestamp="2009-10-21T18:00:30Z" uid="36809" user="pfoten_weg_!_" changeset="2914872">
+    <nd ref="306220836"/>
+    <nd ref="306220839"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="layer" v="0"/>
+    <tag k="railway" v="rail"/>
+  </way>
+  <way id="27890332" version="1" timestamp="2008-10-21T18:03:01Z" uid="36809" user="pfoten_weg_!_" changeset="498271">
+    <nd ref="306220839"/>
+    <nd ref="303403000"/>
+    <nd ref="303403001"/>
+    <nd ref="303403002"/>
+    <nd ref="303403004"/>
+    <nd ref="303403005"/>
+    <nd ref="305142581"/>
+    <nd ref="303403006"/>
+    <nd ref="303403007"/>
+    <nd ref="303403008"/>
+    <nd ref="303403010"/>
+    <nd ref="303403011"/>
+    <nd ref="303403012"/>
+    <nd ref="303403013"/>
+    <nd ref="303403031"/>
+    <nd ref="303403036"/>
+    <nd ref="303403040"/>
+    <nd ref="303403043"/>
+    <nd ref="303403048"/>
+    <nd ref="303403050"/>
+    <nd ref="303403051"/>
+    <nd ref="303403052"/>
+    <nd ref="303403054"/>
+    <nd ref="303403059"/>
+    <nd ref="303403064"/>
+    <nd ref="303403068"/>
+    <nd ref="303403072"/>
+    <tag k="created_by" v="RambaZamba"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="27890332" version="2" timestamp="2008-10-21T18:30:11Z" uid="36809" user="pfoten_weg_!_" changeset="498271">
+    <nd ref="306220839"/>
+    <nd ref="303403001"/>
+    <nd ref="303403002"/>
+    <nd ref="303403004"/>
+    <nd ref="303403005"/>
+    <nd ref="305142581"/>
+    <nd ref="303403006"/>
+    <nd ref="303403007"/>
+    <nd ref="303403008"/>
+    <nd ref="303403010"/>
+    <nd ref="303403011"/>
+    <nd ref="303403012"/>
+    <nd ref="303403013"/>
+    <nd ref="303403031"/>
+    <nd ref="303403036"/>
+    <nd ref="303403040"/>
+    <nd ref="303403043"/>
+    <nd ref="303403048"/>
+    <nd ref="303403050"/>
+    <nd ref="303403051"/>
+    <nd ref="303403052"/>
+    <nd ref="303403054"/>
+    <nd ref="303403059"/>
+    <nd ref="303403064"/>
+    <nd ref="303403068"/>
+    <nd ref="303403072"/>
+    <tag k="created_by" v="RambaZamba"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="27890332" version="3" timestamp="2008-10-23T17:26:13Z" uid="36809" user="pfoten_weg_!_" changeset="529289">
+    <nd ref="306220839"/>
+    <nd ref="303403001"/>
+    <nd ref="303403002"/>
+    <nd ref="303403004"/>
+    <nd ref="303403005"/>
+    <nd ref="305142581"/>
+    <nd ref="303403006"/>
+    <nd ref="303403007"/>
+    <nd ref="303403008"/>
+    <nd ref="303403010"/>
+    <nd ref="303403011"/>
+    <nd ref="303403012"/>
+    <nd ref="303403013"/>
+    <nd ref="303403031"/>
+    <nd ref="306630086"/>
+    <nd ref="303403036"/>
+    <nd ref="303403040"/>
+    <nd ref="303403043"/>
+    <nd ref="303403048"/>
+    <nd ref="303403050"/>
+    <nd ref="303403051"/>
+    <nd ref="303403052"/>
+    <nd ref="303403054"/>
+    <nd ref="303403059"/>
+    <nd ref="303403064"/>
+    <nd ref="303403068"/>
+    <nd ref="303403072"/>
+    <tag k="created_by" v="RambaZamba"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="27890332" version="4" timestamp="2008-10-24T01:01:50Z" uid="36809" user="pfoten_weg_!_" changeset="544814">
+    <nd ref="306220839"/>
+    <nd ref="303403001"/>
+    <nd ref="303403002"/>
+    <nd ref="303403004"/>
+    <nd ref="303403005"/>
+    <nd ref="305142581"/>
+    <nd ref="303403006"/>
+    <nd ref="303403007"/>
+    <nd ref="303403008"/>
+    <nd ref="303403010"/>
+    <nd ref="303403011"/>
+    <nd ref="303403012"/>
+    <nd ref="303403013"/>
+    <nd ref="303403031"/>
+    <nd ref="306630086"/>
+    <nd ref="303403036"/>
+    <nd ref="303403040"/>
+    <nd ref="303403043"/>
+    <nd ref="306721710"/>
+    <nd ref="303403048"/>
+    <nd ref="303403050"/>
+    <nd ref="303403051"/>
+    <nd ref="306721709"/>
+    <nd ref="303403052"/>
+    <nd ref="303403054"/>
+    <nd ref="306721699"/>
+    <nd ref="303403059"/>
+    <nd ref="303403064"/>
+    <nd ref="303403068"/>
+    <nd ref="303403072"/>
+    <tag k="created_by" v="RambaZamba"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="27890332" version="5" timestamp="2008-10-24T22:34:37Z" uid="36809" user="pfoten_weg_!_" changeset="558349">
+    <nd ref="306220839"/>
+    <nd ref="303403001"/>
+    <nd ref="303403002"/>
+    <nd ref="303403004"/>
+    <nd ref="303403005"/>
+    <nd ref="305142581"/>
+    <nd ref="303403006"/>
+    <nd ref="303403007"/>
+    <nd ref="303403008"/>
+    <nd ref="303403010"/>
+    <nd ref="303403011"/>
+    <nd ref="303403012"/>
+    <nd ref="303403013"/>
+    <nd ref="303403031"/>
+    <nd ref="306630086"/>
+    <nd ref="303403036"/>
+    <nd ref="303403040"/>
+    <nd ref="303403043"/>
+    <nd ref="306721710"/>
+    <nd ref="303403048"/>
+    <nd ref="303403050"/>
+    <nd ref="303403051"/>
+    <nd ref="306721709"/>
+    <nd ref="303403052"/>
+    <nd ref="303403054"/>
+    <nd ref="306721699"/>
+    <nd ref="303403059"/>
+    <nd ref="307183233"/>
+    <nd ref="303403064"/>
+    <nd ref="307183227"/>
+    <nd ref="303403068"/>
+    <nd ref="303403072"/>
+    <tag k="created_by" v="RambaZamba"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="27890332" version="6" timestamp="2008-11-25T20:49:50Z" uid="36809" user="pfoten_weg_!_" changeset="792428"/>
+  <way id="27890333" version="1" timestamp="2008-10-21T18:03:02Z" uid="36809" user="pfoten_weg_!_" changeset="498271">
+    <nd ref="254901140"/>
+    <nd ref="254901070"/>
+    <tag k="created_by" v="RambaZamba"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="layer" v="-1"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="27890333" version="2" timestamp="2008-12-19T00:41:15Z" uid="36809" user="pfoten_weg_!_" changeset="475364"/>
+  <way id="27890334" version="1" timestamp="2008-10-21T18:03:03Z" uid="36809" user="pfoten_weg_!_" changeset="498271">
+    <nd ref="306220842"/>
+    <nd ref="306220843"/>
+    <nd ref="306220844"/>
+    <nd ref="306220845"/>
+    <nd ref="306220842"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="name" v="Stadion pilkarski"/>
+    <tag k="sport" v="soccer"/>
+  </way>
+  <way id="27890334" version="2" timestamp="2008-10-28T22:33:00Z" uid="36809" user="pfoten_weg_!_" changeset="618148"/>
+  <way id="27890348" version="3" timestamp="2010-06-29T19:13:41Z" uid="74617" user="JohnSmith" changeset="5108182">
+    <nd ref="306220932"/>
+    <nd ref="306220933"/>
+    <nd ref="306220935"/>
+    <nd ref="306220936"/>
+    <nd ref="306220938"/>
+    <nd ref="306220939"/>
+    <nd ref="306220940"/>
+    <nd ref="306220942"/>
+    <nd ref="306220943"/>
+    <nd ref="306220945"/>
+    <nd ref="306220946"/>
+    <nd ref="306220947"/>
+    <nd ref="306220949"/>
+    <nd ref="306220950"/>
+    <nd ref="306220951"/>
+    <nd ref="306220953"/>
+    <nd ref="306220932"/>
+    <tag k="fixme" v="sport=football is ambiguous, see http://wiki.osm.org/wiki/Football for more details"/>
+    <tag k="leisure" v="stadium"/>
+    <tag k="sport" v="football"/>
+  </way>
+  <way id="27890373" version="2" timestamp="2008-10-23T17:19:45Z" uid="6975" user="ulfl" changeset="530870">
+    <nd ref="306221262"/>
+    <nd ref="306221268"/>
+    <nd ref="306221272"/>
+    <nd ref="306221278"/>
+    <nd ref="306221262"/>
+    <tag k="access" v="private"/>
+    <tag k="amenity" v="parking"/>
+  </way>
+  <way id="27890389" version="4" timestamp="2009-04-02T14:05:37Z" uid="20587" user="balrog-kun" changeset="58274">
+    <nd ref="306221629"/>
+    <nd ref="288048303"/>
+    <nd ref="288048302"/>
+    <nd ref="288048301"/>
+    <nd ref="288048300"/>
+    <nd ref="251768843"/>
+    <tag k="created_by" v="Potlatch 0.10e"/>
+    <tag k="highway" v="track"/>
+  </way>
+  <way id="27890474" version="3" timestamp="2010-03-28T00:16:02Z" uid="20587" user="balrog-kun" changeset="4250871">
+    <nd ref="306222196"/>
+    <nd ref="306222198"/>
+    <nd ref="306222199"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Edwards Avenue"/>
+  </way>
+  <way id="27890720" version="3" timestamp="2010-06-29T19:08:56Z" uid="74617" user="JohnSmith" changeset="5108182">
+    <nd ref="306224000"/>
+    <nd ref="306224001"/>
+    <nd ref="306224002"/>
+    <nd ref="306224003"/>
+    <nd ref="306224000"/>
+    <tag k="fixme" v="sport=football is ambiguous, see http://wiki.osm.org/wiki/Football for more details"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="football"/>
+  </way>
+  <way id="27890741" version="10" timestamp="2008-12-16T19:13:15Z" uid="43863" user="Rundling" changeset="424249">
+    <nd ref="303161349"/>
+    <nd ref="303161351"/>
+    <nd ref="303161352"/>
+    <nd ref="309733697"/>
+    <nd ref="303161354"/>
+    <nd ref="303161355"/>
+    <nd ref="303161358"/>
+    <nd ref="309733569"/>
+    <nd ref="309911690"/>
+    <nd ref="304320503"/>
+    <nd ref="303161360"/>
+    <nd ref="303161361"/>
+    <nd ref="309733541"/>
+    <nd ref="303161363"/>
+    <nd ref="303161364"/>
+    <nd ref="303161366"/>
+    <nd ref="303161367"/>
+    <nd ref="303161369"/>
+    <nd ref="303161371"/>
+    <nd ref="303161372"/>
+    <nd ref="303161374"/>
+    <nd ref="303161376"/>
+    <nd ref="303161378"/>
+    <nd ref="303161379"/>
+    <nd ref="303161381"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="track"/>
+    <tag k="horse" v="yes"/>
+    <tag k="layer" v="0"/>
+    <tag k="tracktype" v="grade1"/>
+  </way>
+  <way id="27890741" version="11" timestamp="2009-05-05T15:28:38Z" uid="43863" user="Rundling" changeset="1088032">
+    <nd ref="303161349"/>
+    <nd ref="303161351"/>
+    <nd ref="303161352"/>
+    <nd ref="309733697"/>
+    <nd ref="303161354"/>
+    <nd ref="303161355"/>
+    <nd ref="303161358"/>
+    <nd ref="309733569"/>
+    <nd ref="309911690"/>
+    <nd ref="304320503"/>
+    <nd ref="303161360"/>
+    <nd ref="303161361"/>
+    <nd ref="309733541"/>
+    <nd ref="303161363"/>
+    <nd ref="303161364"/>
+    <nd ref="303161366"/>
+    <nd ref="303161367"/>
+    <nd ref="303161369"/>
+    <nd ref="303161371"/>
+    <nd ref="303161372"/>
+    <nd ref="303161374"/>
+    <nd ref="303161376"/>
+    <nd ref="390984265"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="track"/>
+    <tag k="horse" v="yes"/>
+    <tag k="layer" v="0"/>
+    <tag k="tracktype" v="grade1"/>
+  </way>
+  <way id="27890741" version="12" timestamp="2009-06-05T13:46:46Z" uid="43863" user="Rundling" changeset="1429493">
+    <nd ref="303161349"/>
+    <nd ref="303161351"/>
+    <nd ref="303161352"/>
+    <nd ref="309733697"/>
+    <nd ref="303161354"/>
+    <nd ref="303161355"/>
+    <nd ref="303161358"/>
+    <nd ref="309733569"/>
+    <nd ref="309911690"/>
+    <nd ref="304320503"/>
+    <nd ref="303161360"/>
+    <nd ref="303161361"/>
+    <nd ref="309733541"/>
+    <nd ref="303161363"/>
+    <nd ref="303161364"/>
+    <nd ref="303161366"/>
+    <nd ref="303161367"/>
+    <nd ref="303161369"/>
+    <nd ref="303161371"/>
+    <nd ref="303161372"/>
+    <nd ref="303161374"/>
+    <nd ref="303161376"/>
+    <nd ref="390984265"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="track"/>
+    <tag k="horse" v="yes"/>
+    <tag k="tracktype" v="grade1"/>
+  </way>
+  <way id="27890741" version="13" timestamp="2009-06-15T14:44:46Z" uid="43863" user="Rundling" changeset="1525677">
+    <nd ref="303161349"/>
+    <nd ref="303161351"/>
+    <nd ref="303161352"/>
+    <nd ref="309733697"/>
+    <nd ref="303161354"/>
+    <nd ref="303161355"/>
+    <nd ref="303161358"/>
+    <nd ref="309733569"/>
+    <nd ref="309911690"/>
+    <nd ref="304320503"/>
+    <nd ref="303161360"/>
+    <nd ref="303161361"/>
+    <nd ref="309733541"/>
+    <nd ref="303161363"/>
+    <nd ref="303161364"/>
+    <nd ref="303161366"/>
+    <nd ref="303161367"/>
+    <nd ref="303161369"/>
+    <nd ref="303161371"/>
+    <nd ref="420673837"/>
+    <nd ref="303161372"/>
+    <nd ref="303161374"/>
+    <nd ref="303161376"/>
+    <nd ref="390984265"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="track"/>
+    <tag k="horse" v="yes"/>
+    <tag k="tracktype" v="grade1"/>
+  </way>
+  <way id="27890849" version="1" timestamp="2008-10-21T18:29:43Z" uid="66036" user="h4v" changeset="495380">
+    <nd ref="294951591"/>
+    <nd ref="295095990"/>
+    <nd ref="297914690"/>
+    <nd ref="297915388"/>
+    <nd ref="283376617"/>
+    <tag k="created_by" v="Potlatch 0.10e"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Gdańska"/>
+  </way>
+  <way id="27890849" version="2" timestamp="2008-10-21T18:29:54Z" uid="66036" user="h4v" changeset="495380"/>
+  <way id="27890863" version="1" timestamp="2008-10-21T18:30:01Z" uid="66036" user="h4v" changeset="495380">
+    <nd ref="295095990"/>
+    <nd ref="297914690"/>
+    <nd ref="297915388"/>
+    <nd ref="283376617"/>
+    <tag k="created_by" v="Potlatch 0.10e"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Gdańska"/>
+  </way>
+  <way id="27890863" version="2" timestamp="2010-01-31T23:25:23Z" uid="66036" user="h4v" changeset="3764336">
+    <nd ref="295095990"/>
+    <nd ref="297914690"/>
+    <nd ref="297915388"/>
+    <nd ref="624791250"/>
+    <nd ref="283376617"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Gdańska"/>
+  </way>
+  <way id="27890863" version="4" timestamp="2011-03-03T20:45:50Z" uid="20587" user="balrog-kun" changeset="7449473">
+    <nd ref="295095990"/>
+    <nd ref="297914690"/>
+    <nd ref="297915388"/>
+    <nd ref="624791250"/>
+    <nd ref="1179053764"/>
+    <nd ref="1179054564"/>
+    <nd ref="283376617"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Gdańska"/>
+  </way>
+  <way id="27890863" version="6" timestamp="2011-03-24T21:08:06Z" uid="66036" user="h4v" changeset="7660057">
+    <nd ref="295095990"/>
+    <nd ref="297914690"/>
+    <nd ref="297915388"/>
+    <nd ref="1216594969"/>
+    <nd ref="1201698470"/>
+    <nd ref="624791250"/>
+    <nd ref="1179053764"/>
+    <nd ref="1201698507"/>
+    <nd ref="1179054564"/>
+    <nd ref="283376617"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Gdańska"/>
+  </way>
+  <way id="27890863" version="7" timestamp="2011-04-15T14:44:15Z" uid="66036" user="h4v" changeset="7870218">
+    <nd ref="295095990"/>
+    <nd ref="297914690"/>
+    <nd ref="297915388"/>
+    <nd ref="1216594969"/>
+    <nd ref="1201698470"/>
+    <nd ref="624791250"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Gdańska"/>
+  </way>
+  <way id="27890875" version="1" timestamp="2008-10-21T18:30:05Z" uid="36809" user="pfoten_weg_!_" changeset="498271">
+    <nd ref="254901228"/>
+    <nd ref="306219947"/>
+    <nd ref="254901140"/>
+  </way>
+  <way id="27890875" version="2" timestamp="2008-10-21T18:38:58Z" uid="36809" user="pfoten_weg_!_" changeset="498271"/>
+  <way id="27890877" version="1" timestamp="2008-10-21T18:30:06Z" uid="66036" user="h4v" changeset="495380">
+    <nd ref="294954047"/>
+    <nd ref="294951590"/>
+    <nd ref="305644508"/>
+    <nd ref="294951591"/>
+    <nd ref="295095990"/>
+    <tag k="created_by" v="Potlatch 0.10e"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Gdańska"/>
+  </way>
+  <way id="27890877" version="3" timestamp="2009-08-18T08:57:34Z" uid="66036" user="h4v" changeset="2187220">
+    <nd ref="294954047"/>
+    <nd ref="294951590"/>
+    <nd ref="470255224"/>
+    <nd ref="335714150"/>
+    <nd ref="305644508"/>
+    <nd ref="470255232"/>
+    <nd ref="295095990"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Gdańska"/>
+  </way>
+  <way id="27890901" version="1" timestamp="2008-10-21T18:31:24Z" uid="66036" user="h4v" changeset="495380">
+    <nd ref="306225261"/>
+    <nd ref="306225262"/>
+    <nd ref="306225264"/>
+    <nd ref="306225265"/>
+    <nd ref="306225266"/>
+    <nd ref="306225267"/>
+    <nd ref="306225268"/>
+    <nd ref="306225269"/>
+    <nd ref="306225261"/>
+    <tag k="created_by" v="Potlatch 0.10e"/>
+    <tag k="leisure" v="park"/>
+  </way>
+  <way id="27890902" version="2" timestamp="2008-10-23T17:59:26Z" uid="6975" user="ulfl" changeset="530870">
+    <nd ref="306225055"/>
+    <nd ref="306225057"/>
+    <nd ref="306225059"/>
+    <nd ref="306225061"/>
+    <nd ref="306225063"/>
+    <nd ref="306225065"/>
+    <nd ref="306225067"/>
+    <nd ref="306225068"/>
+    <nd ref="306225070"/>
+    <nd ref="306225072"/>
+    <nd ref="306225074"/>
+    <nd ref="306225076"/>
+    <nd ref="306225078"/>
+    <nd ref="306225080"/>
+    <nd ref="306225082"/>
+    <nd ref="306225084"/>
+    <nd ref="306225087"/>
+    <nd ref="306225089"/>
+    <nd ref="306225090"/>
+    <nd ref="306225093"/>
+    <nd ref="306225094"/>
+    <nd ref="306225096"/>
+    <nd ref="306225098"/>
+    <nd ref="306225100"/>
+    <nd ref="306225139"/>
+    <nd ref="306225140"/>
+    <nd ref="306225141"/>
+    <nd ref="306225142"/>
+    <nd ref="306225143"/>
+    <nd ref="306225144"/>
+    <nd ref="306225145"/>
+    <nd ref="306225146"/>
+    <nd ref="306225147"/>
+    <nd ref="306225148"/>
+    <nd ref="306225149"/>
+    <nd ref="306225150"/>
+    <nd ref="306225151"/>
+    <nd ref="306225152"/>
+    <nd ref="306225153"/>
+    <nd ref="306225154"/>
+    <nd ref="306225155"/>
+    <nd ref="306225156"/>
+    <nd ref="306225157"/>
+    <nd ref="306225158"/>
+    <nd ref="306225159"/>
+    <nd ref="306225160"/>
+    <nd ref="306225161"/>
+    <nd ref="306225162"/>
+    <nd ref="306225163"/>
+    <nd ref="306225164"/>
+    <nd ref="306225165"/>
+    <nd ref="306225166"/>
+    <nd ref="306225167"/>
+    <nd ref="306225168"/>
+    <nd ref="306225169"/>
+    <nd ref="306225170"/>
+    <nd ref="306225171"/>
+    <nd ref="306225172"/>
+    <nd ref="306225173"/>
+    <nd ref="306225174"/>
+    <nd ref="306225175"/>
+    <nd ref="306225176"/>
+    <nd ref="306225177"/>
+    <nd ref="306225178"/>
+    <nd ref="306225179"/>
+    <nd ref="306225180"/>
+    <nd ref="306225181"/>
+    <nd ref="306225182"/>
+    <nd ref="306225183"/>
+    <nd ref="306225184"/>
+    <nd ref="306225185"/>
+    <nd ref="306225186"/>
+    <nd ref="306225187"/>
+    <nd ref="306225188"/>
+    <nd ref="306225189"/>
+    <nd ref="306225190"/>
+    <nd ref="306225191"/>
+    <nd ref="306225192"/>
+    <nd ref="306225193"/>
+    <nd ref="306225194"/>
+    <nd ref="306225196"/>
+    <nd ref="306225198"/>
+    <nd ref="306225200"/>
+    <nd ref="306225202"/>
+    <nd ref="306225204"/>
+    <nd ref="306225206"/>
+    <nd ref="306225207"/>
+    <nd ref="306225208"/>
+    <nd ref="306225209"/>
+    <nd ref="306225210"/>
+    <nd ref="306225211"/>
+    <nd ref="306225212"/>
+    <nd ref="306225213"/>
+    <nd ref="306225215"/>
+    <nd ref="306225216"/>
+    <nd ref="306225217"/>
+    <nd ref="306225218"/>
+    <nd ref="306225219"/>
+    <nd ref="306225220"/>
+    <nd ref="306225222"/>
+    <nd ref="306225223"/>
+    <nd ref="306225225"/>
+    <nd ref="306225227"/>
+    <nd ref="306225229"/>
+    <nd ref="306225231"/>
+    <nd ref="306225233"/>
+    <nd ref="306225235"/>
+    <nd ref="306225237"/>
+    <nd ref="306225238"/>
+    <nd ref="306225240"/>
+    <nd ref="306225242"/>
+    <nd ref="306225244"/>
+    <nd ref="306225246"/>
+    <nd ref="306225248"/>
+    <nd ref="306225250"/>
+    <nd ref="306225252"/>
+    <nd ref="306225254"/>
+    <nd ref="306225255"/>
+    <nd ref="306225257"/>
+    <nd ref="306225258"/>
+    <nd ref="306225259"/>
+    <nd ref="306225260"/>
+    <nd ref="306225263"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="path"/>
+    <tag k="horse" v="no"/>
+    <tag k="motorcar" v="no"/>
+    <tag k="ski" v="no"/>
+    <tag k="snowmobile" v="no"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="27890911" version="1" timestamp="2008-10-21T18:32:42Z" uid="36809" user="pfoten_weg_!_" changeset="498271">
+    <nd ref="306225633"/>
+    <nd ref="306225635"/>
+    <nd ref="306225637"/>
+    <nd ref="303447999"/>
+    <tag k="highway" v="footway"/>
+    <tag k="layer" v="0"/>
+    <tag k="width" v="1"/>
+  </way>
+  <way id="27890911" version="2" timestamp="2009-08-26T14:43:33Z" uid="36809" user="pfoten_weg_!_" changeset="2268294">
+    <nd ref="306225633"/>
+    <nd ref="306225635"/>
+    <nd ref="306225637"/>
+    <nd ref="303447999"/>
+    <tag k="discovered_by" v="RambaZamba"/>
+    <tag k="highway" v="footway"/>
+    <tag k="layer" v="0"/>
+    <tag k="source" v="survey"/>
+    <tag k="width" v="1"/>
+  </way>
+  <way id="27890911" version="4" timestamp="2009-08-31T11:55:13Z" uid="64924" user="leck_mich_alle_am_arsch" changeset="2325369">
+    <nd ref="306225633"/>
+    <nd ref="306225635"/>
+    <nd ref="306225637"/>
+    <nd ref="303447999"/>
+    <tag k="highway" v="footway"/>
+    <tag k="layer" v="0"/>
+    <tag k="source" v="survey"/>
+    <tag k="width" v="1"/>
+  </way>
+  <way id="27890911" version="5" timestamp="2009-10-21T17:56:29Z" uid="36809" user="pfoten_weg_!_" changeset="2914872">
+    <nd ref="306225633"/>
+    <nd ref="306225635"/>
+    <nd ref="306225637"/>
+    <nd ref="303447999"/>
+    <tag k="highway" v="footway"/>
+    <tag k="layer" v="0"/>
+    <tag k="width" v="1"/>
+  </way>
+  <way id="27890915" version="7" timestamp="2009-03-16T16:57:30Z" uid="33382" user="de_muur" changeset="820227">
+    <nd ref="306225625"/>
+    <nd ref="306225626"/>
+    <nd ref="306224818"/>
+    <nd ref="306224819"/>
+    <nd ref="306224821"/>
+    <nd ref="261690797"/>
+    <tag k="created_by" v="Potlatch 0.10e"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Schwarzenbeker Straße"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="27890917" version="4" timestamp="2010-10-08T13:54:11Z" uid="33382" user="de_muur" changeset="5986205">
+    <nd ref="261690799"/>
+    <nd ref="369309260"/>
+    <nd ref="261690800"/>
+    <nd ref="261690801"/>
+    <nd ref="261690802"/>
+    <nd ref="385911830"/>
+    <nd ref="261690803"/>
+    <nd ref="261690804"/>
+    <nd ref="261690805"/>
+    <nd ref="261690806"/>
+    <nd ref="261690807"/>
+    <nd ref="261690808"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Müssener Straße"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="27890917" version="5" timestamp="2010-10-08T19:27:22Z" uid="33382" user="de_muur" changeset="5988726">
+    <nd ref="261690799"/>
+    <nd ref="369309260"/>
+    <nd ref="261690800"/>
+    <nd ref="261690801"/>
+    <nd ref="261690802"/>
+    <nd ref="385911830"/>
+    <nd ref="261690803"/>
+    <nd ref="261690804"/>
+    <nd ref="261690805"/>
+    <nd ref="261690806"/>
+    <nd ref="261690807"/>
+    <nd ref="941778323"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Müssener Straße"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="27890965" version="3" timestamp="2009-03-16T16:57:26Z" uid="33382" user="de_muur" changeset="820227">
+    <nd ref="306226097"/>
+    <nd ref="306226098"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="created_by" v="Potlatch 0.10e"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="layer" v="1"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="27890965" version="5" timestamp="2010-10-08T13:54:10Z" uid="33382" user="de_muur" changeset="5986205">
+    <nd ref="306226097"/>
+    <nd ref="306226098"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Bergstraße"/>
+    <tag k="ref" v="K 17"/>
+    <tag k="surface" v="paved"/>
+  </way>
+</osm>

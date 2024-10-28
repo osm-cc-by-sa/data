@@ -1,0 +1,271 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="83033" version="2" timestamp="2009-08-29T03:09:10Z" uid="20587" user="balrog-kun" changeset="2296863"/>
+  <relation id="83077" version="2" timestamp="2009-08-29T03:09:09Z" uid="20587" user="balrog-kun" changeset="2296863"/>
+  <relation id="83087" version="2" timestamp="2009-02-23T20:54:19Z" uid="34428" user="usm78-gis" changeset="649542">
+    <member type="node" ref="350438340" role="via"/>
+    <member type="way" ref="31370878" role="to"/>
+    <member type="way" ref="31371530" role="from"/>
+    <tag k="restriction" v="no_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="83087" version="3" timestamp="2009-02-23T23:50:33Z" uid="34428" user="usm78-gis" changeset="649542">
+    <member type="node" ref="350438340" role="via"/>
+    <member type="way" ref="31371530" role="from"/>
+    <member type="way" ref="31437421" role="to"/>
+    <tag k="restriction" v="no_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="83087" version="4" timestamp="2009-02-24T20:46:19Z" uid="34428" user="usm78-gis" changeset="653426">
+    <member type="node" ref="350438340" role="via"/>
+    <member type="way" ref="31371530" role="from"/>
+    <member type="way" ref="31437424" role="to"/>
+    <tag k="restriction" v="no_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="83098" version="2" timestamp="2009-08-29T03:09:10Z" uid="20587" user="balrog-kun" changeset="2296863"/>
+  <relation id="83114" version="3" timestamp="2009-08-26T18:16:02Z" uid="36809" user="pfoten_weg_!_" changeset="2270114">
+    <member type="way" ref="7990108" role=""/>
+    <member type="way" ref="30117678" role=""/>
+    <member type="way" ref="30117679" role=""/>
+    <member type="way" ref="31424131" role=""/>
+    <member type="way" ref="31427459" role=""/>
+    <member type="way" ref="31427466" role=""/>
+    <member type="way" ref="31427477" role=""/>
+    <member type="way" ref="31428591" role=""/>
+    <tag k="operator" v="Landkreis Nordvorpommern"/>
+    <tag k="ref" v="K 10"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="83140" version="9" timestamp="2010-04-26T11:39:32Z" uid="6269" user="Mueck" changeset="4530922">
+    <member type="way" ref="8053722" role=""/>
+    <member type="way" ref="8053732" role=""/>
+    <member type="way" ref="24345529" role=""/>
+    <member type="way" ref="24345530" role=""/>
+    <member type="way" ref="31366123" role=""/>
+    <member type="way" ref="55784743" role=""/>
+    <member type="way" ref="31429211" role=""/>
+    <member type="way" ref="31429212" role=""/>
+    <member type="way" ref="31429213" role=""/>
+    <member type="way" ref="31430191" role=""/>
+    <member type="way" ref="31431131" role=""/>
+    <member type="way" ref="35912356" role=""/>
+    <member type="way" ref="35912355" role=""/>
+    <member type="way" ref="35912354" role=""/>
+    <member type="way" ref="31431561" role=""/>
+    <member type="way" ref="39358931" role=""/>
+    <member type="way" ref="56429916" role=""/>
+    <tag k="operator" v="Enzkreis"/>
+    <tag k="ref" v="K 4520"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="83154" version="4" timestamp="2009-08-29T03:09:12Z" uid="20587" user="balrog-kun" changeset="2296863"/>
+  <relation id="83155" version="4" timestamp="2009-08-29T03:09:11Z" uid="20587" user="balrog-kun" changeset="2296863"/>
+  <relation id="83177" version="2" timestamp="2009-11-12T03:29:00Z" uid="36809" user="pfoten_weg_!_" changeset="3095316">
+    <member type="way" ref="31431239" role="outer"/>
+    <member type="way" ref="31431243" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="83241" version="18" timestamp="2009-03-29T13:28:27Z" uid="6975" user="ulfl" changeset="867035">
+    <member type="node" ref="26994661" role="stop_11"/>
+    <member type="node" ref="82576501" role="stop_16"/>
+    <member type="node" ref="82581862" role="stop_15"/>
+    <member type="node" ref="82589247" role="stop_19"/>
+    <member type="node" ref="251710763" role="forward_stop_27"/>
+    <member type="node" ref="253204017" role="stop_26"/>
+    <member type="node" ref="256062993" role="stop_20"/>
+    <member type="node" ref="256063001" role="stop_22"/>
+    <member type="node" ref="256063006" role="stop_23"/>
+    <member type="node" ref="256063025" role="forward_stop_21"/>
+    <member type="node" ref="256063040" role="stop_24"/>
+    <member type="node" ref="256063041" role="stop_25"/>
+    <member type="node" ref="267223428" role="stop_12"/>
+    <member type="node" ref="271468685" role="stop_17"/>
+    <member type="node" ref="271478530" role="backward_stop_18"/>
+    <member type="node" ref="271479325" role="forward_stop_18"/>
+    <member type="node" ref="334363055" role="forward_stop_0"/>
+    <member type="node" ref="334363100" role="forward_stop_1"/>
+    <member type="node" ref="334722104" role="backward_stop_2"/>
+    <member type="node" ref="334722108" role="forward_stop_2"/>
+    <member type="node" ref="334722110" role="backward_stop_3"/>
+    <member type="node" ref="334722112" role="forward_stop_3"/>
+    <member type="node" ref="334722113" role="backward_stop_1"/>
+    <member type="node" ref="334722134" role="stop_4"/>
+    <member type="node" ref="334722137" role="stop_5"/>
+    <member type="node" ref="334722163" role="forward_stop_6"/>
+    <member type="node" ref="338162889" role="backward_stop_21"/>
+    <member type="node" ref="348381163" role="stop_13"/>
+    <member type="node" ref="356858804" role="backward_stop_14"/>
+    <member type="node" ref="357390840" role="stop_7"/>
+    <member type="node" ref="357390847" role="stop_9"/>
+    <member type="node" ref="357390850" role="stop_10"/>
+    <member type="node" ref="357407996" role="forward_stop_14"/>
+    <member type="way" ref="10374693" role=""/>
+    <member type="way" ref="10655015" role=""/>
+    <member type="way" ref="14396092" role=""/>
+    <member type="way" ref="23259413" role=""/>
+    <member type="way" ref="23636853" role=""/>
+    <member type="way" ref="23636855" role="forward"/>
+    <member type="way" ref="24580866" role=""/>
+    <member type="way" ref="24580867" role=""/>
+    <member type="way" ref="24589739" role=""/>
+    <member type="way" ref="25126760" role=""/>
+    <member type="way" ref="25343044" role=""/>
+    <member type="way" ref="25343095" role=""/>
+    <member type="way" ref="25685596" role=""/>
+    <member type="way" ref="30139518" role=""/>
+    <member type="way" ref="31432504" role=""/>
+    <member type="way" ref="31895251" role=""/>
+    <member type="way" ref="31903369" role="forward"/>
+    <member type="way" ref="31905014" role=""/>
+    <member type="way" ref="31905016" role=""/>
+    <member type="way" ref="32627287" role=""/>
+    <tag k="name" v="8 - Worzeldorfer Straße - Erlenstegen"/>
+    <tag k="network" v="VAG"/>
+    <tag k="operator" v="VGN"/>
+    <tag k="ref" v="8"/>
+    <tag k="route" v="tram"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="83241" version="19" timestamp="2009-03-29T14:20:44Z" uid="6975" user="ulfl" changeset="867035">
+    <member type="node" ref="26994661" role="stop_11"/>
+    <member type="node" ref="82576501" role="stop_16"/>
+    <member type="node" ref="82581862" role="stop_15"/>
+    <member type="node" ref="82589247" role="stop_19"/>
+    <member type="node" ref="251710763" role="forward_stop_27"/>
+    <member type="node" ref="253204017" role="stop_26"/>
+    <member type="node" ref="256062993" role="stop_20"/>
+    <member type="node" ref="256063001" role="stop_22"/>
+    <member type="node" ref="256063006" role="stop_23"/>
+    <member type="node" ref="256063025" role="forward_stop_21"/>
+    <member type="node" ref="256063040" role="stop_24"/>
+    <member type="node" ref="256063041" role="stop_25"/>
+    <member type="node" ref="271468685" role="stop_17"/>
+    <member type="node" ref="271478530" role="backward_stop_18"/>
+    <member type="node" ref="271479325" role="forward_stop_18"/>
+    <member type="node" ref="334363055" role="forward_stop_0"/>
+    <member type="node" ref="334363100" role="forward_stop_1"/>
+    <member type="node" ref="334722104" role="backward_stop_2"/>
+    <member type="node" ref="334722108" role="forward_stop_2"/>
+    <member type="node" ref="334722110" role="backward_stop_3"/>
+    <member type="node" ref="334722112" role="forward_stop_3"/>
+    <member type="node" ref="334722113" role="backward_stop_1"/>
+    <member type="node" ref="334722134" role="stop_4"/>
+    <member type="node" ref="334722137" role="stop_5"/>
+    <member type="node" ref="334722163" role="forward_stop_6"/>
+    <member type="node" ref="338162889" role="backward_stop_21"/>
+    <member type="node" ref="348381163" role="stop_13"/>
+    <member type="node" ref="356858804" role="backward_stop_14"/>
+    <member type="node" ref="357390840" role="stop_7"/>
+    <member type="node" ref="357390847" role="stop_9"/>
+    <member type="node" ref="357390850" role="stop_10"/>
+    <member type="node" ref="357407996" role="forward_stop_14"/>
+    <member type="node" ref="366900988" role="stop_12"/>
+    <member type="way" ref="10374693" role=""/>
+    <member type="way" ref="10655015" role=""/>
+    <member type="way" ref="14396092" role=""/>
+    <member type="way" ref="23259413" role=""/>
+    <member type="way" ref="23636853" role=""/>
+    <member type="way" ref="23636855" role="forward"/>
+    <member type="way" ref="24580866" role=""/>
+    <member type="way" ref="24580867" role=""/>
+    <member type="way" ref="24589739" role=""/>
+    <member type="way" ref="25126760" role=""/>
+    <member type="way" ref="25343044" role=""/>
+    <member type="way" ref="25343095" role=""/>
+    <member type="way" ref="25685596" role=""/>
+    <member type="way" ref="30139518" role=""/>
+    <member type="way" ref="31432504" role=""/>
+    <member type="way" ref="31895251" role=""/>
+    <member type="way" ref="31903369" role="forward"/>
+    <member type="way" ref="31905014" role=""/>
+    <member type="way" ref="31905016" role=""/>
+    <member type="way" ref="32627282" role=""/>
+    <member type="way" ref="32627287" role=""/>
+    <tag k="name" v="8 - Worzeldorfer Straße - Erlenstegen"/>
+    <tag k="network" v="VAG"/>
+    <tag k="operator" v="VGN"/>
+    <tag k="ref" v="8"/>
+    <tag k="route" v="tram"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="83279" version="37" timestamp="2010-03-14T20:58:10Z" uid="163746" user="anti_bot-nonsense" changeset="4128666">
+    <member type="node" ref="27308462" role=""/>
+    <member type="node" ref="27308475" role=""/>
+    <member type="node" ref="27308481" role=""/>
+    <member type="node" ref="27308498" role=""/>
+    <member type="node" ref="27308515" role=""/>
+    <member type="node" ref="27308519" role=""/>
+    <member type="node" ref="27308524" role=""/>
+    <member type="node" ref="27308528" role=""/>
+    <member type="node" ref="27308530" role=""/>
+    <member type="node" ref="27308533" role=""/>
+    <member type="node" ref="169313647" role=""/>
+    <member type="node" ref="175611929" role=""/>
+    <member type="node" ref="175611941" role=""/>
+    <member type="node" ref="178891417" role=""/>
+    <member type="node" ref="178895442" role=""/>
+    <member type="node" ref="178903744" role=""/>
+    <member type="node" ref="178903747" role=""/>
+    <member type="node" ref="178903749" role=""/>
+    <member type="node" ref="190243924" role=""/>
+    <member type="node" ref="190243926" role=""/>
+    <member type="node" ref="195998571" role=""/>
+    <member type="node" ref="195999446" role=""/>
+    <member type="node" ref="258774079" role=""/>
+    <member type="node" ref="259807287" role=""/>
+    <member type="node" ref="316695015" role=""/>
+    <member type="node" ref="322884381" role=""/>
+    <member type="node" ref="322884385" role=""/>
+    <member type="node" ref="322884389" role=""/>
+    <member type="node" ref="322885090" role=""/>
+    <member type="node" ref="322885500" role=""/>
+    <member type="node" ref="322885659" role=""/>
+    <member type="node" ref="350594884" role=""/>
+    <member type="node" ref="350600100" role=""/>
+    <member type="way" ref="4447056" role=""/>
+    <member type="way" ref="4447057" role=""/>
+    <member type="way" ref="17264934" role=""/>
+    <member type="way" ref="17264976" role=""/>
+    <member type="way" ref="17266174" role=""/>
+    <member type="way" ref="18447278" role=""/>
+    <member type="way" ref="18940899" role=""/>
+    <member type="way" ref="20908382" role=""/>
+    <member type="way" ref="23875280" role=""/>
+    <member type="way" ref="29353887" role=""/>
+    <member type="way" ref="30181742" role=""/>
+    <member type="way" ref="30419964" role=""/>
+    <member type="way" ref="31341333" role=""/>
+    <member type="way" ref="36853050" role=""/>
+    <member type="way" ref="36853699" role=""/>
+    <member type="way" ref="36853697" role=""/>
+    <member type="way" ref="38348657" role=""/>
+    <member type="way" ref="38348662" role=""/>
+    <member type="way" ref="40516264" role=""/>
+    <member type="way" ref="40516336" role=""/>
+    <member type="way" ref="42137952" role=""/>
+    <member type="node" ref="592192734" role=""/>
+    <tag k="network" v="Poznań"/>
+    <tag k="operator" v="MPK Poznań"/>
+    <tag k="ref" v="6"/>
+    <tag k="route" v="tram"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="83753" version="1" timestamp="2009-02-24T10:39:01Z" uid="7617" user="Franc" changeset="653761">
+    <member type="way" ref="31453605" role="outer"/>
+    <tag k="ABS_2006:test" v="yes"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="attribution" v="Based on Australian Bureau of Statistics data"/>
+    <tag k="au.gov.abs:NAME_2006" v="Marrickville"/>
+    <tag k="au.gov.abs:SSC_2006" v="11631"/>
+    <tag k="au.gov.abs:STATE_2006" v="1"/>
+    <tag k="is_in" v="New South Wales, Australia"/>
+    <tag k="name" v="Marrickville"/>
+    <tag k="source" v="ABS_2006"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="83753" version="2" timestamp="2009-02-24T10:51:12Z" uid="7617" user="Franc" changeset="653761"/>
+  <relation id="83769" version="2" timestamp="2009-08-29T03:09:09Z" uid="20587" user="balrog-kun" changeset="2296863"/>
+</osm>

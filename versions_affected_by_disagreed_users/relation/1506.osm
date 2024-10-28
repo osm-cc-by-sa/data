@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1506361" version="1" timestamp="2011-03-26T07:37:00Z" uid="7617" user="Franc" changeset="7672617">
+    <member type="way" ref="27380140" role="from"/>
+    <member type="way" ref="47129744" role="to"/>
+    <member type="node" ref="29388349" role="via"/>
+    <tag k="restriction" v="only_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1506362" version="1" timestamp="2011-03-26T07:37:00Z" uid="7617" user="Franc" changeset="7672617">
+    <member type="way" ref="105828363" role="from"/>
+    <member type="way" ref="105828356" role="to"/>
+    <member type="node" ref="1218606858" role="via"/>
+    <tag k="restriction" v="only_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1506363" version="1" timestamp="2011-03-26T07:37:00Z" uid="7617" user="Franc" changeset="7672617">
+    <member type="way" ref="23413377" role="from"/>
+    <member type="way" ref="105828363" role="to"/>
+    <member type="node" ref="253491310" role="via"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+</osm>

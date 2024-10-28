@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="41970098" version="2" timestamp="2010-07-09T18:01:26Z" uid="74617" user="JohnSmith" changeset="5175636">
+    <nd ref="280165041"/>
+    <nd ref="520155535"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Thira Way"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="41970099" version="2" timestamp="2010-07-09T17:55:24Z" uid="74617" user="JohnSmith" changeset="5175636">
+    <nd ref="520155537"/>
+    <nd ref="280165041"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Thira Way"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="41970100" version="2" timestamp="2010-07-09T18:02:47Z" uid="74617" user="JohnSmith" changeset="5175636">
+    <nd ref="280165041"/>
+    <nd ref="520155540"/>
+    <nd ref="520155542"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Kos Link"/>
+  </way>
+  <way id="41970101" version="2" timestamp="2010-07-09T17:57:16Z" uid="74617" user="JohnSmith" changeset="5175636">
+    <nd ref="520155542"/>
+    <nd ref="280165251"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Kos Link"/>
+  </way>
+  <way id="41970102" version="2" timestamp="2010-07-09T17:54:08Z" uid="74617" user="JohnSmith" changeset="5175636">
+    <nd ref="520155542"/>
+    <nd ref="520155546"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Kos Link"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="41970103" version="2" timestamp="2010-07-09T17:58:51Z" uid="74617" user="JohnSmith" changeset="5175636">
+    <nd ref="520155549"/>
+    <nd ref="280165211"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Tahiti Lane"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="41970572" version="4" timestamp="2010-06-29T19:09:39Z" uid="74617" user="JohnSmith" changeset="5108182">
+    <nd ref="520163751"/>
+    <nd ref="520163754"/>
+    <nd ref="520163761"/>
+    <nd ref="520163766"/>
+    <nd ref="520163751"/>
+    <tag k="fixme" v="sport=football is ambiguous, see http://wiki.osm.org/wiki/Football for more details"/>
+    <tag k="landuse" v="brownfield"/>
+    <tag k="leisure" v="stadium"/>
+    <tag k="name" v="Club Social y Deportivo El Timbó"/>
+    <tag k="sport" v="football"/>
+  </way>
+</osm>

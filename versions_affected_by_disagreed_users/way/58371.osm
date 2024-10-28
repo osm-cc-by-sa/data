@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="58371111" version="1" timestamp="2010-05-06T07:38:26Z" uid="115477" user="wowik" changeset="4619221">
+    <nd ref="449774628"/>
+    <nd ref="723955923"/>
+    <nd ref="723955931"/>
+    <nd ref="723955885"/>
+    <tag k="highway" v="service"/>
+    <tag k="living_street" v="yes"/>
+    <tag k="service" v="parking_aisle"/>
+  </way>
+  <way id="58371132" version="1" timestamp="2010-05-06T07:39:52Z" uid="74617" user="JohnSmith" changeset="4618925">
+    <nd ref="723957353"/>
+    <nd ref="723957357"/>
+    <nd ref="723957347"/>
+    <nd ref="723957358"/>
+    <nd ref="723957348"/>
+    <nd ref="723957351"/>
+    <nd ref="723957356"/>
+    <nd ref="723957352"/>
+    <nd ref="723957360"/>
+    <nd ref="723957350"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="58371162" version="1" timestamp="2010-05-06T07:41:17Z" uid="74617" user="JohnSmith" changeset="4618925">
+    <nd ref="723958923"/>
+    <nd ref="723958928"/>
+    <nd ref="723958861"/>
+    <nd ref="723958857"/>
+    <nd ref="723958921"/>
+    <nd ref="723958924"/>
+    <nd ref="723958930"/>
+    <nd ref="723958926"/>
+    <nd ref="723958931"/>
+    <nd ref="723958863"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="58371163" version="1" timestamp="2010-05-06T07:41:18Z" uid="74617" user="JohnSmith" changeset="4618925">
+    <nd ref="723958857"/>
+    <nd ref="723958927"/>
+    <nd ref="723958859"/>
+    <nd ref="723958922"/>
+    <nd ref="723958860"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="58371541" version="3" timestamp="2010-07-09T06:36:50Z" uid="74617" user="JohnSmith" changeset="5171134">
+    <nd ref="370226600"/>
+    <nd ref="735138991"/>
+    <nd ref="370226604"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Samary Street"/>
+  </way>
+  <way id="58371542" version="3" timestamp="2010-07-09T06:39:12Z" uid="74617" user="JohnSmith" changeset="5171134">
+    <nd ref="370226604"/>
+    <nd ref="735139177"/>
+    <nd ref="735139175"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Bridges Street"/>
+  </way>
+  <way id="58371544" version="1" timestamp="2010-05-06T07:44:53Z" uid="115477" user="wowik" changeset="4619221">
+    <nd ref="723963461"/>
+    <nd ref="723963452"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="footway"/>
+    <tag k="surface" v="paved"/>
+  </way>
+</osm>

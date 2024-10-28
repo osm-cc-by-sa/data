@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="10960329" version="13" timestamp="2010-02-14T17:09:44Z" uid="74617" user="JohnSmith" changeset="3875836">
+    <nd ref="74808029"/>
+    <nd ref="74846330"/>
+    <nd ref="74846331"/>
+    <nd ref="305109653"/>
+    <nd ref="74846335"/>
+    <nd ref="184035399"/>
+    <nd ref="74846336"/>
+    <nd ref="74846337"/>
+    <nd ref="74846338"/>
+    <nd ref="74846339"/>
+    <nd ref="331389455"/>
+    <tag k="cycleway" v="lane"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Stanley Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="rcn" v="yes"/>
+  </way>
+  <way id="10960332" version="2" timestamp="2010-03-21T02:06:31Z" uid="9719" user="dvaey" changeset="4186842">
+    <nd ref="26344560"/>
+    <nd ref="97700729"/>
+    <nd ref="671062808"/>
+    <nd ref="671062809"/>
+    <nd ref="671062810"/>
+    <nd ref="97700759"/>
+    <nd ref="97700781"/>
+    <nd ref="97700797"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="Port of Brisbane Motorway"/>
+  </way>
+  <way id="10960336" version="3" timestamp="2010-05-16T02:08:48Z" uid="74617" user="JohnSmith" changeset="4711890">
+    <nd ref="97700797"/>
+    <nd ref="97700837"/>
+    <nd ref="735989107"/>
+    <nd ref="97700864"/>
+    <nd ref="735989108"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Port of Brisbane Motorway"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="10960337" version="6" timestamp="2010-05-16T01:01:32Z" uid="74617" user="JohnSmith" changeset="4711748">
+    <nd ref="97700864"/>
+    <nd ref="97700888"/>
+    <nd ref="735981960"/>
+    <nd ref="97700912"/>
+    <nd ref="97700957"/>
+    <nd ref="97700978"/>
+    <nd ref="97701004"/>
+    <nd ref="98823648"/>
+    <nd ref="98823668"/>
+    <nd ref="98823677"/>
+    <nd ref="98823688"/>
+    <nd ref="98823708"/>
+    <nd ref="98823724"/>
+    <nd ref="98823742"/>
+    <nd ref="98823755"/>
+    <nd ref="98823770"/>
+    <nd ref="98823924"/>
+    <nd ref="98823934"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="Port of Brisbane Motorway"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="10960337" version="7" timestamp="2010-05-16T02:08:50Z" uid="74617" user="JohnSmith" changeset="4711890"/>
+  <way id="10960341" version="3" timestamp="2010-03-21T02:06:36Z" uid="9719" user="dvaey" changeset="4186842">
+    <nd ref="97701210"/>
+    <nd ref="671062860"/>
+    <nd ref="97701246"/>
+    <nd ref="671062861"/>
+    <nd ref="671062863"/>
+    <nd ref="97701282"/>
+    <nd ref="97701321"/>
+    <nd ref="97701342"/>
+    <nd ref="671062864"/>
+    <nd ref="671062865"/>
+    <nd ref="86617192"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="Port of Brisbane Motorway"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="10960343" version="3" timestamp="2010-03-21T02:06:30Z" uid="9719" user="dvaey" changeset="4186842">
+    <nd ref="97701125"/>
+    <nd ref="671062802"/>
+    <nd ref="671062803"/>
+    <nd ref="97701155"/>
+    <nd ref="671062804"/>
+    <nd ref="671062805"/>
+    <nd ref="97701190"/>
+    <nd ref="671062806"/>
+    <nd ref="97701210"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="layer" v="2"/>
+    <tag k="name" v="Port of Brisbane Motorway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="10960407" version="2" timestamp="2009-12-19T11:07:07Z" uid="30201" user="rrankin" changeset="3406016">
+    <nd ref="29417167"/>
+    <nd ref="29417208"/>
+    <nd ref="29417209"/>
+    <nd ref="29417207"/>
+    <nd ref="29417198"/>
+    <nd ref="29417199"/>
+    <nd ref="29417200"/>
+    <nd ref="29417201"/>
+    <nd ref="29417202"/>
+    <nd ref="29417166"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Narani Cresent"/>
+    <tag k="source" v="yahoo_imagery"/>
+    <tag k="source:name" v="historical"/>
+  </way>
+  <way id="10960407" version="3" timestamp="2010-07-08T01:17:03Z" uid="74617" user="JohnSmith" changeset="5162525">
+    <nd ref="29417167"/>
+    <nd ref="29417208"/>
+    <nd ref="29417209"/>
+    <nd ref="29417207"/>
+    <nd ref="29417198"/>
+    <nd ref="29417199"/>
+    <nd ref="29417200"/>
+    <nd ref="29417201"/>
+    <nd ref="29417202"/>
+    <nd ref="29417166"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Narani Cresent"/>
+    <tag k="source" v="yahoo_imagery"/>
+    <tag k="source:name" v="historical"/>
+  </way>
+  <way id="10960416" version="2" timestamp="2009-12-18T07:28:51Z" uid="30201" user="rrankin" changeset="3398669">
+    <nd ref="29417166"/>
+    <nd ref="29417189"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Malacoota Road"/>
+    <tag k="source" v="yahoo_imagery"/>
+    <tag k="source:name" v="historical"/>
+  </way>
+  <way id="10960416" version="3" timestamp="2010-07-08T01:16:59Z" uid="74617" user="JohnSmith" changeset="5162525">
+    <nd ref="29417166"/>
+    <nd ref="29417189"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Malacoota Road"/>
+    <tag k="source" v="yahoo_imagery"/>
+    <tag k="source:name" v="historical"/>
+  </way>
+</osm>

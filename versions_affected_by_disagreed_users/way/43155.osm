@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="43155642" version="1" timestamp="2009-10-26T09:21:03Z" uid="99207" user="Lar Kiesel" changeset="2954391">
+    <nd ref="429392956"/>
+    <nd ref="429392957"/>
+    <nd ref="429392949"/>
+    <tag k="highway" v="road"/>
+  </way>
+  <way id="43155642" version="2" timestamp="2010-04-17T06:40:20Z" uid="99207" user="Lar Kiesel" changeset="4444804">
+    <nd ref="429392956"/>
+    <nd ref="429392957"/>
+    <nd ref="429392949"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="43155846" version="1" timestamp="2009-10-26T09:30:33Z" uid="99207" user="Lar Kiesel" changeset="2954462">
+    <nd ref="540613224"/>
+    <nd ref="540613268"/>
+    <nd ref="540613271"/>
+    <nd ref="113525867"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="43155870" version="2" timestamp="2010-04-17T06:55:03Z" uid="30201" user="rrankin" changeset="4444865">
+    <nd ref="540613925"/>
+    <nd ref="540613935"/>
+    <nd ref="540613934"/>
+    <nd ref="540613933"/>
+    <nd ref="540613936"/>
+    <nd ref="540613932"/>
+    <nd ref="540613931"/>
+    <nd ref="540613930"/>
+    <nd ref="540613929"/>
+    <nd ref="540613928"/>
+    <nd ref="540613927"/>
+    <nd ref="540613925"/>
+    <tag k="layer" v="-2"/>
+    <tag k="natural" v="water"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="43155875" version="2" timestamp="2010-07-07T20:06:22Z" uid="74617" user="JohnSmith" changeset="5161069">
+    <nd ref="540613966"/>
+    <nd ref="540613965"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Camden Acres Drive"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="43155876" version="2" timestamp="2010-07-07T20:15:14Z" uid="74617" user="JohnSmith" changeset="5161069">
+    <nd ref="540613965"/>
+    <nd ref="366500234"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Camden Acres Drive"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="43155913" version="1" timestamp="2009-10-26T09:35:41Z" uid="8807" user="brendanpuck" changeset="2954499">
+    <nd ref="540614694"/>
+    <nd ref="540614695"/>
+    <nd ref="540614696"/>
+    <nd ref="540614698"/>
+    <nd ref="540614694"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="43155914" version="1" timestamp="2009-10-26T09:35:42Z" uid="8807" user="brendanpuck" changeset="2954499">
+    <nd ref="540614699"/>
+    <nd ref="540614701"/>
+    <nd ref="540614703"/>
+    <nd ref="540614705"/>
+    <nd ref="540614699"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Dairy"/>
+  </way>
+</osm>

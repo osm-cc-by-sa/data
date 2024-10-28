@@ -1,0 +1,301 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="391124" version="1" timestamp="2010-01-21T17:05:51Z" uid="20587" user="balrog-kun" changeset="3676232">
+    <member type="way" ref="20020672" role="to"/>
+    <member type="way" ref="25621144" role="from"/>
+    <member type="node" ref="246802964" role="via"/>
+    <tag k="name" v="Zakaz skrętu w lewo"/>
+    <tag k="restriction" v="no_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="391125" version="1" timestamp="2010-01-21T17:05:51Z" uid="20587" user="balrog-kun" changeset="3676232">
+    <member type="way" ref="4968925" role="from"/>
+    <member type="way" ref="4945814" role="to"/>
+    <member type="node" ref="32596163" role="via"/>
+    <tag k="except" v="psv"/>
+    <tag k="name" v="Zakaz skrętu w lewo"/>
+    <tag k="restriction" v="no_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="391185" version="7" timestamp="2010-06-07T21:06:18Z" uid="43863" user="Rundling" changeset="4932588">
+    <member type="way" ref="26724137" role=""/>
+    <member type="way" ref="26720649" role=""/>
+    <member type="way" ref="26724135" role=""/>
+    <member type="way" ref="41137685" role=""/>
+    <member type="way" ref="41137681" role=""/>
+    <member type="way" ref="41137684" role=""/>
+    <member type="way" ref="43026663" role=""/>
+    <member type="way" ref="43026662" role=""/>
+    <member type="way" ref="31465061" role=""/>
+    <member type="way" ref="28093745" role=""/>
+    <member type="way" ref="61425781" role=""/>
+    <member type="way" ref="61425780" role=""/>
+    <member type="way" ref="48652041" role=""/>
+    <member type="way" ref="48652090" role=""/>
+    <tag k="destination" v="Ilmenau"/>
+    <tag k="name" v="Stederau"/>
+    <tag k="ref:fgkz" v="5521"/>
+    <tag k="type" v="waterway"/>
+    <tag k="waterway" v="river"/>
+    <tag k="wikipedia:de" v="http://de.wikipedia.org/wiki/Stederau"/>
+  </relation>
+  <relation id="391259" version="1" timestamp="2010-01-21T21:12:52Z" uid="23543" user="jkjk" changeset="3678327">
+    <member type="way" ref="48656462" role=""/>
+    <member type="way" ref="48656453" role=""/>
+    <member type="way" ref="48656461" role=""/>
+    <member type="way" ref="48656451" role=""/>
+    <member type="way" ref="48656456" role=""/>
+    <member type="way" ref="48656454" role=""/>
+    <member type="way" ref="48656455" role=""/>
+    <member type="way" ref="48656465" role=""/>
+    <tag k="complete" v="no"/>
+    <tag k="destinations" v="Roztoky - Křivoklát"/>
+    <tag k="kct_yellow" v="major"/>
+    <tag k="operator" v="cz:KČT"/>
+    <tag k="osmc:symbol" v="red:white:yellow_bar"/>
+    <tag k="ref" v="6053"/>
+    <tag k="route" v="foot"/>
+    <tag k="source" v="survey"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="391260" version="1" timestamp="2010-01-21T21:12:52Z" uid="23543" user="jkjk" changeset="3678327">
+    <member type="way" ref="48656468" role=""/>
+    <member type="way" ref="48656458" role=""/>
+    <member type="way" ref="30876249" role=""/>
+    <member type="way" ref="30876250" role=""/>
+    <tag k="complete" v="no"/>
+    <tag k="kct_red" v="major"/>
+    <tag k="operator" v="cz:KČT"/>
+    <tag k="osmc:symbol" v="red:white:red_bar"/>
+    <tag k="ref" v="0039"/>
+    <tag k="route" v="foot"/>
+    <tag k="source" v="survey"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="391322" version="5" timestamp="2010-09-11T17:18:28Z" uid="6269" user="Mueck" changeset="5751670">
+    <member type="node" ref="456800" role="start"/>
+    <member type="way" ref="4993806" role="forward"/>
+    <member type="way" ref="43995212" role="forward"/>
+    <member type="way" ref="48659446" role="forward"/>
+    <member type="way" ref="4783054" role="forward"/>
+    <member type="way" ref="4404363" role="forward"/>
+    <member type="way" ref="64888285" role="forward"/>
+    <member type="way" ref="29017638" role="forward"/>
+    <member type="way" ref="25930027" role="forward"/>
+    <member type="way" ref="25930028" role="forward"/>
+    <member type="way" ref="4604752" role="forward"/>
+    <member type="way" ref="45270133" role="forward"/>
+    <member type="way" ref="45674089" role="backward"/>
+    <member type="way" ref="23005849" role="backward"/>
+    <member type="way" ref="37721414" role="backward"/>
+    <member type="way" ref="37721413" role="backward"/>
+    <member type="way" ref="37721415" role="backward"/>
+    <member type="way" ref="36293755" role="backward"/>
+    <member type="way" ref="4428956" role="backward"/>
+    <member type="way" ref="61242755" role="backward"/>
+    <member type="way" ref="4318154" role="backward"/>
+    <member type="way" ref="4318156" role="forward"/>
+    <member type="way" ref="4318157" role="forward"/>
+    <member type="way" ref="4318155" role="forward"/>
+    <member type="way" ref="61242748" role="forward"/>
+    <member type="way" ref="4428904" role="forward"/>
+    <member type="way" ref="27600897" role="forward"/>
+    <member type="way" ref="4210167" role="forward"/>
+    <member type="way" ref="4770517" role="forward"/>
+    <member type="node" ref="30482993" role="end"/>
+    <member type="way" ref="77032745" role="forward"/>
+    <tag k="detour" v="A 5"/>
+    <tag k="ref" v="U 35"/>
+    <tag k="route" v="detour"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="391322" version="6" timestamp="2010-09-11T17:18:50Z" uid="6269" user="Mueck" changeset="5751670">
+    <member type="node" ref="456800" role="start"/>
+    <member type="way" ref="4993806" role="forward"/>
+    <member type="way" ref="43995212" role="forward"/>
+    <member type="way" ref="48659446" role="forward"/>
+    <member type="way" ref="4783054" role="forward"/>
+    <member type="way" ref="4404363" role="forward"/>
+    <member type="way" ref="64888285" role="forward"/>
+    <member type="way" ref="29017638" role="forward"/>
+    <member type="way" ref="25930027" role="forward"/>
+    <member type="way" ref="25930028" role="forward"/>
+    <member type="way" ref="4604752" role="forward"/>
+    <member type="way" ref="45270133" role="forward"/>
+    <member type="way" ref="45674089" role="backward"/>
+    <member type="way" ref="23005849" role="backward"/>
+    <member type="way" ref="37721414" role="backward"/>
+    <member type="way" ref="37721413" role="backward"/>
+    <member type="way" ref="37721415" role="backward"/>
+    <member type="way" ref="36293755" role="backward"/>
+    <member type="way" ref="4428956" role="backward"/>
+    <member type="way" ref="61242755" role="backward"/>
+    <member type="way" ref="4318154" role="backward"/>
+    <member type="way" ref="4318156" role="forward"/>
+    <member type="way" ref="4318157" role="forward"/>
+    <member type="way" ref="4318155" role="forward"/>
+    <member type="way" ref="61242748" role="forward"/>
+    <member type="way" ref="4428904" role="forward"/>
+    <member type="way" ref="27600897" role="forward"/>
+    <member type="way" ref="4210167" role="forward"/>
+    <member type="way" ref="4770517" role="forward"/>
+    <member type="node" ref="30482993" role="end"/>
+    <member type="way" ref="77032745" role="forward"/>
+    <member type="way" ref="77032768" role="forward"/>
+    <tag k="detour" v="A 5"/>
+    <tag k="ref" v="U 35"/>
+    <tag k="route" v="detour"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="391322" version="10" timestamp="2011-03-23T19:30:35Z" uid="6269" user="Mueck" changeset="7649358">
+    <member type="node" ref="456800" role="start"/>
+    <member type="way" ref="4993806" role="forward"/>
+    <member type="way" ref="43995212" role="forward"/>
+    <member type="way" ref="48659446" role="forward"/>
+    <member type="way" ref="4783054" role="forward"/>
+    <member type="way" ref="4404363" role="forward"/>
+    <member type="way" ref="64888285" role="forward"/>
+    <member type="way" ref="93571561" role="forward"/>
+    <member type="way" ref="29017638" role="forward"/>
+    <member type="way" ref="93571558" role="forward"/>
+    <member type="way" ref="25930027" role="forward"/>
+    <member type="way" ref="25930028" role="forward"/>
+    <member type="way" ref="100603096" role="forward"/>
+    <member type="way" ref="4604752" role="forward"/>
+    <member type="way" ref="45270133" role="forward"/>
+    <member type="way" ref="93571555" role="backward"/>
+    <member type="way" ref="45674089" role="backward"/>
+    <member type="way" ref="23005849" role="backward"/>
+    <member type="way" ref="37721414" role="backward"/>
+    <member type="way" ref="37721413" role="backward"/>
+    <member type="way" ref="37721415" role="backward"/>
+    <member type="way" ref="36293755" role="backward"/>
+    <member type="way" ref="4428956" role="backward"/>
+    <member type="way" ref="61242755" role="backward"/>
+    <member type="way" ref="4318154" role="backward"/>
+    <member type="way" ref="4318156" role="forward"/>
+    <member type="way" ref="4318157" role="forward"/>
+    <member type="way" ref="4318155" role="forward"/>
+    <member type="way" ref="61242748" role="forward"/>
+    <member type="way" ref="4428904" role="forward"/>
+    <member type="way" ref="27600897" role="forward"/>
+    <member type="way" ref="105513539" role="forward"/>
+    <member type="way" ref="4210167" role="forward"/>
+    <member type="way" ref="4770517" role="forward"/>
+    <member type="node" ref="30482993" role="end"/>
+    <member type="way" ref="77032745" role="forward"/>
+    <tag k="detour" v="A 5"/>
+    <tag k="ref" v="U 35"/>
+    <tag k="route" v="detour"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="391593" version="1" timestamp="2010-01-22T11:06:15Z" uid="7617" user="Franc" changeset="3682083">
+    <member type="way" ref="5179513" role="from"/>
+    <member type="way" ref="48675768" role="to"/>
+    <member type="node" ref="251682723" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="391633" version="35" timestamp="2011-04-15T17:59:33Z" uid="33382" user="de_muur" changeset="7871974">
+    <member type="way" ref="44495001" role=""/>
+    <member type="way" ref="59043828" role=""/>
+    <member type="way" ref="59043827" role=""/>
+    <member type="way" ref="10816428" role=""/>
+    <member type="way" ref="10488389" role=""/>
+    <member type="way" ref="44491076" role=""/>
+    <member type="way" ref="45037605" role=""/>
+    <member type="way" ref="46874761" role=""/>
+    <member type="way" ref="52019411" role=""/>
+    <member type="way" ref="46874776" role=""/>
+    <member type="way" ref="10750873" role=""/>
+    <member type="way" ref="55953298" role=""/>
+    <member type="way" ref="100016316" role=""/>
+    <member type="way" ref="100016319" role=""/>
+    <member type="way" ref="10813448" role=""/>
+    <member type="way" ref="46874735" role=""/>
+    <member type="way" ref="8496520" role=""/>
+    <member type="way" ref="46874738" role=""/>
+    <member type="way" ref="37913565" role=""/>
+    <member type="way" ref="46874745" role=""/>
+    <member type="way" ref="46874728" role=""/>
+    <member type="way" ref="46874730" role=""/>
+    <member type="way" ref="47221451" role=""/>
+    <member type="way" ref="46874733" role=""/>
+    <member type="way" ref="41682352" role=""/>
+    <member type="way" ref="41682366" role=""/>
+    <member type="way" ref="28054856" role=""/>
+    <member type="way" ref="28054885" role=""/>
+    <member type="way" ref="28035769" role=""/>
+    <member type="way" ref="24686148" role=""/>
+    <member type="way" ref="46874725" role=""/>
+    <member type="way" ref="28054820" role=""/>
+    <member type="way" ref="46874726" role=""/>
+    <member type="way" ref="37914786" role=""/>
+    <member type="way" ref="37914821" role=""/>
+    <member type="way" ref="46874727" role=""/>
+    <member type="way" ref="37914180" role=""/>
+    <member type="way" ref="108637221" role=""/>
+    <member type="way" ref="4262044" role=""/>
+    <member type="way" ref="4550686" role=""/>
+    <member type="way" ref="4550685" role=""/>
+    <member type="way" ref="4439052" role=""/>
+    <member type="way" ref="37914527" role=""/>
+    <member type="way" ref="37914640" role=""/>
+    <member type="way" ref="46874724" role=""/>
+    <member type="way" ref="4262047" role=""/>
+    <member type="way" ref="32510992" role=""/>
+    <member type="way" ref="32511091" role=""/>
+    <member type="way" ref="75435886" role=""/>
+    <member type="way" ref="32511090" role=""/>
+    <member type="way" ref="32511092" role=""/>
+    <member type="way" ref="32511093" role=""/>
+    <member type="way" ref="32342723" role=""/>
+    <member type="way" ref="24740669" role=""/>
+    <member type="way" ref="37881598" role=""/>
+    <member type="way" ref="37881599" role=""/>
+    <member type="way" ref="37811657" role=""/>
+    <member type="way" ref="37905037" role=""/>
+    <member type="way" ref="37462467" role=""/>
+    <member type="way" ref="39268955" role=""/>
+    <member type="way" ref="37761781" role=""/>
+    <member type="way" ref="39268953" role=""/>
+    <member type="way" ref="39268954" role=""/>
+    <member type="way" ref="4826100" role=""/>
+    <member type="way" ref="43062834" role=""/>
+    <member type="way" ref="4826099" role=""/>
+    <member type="way" ref="43062831" role=""/>
+    <member type="way" ref="43062796" role=""/>
+    <member type="way" ref="59038932" role=""/>
+    <member type="way" ref="59038935" role=""/>
+    <member type="way" ref="97304223" role=""/>
+    <member type="way" ref="39888628" role=""/>
+    <member type="way" ref="10860722" role=""/>
+    <member type="way" ref="39888629" role=""/>
+    <member type="way" ref="4826101" role=""/>
+    <member type="way" ref="43062835" role=""/>
+    <member type="way" ref="48850044" role=""/>
+    <member type="way" ref="77466225" role=""/>
+    <member type="way" ref="77466223" role=""/>
+    <member type="way" ref="77466221" role=""/>
+    <member type="way" ref="86144724" role=""/>
+    <member type="way" ref="86866281" role=""/>
+    <member type="way" ref="86872125" role=""/>
+    <tag k="TMC:cid_58:tabcd_1:Class" v="Segment"/>
+    <tag k="TMC:cid_58:tabcd_1:LCLversion" v="8.00"/>
+    <tag k="TMC:cid_58:tabcd_1:LocationCode" v="8591"/>
+    <tag k="TMC:cid_58:tabcd_1:NextLocationCode" v="8592"/>
+    <tag k="note" v="B 208 Bad Oldesloe-Ratzeburg"/>
+    <tag k="type" v="tmc"/>
+  </relation>
+  <relation id="391698" version="2" timestamp="2010-01-23T00:28:08Z" uid="34428" user="usm78-gis" changeset="3688496">
+    <member type="way" ref="30199854" role="under"/>
+    <member type="way" ref="48681055" role="across"/>
+    <member type="way" ref="48720443" role="under"/>
+    <tag k="type" v="bridge"/>
+  </relation>
+  <relation id="391698" version="3" timestamp="2010-01-23T00:28:12Z" uid="34428" user="usm78-gis" changeset="3688496">
+    <member type="way" ref="48681055" role="across"/>
+    <member type="way" ref="48720443" role="under"/>
+    <tag k="type" v="bridge"/>
+  </relation>
+</osm>

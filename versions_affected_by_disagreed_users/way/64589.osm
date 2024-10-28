@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="64589191" version="2" timestamp="2010-10-17T19:32:29Z" uid="96874" user="Quedel" changeset="6070824">
+    <nd ref="793631267"/>
+    <nd ref="250163084"/>
+    <tag k="foot" v="designated"/>
+    <tag k="highway" v="path"/>
+    <tag k="surface" v="cobblestone"/>
+  </way>
+  <way id="64589192" version="2" timestamp="2010-10-17T19:32:31Z" uid="96874" user="Quedel" changeset="6070824">
+    <nd ref="793631260"/>
+    <nd ref="793631269"/>
+    <nd ref="793631252"/>
+    <nd ref="793631267"/>
+    <tag k="handrail:right" v="yes"/>
+    <tag k="highway" v="steps"/>
+    <tag k="incline" v="down"/>
+    <tag k="step.condition" v="uneven"/>
+    <tag k="step.height" v="normal"/>
+    <tag k="step.length" v="normal"/>
+    <tag k="surface" v="paved"/>
+    <tag k="surface.material" v="stone"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="width" v="1.5"/>
+  </way>
+</osm>

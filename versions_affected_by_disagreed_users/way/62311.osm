@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="62311201" version="1" timestamp="2010-06-20T18:15:00Z" uid="33382" user="de_muur" changeset="5035666">
+    <nd ref="290791196"/>
+    <nd ref="35146762"/>
+    <nd ref="290791210"/>
+    <nd ref="35146757"/>
+    <nd ref="290791223"/>
+    <nd ref="35146759"/>
+    <tag k="cycleway" v="track"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="ref" v="L 203"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="62311202" version="1" timestamp="2010-06-20T18:15:01Z" uid="33382" user="de_muur" changeset="5035666">
+    <nd ref="290791233"/>
+    <nd ref="290791237"/>
+    <nd ref="290791241"/>
+    <nd ref="290791245"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Rösener Straße"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="62311203" version="1" timestamp="2010-06-20T18:15:01Z" uid="33382" user="de_muur" changeset="5035666">
+    <nd ref="35146759"/>
+    <nd ref="778479640"/>
+    <nd ref="600343149"/>
+    <tag k="cycleway" v="track"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="ref" v="L 203"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="62311204" version="1" timestamp="2010-06-20T18:15:01Z" uid="33382" user="de_muur" changeset="5035666">
+    <nd ref="778479643"/>
+    <nd ref="297039366"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Holtchaussee"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="62311205" version="1" timestamp="2010-06-20T18:15:01Z" uid="33382" user="de_muur" changeset="5035666">
+    <nd ref="778479661"/>
+    <nd ref="97955454"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Schulstraße"/>
+  </way>
+  <way id="62311205" version="2" timestamp="2010-07-11T11:18:22Z" uid="33382" user="de_muur" changeset="5189277">
+    <nd ref="778479661"/>
+    <nd ref="97955454"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Schulstraße"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="62311206" version="1" timestamp="2010-06-20T18:15:01Z" uid="33382" user="de_muur" changeset="5035666">
+    <nd ref="307860540"/>
+    <nd ref="35146759"/>
+    <tag k="bicycle" v="designated"/>
+    <tag k="foot" v="designated"/>
+    <tag k="highway" v="path"/>
+    <tag k="name" v="Alte Dorfstraße"/>
+    <tag k="surface" v="paved"/>
+  </way>
+</osm>

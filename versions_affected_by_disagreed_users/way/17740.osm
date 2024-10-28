@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="17740340" version="5" timestamp="2010-02-14T17:08:29Z" uid="74617" user="JohnSmith" changeset="3875836">
+    <nd ref="87709599"/>
+    <nd ref="183860752"/>
+    <nd ref="87709600"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="West Street"/>
+  </way>
+  <way id="17740567" version="7" timestamp="2010-02-14T17:08:34Z" uid="74617" user="JohnSmith" changeset="3875836">
+    <nd ref="76474398"/>
+    <nd ref="529412091"/>
+    <nd ref="183868223"/>
+    <nd ref="183868224"/>
+    <nd ref="183868929"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Gloucester Street"/>
+  </way>
+  <way id="17740771" version="3" timestamp="2010-02-14T17:08:31Z" uid="74617" user="JohnSmith" changeset="3875836">
+    <nd ref="183864423"/>
+    <nd ref="183864424"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="steps"/>
+    <tag k="layer" v="1"/>
+  </way>
+</osm>

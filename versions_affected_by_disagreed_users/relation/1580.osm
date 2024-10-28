@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1580273" version="1" timestamp="2011-05-10T18:09:57Z" uid="33382" user="de_muur" changeset="8104883">
+    <member type="node" ref="1278556677" role=""/>
+    <member type="way" ref="112507300" role=""/>
+    <member type="way" ref="112507305" role=""/>
+    <member type="way" ref="66679241" role=""/>
+    <member type="way" ref="34412983" role=""/>
+    <member type="way" ref="112600667" role=""/>
+    <member type="node" ref="1279458816" role=""/>
+    <tag k="name" v="Gnarrenburg - Rhadereistedt"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Rotenburg (Wümme)"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1580295" version="1" timestamp="2011-05-10T18:29:53Z" uid="9581" user="Lobelt" changeset="8105081">
+    <member type="way" ref="23554525" role="outer"/>
+    <member type="way" ref="112602424" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1580296" version="1" timestamp="2011-05-10T18:29:53Z" uid="9581" user="Lobelt" changeset="8105081">
+    <member type="way" ref="23554481" role="outer"/>
+    <member type="way" ref="112602428" role="inner"/>
+    <member type="way" ref="112602427" role="inner"/>
+    <member type="way" ref="112602421" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1580340" version="1" timestamp="2011-05-10T19:12:29Z" uid="33382" user="de_muur" changeset="8105535">
+    <member type="node" ref="1279458816" role=""/>
+    <member type="way" ref="34831305" role=""/>
+    <member type="node" ref="1279540233" role=""/>
+    <tag k="name" v="Gnarrenburg - Rockstedt"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Rotenburg (Wümme)"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1580448" version="1" timestamp="2011-05-10T21:00:49Z" uid="66036" user="h4v" changeset="8106771">
+    <member type="way" ref="53357007" role="from"/>
+    <member type="node" ref="283376890" role="via"/>
+    <member type="way" ref="109267655" role="to"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+</osm>

@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="35328506" version="5" timestamp="2009-11-24T21:31:23Z" uid="9581" user="Lobelt" changeset="3207955">
+    <nd ref="391485571"/>
+    <nd ref="425028959"/>
+    <nd ref="425028914"/>
+    <nd ref="391485574"/>
+    <nd ref="391485577"/>
+    <nd ref="391485580"/>
+    <nd ref="391485584"/>
+    <nd ref="393862416"/>
+    <nd ref="420131545"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Fischbacher Straße"/>
+  </way>
+  <way id="35328750" version="2" timestamp="2010-08-04T17:37:01Z" uid="9581" user="Lobelt" changeset="5401263">
+    <nd ref="414094902"/>
+    <nd ref="414094894"/>
+    <tag k="cables" v="6"/>
+    <tag k="name" v="110 kV Mevissen Ost;Neukirchen Ost"/>
+    <tag k="operator" v="RWE"/>
+    <tag k="power" v="line"/>
+    <tag k="ref" v="0055"/>
+    <tag k="voltage" v="110000"/>
+    <tag k="wires" v="single"/>
+  </way>
+  <way id="35328752" version="2" timestamp="2010-08-04T17:40:01Z" uid="9581" user="Lobelt" changeset="5401263">
+    <nd ref="414094918"/>
+    <nd ref="414094920"/>
+    <nd ref="414094894"/>
+    <tag k="cables" v="3"/>
+    <tag k="name" v="110 kV Mevissen Ost"/>
+    <tag k="operator" v="RWE"/>
+    <tag k="power" v="line"/>
+    <tag k="ref" v="0055"/>
+    <tag k="voltage" v="110000"/>
+    <tag k="wires" v="single"/>
+  </way>
+  <way id="35328753" version="2" timestamp="2010-08-04T17:37:44Z" uid="9581" user="Lobelt" changeset="5401263">
+    <nd ref="414094894"/>
+    <nd ref="414094924"/>
+    <nd ref="414094897"/>
+    <tag k="cables" v="3"/>
+    <tag k="name" v="110 kV Neukirchen Ost"/>
+    <tag k="operator" v="RWE"/>
+    <tag k="power" v="line"/>
+    <tag k="ref" v="0055"/>
+    <tag k="voltage" v="110000"/>
+    <tag k="wires" v="single"/>
+  </way>
+  <way id="35328754" version="2" timestamp="2010-08-04T17:44:21Z" uid="9581" user="Lobelt" changeset="5401263">
+    <nd ref="414094900"/>
+    <nd ref="414094924"/>
+    <nd ref="414094922"/>
+    <tag k="cables" v="6"/>
+    <tag k="name" v="110 kV Neukirchen Ost|West"/>
+    <tag k="operator" v="RWE"/>
+    <tag k="power" v="line"/>
+    <tag k="ref" v="2303"/>
+    <tag k="voltage" v="110000"/>
+    <tag k="wires" v="single"/>
+  </way>
+  <way id="35328755" version="3" timestamp="2010-08-04T17:42:10Z" uid="9581" user="Lobelt" changeset="5401263">
+    <nd ref="414094922"/>
+    <nd ref="414094920"/>
+    <nd ref="414094891"/>
+    <tag k="cables" v="6"/>
+    <tag k="name" v="110 kV Mevissen Ost;Neukirchen West"/>
+    <tag k="note" v="Stromkreis &apos;Mevissen Ost&apos; ca. 10 Meter als double, dann je ein Isolator in den drei Leitern und dann weiter als single mit Stromkreis &apos;Neukirchen Ost&apos;. Die beiden Masten haben einen gemeinsamen Querträger und stehen genau unter der Leitung."/>
+    <tag k="operator" v="RWE"/>
+    <tag k="power" v="line"/>
+    <tag k="ref" v="2303"/>
+    <tag k="voltage" v="110000"/>
+    <tag k="wires" v="double;single"/>
+  </way>
+</osm>

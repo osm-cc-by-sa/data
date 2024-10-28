@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1550005" version="1" timestamp="2011-04-19T20:44:39Z" uid="9581" user="Lobelt" changeset="7910881">
+    <member type="way" ref="23936717" role="outer"/>
+    <member type="way" ref="109310416" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1550121" version="1" timestamp="2011-04-19T21:45:38Z" uid="66036" user="h4v" changeset="7911423">
+    <member type="way" ref="41362544" role="street"/>
+    <member type="way" ref="109320073" role="house"/>
+    <member type="node" ref="1251810716" role="house"/>
+    <member type="node" ref="1251810664" role="house"/>
+    <member type="node" ref="1251810687" role="house"/>
+    <tag k="name" v="Rekreacyjna"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1550122" version="1" timestamp="2011-04-19T21:45:39Z" uid="66036" user="h4v" changeset="7911423">
+    <member type="way" ref="26438482" role="street"/>
+    <member type="way" ref="109320077" role="house"/>
+    <member type="node" ref="1251810671" role="house"/>
+    <member type="node" ref="1251810666" role="house"/>
+    <tag k="name" v="Domarasiewicza"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1550123" version="1" timestamp="2011-04-19T21:45:39Z" uid="66036" user="h4v" changeset="7911423">
+    <member type="way" ref="26950682" role="street"/>
+    <member type="way" ref="109320081" role="house"/>
+    <member type="node" ref="1251810667" role="house"/>
+    <member type="node" ref="1251810674" role="house"/>
+    <member type="way" ref="109320084" role="house"/>
+    <member type="node" ref="1251810699" role="house"/>
+    <member type="node" ref="1251810712" role="house"/>
+    <tag k="name" v="Przemysłowa"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1550124" version="1" timestamp="2011-04-19T21:45:39Z" uid="66036" user="h4v" changeset="7911423">
+    <member type="way" ref="41422651" role="street"/>
+    <member type="way" ref="109320082" role="house"/>
+    <member type="node" ref="1251810706" role="house"/>
+    <member type="node" ref="1251810656" role="house"/>
+    <tag k="name" v="Warszawska"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1550125" version="1" timestamp="2011-04-19T21:45:39Z" uid="66036" user="h4v" changeset="7911423">
+    <member type="way" ref="26962974" role="street"/>
+    <member type="way" ref="109320074" role="house"/>
+    <member type="node" ref="1251810677" role="house"/>
+    <member type="node" ref="1251810684" role="house"/>
+    <member type="way" ref="109320078" role="house"/>
+    <member type="node" ref="1251810709" role="house"/>
+    <member type="node" ref="1251810701" role="house"/>
+    <tag k="name" v="Kolejowa"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1550126" version="1" timestamp="2011-04-19T21:45:39Z" uid="66036" user="h4v" changeset="7911423">
+    <member type="way" ref="26950707" role="street"/>
+    <member type="way" ref="109320086" role="house"/>
+    <member type="node" ref="1251810705" role="house"/>
+    <member type="node" ref="1251810698" role="house"/>
+    <tag k="name" v="Warszawska"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+</osm>

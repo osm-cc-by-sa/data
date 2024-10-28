@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1545252" version="1" timestamp="2011-04-17T10:58:25Z" uid="7617" user="Franc" changeset="7885236">
+    <member type="way" ref="108869489" role="from"/>
+    <member type="way" ref="108869555" role="to"/>
+    <member type="node" ref="1248143947" role="via"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1545253" version="1" timestamp="2011-04-17T10:58:26Z" uid="7617" user="Franc" changeset="7885236">
+    <member type="way" ref="108869506" role="from"/>
+    <member type="way" ref="31976974" role="to"/>
+    <member type="node" ref="1248143968" role="via"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1545555" version="1" timestamp="2011-04-17T11:37:39Z" uid="66036" user="h4v" changeset="7885583">
+    <member type="way" ref="4988120" role="street"/>
+    <member type="way" ref="108880426" role="house"/>
+    <member type="node" ref="1248188524" role="house"/>
+    <member type="node" ref="1248188469" role="house"/>
+    <tag k="name" v="Henryka Sienkiewicza"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1545555" version="2" timestamp="2011-06-14T08:19:25Z" uid="66036" user="h4v" changeset="8434685">
+    <member type="way" ref="4988120" role="street"/>
+    <member type="way" ref="108880426" role="house"/>
+    <member type="node" ref="1248188524" role="house"/>
+    <member type="node" ref="1248188469" role="house"/>
+    <member type="way" ref="117611973" role="house"/>
+    <member type="way" ref="48988663" role="house"/>
+    <tag k="name" v="Henryka Sienkiewicza"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1545556" version="1" timestamp="2011-04-17T11:37:39Z" uid="66036" user="h4v" changeset="7885583">
+    <member type="way" ref="108880414" role="outer"/>
+    <member type="way" ref="108880424" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1545557" version="1" timestamp="2011-04-17T11:37:39Z" uid="66036" user="h4v" changeset="7885583">
+    <member type="way" ref="26258416" role="street"/>
+    <member type="way" ref="108880396" role="house"/>
+    <member type="node" ref="1248188545" role="house"/>
+    <member type="node" ref="1248188412" role="house"/>
+    <tag k="name" v="Rzgowska"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1545748" version="2" timestamp="2011-05-01T16:48:31Z" uid="9581" user="Lobelt" changeset="8023121"/>
+  <relation id="1545795" version="1" timestamp="2011-04-17T13:20:04Z" uid="33382" user="de_muur" changeset="7886593">
+    <member type="node" ref="1247377497" role=""/>
+    <member type="way" ref="22959870" role=""/>
+    <member type="way" ref="108799876" role=""/>
+    <member type="way" ref="28061839" role=""/>
+    <tag k="name" v="(Armsen) - Wittlohe"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1545796" version="1" timestamp="2011-04-17T13:20:04Z" uid="33382" user="de_muur" changeset="7886593">
+    <member type="node" ref="1248395409" role=""/>
+    <member type="way" ref="108898609" role=""/>
+    <tag k="name" v="Armsen - (Wittlohe)"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1545797" version="1" timestamp="2011-04-17T13:20:04Z" uid="33382" user="de_muur" changeset="7886593">
+    <member type="node" ref="1248395409" role=""/>
+    <member type="way" ref="108898607" role=""/>
+    <member type="node" ref="1248395406" role=""/>
+    <tag k="name" v="Otersen - Verdenermoor"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+</osm>

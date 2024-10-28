@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1236035" version="1" timestamp="2010-10-20T15:38:42Z" uid="115477" user="wowik" changeset="6115869">
+    <member type="way" ref="23380109" role="to"/>
+    <member type="node" ref="958288434" role="via"/>
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1236035" version="3" timestamp="2010-12-02T09:30:32Z" uid="115477" user="wowik" changeset="6512577">
+    <member type="node" ref="958288434" role="via"/>
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1236035" version="4" timestamp="2010-12-02T09:32:51Z" uid="115477" user="wowik" changeset="6512599">
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1236041" version="1" timestamp="2010-10-20T15:56:31Z" uid="115477" user="wowik" changeset="6116174">
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1236042" version="1" timestamp="2010-10-20T15:56:31Z" uid="115477" user="wowik" changeset="6116174">
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1236056" version="1" timestamp="2010-10-20T16:21:10Z" uid="115477" user="wowik" changeset="6116545">
+    <member type="way" ref="80572949" role="from"/>
+    <member type="way" ref="38133960" role="to"/>
+    <member type="node" ref="939948871" role="via"/>
+    <tag k="restriction" v="only_stright_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+</osm>

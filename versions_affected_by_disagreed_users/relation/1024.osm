@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1024723" version="1" timestamp="2010-07-05T02:19:35Z" uid="244897" user="M526244" changeset="5138549">
+    <member type="way" ref="49835742" role="member"/>
+    <member type="way" ref="50118202" role="member"/>
+    <member type="way" ref="65902190" role="member"/>
+    <tag k="name" v="Duck Creek Mountain Road"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1024736" version="1" timestamp="2010-07-05T02:35:35Z" uid="244897" user="M526244" changeset="5138575">
+    <member type="way" ref="22730810" role="member"/>
+    <member type="way" ref="65903788" role="member"/>
+    <tag k="name" v="Johnston Road"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1024737" version="1" timestamp="2010-07-05T02:35:36Z" uid="244897" user="M526244" changeset="5138575">
+    <member type="way" ref="22730810" role="member"/>
+    <member type="way" ref="45009737" role="member"/>
+    <member type="way" ref="65903775" role="member"/>
+    <tag k="name" v="Eltham Road"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1024737" version="2" timestamp="2010-07-05T02:38:51Z" uid="244897" user="M526244" changeset="5138575">
+    <member type="way" ref="22730810" role="member"/>
+    <member type="way" ref="45009737" role="member"/>
+    <member type="way" ref="65903775" role="member"/>
+    <member type="way" ref="37228716" role="member"/>
+    <member type="way" ref="37228717" role="member"/>
+    <member type="way" ref="64613148" role="member"/>
+    <member type="way" ref="64613147" role="member"/>
+    <tag k="name" v="Eltham Road"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1024814" version="1" timestamp="2010-07-05T04:15:02Z" uid="244897" user="M526244" changeset="5138714">
+    <member type="way" ref="65943954" role="member"/>
+    <member type="way" ref="65943994" role="member"/>
+    <member type="way" ref="65943948" role="member"/>
+    <tag k="name" v="Ryces Drive"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1024861" version="1" timestamp="2010-07-05T05:10:52Z" uid="244897" user="M526244" changeset="5138783">
+    <member type="way" ref="65957908" role="member"/>
+    <member type="way" ref="65955055" role="member"/>
+    <member type="way" ref="22729000" role="member"/>
+    <member type="way" ref="36925823" role="member"/>
+    <tag k="name" v="Granuaille Road"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1024866" version="1" timestamp="2010-07-05T05:19:56Z" uid="244897" user="M526244" changeset="5138783">
+    <member type="way" ref="65959902" role="member"/>
+    <tag k="collection" v="waterway"/>
+    <tag k="name" v="Byron Creek"/>
+    <tag k="type" v="collection"/>
+  </relation>
+  <relation id="1024882" version="1" timestamp="2010-07-05T06:03:02Z" uid="4467" user="Rosscoe" changeset="5138848">
+    <member type="way" ref="9620981" role="from"/>
+    <member type="node" ref="75048428" role="via"/>
+    <member type="way" ref="65963313" role="to"/>
+    <tag k="restriction" v="only_left_turn"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+</osm>

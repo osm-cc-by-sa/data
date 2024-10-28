@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="75371415" version="1" timestamp="2010-08-31T05:20:47Z" uid="9719" user="dvaey" changeset="5642226">
+    <nd ref="889899210"/>
+    <nd ref="435173573"/>
+    <nd ref="435173575"/>
+    <nd ref="435173578"/>
+    <nd ref="435173579"/>
+    <nd ref="435173580"/>
+    <nd ref="435173582"/>
+    <nd ref="435173583"/>
+    <nd ref="435173585"/>
+    <nd ref="435173586"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="footway"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="paved"/>
+    <tag k="survey" v="GPS"/>
+  </way>
+  <way id="75371416" version="1" timestamp="2010-08-31T05:20:48Z" uid="9719" user="dvaey" changeset="5642226">
+    <nd ref="435173572"/>
+    <nd ref="889899210"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="footway"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="paved"/>
+    <tag k="survey" v="GPS"/>
+  </way>
+  <way id="75371416" version="2" timestamp="2010-08-31T05:21:31Z" uid="9719" user="dvaey" changeset="5642226">
+    <nd ref="435173572"/>
+    <nd ref="889899210"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="footway"/>
+    <tag k="layer" v="1"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="paved"/>
+    <tag k="survey" v="GPS"/>
+  </way>
+  <way id="75371554" version="1" timestamp="2010-08-31T05:28:17Z" uid="9719" user="dvaey" changeset="5642268">
+    <nd ref="303858324"/>
+    <nd ref="303857946"/>
+    <tag k="highway" v="track"/>
+    <tag k="tracktype" v="grade1"/>
+  </way>
+  <way id="75371554" version="2" timestamp="2010-08-31T05:29:24Z" uid="9719" user="dvaey" changeset="5642268">
+    <nd ref="303858324"/>
+    <nd ref="303857946"/>
+    <tag k="ford" v="yes"/>
+    <tag k="highway" v="track"/>
+    <tag k="layer" v="-1"/>
+    <tag k="tracktype" v="grade1"/>
+  </way>
+</osm>

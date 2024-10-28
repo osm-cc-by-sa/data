@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="61282491" version="3" timestamp="2010-07-09T05:19:27Z" uid="74617" user="JohnSmith" changeset="5170986">
+    <nd ref="271874767"/>
+    <nd ref="271874768"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="West Court"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="61282497" version="3" timestamp="2010-07-09T05:17:44Z" uid="74617" user="JohnSmith" changeset="5170986">
+    <nd ref="765662869"/>
+    <nd ref="765662870"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="61282501" version="3" timestamp="2010-07-09T05:18:58Z" uid="74617" user="JohnSmith" changeset="5170986">
+    <nd ref="765662893"/>
+    <nd ref="251892208"/>
+    <nd ref="312421633"/>
+    <nd ref="249251606"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Dower Street"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="61282501" version="4" timestamp="2011-02-14T02:33:44Z" uid="4467" user="Rosscoe" changeset="7282535">
+    <nd ref="765662893"/>
+    <nd ref="251892208"/>
+    <nd ref="312421633"/>
+    <nd ref="1152187458"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Dower Street"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="61282502" version="2" timestamp="2011-02-14T02:33:32Z" uid="4467" user="Rosscoe" changeset="7282535">
+    <nd ref="556063105"/>
+    <nd ref="1152187352"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="footway"/>
+  </way>
+</osm>

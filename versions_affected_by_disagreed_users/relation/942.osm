@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="942454" version="1" timestamp="2010-05-30T01:06:28Z" uid="20587" user="balrog-kun" changeset="4847780">
+    <member type="way" ref="60612587" role="inner"/>
+    <member type="way" ref="60612776" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="942456" version="3" timestamp="2011-02-04T18:59:13Z" uid="115477" user="wowik" changeset="7185826">
+    <member type="way" ref="59148623" role="inner"/>
+    <member type="way" ref="59148624" role="inner"/>
+    <member type="way" ref="98209069" role="outer"/>
+    <member type="way" ref="55507245" role="outer"/>
+    <member type="way" ref="31363668" role="outer"/>
+    <member type="way" ref="55480619" role="outer"/>
+    <member type="way" ref="59139392" role="outer"/>
+    <member type="way" ref="59139409" role="outer"/>
+    <member type="way" ref="55480632" role="outer"/>
+    <member type="way" ref="60495048" role="outer"/>
+    <member type="way" ref="59139419" role="outer"/>
+    <member type="way" ref="60111326" role="outer"/>
+    <member type="way" ref="60731560" role="outer"/>
+    <member type="way" ref="60731574" role="outer"/>
+    <member type="way" ref="60111327" role="outer"/>
+    <member type="node" ref="92441557" role="admin_centre"/>
+    <tag k="admin_level" v="6"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Переславский район"/>
+    <tag k="official_status" v="ru:муниципальный район"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="942562" version="1" timestamp="2010-05-30T05:25:20Z" uid="33382" user="de_muur" changeset="4848630">
+    <member type="node" ref="650568831" role=""/>
+    <member type="node" ref="650568829" role=""/>
+    <member type="node" ref="650568824" role=""/>
+    <member type="way" ref="19206278" role=""/>
+    <member type="node" ref="757975844" role=""/>
+    <tag k="name" v="Hemelingen - Oberneuland"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Geoinformation Bremen"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="942563" version="1" timestamp="2010-05-30T05:36:46Z" uid="33382" user="de_muur" changeset="4848679">
+    <member type="node" ref="727619143" role=""/>
+    <member type="way" ref="24268923" role=""/>
+    <member type="way" ref="24268924" role=""/>
+    <member type="way" ref="24268927" role=""/>
+    <member type="node" ref="758017819" role=""/>
+    <tag k="name" v="Centrum - Oberneuland"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Geoinformation Bremen"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="942571" version="1" timestamp="2010-05-30T06:24:47Z" uid="244897" user="M526244" changeset="4848760">
+    <member type="way" ref="60615597" role="to"/>
+    <member type="way" ref="51318063" role="to"/>
+    <member type="node" ref="245504775" role="via"/>
+    <tag k="restriction" v="oly_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="942761" version="1" timestamp="2010-05-30T08:33:56Z" uid="7617" user="Franc" changeset="4849455">
+    <member type="way" ref="32077866" role="from"/>
+    <member type="node" ref="360100542" role="via"/>
+    <member type="way" ref="6098688" role="to"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="942762" version="1" timestamp="2010-05-30T08:34:00Z" uid="7617" user="Franc" changeset="4849455">
+    <member type="way" ref="60631323" role="from"/>
+    <member type="node" ref="246197245" role="via"/>
+    <member type="way" ref="22888206" role="to"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="942848" version="1" timestamp="2010-05-30T09:40:33Z" uid="7617" user="Franc" changeset="4849941">
+    <member type="way" ref="23631690" role="from"/>
+    <member type="node" ref="256008159" role="via"/>
+    <member type="way" ref="23631771" role="to"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="942849" version="1" timestamp="2010-05-30T09:40:47Z" uid="7617" user="Franc" changeset="4849941">
+    <member type="node" ref="26791639" role="via"/>
+    <member type="way" ref="60642769" role="to"/>
+    <member type="way" ref="60642774" role="from"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="942850" version="1" timestamp="2010-05-30T09:40:47Z" uid="7617" user="Franc" changeset="4849941">
+    <member type="node" ref="315235965" role="via"/>
+    <member type="way" ref="46866609" role="to"/>
+    <member type="way" ref="60642771" role="from"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="942851" version="1" timestamp="2010-05-30T09:40:48Z" uid="7617" user="Franc" changeset="4849941">
+    <member type="way" ref="60642775" role="from"/>
+    <member type="node" ref="315236324" role="via"/>
+    <member type="way" ref="28680286" role="to"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="942852" version="1" timestamp="2010-05-30T09:40:48Z" uid="7617" user="Franc" changeset="4849941">
+    <member type="way" ref="8993278" role="from"/>
+    <member type="node" ref="26791636" role="via"/>
+    <member type="way" ref="28680254" role="to"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+</osm>

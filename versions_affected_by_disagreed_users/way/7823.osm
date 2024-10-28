@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="7823145" version="5" timestamp="2007-12-16T11:28:32Z" uid="13367" user="nubok" changeset="330106">
+    <nd ref="36796051"/>
+    <nd ref="172948696"/>
+    <nd ref="36796775"/>
+    <tag k="bridge" v="true"/>
+    <tag k="created_by" v="Potlatch 0.5d"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="oneway" v="true"/>
+    <tag k="ref" v="B71"/>
+    <tag k="reg_ref" v="Magdeburger Ring"/>
+  </way>
+  <way id="7823145" version="7" timestamp="2008-02-04T16:30:49Z" uid="13367" user="nubok" changeset="38172">
+    <nd ref="36796051"/>
+    <nd ref="36796775"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="created_by" v="Potlatch 0.7"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="B71"/>
+    <tag k="reg_ref" v="Magdeburger Ring"/>
+  </way>
+  <way id="7823185" version="3" timestamp="2007-12-16T11:28:32Z" uid="13367" user="nubok" changeset="330106">
+    <nd ref="33483370"/>
+    <nd ref="172948693"/>
+    <nd ref="33483371"/>
+    <tag k="bridge" v="true"/>
+    <tag k="created_by" v="Potlatch 0.5d"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="nat_ref" v="B71"/>
+    <tag k="oneway" v="true"/>
+    <tag k="reg_ref" v="Magdeburger Ring"/>
+  </way>
+  <way id="7823185" version="5" timestamp="2008-02-04T16:30:43Z" uid="13367" user="nubok" changeset="38172">
+    <nd ref="33483370"/>
+    <nd ref="33483371"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="created_by" v="Potlatch 0.7"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="nat_ref" v="B71"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="reg_ref" v="Magdeburger Ring"/>
+  </way>
+  <way id="7823192" version="7" timestamp="2008-02-01T15:35:16Z" uid="13367" user="nubok" changeset="7450">
+    <nd ref="33483371"/>
+    <nd ref="33483372"/>
+    <nd ref="33483373"/>
+    <nd ref="33483375"/>
+    <nd ref="33483377"/>
+    <nd ref="33483378"/>
+    <nd ref="33483379"/>
+    <nd ref="33483381"/>
+    <nd ref="33483382"/>
+    <nd ref="33483383"/>
+    <nd ref="33483385"/>
+    <nd ref="33483386"/>
+    <nd ref="33483387"/>
+    <tag k="created_by" v="Potlatch 0.6c"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Magdeburger Ring"/>
+    <tag k="nat_ref" v="B71"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="7823649" version="7" timestamp="2008-01-26T15:16:15Z" uid="13367" user="nubok" changeset="697043">
+    <nd ref="32881551"/>
+    <nd ref="32686576"/>
+    <nd ref="36709732"/>
+    <tag k="created_by" v="Potlatch 0.6c"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Westring"/>
+    <tag k="oneway" v="true"/>
+  </way>
+</osm>

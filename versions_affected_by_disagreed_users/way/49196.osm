@@ -1,0 +1,933 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="49196099" version="1" timestamp="2010-01-31T15:11:07Z" uid="99207" user="Lar Kiesel" changeset="3759950">
+    <nd ref="499012942"/>
+    <nd ref="499012945"/>
+    <nd ref="624112809"/>
+    <nd ref="499012949"/>
+    <nd ref="499012960"/>
+    <nd ref="499012964"/>
+    <nd ref="499012968"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="name" v="I 26 Onramp"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="49196101" version="1" timestamp="2010-01-31T15:11:07Z" uid="99207" user="Lar Kiesel" changeset="3759950">
+    <nd ref="499012940"/>
+    <nd ref="499012942"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="I 26 Onramp"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="49196107" version="1" timestamp="2010-01-31T15:11:09Z" uid="99207" user="Lar Kiesel" changeset="3759950">
+    <nd ref="624112810"/>
+    <nd ref="624112811"/>
+    <nd ref="624112813"/>
+    <nd ref="624112815"/>
+    <nd ref="624112817"/>
+    <nd ref="624112819"/>
+    <nd ref="624112820"/>
+    <nd ref="624112821"/>
+    <nd ref="624112822"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="213B"/>
+  </way>
+  <way id="49196111" version="1" timestamp="2010-01-31T15:11:10Z" uid="99207" user="Lar Kiesel" changeset="3759950">
+    <nd ref="624112823"/>
+    <nd ref="624112824"/>
+    <nd ref="624112825"/>
+    <nd ref="624112826"/>
+    <nd ref="624112827"/>
+    <nd ref="624112828"/>
+    <nd ref="624112829"/>
+    <nd ref="624112830"/>
+    <nd ref="624112809"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="49196313" version="1" timestamp="2010-01-31T15:13:43Z" uid="74617" user="JohnSmith" changeset="3759975">
+    <nd ref="624113467"/>
+    <nd ref="624113462"/>
+    <nd ref="624113463"/>
+    <nd ref="624113468"/>
+    <nd ref="624113469"/>
+    <nd ref="624113470"/>
+    <nd ref="624113471"/>
+    <nd ref="624113472"/>
+    <nd ref="624113473"/>
+    <nd ref="624113467"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="football"/>
+  </way>
+  <way id="49196313" version="2" timestamp="2010-06-29T18:31:24Z" uid="74617" user="JohnSmith" changeset="5107971">
+    <nd ref="624113467"/>
+    <nd ref="624113462"/>
+    <nd ref="624113463"/>
+    <nd ref="624113468"/>
+    <nd ref="624113469"/>
+    <nd ref="624113470"/>
+    <nd ref="624113471"/>
+    <nd ref="624113472"/>
+    <nd ref="624113473"/>
+    <nd ref="624113467"/>
+    <tag k="fixme" v="sport=football is ambiguous, please use sport=[soccer|rugby_league|rugby_union|australian_football|etc] instead, see http://wiki.osm.org/wiki/Football for more details"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="football"/>
+  </way>
+  <way id="49196313" version="3" timestamp="2010-06-29T20:22:55Z" uid="74617" user="JohnSmith" changeset="5108182">
+    <nd ref="624113467"/>
+    <nd ref="624113462"/>
+    <nd ref="624113463"/>
+    <nd ref="624113468"/>
+    <nd ref="624113469"/>
+    <nd ref="624113470"/>
+    <nd ref="624113471"/>
+    <nd ref="624113472"/>
+    <nd ref="624113473"/>
+    <nd ref="624113467"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="soccer"/>
+  </way>
+  <way id="49196314" version="1" timestamp="2010-01-31T15:13:43Z" uid="74617" user="JohnSmith" changeset="3759975">
+    <nd ref="624113457"/>
+    <nd ref="624113450"/>
+    <nd ref="624113449"/>
+    <nd ref="624113451"/>
+    <nd ref="624113452"/>
+    <nd ref="624113453"/>
+    <nd ref="624113461"/>
+    <nd ref="624113466"/>
+    <nd ref="624113465"/>
+    <nd ref="624113464"/>
+    <nd ref="624113460"/>
+    <nd ref="624113459"/>
+    <nd ref="624113458"/>
+    <nd ref="624113457"/>
+    <tag k="amenity" v="school"/>
+    <tag k="barrier" v="fence"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="49196314" version="2" timestamp="2010-01-31T15:22:36Z" uid="74617" user="JohnSmith" changeset="3760068">
+    <nd ref="624113457"/>
+    <nd ref="624113450"/>
+    <nd ref="624113449"/>
+    <nd ref="624113451"/>
+    <nd ref="624116483"/>
+    <nd ref="624113452"/>
+    <nd ref="624113453"/>
+    <nd ref="624113461"/>
+    <nd ref="624113466"/>
+    <nd ref="624113465"/>
+    <nd ref="624113464"/>
+    <nd ref="624113460"/>
+    <nd ref="624113459"/>
+    <nd ref="624113458"/>
+    <nd ref="624113457"/>
+    <tag k="amenity" v="school"/>
+    <tag k="barrier" v="fence"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="49196314" version="3" timestamp="2010-02-07T12:01:49Z" uid="74617" user="JohnSmith" changeset="3813344">
+    <nd ref="624113457"/>
+    <nd ref="632353297"/>
+    <nd ref="624113450"/>
+    <nd ref="624113449"/>
+    <nd ref="624113451"/>
+    <nd ref="624116483"/>
+    <nd ref="624113452"/>
+    <nd ref="624113453"/>
+    <nd ref="624113461"/>
+    <nd ref="624113466"/>
+    <nd ref="624113465"/>
+    <nd ref="624113464"/>
+    <nd ref="624113460"/>
+    <nd ref="624113459"/>
+    <nd ref="624113458"/>
+    <nd ref="624113457"/>
+    <tag k="amenity" v="school"/>
+    <tag k="barrier" v="fence"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="49196314" version="4" timestamp="2010-02-07T12:18:29Z" uid="74617" user="JohnSmith" changeset="3813518">
+    <nd ref="624113457"/>
+    <nd ref="632353297"/>
+    <nd ref="624113450"/>
+    <nd ref="624113449"/>
+    <nd ref="624113451"/>
+    <nd ref="624116483"/>
+    <nd ref="624113452"/>
+    <nd ref="624113453"/>
+    <nd ref="624113461"/>
+    <nd ref="624113466"/>
+    <nd ref="632359605"/>
+    <nd ref="624113465"/>
+    <nd ref="624113464"/>
+    <nd ref="632359603"/>
+    <nd ref="632359601"/>
+    <nd ref="624113460"/>
+    <nd ref="624113459"/>
+    <nd ref="624113458"/>
+    <nd ref="624113457"/>
+    <tag k="amenity" v="school"/>
+    <tag k="barrier" v="fence"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="49196315" version="1" timestamp="2010-01-31T15:13:43Z" uid="74617" user="JohnSmith" changeset="3759975">
+    <nd ref="624113453"/>
+    <nd ref="624113454"/>
+    <nd ref="624113455"/>
+    <nd ref="624113456"/>
+    <nd ref="624113457"/>
+    <tag k="barrier" v="fence"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="49196504" version="1" timestamp="2010-01-31T15:20:52Z" uid="59758" user="rendle" changeset="3760043">
+    <nd ref="624115406"/>
+    <nd ref="624115413"/>
+    <nd ref="624115435"/>
+    <nd ref="624115439"/>
+    <nd ref="624115443"/>
+    <nd ref="624115448"/>
+    <nd ref="624115453"/>
+    <nd ref="624115459"/>
+    <nd ref="624115463"/>
+    <nd ref="624115466"/>
+    <nd ref="624115470"/>
+    <nd ref="624115474"/>
+    <nd ref="624115478"/>
+    <nd ref="624115481"/>
+    <nd ref="624115488"/>
+    <nd ref="624115495"/>
+    <nd ref="624115502"/>
+    <nd ref="624115508"/>
+    <nd ref="624115516"/>
+    <nd ref="624115406"/>
+  </way>
+  <way id="49196504" version="2" timestamp="2010-01-31T15:21:12Z" uid="59758" user="rendle" changeset="3760043">
+    <nd ref="624115406"/>
+    <nd ref="624115413"/>
+    <nd ref="624115435"/>
+    <nd ref="624115439"/>
+    <nd ref="624115443"/>
+    <nd ref="624115448"/>
+    <nd ref="624115453"/>
+    <nd ref="624115459"/>
+    <nd ref="624115463"/>
+    <nd ref="624115466"/>
+    <nd ref="624115470"/>
+    <nd ref="624115794"/>
+    <nd ref="624115474"/>
+    <nd ref="624115478"/>
+    <nd ref="624115481"/>
+    <nd ref="624115488"/>
+    <nd ref="624115495"/>
+    <nd ref="624115502"/>
+    <nd ref="624115508"/>
+    <nd ref="624115516"/>
+    <nd ref="624115406"/>
+  </way>
+  <way id="49196504" version="3" timestamp="2010-01-31T15:21:32Z" uid="59758" user="rendle" changeset="3760043">
+    <nd ref="624115406"/>
+    <nd ref="624115413"/>
+    <nd ref="624115435"/>
+    <nd ref="624115439"/>
+    <nd ref="624115443"/>
+    <nd ref="624115448"/>
+    <nd ref="624115453"/>
+    <nd ref="624115459"/>
+    <nd ref="624115463"/>
+    <nd ref="624115466"/>
+    <nd ref="624115470"/>
+    <nd ref="624115794"/>
+    <nd ref="624115474"/>
+    <nd ref="624115478"/>
+    <nd ref="624115481"/>
+    <nd ref="624115488"/>
+    <nd ref="624115495"/>
+    <nd ref="624115502"/>
+    <nd ref="624115508"/>
+    <nd ref="624115516"/>
+    <nd ref="624115406"/>
+    <tag k="landuse" v="farm"/>
+  </way>
+  <way id="49196504" version="5" timestamp="2010-07-18T09:21:48Z" uid="59758" user="rendle" changeset="5249171">
+    <nd ref="624115406"/>
+    <nd ref="624115413"/>
+    <nd ref="624115435"/>
+    <nd ref="493911832"/>
+    <nd ref="624115443"/>
+    <nd ref="493911836"/>
+    <nd ref="624115453"/>
+    <nd ref="624115459"/>
+    <nd ref="822622312"/>
+    <nd ref="822622313"/>
+    <nd ref="822622314"/>
+    <nd ref="822622317"/>
+    <nd ref="822622319"/>
+    <nd ref="624115463"/>
+    <nd ref="624115466"/>
+    <nd ref="624115470"/>
+    <nd ref="624115794"/>
+    <nd ref="624115474"/>
+    <nd ref="624115478"/>
+    <nd ref="624115481"/>
+    <nd ref="624115488"/>
+    <nd ref="624115495"/>
+    <nd ref="624115502"/>
+    <nd ref="624115508"/>
+    <nd ref="624115516"/>
+    <nd ref="624115406"/>
+    <tag k="landuse" v="farm"/>
+  </way>
+  <way id="49196504" version="6" timestamp="2011-04-29T18:26:16Z" uid="59758" user="rendle" changeset="8005632">
+    <nd ref="624115406"/>
+    <nd ref="624115413"/>
+    <nd ref="624115435"/>
+    <nd ref="1265306824"/>
+    <nd ref="1265306805"/>
+    <nd ref="1265306799"/>
+    <nd ref="1265306817"/>
+    <nd ref="1265306802"/>
+    <nd ref="1265306836"/>
+    <nd ref="1265306872"/>
+    <nd ref="1265306845"/>
+    <nd ref="493911832"/>
+    <nd ref="1265306797"/>
+    <nd ref="1265306860"/>
+    <nd ref="1265306843"/>
+    <nd ref="1265306794"/>
+    <nd ref="1265306868"/>
+    <nd ref="1265306781"/>
+    <nd ref="624115443"/>
+    <nd ref="493911836"/>
+    <nd ref="624115453"/>
+    <nd ref="624115459"/>
+    <nd ref="822622312"/>
+    <nd ref="822622313"/>
+    <nd ref="1265306835"/>
+    <nd ref="1265306853"/>
+    <nd ref="1265306869"/>
+    <nd ref="1265306856"/>
+    <nd ref="1265306847"/>
+    <nd ref="822622314"/>
+    <nd ref="822622317"/>
+    <nd ref="1265306773"/>
+    <nd ref="1265306829"/>
+    <nd ref="1265306770"/>
+    <nd ref="1265306850"/>
+    <nd ref="1265306791"/>
+    <nd ref="1265306822"/>
+    <nd ref="1265306858"/>
+    <nd ref="1265306782"/>
+    <nd ref="1265306780"/>
+    <nd ref="822622319"/>
+    <nd ref="624115463"/>
+    <nd ref="1265306803"/>
+    <nd ref="1265306832"/>
+    <nd ref="1265306783"/>
+    <nd ref="1265306848"/>
+    <nd ref="1265306830"/>
+    <nd ref="1265306827"/>
+    <nd ref="624115466"/>
+    <nd ref="1265306873"/>
+    <nd ref="1265306833"/>
+    <nd ref="1265306807"/>
+    <nd ref="1265306855"/>
+    <nd ref="1265306810"/>
+    <nd ref="1265306826"/>
+    <nd ref="1265306778"/>
+    <nd ref="1265306776"/>
+    <nd ref="1265306779"/>
+    <nd ref="624115470"/>
+    <nd ref="624115794"/>
+    <nd ref="1265306854"/>
+    <nd ref="624115474"/>
+    <nd ref="624115478"/>
+    <nd ref="1265306820"/>
+    <nd ref="1265306816"/>
+    <nd ref="624115481"/>
+    <nd ref="1265306795"/>
+    <nd ref="624115488"/>
+    <nd ref="1265306775"/>
+    <nd ref="1265306772"/>
+    <nd ref="1265306808"/>
+    <nd ref="1265306800"/>
+    <nd ref="1265306851"/>
+    <nd ref="624115495"/>
+    <nd ref="1265306769"/>
+    <nd ref="1265306871"/>
+    <nd ref="624115502"/>
+    <nd ref="624115508"/>
+    <nd ref="624115516"/>
+    <nd ref="624115406"/>
+    <tag k="landuse" v="farmland"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="49196581" version="1" timestamp="2010-01-31T15:22:33Z" uid="74617" user="JohnSmith" changeset="3760068">
+    <nd ref="624116393"/>
+    <nd ref="624116396"/>
+    <nd ref="624116404"/>
+    <nd ref="624116406"/>
+    <nd ref="624116408"/>
+    <nd ref="624116447"/>
+    <nd ref="624116449"/>
+    <nd ref="624116464"/>
+    <nd ref="624116527"/>
+    <nd ref="624116528"/>
+    <nd ref="624116530"/>
+    <nd ref="624116532"/>
+    <nd ref="624116534"/>
+    <nd ref="624116553"/>
+    <nd ref="624116555"/>
+    <nd ref="624116557"/>
+    <nd ref="624116558"/>
+    <nd ref="624116562"/>
+    <nd ref="624116589"/>
+    <nd ref="624116591"/>
+    <nd ref="624116593"/>
+    <nd ref="624116595"/>
+    <nd ref="624116597"/>
+    <nd ref="624116610"/>
+    <nd ref="624116622"/>
+    <nd ref="624116624"/>
+    <nd ref="624116625"/>
+    <nd ref="624116627"/>
+    <nd ref="624116629"/>
+    <nd ref="624116631"/>
+    <nd ref="624116632"/>
+    <nd ref="624116634"/>
+    <nd ref="624116636"/>
+    <nd ref="624116638"/>
+    <nd ref="624116640"/>
+    <nd ref="624116642"/>
+    <tag k="layer" v="-1"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="waterway" v="drain"/>
+  </way>
+  <way id="49196581" version="2" timestamp="2010-02-07T12:18:27Z" uid="74617" user="JohnSmith" changeset="3813518">
+    <nd ref="632359423"/>
+    <nd ref="632359422"/>
+    <nd ref="632359421"/>
+    <nd ref="632359420"/>
+    <nd ref="632359429"/>
+    <nd ref="632359428"/>
+    <nd ref="632359427"/>
+    <nd ref="632359426"/>
+    <nd ref="632359437"/>
+    <nd ref="632359436"/>
+    <nd ref="632359435"/>
+    <nd ref="632359434"/>
+    <nd ref="632359433"/>
+    <nd ref="632359432"/>
+    <nd ref="624116393"/>
+    <nd ref="624116396"/>
+    <nd ref="624116404"/>
+    <nd ref="624116406"/>
+    <nd ref="624116408"/>
+    <nd ref="624116447"/>
+    <nd ref="624116449"/>
+    <nd ref="624116464"/>
+    <nd ref="624116527"/>
+    <nd ref="624116528"/>
+    <nd ref="624116530"/>
+    <nd ref="624116532"/>
+    <nd ref="624116534"/>
+    <nd ref="624116553"/>
+    <nd ref="624116555"/>
+    <nd ref="624116557"/>
+    <nd ref="624116558"/>
+    <nd ref="624116562"/>
+    <nd ref="624116589"/>
+    <nd ref="624116591"/>
+    <nd ref="624116593"/>
+    <nd ref="624116595"/>
+    <nd ref="624116597"/>
+    <nd ref="624116610"/>
+    <nd ref="624116622"/>
+    <nd ref="624116624"/>
+    <nd ref="624116625"/>
+    <nd ref="624116627"/>
+    <nd ref="624116629"/>
+    <nd ref="624116631"/>
+    <nd ref="624116632"/>
+    <nd ref="624116634"/>
+    <nd ref="624116636"/>
+    <nd ref="624116638"/>
+    <nd ref="624116640"/>
+    <nd ref="624116642"/>
+    <tag k="layer" v="-1"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="waterway" v="drain"/>
+  </way>
+  <way id="49196582" version="1" timestamp="2010-01-31T15:22:33Z" uid="74617" user="JohnSmith" changeset="3760068">
+    <nd ref="624116431"/>
+    <nd ref="624116433"/>
+    <nd ref="624116441"/>
+    <nd ref="624116443"/>
+    <nd ref="624116445"/>
+    <nd ref="624116435"/>
+    <nd ref="624116437"/>
+    <nd ref="624116439"/>
+    <nd ref="624116451"/>
+    <nd ref="624116456"/>
+    <nd ref="624116458"/>
+    <nd ref="624116460"/>
+    <nd ref="624116462"/>
+    <nd ref="624116497"/>
+    <nd ref="624116491"/>
+    <nd ref="624116499"/>
+    <nd ref="624116501"/>
+    <nd ref="624116506"/>
+    <nd ref="624116508"/>
+    <nd ref="624116510"/>
+    <nd ref="624116513"/>
+    <nd ref="624116522"/>
+    <nd ref="624116524"/>
+    <nd ref="624116516"/>
+    <nd ref="624116536"/>
+    <nd ref="624116538"/>
+    <nd ref="624116539"/>
+    <nd ref="624116615"/>
+    <nd ref="624116616"/>
+    <tag k="highway" v="footway"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="49196582" version="2" timestamp="2010-06-10T06:51:41Z" uid="74617" user="JohnSmith" changeset="4951231">
+    <nd ref="768310508"/>
+    <nd ref="768310505"/>
+    <nd ref="768310492"/>
+    <nd ref="768310506"/>
+    <nd ref="768310494"/>
+    <nd ref="768310490"/>
+    <nd ref="768310507"/>
+    <nd ref="768310495"/>
+    <nd ref="624116431"/>
+    <nd ref="624116433"/>
+    <nd ref="624116441"/>
+    <nd ref="624116443"/>
+    <nd ref="624116445"/>
+    <nd ref="624116435"/>
+    <nd ref="624116437"/>
+    <nd ref="624116439"/>
+    <nd ref="624116451"/>
+    <nd ref="624116456"/>
+    <nd ref="624116458"/>
+    <nd ref="624116460"/>
+    <nd ref="624116462"/>
+    <nd ref="624116497"/>
+    <nd ref="624116491"/>
+    <nd ref="624116499"/>
+    <nd ref="624116501"/>
+    <nd ref="624116506"/>
+    <nd ref="624116508"/>
+    <nd ref="624116510"/>
+    <nd ref="624116513"/>
+    <nd ref="624116522"/>
+    <nd ref="624116524"/>
+    <nd ref="624116516"/>
+    <nd ref="624116536"/>
+    <nd ref="624116538"/>
+    <nd ref="624116539"/>
+    <nd ref="624116615"/>
+    <nd ref="624116616"/>
+    <tag k="highway" v="footway"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="49196583" version="1" timestamp="2010-01-31T15:22:34Z" uid="74617" user="JohnSmith" changeset="3760068">
+    <nd ref="624116411"/>
+    <nd ref="624116429"/>
+    <nd ref="624116414"/>
+    <nd ref="624116416"/>
+    <nd ref="624116418"/>
+    <nd ref="624116420"/>
+    <nd ref="624116422"/>
+    <nd ref="624116425"/>
+    <nd ref="624116427"/>
+    <nd ref="624116454"/>
+    <nd ref="624116451"/>
+    <tag k="highway" v="footway"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="49196583" version="2" timestamp="2010-02-07T12:18:29Z" uid="74617" user="JohnSmith" changeset="3813518">
+    <nd ref="632359557"/>
+    <nd ref="632359555"/>
+    <nd ref="632359553"/>
+    <nd ref="632359552"/>
+    <nd ref="632359550"/>
+    <nd ref="632359548"/>
+    <nd ref="632359546"/>
+    <nd ref="632359544"/>
+    <nd ref="632359542"/>
+    <nd ref="632359540"/>
+    <nd ref="632359539"/>
+    <nd ref="632359538"/>
+    <nd ref="632359525"/>
+    <nd ref="632359523"/>
+    <nd ref="632359521"/>
+    <nd ref="632359520"/>
+    <nd ref="632359518"/>
+    <nd ref="632359537"/>
+    <nd ref="632359510"/>
+    <nd ref="632359508"/>
+    <nd ref="632359505"/>
+    <nd ref="632359503"/>
+    <nd ref="624116411"/>
+    <nd ref="624116429"/>
+    <nd ref="624116414"/>
+    <nd ref="624116416"/>
+    <nd ref="624116418"/>
+    <nd ref="624116420"/>
+    <nd ref="624116422"/>
+    <nd ref="624116425"/>
+    <nd ref="624116427"/>
+    <nd ref="624116454"/>
+    <nd ref="624116451"/>
+    <tag k="highway" v="footway"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="49196584" version="1" timestamp="2010-01-31T15:22:34Z" uid="74617" user="JohnSmith" changeset="3760068">
+    <nd ref="624116483"/>
+    <nd ref="624116487"/>
+    <nd ref="624116485"/>
+    <nd ref="624116489"/>
+    <nd ref="624116503"/>
+    <nd ref="624116491"/>
+    <nd ref="624116466"/>
+    <nd ref="624116468"/>
+    <nd ref="624116470"/>
+    <nd ref="624116471"/>
+    <nd ref="624116473"/>
+    <nd ref="624116475"/>
+    <nd ref="624116477"/>
+    <nd ref="624116479"/>
+    <nd ref="624116481"/>
+    <nd ref="570792072"/>
+    <tag k="highway" v="footway"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="49196585" version="1" timestamp="2010-01-31T15:22:34Z" uid="74617" user="JohnSmith" changeset="3760068">
+    <nd ref="624116398"/>
+    <nd ref="624116400"/>
+    <nd ref="624116402"/>
+    <nd ref="624116404"/>
+    <tag k="layer" v="-1"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="waterway" v="drain"/>
+  </way>
+  <way id="49196586" version="1" timestamp="2010-01-31T15:22:34Z" uid="74617" user="JohnSmith" changeset="3760068">
+    <nd ref="624116487"/>
+    <nd ref="624116493"/>
+    <nd ref="624116495"/>
+    <nd ref="276842134"/>
+    <tag k="highway" v="footway"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="49196587" version="1" timestamp="2010-01-31T15:22:34Z" uid="74617" user="JohnSmith" changeset="3760068">
+    <nd ref="624116519"/>
+    <nd ref="624116526"/>
+    <nd ref="624116522"/>
+    <tag k="highway" v="footway"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="49196589" version="1" timestamp="2010-01-31T15:22:34Z" uid="74617" user="JohnSmith" changeset="3760068">
+    <nd ref="624116539"/>
+    <nd ref="624116541"/>
+    <tag k="highway" v="footway"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="49196590" version="1" timestamp="2010-01-31T15:22:34Z" uid="74617" user="JohnSmith" changeset="3760068">
+    <nd ref="624116564"/>
+    <nd ref="624116566"/>
+    <nd ref="624116571"/>
+    <nd ref="624116569"/>
+    <nd ref="624116568"/>
+    <nd ref="624116564"/>
+    <tag k="barrier" v="fence"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="49196592" version="1" timestamp="2010-01-31T15:22:34Z" uid="74617" user="JohnSmith" changeset="3760068">
+    <nd ref="624116612"/>
+    <nd ref="624116613"/>
+    <nd ref="624116618"/>
+    <nd ref="624116620"/>
+    <nd ref="624116616"/>
+    <nd ref="624116573"/>
+    <nd ref="624116575"/>
+    <nd ref="624116577"/>
+    <nd ref="624116609"/>
+    <nd ref="624116598"/>
+    <nd ref="624116601"/>
+    <tag k="highway" v="footway"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="49196592" version="2" timestamp="2010-02-07T06:06:18Z" uid="74617" user="JohnSmith" changeset="3811059">
+    <nd ref="624116612"/>
+    <nd ref="624116613"/>
+    <nd ref="624116618"/>
+    <nd ref="632188657"/>
+    <nd ref="624116620"/>
+    <nd ref="624116616"/>
+    <nd ref="624116573"/>
+    <nd ref="624116575"/>
+    <nd ref="624116577"/>
+    <nd ref="624116609"/>
+    <nd ref="624116598"/>
+    <nd ref="624116601"/>
+    <tag k="highway" v="footway"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="49196592" version="3" timestamp="2010-02-07T12:01:47Z" uid="74617" user="JohnSmith" changeset="3813344">
+    <nd ref="632353389"/>
+    <nd ref="147855323"/>
+    <nd ref="632353368"/>
+    <nd ref="632353367"/>
+    <nd ref="632353369"/>
+    <nd ref="632353393"/>
+    <nd ref="632353390"/>
+    <nd ref="632353391"/>
+    <nd ref="632353392"/>
+    <nd ref="632353408"/>
+    <nd ref="632353409"/>
+    <nd ref="632353410"/>
+    <nd ref="632353411"/>
+    <nd ref="632353412"/>
+    <nd ref="632353435"/>
+    <nd ref="632353436"/>
+    <nd ref="632353437"/>
+    <nd ref="632353394"/>
+    <nd ref="632353397"/>
+    <nd ref="632353398"/>
+    <nd ref="632353399"/>
+    <nd ref="632353400"/>
+    <nd ref="632353402"/>
+    <nd ref="632353401"/>
+    <nd ref="632353447"/>
+    <nd ref="632353323"/>
+    <nd ref="632353325"/>
+    <nd ref="616677546"/>
+    <nd ref="632353327"/>
+    <nd ref="632353324"/>
+    <nd ref="632353329"/>
+    <nd ref="632353330"/>
+    <nd ref="632353331"/>
+    <nd ref="632353332"/>
+    <nd ref="632353336"/>
+    <nd ref="632353333"/>
+    <nd ref="632353334"/>
+    <nd ref="632353335"/>
+    <nd ref="624116612"/>
+    <nd ref="632353337"/>
+    <nd ref="624116613"/>
+    <nd ref="624116618"/>
+    <nd ref="632188657"/>
+    <nd ref="624116620"/>
+    <nd ref="624116616"/>
+    <nd ref="624116573"/>
+    <nd ref="632353328"/>
+    <nd ref="624116575"/>
+    <nd ref="624116577"/>
+    <nd ref="624116609"/>
+    <nd ref="624116598"/>
+    <nd ref="624116601"/>
+    <tag k="highway" v="footway"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="49196592" version="4" timestamp="2010-02-07T12:18:26Z" uid="74617" user="JohnSmith" changeset="3813518">
+    <nd ref="632353389"/>
+    <nd ref="147855323"/>
+    <nd ref="632353368"/>
+    <nd ref="632353367"/>
+    <nd ref="632353369"/>
+    <nd ref="632353393"/>
+    <nd ref="632353390"/>
+    <nd ref="632353391"/>
+    <nd ref="632353392"/>
+    <nd ref="632353408"/>
+    <nd ref="632353409"/>
+    <nd ref="632353410"/>
+    <nd ref="632353411"/>
+    <nd ref="632353412"/>
+    <nd ref="632353435"/>
+    <nd ref="632353436"/>
+    <nd ref="632353437"/>
+    <nd ref="632353394"/>
+    <nd ref="632353397"/>
+    <nd ref="632353398"/>
+    <nd ref="632353399"/>
+    <nd ref="632353400"/>
+    <nd ref="632353402"/>
+    <nd ref="632353401"/>
+    <nd ref="632353447"/>
+    <nd ref="632353323"/>
+    <nd ref="632353325"/>
+    <nd ref="616677546"/>
+    <nd ref="632359602"/>
+    <nd ref="632353327"/>
+    <nd ref="632353324"/>
+    <nd ref="632353329"/>
+    <nd ref="632353330"/>
+    <nd ref="632353331"/>
+    <nd ref="632353332"/>
+    <nd ref="632353336"/>
+    <nd ref="632353333"/>
+    <nd ref="632353334"/>
+    <nd ref="632353335"/>
+    <nd ref="624116612"/>
+    <nd ref="632353337"/>
+    <nd ref="624116613"/>
+    <nd ref="624116618"/>
+    <nd ref="632188657"/>
+    <nd ref="624116620"/>
+    <nd ref="624116616"/>
+    <nd ref="624116573"/>
+    <nd ref="632353328"/>
+    <nd ref="624116575"/>
+    <nd ref="624116577"/>
+    <nd ref="624116609"/>
+    <nd ref="624116598"/>
+    <nd ref="624116601"/>
+    <tag k="highway" v="footway"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="49196592" version="5" timestamp="2010-02-21T07:43:13Z" uid="74617" user="JohnSmith" changeset="3930426">
+    <nd ref="632353389"/>
+    <nd ref="147855323"/>
+    <nd ref="632353368"/>
+    <nd ref="632353367"/>
+    <nd ref="632353369"/>
+    <nd ref="632353393"/>
+    <nd ref="632353390"/>
+    <nd ref="632353391"/>
+    <nd ref="632353392"/>
+    <nd ref="632353408"/>
+    <nd ref="632353409"/>
+    <nd ref="632353410"/>
+    <nd ref="632353411"/>
+    <nd ref="632353412"/>
+    <nd ref="632353435"/>
+    <nd ref="632353436"/>
+    <nd ref="632353437"/>
+    <nd ref="632353394"/>
+    <nd ref="632353397"/>
+    <nd ref="632353398"/>
+    <nd ref="632353399"/>
+    <nd ref="632353400"/>
+    <nd ref="632353402"/>
+    <nd ref="632353401"/>
+    <nd ref="632353447"/>
+    <nd ref="632353323"/>
+    <nd ref="632353325"/>
+    <nd ref="616677546"/>
+    <nd ref="632359602"/>
+    <nd ref="632353327"/>
+    <nd ref="648779576"/>
+    <nd ref="632353324"/>
+    <nd ref="632353329"/>
+    <nd ref="632353330"/>
+    <nd ref="632353331"/>
+    <nd ref="632353332"/>
+    <nd ref="632353336"/>
+    <nd ref="632353333"/>
+    <nd ref="632353334"/>
+    <nd ref="632353335"/>
+    <nd ref="624116612"/>
+    <nd ref="632353337"/>
+    <nd ref="624116613"/>
+    <nd ref="624116618"/>
+    <nd ref="632188657"/>
+    <nd ref="624116620"/>
+    <nd ref="624116616"/>
+    <nd ref="624116573"/>
+    <nd ref="632353328"/>
+    <nd ref="624116575"/>
+    <nd ref="624116577"/>
+    <nd ref="624116609"/>
+    <nd ref="624116598"/>
+    <nd ref="624116601"/>
+    <nd ref="648779629"/>
+    <tag k="highway" v="footway"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="49196594" version="1" timestamp="2010-01-31T15:22:35Z" uid="74617" user="JohnSmith" changeset="3760068">
+    <nd ref="624116579"/>
+    <nd ref="624116581"/>
+    <nd ref="624116583"/>
+    <nd ref="624116585"/>
+    <nd ref="624116603"/>
+    <nd ref="624116605"/>
+    <nd ref="624116607"/>
+    <nd ref="624116609"/>
+    <tag k="highway" v="footway"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="49196595" version="1" timestamp="2010-01-31T15:22:35Z" uid="74617" user="JohnSmith" changeset="3760068">
+    <nd ref="624116542"/>
+    <nd ref="624116551"/>
+    <nd ref="624116560"/>
+    <tag k="highway" v="footway"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="49196828" version="2" timestamp="2010-07-30T09:00:19Z" uid="74617" user="JohnSmith" changeset="5352774">
+    <nd ref="624121334"/>
+    <nd ref="624121336"/>
+    <nd ref="624121338"/>
+    <nd ref="624121340"/>
+    <nd ref="624121334"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="On Route Deli"/>
+    <tag k="shop" v="deli"/>
+  </way>
+  <way id="49196848" version="4" timestamp="2010-07-14T13:47:34Z" uid="4467" user="Rosscoe" changeset="5217091">
+    <nd ref="278088138"/>
+    <nd ref="298113573"/>
+    <nd ref="817298926"/>
+    <nd ref="296288520"/>
+    <nd ref="660647634"/>
+    <nd ref="296288382"/>
+    <nd ref="296288384"/>
+    <nd ref="296288521"/>
+    <nd ref="495958756"/>
+    <nd ref="660551789"/>
+    <nd ref="624122361"/>
+    <nd ref="278088136"/>
+    <nd ref="296288380"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Sunderland Drive"/>
+  </way>
+  <way id="49196860" version="2" timestamp="2010-02-08T08:10:37Z" uid="74617" user="JohnSmith" changeset="3821259">
+    <nd ref="624122436"/>
+    <nd ref="609219602"/>
+    <nd ref="609219616"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="49196860" version="5" timestamp="2010-07-17T01:38:25Z" uid="74617" user="JohnSmith" changeset="5238900">
+    <nd ref="660963260"/>
+    <nd ref="660963259"/>
+    <nd ref="661064784"/>
+    <nd ref="660963278"/>
+    <nd ref="624122436"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Eagles Landing"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="49196864" version="3" timestamp="2010-03-28T11:46:15Z" uid="20587" user="balrog-kun" changeset="4254597">
+    <nd ref="624122983"/>
+    <nd ref="65287776"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="25th Avenue"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="San Francisco, CA"/>
+    <tag k="tiger:name_base" v="25th"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="192278250:192278253:192278241:192278244:192278112:192278281:192278282"/>
+    <tag k="tiger:zip_right" v="94116"/>
+  </way>
+</osm>

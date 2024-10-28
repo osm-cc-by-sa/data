@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1226088" version="1" timestamp="2010-10-15T15:30:04Z" uid="96874" user="Quedel" changeset="6049555">
+    <member type="way" ref="23453251" role="from"/>
+    <member type="way" ref="81527991" role="to"/>
+    <member type="node" ref="253997805" role="via"/>
+    <tag k="restriction" v="only_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1226090" version="1" timestamp="2010-10-15T15:30:05Z" uid="96874" user="Quedel" changeset="6049555">
+    <member type="way" ref="43920419" role="from"/>
+    <member type="way" ref="23453251" role="to"/>
+    <member type="node" ref="253997805" role="via"/>
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1226103" version="1" timestamp="2010-10-15T15:48:08Z" uid="96874" user="Quedel" changeset="6049555">
+    <member type="way" ref="27624747" role="from"/>
+    <member type="way" ref="27216025" role="to"/>
+    <member type="node" ref="298675982" role="via"/>
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1226104" version="1" timestamp="2010-10-15T15:48:08Z" uid="96874" user="Quedel" changeset="6049555">
+    <member type="way" ref="5148676" role="from"/>
+    <member type="way" ref="27216025" role="to"/>
+    <member type="node" ref="298675982" role="via"/>
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1226145" version="1" timestamp="2010-10-15T16:04:33Z" uid="59758" user="rendle" changeset="6050296">
+    <member type="way" ref="81403545" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1226145" version="2" timestamp="2010-10-15T16:04:43Z" uid="59758" user="rendle" changeset="6050296">
+    <member type="way" ref="81403545" role="outer"/>
+    <member type="way" ref="81396083" role=""/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1226145" version="3" timestamp="2010-10-15T16:05:15Z" uid="59758" user="rendle" changeset="6050296">
+    <member type="way" ref="81403545" role="outer"/>
+    <member type="way" ref="81396083" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1226211" version="1" timestamp="2010-10-15T17:05:57Z" uid="9581" user="Lobelt" changeset="6050752">
+    <member type="way" ref="4212057" role="from"/>
+    <member type="way" ref="81537095" role="to"/>
+    <member type="node" ref="20978790" role="via"/>
+    <tag k="restriction" v="no_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1226212" version="1" timestamp="2010-10-15T17:05:58Z" uid="9581" user="Lobelt" changeset="6050752">
+    <member type="way" ref="51358794" role="from"/>
+    <member type="way" ref="81537095" role="to"/>
+    <member type="node" ref="20978794" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1226213" version="1" timestamp="2010-10-15T17:05:58Z" uid="9581" user="Lobelt" changeset="6050752">
+    <member type="way" ref="81537096" role="from"/>
+    <member type="way" ref="51358797" role="to"/>
+    <member type="node" ref="20977807" role="via"/>
+    <tag k="restriction" v="no_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1226214" version="1" timestamp="2010-10-15T17:05:58Z" uid="9581" user="Lobelt" changeset="6050752">
+    <member type="way" ref="81537096" role="from"/>
+    <member type="way" ref="12243379" role="to"/>
+    <member type="node" ref="20978794" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1226813" version="1" timestamp="2010-10-16T09:37:42Z" uid="9581" user="Lobelt" changeset="6056067">
+    <member type="way" ref="75430517" role="outer"/>
+    <member type="way" ref="75430514" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1226814" version="1" timestamp="2010-10-16T09:37:42Z" uid="9581" user="Lobelt" changeset="6056067">
+    <member type="way" ref="81627642" role="inner"/>
+    <member type="way" ref="81627638" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1226850" version="1" timestamp="2010-10-16T10:23:03Z" uid="9581" user="Lobelt" changeset="6056350">
+    <member type="way" ref="81630719" role="from"/>
+    <member type="way" ref="81630714" role="to"/>
+    <member type="node" ref="26915541" role="via"/>
+    <tag k="restriction" v="no_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1226851" version="1" timestamp="2010-10-16T10:23:03Z" uid="9581" user="Lobelt" changeset="6056350">
+    <member type="way" ref="38089100" role="from"/>
+    <member type="way" ref="81630715" role="to"/>
+    <member type="node" ref="26915541" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1226852" version="1" timestamp="2010-10-16T10:23:03Z" uid="9581" user="Lobelt" changeset="6056350">
+    <member type="way" ref="81630714" role="from"/>
+    <member type="way" ref="81630716" role="to"/>
+    <member type="node" ref="26915543" role="via"/>
+    <tag k="restriction" v="no_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1226853" version="1" timestamp="2010-10-16T10:23:03Z" uid="9581" user="Lobelt" changeset="6056350">
+    <member type="way" ref="4082950" role="from"/>
+    <member type="way" ref="81630719" role="to"/>
+    <member type="node" ref="26915551" role="via"/>
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1226874" version="1" timestamp="2010-10-16T11:23:34Z" uid="96874" user="Quedel" changeset="6056097">
+    <member type="way" ref="5023139" role="from"/>
+    <member type="way" ref="81268022" role="to"/>
+    <member type="node" ref="33506128" role="via"/>
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+</osm>

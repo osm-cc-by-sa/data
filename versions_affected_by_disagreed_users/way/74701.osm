@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="74701096" version="10" timestamp="2011-01-24T17:31:02Z" uid="115477" user="wowik" changeset="7075407"/>
+  <way id="74701252" version="5" timestamp="2011-01-21T19:28:46Z" uid="115477" user="wowik" changeset="7043561">
+    <nd ref="914269616"/>
+    <nd ref="882410910"/>
+    <nd ref="882410911"/>
+    <nd ref="882408598"/>
+    <nd ref="882409994"/>
+    <nd ref="882409995"/>
+    <nd ref="882409996"/>
+    <nd ref="882409997"/>
+    <tag k="foot" v="yes"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="motorcar" v="no"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="74701252" version="6" timestamp="2011-02-15T18:58:46Z" uid="115477" user="wowik" changeset="7297753">
+    <nd ref="914269616"/>
+    <nd ref="882410910"/>
+    <nd ref="882410911"/>
+    <nd ref="882408598"/>
+    <nd ref="882409994"/>
+    <nd ref="882409996"/>
+    <nd ref="882409997"/>
+    <tag k="foot" v="yes"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="motorcar" v="no"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="74701572" version="2" timestamp="2011-04-01T11:47:37Z" uid="4467" user="Rosscoe" changeset="7734832">
+    <nd ref="882420125"/>
+    <nd ref="1227849823"/>
+    <nd ref="1227849668"/>
+    <nd ref="882420042"/>
+    <nd ref="882420044"/>
+    <nd ref="882420045"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxspeed" v="15"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="74701631" version="2" timestamp="2011-01-27T09:49:34Z" uid="4467" user="Rosscoe" changeset="7101693">
+    <nd ref="882420521"/>
+    <nd ref="1123215357"/>
+    <nd ref="882420527"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="maxspeed" v="70"/>
+    <tag k="name" v="Cobra Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="74701631" version="3" timestamp="2011-04-01T11:46:38Z" uid="4467" user="Rosscoe" changeset="7734832">
+    <nd ref="882420521"/>
+    <nd ref="1227849762"/>
+    <nd ref="1123215357"/>
+    <nd ref="882420527"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="maxspeed" v="70"/>
+    <tag k="name" v="Cobra Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="74701633" version="2" timestamp="2011-01-27T09:49:31Z" uid="4467" user="Rosscoe" changeset="7101693">
+    <nd ref="882420527"/>
+    <nd ref="1123215343"/>
+    <nd ref="189768985"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="maxspeed" v="70"/>
+    <tag k="name" v="Cobra Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="74701817" version="3" timestamp="2011-04-01T14:54:08Z" uid="4467" user="Rosscoe" changeset="7736102">
+    <nd ref="905151377"/>
+    <nd ref="472695177"/>
+    <nd ref="472695176"/>
+    <nd ref="882421261"/>
+    <nd ref="882421266"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Hennessy Drive"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="survey" v="GPS"/>
+  </way>
+</osm>

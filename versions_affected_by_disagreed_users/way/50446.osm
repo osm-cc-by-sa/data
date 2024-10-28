@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="50446057" version="2" timestamp="2010-07-09T18:20:04Z" uid="74617" user="JohnSmith" changeset="5175333">
+    <nd ref="68870498"/>
+    <nd ref="68870513"/>
+    <nd ref="68870525"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Thelma Street"/>
+  </way>
+  <way id="50446057" version="3" timestamp="2011-04-24T04:05:01Z" uid="4467" user="Rosscoe" changeset="7949114">
+    <nd ref="68870498"/>
+    <nd ref="68870513"/>
+    <nd ref="68870525"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Thelma Street"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="50446860" version="1" timestamp="2010-02-16T14:42:49Z" uid="74027" user="katzlbt" changeset="3892705">
+    <nd ref="641590455"/>
+    <nd ref="641591485"/>
+    <nd ref="641591492"/>
+    <nd ref="641591516"/>
+    <nd ref="641591522"/>
+    <tag k="FIXME" v="continueme"/>
+    <tag k="highway" v="track"/>
+  </way>
+  <way id="50446861" version="1" timestamp="2010-02-16T14:42:50Z" uid="74027" user="katzlbt" changeset="3892705">
+    <nd ref="641591218"/>
+    <nd ref="641591556"/>
+    <nd ref="641591564"/>
+    <nd ref="641591566"/>
+    <tag k="FIXME" v="continueme"/>
+    <tag k="highway" v="track"/>
+  </way>
+</osm>

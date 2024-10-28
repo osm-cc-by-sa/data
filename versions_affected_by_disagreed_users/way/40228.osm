@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="40228068" version="1" timestamp="2009-09-05T17:13:05Z" uid="59758" user="rendle" changeset="2382855">
+    <nd ref="484899663"/>
+    <nd ref="484899669"/>
+    <nd ref="484899677"/>
+    <nd ref="484899683"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Buisschootstraat"/>
+  </way>
+  <way id="40228122" version="1" timestamp="2009-09-05T17:14:16Z" uid="59758" user="rendle" changeset="2382855">
+    <nd ref="484900298"/>
+    <nd ref="484900302"/>
+    <nd ref="484900309"/>
+    <nd ref="484900314"/>
+    <nd ref="484900320"/>
+    <nd ref="484900327"/>
+    <tag k="highway" v="track"/>
+    <tag k="tracktype" v="grade2"/>
+  </way>
+  <way id="40228265" version="3" timestamp="2010-10-15T20:55:40Z" uid="96874" user="Quedel" changeset="6051410">
+    <nd ref="484901848"/>
+    <nd ref="484901853"/>
+    <nd ref="484901856"/>
+    <nd ref="484901861"/>
+    <nd ref="484901866"/>
+    <nd ref="484901848"/>
+    <tag k="amenity" v="parking"/>
+    <tag k="fee" v="yes"/>
+    <tag k="name" v="Carl-Ritter-Platz"/>
+    <tag k="parking:condition" v="ticket"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="40228348" version="3" timestamp="2010-10-20T18:20:08Z" uid="96874" user="Quedel" changeset="6118586">
+    <nd ref="335728310"/>
+    <nd ref="300442311"/>
+    <tag k="highway" v="living_street"/>
+    <tag k="lanes" v="1"/>
+    <tag k="name" v="Word"/>
+    <tag k="parking:condition:left" v="residents"/>
+    <tag k="parking:lane:left" v="orthogonal"/>
+    <tag k="parking:lane:right" v="no_stopping"/>
+    <tag k="surface" v="cobblestone"/>
+  </way>
+  <way id="40228468" version="4" timestamp="2010-04-07T20:51:52Z" uid="20587" user="balrog-kun" changeset="4355840">
+    <nd ref="75054143"/>
+    <nd ref="76927586"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Bismarck Expressway"/>
+    <tag k="name_1" v="State Highway 810"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A39"/>
+    <tag k="tiger:county" v="Morton, ND"/>
+    <tag k="tiger:name_base" v="Bismarck"/>
+    <tag k="tiger:name_base_1" v="State Highway 810"/>
+    <tag k="tiger:name_type" v="Expy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="199025394"/>
+  </way>
+</osm>

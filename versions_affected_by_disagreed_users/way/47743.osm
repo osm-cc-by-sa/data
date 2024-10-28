@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="47743328" version="2" timestamp="2010-05-01T13:30:25Z" uid="4467" user="Rosscoe" changeset="4574976">
+    <nd ref="365978608"/>
+    <nd ref="715405574"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="47743328" version="3" timestamp="2010-07-08T03:49:53Z" uid="74617" user="JohnSmith" changeset="5163091">
+    <nd ref="365978608"/>
+    <nd ref="715405574"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="47743378" version="2" timestamp="2010-05-01T13:30:25Z" uid="4467" user="Rosscoe" changeset="4574976">
+    <nd ref="607377770"/>
+    <nd ref="607377774"/>
+    <nd ref="607377778"/>
+    <nd ref="607377782"/>
+    <nd ref="607377787"/>
+    <nd ref="715405422"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+</osm>

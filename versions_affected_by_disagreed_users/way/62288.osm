@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="62288101" version="2" timestamp="2010-09-26T20:36:27Z" uid="9581" user="Lobelt" changeset="5885573">
+    <nd ref="778230341"/>
+    <nd ref="778230395"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="E 40"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="no"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="osmarender:nameDirection" v="-1"/>
+    <tag k="osmarender:renderName" v="no"/>
+    <tag k="ref" v="A 4"/>
+  </way>
+  <way id="62288375" version="3" timestamp="2011-02-12T04:46:30Z" uid="4467" user="Rosscoe" changeset="7261402">
+    <nd ref="778231419"/>
+    <nd ref="778103567"/>
+    <nd ref="778103569"/>
+    <nd ref="778103571"/>
+    <nd ref="778103597"/>
+    <nd ref="780870615"/>
+    <nd ref="778103604"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Hardie Street"/>
+    <tag k="source" v="survey"/>
+    <tag k="survey" v="GPS"/>
+  </way>
+  <way id="62288377" version="2" timestamp="2011-02-12T04:46:16Z" uid="4467" user="Rosscoe" changeset="7261402">
+    <nd ref="778103571"/>
+    <nd ref="778103572"/>
+    <nd ref="778103575"/>
+    <nd ref="778103577"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="stocker street"/>
+    <tag k="source" v="survey"/>
+    <tag k="survey" v="GPS"/>
+  </way>
+  <way id="62288465" version="1" timestamp="2010-06-20T13:34:16Z" uid="20587" user="balrog-kun" changeset="5032750">
+    <nd ref="778231827"/>
+    <nd ref="778231837"/>
+    <nd ref="778231834"/>
+    <nd ref="778231832"/>
+    <nd ref="778231830"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="62288466" version="1" timestamp="2010-06-20T13:34:16Z" uid="20587" user="balrog-kun" changeset="5032750">
+    <nd ref="778231833"/>
+    <nd ref="778231827"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="footway"/>
+    <tag k="layer" v="1"/>
+  </way>
+  <way id="62288467" version="1" timestamp="2010-06-20T13:34:16Z" uid="20587" user="balrog-kun" changeset="5032750">
+    <nd ref="27488898"/>
+    <nd ref="778231839"/>
+    <nd ref="778231833"/>
+    <tag k="highway" v="footway"/>
+  </way>
+</osm>

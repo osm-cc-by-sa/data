@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1521043" version="1" timestamp="2011-03-31T20:21:22Z" uid="66036" user="h4v" changeset="7729760">
+    <member type="way" ref="86499182" role="house"/>
+    <member type="way" ref="33810795" role="street"/>
+    <tag k="name" v="Włókniarzy"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1521043" version="2" timestamp="2011-04-11T01:00:38Z" uid="66036" user="h4v" changeset="7828873">
+    <member type="node" ref="1240458825" role="house"/>
+    <member type="way" ref="86499182" role="house"/>
+    <member type="way" ref="33810795" role="street"/>
+    <tag k="name" v="Włókniarzy"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1521083" version="1" timestamp="2011-03-31T20:36:14Z" uid="66036" user="h4v" changeset="7729901">
+    <member type="node" ref="1227165458" role="house"/>
+    <member type="way" ref="25972628" role="street"/>
+    <tag k="name" v="Milionowa"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1521460" version="2" timestamp="2011-04-19T09:13:46Z" uid="4467" user="Rosscoe" changeset="7904555">
+    <member type="node" ref="269619446" role="device"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="restriction" v="maxspeed"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1521461" version="2" timestamp="2011-04-19T09:13:09Z" uid="4467" user="Rosscoe" changeset="7904555">
+    <member type="node" ref="269619446" role="device"/>
+    <tag k="restriction" v="traffic_signals"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1521462" version="2" timestamp="2011-04-19T09:14:34Z" uid="4467" user="Rosscoe" changeset="7904555"/>
+</osm>

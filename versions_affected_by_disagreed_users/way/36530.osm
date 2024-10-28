@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="36530066" version="2" timestamp="2010-03-28T02:20:40Z" uid="20587" user="balrog-kun" changeset="4250871">
+    <nd ref="87591838"/>
+    <nd ref="425513142"/>
+    <nd ref="87541059"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="East Jensen Avenue"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Fresno, CA"/>
+    <tag k="tiger:name_base" v="Jensen"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="197637996:197637997:197590699:197590701:197590679:197586813:197586827:197590682"/>
+    <tag k="tiger:zip_left" v="93657"/>
+    <tag k="tiger:zip_right" v="93657"/>
+  </way>
+  <way id="36530558" version="4" timestamp="2010-08-04T17:39:47Z" uid="9581" user="Lobelt" changeset="5401263">
+    <nd ref="425515380"/>
+    <nd ref="425515381"/>
+    <nd ref="425515382"/>
+    <nd ref="425515383"/>
+    <nd ref="425515384"/>
+    <nd ref="425515385"/>
+    <nd ref="425515386"/>
+    <nd ref="425515387"/>
+    <tag k="cables" v="6"/>
+    <tag k="fixme" v="Leitungsnummer"/>
+    <tag k="frequency" v="50"/>
+    <tag k="note" v="west:rot;ost:?"/>
+    <tag k="operator" v="EON_Netz"/>
+    <tag k="power" v="line"/>
+    <tag k="voltage" v="110000"/>
+    <tag k="wires" v="single"/>
+  </way>
+</osm>

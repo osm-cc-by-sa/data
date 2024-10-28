@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="39477571" version="2" timestamp="2010-04-02T03:30:41Z" uid="74617" user="JohnSmith" changeset="4299895">
+    <nd ref="14988710"/>
+    <nd ref="14988714"/>
+    <nd ref="14988718"/>
+    <nd ref="14988722"/>
+    <nd ref="14988725"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Monaro Highway"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="39477573" version="2" timestamp="2010-06-09T14:34:08Z" uid="9719" user="dvaey" changeset="4945637">
+    <nd ref="14988709"/>
+    <nd ref="14988705"/>
+    <nd ref="14988697"/>
+    <nd ref="14988690"/>
+    <nd ref="14988683"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Monaro Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="ALT-23"/>
+  </way>
+  <way id="39477573" version="3" timestamp="2010-06-09T14:40:40Z" uid="9719" user="dvaey" changeset="4945637">
+    <nd ref="14988709"/>
+    <nd ref="14988705"/>
+    <nd ref="14988697"/>
+    <nd ref="14988690"/>
+    <nd ref="14988683"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Monaro Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="ALT-23"/>
+  </way>
+  <way id="39477643" version="4" timestamp="2010-06-09T14:44:01Z" uid="9719" user="dvaey" changeset="4945637">
+    <nd ref="30528099"/>
+    <nd ref="102335168"/>
+    <nd ref="664325657"/>
+    <nd ref="30528101"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Ipswich Street"/>
+  </way>
+  <way id="39477643" version="5" timestamp="2010-06-09T14:44:28Z" uid="9719" user="dvaey" changeset="4945637">
+    <nd ref="30528099"/>
+    <nd ref="102335168"/>
+    <nd ref="664325657"/>
+    <nd ref="30528101"/>
+    <nd ref="767939961"/>
+    <nd ref="767939959"/>
+    <nd ref="767939963"/>
+    <nd ref="30528099"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Ipswich Street"/>
+  </way>
+  <way id="39477643" version="6" timestamp="2010-06-09T14:44:44Z" uid="9719" user="dvaey" changeset="4945637">
+    <nd ref="30528099"/>
+    <nd ref="102335168"/>
+    <nd ref="664325657"/>
+    <nd ref="30528101"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Ipswich Street"/>
+  </way>
+  <way id="39477643" version="7" timestamp="2010-06-09T14:46:05Z" uid="9719" user="dvaey" changeset="4945637">
+    <nd ref="30528098"/>
+    <nd ref="767940282"/>
+    <nd ref="767940283"/>
+    <nd ref="102335168"/>
+    <nd ref="664325657"/>
+    <nd ref="30528101"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Ipswich Street"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="39477908" version="2" timestamp="2010-07-07T07:47:19Z" uid="74617" user="JohnSmith" changeset="5156250">
+    <nd ref="472804300"/>
+    <nd ref="472804304"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="source" v="GPS"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="39477908" version="3" timestamp="2011-04-01T13:42:43Z" uid="4467" user="Rosscoe" changeset="7735639">
+    <nd ref="472804300"/>
+    <nd ref="472804304"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="source" v="GPS"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="39477908" version="4" timestamp="2011-04-01T14:54:12Z" uid="4467" user="Rosscoe" changeset="7736102">
+    <nd ref="472804300"/>
+    <nd ref="1227970197"/>
+    <nd ref="1227970315"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="survey" v="GPS"/>
+  </way>
+  <way id="39477922" version="5" timestamp="2011-04-01T11:47:15Z" uid="4467" user="Rosscoe" changeset="7734832">
+    <nd ref="472804322"/>
+    <nd ref="434138678"/>
+    <nd ref="884071971"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Victoria Street"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="39477935" version="2" timestamp="2011-04-01T14:54:08Z" uid="4467" user="Rosscoe" changeset="7736102">
+    <nd ref="417628118"/>
+    <nd ref="472804416"/>
+    <nd ref="472804418"/>
+    <nd ref="472804423"/>
+    <nd ref="472804426"/>
+    <nd ref="417628118"/>
+    <tag k="amenity" v="parking"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="survey" v="GPS"/>
+  </way>
+  <way id="39477945" version="2" timestamp="2011-04-01T14:53:19Z" uid="4467" user="Rosscoe" changeset="7736102">
+    <nd ref="472804450"/>
+    <nd ref="472804457"/>
+    <nd ref="472804464"/>
+    <nd ref="472804468"/>
+    <nd ref="472804450"/>
+    <tag k="amenity" v="parking"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+</osm>

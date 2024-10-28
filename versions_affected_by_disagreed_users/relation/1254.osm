@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1254497" version="1" timestamp="2010-11-03T21:17:02Z" uid="30632" user="antblant" changeset="6279636">
+    <member type="way" ref="83854522" role=""/>
+    <tag k="name" v="Droga wojewódzka 139"/>
+    <tag k="network" v="pl:regional"/>
+    <tag k="ref" v="139"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+    <tag k="wikipedia" v="pl:Droga wojewódzka nr 139"/>
+  </relation>
+  <relation id="1254705" version="2" timestamp="2011-02-18T10:43:32Z" uid="23543" user="jkjk" changeset="7321182">
+    <member type="way" ref="100267370" role="inner"/>
+    <member type="way" ref="31153099" role="outer"/>
+    <member type="way" ref="31153104" role="inner"/>
+    <member type="way" ref="31153126" role="inner"/>
+    <member type="way" ref="31153123" role="inner"/>
+    <member type="way" ref="31153108" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+</osm>

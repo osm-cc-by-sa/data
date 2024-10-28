@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="935200" version="1" timestamp="2010-05-24T13:39:13Z" uid="7617" user="Franc" changeset="4793527">
+    <member type="way" ref="34580414" role="from"/>
+    <member type="node" ref="401421366" role="via"/>
+    <member type="way" ref="60138118" role="to"/>
+    <tag k="restriction" v="no_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="935201" version="1" timestamp="2010-05-24T13:39:16Z" uid="7617" user="Franc" changeset="4793527">
+    <member type="way" ref="60138118" role="from"/>
+    <member type="node" ref="401421366" role="via"/>
+    <member type="way" ref="34580414" role="to"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="935276" version="21" timestamp="2011-02-18T10:43:35Z" uid="23543" user="jkjk" changeset="7321182">
+    <member type="way" ref="83277729" role=""/>
+    <member type="way" ref="100267399" role=""/>
+    <member type="way" ref="100267428" role=""/>
+    <member type="way" ref="83277742" role=""/>
+    <member type="way" ref="83277724" role=""/>
+    <member type="way" ref="57953865" role=""/>
+    <member type="way" ref="57953846" role=""/>
+    <member type="way" ref="57953848" role=""/>
+    <member type="way" ref="57953867" role=""/>
+    <member type="way" ref="57953861" role=""/>
+    <member type="way" ref="57953844" role=""/>
+    <member type="way" ref="57953845" role=""/>
+    <member type="way" ref="57833978" role=""/>
+    <member type="way" ref="57833954" role=""/>
+    <member type="way" ref="57833947" role=""/>
+    <member type="way" ref="57833964" role=""/>
+    <member type="way" ref="57833961" role=""/>
+    <member type="way" ref="57833975" role=""/>
+    <member type="way" ref="57833970" role=""/>
+    <member type="way" ref="57833946" role=""/>
+    <member type="way" ref="57833952" role=""/>
+    <member type="way" ref="85933030" role=""/>
+    <member type="way" ref="85933032" role=""/>
+    <member type="way" ref="57833969" role=""/>
+    <member type="way" ref="57833963" role=""/>
+    <member type="way" ref="57833973" role=""/>
+    <member type="way" ref="57833951" role=""/>
+    <member type="way" ref="57833945" role=""/>
+    <member type="way" ref="57833959" role=""/>
+    <member type="way" ref="57833972" role=""/>
+    <member type="way" ref="57833967" role=""/>
+    <member type="way" ref="57833955" role=""/>
+    <member type="way" ref="57833958" role=""/>
+    <member type="way" ref="57833965" role=""/>
+    <member type="way" ref="55648780" role=""/>
+    <member type="way" ref="35145211" role=""/>
+    <member type="way" ref="51015018" role=""/>
+    <member type="way" ref="60145298" role=""/>
+    <tag k="name" v="301国道"/>
+    <tag k="network" v="CN-roads"/>
+    <tag k="ref" v="G301"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+</osm>

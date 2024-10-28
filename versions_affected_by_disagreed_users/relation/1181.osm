@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1181364" version="1" timestamp="2010-09-17T21:06:54Z" uid="9581" user="Lobelt" changeset="5807386">
+    <member type="way" ref="17474347" role="outer"/>
+    <member type="way" ref="77939340" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1181638" version="1" timestamp="2010-09-18T04:24:19Z" uid="7617" user="Franc" changeset="5808700">
+    <member type="way" ref="77966154" role="from"/>
+    <member type="way" ref="7481610" role="to"/>
+    <member type="node" ref="54936905" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1181650" version="1" timestamp="2010-09-18T06:58:52Z" uid="61114" user="Trav" changeset="5809070">
+    <member type="node" ref="311436119" role="via"/>
+    <member type="way" ref="49242428" role="to"/>
+    <member type="way" ref="49185762" role="from"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="source" v="survey"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1181903" version="5" timestamp="2011-03-26T21:21:14Z" uid="34428" user="usm78-gis" changeset="7680240">
+    <member type="way" ref="71360154" role=""/>
+    <member type="way" ref="37619788" role=""/>
+    <member type="way" ref="33065979" role=""/>
+    <member type="way" ref="31388531" role=""/>
+    <member type="way" ref="31366207" role=""/>
+    <member type="way" ref="31371557" role=""/>
+    <member type="way" ref="31398296" role=""/>
+    <member type="way" ref="32500355" role=""/>
+    <member type="way" ref="31396115" role=""/>
+    <member type="way" ref="31403324" role=""/>
+    <member type="way" ref="31371678" role=""/>
+    <member type="way" ref="31395646" role=""/>
+    <member type="way" ref="38040865" role=""/>
+    <member type="way" ref="61158368" role=""/>
+    <member type="way" ref="31377783" role=""/>
+    <member type="way" ref="31370940" role=""/>
+    <member type="way" ref="31374765" role=""/>
+    <member type="way" ref="31369243" role=""/>
+    <member type="way" ref="41715012" role=""/>
+    <member type="way" ref="31368223" role=""/>
+    <member type="way" ref="78008240" role=""/>
+    <member type="way" ref="78008245" role=""/>
+    <member type="way" ref="88872343" role=""/>
+    <member type="way" ref="78008235" role=""/>
+    <member type="way" ref="31381201" role=""/>
+    <member type="way" ref="31396395" role=""/>
+    <member type="way" ref="31395593" role=""/>
+    <member type="way" ref="31400039" role=""/>
+    <member type="way" ref="31401369" role=""/>
+    <member type="way" ref="31371262" role=""/>
+    <member type="way" ref="31380121" role=""/>
+    <member type="way" ref="78008236" role=""/>
+    <member type="way" ref="31396621" role=""/>
+    <member type="way" ref="31402601" role=""/>
+    <member type="way" ref="105926170" role=""/>
+    <member type="way" ref="105926288" role=""/>
+    <member type="way" ref="31364947" role=""/>
+    <member type="way" ref="71376489" role=""/>
+    <member type="way" ref="71376485" role=""/>
+    <member type="way" ref="79570065" role=""/>
+    <member type="way" ref="96116991" role=""/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="is_in" v="Россия"/>
+    <tag k="is_in:city" v="Санкт-Петербург"/>
+    <tag k="name" v="Финляндский округ"/>
+    <tag k="type" v="boundary"/>
+    <tag k="url" v="http://www.gov.spb.ru/law?d&amp;nd=8414528&amp;nh=0&amp;header=010000006L00#I0"/>
+  </relation>
+</osm>

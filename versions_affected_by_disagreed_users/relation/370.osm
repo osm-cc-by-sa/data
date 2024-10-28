@@ -1,0 +1,433 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="370003" version="1" timestamp="2009-12-26T06:16:50Z" uid="61114" user="Trav" changeset="3452335">
+    <member type="way" ref="30133378" role="to"/>
+    <member type="way" ref="30133375" role="from"/>
+    <member type="node" ref="332056386" role="via"/>
+    <tag k="day_off" v="fri"/>
+    <tag k="day_on" v="mon"/>
+    <tag k="except" v="bus"/>
+    <tag k="hour_off" v="10:00"/>
+    <tag k="hour_off2" v="19:00"/>
+    <tag k="hour_on" v="06:00"/>
+    <tag k="hour_on2" v="15:00"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="370003" version="2" timestamp="2010-01-19T10:42:08Z" uid="30201" user="rrankin" changeset="3657626">
+    <member type="way" ref="30133378" role="to"/>
+    <member type="way" ref="30133375" role="from"/>
+    <member type="node" ref="332056386" role="via"/>
+    <tag k="day_off" v="fri"/>
+    <tag k="day_on" v="mon"/>
+    <tag k="except" v="bus"/>
+    <tag k="hour_off" v="10:00"/>
+    <tag k="hour_off2" v="19:00"/>
+    <tag k="hour_on" v="06:00"/>
+    <tag k="hour_on2" v="15:00"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="370003" version="3" timestamp="2010-04-01T18:22:21Z" uid="74617" user="JohnSmith" changeset="4296292">
+    <member type="way" ref="46980784" role="to"/>
+    <member type="way" ref="30133375" role="from"/>
+    <member type="node" ref="332056386" role="via"/>
+    <tag k="day_off" v="fri"/>
+    <tag k="day_on" v="mon"/>
+    <tag k="except" v="bus"/>
+    <tag k="hour_off" v="10:00"/>
+    <tag k="hour_off2" v="19:00"/>
+    <tag k="hour_on" v="06:00"/>
+    <tag k="hour_on2" v="15:00"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="370004" version="1" timestamp="2009-12-26T06:16:52Z" uid="61114" user="Trav" changeset="3452335">
+    <member type="way" ref="30133134" role="from"/>
+    <member type="way" ref="8657065" role="to"/>
+    <member type="node" ref="138976790" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="370004" version="2" timestamp="2010-01-19T10:42:09Z" uid="30201" user="rrankin" changeset="3657626">
+    <member type="way" ref="30133134" role="from"/>
+    <member type="way" ref="8657065" role="to"/>
+    <member type="node" ref="138976790" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="370049" version="1" timestamp="2009-12-26T10:14:35Z" uid="58091" user="Andreas M" changeset="3453278">
+    <member type="way" ref="42857244" role="inner"/>
+    <member type="way" ref="42857275" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="370451" version="1" timestamp="2009-12-26T18:46:16Z" uid="43863" user="Rundling" changeset="3457253">
+    <member type="way" ref="32063721" role="outer"/>
+    <member type="way" ref="46683781" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="370451" version="2" timestamp="2010-01-01T17:15:43Z" uid="43863" user="Rundling" changeset="3511931">
+    <member type="way" ref="32063721" role="outer"/>
+    <member type="way" ref="46683781" role="inner"/>
+    <member type="way" ref="47309785" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="370485" version="9" timestamp="2011-04-04T22:37:59Z" uid="23543" user="jkjk" changeset="7770458">
+    <member type="way" ref="26784267" role=""/>
+    <member type="way" ref="47007130" role=""/>
+    <member type="way" ref="4778027" role=""/>
+    <member type="way" ref="4776990" role=""/>
+    <member type="way" ref="37210891" role=""/>
+    <member type="way" ref="26784268" role=""/>
+    <member type="way" ref="37210894" role=""/>
+    <member type="way" ref="17530870" role=""/>
+    <member type="way" ref="37210892" role=""/>
+    <member type="way" ref="26784269" role=""/>
+    <member type="way" ref="26784273" role=""/>
+    <member type="way" ref="47402517" role=""/>
+    <member type="way" ref="26784275" role=""/>
+    <member type="way" ref="5024603" role=""/>
+    <member type="way" ref="47007136" role=""/>
+    <member type="way" ref="24634804" role=""/>
+    <member type="way" ref="24634795" role=""/>
+    <member type="way" ref="107255798" role=""/>
+    <member type="way" ref="7866014" role=""/>
+    <member type="way" ref="26440155" role=""/>
+    <member type="way" ref="26440134" role=""/>
+    <member type="way" ref="26540004" role=""/>
+    <member type="way" ref="47007131" role=""/>
+    <member type="way" ref="107255783" role=""/>
+    <member type="way" ref="23889135" role=""/>
+    <member type="way" ref="47007133" role=""/>
+    <member type="way" ref="23889137" role=""/>
+    <member type="way" ref="7865852" role=""/>
+    <member type="way" ref="80387852" role=""/>
+    <member type="way" ref="80387829" role=""/>
+    <member type="way" ref="80387857" role=""/>
+    <member type="way" ref="80387835" role=""/>
+    <member type="way" ref="80387886" role=""/>
+    <member type="way" ref="80387872" role=""/>
+    <member type="way" ref="61595019" role=""/>
+    <member type="way" ref="7865826" role=""/>
+    <member type="way" ref="8166776" role=""/>
+    <member type="way" ref="26724148" role=""/>
+    <member type="way" ref="26440136" role=""/>
+    <member type="way" ref="61980206" role=""/>
+    <member type="way" ref="61922227" role=""/>
+    <member type="way" ref="18198802" role=""/>
+    <member type="way" ref="61980206" role=""/>
+    <member type="way" ref="22726213" role=""/>
+    <member type="way" ref="22726209" role=""/>
+    <member type="way" ref="64339864" role=""/>
+    <member type="way" ref="64339862" role=""/>
+    <tag k="complete" v="no"/>
+    <tag k="destinations" v="Říčany - Oplany"/>
+    <tag k="kct_green" v="major"/>
+    <tag k="note" v="Říčany - Oplany"/>
+    <tag k="operator" v="cz:KČT"/>
+    <tag k="osmc:symbol" v="green:white:green_bar"/>
+    <tag k="route" v="foot"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="370755" version="1" timestamp="2009-12-27T08:39:13Z" uid="74617" user="JohnSmith" changeset="3460603">
+    <member type="way" ref="22740189" role="member"/>
+    <member type="way" ref="46949625" role="member"/>
+    <member type="way" ref="22740188" role="member"/>
+    <member type="way" ref="35551542" role="member"/>
+    <member type="way" ref="35551544" role="member"/>
+    <member type="way" ref="34472909" role="member"/>
+    <member type="way" ref="34472909" role="member"/>
+    <member type="way" ref="22740190" role="member"/>
+    <tag k="name" v="Summerland Way"/>
+    <tag k="network" v="S"/>
+    <tag k="ref" v="91"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="370755" version="2" timestamp="2009-12-27T08:48:05Z" uid="74617" user="JohnSmith" changeset="3460650">
+    <member type="way" ref="34472909" role="member"/>
+    <member type="way" ref="47027912" role="member"/>
+    <member type="way" ref="47027914" role="member"/>
+    <member type="way" ref="35551544" role="member"/>
+    <member type="way" ref="35551542" role="member"/>
+    <member type="way" ref="22740188" role="member"/>
+    <member type="way" ref="46949625" role="member"/>
+    <member type="way" ref="22740189" role="member"/>
+    <member type="way" ref="22740190" role="member"/>
+    <tag k="name" v="Summerland Way"/>
+    <tag k="network" v="S"/>
+    <tag k="ref" v="91"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="370755" version="3" timestamp="2009-12-27T13:57:20Z" uid="74617" user="JohnSmith" changeset="3462942">
+    <member type="way" ref="26117312" role="member"/>
+    <member type="way" ref="24932093" role="member"/>
+    <member type="way" ref="22819408" role="member"/>
+    <member type="way" ref="16130771" role="member"/>
+    <member type="way" ref="22781314" role="member"/>
+    <member type="way" ref="22781086" role="member"/>
+    <member type="way" ref="22781085" role="member"/>
+    <member type="way" ref="22781040" role="member"/>
+    <member type="way" ref="22780980" role="member"/>
+    <member type="way" ref="22740190" role="member"/>
+    <member type="way" ref="22740189" role="member"/>
+    <member type="way" ref="46949625" role="member"/>
+    <member type="way" ref="22740188" role="member"/>
+    <member type="way" ref="35551542" role="member"/>
+    <member type="way" ref="35551544" role="member"/>
+    <member type="way" ref="47027914" role="member"/>
+    <member type="way" ref="47027912" role="member"/>
+    <member type="way" ref="34472909" role="member"/>
+    <member type="way" ref="4595887" role="member"/>
+    <member type="way" ref="4595696" role="member"/>
+    <member type="way" ref="4594014" role="member"/>
+    <member type="way" ref="22819618" role="member"/>
+    <member type="way" ref="25140957" role="member"/>
+    <member type="way" ref="45377731" role="member"/>
+    <tag k="name" v="Summerland Way"/>
+    <tag k="network" v="S"/>
+    <tag k="ref" v="91"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="370755" version="4" timestamp="2010-06-04T23:33:30Z" uid="244897" user="M526244" changeset="4905209">
+    <member type="way" ref="26117312" role="member"/>
+    <member type="way" ref="24932093" role="member"/>
+    <member type="way" ref="22819408" role="member"/>
+    <member type="way" ref="16130771" role="member"/>
+    <member type="way" ref="22781314" role="member"/>
+    <member type="way" ref="22781086" role="member"/>
+    <member type="way" ref="22781085" role="member"/>
+    <member type="way" ref="22781040" role="member"/>
+    <member type="way" ref="22780980" role="member"/>
+    <member type="way" ref="22740190" role="member"/>
+    <member type="way" ref="22740189" role="member"/>
+    <member type="way" ref="46949625" role="member"/>
+    <member type="way" ref="22740188" role="member"/>
+    <member type="way" ref="35551542" role="member"/>
+    <member type="way" ref="35551544" role="member"/>
+    <member type="way" ref="47027914" role="member"/>
+    <member type="way" ref="47027912" role="member"/>
+    <member type="way" ref="34472909" role="member"/>
+    <member type="way" ref="4595887" role="member"/>
+    <member type="way" ref="4595696" role="member"/>
+    <member type="way" ref="4594014" role="member"/>
+    <member type="way" ref="22819618" role="member"/>
+    <member type="way" ref="25140957" role="member"/>
+    <member type="way" ref="45377731" role="member"/>
+    <member type="way" ref="61131005" role="member"/>
+    <tag k="name" v="Summerland Way"/>
+    <tag k="network" v="S"/>
+    <tag k="ref" v="91"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="370755" version="5" timestamp="2010-07-08T01:22:07Z" uid="244897" user="M526244" changeset="5162996">
+    <member type="way" ref="26117312" role="member"/>
+    <member type="way" ref="24932093" role="member"/>
+    <member type="way" ref="22819408" role="member"/>
+    <member type="way" ref="16130771" role="member"/>
+    <member type="way" ref="22781314" role="member"/>
+    <member type="way" ref="22781086" role="member"/>
+    <member type="way" ref="22781085" role="member"/>
+    <member type="way" ref="22781040" role="member"/>
+    <member type="way" ref="22780980" role="member"/>
+    <member type="way" ref="22740190" role="member"/>
+    <member type="way" ref="22740189" role="member"/>
+    <member type="way" ref="46949625" role="member"/>
+    <member type="way" ref="22740188" role="member"/>
+    <member type="way" ref="35551542" role="member"/>
+    <member type="way" ref="35551544" role="member"/>
+    <member type="way" ref="47027914" role="member"/>
+    <member type="way" ref="47027912" role="member"/>
+    <member type="way" ref="34472909" role="member"/>
+    <member type="way" ref="4595887" role="member"/>
+    <member type="way" ref="4595696" role="member"/>
+    <member type="way" ref="4594014" role="member"/>
+    <member type="way" ref="22819618" role="member"/>
+    <member type="way" ref="25140957" role="member"/>
+    <member type="way" ref="45377731" role="member"/>
+    <member type="way" ref="61131005" role="member"/>
+    <tag k="name" v="Summerland Way"/>
+    <tag k="network" v="S"/>
+    <tag k="ref" v="91"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="370755" version="6" timestamp="2010-07-08T01:22:11Z" uid="244897" user="M526244" changeset="5162996">
+    <member type="way" ref="26117312" role="member"/>
+    <member type="way" ref="24932093" role="member"/>
+    <member type="way" ref="22819408" role="member"/>
+    <member type="way" ref="16130771" role="member"/>
+    <member type="way" ref="22781314" role="member"/>
+    <member type="way" ref="22781086" role="member"/>
+    <member type="way" ref="22781085" role="member"/>
+    <member type="way" ref="22781040" role="member"/>
+    <member type="way" ref="22780980" role="member"/>
+    <member type="way" ref="22740190" role="member"/>
+    <member type="way" ref="22740189" role="member"/>
+    <member type="way" ref="46949625" role="member"/>
+    <member type="way" ref="22740188" role="member"/>
+    <member type="way" ref="35551542" role="member"/>
+    <member type="way" ref="35551544" role="member"/>
+    <member type="way" ref="47027914" role="member"/>
+    <member type="way" ref="47027912" role="member"/>
+    <member type="way" ref="34472909" role="member"/>
+    <member type="way" ref="4595887" role="member"/>
+    <member type="way" ref="4595696" role="member"/>
+    <member type="way" ref="4594014" role="member"/>
+    <member type="way" ref="22819618" role="member"/>
+    <member type="way" ref="25140957" role="member"/>
+    <member type="way" ref="45377731" role="member"/>
+    <member type="way" ref="61131005" role="member"/>
+    <tag k="name" v="Summerland Way"/>
+    <tag k="network" v="S"/>
+    <tag k="ref" v="91"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="370755" version="19" timestamp="2011-04-05T01:06:31Z" uid="74617" user="JohnSmith" changeset="7770920">
+    <member type="way" ref="96666961" role="member"/>
+    <member type="way" ref="25140957" role="member"/>
+    <member type="way" ref="45377731" role="member"/>
+    <member type="way" ref="4298725" role="member"/>
+    <member type="way" ref="106741174" role="member"/>
+    <member type="way" ref="106747804" role="member"/>
+    <member type="way" ref="106747771" role="member"/>
+    <member type="way" ref="106747788" role="member"/>
+    <member type="way" ref="106747770" role="member"/>
+    <member type="way" ref="26117312" role="member"/>
+    <member type="way" ref="106747806" role="member"/>
+    <member type="way" ref="106847326" role="member"/>
+    <member type="way" ref="106847324" role="member"/>
+    <member type="way" ref="106847320" role="member"/>
+    <member type="way" ref="106747801" role="member"/>
+    <member type="way" ref="106747772" role="member"/>
+    <member type="way" ref="106747787" role="member"/>
+    <member type="way" ref="106747775" role="member"/>
+    <member type="way" ref="106747790" role="member"/>
+    <member type="way" ref="106747769" role="member"/>
+    <member type="way" ref="106849492" role="member"/>
+    <member type="way" ref="106849491" role="member"/>
+    <member type="way" ref="16130771" role="member"/>
+    <member type="way" ref="22781314" role="member"/>
+    <member type="way" ref="22781086" role="member"/>
+    <member type="way" ref="98969719" role="member"/>
+    <member type="way" ref="98969723" role="member"/>
+    <member type="way" ref="22781085" role="member"/>
+    <member type="way" ref="22781040" role="member"/>
+    <member type="way" ref="98997140" role="member"/>
+    <member type="way" ref="98997136" role="member"/>
+    <member type="way" ref="22780980" role="member"/>
+    <member type="way" ref="22740190" role="member"/>
+    <member type="way" ref="99618109" role="member"/>
+    <member type="way" ref="46949625" role="member"/>
+    <member type="way" ref="99618107" role="member"/>
+    <member type="way" ref="35551542" role="member"/>
+    <member type="way" ref="99618104" role="member"/>
+    <member type="way" ref="35551544" role="member"/>
+    <member type="way" ref="47027914" role="member"/>
+    <member type="way" ref="47027912" role="member"/>
+    <member type="way" ref="99696280" role="member"/>
+    <member type="way" ref="61131005" role="member"/>
+    <member type="way" ref="99814611" role="member"/>
+    <member type="way" ref="99814613" role="member"/>
+    <member type="way" ref="34472909" role="member"/>
+    <member type="way" ref="4595887" role="member"/>
+    <member type="way" ref="4595696" role="member"/>
+    <member type="way" ref="96521074" role="member"/>
+    <member type="way" ref="96521075" role="member"/>
+    <member type="way" ref="4594014" role="member"/>
+    <member type="way" ref="106747798" role="member"/>
+    <member type="way" ref="106747780" role="member"/>
+    <member type="way" ref="106747773" role="member"/>
+    <member type="way" ref="106747795" role="member"/>
+    <member type="way" ref="106849494" role="member"/>
+    <tag k="name" v="Summerland Way"/>
+    <tag k="network" v="S"/>
+    <tag k="ref" v="91"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="370897" version="1" timestamp="2009-12-27T15:30:17Z" uid="74617" user="JohnSmith" changeset="3463901">
+    <member type="way" ref="22372713" role="member"/>
+    <member type="way" ref="42129404" role="member"/>
+    <member type="way" ref="27237316" role="member"/>
+    <member type="way" ref="22195092" role="member"/>
+    <member type="way" ref="46520311" role="member"/>
+    <member type="way" ref="40896354" role="member"/>
+    <tag k="name" v="Mount Lindesay Highway"/>
+    <tag k="network" v="NR"/>
+    <tag k="ref" v="13"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="370897" version="2" timestamp="2009-12-27T15:31:06Z" uid="74617" user="JohnSmith" changeset="3463908">
+    <member type="way" ref="22372713" role="member"/>
+    <member type="way" ref="42129404" role="member"/>
+    <member type="way" ref="27237316" role="member"/>
+    <member type="way" ref="22195092" role="member"/>
+    <member type="way" ref="40896354" role="member"/>
+    <member type="way" ref="22492220" role="member"/>
+    <member type="way" ref="46520311" role="member"/>
+    <tag k="name" v="Mount Lindesay Highway"/>
+    <tag k="network" v="NR"/>
+    <tag k="ref" v="13"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="370897" version="3" timestamp="2009-12-27T15:35:23Z" uid="74617" user="JohnSmith" changeset="3463959">
+    <member type="way" ref="22372713" role="member"/>
+    <member type="way" ref="42129404" role="member"/>
+    <member type="way" ref="27237316" role="member"/>
+    <member type="way" ref="22195092" role="member"/>
+    <member type="way" ref="40896354" role="member"/>
+    <member type="way" ref="22492220" role="member"/>
+    <member type="way" ref="46520311" role="member"/>
+    <member type="way" ref="46520315" role="member"/>
+    <member type="way" ref="46520314" role="member"/>
+    <member type="way" ref="41014396" role="member"/>
+    <member type="way" ref="46520339" role="member"/>
+    <member type="way" ref="46520340" role="member"/>
+    <member type="way" ref="46520341" role="member"/>
+    <member type="way" ref="46520319" role="member"/>
+    <member type="way" ref="41014648" role="member"/>
+    <tag k="name" v="Mount Lindesay Highway"/>
+    <tag k="network" v="NR"/>
+    <tag k="ref" v="13"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="370897" version="4" timestamp="2009-12-28T02:07:24Z" uid="74617" user="JohnSmith" changeset="3468490">
+    <member type="way" ref="22372713" role="member"/>
+    <member type="way" ref="42129404" role="member"/>
+    <member type="way" ref="27237316" role="member"/>
+    <member type="way" ref="22195092" role="member"/>
+    <member type="way" ref="40896354" role="member"/>
+    <member type="way" ref="22492220" role="member"/>
+    <member type="way" ref="46520311" role="member"/>
+    <member type="way" ref="46520315" role="member"/>
+    <member type="way" ref="46520314" role="member"/>
+    <member type="way" ref="41014396" role="member"/>
+    <member type="way" ref="46520339" role="member"/>
+    <member type="way" ref="46520340" role="member"/>
+    <member type="way" ref="46520341" role="member"/>
+    <member type="way" ref="46520319" role="member"/>
+    <member type="way" ref="41014648" role="member"/>
+    <member type="way" ref="41014916" role="member"/>
+    <member type="way" ref="41014917" role="member"/>
+    <member type="way" ref="45730121" role="member"/>
+    <member type="way" ref="45730120" role="member"/>
+    <member type="way" ref="45530122" role="member"/>
+    <member type="way" ref="39334160" role="member"/>
+    <member type="way" ref="14205785" role="member"/>
+    <member type="way" ref="14205758" role="member"/>
+    <tag k="name" v="Mount Lindesay Highway"/>
+    <tag k="network" v="NR"/>
+    <tag k="ref" v="13"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="370897" version="5" timestamp="2009-12-28T02:21:39Z" uid="74617" user="JohnSmith" changeset="3468512"/>
+</osm>

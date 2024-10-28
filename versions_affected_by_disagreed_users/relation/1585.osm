@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1585404" version="2" timestamp="2011-05-22T10:20:15Z" uid="8619" user="cetest" changeset="8214449">
+    <member type="node" ref="710833148" role=""/>
+    <member type="way" ref="113184999" role=""/>
+    <member type="way" ref="114391094" role=""/>
+    <member type="node" ref="704999532" role=""/>
+    <tag k="network" v="rcn"/>
+    <tag k="note" v="36-36"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1585868" version="1" timestamp="2011-05-14T17:18:27Z" uid="33382" user="de_muur" changeset="8143346">
+    <member type="node" ref="875998922" role=""/>
+    <member type="way" ref="24639333" role=""/>
+    <member type="way" ref="113247860" role=""/>
+    <member type="node" ref="1284839314" role=""/>
+    <member type="way" ref="113247862" role=""/>
+    <member type="way" ref="113247857" role=""/>
+    <member type="way" ref="113247873" role=""/>
+    <member type="way" ref="113247866" role=""/>
+    <member type="way" ref="103047334" role=""/>
+    <member type="way" ref="4795575" role=""/>
+    <member type="node" ref="1242074239" role=""/>
+    <tag k="name" v="Klinkrade - Kühsen"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1585884" version="1" timestamp="2011-05-14T17:28:28Z" uid="33382" user="de_muur" changeset="8143452">
+    <member type="node" ref="1284871049" role=""/>
+    <member type="way" ref="113253637" role=""/>
+    <member type="node" ref="1284871059" role=""/>
+    <tag k="name" v="Lübeck - Ratzeburg"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+</osm>

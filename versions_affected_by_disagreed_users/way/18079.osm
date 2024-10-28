@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="18079201" version="3" timestamp="2009-09-29T03:29:04Z" uid="176107" user="Badapple" changeset="2672519">
+    <nd ref="179137759"/>
+    <nd ref="186857176"/>
+    <nd ref="186857177"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Crump Street"/>
+  </way>
+  <way id="18079201" version="4" timestamp="2010-07-06T08:46:21Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="179137759"/>
+    <nd ref="186857176"/>
+    <nd ref="186857177"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Crump Street"/>
+  </way>
+  <way id="18079763" version="5" timestamp="2010-03-20T17:11:22Z" uid="74617" user="JohnSmith" changeset="4182184">
+    <nd ref="176875138"/>
+    <nd ref="176873393"/>
+    <nd ref="176860539"/>
+    <nd ref="176860540"/>
+    <nd ref="92236078"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="Marshall Road"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="18079775" version="6" timestamp="2010-03-20T17:11:22Z" uid="74617" user="JohnSmith" changeset="4182184">
+    <nd ref="176875137"/>
+    <nd ref="176861770"/>
+    <nd ref="92236722"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="Holland Road"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+</osm>

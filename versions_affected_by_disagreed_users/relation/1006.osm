@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1006178" version="2" timestamp="2010-07-11T23:54:06Z" uid="20587" user="balrog-kun" changeset="5195140">
+    <member type="way" ref="63927308" role="outer"/>
+    <member type="way" ref="63913188" role="outer"/>
+    <member type="way" ref="63929620" role="outer"/>
+    <member type="way" ref="63918889" role="outer"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="roman_catholic"/>
+    <tag k="local_code" v="4470"/>
+    <tag k="religion" v="christian"/>
+    <tag k="source" v="Ajuntament de Girona"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1006178" version="3" timestamp="2010-07-29T03:42:01Z" uid="20587" user="balrog-kun" changeset="5343513">
+    <member type="way" ref="63927308" role="outer"/>
+    <member type="way" ref="63913188" role="outer"/>
+    <member type="way" ref="63929620" role="outer"/>
+    <member type="way" ref="63918889" role="outer"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:postcode" v="17005"/>
+    <tag k="addr:street" v="Plaça de l&apos;Assumpció"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="roman_catholic"/>
+    <tag k="local_code" v="4470"/>
+    <tag k="name" v="Parroquia de Sant Narcis"/>
+    <tag k="religion" v="christian"/>
+    <tag k="source" v="Ajuntament de Girona"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1006240" version="2" timestamp="2010-07-10T18:46:01Z" uid="20587" user="balrog-kun" changeset="5184628">
+    <member type="way" ref="63923848" role="outer"/>
+    <member type="way" ref="63913101" role="inner"/>
+    <tag k="building" v="residential"/>
+    <tag k="local_code" v="4231"/>
+    <tag k="source" v="Ajuntament de Girona"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1006240" version="3" timestamp="2010-08-09T06:16:47Z" uid="20587" user="balrog-kun" changeset="5440289">
+    <member type="way" ref="63923848" role="outer"/>
+    <member type="way" ref="63913101" role="inner"/>
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:street" v="Carrer del Riu Güell"/>
+    <tag k="building" v="residential"/>
+    <tag k="local_code" v="4231"/>
+    <tag k="source" v="Ajuntament de Girona"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1006400" version="2" timestamp="2010-07-29T03:42:04Z" uid="20587" user="balrog-kun" changeset="5343513">
+    <member type="way" ref="63930639" role="outer"/>
+    <member type="way" ref="63934402" role="outer"/>
+    <tag k="building" v="residential"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="local_code" v="4451"/>
+    <tag k="source" v="Ajuntament de Girona"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1006418" version="2" timestamp="2010-07-29T03:41:57Z" uid="20587" user="balrog-kun" changeset="5343513">
+    <member type="way" ref="63934377" role="outer"/>
+    <member type="way" ref="63919222" role="outer"/>
+    <member type="way" ref="63932611" role="outer"/>
+    <tag k="building" v="residential"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="local_code" v="4406"/>
+    <tag k="source" v="Ajuntament de Girona"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+</osm>

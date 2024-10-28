@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1374183" version="3" timestamp="2011-03-01T02:50:28Z" uid="23543" user="jkjk" changeset="7426343">
+    <member type="way" ref="83686766" role=""/>
+    <member type="way" ref="83686757" role=""/>
+    <member type="way" ref="83686770" role=""/>
+    <member type="way" ref="83686734" role=""/>
+    <member type="way" ref="83686737" role=""/>
+    <member type="way" ref="83686776" role=""/>
+    <member type="way" ref="83686754" role=""/>
+    <member type="way" ref="25274901" role=""/>
+    <member type="way" ref="25274925" role=""/>
+    <member type="way" ref="4750031" role=""/>
+    <member type="way" ref="4749955" role=""/>
+    <member type="way" ref="4749878" role=""/>
+    <member type="way" ref="83686764" role=""/>
+    <member type="way" ref="83686740" role=""/>
+    <member type="way" ref="83686758" role=""/>
+    <member type="way" ref="83686774" role=""/>
+    <member type="way" ref="83686751" role=""/>
+    <member type="way" ref="83686767" role=""/>
+    <member type="way" ref="83686744" role=""/>
+    <member type="way" ref="102237217" role=""/>
+    <member type="way" ref="102237202" role=""/>
+    <member type="way" ref="94926938" role=""/>
+    <member type="way" ref="94926940" role=""/>
+    <member type="way" ref="83686768" role=""/>
+    <member type="way" ref="83686743" role=""/>
+    <member type="way" ref="83686761" role=""/>
+    <member type="way" ref="83686735" role=""/>
+    <member type="way" ref="94926928" role=""/>
+    <member type="way" ref="102237213" role=""/>
+    <member type="way" ref="102237221" role=""/>
+    <member type="way" ref="94926946" role=""/>
+    <member type="way" ref="4622820" role=""/>
+    <tag k="network" v="ir:freeways"/>
+    <tag k="ref" v="1"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+    <tag k="wikipedia" v="en:Freeway_1_(Iran)"/>
+  </relation>
+  <relation id="1374398" version="3" timestamp="2011-02-21T15:50:27Z" uid="115477" user="wowik" changeset="7355102">
+    <member type="way" ref="94965693" role="outer"/>
+    <member type="way" ref="38311682" role="outer"/>
+    <member type="way" ref="100828753" role="outer"/>
+    <member type="way" ref="94937744" role="outer"/>
+    <member type="way" ref="94937764" role="outer"/>
+    <member type="node" ref="1087007409" role="admin_centre"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="сельское поселение Воронинское"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="1374398" version="4" timestamp="2011-02-21T16:31:41Z" uid="115477" user="wowik" changeset="7355487">
+    <member type="way" ref="94965693" role="outer"/>
+    <member type="way" ref="38311682" role="outer"/>
+    <member type="way" ref="100836071" role="outer"/>
+    <member type="way" ref="100828753" role="outer"/>
+    <member type="way" ref="94937744" role="outer"/>
+    <member type="way" ref="94937764" role="outer"/>
+    <member type="node" ref="1087007409" role="admin_centre"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="сельское поселение Воронинское"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="1374405" version="3" timestamp="2011-02-21T15:50:20Z" uid="115477" user="wowik" changeset="7355102">
+    <member type="node" ref="82452220" role="admin_centre"/>
+    <member type="way" ref="94965692" role="outer"/>
+    <member type="way" ref="95828583" role="outer"/>
+    <member type="way" ref="94937767" role="outer"/>
+    <member type="way" ref="94937744" role="outer"/>
+    <member type="way" ref="94965690" role="outer"/>
+    <member type="way" ref="100828746" role="outer"/>
+    <member type="way" ref="94937750" role="outer"/>
+    <member type="way" ref="94937754" role="outer"/>
+    <member type="way" ref="94965687" role="outer"/>
+    <member type="way" ref="94937763" role="outer"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="городское поселение Клин"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="1374611" version="1" timestamp="2011-01-13T19:13:33Z" uid="115477" user="wowik" changeset="6960458">
+    <member type="way" ref="81250546" role="outer"/>
+    <member type="way" ref="94999279" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1374611" version="2" timestamp="2011-04-01T17:48:24Z" uid="115477" user="wowik" changeset="7737524">
+    <member type="way" ref="81250546" role="outer"/>
+    <member type="way" ref="94999279" role="outer"/>
+    <tag k="type" v="building"/>
+  </relation>
+  <relation id="1374611" version="3" timestamp="2011-05-04T15:26:32Z" uid="115477" user="wowik" changeset="8049857">
+    <member type="way" ref="81250546" role="outer"/>
+    <member type="way" ref="94999279" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+</osm>

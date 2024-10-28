@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1302486" version="2" timestamp="2011-01-05T23:35:59Z" uid="6269" user="Mueck" changeset="6877660">
+    <member type="way" ref="3474598" role="to"/>
+    <member type="node" ref="15750983" role="via"/>
+    <member type="way" ref="87609587" role="from"/>
+    <member type="way" ref="93541058" role="to"/>
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1302486" version="3" timestamp="2011-01-05T23:36:08Z" uid="6269" user="Mueck" changeset="6877660">
+    <member type="node" ref="15750983" role="via"/>
+    <member type="way" ref="87609587" role="from"/>
+    <member type="way" ref="93541058" role="to"/>
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1302486" version="4" timestamp="2011-01-05T23:44:21Z" uid="6269" user="Mueck" changeset="6877660">
+    <member type="node" ref="15750983" role="via"/>
+    <member type="way" ref="87609587" role="from"/>
+    <member type="way" ref="93541058" role="to"/>
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1302486" version="5" timestamp="2011-01-05T23:45:46Z" uid="6269" user="Mueck" changeset="6877660">
+    <member type="node" ref="15750983" role="via"/>
+    <member type="way" ref="87609587" role="from"/>
+    <member type="way" ref="93541058" role="to"/>
+    <tag k="name" v="NOdp N-&gt;O"/>
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1302890" version="1" timestamp="2010-12-04T02:50:47Z" uid="107674" user="GeoCounter" changeset="6534047">
+    <member type="way" ref="87656396" role="inner"/>
+    <member type="way" ref="87656400" role="outer"/>
+    <tag k="building" v="yes"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1302903" version="1" timestamp="2010-12-04T04:20:04Z" uid="20587" user="balrog-kun" changeset="6534205">
+    <member type="way" ref="87659489" role="inner"/>
+    <member type="way" ref="87659473" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+</osm>

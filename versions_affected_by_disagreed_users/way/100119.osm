@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="100119379" version="1" timestamp="2011-02-17T11:14:45Z" uid="4467" user="Rosscoe" changeset="7312083">
+    <nd ref="273102247"/>
+    <nd ref="273103844"/>
+    <nd ref="273102249"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Renown Street"/>
+  </way>
+  <way id="100119379" version="2" timestamp="2011-02-19T13:19:40Z" uid="4467" user="Rosscoe" changeset="7331701">
+    <nd ref="273102247"/>
+    <nd ref="1161299913"/>
+    <nd ref="273103844"/>
+    <nd ref="273102249"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Renown Street"/>
+  </way>
+  <way id="100119380" version="1" timestamp="2011-02-17T11:14:46Z" uid="4467" user="Rosscoe" changeset="7312083">
+    <nd ref="1157395248"/>
+    <nd ref="1157395296"/>
+    <nd ref="1157395257"/>
+    <nd ref="1157395309"/>
+    <tag k="highway" v="primary_link"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+</osm>

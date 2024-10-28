@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1572167" version="1" timestamp="2011-05-04T14:14:29Z" uid="115477" user="wowik" changeset="8049379">
+    <member type="way" ref="85322692" role="outer"/>
+    <member type="way" ref="47574305" role="outer"/>
+    <member type="way" ref="96111298" role="outer"/>
+    <member type="way" ref="96111288" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1572184" version="1" timestamp="2011-05-04T14:29:23Z" uid="7617" user="Franc" changeset="8049533">
+    <member type="way" ref="111706921" role="from"/>
+    <member type="way" ref="111706920" role="to"/>
+    <member type="node" ref="1272069660" role="via"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1572237" version="1" timestamp="2011-05-04T15:22:32Z" uid="115477" user="wowik" changeset="8049857">
+    <member type="way" ref="84959069" role="outer"/>
+    <member type="way" ref="38884326" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1572238" version="1" timestamp="2011-05-04T15:22:32Z" uid="115477" user="wowik" changeset="8049857">
+    <member type="way" ref="85018757" role="outer"/>
+    <member type="way" ref="39734693" role="outer"/>
+    <member type="way" ref="85018762" role="outer"/>
+    <member type="way" ref="85018764" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1572777" version="1" timestamp="2011-05-04T22:39:59Z" uid="66036" user="h4v" changeset="8053386">
+    <member type="way" ref="22951547" role="street"/>
+    <member type="way" ref="111767283" role="house"/>
+    <member type="node" ref="1272542744" role="house"/>
+    <member type="node" ref="1272542714" role="house"/>
+    <tag k="name" v="Łanowa"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1572828" version="1" timestamp="2011-05-05T00:14:05Z" uid="20587" user="balrog-kun" changeset="8053712">
+    <member type="way" ref="97629245" role="inner"/>
+    <member type="way" ref="97629242" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1572874" version="2" timestamp="2011-05-17T20:07:23Z" uid="66036" user="h4v" changeset="8175553">
+    <member type="way" ref="37374905" role="border"/>
+    <member type="way" ref="113741450" role="border"/>
+    <member type="way" ref="113741453" role="border"/>
+    <member type="way" ref="111768948" role="border"/>
+    <tag k="address:a3" v="Łódź"/>
+    <tag k="address:type" v="a3"/>
+    <tag k="is_in" v="województwo łódzkie, Poland"/>
+    <tag k="name" v="Łódź"/>
+    <tag k="type" v="address"/>
+  </relation>
+</osm>

@@ -1,0 +1,765 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="8393154" version="3" timestamp="2008-06-15T11:39:14Z" uid="30201" user="rrankin" changeset="175923"/>
+  <way id="8393155" version="3" timestamp="2008-04-22T01:27:54Z" uid="30201" user="rrankin" changeset="219241"/>
+  <way id="8393157" version="2" timestamp="2008-04-22T01:27:54Z" uid="30201" user="rrankin" changeset="219241"/>
+  <way id="8393158" version="2" timestamp="2008-04-22T01:27:55Z" uid="30201" user="rrankin" changeset="219241"/>
+  <way id="8393160" version="3" timestamp="2008-06-15T11:39:09Z" uid="30201" user="rrankin" changeset="175923">
+    <nd ref="26399190"/>
+    <nd ref="26399189"/>
+    <tag k="created_by" v="Potlatch 0.6b"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Station Road"/>
+  </way>
+  <way id="8393327" version="2" timestamp="2008-02-06T16:32:40Z" uid="7346" user="user_7346" changeset="56815">
+    <nd ref="26243166"/>
+    <nd ref="26408180"/>
+    <tag k="created_by" v="Potlatch 0.7"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393338" version="4" timestamp="2008-06-02T09:04:44Z" uid="30201" user="rrankin" changeset="18265">
+    <nd ref="13151492"/>
+    <nd ref="86871942"/>
+    <nd ref="86871945"/>
+    <nd ref="246761181"/>
+    <nd ref="246761186"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="Longueville Road"/>
+    <tag k="oneway" v="true"/>
+    <tag k="source" v="yahoo_imagery"/>
+  </way>
+  <way id="8393338" version="5" timestamp="2009-07-26T07:31:44Z" uid="4467" user="Rosscoe" changeset="1941457">
+    <nd ref="13151492"/>
+    <nd ref="86871942"/>
+    <nd ref="86871945"/>
+    <nd ref="246761181"/>
+    <nd ref="246761186"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="Longueville Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="yahoo_imagery"/>
+  </way>
+  <way id="8393338" version="6" timestamp="2009-12-04T00:23:58Z" uid="30201" user="rrankin" changeset="3285224"/>
+  <way id="8393339" version="4" timestamp="2009-12-04T01:45:27Z" uid="30201" user="rrankin" changeset="3285482">
+    <nd ref="26408751"/>
+    <nd ref="580232878"/>
+    <nd ref="580232879"/>
+    <nd ref="246761220"/>
+    <nd ref="246761225"/>
+    <nd ref="246761229"/>
+    <nd ref="246761233"/>
+    <nd ref="580232880"/>
+    <nd ref="246761237"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="yahoo_imagery"/>
+  </way>
+  <way id="8393339" version="5" timestamp="2010-03-14T12:25:40Z" uid="7617" user="Franc" changeset="4123671"/>
+  <way id="8393357" version="7" timestamp="2009-12-03T02:56:35Z" uid="30201" user="rrankin" changeset="3277520">
+    <nd ref="195204599"/>
+    <nd ref="195204739"/>
+    <nd ref="195204794"/>
+    <nd ref="195204567"/>
+    <nd ref="26410167"/>
+    <nd ref="26410164"/>
+    <nd ref="26410168"/>
+    <nd ref="26410169"/>
+    <nd ref="197315365"/>
+    <nd ref="172228285"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lcn" v="yes"/>
+    <tag k="name" v="Mort Street"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="8393357" version="8" timestamp="2010-07-07T22:15:10Z" uid="74617" user="JohnSmith" changeset="5161069">
+    <nd ref="195204599"/>
+    <nd ref="195204739"/>
+    <nd ref="195204794"/>
+    <nd ref="195204567"/>
+    <nd ref="26410167"/>
+    <nd ref="26410164"/>
+    <nd ref="26410168"/>
+    <nd ref="26410169"/>
+    <nd ref="197315365"/>
+    <nd ref="172228285"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lcn" v="yes"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Mort Street"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="8393357" version="9" timestamp="2010-10-23T09:59:50Z" uid="7617" user="Franc" changeset="6143418">
+    <nd ref="195204599"/>
+    <nd ref="195204739"/>
+    <nd ref="195204794"/>
+    <nd ref="195204567"/>
+    <nd ref="26410167"/>
+    <nd ref="26410164"/>
+    <nd ref="26410168"/>
+    <nd ref="961354093"/>
+    <nd ref="26410169"/>
+    <nd ref="197315365"/>
+    <nd ref="961354158"/>
+    <nd ref="961354177"/>
+    <nd ref="961354106"/>
+    <nd ref="172228285"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lcn" v="yes"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Mort Street"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="8393361" version="5" timestamp="2010-07-07T22:15:17Z" uid="74617" user="JohnSmith" changeset="5161069">
+    <nd ref="195204885"/>
+    <nd ref="195204912"/>
+    <nd ref="26410178"/>
+    <nd ref="197315375"/>
+    <nd ref="26410177"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="College Street"/>
+  </way>
+  <way id="8393467" version="5" timestamp="2008-09-05T17:25:15Z" uid="6269" user="Mueck" changeset="540057">
+    <nd ref="26412306"/>
+    <nd ref="259228933"/>
+    <nd ref="26412302"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="created_by" v="Potlatch 0.10b"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="layer" v="1"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="8393467" version="6" timestamp="2008-09-05T17:25:56Z" uid="6269" user="Mueck" changeset="540057">
+    <nd ref="259228823"/>
+    <nd ref="26412306"/>
+    <nd ref="259228933"/>
+    <nd ref="26412302"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="created_by" v="Potlatch 0.10b"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="layer" v="1"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="8393467" version="7" timestamp="2008-09-05T17:26:53Z" uid="6269" user="Mueck" changeset="540057">
+    <nd ref="259228823"/>
+    <nd ref="26412306"/>
+    <nd ref="259228933"/>
+    <nd ref="26412302"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="created_by" v="Potlatch 0.10b"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="layer" v="1"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="8393467" version="8" timestamp="2008-09-05T17:27:08Z" uid="6269" user="Mueck" changeset="540057">
+    <nd ref="293965338"/>
+    <nd ref="259228823"/>
+    <nd ref="26412306"/>
+    <nd ref="259228933"/>
+    <nd ref="26412302"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="created_by" v="Potlatch 0.10b"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="layer" v="1"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="8393467" version="9" timestamp="2008-09-05T17:27:35Z" uid="6269" user="Mueck" changeset="540057">
+    <nd ref="293965338"/>
+    <nd ref="259228823"/>
+    <nd ref="26412306"/>
+    <nd ref="259228933"/>
+    <nd ref="26412302"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="created_by" v="Potlatch 0.10b"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="layer" v="1"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="8393467" version="10" timestamp="2008-09-05T17:27:47Z" uid="6269" user="Mueck" changeset="540057">
+    <nd ref="293965338"/>
+    <nd ref="259228823"/>
+    <nd ref="26412306"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="created_by" v="Potlatch 0.10b"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="layer" v="1"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="8393467" version="11" timestamp="2008-09-05T17:28:09Z" uid="6269" user="Mueck" changeset="540057">
+    <nd ref="293965338"/>
+    <nd ref="259228823"/>
+    <nd ref="26412306"/>
+    <tag k="created_by" v="Potlatch 0.10b"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="8393467" version="12" timestamp="2008-09-05T17:30:38Z" uid="6269" user="Mueck" changeset="540057">
+    <nd ref="293965338"/>
+    <nd ref="259228823"/>
+    <nd ref="293966735"/>
+    <nd ref="26412306"/>
+    <tag k="created_by" v="Potlatch 0.10b"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="8393467" version="13" timestamp="2008-09-05T17:30:50Z" uid="6269" user="Mueck" changeset="540057">
+    <nd ref="293965338"/>
+    <nd ref="259228823"/>
+    <nd ref="293966735"/>
+    <nd ref="26412306"/>
+    <tag k="created_by" v="Potlatch 0.10b"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="8393467" version="15" timestamp="2009-01-03T15:11:34Z" uid="6269" user="Mueck" changeset="722225">
+    <nd ref="293965338"/>
+    <nd ref="259228823"/>
+    <nd ref="293966735"/>
+    <nd ref="26412306"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="8393469" version="7" timestamp="2008-09-05T17:25:32Z" uid="6269" user="Mueck" changeset="540057">
+    <nd ref="26412302"/>
+    <nd ref="259229272"/>
+    <nd ref="26412344"/>
+    <nd ref="26412266"/>
+    <nd ref="26412343"/>
+    <nd ref="26412299"/>
+    <nd ref="26412280"/>
+    <nd ref="26412281"/>
+    <nd ref="26412327"/>
+    <nd ref="26412332"/>
+    <tag k="created_by" v="Potlatch 0.10b"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="8393469" version="8" timestamp="2008-09-05T17:28:33Z" uid="6269" user="Mueck" changeset="540057">
+    <nd ref="26412302"/>
+    <nd ref="259229272"/>
+    <nd ref="26412344"/>
+    <nd ref="26412266"/>
+    <nd ref="26412343"/>
+    <nd ref="26412299"/>
+    <nd ref="26412280"/>
+    <nd ref="26412281"/>
+    <nd ref="26412327"/>
+    <nd ref="26412332"/>
+    <tag k="created_by" v="Potlatch 0.10b"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="8393469" version="9" timestamp="2008-09-05T17:28:47Z" uid="6269" user="Mueck" changeset="540057">
+    <nd ref="26412302"/>
+    <nd ref="259229272"/>
+    <nd ref="26412344"/>
+    <nd ref="26412266"/>
+    <nd ref="26412343"/>
+    <nd ref="26412299"/>
+    <nd ref="26412280"/>
+    <nd ref="293966346"/>
+    <nd ref="26412281"/>
+    <nd ref="26412327"/>
+    <nd ref="26412332"/>
+    <tag k="created_by" v="Potlatch 0.10b"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="8393469" version="10" timestamp="2008-09-05T17:29:04Z" uid="6269" user="Mueck" changeset="540057">
+    <nd ref="26412302"/>
+    <nd ref="259229272"/>
+    <nd ref="26412344"/>
+    <nd ref="26412266"/>
+    <nd ref="26412343"/>
+    <nd ref="26412299"/>
+    <nd ref="26412280"/>
+    <nd ref="293966346"/>
+    <nd ref="26412281"/>
+    <nd ref="26412327"/>
+    <nd ref="26412332"/>
+    <tag k="created_by" v="Potlatch 0.10b"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="8393469" version="11" timestamp="2008-09-05T17:29:16Z" uid="6269" user="Mueck" changeset="540057">
+    <nd ref="26412302"/>
+    <nd ref="259229272"/>
+    <nd ref="26412344"/>
+    <nd ref="26412266"/>
+    <nd ref="26412343"/>
+    <nd ref="26412299"/>
+    <nd ref="26412280"/>
+    <nd ref="293966346"/>
+    <nd ref="26412281"/>
+    <nd ref="26412327"/>
+    <nd ref="26412332"/>
+    <tag k="created_by" v="Potlatch 0.10b"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="8393469" version="12" timestamp="2008-09-05T17:29:49Z" uid="6269" user="Mueck" changeset="540057">
+    <nd ref="26412302"/>
+    <nd ref="259229272"/>
+    <nd ref="26412344"/>
+    <nd ref="26412266"/>
+    <nd ref="26412343"/>
+    <nd ref="26412299"/>
+    <nd ref="26412280"/>
+    <nd ref="293966346"/>
+    <nd ref="26412281"/>
+    <nd ref="293966511"/>
+    <nd ref="26412327"/>
+    <nd ref="26412332"/>
+    <tag k="created_by" v="Potlatch 0.10b"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="8393469" version="14" timestamp="2009-01-03T15:12:20Z" uid="6269" user="Mueck" changeset="722225">
+    <nd ref="26412302"/>
+    <nd ref="259229272"/>
+    <nd ref="26412344"/>
+    <nd ref="26412266"/>
+    <nd ref="26412343"/>
+    <nd ref="26412299"/>
+    <nd ref="26412280"/>
+    <nd ref="293966346"/>
+    <nd ref="26412281"/>
+    <nd ref="293966511"/>
+    <nd ref="26412327"/>
+    <nd ref="26412332"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="8393793" version="1" timestamp="2007-03-08T17:06:18Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26416505"/>
+    <nd ref="26416727"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393794" version="1" timestamp="2007-03-08T17:13:30Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26417313"/>
+    <nd ref="26417312"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393795" version="1" timestamp="2007-03-08T17:13:31Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26417312"/>
+    <nd ref="26417311"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393796" version="1" timestamp="2007-03-08T17:13:33Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26417311"/>
+    <nd ref="26417310"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393797" version="1" timestamp="2007-03-08T17:13:35Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26417310"/>
+    <nd ref="26417309"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393798" version="1" timestamp="2007-03-08T17:13:37Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26417309"/>
+    <nd ref="26417308"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393799" version="1" timestamp="2007-03-08T17:13:39Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26417308"/>
+    <nd ref="26417304"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393800" version="1" timestamp="2007-03-08T17:13:41Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26417304"/>
+    <nd ref="26417294"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393801" version="1" timestamp="2007-03-08T17:13:43Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26417294"/>
+    <nd ref="26417285"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393802" version="1" timestamp="2007-03-08T17:13:45Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26417285"/>
+    <nd ref="26417278"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393803" version="1" timestamp="2007-03-08T17:13:47Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26417278"/>
+    <nd ref="26417269"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393804" version="1" timestamp="2007-03-08T17:13:59Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26417269"/>
+    <nd ref="26417261"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393805" version="1" timestamp="2007-03-08T17:14:02Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26417261"/>
+    <nd ref="26417251"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393806" version="1" timestamp="2007-03-08T17:14:08Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26417251"/>
+    <nd ref="26417243"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393807" version="1" timestamp="2007-03-08T17:14:10Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26417243"/>
+    <nd ref="26417235"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393808" version="1" timestamp="2007-03-08T17:14:12Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26417235"/>
+    <nd ref="26417227"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393809" version="1" timestamp="2007-03-08T17:14:14Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26417227"/>
+    <nd ref="26417220"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393810" version="1" timestamp="2007-03-08T17:14:16Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26417220"/>
+    <nd ref="26417210"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393811" version="1" timestamp="2007-03-08T17:14:18Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26417210"/>
+    <nd ref="26417201"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393812" version="1" timestamp="2007-03-08T17:14:20Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26417201"/>
+    <nd ref="26417193"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393813" version="1" timestamp="2007-03-08T17:17:41Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26417193"/>
+    <nd ref="26417182"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393814" version="1" timestamp="2007-03-08T17:18:56Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26417182"/>
+    <nd ref="26417172"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393815" version="1" timestamp="2007-03-08T17:19:04Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26417172"/>
+    <nd ref="26417163"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393816" version="1" timestamp="2007-03-08T17:19:07Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26417163"/>
+    <nd ref="26417149"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393817" version="1" timestamp="2007-03-08T17:19:09Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26417149"/>
+    <nd ref="26417141"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393818" version="1" timestamp="2007-03-08T17:19:11Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26417141"/>
+    <nd ref="26417132"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393819" version="1" timestamp="2007-03-08T17:19:38Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26417132"/>
+    <nd ref="26417115"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393820" version="1" timestamp="2007-03-08T17:19:39Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26417115"/>
+    <nd ref="26417107"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393821" version="1" timestamp="2007-03-08T17:19:41Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26417107"/>
+    <nd ref="26417099"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393822" version="1" timestamp="2007-03-08T17:19:43Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26417099"/>
+    <nd ref="26417091"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393823" version="1" timestamp="2007-03-08T17:19:45Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26417091"/>
+    <nd ref="26417084"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393824" version="1" timestamp="2007-03-08T17:19:47Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26417084"/>
+    <nd ref="26417081"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393825" version="1" timestamp="2007-03-08T17:19:49Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26417081"/>
+    <nd ref="26417080"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393826" version="1" timestamp="2007-03-08T17:19:51Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26417080"/>
+    <nd ref="26417079"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393827" version="1" timestamp="2007-03-08T17:19:53Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26417079"/>
+    <nd ref="26417078"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393850" version="1" timestamp="2007-03-08T17:50:48Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26417822"/>
+    <nd ref="26417823"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393851" version="1" timestamp="2007-03-08T17:50:50Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26417823"/>
+    <nd ref="26417824"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393852" version="1" timestamp="2007-03-08T17:50:52Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26417824"/>
+    <nd ref="26417825"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393853" version="1" timestamp="2007-03-08T17:50:54Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26417825"/>
+    <nd ref="26417826"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393854" version="1" timestamp="2007-03-08T17:50:56Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26417826"/>
+    <nd ref="26417827"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393855" version="1" timestamp="2007-03-08T17:50:58Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26417827"/>
+    <nd ref="26417828"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393856" version="1" timestamp="2007-03-08T17:51:00Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26417828"/>
+    <nd ref="26417829"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393857" version="1" timestamp="2007-03-08T17:51:02Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26417829"/>
+    <nd ref="26417831"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393858" version="1" timestamp="2007-03-08T17:51:04Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26417831"/>
+    <nd ref="26417832"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393859" version="1" timestamp="2007-03-08T17:51:05Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26417832"/>
+    <nd ref="26417833"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393860" version="1" timestamp="2007-03-08T17:51:07Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26417833"/>
+    <nd ref="26417834"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393861" version="1" timestamp="2007-03-08T17:51:09Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26417834"/>
+    <nd ref="26417835"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393862" version="1" timestamp="2007-03-08T17:51:11Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26417835"/>
+    <nd ref="26417836"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393875" version="1" timestamp="2007-03-08T18:14:17Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26418002"/>
+    <nd ref="21551008"/>
+    <tag k="converted_by" v="Track2osm"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393876" version="1" timestamp="2007-03-08T18:14:19Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26418002"/>
+    <nd ref="26418000"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393877" version="1" timestamp="2007-03-08T18:14:21Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26418000"/>
+    <nd ref="26417999"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393878" version="1" timestamp="2007-03-08T18:14:23Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26417999"/>
+    <nd ref="26417996"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393879" version="1" timestamp="2007-03-08T18:14:25Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26417996"/>
+    <nd ref="26417993"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393880" version="1" timestamp="2007-03-08T18:14:27Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26417993"/>
+    <nd ref="26417992"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393881" version="1" timestamp="2007-03-08T18:14:29Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26417992"/>
+    <nd ref="26417988"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393882" version="1" timestamp="2007-03-08T18:14:31Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26417988"/>
+    <nd ref="26417987"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393883" version="1" timestamp="2007-03-08T18:14:33Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26417987"/>
+    <nd ref="26417985"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393884" version="1" timestamp="2007-03-08T18:14:35Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26417985"/>
+    <nd ref="26417984"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393885" version="1" timestamp="2007-03-08T18:14:36Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26417984"/>
+    <nd ref="26417981"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393886" version="1" timestamp="2007-03-08T18:14:38Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26417981"/>
+    <nd ref="18227474"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393887" version="1" timestamp="2007-03-08T18:14:40Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="18227347"/>
+    <nd ref="26418004"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393888" version="1" timestamp="2007-03-08T18:14:42Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26418004"/>
+    <nd ref="26418005"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393907" version="1" timestamp="2007-03-08T18:19:32Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26418005"/>
+    <nd ref="21551008"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393908" version="1" timestamp="2007-03-08T18:19:34Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26418053"/>
+    <nd ref="21551309"/>
+    <tag k="converted_by" v="Track2osm"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393909" version="1" timestamp="2007-03-08T18:19:36Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="18225003"/>
+    <nd ref="26418054"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393910" version="1" timestamp="2007-03-08T18:19:38Z" uid="1066" user="pavel" changeset="231362">
+    <nd ref="26418054"/>
+    <nd ref="26418053"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393954" version="2" timestamp="2008-05-01T14:22:41Z" uid="20587" user="balrog-kun" changeset="299566">
+    <nd ref="26418512"/>
+    <nd ref="26418513"/>
+    <nd ref="26418514"/>
+    <nd ref="26063733"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="note" v="FIXME previously unwayed segment"/>
+  </way>
+  <way id="8393954" version="3" timestamp="2008-05-02T21:25:45Z" uid="20587" user="balrog-kun" changeset="322108">
+    <nd ref="26418512"/>
+    <nd ref="26418513"/>
+    <nd ref="26418514"/>
+    <nd ref="26063733"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="secondary_link"/>
+  </way>
+  <way id="8393954" version="4" timestamp="2008-11-12T01:08:40Z" uid="20587" user="balrog-kun" changeset="736670">
+    <nd ref="26418512"/>
+    <nd ref="311426146"/>
+    <nd ref="26418513"/>
+    <nd ref="26418514"/>
+    <nd ref="26063733"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="secondary_link"/>
+  </way>
+  <way id="8393955" version="2" timestamp="2008-05-01T14:22:43Z" uid="20587" user="balrog-kun" changeset="299566"/>
+  <way id="8393956" version="2" timestamp="2008-05-01T14:22:44Z" uid="20587" user="balrog-kun" changeset="299566"/>
+</osm>

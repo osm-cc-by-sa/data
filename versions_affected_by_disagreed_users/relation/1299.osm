@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1299106" version="5" timestamp="2011-05-05T15:55:47Z" uid="115477" user="wowik" changeset="8058202">
+    <member type="way" ref="87312363" role="outer"/>
+    <member type="way" ref="111828770" role="outer"/>
+    <member type="way" ref="26793376" role="outer"/>
+    <member type="way" ref="9873443" role="outer"/>
+    <member type="way" ref="44953303" role="outer"/>
+    <member type="way" ref="10575881" role="outer"/>
+    <member type="way" ref="70329896" role="outer"/>
+    <member type="way" ref="82065810" role="outer"/>
+    <member type="way" ref="56199961" role="outer"/>
+    <member type="way" ref="56199950" role="outer"/>
+    <member type="way" ref="87312361" role="outer"/>
+    <member type="way" ref="87312373" role="outer"/>
+    <member type="way" ref="29694712" role="outer"/>
+    <member type="way" ref="87312369" role="outer"/>
+    <member type="way" ref="89323860" role="outer"/>
+    <member type="way" ref="87312372" role="outer"/>
+    <member type="way" ref="89344167" role="outer"/>
+    <member type="way" ref="87307547" role="outer"/>
+    <member type="way" ref="87307573" role="outer"/>
+    <member type="way" ref="87307546" role="outer"/>
+    <member type="way" ref="15991303" role="outer"/>
+    <member type="way" ref="25343908" role="outer"/>
+    <member type="way" ref="87307562" role="outer"/>
+    <member type="way" ref="52521825" role="outer"/>
+    <member type="way" ref="87307568" role="outer"/>
+    <member type="way" ref="87307553" role="outer"/>
+    <member type="way" ref="23404065" role="outer"/>
+    <member type="way" ref="23404184" role="outer"/>
+    <member type="way" ref="23404236" role="outer"/>
+    <member type="way" ref="53357484" role="outer"/>
+    <member type="way" ref="87307551" role="outer"/>
+    <tag k="addr:country" v="RU"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="район Преображенское"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="1299250" version="1" timestamp="2010-12-02T02:27:35Z" uid="107674" user="GeoCounter" changeset="6510782">
+    <member type="way" ref="87324971" role="inner"/>
+    <member type="way" ref="87324970" role="outer"/>
+    <tag k="leisure" v="track"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1299467" version="1" timestamp="2010-12-02T09:30:32Z" uid="115477" user="wowik" changeset="6512577">
+    <member type="way" ref="87339723" role="from"/>
+    <member type="way" ref="23380109" role="to"/>
+    <member type="node" ref="958288437" role="via"/>
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1299467" version="2" timestamp="2011-06-06T10:19:56Z" uid="115477" user="wowik" changeset="8358580"/>
+  <relation id="1299468" version="1" timestamp="2010-12-02T09:30:32Z" uid="115477" user="wowik" changeset="6512577">
+    <member type="way" ref="87339722" role="from"/>
+    <member type="way" ref="87339723" role="to"/>
+    <member type="node" ref="1015623797" role="via"/>
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1299468" version="3" timestamp="2011-06-06T10:19:56Z" uid="115477" user="wowik" changeset="8358580"/>
+  <relation id="1299469" version="1" timestamp="2010-12-02T09:30:33Z" uid="115477" user="wowik" changeset="6512577">
+    <member type="way" ref="87339725" role="from"/>
+    <member type="way" ref="82287678" role="to"/>
+    <member type="node" ref="1015623783" role="via"/>
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1299469" version="2" timestamp="2011-06-06T10:19:56Z" uid="115477" user="wowik" changeset="8358580"/>
+  <relation id="1299726" version="2" timestamp="2011-03-10T00:53:45Z" uid="4467" user="Rosscoe" changeset="7510228">
+    <member type="way" ref="87360929" role="outer"/>
+    <member type="way" ref="87360927" role="outer"/>
+    <member type="way" ref="103486077" role="outer"/>
+    <member type="way" ref="103486080" role="outer"/>
+    <member type="way" ref="87360930" role="outer"/>
+    <member type="way" ref="87360928" role="outer"/>
+    <member type="way" ref="103486082" role="outer"/>
+    <member type="way" ref="103486079" role="outer"/>
+    <member type="way" ref="87360935" role="outer"/>
+    <member type="way" ref="103486081" role="outer"/>
+    <member type="way" ref="103486078" role="outer"/>
+    <member type="way" ref="87360932" role="outer"/>
+    <tag k="leisure" v="park"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1299853" version="1" timestamp="2010-12-02T15:56:56Z" uid="27600" user="Islanit" changeset="6516123">
+    <member type="way" ref="26131146" role=""/>
+    <tag k="type" v="restriction"/>
+  </relation>
+</osm>

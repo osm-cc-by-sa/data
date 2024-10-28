@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="90116676" version="1" timestamp="2010-12-18T11:04:23Z" uid="19626" user="Swamp" changeset="6694548">
+    <nd ref="1044700321"/>
+    <nd ref="1044700378"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="source" v="landsat"/>
+  </way>
+  <way id="90116678" version="1" timestamp="2010-12-18T11:04:24Z" uid="19626" user="Swamp" changeset="6694548">
+    <nd ref="1044700373"/>
+    <nd ref="1044700316"/>
+    <nd ref="1044700378"/>
+    <nd ref="1044700342"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="source" v="landsat"/>
+  </way>
+  <way id="90116894" version="4" timestamp="2011-06-19T13:05:33Z" uid="7617" user="Franc" changeset="8483784">
+    <nd ref="1044706541"/>
+    <nd ref="1312840120"/>
+    <nd ref="1157165088"/>
+    <nd ref="1312840122"/>
+    <nd ref="266727215"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Roberts Road"/>
+    <tag k="network" v="MR"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="3"/>
+    <tag k="source" v="survey;nearmap"/>
+  </way>
+  <way id="90116895" version="3" timestamp="2011-06-19T13:05:28Z" uid="7617" user="Franc" changeset="8483784">
+    <nd ref="1044706536"/>
+    <nd ref="36593269"/>
+    <nd ref="610745977"/>
+    <nd ref="610745975"/>
+    <nd ref="610745976"/>
+    <nd ref="36593270"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="70"/>
+    <tag k="name" v="Roberts Road"/>
+    <tag k="network" v="MR"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="3"/>
+  </way>
+</osm>

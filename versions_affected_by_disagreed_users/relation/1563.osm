@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1563579" version="1" timestamp="2011-04-29T17:47:34Z" uid="115477" user="wowik" changeset="8005347">
+    <member type="way" ref="110966514" role="outer"/>
+    <member type="way" ref="110966553" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1563759" version="1" timestamp="2011-04-29T19:55:24Z" uid="66036" user="h4v" changeset="8006337">
+    <member type="way" ref="100992822" role="street"/>
+    <member type="way" ref="110988607" role="house"/>
+    <member type="node" ref="1265560554" role="house"/>
+    <member type="node" ref="1265560441" role="house"/>
+    <tag k="name" v="Gabriela Narutowicza"/>
+    <tag k="source:addr" v="wikipedia"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1563759" version="2" timestamp="2011-05-23T22:16:43Z" uid="66036" user="h4v" changeset="8231105">
+    <member type="way" ref="114609840" role="street"/>
+    <member type="way" ref="110988607" role="house"/>
+    <member type="node" ref="1265560554" role="house"/>
+    <member type="node" ref="1265560441" role="house"/>
+    <tag k="name" v="Gabriela Narutowicza"/>
+    <tag k="source:addr" v="wikipedia"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1563761" version="1" timestamp="2011-04-29T19:55:25Z" uid="66036" user="h4v" changeset="8006337">
+    <member type="way" ref="53767083" role="street"/>
+    <member type="way" ref="110988605" role="house"/>
+    <member type="node" ref="1265560449" role="house"/>
+    <member type="node" ref="1265560481" role="house"/>
+    <tag k="name" v="Gabriela Narutowicza"/>
+    <tag k="source:addr" v="wikipedia"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1563761" version="2" timestamp="2011-05-23T22:16:44Z" uid="66036" user="h4v" changeset="8231105">
+    <member type="way" ref="114609890" role="street"/>
+    <member type="way" ref="110988605" role="house"/>
+    <member type="way" ref="114609816" role="house"/>
+    <member type="node" ref="1265560449" role="house"/>
+    <member type="node" ref="1265560481" role="house"/>
+    <member type="way" ref="114609844" role="house"/>
+    <tag k="name" v="Gabriela Narutowicza"/>
+    <tag k="source:addr" v="wikipedia"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1563762" version="1" timestamp="2011-04-29T19:55:25Z" uid="66036" user="h4v" changeset="8006337">
+    <member type="way" ref="27776210" role="street"/>
+    <member type="way" ref="110988606" role="house"/>
+    <member type="node" ref="1265560515" role="house"/>
+    <member type="node" ref="1265560569" role="house"/>
+    <member type="way" ref="104651430" role="house"/>
+    <member type="way" ref="104651431" role="house"/>
+    <tag k="name" v="Gabriela Narutowicza"/>
+    <tag k="source:addr" v="wikipedia"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1563762" version="2" timestamp="2011-06-12T18:40:46Z" uid="66036" user="h4v" changeset="8418318">
+    <member type="way" ref="27776210" role="street"/>
+    <member type="way" ref="110988606" role="house"/>
+    <member type="node" ref="1265560515" role="house"/>
+    <member type="node" ref="1265560569" role="house"/>
+    <member type="way" ref="104651430" role="house"/>
+    <member type="way" ref="104651431" role="house"/>
+    <member type="way" ref="103448570" role="house"/>
+    <tag k="name" v="Gabriela Narutowicza"/>
+    <tag k="source:addr" v="wikipedia"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+</osm>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1623027" version="1" timestamp="2011-06-13T13:51:41Z" uid="7617" user="Franc" changeset="8426649">
+    <member type="way" ref="47282533" role="from"/>
+    <member type="way" ref="4630528" role="to"/>
+    <member type="node" ref="29412957" role="via"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1623344" version="1" timestamp="2011-06-13T18:27:09Z" uid="66036" user="h4v" changeset="8429700">
+    <member type="way" ref="109882609" role="street"/>
+    <member type="way" ref="117557614" role="house"/>
+    <member type="node" ref="1324126578" role="house"/>
+    <member type="node" ref="1324126590" role="house"/>
+    <tag k="name" v="Przędzalniana"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1623345" version="1" timestamp="2011-06-13T18:27:09Z" uid="66036" user="h4v" changeset="8429700">
+    <member type="way" ref="103435696" role="street"/>
+    <member type="way" ref="117557619" role="house"/>
+    <member type="node" ref="1324126542" role="house"/>
+    <member type="node" ref="1324126551" role="house"/>
+    <tag k="name" v="Stanisława Przybyszewskiego"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+</osm>

@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="54689122" version="1" timestamp="2010-04-08T11:49:06Z" uid="115477" user="wowik" changeset="4363440">
+    <nd ref="688633373"/>
+    <nd ref="688633375"/>
+    <nd ref="688633376"/>
+    <tag k="highway" v="service"/>
+    <tag k="service" v="parking_aisle"/>
+  </way>
+  <way id="54689128" version="1" timestamp="2010-04-08T11:49:06Z" uid="115477" user="wowik" changeset="4363440">
+    <nd ref="688633375"/>
+    <nd ref="688633377"/>
+    <nd ref="688633378"/>
+    <tag k="highway" v="service"/>
+    <tag k="service" v="parking_aisle"/>
+  </way>
+  <way id="54689135" version="1" timestamp="2010-04-08T11:49:07Z" uid="115477" user="wowik" changeset="4363440">
+    <nd ref="688633384"/>
+    <nd ref="688633387"/>
+    <nd ref="688633389"/>
+    <tag k="highway" v="service"/>
+    <tag k="service" v="parking_aisle"/>
+  </way>
+  <way id="54689142" version="1" timestamp="2010-04-08T11:49:07Z" uid="115477" user="wowik" changeset="4363440">
+    <nd ref="688633391"/>
+    <nd ref="688633392"/>
+    <nd ref="688633393"/>
+    <nd ref="688633394"/>
+    <nd ref="688633396"/>
+    <tag k="highway" v="service"/>
+    <tag k="living_street" v="yes"/>
+  </way>
+  <way id="54689142" version="2" timestamp="2010-09-13T09:26:51Z" uid="115477" user="wowik" changeset="5767831">
+    <nd ref="688633391"/>
+    <nd ref="688633392"/>
+    <nd ref="688633393"/>
+    <nd ref="688633394"/>
+    <nd ref="910388578"/>
+    <nd ref="910388628"/>
+    <tag k="highway" v="service"/>
+    <tag k="living_street" v="yes"/>
+  </way>
+  <way id="54689579" version="1" timestamp="2010-04-08T11:50:16Z" uid="115477" user="wowik" changeset="4363440">
+    <nd ref="688636164"/>
+    <nd ref="688636165"/>
+    <nd ref="688636166"/>
+    <nd ref="688636167"/>
+    <nd ref="688636169"/>
+    <nd ref="688636170"/>
+    <nd ref="688636171"/>
+    <nd ref="688636172"/>
+    <nd ref="688636173"/>
+    <nd ref="688636174"/>
+    <nd ref="688636175"/>
+    <nd ref="688636177"/>
+    <nd ref="688636164"/>
+    <tag k="natural" v="water"/>
+  </way>
+  <way id="54689691" version="4" timestamp="2010-07-08T19:52:03Z" uid="74617" user="JohnSmith" changeset="5168688">
+    <nd ref="688618849"/>
+    <nd ref="688636416"/>
+    <nd ref="688636417"/>
+    <nd ref="688636420"/>
+    <nd ref="688638634"/>
+    <nd ref="688636421"/>
+    <nd ref="688636422"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="54689771" version="3" timestamp="2010-07-08T19:54:27Z" uid="74617" user="JohnSmith" changeset="5168688">
+    <nd ref="688639807"/>
+    <nd ref="688640842"/>
+    <nd ref="688640847"/>
+    <nd ref="688640855"/>
+    <nd ref="688640859"/>
+    <nd ref="688640881"/>
+    <nd ref="688641912"/>
+    <nd ref="688640886"/>
+    <nd ref="688640890"/>
+    <nd ref="688640896"/>
+    <nd ref="688640901"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="54689842" version="5" timestamp="2010-06-29T20:49:17Z" uid="74617" user="JohnSmith" changeset="5109183">
+    <nd ref="688646729"/>
+    <nd ref="688646733"/>
+    <nd ref="688646738"/>
+    <nd ref="688646742"/>
+    <nd ref="688646747"/>
+    <nd ref="690214713"/>
+    <nd ref="688646750"/>
+    <nd ref="688646729"/>
+    <tag k="fixme" v="sport=rugby is ambiguous, see http://wiki.osm.org/wiki/Tag:sport%3Drugby for more details"/>
+    <tag k="leisure" v="park"/>
+    <tag k="note" v="Approximate"/>
+    <tag k="sport" v="rugby"/>
+  </way>
+</osm>

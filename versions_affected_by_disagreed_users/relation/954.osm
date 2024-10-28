@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="954154" version="1" timestamp="2010-06-08T10:39:35Z" uid="74617" user="JohnSmith" changeset="4936082">
+    <member type="way" ref="4960757" role="outer"/>
+    <member type="way" ref="48629177" role="outer"/>
+    <tag k="amenity" v="theatre"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Sydney Opera House"/>
+    <tag k="tourism" v="attraction"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="wikipedia:en" v="Sydney_Opera_House"/>
+  </relation>
+  <relation id="954154" version="2" timestamp="2010-06-08T10:44:56Z" uid="74617" user="JohnSmith" changeset="4936082">
+    <member type="way" ref="61456848" role="outer"/>
+    <member type="way" ref="61456850" role="outer"/>
+    <member type="way" ref="48629177" role="outer"/>
+    <tag k="name" v="Sydney Opera House"/>
+    <tag k="tourism" v="attraction"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="wikipedia:en" v="Sydney_Opera_House"/>
+  </relation>
+  <relation id="954154" version="3" timestamp="2010-06-08T10:52:19Z" uid="74617" user="JohnSmith" changeset="4936164">
+    <member type="way" ref="61456848" role="outer"/>
+    <member type="way" ref="61456850" role="outer"/>
+    <member type="way" ref="48629177" role="outer"/>
+    <tag k="name" v="Sydney Opera House"/>
+    <tag k="tourism" v="attraction"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="uuid:tourism" v="41b91c24-1f10-4c58-a0cc-00ad106a9ef7"/>
+    <tag k="wikipedia:en" v="Sydney_Opera_House"/>
+  </relation>
+  <relation id="954877" version="2" timestamp="2011-02-06T01:52:41Z" uid="6269" user="Mueck" changeset="7199360">
+    <member type="way" ref="61479049" role=""/>
+    <member type="way" ref="4232346" role=""/>
+    <member type="way" ref="4950877" role=""/>
+    <member type="way" ref="4065308" role=""/>
+    <member type="way" ref="45586778" role=""/>
+    <member type="way" ref="49023157" role=""/>
+    <member type="node" ref="21519229" role=""/>
+    <member type="node" ref="21519227" role=""/>
+    <member type="node" ref="20697256" role=""/>
+    <member type="node" ref="31088985" role=""/>
+    <member type="node" ref="526173" role=""/>
+    <member type="node" ref="482686" role=""/>
+    <member type="node" ref="25523846" role=""/>
+    <member type="way" ref="4233838" role=""/>
+    <tag k="TMC:cid_58:tabcd_1:Class" v="Point"/>
+    <tag k="TMC:cid_58:tabcd_1:Direction" v="positive"/>
+    <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+    <tag k="TMC:cid_58:tabcd_1:LocationCode" v="20287"/>
+    <tag k="TMC:cid_58:tabcd_1:NextLocationCode" v="56114"/>
+    <tag k="TMC:cid_58:tabcd_1:PrevLocationCode" v="30893"/>
+    <tag k="type" v="TMC"/>
+  </relation>
+  <relation id="954893" version="2" timestamp="2011-02-06T01:24:03Z" uid="6269" user="Mueck" changeset="7199360">
+    <member type="way" ref="4065311" role=""/>
+    <member type="way" ref="4065310" role=""/>
+    <member type="node" ref="21519913" role=""/>
+    <member type="node" ref="412502" role=""/>
+    <tag k="TMC:cid_58:tabcd_1:Class" v="Point"/>
+    <tag k="TMC:cid_58:tabcd_1:Direction" v="negative"/>
+    <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+    <tag k="TMC:cid_58:tabcd_1:LocationCode" v="20287"/>
+    <tag k="TMC:cid_58:tabcd_1:NextLocationCode" v="56114"/>
+    <tag k="TMC:cid_58:tabcd_1:PrevLocationCode" v="30893"/>
+    <tag k="type" v="TMC"/>
+  </relation>
+  <relation id="954993" version="1" timestamp="2010-06-08T15:25:18Z" uid="64977" user="CLoeser" changeset="4938017">
+    <member type="way" ref="61482588" role=""/>
+    <member type="way" ref="61482589" role=""/>
+    <member type="way" ref="61482585" role=""/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Wackerow"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="954993" version="2" timestamp="2010-06-08T15:28:08Z" uid="64977" user="CLoeser" changeset="4938041">
+    <member type="way" ref="61482588" role=""/>
+    <member type="way" ref="61482589" role=""/>
+    <member type="way" ref="61482585" role=""/>
+    <member type="way" ref="61482581" role=""/>
+    <member type="way" ref="52117169" role=""/>
+    <member type="way" ref="61390559" role=""/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Wackerow"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="954993" version="3" timestamp="2010-06-08T20:55:49Z" uid="64977" user="CLoeser" changeset="4940644">
+    <member type="way" ref="61482588" role=""/>
+    <member type="way" ref="61482589" role=""/>
+    <member type="way" ref="61482585" role=""/>
+    <member type="way" ref="61482581" role=""/>
+    <member type="way" ref="52117169" role=""/>
+    <member type="way" ref="61390559" role=""/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Wackerow"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+</osm>

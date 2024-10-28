@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="9336715" version="2" timestamp="2008-12-20T13:40:26Z" uid="7617" user="Franc" changeset="496725">
+    <nd ref="70518408"/>
+    <nd ref="70518768"/>
+    <nd ref="70518769"/>
+    <nd ref="320166665"/>
+    <nd ref="70518772"/>
+    <tag k="created_by" v="Potlatch alpha"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Peel Place"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="9336715" version="3" timestamp="2010-07-07T21:30:19Z" uid="74617" user="JohnSmith" changeset="5161069">
+    <nd ref="70518408"/>
+    <nd ref="70518768"/>
+    <nd ref="70518769"/>
+    <nd ref="320166665"/>
+    <nd ref="70518772"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Peel Place"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="9336915" version="9" timestamp="2010-07-09T05:17:24Z" uid="74617" user="JohnSmith" changeset="5170986">
+    <nd ref="317679337"/>
+    <nd ref="771076316"/>
+    <nd ref="771076281"/>
+    <nd ref="70523088"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Barwon Street"/>
+    <tag k="source" v="Yahoo"/>
+    <tag k="source:name" v="Collins 1936"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="9336930" version="3" timestamp="2010-07-09T05:12:18Z" uid="74617" user="JohnSmith" changeset="5170986">
+    <nd ref="70523440"/>
+    <nd ref="70523089"/>
+    <nd ref="70523441"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Hillside Parade"/>
+    <tag k="source" v="Yahoo"/>
+    <tag k="source:name" v="Collins 1936"/>
+  </way>
+</osm>

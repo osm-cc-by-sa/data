@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="549461" version="1" timestamp="2010-04-09T19:58:37Z" uid="59758" user="rendle" changeset="4376600">
+    <member type="way" ref="44003243" role=""/>
+    <tag k="network" v="rcn"/>
+    <tag k="note" v="xx-47, zone Waasland"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="549461" version="2" timestamp="2010-04-09T19:58:55Z" uid="59758" user="rendle" changeset="4376600">
+    <member type="way" ref="44003243" role=""/>
+    <member type="way" ref="52833709" role=""/>
+    <tag k="network" v="rcn"/>
+    <tag k="note" v="xx-47, zone Waasland"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="549461" version="3" timestamp="2010-05-22T08:33:31Z" uid="59758" user="rendle" changeset="4772303">
+    <member type="way" ref="44003243" role=""/>
+    <member type="way" ref="52833709" role=""/>
+    <tag k="network" v="rcn"/>
+    <tag k="note" v="xx-47, zone Waasland"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="549601" version="1" timestamp="2010-04-09T20:57:43Z" uid="9581" user="Lobelt" changeset="4377499">
+    <member type="way" ref="44702622" role="outer"/>
+    <member type="way" ref="28026871" role="inner"/>
+    <member type="way" ref="54894705" role="inner"/>
+    <member type="way" ref="54894719" role="inner"/>
+    <member type="way" ref="54894717" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="549601" version="3" timestamp="2010-05-30T10:54:38Z" uid="9581" user="Lobelt" changeset="4850590">
+    <member type="way" ref="44702622" role="outer"/>
+    <member type="way" ref="28026871" role="inner"/>
+    <member type="way" ref="54894705" role="inner"/>
+    <member type="way" ref="54894719" role="inner"/>
+    <member type="way" ref="54894717" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="549601" version="4" timestamp="2010-12-05T19:43:04Z" uid="9581" user="Lobelt" changeset="6555498">
+    <member type="way" ref="44702622" role="outer"/>
+    <member type="way" ref="28026871" role="inner"/>
+    <member type="way" ref="54894705" role="inner"/>
+    <member type="way" ref="54894719" role="inner"/>
+    <member type="way" ref="54894717" role="inner"/>
+    <member type="way" ref="88072276" role="inner"/>
+    <member type="way" ref="88072214" role="inner"/>
+    <member type="way" ref="88072229" role="inner"/>
+    <member type="way" ref="88072254" role="inner"/>
+    <member type="way" ref="88072260" role="inner"/>
+    <member type="way" ref="88072153" role="inner"/>
+    <member type="way" ref="88072145" role="inner"/>
+    <member type="way" ref="88072248" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+</osm>

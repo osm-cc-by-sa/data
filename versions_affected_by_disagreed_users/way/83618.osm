@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="83618032" version="1" timestamp="2010-11-01T14:23:16Z" uid="9581" user="Lobelt" changeset="6255306">
+    <nd ref="973766922"/>
+    <nd ref="12136253"/>
+    <nd ref="457245"/>
+    <nd ref="12136628"/>
+    <nd ref="457246"/>
+    <nd ref="11749333"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="E 35"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="no"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A 5"/>
+  </way>
+  <way id="83618034" version="1" timestamp="2010-11-01T14:23:17Z" uid="9581" user="Lobelt" changeset="6255306">
+    <nd ref="973766924"/>
+    <nd ref="592867"/>
+    <nd ref="592869"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="E 35"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="none"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A 5"/>
+    <tag k="source:maxspeed" v="DE:motorway"/>
+    <tag k="zone:traffic" v="DE:rural"/>
+  </way>
+  <way id="83618036" version="1" timestamp="2010-11-01T14:23:17Z" uid="9581" user="Lobelt" changeset="6255306">
+    <nd ref="973766925"/>
+    <nd ref="973766922"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="E 35"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="no"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A 5"/>
+  </way>
+  <way id="83618039" version="1" timestamp="2010-11-01T14:23:17Z" uid="9581" user="Lobelt" changeset="6255306">
+    <nd ref="973766923"/>
+    <nd ref="973766924"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="E 35"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="none"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A 5"/>
+    <tag k="source:maxspeed" v="DE:motorway"/>
+    <tag k="zone:traffic" v="DE:rural"/>
+  </way>
+  <way id="83618726" version="1" timestamp="2010-11-01T14:28:38Z" uid="9581" user="Lobelt" changeset="6255361">
+    <nd ref="592666"/>
+    <nd ref="973769312"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Bergstraße"/>
+    <tag k="ref" v="L 3303"/>
+  </way>
+  <way id="83618728" version="1" timestamp="2010-11-01T14:28:39Z" uid="9581" user="Lobelt" changeset="6255361">
+    <nd ref="973769312"/>
+    <nd ref="289023573"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Bergstraße"/>
+    <tag k="ref" v="L 3303"/>
+  </way>
+</osm>

@@ -1,0 +1,855 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="26329060" version="1" timestamp="2008-08-16T13:51:18Z" uid="17602" user="B10xyz" changeset="279008">
+    <nd ref="61083116"/>
+    <nd ref="288458457"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="26329060" version="2" timestamp="2010-03-21T21:30:15Z" uid="17602" user="B10xyz" changeset="4195922">
+    <nd ref="61083116"/>
+    <nd ref="288458457"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="footway"/>
+    <tag k="is_in" v="Dorsoduro"/>
+    <tag k="visible_name" v="PONTE STORTO"/>
+  </way>
+  <way id="26329062" version="1" timestamp="2008-08-16T13:51:18Z" uid="17602" user="B10xyz" changeset="279008">
+    <nd ref="61083115"/>
+    <nd ref="138323810"/>
+    <nd ref="31127046"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="26329062" version="2" timestamp="2009-03-06T11:46:13Z" uid="17602" user="B10xyz" changeset="743208">
+    <nd ref="61083115"/>
+    <nd ref="138323810"/>
+    <nd ref="356261547"/>
+    <nd ref="356261549"/>
+    <nd ref="356261544"/>
+    <nd ref="31127046"/>
+    <tag k="highway" v="footway"/>
+    <tag k="name" v="FONDAMENTA DE LE PROCURATIE"/>
+  </way>
+  <way id="26329062" version="3" timestamp="2009-07-10T23:21:47Z" uid="17602" user="B10xyz" changeset="1793392">
+    <nd ref="61083115"/>
+    <nd ref="138323810"/>
+    <nd ref="356261547"/>
+    <nd ref="356261549"/>
+    <nd ref="356261544"/>
+    <nd ref="31127046"/>
+    <tag k="highway" v="footway"/>
+    <tag k="visible_name" v="FONDAMENTA DE LE PROCURATIE"/>
+  </way>
+  <way id="26329144" version="3" timestamp="2008-09-14T13:04:52Z" uid="6975" user="ulfl" changeset="640534">
+    <nd ref="288458744"/>
+    <nd ref="288458746"/>
+    <nd ref="288556227"/>
+    <nd ref="288458752"/>
+    <nd ref="288458758"/>
+    <nd ref="288458762"/>
+    <nd ref="288458763"/>
+    <nd ref="288458744"/>
+    <tag k="access" v="private"/>
+    <tag k="leisure" v="garden"/>
+  </way>
+  <way id="26329261" version="6" timestamp="2009-10-02T20:05:55Z" uid="86259" user="hasse_osm_korinthenkacker" changeset="2717024">
+    <nd ref="288460540"/>
+    <nd ref="288460616"/>
+    <tag k="highway" v="primary_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="26329268" version="4" timestamp="2008-11-26T02:00:28Z" uid="6975" user="ulfl" changeset="794829">
+    <nd ref="286908079"/>
+    <nd ref="263902915"/>
+    <nd ref="263902916"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxlength" v="25"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="maxweight" v="32"/>
+    <tag k="nat_ref" v="142"/>
+  </way>
+  <way id="26329284" version="8" timestamp="2009-10-02T20:06:05Z" uid="86259" user="hasse_osm_korinthenkacker" changeset="2717024">
+    <nd ref="302863536"/>
+    <nd ref="469598653"/>
+    <nd ref="469598654"/>
+    <nd ref="288460965"/>
+    <nd ref="288461407"/>
+    <nd ref="288460967"/>
+    <nd ref="469598655"/>
+    <nd ref="288460968"/>
+    <nd ref="2041764"/>
+    <tag k="highway" v="primary_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="26329297" version="2" timestamp="2010-04-07T12:47:54Z" uid="20587" user="balrog-kun" changeset="4353646">
+    <nd ref="82179300"/>
+    <nd ref="81928547"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="East Lemmon Avenue"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Lemmon"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="103231206:103199424"/>
+  </way>
+  <way id="26329298" version="2" timestamp="2010-04-07T12:47:54Z" uid="20587" user="balrog-kun" changeset="4353646">
+    <nd ref="82191537"/>
+    <nd ref="81927642"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Lemmon Avenue"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Lemmon"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="103267832:103267834:103230999:103267829"/>
+  </way>
+  <way id="26329301" version="2" timestamp="2010-04-07T12:47:55Z" uid="20587" user="balrog-kun" changeset="4353646">
+    <nd ref="82179298"/>
+    <nd ref="82179300"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="East Lemmon Avenue"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Lemmon"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="103231206:103199424"/>
+  </way>
+  <way id="26329321" version="2" timestamp="2010-03-20T11:03:58Z" uid="30632" user="antblant" changeset="4178384">
+    <nd ref="288464140"/>
+    <nd ref="288461033"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Parkowa"/>
+    <tag k="source" v="UMP"/>
+  </way>
+  <way id="26329327" version="2" timestamp="2010-03-20T11:03:58Z" uid="30632" user="antblant" changeset="4178384">
+    <nd ref="288464140"/>
+    <nd ref="288461124"/>
+    <nd ref="288461098"/>
+    <nd ref="288461122"/>
+    <tag k="highway" v="unsurfaced"/>
+    <tag k="name" v="Parkowa"/>
+    <tag k="source" v="UMP"/>
+  </way>
+  <way id="26329377" version="7" timestamp="2009-10-02T20:05:34Z" uid="86259" user="hasse_osm_korinthenkacker" changeset="2717024">
+    <nd ref="288462078"/>
+    <nd ref="469598973"/>
+    <nd ref="288462024"/>
+    <tag k="highway" v="primary_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="26329399" version="11" timestamp="2009-10-02T20:05:32Z" uid="86259" user="hasse_osm_korinthenkacker" changeset="2717024">
+    <nd ref="302863561"/>
+    <nd ref="288462283"/>
+    <nd ref="288462282"/>
+    <nd ref="288462281"/>
+    <nd ref="288462280"/>
+    <tag k="highway" v="primary_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="26329403" version="14" timestamp="2010-05-01T16:17:19Z" uid="151899" user="Bikeman2000" changeset="4576696">
+    <nd ref="282768615"/>
+    <nd ref="253277727"/>
+    <tag k="name" v="U70, U74, U76"/>
+    <tag k="railway" v="tram"/>
+  </way>
+  <way id="26329481" version="2" timestamp="2009-02-23T13:07:37Z" uid="34428" user="usm78-gis" changeset="634299"/>
+  <way id="26329495" version="3" timestamp="2010-04-07T12:47:55Z" uid="20587" user="balrog-kun" changeset="4353646">
+    <nd ref="81929393"/>
+    <nd ref="81929395"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="North Central Expressway; United States Highway 75"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="US 75"/>
+    <tag k="tiger:cfcc" v="A25"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Central"/>
+    <tag k="tiger:name_base_1" v="United States Highway 75"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="Expy"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="103251658:103251659:103166831:103166832:103163390:103262399:103163394:103163395:103262397:103262398:103208546:103183737:103184467:102896780:103211626:103211627:103176755:103211532:103211533:103211554:103211555:103164273:103210190:103166835:103166836:10316"/>
+  </way>
+  <way id="26329496" version="4" timestamp="2010-04-07T12:47:55Z" uid="20587" user="balrog-kun" changeset="4353646">
+    <nd ref="81929395"/>
+    <nd ref="81649890"/>
+    <nd ref="81929401"/>
+    <nd ref="81612618"/>
+    <nd ref="81929403"/>
+    <nd ref="81579827"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="North Central Expressway; United States Highway 75"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="US 75"/>
+    <tag k="tiger:cfcc" v="A25"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Central"/>
+    <tag k="tiger:name_base_1" v="United States Highway 75"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="Expy"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="103251658:103251659:103166831:103166832:103163390:103262399:103163394:103163395:103262397:103262398:103208546:103183737:103184467:102896780:103211626:103211627:103176755:103211532:103211533:103211554:103211555:103164273:103210190:103166835:103166836:10316"/>
+  </way>
+  <way id="26329499" version="2" timestamp="2010-04-07T12:47:55Z" uid="20587" user="balrog-kun" changeset="4353646">
+    <nd ref="81860866"/>
+    <nd ref="81860870"/>
+    <nd ref="81860872"/>
+    <nd ref="81860873"/>
+    <nd ref="81860874"/>
+    <nd ref="81860875"/>
+    <nd ref="81860877"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="North Haskell Avenue"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Haskell"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102909000:102909012:103199406:103199407:102910411:102910422:102910425:102910428:102910606:102910608:102909017"/>
+    <tag k="tiger:zip_left" v="75204"/>
+    <tag k="tiger:zip_right" v="75204"/>
+  </way>
+  <way id="26329500" version="2" timestamp="2010-04-07T12:47:56Z" uid="20587" user="balrog-kun" changeset="4353646">
+    <nd ref="288463825"/>
+    <nd ref="81860824"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="North Haskell Avenue"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Haskell"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="103267877:103267840:103267843:103267876:103267884:103267885:103231167:103231170:103231235:103231240:103267891:103267915"/>
+  </way>
+  <way id="26329501" version="2" timestamp="2010-04-07T12:47:56Z" uid="20587" user="balrog-kun" changeset="4353646">
+    <nd ref="288463828"/>
+    <nd ref="81860866"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="North Haskell Avenue"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Haskell"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102909000:102909012:103199406:103199407:102910411:102910422:102910425:102910428:102910606:102910608:102909017"/>
+    <tag k="tiger:zip_left" v="75204"/>
+    <tag k="tiger:zip_right" v="75204"/>
+  </way>
+  <way id="26329502" version="2" timestamp="2010-04-07T12:47:57Z" uid="20587" user="balrog-kun" changeset="4353646">
+    <nd ref="288463829"/>
+    <nd ref="288463825"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="North Haskell Avenue"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Haskell"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="103267877:103267840:103267843:103267876:103267884:103267885:103231167:103231170:103231235:103231240:103267891:103267915"/>
+  </way>
+  <way id="26329609" version="2" timestamp="2008-10-08T18:57:51Z" uid="30632" user="antblant" changeset="169665">
+    <nd ref="288464205"/>
+    <nd ref="288464140"/>
+    <nd ref="288464492"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Południowa"/>
+    <tag k="source" v="UMP"/>
+  </way>
+  <way id="26329641" version="2" timestamp="2008-10-08T18:57:52Z" uid="30632" user="antblant" changeset="169665">
+    <nd ref="288463802"/>
+    <nd ref="288463817"/>
+    <tag k="highway" v="unsurfaced"/>
+    <tag k="name" v="Julianki"/>
+    <tag k="source" v="UMP"/>
+  </way>
+  <way id="26329651" version="3" timestamp="2009-02-23T12:25:46Z" uid="34428" user="usm78-gis" changeset="634299"/>
+  <way id="26329653" version="16" timestamp="2010-05-01T20:01:53Z" uid="151899" user="Bikeman2000" changeset="4578867">
+    <nd ref="286405907"/>
+    <nd ref="339448850"/>
+    <nd ref="715842750"/>
+    <nd ref="256329632"/>
+    <nd ref="715842751"/>
+    <nd ref="256329627"/>
+    <nd ref="286405919"/>
+    <nd ref="256329626"/>
+    <nd ref="256329625"/>
+    <nd ref="256329624"/>
+    <nd ref="256328512"/>
+    <nd ref="256329614"/>
+    <nd ref="256328511"/>
+    <nd ref="343774705"/>
+    <nd ref="256328510"/>
+    <nd ref="343774702"/>
+    <nd ref="256328509"/>
+    <nd ref="256328508"/>
+    <nd ref="298259576"/>
+    <nd ref="256328506"/>
+    <nd ref="256328607"/>
+    <nd ref="256328503"/>
+    <nd ref="267742854"/>
+    <nd ref="256328609"/>
+    <nd ref="256328491"/>
+    <nd ref="256328489"/>
+    <nd ref="256328487"/>
+    <nd ref="193225150"/>
+    <nd ref="298262444"/>
+    <nd ref="253862049"/>
+    <nd ref="253862051"/>
+    <nd ref="253866315"/>
+    <tag k="name" v="U74, U77, 701, 713"/>
+    <tag k="railway" v="tram"/>
+  </way>
+  <way id="26329657" version="1" timestamp="2008-08-16T14:16:08Z" uid="7617" user="Franc" changeset="279810">
+    <nd ref="46157301"/>
+    <nd ref="46157304"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="created_by" v="Potlatch alpha"/>
+    <tag k="highway" v="service"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Easy Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="yahoo_imagery"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="26329657" version="2" timestamp="2011-01-29T23:21:49Z" uid="61114" user="Trav" changeset="7128670">
+    <nd ref="46157301"/>
+    <nd ref="46157304"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="layer" v="2"/>
+    <tag k="name" v="Easy Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="yahoo_imagery"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="26329659" version="1" timestamp="2008-08-16T14:16:09Z" uid="7617" user="Franc" changeset="279810">
+    <nd ref="46157330"/>
+    <nd ref="288464921"/>
+    <nd ref="46157331"/>
+    <nd ref="60796077"/>
+    <tag k="created_by" v="Potlatch alpha"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Easy Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="yahoo_imagery"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="26329659" version="2" timestamp="2011-01-29T23:21:51Z" uid="61114" user="Trav" changeset="7128670">
+    <nd ref="46157330"/>
+    <nd ref="1127123803"/>
+    <nd ref="288464921"/>
+    <nd ref="1127123503"/>
+    <nd ref="1127123488"/>
+    <nd ref="1127123792"/>
+    <nd ref="46157331"/>
+    <nd ref="60796077"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Easy Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="yahoo_imagery"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="26329660" version="1" timestamp="2008-08-16T14:16:11Z" uid="7617" user="Franc" changeset="279810">
+    <nd ref="288464903"/>
+    <nd ref="288464907"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Martin Francis Drive"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="26329660" version="2" timestamp="2011-01-29T23:21:36Z" uid="61114" user="Trav" changeset="7128670">
+    <nd ref="288464903"/>
+    <nd ref="1127123510"/>
+    <nd ref="1127123564"/>
+    <nd ref="1127123506"/>
+    <nd ref="1127123531"/>
+    <nd ref="1127123530"/>
+    <nd ref="288464907"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Martin Francis Drive"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="26329661" version="1" timestamp="2008-08-16T14:16:12Z" uid="7617" user="Franc" changeset="279810">
+    <nd ref="288464908"/>
+    <nd ref="288464910"/>
+    <nd ref="288464911"/>
+    <nd ref="288464913"/>
+    <nd ref="288464915"/>
+    <nd ref="288464916"/>
+    <nd ref="288464918"/>
+    <nd ref="288464919"/>
+    <nd ref="288464907"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Nurses Drive"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="26329661" version="2" timestamp="2011-01-29T23:21:35Z" uid="61114" user="Trav" changeset="7128670">
+    <nd ref="288464908"/>
+    <nd ref="288464910"/>
+    <nd ref="288464911"/>
+    <nd ref="288464913"/>
+    <nd ref="288464915"/>
+    <nd ref="288464916"/>
+    <nd ref="1127123555"/>
+    <nd ref="288464918"/>
+    <nd ref="288464919"/>
+    <nd ref="1127123527"/>
+    <nd ref="1127123522"/>
+    <nd ref="288464907"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Nurses Drive"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="26329661" version="3" timestamp="2011-01-30T04:22:12Z" uid="61114" user="Trav" changeset="7130058">
+    <nd ref="288464908"/>
+    <nd ref="288464910"/>
+    <nd ref="288464911"/>
+    <nd ref="288464913"/>
+    <nd ref="288464915"/>
+    <nd ref="288464916"/>
+    <nd ref="1127123555"/>
+    <nd ref="288464918"/>
+    <nd ref="288464919"/>
+    <nd ref="1127123527"/>
+    <nd ref="1127123522"/>
+    <nd ref="288464907"/>
+    <nd ref="1127123533"/>
+    <nd ref="1127123535"/>
+    <nd ref="1127123536"/>
+    <nd ref="1127123538"/>
+    <nd ref="1127123541"/>
+    <nd ref="1127123543"/>
+    <nd ref="1127123544"/>
+    <nd ref="1127123546"/>
+    <nd ref="1127123547"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Nurses Drive"/>
+    <tag k="source" v="survey;nearmap"/>
+  </way>
+  <way id="26329663" version="1" timestamp="2008-08-16T14:16:13Z" uid="7617" user="Franc" changeset="279810">
+    <nd ref="288464919"/>
+    <nd ref="288464921"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Simon Pearce Drive"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="26329663" version="2" timestamp="2011-01-29T23:21:49Z" uid="61114" user="Trav" changeset="7128670">
+    <nd ref="288464919"/>
+    <nd ref="1127123528"/>
+    <nd ref="288464921"/>
+    <nd ref="1127123794"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Simon Pearce Drive"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="26329665" version="1" timestamp="2008-08-16T14:16:14Z" uid="7617" user="Franc" changeset="279810">
+    <nd ref="288464922"/>
+    <nd ref="288464924"/>
+    <nd ref="288464925"/>
+    <nd ref="288464927"/>
+    <nd ref="288464922"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="leisure" v="park"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="26329667" version="1" timestamp="2008-08-16T14:16:15Z" uid="7617" user="Franc" changeset="279810">
+    <nd ref="18521252"/>
+    <nd ref="288464931"/>
+    <nd ref="288464938"/>
+    <nd ref="288464940"/>
+    <nd ref="246714121"/>
+    <nd ref="246714123"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Havelock Street"/>
+    <tag k="source" v="yahoo_imagery"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="26329667" version="3" timestamp="2010-06-06T00:29:53Z" uid="7617" user="Franc" changeset="4913630">
+    <nd ref="18521252"/>
+    <nd ref="288464931"/>
+    <nd ref="288464938"/>
+    <nd ref="288464940"/>
+    <nd ref="246714121"/>
+    <nd ref="765381497"/>
+    <nd ref="246714123"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Havelock Street"/>
+    <tag k="source" v="yahoo_imagery"/>
+    <tag k="source:maxspeed" v="state_limit"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="26329667" version="4" timestamp="2011-03-19T12:34:55Z" uid="7617" user="Franc" changeset="7604292">
+    <nd ref="18521252"/>
+    <nd ref="288464931"/>
+    <nd ref="1208770505"/>
+    <nd ref="1208770562"/>
+    <nd ref="288464938"/>
+    <nd ref="288464940"/>
+    <nd ref="246714121"/>
+    <nd ref="765381497"/>
+    <nd ref="246714123"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Havelock Street"/>
+    <tag k="source" v="yahoo_imagery"/>
+    <tag k="source:maxspeed" v="state_limit"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="26329668" version="1" timestamp="2008-08-16T14:16:17Z" uid="7617" user="Franc" changeset="279810">
+    <nd ref="288464946"/>
+    <nd ref="288464941"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="residential"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Brook Street"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="26329668" version="2" timestamp="2010-07-07T21:44:51Z" uid="74617" user="JohnSmith" changeset="5161069">
+    <nd ref="288464946"/>
+    <nd ref="288464941"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Brook Street"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="26329669" version="1" timestamp="2008-08-16T14:16:20Z" uid="7617" user="Franc" changeset="279810">
+    <nd ref="288464941"/>
+    <nd ref="246851160"/>
+    <nd ref="32479130"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Brook Street"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="26329669" version="3" timestamp="2010-01-29T23:46:17Z" uid="30201" user="rrankin" changeset="3747639">
+    <nd ref="288464941"/>
+    <nd ref="246851160"/>
+    <nd ref="622674336"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Brook Street"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="state_limit"/>
+  </way>
+  <way id="26329670" version="1" timestamp="2008-08-16T14:16:21Z" uid="7617" user="Franc" changeset="279810">
+    <nd ref="288464948"/>
+    <nd ref="288464950"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Ormond Garden"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="26329670" version="2" timestamp="2010-07-07T21:44:35Z" uid="74617" user="JohnSmith" changeset="5161069">
+    <nd ref="288464948"/>
+    <nd ref="288464950"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Ormond Garden"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="26329671" version="1" timestamp="2008-08-16T14:16:22Z" uid="7617" user="Franc" changeset="279810">
+    <nd ref="288464951"/>
+    <nd ref="288465051"/>
+    <nd ref="288464954"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Arcadia Lane"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="26329673" version="1" timestamp="2008-08-16T14:16:22Z" uid="7617" user="Franc" changeset="279810">
+    <nd ref="288465033"/>
+    <nd ref="288465051"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Alison Lane"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="26329674" version="1" timestamp="2008-08-16T14:16:23Z" uid="7617" user="Franc" changeset="279810">
+    <nd ref="288465107"/>
+    <nd ref="288465112"/>
+    <nd ref="288465116"/>
+    <nd ref="288465117"/>
+    <nd ref="288465118"/>
+    <nd ref="288465119"/>
+    <nd ref="288465120"/>
+    <nd ref="288465121"/>
+    <nd ref="288465122"/>
+    <nd ref="18813783"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="name" v="Division Lane"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="26329674" version="3" timestamp="2011-03-26T07:37:48Z" uid="7617" user="Franc" changeset="7672617">
+    <nd ref="288465107"/>
+    <nd ref="288465112"/>
+    <nd ref="288465116"/>
+    <nd ref="288465117"/>
+    <nd ref="288465118"/>
+    <nd ref="288465119"/>
+    <nd ref="288465121"/>
+    <nd ref="18813783"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Division Lane"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="26329675" version="1" timestamp="2008-08-16T14:16:24Z" uid="7617" user="Franc" changeset="279810">
+    <nd ref="288465124"/>
+    <nd ref="18813783"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="service"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="26329675" version="2" timestamp="2011-03-26T07:37:17Z" uid="7617" user="Franc" changeset="7672617">
+    <nd ref="288465124"/>
+    <nd ref="18813783"/>
+    <tag k="fixme:sign:no" v="2011-03-13"/>
+    <tag k="highway" v="service"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="26329734" version="3" timestamp="2010-06-29T19:08:59Z" uid="74617" user="JohnSmith" changeset="5108182">
+    <nd ref="288465688"/>
+    <nd ref="288465689"/>
+    <nd ref="288465691"/>
+    <nd ref="288465693"/>
+    <nd ref="288465694"/>
+    <nd ref="288465695"/>
+    <nd ref="288465696"/>
+    <nd ref="288465697"/>
+    <nd ref="288465698"/>
+    <nd ref="288465699"/>
+    <nd ref="288465700"/>
+    <nd ref="288465701"/>
+    <nd ref="288465702"/>
+    <nd ref="288465703"/>
+    <nd ref="288465704"/>
+    <nd ref="288465705"/>
+    <nd ref="288465706"/>
+    <nd ref="288465707"/>
+    <nd ref="288465708"/>
+    <nd ref="288465709"/>
+    <nd ref="288465710"/>
+    <nd ref="288465711"/>
+    <nd ref="288465712"/>
+    <nd ref="288465713"/>
+    <nd ref="288465714"/>
+    <nd ref="288465715"/>
+    <nd ref="288465716"/>
+    <nd ref="288465717"/>
+    <nd ref="288465718"/>
+    <nd ref="288465719"/>
+    <nd ref="288465720"/>
+    <nd ref="288465721"/>
+    <nd ref="288465722"/>
+    <nd ref="288465723"/>
+    <nd ref="288465724"/>
+    <nd ref="288465688"/>
+    <tag k="fixme" v="sport=football is ambiguous, see http://wiki.osm.org/wiki/Football for more details"/>
+    <tag k="leisure" v="stadium"/>
+    <tag k="name" v="City of Manchester Stadium"/>
+    <tag k="note" v="Manchester City Ground"/>
+    <tag k="sport" v="football"/>
+  </way>
+  <way id="26329743" version="3" timestamp="2008-11-26T01:59:53Z" uid="6975" user="ulfl" changeset="794829">
+    <nd ref="286905625"/>
+    <nd ref="83218279"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maylength" v="25"/>
+    <tag k="name" v="Route du Pillon"/>
+    <tag k="nat_ref" v="142"/>
+  </way>
+  <way id="26329743" version="4" timestamp="2008-12-13T19:37:49Z" uid="6975" user="ulfl" changeset="352865">
+    <nd ref="286905625"/>
+    <nd ref="83218279"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxlength" v="25"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Route du Pillon"/>
+    <tag k="nat_ref" v="142"/>
+  </way>
+  <way id="26329744" version="4" timestamp="2008-11-26T02:00:29Z" uid="6975" user="ulfl" changeset="794829">
+    <nd ref="83218279"/>
+    <nd ref="83218280"/>
+    <nd ref="286908588"/>
+    <nd ref="83218282"/>
+    <nd ref="83218284"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maylength" v="25"/>
+    <tag k="name" v="Route du Pillon"/>
+    <tag k="nat_ref" v="142"/>
+  </way>
+  <way id="26329744" version="5" timestamp="2008-12-13T19:37:50Z" uid="6975" user="ulfl" changeset="352865">
+    <nd ref="83218279"/>
+    <nd ref="83218280"/>
+    <nd ref="286908588"/>
+    <nd ref="83218282"/>
+    <nd ref="83218284"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxlength" v="25"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Route du Pillon"/>
+    <tag k="nat_ref" v="142"/>
+  </way>
+  <way id="26329903" version="2" timestamp="2008-09-12T08:18:28Z" uid="9581" user="Lobelt" changeset="613851">
+    <nd ref="33038339"/>
+    <nd ref="288467394"/>
+    <nd ref="288467395"/>
+    <nd ref="288467396"/>
+    <nd ref="288467397"/>
+    <nd ref="288467398"/>
+    <nd ref="288467399"/>
+    <nd ref="288467400"/>
+    <nd ref="288467401"/>
+    <nd ref="288467403"/>
+    <nd ref="288467404"/>
+    <nd ref="288467405"/>
+    <nd ref="288467413"/>
+    <nd ref="288467414"/>
+    <nd ref="288467415"/>
+    <nd ref="288467417"/>
+    <nd ref="288467420"/>
+    <nd ref="288467422"/>
+    <nd ref="288467423"/>
+    <nd ref="288467424"/>
+    <nd ref="288467425"/>
+    <nd ref="288467426"/>
+    <nd ref="288467427"/>
+    <nd ref="288467429"/>
+    <nd ref="288467430"/>
+    <nd ref="288467431"/>
+    <nd ref="288467432"/>
+    <nd ref="288467433"/>
+    <nd ref="288467434"/>
+    <nd ref="288467435"/>
+    <nd ref="33038412"/>
+    <tag k="highway" v="track"/>
+    <tag k="surface" v="sand"/>
+    <tag k="tracktype" v="grade4"/>
+  </way>
+  <way id="26329904" version="2" timestamp="2008-11-26T18:17:51Z" uid="6975" user="ulfl" changeset="797054">
+    <nd ref="168265154"/>
+    <nd ref="288467476"/>
+    <nd ref="288467479"/>
+    <nd ref="288467514"/>
+    <nd ref="288467515"/>
+    <nd ref="288467516"/>
+    <nd ref="288467517"/>
+    <nd ref="288467518"/>
+    <nd ref="288467519"/>
+    <nd ref="288467523"/>
+    <nd ref="288467524"/>
+    <nd ref="288467525"/>
+    <nd ref="288467526"/>
+    <nd ref="288467528"/>
+    <nd ref="288467529"/>
+    <nd ref="288467531"/>
+    <nd ref="288467532"/>
+    <nd ref="288467534"/>
+    <nd ref="288467537"/>
+    <nd ref="288467540"/>
+    <nd ref="288467542"/>
+    <nd ref="288467543"/>
+    <nd ref="288467544"/>
+    <nd ref="288467546"/>
+    <nd ref="288467547"/>
+    <nd ref="288467548"/>
+    <nd ref="288467549"/>
+    <nd ref="288467550"/>
+    <nd ref="288467551"/>
+    <nd ref="288467552"/>
+    <nd ref="288467553"/>
+    <nd ref="288467554"/>
+    <nd ref="288467616"/>
+    <nd ref="288467619"/>
+    <nd ref="288467622"/>
+    <nd ref="168264465"/>
+    <tag k="highway" v="track"/>
+    <tag k="surface" v="sand"/>
+    <tag k="tracktype" v="grade4"/>
+  </way>
+  <way id="26329938" version="10" timestamp="2010-05-01T14:27:20Z" uid="151899" user="Bikeman2000" changeset="4575515">
+    <nd ref="282257796"/>
+    <nd ref="253277714"/>
+    <nd ref="253628805"/>
+    <nd ref="715500659"/>
+    <nd ref="254919393"/>
+    <nd ref="715500660"/>
+    <nd ref="715500661"/>
+    <nd ref="282259481"/>
+    <nd ref="715500664"/>
+    <nd ref="254919395"/>
+    <nd ref="282258308"/>
+    <nd ref="254919396"/>
+    <tag k="level" v="-2"/>
+    <tag k="name" v="U70, U74-U79"/>
+    <tag k="railway" v="subway"/>
+  </way>
+  <way id="26329971" version="5" timestamp="2010-05-03T19:30:33Z" uid="151899" user="Bikeman2000" changeset="4598248">
+    <nd ref="253277706"/>
+    <nd ref="253279997"/>
+    <nd ref="282768835"/>
+    <nd ref="411302068"/>
+    <nd ref="253279999"/>
+    <nd ref="719286793"/>
+    <nd ref="253277707"/>
+    <nd ref="411305387"/>
+    <nd ref="339422454"/>
+    <tag k="name" v="U70, U74, U75, U76, U77"/>
+    <tag k="railway" v="tram"/>
+  </way>
+  <way id="26329982" version="3" timestamp="2009-05-19T14:04:32Z" uid="107674" user="GeoCounter" changeset="1249718">
+    <nd ref="52733180"/>
+    <nd ref="52733184"/>
+    <nd ref="52733188"/>
+    <nd ref="303773556"/>
+    <nd ref="303773551"/>
+    <nd ref="303773548"/>
+    <nd ref="288468645"/>
+    <nd ref="288468698"/>
+    <nd ref="405880390"/>
+    <nd ref="288468647"/>
+    <nd ref="288468699"/>
+    <tag k="created_by" v="Potlatch 0.8c"/>
+    <tag k="highway" v="track"/>
+    <tag k="tracktype" v="grade2"/>
+  </way>
+</osm>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="251331" version="2" timestamp="2009-09-29T02:35:08Z" uid="36809" user="pfoten_weg_!_" changeset="2672254">
+    <member type="way" ref="39363172" role="outer"/>
+    <member type="way" ref="39603060" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="251840" version="2" timestamp="2011-04-15T21:20:25Z" uid="107674" user="GeoCounter" changeset="7873826">
+    <member type="node" ref="208661740" role="via"/>
+    <member type="way" ref="20326502" role="to"/>
+    <member type="way" ref="108689265" role="from"/>
+    <tag k="restriction" v="no_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="251881" version="5" timestamp="2010-05-02T14:09:41Z" uid="4467" user="Rosscoe" changeset="4585497">
+    <member type="way" ref="40667659" role="from"/>
+    <member type="node" ref="493930996" role="via"/>
+    <member type="way" ref="24883565" role="to"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+</osm>

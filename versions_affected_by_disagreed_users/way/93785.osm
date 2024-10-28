@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="93785428" version="3" timestamp="2011-02-07T19:27:54Z" uid="9581" user="Lobelt" changeset="7219776">
+    <nd ref="164931631"/>
+    <nd ref="33810629"/>
+    <nd ref="96562707"/>
+    <nd ref="1119794586"/>
+    <nd ref="272626240"/>
+    <nd ref="11244354"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="70"/>
+    <tag k="name" v="Speyerer Straße"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="L 600a"/>
+    <tag k="source:maxspeed" v="sign"/>
+  </way>
+  <way id="93785450" version="3" timestamp="2011-03-04T21:21:27Z" uid="9581" user="Lobelt" changeset="7458182">
+    <nd ref="297885317"/>
+    <nd ref="20978201"/>
+    <nd ref="831589070"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="70"/>
+    <tag k="motorroad" v="yes"/>
+    <tag k="name" v="Wilhelm-Varnholt-Allee"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="B 37"/>
+    <tag k="source:maxspeed" v="sign"/>
+  </way>
+  <way id="93785468" version="2" timestamp="2011-02-07T19:27:53Z" uid="9581" user="Lobelt" changeset="7219776">
+    <nd ref="11244353"/>
+    <nd ref="1141151481"/>
+    <nd ref="1141151482"/>
+    <nd ref="617303270"/>
+    <nd ref="301373420"/>
+    <nd ref="272626241"/>
+    <nd ref="278034317"/>
+    <nd ref="463170106"/>
+    <tag k="addr:city" v="Heidelberg"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="70"/>
+    <tag k="name" v="Speyerer Straße"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="L 600a"/>
+    <tag k="source:maxspeed" v="sign"/>
+  </way>
+  <way id="93785472" version="2" timestamp="2011-02-07T19:27:49Z" uid="9581" user="Lobelt" changeset="7219776">
+    <nd ref="262579562"/>
+    <nd ref="61090368"/>
+    <nd ref="273696426"/>
+    <nd ref="273695608"/>
+    <nd ref="264046959"/>
+    <nd ref="11244355"/>
+    <nd ref="272631525"/>
+    <nd ref="262579721"/>
+    <nd ref="1141151521"/>
+    <nd ref="11244353"/>
+    <tag k="addr:city" v="Heidelberg"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Speyerer Straße"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="L 600a"/>
+    <tag k="source:maxspeed" v="DE:urban"/>
+  </way>
+</osm>

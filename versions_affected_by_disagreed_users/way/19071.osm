@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="19071026" version="5" timestamp="2010-07-06T09:48:12Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="197662575"/>
+    <nd ref="360295234"/>
+    <nd ref="197665769"/>
+    <nd ref="197573803"/>
+    <nd ref="197574710"/>
+    <nd ref="197571247"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Anthony Street"/>
+  </way>
+  <way id="19071283" version="5" timestamp="2008-08-15T14:33:01Z" uid="49111" user="Markus B" changeset="258273">
+    <nd ref="197669185"/>
+    <nd ref="197669187"/>
+    <nd ref="197669188"/>
+    <nd ref="283065236"/>
+    <nd ref="197669191"/>
+    <nd ref="197669193"/>
+    <nd ref="197669194"/>
+    <nd ref="197670685"/>
+    <tag k="created_by" v="Potlatch 0.6"/>
+    <tag k="name" v="Ferry Rostock-Helsinki-Tallinn (Tallink Superfast)"/>
+    <tag k="operator" v="Tallink"/>
+    <tag k="route" v="ferry"/>
+  </way>
+  <way id="19071481" version="2" timestamp="2008-07-07T01:48:27Z" uid="6975" user="ulfl" changeset="415781">
+    <nd ref="15221682"/>
+    <nd ref="15221681"/>
+    <nd ref="15215709"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="maxspeed" v="64"/>
+    <tag k="name" v="Arundel Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A27"/>
+  </way>
+</osm>

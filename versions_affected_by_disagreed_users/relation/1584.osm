@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1584266" version="1" timestamp="2011-05-13T23:00:52Z" uid="23543" user="jkjk" changeset="8136487">
+    <member type="way" ref="5084477" role=""/>
+    <member type="way" ref="27745979" role=""/>
+    <member type="way" ref="5087235" role=""/>
+    <member type="way" ref="31128914" role=""/>
+    <member type="way" ref="61955411" role=""/>
+    <member type="way" ref="61955413" role=""/>
+    <member type="way" ref="5087231" role=""/>
+    <member type="way" ref="5087228" role=""/>
+    <member type="way" ref="113081286" role=""/>
+    <tag k="complete" v="no"/>
+    <tag k="network" v="rcn"/>
+    <tag k="operator" v="cz:MHP"/>
+    <tag k="ref" v="A24"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1584270" version="1" timestamp="2011-05-13T23:03:49Z" uid="9581" user="Lobelt" changeset="8136501">
+    <member type="way" ref="4848699" role="outer"/>
+    <member type="way" ref="113081363" role="inner"/>
+    <member type="way" ref="113081371" role="inner"/>
+    <member type="way" ref="113081365" role="inner"/>
+    <member type="way" ref="113081358" role="inner"/>
+    <member type="way" ref="113081357" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1584271" version="1" timestamp="2011-05-13T23:03:50Z" uid="9581" user="Lobelt" changeset="8136501">
+    <member type="way" ref="4848608" role="outer"/>
+    <member type="way" ref="113081362" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1584343" version="1" timestamp="2011-05-14T01:11:51Z" uid="16922" user="amai" changeset="8136937">
+    <member type="way" ref="113100245" role="outer"/>
+    <member type="way" ref="113100252" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1584344" version="1" timestamp="2011-05-14T01:11:51Z" uid="16922" user="amai" changeset="8136937">
+    <member type="way" ref="106576667" role="outer"/>
+    <member type="way" ref="113100280" role="inner"/>
+    <member type="way" ref="113100264" role=""/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1584344" version="2" timestamp="2011-05-15T23:02:42Z" uid="16922" user="amai" changeset="8158028">
+    <member type="way" ref="113100280" role="inner"/>
+    <member type="way" ref="113100264" role="inner"/>
+    <member type="way" ref="113525227" role=""/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+</osm>

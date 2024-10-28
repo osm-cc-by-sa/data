@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="27962069" version="1" timestamp="2008-10-25T01:23:46Z" uid="7617" user="Franc" changeset="561636">
+    <nd ref="307333435"/>
+    <nd ref="307333481"/>
+    <nd ref="307333443"/>
+    <nd ref="307333452"/>
+    <nd ref="307333492"/>
+    <nd ref="307333461"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="27962069" version="2" timestamp="2009-12-07T20:35:05Z" uid="7617" user="Franc" changeset="3319261">
+    <nd ref="307333435"/>
+    <nd ref="307333481"/>
+    <nd ref="307333443"/>
+    <nd ref="307333452"/>
+    <nd ref="307333492"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="27962069" version="3" timestamp="2010-01-08T01:56:39Z" uid="30201" user="rrankin" changeset="3567358">
+    <nd ref="29769729"/>
+    <nd ref="608759286"/>
+    <nd ref="608759284"/>
+    <nd ref="608759280"/>
+    <nd ref="307333435"/>
+    <nd ref="307333481"/>
+    <nd ref="307333443"/>
+    <nd ref="307333452"/>
+    <nd ref="307333492"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="27962243" version="1" timestamp="2008-10-25T01:25:18Z" uid="30201" user="rrankin" changeset="559805">
+    <nd ref="288316881"/>
+    <nd ref="288316943"/>
+    <nd ref="288316887"/>
+    <nd ref="288316946"/>
+    <nd ref="288316885"/>
+    <nd ref="307334419"/>
+    <nd ref="288313648"/>
+    <tag k="created_by" v="Potlatch 0.10b"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Ryeland Street"/>
+    <tag k="source" v="yahoo_imagery"/>
+  </way>
+  <way id="27962243" version="2" timestamp="2010-07-07T22:31:43Z" uid="74617" user="JohnSmith" changeset="5162525">
+    <nd ref="288316881"/>
+    <nd ref="288316943"/>
+    <nd ref="288316887"/>
+    <nd ref="288316946"/>
+    <nd ref="288316885"/>
+    <nd ref="307334419"/>
+    <nd ref="288313648"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Ryeland Street"/>
+    <tag k="source" v="yahoo_imagery"/>
+  </way>
+  <way id="27962245" version="1" timestamp="2008-10-25T01:25:19Z" uid="30201" user="rrankin" changeset="559805">
+    <nd ref="288316342"/>
+    <nd ref="307334427"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Haddon Rig Place"/>
+  </way>
+  <way id="27962245" version="2" timestamp="2010-07-07T22:34:17Z" uid="74617" user="JohnSmith" changeset="5162525">
+    <nd ref="288316342"/>
+    <nd ref="307334427"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Haddon Rig Place"/>
+  </way>
+  <way id="27962248" version="1" timestamp="2008-10-25T01:25:20Z" uid="30201" user="rrankin" changeset="559805">
+    <nd ref="307334435"/>
+    <nd ref="307334442"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Suffolk Street"/>
+    <tag k="source" v="yahoo"/>
+  </way>
+  <way id="27962248" version="2" timestamp="2010-07-07T22:30:49Z" uid="74617" user="JohnSmith" changeset="5162525">
+    <nd ref="307334435"/>
+    <nd ref="307334442"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Suffolk Street"/>
+    <tag k="source" v="yahoo"/>
+  </way>
+</osm>

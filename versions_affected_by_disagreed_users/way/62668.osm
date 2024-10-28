@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="62668460" version="1" timestamp="2010-06-22T07:15:40Z" uid="61114" user="Trav" changeset="5048831">
+    <nd ref="465211262"/>
+    <nd ref="781081242"/>
+    <nd ref="781081243"/>
+    <tag k="highway" v="track"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="62668463" version="1" timestamp="2010-06-22T07:15:40Z" uid="61114" user="Trav" changeset="5048831">
+    <nd ref="781081250"/>
+    <nd ref="781081253"/>
+    <nd ref="781081252"/>
+    <nd ref="781081248"/>
+    <nd ref="781081249"/>
+    <nd ref="465211262"/>
+    <tag k="highway" v="track"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="62668464" version="1" timestamp="2010-06-22T07:15:40Z" uid="61114" user="Trav" changeset="5048831">
+    <nd ref="781081255"/>
+    <nd ref="781081260"/>
+    <nd ref="781081256"/>
+    <nd ref="781081258"/>
+    <nd ref="781081253"/>
+    <nd ref="781081259"/>
+    <nd ref="781081255"/>
+    <tag k="amenity" v="parking"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="62668465" version="1" timestamp="2010-06-22T07:15:41Z" uid="61114" user="Trav" changeset="5048831">
+    <nd ref="781081263"/>
+    <nd ref="781081265"/>
+    <nd ref="781081267"/>
+    <nd ref="781081268"/>
+    <nd ref="781081269"/>
+    <tag k="highway" v="service"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="62668466" version="1" timestamp="2010-06-22T07:15:41Z" uid="61114" user="Trav" changeset="5048831">
+    <nd ref="781081272"/>
+    <nd ref="781081268"/>
+    <nd ref="781081267"/>
+    <nd ref="781081273"/>
+    <nd ref="781081272"/>
+    <tag k="amenity" v="parking"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="62668467" version="1" timestamp="2010-06-22T07:15:41Z" uid="61114" user="Trav" changeset="5048831">
+    <nd ref="781081275"/>
+    <nd ref="781081277"/>
+    <nd ref="781081278"/>
+    <nd ref="781081279"/>
+    <nd ref="781081280"/>
+    <nd ref="781081282"/>
+    <nd ref="781081283"/>
+    <nd ref="781081277"/>
+    <tag k="highway" v="service"/>
+    <tag k="service" v="parking_aisle"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="62668468" version="1" timestamp="2010-06-22T07:15:41Z" uid="61114" user="Trav" changeset="5048831">
+    <nd ref="781081278"/>
+    <nd ref="781081282"/>
+    <tag k="highway" v="service"/>
+    <tag k="service" v="parking_aisle"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="62668472" version="1" timestamp="2010-06-22T07:15:42Z" uid="61114" user="Trav" changeset="5048831">
+    <nd ref="781081288"/>
+    <nd ref="781081290"/>
+    <nd ref="781081291"/>
+    <nd ref="781081293"/>
+    <nd ref="781081294"/>
+    <nd ref="781081295"/>
+    <nd ref="781081297"/>
+    <nd ref="781081298"/>
+    <nd ref="781081299"/>
+    <nd ref="781081301"/>
+    <nd ref="781081302"/>
+    <nd ref="781081303"/>
+    <nd ref="781081304"/>
+    <nd ref="781081306"/>
+    <nd ref="781081307"/>
+    <nd ref="781081308"/>
+    <nd ref="781081310"/>
+    <nd ref="781081311"/>
+    <nd ref="781081312"/>
+    <nd ref="781081314"/>
+    <nd ref="781081315"/>
+    <nd ref="781081316"/>
+    <nd ref="781081290"/>
+    <tag k="highway" v="service"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="62668475" version="1" timestamp="2010-06-22T07:15:43Z" uid="61114" user="Trav" changeset="5048831">
+    <nd ref="781081319"/>
+    <nd ref="781081322"/>
+    <nd ref="781081323"/>
+    <nd ref="781081324"/>
+    <nd ref="781081326"/>
+    <nd ref="781081327"/>
+    <tag k="highway" v="footway"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="62668530" version="2" timestamp="2010-06-29T18:31:49Z" uid="74617" user="JohnSmith" changeset="5107971">
+    <nd ref="781082708"/>
+    <nd ref="781082712"/>
+    <nd ref="781082714"/>
+    <nd ref="781082716"/>
+    <nd ref="781082708"/>
+    <tag k="fixme" v="sport=football is ambiguous, please use sport=[soccer|rugby_league|rugby_union|australian_football|etc] instead, see http://wiki.osm.org/wiki/Football for more details"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="sport" v="football"/>
+  </way>
+  <way id="62668539" version="1" timestamp="2010-06-22T07:17:59Z" uid="4467" user="Rosscoe" changeset="5048841">
+    <nd ref="287292441"/>
+    <nd ref="287292453"/>
+    <nd ref="781083046"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Razorback Road"/>
+  </way>
+  <way id="62668539" version="2" timestamp="2010-07-06T17:59:25Z" uid="74617" user="JohnSmith" changeset="5152225">
+    <nd ref="287292441"/>
+    <nd ref="287292453"/>
+    <nd ref="781083046"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Razorback Road"/>
+  </way>
+</osm>

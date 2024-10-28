@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1231383" version="1" timestamp="2010-10-19T08:52:37Z" uid="115477" user="wowik" changeset="6094657">
+    <member type="way" ref="36911454" role="from"/>
+    <member type="way" ref="32020463" role="to"/>
+    <member type="node" ref="429279797" role="via"/>
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1231438" version="1" timestamp="2010-10-19T10:25:46Z" uid="115477" user="wowik" changeset="6096395">
+    <member type="way" ref="53063042" role="from"/>
+    <member type="way" ref="22322888" role="to"/>
+    <member type="node" ref="239987740" role="via"/>
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1231500" version="1" timestamp="2010-10-19T11:48:05Z" uid="7617" user="Franc" changeset="6097704">
+    <member type="way" ref="2077091" role="from"/>
+    <member type="way" ref="23616729" role="to"/>
+    <member type="node" ref="8965669" role="via"/>
+    <tag k="except" v="bus"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1231509" version="1" timestamp="2010-10-19T12:06:07Z" uid="7617" user="Franc" changeset="6098118">
+    <member type="way" ref="23369576" role="from"/>
+    <member type="way" ref="16364610" role="to"/>
+    <member type="node" ref="168479500" role="via"/>
+    <tag k="restriction" v="only_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1231509" version="2" timestamp="2010-12-30T12:51:12Z" uid="4467" user="Rosscoe" changeset="6808926"/>
+  <relation id="1231510" version="1" timestamp="2010-10-19T12:06:07Z" uid="7617" user="Franc" changeset="6098118">
+    <member type="way" ref="14296570" role="from"/>
+    <member type="way" ref="9745719" role="to"/>
+    <member type="node" ref="168479500" role="via"/>
+    <tag k="restriction" v="only_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1231510" version="2" timestamp="2010-12-30T12:51:12Z" uid="4467" user="Rosscoe" changeset="6808926"/>
+</osm>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="42383" version="3" timestamp="2009-08-29T03:07:52Z" uid="20587" user="balrog-kun" changeset="2296863"/>
+  <relation id="42610" version="1" timestamp="2008-10-25T04:56:38Z" uid="61114" user="Trav" changeset="560390">
+    <member type="node" ref="34054874" role="via"/>
+    <member type="way" ref="2956161" role="from"/>
+    <member type="way" ref="5059691" role="to"/>
+    <tag k="created_by" v="Merkaartor 0.13"/>
+    <tag k="day_off" v="friday"/>
+    <tag k="day_on" v="monday"/>
+    <tag k="except" v="bus"/>
+    <tag k="hour_off" v="09:30"/>
+    <tag k="hour_on" v="06:30"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="42610" version="2" timestamp="2009-12-18T07:29:58Z" uid="30201" user="rrankin" changeset="3398669">
+    <member type="node" ref="34054874" role="via"/>
+    <member type="way" ref="46596329" role="from"/>
+    <member type="way" ref="5059691" role="to"/>
+    <tag k="day_off" v="friday"/>
+    <tag k="day_on" v="monday"/>
+    <tag k="except" v="bus"/>
+    <tag k="hour_off" v="09:30"/>
+    <tag k="hour_on" v="06:30"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="42610" version="3" timestamp="2010-01-19T06:28:13Z" uid="30201" user="rrankin" changeset="3656321">
+    <member type="node" ref="34054874" role="via"/>
+    <member type="way" ref="46596329" role="from"/>
+    <member type="way" ref="5059691" role="to"/>
+    <member type="way" ref="48532744" role="to"/>
+    <tag k="day_off" v="friday"/>
+    <tag k="day_on" v="monday"/>
+    <tag k="except" v="bus"/>
+    <tag k="hour_off" v="09:30"/>
+    <tag k="hour_on" v="06:30"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="42610" version="4" timestamp="2010-01-20T01:58:56Z" uid="30201" user="rrankin" changeset="3663890">
+    <member type="node" ref="34054874" role="via"/>
+    <member type="way" ref="46596329" role="from"/>
+    <member type="way" ref="5059691" role="to"/>
+    <tag k="day_off" v="friday"/>
+    <tag k="day_on" v="monday"/>
+    <tag k="except" v="bus"/>
+    <tag k="hour_off" v="09:30"/>
+    <tag k="hour_on" v="06:30"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+</osm>

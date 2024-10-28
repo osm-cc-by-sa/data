@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="60040211" version="1" timestamp="2010-05-23T09:09:55Z" uid="18775" user="drlizau" changeset="4781098">
+    <nd ref="746262025"/>
+    <nd ref="746264607"/>
+    <nd ref="746264610"/>
+    <nd ref="746262032"/>
+    <nd ref="746262025"/>
+    <tag k="leisure" v="park"/>
+    <tag k="name" v="Sturt Park"/>
+  </way>
+  <way id="60040212" version="1" timestamp="2010-05-23T09:09:57Z" uid="18775" user="drlizau" changeset="4781098">
+    <nd ref="746264610"/>
+    <nd ref="746264607"/>
+    <nd ref="746264612"/>
+    <nd ref="746264608"/>
+    <nd ref="746264610"/>
+    <tag k="alt_name" v="Lions Park"/>
+    <tag k="leisure" v="park"/>
+    <tag k="name" v="Gordon and Jean Tindale Memorial Park"/>
+  </way>
+  <way id="60040235" version="1" timestamp="2010-05-23T09:11:47Z" uid="18775" user="drlizau" changeset="4781098">
+    <nd ref="746264608"/>
+    <nd ref="746264612"/>
+    <nd ref="746262025"/>
+    <nd ref="746264724"/>
+    <nd ref="746264729"/>
+    <nd ref="746264733"/>
+    <nd ref="746264727"/>
+    <nd ref="746264731"/>
+    <nd ref="746264723"/>
+    <nd ref="746264726"/>
+    <nd ref="746264730"/>
+    <nd ref="746264734"/>
+    <nd ref="746264728"/>
+    <nd ref="746264732"/>
+    <nd ref="746264725"/>
+    <nd ref="746264608"/>
+    <tag k="leisure" v="nature_reserve"/>
+    <tag k="name" v="Bushy Bend Reserve"/>
+  </way>
+  <way id="60040774" version="1" timestamp="2010-05-23T09:18:31Z" uid="4467" user="Rosscoe" changeset="4781212">
+    <nd ref="698804087"/>
+    <nd ref="698804096"/>
+    <nd ref="415831488"/>
+    <nd ref="746269440"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Mount Henry Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="60040775" version="1" timestamp="2010-05-23T09:18:32Z" uid="4467" user="Rosscoe" changeset="4781212">
+    <nd ref="413988673"/>
+    <nd ref="413988674"/>
+    <nd ref="413988676"/>
+    <nd ref="413988677"/>
+    <nd ref="413988679"/>
+    <nd ref="413988680"/>
+    <nd ref="413988681"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Cloister Avenue"/>
+  </way>
+  <way id="60040775" version="2" timestamp="2010-07-09T17:22:46Z" uid="74617" user="JohnSmith" changeset="5175333">
+    <nd ref="413988673"/>
+    <nd ref="413988674"/>
+    <nd ref="413988676"/>
+    <nd ref="413988677"/>
+    <nd ref="413988679"/>
+    <nd ref="413988680"/>
+    <nd ref="413988681"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Cloister Avenue"/>
+  </way>
+</osm>

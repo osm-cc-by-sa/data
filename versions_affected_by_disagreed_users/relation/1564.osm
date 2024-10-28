@@ -1,0 +1,682 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1564091" version="1" timestamp="2011-04-29T21:34:16Z" uid="16922" user="amai" changeset="8007133">
+    <member type="way" ref="107421608" role="from"/>
+    <member type="way" ref="25370954" role="to"/>
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1564473" version="1" timestamp="2011-04-30T06:14:35Z" uid="33382" user="de_muur" changeset="8008835">
+    <member type="node" ref="1264131571" role=""/>
+    <member type="way" ref="25785248" role=""/>
+    <member type="way" ref="27559117" role=""/>
+    <member type="way" ref="27559138" role=""/>
+    <member type="way" ref="27559259" role=""/>
+    <member type="way" ref="38585941" role=""/>
+    <member type="node" ref="1266376155" role=""/>
+    <tag k="name" v="Dalldorf - Schwanheide"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1564474" version="1" timestamp="2011-04-30T06:20:26Z" uid="33382" user="de_muur" changeset="8008863">
+    <member type="node" ref="1266376155" role=""/>
+    <member type="way" ref="111083559" role=""/>
+    <member type="node" ref="1266387952" role=""/>
+    <tag k="name" v="Büchen - Zweedorf"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1564475" version="1" timestamp="2011-04-30T06:23:36Z" uid="33382" user="de_muur" changeset="8008877">
+    <member type="node" ref="1266387952" role=""/>
+    <member type="way" ref="86841562" role=""/>
+    <tag k="name" v="Schwanheide"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1564477" version="1" timestamp="2011-04-30T06:33:22Z" uid="33382" user="de_muur" changeset="8008934">
+    <member type="node" ref="722599150" role=""/>
+    <member type="way" ref="40811455" role=""/>
+    <member type="way" ref="57718560" role=""/>
+    <member type="way" ref="61832569" role=""/>
+    <member type="way" ref="111086482" role=""/>
+    <member type="way" ref="111086483" role=""/>
+    <member type="way" ref="111086484" role=""/>
+    <member type="way" ref="111086479" role=""/>
+    <member type="node" ref="1266387952" role=""/>
+    <tag k="name" v="Büchen - Schwanheide"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1564773" version="1" timestamp="2011-04-30T11:06:17Z" uid="7617" user="Franc" changeset="8010690">
+    <member type="way" ref="108570460" role="from"/>
+    <member type="way" ref="108570457" role="to"/>
+    <member type="node" ref="12050231" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1564774" version="1" timestamp="2011-04-30T11:06:17Z" uid="7617" user="Franc" changeset="8010690">
+    <member type="way" ref="109864715" role="from"/>
+    <member type="way" ref="4548127" role="to"/>
+    <member type="node" ref="28272661" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1564775" version="1" timestamp="2011-04-30T11:06:18Z" uid="7617" user="Franc" changeset="8010690">
+    <member type="way" ref="51074618" role="from"/>
+    <member type="way" ref="111133837" role="to"/>
+    <member type="way" ref="4548127" role="via"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1564776" version="1" timestamp="2011-04-30T11:06:18Z" uid="7617" user="Franc" changeset="8010690">
+    <member type="way" ref="82578217" role="from"/>
+    <member type="way" ref="110391628" role="to"/>
+    <member type="node" ref="29058770" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1564777" version="1" timestamp="2011-04-30T11:06:18Z" uid="7617" user="Franc" changeset="8010690">
+    <member type="way" ref="110391701" role="from"/>
+    <member type="way" ref="110391643" role="to"/>
+    <member type="way" ref="110391628" role="via"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1564778" version="1" timestamp="2011-04-30T11:06:18Z" uid="7617" user="Franc" changeset="8010690">
+    <member type="way" ref="48806424" role="from"/>
+    <member type="way" ref="5035214" role="to"/>
+    <member type="node" ref="33660682" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1564779" version="1" timestamp="2011-04-30T11:06:19Z" uid="7617" user="Franc" changeset="8010690">
+    <member type="way" ref="108570457" role="from"/>
+    <member type="way" ref="23024132" role="to"/>
+    <member type="node" ref="33660682" role="via"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1564985" version="1" timestamp="2011-04-30T12:44:06Z" uid="74617" user="JohnSmith" changeset="8011403">
+    <member type="way" ref="27558249" role="member"/>
+    <member type="way" ref="34542532" role="member"/>
+    <member type="way" ref="34469912" role="member"/>
+    <member type="way" ref="111148496" role="member"/>
+    <member type="way" ref="111148491" role="member"/>
+    <member type="way" ref="111148493" role="member"/>
+    <member type="way" ref="35893060" role="member"/>
+    <member type="way" ref="34542346" role="member"/>
+    <member type="way" ref="34416232" role="member"/>
+    <member type="way" ref="34449005" role="member"/>
+    <member type="way" ref="35424429" role="member"/>
+    <member type="way" ref="35424430" role="member"/>
+    <member type="way" ref="34764101" role="member"/>
+    <member type="way" ref="34764086" role="member"/>
+    <member type="way" ref="34762253" role="member"/>
+    <member type="way" ref="39254915" role="member"/>
+    <member type="way" ref="34759398" role="member"/>
+    <member type="way" ref="30681049" role="member"/>
+    <member type="way" ref="35837706" role="member"/>
+    <member type="way" ref="111150404" role="member"/>
+    <member type="way" ref="34579419" role="member"/>
+    <member type="way" ref="34992766" role="member"/>
+    <member type="way" ref="34992768" role="member"/>
+    <member type="way" ref="34580260" role="member"/>
+    <member type="way" ref="34580259" role="member"/>
+    <member type="way" ref="35424993" role="member"/>
+    <member type="way" ref="35262655" role="member"/>
+    <tag k="name" v="Grafton to Moree Countrylink Route"/>
+    <tag k="operator" v="Symes Buses contracted to Countrylink"/>
+    <tag k="route" v="bus"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1564985" version="2" timestamp="2011-04-30T12:51:37Z" uid="74617" user="JohnSmith" changeset="8011456">
+    <member type="way" ref="36719337" role="member"/>
+    <member type="way" ref="111152466" role="member"/>
+    <member type="way" ref="111152472" role="member"/>
+    <member type="way" ref="27558238" role="member"/>
+    <member type="way" ref="36767757" role="member"/>
+    <member type="way" ref="36767758" role="member"/>
+    <member type="way" ref="36716102" role="member"/>
+    <member type="way" ref="36716100" role="member"/>
+    <member type="way" ref="34956753" role="member"/>
+    <member type="way" ref="34956754" role="member"/>
+    <member type="way" ref="35424231" role="member"/>
+    <member type="way" ref="35424232" role="member"/>
+    <member type="way" ref="27558249" role="member"/>
+    <member type="way" ref="34542532" role="member"/>
+    <member type="way" ref="34469912" role="member"/>
+    <member type="way" ref="111148496" role="member"/>
+    <member type="way" ref="111148491" role="member"/>
+    <member type="way" ref="111148493" role="member"/>
+    <member type="way" ref="35893060" role="member"/>
+    <member type="way" ref="34542346" role="member"/>
+    <member type="way" ref="34416232" role="member"/>
+    <member type="way" ref="34449005" role="member"/>
+    <member type="way" ref="35424429" role="member"/>
+    <member type="way" ref="35424430" role="member"/>
+    <member type="way" ref="34764101" role="member"/>
+    <member type="way" ref="34764086" role="member"/>
+    <member type="way" ref="34762253" role="member"/>
+    <member type="way" ref="39254915" role="member"/>
+    <member type="way" ref="34759398" role="member"/>
+    <member type="way" ref="30681049" role="member"/>
+    <member type="way" ref="35837706" role="member"/>
+    <member type="way" ref="111150404" role="member"/>
+    <member type="way" ref="34579419" role="member"/>
+    <member type="way" ref="34992766" role="member"/>
+    <member type="way" ref="34992768" role="member"/>
+    <member type="way" ref="34580260" role="member"/>
+    <member type="way" ref="34580259" role="member"/>
+    <member type="way" ref="35424993" role="member"/>
+    <member type="way" ref="35262655" role="member"/>
+    <member type="way" ref="10267005" role="member"/>
+    <member type="way" ref="39254404" role="member"/>
+    <member type="way" ref="24006382" role="member"/>
+    <member type="way" ref="38539610" role="member"/>
+    <member type="way" ref="35425828" role="member"/>
+    <member type="way" ref="35425827" role="member"/>
+    <tag k="name" v="Grafton to Moree Countrylink Route"/>
+    <tag k="operator" v="Symes Buses contracted to Countrylink"/>
+    <tag k="route" v="bus"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1564985" version="3" timestamp="2011-04-30T12:59:29Z" uid="74617" user="JohnSmith" changeset="8011507">
+    <member type="way" ref="96666969" role="member"/>
+    <member type="way" ref="106622913" role="member"/>
+    <member type="way" ref="106622917" role="member"/>
+    <member type="way" ref="22819619" role="member"/>
+    <member type="way" ref="106501136" role="member"/>
+    <member type="way" ref="106501131" role="member"/>
+    <member type="way" ref="39238823" role="member"/>
+    <member type="way" ref="39238824" role="member"/>
+    <member type="way" ref="22819621" role="member"/>
+    <member type="way" ref="22819620" role="member"/>
+    <member type="way" ref="109713919" role="member"/>
+    <member type="way" ref="109713887" role="member"/>
+    <member type="way" ref="109713907" role="member"/>
+    <member type="way" ref="109713917" role="member"/>
+    <member type="way" ref="35425827" role="member"/>
+    <member type="way" ref="35425828" role="member"/>
+    <member type="way" ref="38539610" role="member"/>
+    <member type="way" ref="24006382" role="member"/>
+    <member type="way" ref="39254404" role="member"/>
+    <member type="way" ref="10267005" role="member"/>
+    <member type="way" ref="35262655" role="member"/>
+    <member type="way" ref="35424993" role="member"/>
+    <member type="way" ref="34580259" role="member"/>
+    <member type="way" ref="34580260" role="member"/>
+    <member type="way" ref="34992768" role="member"/>
+    <member type="way" ref="34992766" role="member"/>
+    <member type="way" ref="34579419" role="member"/>
+    <member type="way" ref="111150404" role="member"/>
+    <member type="way" ref="35837706" role="member"/>
+    <member type="way" ref="30681049" role="member"/>
+    <member type="way" ref="34759398" role="member"/>
+    <member type="way" ref="39254915" role="member"/>
+    <member type="way" ref="34762253" role="member"/>
+    <member type="way" ref="34764086" role="member"/>
+    <member type="way" ref="34764101" role="member"/>
+    <member type="way" ref="35424430" role="member"/>
+    <member type="way" ref="35424429" role="member"/>
+    <member type="way" ref="34449005" role="member"/>
+    <member type="way" ref="34416232" role="member"/>
+    <member type="way" ref="34542346" role="member"/>
+    <member type="way" ref="35893060" role="member"/>
+    <member type="way" ref="111148493" role="member"/>
+    <member type="way" ref="111148491" role="member"/>
+    <member type="way" ref="111148496" role="member"/>
+    <member type="way" ref="34469912" role="member"/>
+    <member type="way" ref="34542532" role="member"/>
+    <member type="way" ref="27558249" role="member"/>
+    <member type="way" ref="35424232" role="member"/>
+    <member type="way" ref="35424231" role="member"/>
+    <member type="way" ref="34956754" role="member"/>
+    <member type="way" ref="34956753" role="member"/>
+    <member type="way" ref="36716100" role="member"/>
+    <member type="way" ref="36716102" role="member"/>
+    <member type="way" ref="36767758" role="member"/>
+    <member type="way" ref="36767757" role="member"/>
+    <member type="way" ref="27558238" role="member"/>
+    <member type="way" ref="111152472" role="member"/>
+    <member type="way" ref="111152466" role="member"/>
+    <member type="way" ref="36719337" role="member"/>
+    <tag k="name" v="Grafton to Moree Countrylink Route"/>
+    <tag k="operator" v="Symes Buses contracted to Countrylink"/>
+    <tag k="route" v="bus"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1564985" version="4" timestamp="2011-05-02T05:02:33Z" uid="74617" user="JohnSmith" changeset="8027700">
+    <member type="way" ref="96666969" role="member"/>
+    <member type="way" ref="106622913" role="member"/>
+    <member type="way" ref="106622917" role="member"/>
+    <member type="way" ref="22819619" role="member"/>
+    <member type="way" ref="106501136" role="member"/>
+    <member type="way" ref="106501131" role="member"/>
+    <member type="way" ref="39238823" role="member"/>
+    <member type="way" ref="39238824" role="member"/>
+    <member type="way" ref="22819621" role="member"/>
+    <member type="way" ref="22819620" role="member"/>
+    <member type="way" ref="109713919" role="member"/>
+    <member type="way" ref="109713887" role="member"/>
+    <member type="way" ref="109713907" role="member"/>
+    <member type="way" ref="109713917" role="member"/>
+    <member type="way" ref="35425827" role="member"/>
+    <member type="way" ref="35425828" role="member"/>
+    <member type="way" ref="38539610" role="member"/>
+    <member type="way" ref="111478010" role="member"/>
+    <member type="way" ref="24006382" role="member"/>
+    <member type="way" ref="39254404" role="member"/>
+    <member type="way" ref="10267005" role="member"/>
+    <member type="way" ref="111477981" role="member"/>
+    <member type="way" ref="111477982" role="member"/>
+    <member type="way" ref="35262655" role="member"/>
+    <member type="way" ref="35424993" role="member"/>
+    <member type="way" ref="34580259" role="member"/>
+    <member type="way" ref="34580260" role="member"/>
+    <member type="way" ref="34992768" role="member"/>
+    <member type="way" ref="34992766" role="member"/>
+    <member type="way" ref="34579419" role="member"/>
+    <member type="way" ref="111150404" role="member"/>
+    <member type="way" ref="35837706" role="member"/>
+    <member type="way" ref="30681049" role="member"/>
+    <member type="way" ref="34759398" role="member"/>
+    <member type="way" ref="39254915" role="member"/>
+    <member type="way" ref="34762253" role="member"/>
+    <member type="way" ref="34764086" role="member"/>
+    <member type="way" ref="34764101" role="member"/>
+    <member type="way" ref="35424430" role="member"/>
+    <member type="way" ref="35424429" role="member"/>
+    <member type="way" ref="34449005" role="member"/>
+    <member type="way" ref="34416232" role="member"/>
+    <member type="way" ref="34542346" role="member"/>
+    <member type="way" ref="35893060" role="member"/>
+    <member type="way" ref="111148493" role="member"/>
+    <member type="way" ref="111148491" role="member"/>
+    <member type="way" ref="111148496" role="member"/>
+    <member type="way" ref="34469912" role="member"/>
+    <member type="way" ref="34542532" role="member"/>
+    <member type="way" ref="27558249" role="member"/>
+    <member type="way" ref="35424232" role="member"/>
+    <member type="way" ref="35424231" role="member"/>
+    <member type="way" ref="34956754" role="member"/>
+    <member type="way" ref="34956753" role="member"/>
+    <member type="way" ref="36716100" role="member"/>
+    <member type="way" ref="36716102" role="member"/>
+    <member type="way" ref="36767758" role="member"/>
+    <member type="way" ref="36767757" role="member"/>
+    <member type="way" ref="27558238" role="member"/>
+    <member type="way" ref="111152472" role="member"/>
+    <member type="way" ref="111152466" role="member"/>
+    <member type="way" ref="36719337" role="member"/>
+    <tag k="name" v="Grafton to Moree Countrylink Route"/>
+    <tag k="operator" v="Symes Buses contracted to Countrylink"/>
+    <tag k="route" v="bus"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1564985" version="5" timestamp="2011-05-02T07:32:36Z" uid="74617" user="JohnSmith" changeset="8028272">
+    <member type="way" ref="111483211" role="member"/>
+    <member type="way" ref="96666969" role="member"/>
+    <member type="way" ref="106622913" role="member"/>
+    <member type="way" ref="106622917" role="member"/>
+    <member type="way" ref="22819619" role="member"/>
+    <member type="way" ref="106501136" role="member"/>
+    <member type="way" ref="106501131" role="member"/>
+    <member type="way" ref="39238823" role="member"/>
+    <member type="way" ref="39238824" role="member"/>
+    <member type="way" ref="22819621" role="member"/>
+    <member type="way" ref="22819620" role="member"/>
+    <member type="way" ref="109713919" role="member"/>
+    <member type="way" ref="109713887" role="member"/>
+    <member type="way" ref="109713907" role="member"/>
+    <member type="way" ref="109713917" role="member"/>
+    <member type="way" ref="35425827" role="member"/>
+    <member type="way" ref="35425828" role="member"/>
+    <member type="way" ref="38539610" role="member"/>
+    <member type="way" ref="111478010" role="member"/>
+    <member type="way" ref="111487190" role="member"/>
+    <member type="way" ref="24006382" role="member"/>
+    <member type="way" ref="111487195" role="member"/>
+    <member type="way" ref="10267005" role="member"/>
+    <member type="way" ref="111477981" role="member"/>
+    <member type="way" ref="111477982" role="member"/>
+    <member type="way" ref="35262655" role="member"/>
+    <member type="way" ref="35424993" role="member"/>
+    <member type="way" ref="34580259" role="member"/>
+    <member type="way" ref="34580260" role="member"/>
+    <member type="way" ref="34992768" role="member"/>
+    <member type="way" ref="34992766" role="member"/>
+    <member type="way" ref="34579419" role="member"/>
+    <member type="way" ref="111150404" role="member"/>
+    <member type="way" ref="35837706" role="member"/>
+    <member type="way" ref="30681049" role="member"/>
+    <member type="way" ref="34759398" role="member"/>
+    <member type="way" ref="39254915" role="member"/>
+    <member type="way" ref="34762253" role="member"/>
+    <member type="way" ref="34764086" role="member"/>
+    <member type="way" ref="34764101" role="member"/>
+    <member type="way" ref="35424430" role="member"/>
+    <member type="way" ref="35424429" role="member"/>
+    <member type="way" ref="34449005" role="member"/>
+    <member type="way" ref="34416232" role="member"/>
+    <member type="way" ref="34542346" role="member"/>
+    <member type="way" ref="35893060" role="member"/>
+    <member type="way" ref="111148493" role="member"/>
+    <member type="way" ref="111148491" role="member"/>
+    <member type="way" ref="111148496" role="member"/>
+    <member type="way" ref="34469912" role="member"/>
+    <member type="way" ref="34542532" role="member"/>
+    <member type="way" ref="27558249" role="member"/>
+    <member type="way" ref="35424232" role="member"/>
+    <member type="way" ref="35424231" role="member"/>
+    <member type="way" ref="34956754" role="member"/>
+    <member type="way" ref="34956753" role="member"/>
+    <member type="way" ref="36716100" role="member"/>
+    <member type="way" ref="36716102" role="member"/>
+    <member type="way" ref="36767758" role="member"/>
+    <member type="way" ref="36767757" role="member"/>
+    <member type="way" ref="27558238" role="member"/>
+    <member type="way" ref="111152472" role="member"/>
+    <member type="way" ref="111152466" role="member"/>
+    <member type="way" ref="36719337" role="member"/>
+    <tag k="name" v="Grafton to Moree Countrylink Route"/>
+    <tag k="operator" v="Symes Buses contracted to Countrylink"/>
+    <tag k="route" v="bus"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1564985" version="6" timestamp="2011-05-02T10:35:50Z" uid="74617" user="JohnSmith" changeset="8029405">
+    <member type="way" ref="111483211" role="member"/>
+    <member type="way" ref="96666969" role="member"/>
+    <member type="way" ref="106622913" role="member"/>
+    <member type="way" ref="106622917" role="member"/>
+    <member type="way" ref="22819619" role="member"/>
+    <member type="way" ref="106501136" role="member"/>
+    <member type="way" ref="106501131" role="member"/>
+    <member type="way" ref="39238823" role="member"/>
+    <member type="way" ref="39238824" role="member"/>
+    <member type="way" ref="22819621" role="member"/>
+    <member type="way" ref="22819620" role="member"/>
+    <member type="way" ref="109713919" role="member"/>
+    <member type="way" ref="109713887" role="member"/>
+    <member type="way" ref="109713907" role="member"/>
+    <member type="way" ref="109713917" role="member"/>
+    <member type="way" ref="35425827" role="member"/>
+    <member type="way" ref="35425828" role="member"/>
+    <member type="way" ref="38539610" role="member"/>
+    <member type="way" ref="111478010" role="member"/>
+    <member type="way" ref="111487190" role="member"/>
+    <member type="way" ref="24006382" role="member"/>
+    <member type="way" ref="111487195" role="member"/>
+    <member type="way" ref="10267005" role="member"/>
+    <member type="way" ref="111477981" role="member"/>
+    <member type="way" ref="111477982" role="member"/>
+    <member type="way" ref="35262655" role="member"/>
+    <member type="way" ref="35424993" role="member"/>
+    <member type="way" ref="34580259" role="member"/>
+    <member type="way" ref="34580260" role="member"/>
+    <member type="way" ref="34992768" role="member"/>
+    <member type="way" ref="34992766" role="member"/>
+    <member type="way" ref="34579419" role="member"/>
+    <member type="way" ref="111150404" role="member"/>
+    <member type="way" ref="35837706" role="member"/>
+    <member type="way" ref="30681049" role="member"/>
+    <member type="way" ref="34759398" role="member"/>
+    <member type="way" ref="39254915" role="member"/>
+    <member type="way" ref="34762253" role="member"/>
+    <member type="way" ref="34764086" role="member"/>
+    <member type="way" ref="34764101" role="member"/>
+    <member type="way" ref="35424430" role="member"/>
+    <member type="way" ref="35424429" role="member"/>
+    <member type="way" ref="34449005" role="member"/>
+    <member type="way" ref="34416232" role="member"/>
+    <member type="way" ref="34542346" role="member"/>
+    <member type="way" ref="35893060" role="member"/>
+    <member type="way" ref="111148493" role="member"/>
+    <member type="way" ref="111148491" role="member"/>
+    <member type="way" ref="111148496" role="member"/>
+    <member type="way" ref="34469912" role="member"/>
+    <member type="way" ref="34542532" role="member"/>
+    <member type="way" ref="27558249" role="member"/>
+    <member type="way" ref="35424232" role="member"/>
+    <member type="way" ref="35424231" role="member"/>
+    <member type="way" ref="34956754" role="member"/>
+    <member type="way" ref="34956753" role="member"/>
+    <member type="way" ref="36716100" role="member"/>
+    <member type="way" ref="36716102" role="member"/>
+    <member type="way" ref="36767758" role="member"/>
+    <member type="way" ref="36767757" role="member"/>
+    <member type="way" ref="111496721" role="member"/>
+    <member type="way" ref="27558238" role="member"/>
+    <member type="way" ref="111152472" role="member"/>
+    <member type="way" ref="111152466" role="member"/>
+    <member type="way" ref="36719337" role="member"/>
+    <tag k="name" v="Grafton to Moree Countrylink Route"/>
+    <tag k="operator" v="Symes Buses contracted to Countrylink"/>
+    <tag k="route" v="bus"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1564985" version="7" timestamp="2011-05-02T13:12:49Z" uid="74617" user="JohnSmith" changeset="8030492">
+    <member type="way" ref="111483211" role="member"/>
+    <member type="way" ref="96666969" role="member"/>
+    <member type="way" ref="106622913" role="member"/>
+    <member type="way" ref="106622917" role="member"/>
+    <member type="way" ref="22819619" role="member"/>
+    <member type="way" ref="106501136" role="member"/>
+    <member type="way" ref="106501131" role="member"/>
+    <member type="way" ref="39238823" role="member"/>
+    <member type="way" ref="39238824" role="member"/>
+    <member type="way" ref="22819621" role="member"/>
+    <member type="way" ref="22819620" role="member"/>
+    <member type="way" ref="109713919" role="member"/>
+    <member type="way" ref="109713887" role="member"/>
+    <member type="way" ref="109713907" role="member"/>
+    <member type="way" ref="109713917" role="member"/>
+    <member type="way" ref="35425827" role="member"/>
+    <member type="way" ref="35425828" role="member"/>
+    <member type="way" ref="38539610" role="member"/>
+    <member type="way" ref="111478010" role="member"/>
+    <member type="way" ref="111487190" role="member"/>
+    <member type="way" ref="24006382" role="member"/>
+    <member type="way" ref="111487195" role="member"/>
+    <member type="way" ref="10267005" role="member"/>
+    <member type="way" ref="111477981" role="member"/>
+    <member type="way" ref="111477982" role="member"/>
+    <member type="way" ref="35262655" role="member"/>
+    <member type="way" ref="35424993" role="member"/>
+    <member type="way" ref="34580259" role="member"/>
+    <member type="way" ref="34580260" role="member"/>
+    <member type="way" ref="34992768" role="member"/>
+    <member type="way" ref="34992766" role="member"/>
+    <member type="way" ref="34579419" role="member"/>
+    <member type="way" ref="111150404" role="member"/>
+    <member type="way" ref="35837706" role="member"/>
+    <member type="way" ref="30681049" role="member"/>
+    <member type="way" ref="34759398" role="member"/>
+    <member type="way" ref="39254915" role="member"/>
+    <member type="way" ref="34762253" role="member"/>
+    <member type="way" ref="34764086" role="member"/>
+    <member type="way" ref="34764101" role="member"/>
+    <member type="way" ref="35424430" role="member"/>
+    <member type="way" ref="35424429" role="member"/>
+    <member type="way" ref="34449005" role="member"/>
+    <member type="way" ref="34416232" role="member"/>
+    <member type="way" ref="34542346" role="member"/>
+    <member type="way" ref="35893060" role="member"/>
+    <member type="way" ref="111148493" role="member"/>
+    <member type="way" ref="111148491" role="member"/>
+    <member type="way" ref="111148496" role="member"/>
+    <member type="way" ref="34469912" role="member"/>
+    <member type="way" ref="34542532" role="member"/>
+    <member type="way" ref="27558249" role="member"/>
+    <member type="way" ref="35424232" role="member"/>
+    <member type="way" ref="35424231" role="member"/>
+    <member type="way" ref="34956754" role="member"/>
+    <member type="way" ref="34956753" role="member"/>
+    <member type="way" ref="36716100" role="member"/>
+    <member type="way" ref="36716102" role="member"/>
+    <member type="way" ref="36767758" role="member"/>
+    <member type="way" ref="36767757" role="member"/>
+    <member type="way" ref="111496721" role="member"/>
+    <member type="way" ref="27558238" role="member"/>
+    <member type="way" ref="111506466" role="member"/>
+    <member type="way" ref="111506462" role="member"/>
+    <member type="way" ref="111152472" role="member"/>
+    <member type="way" ref="111152466" role="member"/>
+    <member type="way" ref="36719337" role="member"/>
+    <tag k="name" v="Grafton to Moree Countrylink Route"/>
+    <tag k="operator" v="Symes Buses contracted to Countrylink"/>
+    <tag k="route" v="bus"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1564985" version="8" timestamp="2011-05-02T13:40:06Z" uid="74617" user="JohnSmith" changeset="8030675">
+    <member type="way" ref="111483211" role="member"/>
+    <member type="way" ref="96666969" role="member"/>
+    <member type="way" ref="106622913" role="member"/>
+    <member type="way" ref="106622917" role="member"/>
+    <member type="way" ref="22819619" role="member"/>
+    <member type="way" ref="106501136" role="member"/>
+    <member type="way" ref="106501131" role="member"/>
+    <member type="way" ref="39238823" role="member"/>
+    <member type="way" ref="39238824" role="member"/>
+    <member type="way" ref="22819621" role="member"/>
+    <member type="way" ref="22819620" role="member"/>
+    <member type="way" ref="109713919" role="member"/>
+    <member type="way" ref="109713887" role="member"/>
+    <member type="way" ref="109713907" role="member"/>
+    <member type="way" ref="109713917" role="member"/>
+    <member type="way" ref="35425827" role="member"/>
+    <member type="way" ref="35425828" role="member"/>
+    <member type="way" ref="38539610" role="member"/>
+    <member type="way" ref="111478010" role="member"/>
+    <member type="way" ref="111487190" role="member"/>
+    <member type="way" ref="24006382" role="member"/>
+    <member type="way" ref="111487195" role="member"/>
+    <member type="way" ref="10267005" role="member"/>
+    <member type="way" ref="111477981" role="member"/>
+    <member type="way" ref="111477982" role="member"/>
+    <member type="way" ref="35262655" role="member"/>
+    <member type="way" ref="35424993" role="member"/>
+    <member type="way" ref="34580259" role="member"/>
+    <member type="way" ref="34580260" role="member"/>
+    <member type="way" ref="34992768" role="member"/>
+    <member type="way" ref="34992766" role="member"/>
+    <member type="way" ref="34579419" role="member"/>
+    <member type="way" ref="111150404" role="member"/>
+    <member type="way" ref="35837706" role="member"/>
+    <member type="way" ref="30681049" role="member"/>
+    <member type="way" ref="34759398" role="member"/>
+    <member type="way" ref="39254915" role="member"/>
+    <member type="way" ref="34762253" role="member"/>
+    <member type="way" ref="34764086" role="member"/>
+    <member type="way" ref="34764101" role="member"/>
+    <member type="way" ref="35424430" role="member"/>
+    <member type="way" ref="35424429" role="member"/>
+    <member type="way" ref="34449005" role="member"/>
+    <member type="way" ref="34416232" role="member"/>
+    <member type="way" ref="34542346" role="member"/>
+    <member type="way" ref="35893060" role="member"/>
+    <member type="way" ref="111148493" role="member"/>
+    <member type="way" ref="111148491" role="member"/>
+    <member type="way" ref="111148496" role="member"/>
+    <member type="way" ref="34469912" role="member"/>
+    <member type="way" ref="34542532" role="member"/>
+    <member type="way" ref="27558249" role="member"/>
+    <member type="way" ref="35424232" role="member"/>
+    <member type="way" ref="35424231" role="member"/>
+    <member type="way" ref="34956754" role="member"/>
+    <member type="way" ref="34956753" role="member"/>
+    <member type="way" ref="36716100" role="member"/>
+    <member type="way" ref="36716102" role="member"/>
+    <member type="way" ref="36767758" role="member"/>
+    <member type="way" ref="36767757" role="member"/>
+    <member type="way" ref="27558238" role="member"/>
+    <member type="way" ref="111506466" role="member"/>
+    <member type="way" ref="111506462" role="member"/>
+    <member type="way" ref="111152472" role="member"/>
+    <member type="way" ref="111152466" role="member"/>
+    <member type="way" ref="36719337" role="member"/>
+    <tag k="name" v="Grafton to Moree Countrylink Route"/>
+    <tag k="operator" v="Symes Buses contracted to Countrylink"/>
+    <tag k="route" v="bus"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1564985" version="9" timestamp="2011-05-16T14:27:41Z" uid="74617" user="JohnSmith" changeset="8163012">
+    <member type="way" ref="111483211" role="member"/>
+    <member type="way" ref="96666969" role="member"/>
+    <member type="way" ref="106622913" role="member"/>
+    <member type="way" ref="106622917" role="member"/>
+    <member type="way" ref="22819619" role="member"/>
+    <member type="way" ref="106501136" role="member"/>
+    <member type="way" ref="106501131" role="member"/>
+    <member type="way" ref="39238823" role="member"/>
+    <member type="way" ref="39238824" role="member"/>
+    <member type="way" ref="22819621" role="member"/>
+    <member type="way" ref="22819620" role="member"/>
+    <member type="way" ref="109713919" role="member"/>
+    <member type="way" ref="109713887" role="member"/>
+    <member type="way" ref="109713907" role="member"/>
+    <member type="way" ref="109713917" role="member"/>
+    <member type="way" ref="35425827" role="member"/>
+    <member type="way" ref="35425828" role="member"/>
+    <member type="way" ref="38539610" role="member"/>
+    <member type="way" ref="111478010" role="member"/>
+    <member type="way" ref="111487190" role="member"/>
+    <member type="way" ref="24006382" role="member"/>
+    <member type="way" ref="111487195" role="member"/>
+    <member type="way" ref="10267005" role="member"/>
+    <member type="way" ref="111477981" role="member"/>
+    <member type="way" ref="111477982" role="member"/>
+    <member type="way" ref="35262655" role="member"/>
+    <member type="way" ref="35424993" role="member"/>
+    <member type="way" ref="34580259" role="member"/>
+    <member type="way" ref="34580260" role="member"/>
+    <member type="way" ref="34992768" role="member"/>
+    <member type="way" ref="34992766" role="member"/>
+    <member type="way" ref="34579419" role="member"/>
+    <member type="way" ref="111150404" role="member"/>
+    <member type="way" ref="35837706" role="member"/>
+    <member type="way" ref="30681049" role="member"/>
+    <member type="way" ref="34759398" role="member"/>
+    <member type="way" ref="39254915" role="member"/>
+    <member type="way" ref="34762253" role="member"/>
+    <member type="way" ref="34764086" role="member"/>
+    <member type="way" ref="34764101" role="member"/>
+    <member type="way" ref="35424430" role="member"/>
+    <member type="way" ref="35424429" role="member"/>
+    <member type="way" ref="34449005" role="member"/>
+    <member type="way" ref="34416232" role="member"/>
+    <member type="way" ref="34542346" role="member"/>
+    <member type="way" ref="113573944" role="member"/>
+    <member type="way" ref="111148493" role="member"/>
+    <member type="way" ref="111148491" role="member"/>
+    <member type="way" ref="111148496" role="member"/>
+    <member type="way" ref="34469912" role="member"/>
+    <member type="way" ref="34542532" role="member"/>
+    <member type="way" ref="27558249" role="member"/>
+    <member type="way" ref="35424232" role="member"/>
+    <member type="way" ref="35424231" role="member"/>
+    <member type="way" ref="34956754" role="member"/>
+    <member type="way" ref="34956753" role="member"/>
+    <member type="way" ref="36716100" role="member"/>
+    <member type="way" ref="36716102" role="member"/>
+    <member type="way" ref="36767758" role="member"/>
+    <member type="way" ref="36767757" role="member"/>
+    <member type="way" ref="27558238" role="member"/>
+    <member type="way" ref="111506466" role="member"/>
+    <member type="way" ref="111506462" role="member"/>
+    <member type="way" ref="111152472" role="member"/>
+    <member type="way" ref="111152466" role="member"/>
+    <member type="way" ref="36719337" role="member"/>
+    <tag k="name" v="Grafton to Moree Countrylink Route"/>
+    <tag k="operator" v="Symes Buses contracted to Countrylink"/>
+    <tag k="route" v="bus"/>
+    <tag k="type" v="route"/>
+  </relation>
+</osm>

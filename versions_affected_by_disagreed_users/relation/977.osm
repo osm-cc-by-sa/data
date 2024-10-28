@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="977185" version="1" timestamp="2010-06-23T04:06:37Z" uid="20587" user="balrog-kun" changeset="5056160">
+    <member type="way" ref="63060496" role="inner"/>
+    <member type="way" ref="63060511" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="977556" version="2" timestamp="2010-07-06T10:51:13Z" uid="8619" user="cetest" changeset="5149372">
+    <member type="node" ref="44692811" role=""/>
+    <member type="way" ref="7529305" role=""/>
+    <member type="way" ref="7529322" role=""/>
+    <member type="way" ref="40745753" role=""/>
+    <member type="way" ref="7529299" role=""/>
+    <member type="node" ref="44769999" role=""/>
+    <tag k="name" v="Haaglanden 15-25"/>
+    <tag k="network" v="rcn"/>
+    <tag k="note" v="15-25"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="977561" version="2" timestamp="2010-07-06T10:51:18Z" uid="8619" user="cetest" changeset="5149372">
+    <member type="node" ref="44782887" role=""/>
+    <member type="way" ref="32398335" role=""/>
+    <member type="way" ref="15806118" role=""/>
+    <member type="way" ref="7529285" role=""/>
+    <member type="node" ref="44769999" role=""/>
+    <tag k="name" v="Haaglanden 25-83"/>
+    <tag k="network" v="rcn"/>
+    <tag k="note" v="83-25"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="977570" version="2" timestamp="2010-07-06T06:43:41Z" uid="8619" user="cetest" changeset="5147703">
+    <member type="node" ref="44725577" role=""/>
+    <member type="way" ref="41283391" role=""/>
+    <member type="way" ref="41935734" role=""/>
+    <member type="node" ref="44733414" role=""/>
+    <tag k="name" v="Haaglanden 06-12"/>
+    <tag k="network" v="rcn"/>
+    <tag k="note" v="06-12"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="977574" version="2" timestamp="2010-07-06T10:51:18Z" uid="8619" user="cetest" changeset="5149372">
+    <member type="node" ref="44733414" role=""/>
+    <member type="way" ref="23996873" role=""/>
+    <member type="node" ref="44782887" role=""/>
+    <tag k="name" v="Haaglanden 12-83"/>
+    <tag k="network" v="rcn"/>
+    <tag k="note" v="12-83"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+</osm>

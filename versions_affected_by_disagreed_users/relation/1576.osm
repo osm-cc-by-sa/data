@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1576023" version="1" timestamp="2011-05-07T12:32:29Z" uid="9581" user="Lobelt" changeset="8072981">
+    <member type="way" ref="112168931" role="inner"/>
+    <member type="way" ref="4995235" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1576024" version="1" timestamp="2011-05-07T12:32:29Z" uid="9581" user="Lobelt" changeset="8072981">
+    <member type="way" ref="112168935" role="inner"/>
+    <member type="way" ref="4928586" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1576358" version="1" timestamp="2011-05-07T17:35:41Z" uid="23543" user="jkjk" changeset="8075312">
+    <member type="way" ref="112188848" role=""/>
+    <member type="way" ref="104412617" role=""/>
+    <member type="way" ref="106328225" role=""/>
+    <member type="way" ref="106328193" role=""/>
+    <tag k="complete" v="no"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="cz:MHP"/>
+    <tag k="ref" v="A265"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1576358" version="2" timestamp="2011-06-09T15:42:46Z" uid="23543" user="jkjk" changeset="8389573">
+    <member type="way" ref="104412595" role=""/>
+    <member type="way" ref="116951660" role=""/>
+    <member type="way" ref="112188848" role=""/>
+    <member type="way" ref="104412617" role=""/>
+    <member type="way" ref="106328225" role=""/>
+    <member type="way" ref="106328193" role=""/>
+    <tag k="complete" v="no"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="cz:MHP"/>
+    <tag k="ref" v="A265"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+</osm>

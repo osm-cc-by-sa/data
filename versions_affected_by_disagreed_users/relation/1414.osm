@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1414035" version="1" timestamp="2011-02-07T16:37:53Z" uid="115477" user="wowik" changeset="7217889">
+    <member type="node" ref="1140964412" role="admin_centre"/>
+    <member type="way" ref="98620548" role="outer"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Акишево"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="1414035" version="2" timestamp="2011-02-08T09:40:21Z" uid="115477" user="wowik" changeset="7224746">
+    <member type="node" ref="1140964412" role="admin_centre"/>
+    <member type="way" ref="98620548" role="outer"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="place" v="hamlet"/>
+    <tag k="place_name" v="Акишево"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="1414036" version="1" timestamp="2011-02-07T16:37:53Z" uid="115477" user="wowik" changeset="7217889">
+    <member type="way" ref="31747447" role="outer"/>
+    <member type="way" ref="98620543" role="outer"/>
+    <member type="way" ref="98620542" role="outer"/>
+    <tag k="name" v="Вербилки"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1414036" version="2" timestamp="2011-02-08T10:28:36Z" uid="115477" user="wowik" changeset="7225145">
+    <member type="way" ref="31747447" role="outer"/>
+    <member type="way" ref="98705252" role="outer"/>
+    <member type="way" ref="98620543" role="outer"/>
+    <member type="way" ref="98620542" role="outer"/>
+    <tag k="name" v="Вербилки"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1414036" version="3" timestamp="2011-02-09T10:18:35Z" uid="115477" user="wowik" changeset="7234548">
+    <member type="way" ref="31747447" role="outer"/>
+    <member type="way" ref="98705252" role="outer"/>
+    <member type="way" ref="98620543" role="outer"/>
+    <member type="way" ref="98620542" role="outer"/>
+    <tag k="addr:country" v="RU"/>
+    <tag k="addr:district" v="Талдомский район"/>
+    <tag k="addr:postcode" v="141930"/>
+    <tag k="addr:region" v="Московская область"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="cladr:code" v="5003500002600"/>
+    <tag k="cladr:name" v="Вербилки"/>
+    <tag k="cladr:suffix" v="Поселок городского типа"/>
+    <tag k="landuse" v="residential"/>
+    <tag k="name" v="Вербилки"/>
+    <tag k="place" v="village"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1414037" version="1" timestamp="2011-02-07T16:37:53Z" uid="115477" user="wowik" changeset="7217889">
+    <member type="relation" ref="1414036" role="outer"/>
+    <member type="relation" ref="1414035" role="outer"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Городское поселение Вербилки"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="1414037" version="2" timestamp="2011-02-07T16:39:04Z" uid="115477" user="wowik" changeset="7217907">
+    <member type="relation" ref="1414036" role="enclave"/>
+    <member type="relation" ref="1414035" role="enclave"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Городское поселение Вербилки"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="1414037" version="3" timestamp="2011-02-08T11:34:12Z" uid="115477" user="wowik" changeset="7225660">
+    <member type="relation" ref="1414036" role="enclave"/>
+    <member type="relation" ref="1414035" role="enclave"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Городское поселение Поселок Вербилки"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="1414037" version="4" timestamp="2011-02-09T10:18:30Z" uid="115477" user="wowik" changeset="7234548">
+    <member type="node" ref="256361860" role="admin_centre"/>
+    <member type="relation" ref="1414036" role="enclave"/>
+    <member type="relation" ref="1414035" role="enclave"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Городское поселение Поселок Вербилки"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="1414103" version="1" timestamp="2011-02-07T17:46:14Z" uid="115477" user="wowik" changeset="7218565">
+    <member type="node" ref="1141029967" role="admin_centre"/>
+    <member type="way" ref="98625498" role="outer"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Кушки"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="1414103" version="2" timestamp="2011-02-08T09:42:35Z" uid="115477" user="wowik" changeset="7224761">
+    <member type="node" ref="1141029967" role="admin_centre"/>
+    <member type="way" ref="98625498" role="outer"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="place" v="hamlet"/>
+    <tag k="place_name" v="Кушки"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="1414118" version="1" timestamp="2011-02-07T18:17:10Z" uid="115477" user="wowik" changeset="7218942">
+    <member type="node" ref="790303128" role="admin_centre"/>
+    <member type="way" ref="96834446" role="outer"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Берница"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="1414118" version="2" timestamp="2011-02-07T18:19:10Z" uid="115477" user="wowik" changeset="7218960">
+    <member type="node" ref="790303128" role="admin_centre"/>
+    <member type="way" ref="96834446" role="outer"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="place_name" v="Берница"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="1414119" version="1" timestamp="2011-02-07T18:17:11Z" uid="115477" user="wowik" changeset="7218942">
+    <member type="node" ref="790303127" role="admin_centre"/>
+    <member type="way" ref="96834449" role="outer"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Чекмарево"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="1414119" version="2" timestamp="2011-02-07T18:19:10Z" uid="115477" user="wowik" changeset="7218960">
+    <member type="node" ref="790303127" role="admin_centre"/>
+    <member type="way" ref="96834449" role="outer"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="place_name" v="Чекмарево"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="1414835" version="1" timestamp="2011-02-08T01:30:16Z" uid="23543" user="jkjk" changeset="7222842">
+    <member type="way" ref="98673775" role="inner"/>
+    <member type="way" ref="98673812" role="outer"/>
+    <member type="way" ref="98673800" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+</osm>

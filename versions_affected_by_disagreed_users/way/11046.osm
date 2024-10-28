@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="11046830" version="1" timestamp="2007-11-05T04:13:54Z" uid="7617" user="Franc" changeset="409392">
+    <nd ref="98491788"/>
+    <nd ref="98491799"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="service"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="11046830" version="2" timestamp="2007-11-06T03:17:38Z" uid="7617" user="Franc" changeset="417769">
+    <nd ref="98491788"/>
+    <nd ref="98491799"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Wandella Avenu"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="11046830" version="3" timestamp="2007-12-04T23:45:07Z" uid="7617" user="Franc" changeset="94412">
+    <nd ref="98491788"/>
+    <nd ref="98491799"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Wandella Avenue"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="11046832" version="1" timestamp="2007-11-05T04:13:55Z" uid="7617" user="Franc" changeset="409392">
+    <nd ref="29525961"/>
+    <nd ref="98491825"/>
+    <nd ref="98491799"/>
+    <nd ref="29525962"/>
+    <tag k="created_by" v="Potlatch alpha"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Heberton Avenue"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="11046832" version="2" timestamp="2010-03-12T08:33:19Z" uid="7617" user="Franc" changeset="4104261">
+    <nd ref="29525961"/>
+    <nd ref="98491799"/>
+    <nd ref="29525962"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Heberton Avenue"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="11046832" version="3" timestamp="2010-07-08T01:00:35Z" uid="74617" user="JohnSmith" changeset="5162525">
+    <nd ref="29525961"/>
+    <nd ref="98491799"/>
+    <nd ref="29525962"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Heberton Avenue"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+</osm>

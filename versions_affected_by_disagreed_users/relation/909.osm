@@ -1,0 +1,496 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="909016" version="4" timestamp="2010-07-25T23:04:57Z" uid="4467" user="Rosscoe" changeset="5317442">
+    <member type="way" ref="58872923" role=""/>
+    <member type="way" ref="8106152" role=""/>
+    <member type="way" ref="58875837" role=""/>
+    <member type="way" ref="32052345" role=""/>
+    <member type="way" ref="48676381" role=""/>
+    <member type="way" ref="48676369" role=""/>
+    <member type="way" ref="55675521" role=""/>
+    <member type="way" ref="55675522" role=""/>
+    <member type="way" ref="69692879" role=""/>
+    <member type="way" ref="58875858" role=""/>
+    <member type="way" ref="32538948" role=""/>
+    <member type="way" ref="32773549" role=""/>
+    <member type="way" ref="57697749" role=""/>
+    <member type="way" ref="58875843" role=""/>
+    <member type="way" ref="32773550" role=""/>
+    <member type="way" ref="32773557" role=""/>
+    <member type="way" ref="58875865" role=""/>
+    <member type="way" ref="58875857" role=""/>
+    <member type="way" ref="57357861" role=""/>
+    <member type="way" ref="57357867" role=""/>
+    <member type="way" ref="58875839" role=""/>
+    <member type="way" ref="58875846" role=""/>
+    <member type="way" ref="25829024" role=""/>
+    <member type="way" ref="58875861" role=""/>
+    <member type="way" ref="57356710" role=""/>
+    <member type="way" ref="58875848" role=""/>
+    <member type="way" ref="58875841" role=""/>
+    <member type="way" ref="58875866" role=""/>
+    <member type="way" ref="49337135" role=""/>
+    <member type="way" ref="49337094" role=""/>
+    <member type="way" ref="58875836" role=""/>
+    <member type="way" ref="58875859" role="forward"/>
+    <member type="way" ref="58875840" role="forward"/>
+    <member type="way" ref="37867242" role=""/>
+    <member type="way" ref="5029278" role="forward"/>
+    <member type="way" ref="4792686" role="forward"/>
+    <member type="way" ref="58875842" role="forward"/>
+    <member type="way" ref="58875851" role="forward"/>
+    <member type="way" ref="58875838" role="forward"/>
+    <member type="way" ref="49337143" role="forward"/>
+    <member type="way" ref="49337144" role=""/>
+    <member type="way" ref="49337128" role="forward"/>
+    <member type="way" ref="5029280" role="forward"/>
+    <tag k="name" v="SW8 Perth Bicycle Network"/>
+    <tag k="network" v="rcn"/>
+    <tag k="ref" v="SW8"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="909023" version="1" timestamp="2010-05-11T08:11:38Z" uid="115477" user="wowik" changeset="4666332">
+    <member type="way" ref="38627560" role="from"/>
+    <member type="way" ref="58873446" role="to"/>
+    <member type="node" ref="451694532" role="via"/>
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="909028" version="1" timestamp="2010-05-11T08:12:40Z" uid="115477" user="wowik" changeset="4666332">
+    <member type="way" ref="42137263" role="from"/>
+    <member type="way" ref="38627560" role="to"/>
+    <member type="node" ref="451694532" role="via"/>
+    <tag k="restriction" v="only_turn_right"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="909034" version="1" timestamp="2010-05-11T08:40:48Z" uid="244897" user="M526244" changeset="4666531">
+    <member type="way" ref="58876459" role="member"/>
+    <member type="way" ref="58876460" role="member"/>
+    <tag k="collection" v="road"/>
+    <tag k="name" v="Fitzroy Street"/>
+    <tag k="type" v="collection"/>
+  </relation>
+  <relation id="909045" version="1" timestamp="2010-05-11T09:19:56Z" uid="61114" user="Trav" changeset="4666768">
+    <member type="way" ref="58340812" role=""/>
+    <member type="way" ref="3681293" role=""/>
+    <member type="node" ref="723400694" role=""/>
+  </relation>
+  <relation id="909045" version="2" timestamp="2010-07-19T07:21:25Z" uid="30201" user="rrankin" changeset="5258161">
+    <member type="way" ref="58340812" role=""/>
+    <member type="way" ref="68527797" role=""/>
+    <member type="way" ref="3681293" role=""/>
+    <member type="way" ref="68527798" role=""/>
+    <member type="node" ref="723400694" role=""/>
+  </relation>
+  <relation id="909046" version="1" timestamp="2010-05-11T09:19:58Z" uid="61114" user="Trav" changeset="4666768">
+    <member type="way" ref="58340812" role="from"/>
+    <member type="node" ref="723400694" role="via"/>
+    <member type="way" ref="3681293" role="to"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="source" v="local_knowledge"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="909046" version="2" timestamp="2010-07-19T07:21:23Z" uid="30201" user="rrankin" changeset="5258161">
+    <member type="way" ref="58340812" role="from"/>
+    <member type="node" ref="723400694" role="via"/>
+    <member type="way" ref="3681293" role="to"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="source" v="local_knowledge"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="909047" version="1" timestamp="2010-05-11T09:21:11Z" uid="61114" user="Trav" changeset="4666781">
+    <member type="way" ref="58478831" role="from"/>
+    <member type="way" ref="58478835" role="to"/>
+    <member type="node" ref="724945270" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="souce" v="local_knowledge"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="909047" version="2" timestamp="2010-05-11T09:35:43Z" uid="61114" user="Trav" changeset="4666887">
+    <member type="way" ref="58478831" role="from"/>
+    <member type="way" ref="58478835" role="to"/>
+    <member type="way" ref="58878463" role="to"/>
+    <member type="node" ref="724945270" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="souce" v="local_knowledge"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="909047" version="3" timestamp="2010-07-19T07:21:28Z" uid="30201" user="rrankin" changeset="5258161">
+    <member type="way" ref="58478831" role="from"/>
+    <member type="node" ref="724945270" role="via"/>
+    <member type="way" ref="68527795" role="to"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="source" v="local_knowledge"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="909082" version="65" timestamp="2011-05-21T16:02:27Z" uid="23543" user="jkjk" changeset="8208133">
+    <member type="way" ref="53260227" role=""/>
+    <member type="way" ref="26497543" role=""/>
+    <member type="way" ref="26497547" role=""/>
+    <member type="way" ref="26497550" role=""/>
+    <member type="way" ref="22142562" role=""/>
+    <member type="way" ref="26497548" role=""/>
+    <member type="way" ref="52061380" role=""/>
+    <member type="way" ref="52061370" role=""/>
+    <member type="way" ref="52061362" role=""/>
+    <member type="way" ref="52061357" role=""/>
+    <member type="way" ref="22142551" role=""/>
+    <member type="way" ref="39159299" role=""/>
+    <member type="way" ref="39159300" role=""/>
+    <member type="way" ref="39159302" role=""/>
+    <member type="way" ref="39159303" role=""/>
+    <member type="way" ref="52061376" role=""/>
+    <member type="way" ref="26497545" role=""/>
+    <member type="way" ref="39159306" role=""/>
+    <member type="way" ref="39159309" role=""/>
+    <member type="way" ref="39159310" role=""/>
+    <member type="way" ref="52060702" role=""/>
+    <member type="way" ref="52060703" role=""/>
+    <member type="way" ref="23412697" role=""/>
+    <member type="way" ref="23412701" role=""/>
+    <member type="way" ref="39158511" role=""/>
+    <member type="way" ref="39158515" role=""/>
+    <member type="way" ref="52060506" role=""/>
+    <member type="way" ref="39314570" role=""/>
+    <member type="way" ref="39157658" role=""/>
+    <member type="way" ref="39314573" role=""/>
+    <member type="way" ref="39158507" role=""/>
+    <member type="way" ref="113723004" role=""/>
+    <member type="way" ref="113723014" role=""/>
+    <member type="way" ref="113723042" role=""/>
+    <member type="way" ref="113723030" role=""/>
+    <member type="way" ref="113722964" role=""/>
+    <member type="way" ref="113722971" role=""/>
+    <member type="way" ref="113722976" role=""/>
+    <member type="way" ref="113722969" role=""/>
+    <member type="way" ref="39157618" role=""/>
+    <member type="way" ref="113722958" role=""/>
+    <member type="way" ref="113722966" role=""/>
+    <member type="way" ref="113722968" role=""/>
+    <member type="way" ref="113722948" role=""/>
+    <member type="way" ref="54729811" role=""/>
+    <member type="way" ref="39158506" role=""/>
+    <member type="way" ref="114303555" role=""/>
+    <member type="way" ref="114303545" role=""/>
+    <member type="way" ref="39158400" role=""/>
+    <member type="way" ref="42409389" role=""/>
+    <member type="way" ref="42409384" role=""/>
+    <member type="way" ref="42437082" role=""/>
+    <member type="way" ref="53210172" role=""/>
+    <member type="way" ref="60094327" role=""/>
+    <member type="way" ref="60094331" role=""/>
+    <member type="way" ref="54224741" role=""/>
+    <member type="way" ref="60094316" role=""/>
+    <member type="way" ref="37133608" role=""/>
+    <member type="way" ref="60094332" role=""/>
+    <member type="way" ref="54224742" role=""/>
+    <member type="way" ref="60094321" role=""/>
+    <member type="way" ref="60094337" role=""/>
+    <member type="way" ref="37133607" role=""/>
+    <member type="way" ref="37133606" role=""/>
+    <member type="way" ref="60094322" role=""/>
+    <member type="way" ref="37133565" role=""/>
+    <member type="way" ref="60094328" role=""/>
+    <member type="way" ref="60094317" role=""/>
+    <member type="way" ref="49559187" role=""/>
+    <member type="way" ref="61566162" role=""/>
+    <member type="way" ref="61566172" role=""/>
+    <member type="way" ref="60094333" role=""/>
+    <member type="way" ref="74949073" role=""/>
+    <member type="way" ref="74949077" role=""/>
+    <member type="way" ref="74949024" role=""/>
+    <member type="way" ref="74949055" role=""/>
+    <member type="way" ref="74949071" role=""/>
+    <member type="way" ref="74949064" role=""/>
+    <member type="way" ref="74949097" role=""/>
+    <member type="way" ref="74949044" role=""/>
+    <member type="way" ref="49559190" role=""/>
+    <member type="way" ref="74949093" role=""/>
+    <member type="way" ref="74949027" role=""/>
+    <member type="way" ref="74949030" role=""/>
+    <member type="way" ref="74949094" role=""/>
+    <member type="way" ref="74949062" role=""/>
+    <member type="way" ref="74949042" role=""/>
+    <member type="way" ref="74949089" role=""/>
+    <member type="way" ref="74949080" role=""/>
+    <member type="way" ref="60094324" role=""/>
+    <member type="way" ref="74949049" role=""/>
+    <member type="way" ref="74949050" role=""/>
+    <member type="way" ref="74949054" role=""/>
+    <member type="way" ref="74949034" role=""/>
+    <member type="way" ref="60094318" role=""/>
+    <member type="way" ref="49559179" role=""/>
+    <member type="way" ref="50079572" role=""/>
+    <member type="way" ref="50079573" role=""/>
+    <member type="way" ref="50079574" role=""/>
+    <member type="way" ref="50079191" role=""/>
+    <member type="way" ref="50079183" role=""/>
+    <member type="way" ref="50079184" role=""/>
+    <member type="way" ref="81190834" role=""/>
+    <member type="way" ref="81190850" role=""/>
+    <member type="way" ref="50079186" role=""/>
+    <member type="way" ref="50079188" role=""/>
+    <member type="way" ref="50079185" role=""/>
+    <member type="way" ref="50079187" role=""/>
+    <member type="way" ref="53204833" role=""/>
+    <member type="way" ref="61566972" role=""/>
+    <member type="way" ref="53208484" role=""/>
+    <member type="way" ref="53210159" role=""/>
+    <member type="way" ref="53210163" role=""/>
+    <member type="way" ref="53208491" role=""/>
+    <member type="way" ref="53210167" role=""/>
+    <member type="way" ref="53208486" role=""/>
+    <member type="way" ref="53210165" role=""/>
+    <member type="way" ref="53208487" role=""/>
+    <member type="way" ref="53210158" role=""/>
+    <member type="way" ref="53210157" role=""/>
+    <member type="way" ref="53210170" role=""/>
+    <member type="way" ref="53210169" role=""/>
+    <member type="way" ref="53210140" role=""/>
+    <member type="way" ref="53208483" role=""/>
+    <member type="way" ref="50079190" role=""/>
+    <member type="way" ref="53208517" role=""/>
+    <member type="way" ref="52513607" role=""/>
+    <member type="way" ref="35799019" role=""/>
+    <tag k="name" v="杭瑞高速"/>
+    <tag k="name:en" v="Hangrui Expressway"/>
+    <tag k="network" v="CN-expressways"/>
+    <tag k="ref" v="G56"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="909423" version="1" timestamp="2010-05-11T16:16:59Z" uid="59758" user="rendle" changeset="4669826">
+    <member type="way" ref="47999265" role=""/>
+    <tag k="role" v="outer"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="909423" version="2" timestamp="2010-05-11T16:17:38Z" uid="59758" user="rendle" changeset="4669826">
+    <member type="way" ref="47999265" role=""/>
+    <member type="way" ref="48000162" role=""/>
+    <tag k="role" v="outer"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="909452" version="1" timestamp="2010-05-11T17:14:10Z" uid="23543" user="jkjk" changeset="4670382">
+    <member type="way" ref="58898972" role="inner"/>
+    <member type="way" ref="58898950" role="outer"/>
+    <member type="way" ref="58898949" role="inner"/>
+    <member type="way" ref="58898964" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="909481" version="2" timestamp="2011-05-11T16:03:05Z" uid="20587" user="balrog-kun" changeset="8113607">
+    <member type="way" ref="41199636" role=""/>
+    <member type="way" ref="49806866" role=""/>
+    <member type="way" ref="49806867" role=""/>
+    <member type="way" ref="22392318" role=""/>
+    <member type="way" ref="22392317" role=""/>
+    <member type="way" ref="49602471" role=""/>
+    <member type="way" ref="49514812" role=""/>
+    <member type="way" ref="29221616" role=""/>
+    <member type="way" ref="49514813" role=""/>
+    <member type="way" ref="49602477" role=""/>
+    <member type="way" ref="49745602" role=""/>
+    <member type="way" ref="29221515" role=""/>
+    <member type="way" ref="112692554" role=""/>
+    <member type="way" ref="112692557" role=""/>
+    <member type="way" ref="49745599" role=""/>
+    <member type="way" ref="29221520" role=""/>
+    <member type="way" ref="50804145" role=""/>
+    <tag k="name" v="Droga wojewódzka 387"/>
+    <tag k="network" v="pl:regional"/>
+    <tag k="ref" v="387"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+    <tag k="wikipedia" v="pl:Droga wojewódzka nr 387"/>
+  </relation>
+  <relation id="909481" version="3" timestamp="2011-05-12T02:25:29Z" uid="20587" user="balrog-kun" changeset="8117959">
+    <member type="way" ref="41199636" role=""/>
+    <member type="way" ref="49806866" role=""/>
+    <member type="way" ref="49806867" role=""/>
+    <member type="way" ref="22392318" role=""/>
+    <member type="way" ref="22392317" role=""/>
+    <member type="way" ref="49602471" role=""/>
+    <member type="way" ref="49514812" role=""/>
+    <member type="way" ref="29221616" role=""/>
+    <member type="way" ref="49514813" role=""/>
+    <member type="way" ref="49602477" role=""/>
+    <member type="way" ref="49745602" role=""/>
+    <member type="way" ref="29221515" role=""/>
+    <member type="way" ref="112752401" role=""/>
+    <member type="way" ref="112752429" role=""/>
+    <member type="way" ref="112692554" role=""/>
+    <member type="way" ref="112692557" role=""/>
+    <member type="way" ref="49745599" role=""/>
+    <member type="way" ref="112752407" role=""/>
+    <member type="way" ref="29221520" role=""/>
+    <member type="way" ref="50804145" role=""/>
+    <tag k="name" v="Droga wojewódzka 387"/>
+    <tag k="network" v="pl:regional"/>
+    <tag k="ref" v="387"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+    <tag k="wikipedia" v="pl:Droga wojewódzka nr 387"/>
+  </relation>
+  <relation id="909481" version="4" timestamp="2011-05-12T03:54:56Z" uid="20587" user="balrog-kun" changeset="8118120">
+    <member type="way" ref="41199636" role=""/>
+    <member type="way" ref="49806866" role=""/>
+    <member type="way" ref="49806867" role=""/>
+    <member type="way" ref="22392318" role=""/>
+    <member type="way" ref="22392317" role=""/>
+    <member type="way" ref="49602471" role=""/>
+    <member type="way" ref="49514812" role=""/>
+    <member type="way" ref="29221616" role=""/>
+    <member type="way" ref="49514813" role=""/>
+    <member type="way" ref="112757372" role=""/>
+    <member type="way" ref="49602477" role=""/>
+    <member type="way" ref="49745602" role=""/>
+    <member type="way" ref="29221515" role=""/>
+    <member type="way" ref="112752401" role=""/>
+    <member type="way" ref="112752429" role=""/>
+    <member type="way" ref="112692554" role=""/>
+    <member type="way" ref="112692557" role=""/>
+    <member type="way" ref="49745599" role=""/>
+    <member type="way" ref="112752407" role=""/>
+    <member type="way" ref="29221520" role=""/>
+    <member type="way" ref="50804145" role=""/>
+    <tag k="name" v="Droga wojewódzka 387"/>
+    <tag k="network" v="pl:regional"/>
+    <tag k="ref" v="387"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+    <tag k="wikipedia" v="pl:Droga wojewódzka nr 387"/>
+  </relation>
+  <relation id="909481" version="5" timestamp="2011-05-12T18:07:28Z" uid="20587" user="balrog-kun" changeset="8124720">
+    <member type="way" ref="41199636" role=""/>
+    <member type="way" ref="49806866" role=""/>
+    <member type="way" ref="49806867" role=""/>
+    <member type="way" ref="22392318" role=""/>
+    <member type="way" ref="22392317" role=""/>
+    <member type="way" ref="49602471" role=""/>
+    <member type="way" ref="49514812" role=""/>
+    <member type="way" ref="29221616" role=""/>
+    <member type="way" ref="49514813" role=""/>
+    <member type="way" ref="112869497" role=""/>
+    <member type="way" ref="112757372" role=""/>
+    <member type="way" ref="49602477" role=""/>
+    <member type="way" ref="49745602" role=""/>
+    <member type="way" ref="29221515" role=""/>
+    <member type="way" ref="112752401" role=""/>
+    <member type="way" ref="112752429" role=""/>
+    <member type="way" ref="112692554" role=""/>
+    <member type="way" ref="112692557" role=""/>
+    <member type="way" ref="49745599" role=""/>
+    <member type="way" ref="112752407" role=""/>
+    <member type="way" ref="29221520" role=""/>
+    <member type="way" ref="50804145" role=""/>
+    <tag k="name" v="Droga wojewódzka 387"/>
+    <tag k="network" v="pl:regional"/>
+    <tag k="ref" v="387"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+    <tag k="wikipedia" v="pl:Droga wojewódzka nr 387"/>
+  </relation>
+  <relation id="909481" version="6" timestamp="2011-05-12T18:25:16Z" uid="20587" user="balrog-kun" changeset="8124892">
+    <member type="way" ref="41199636" role=""/>
+    <member type="way" ref="49806866" role=""/>
+    <member type="way" ref="49806867" role=""/>
+    <member type="way" ref="22392318" role=""/>
+    <member type="way" ref="22392317" role=""/>
+    <member type="way" ref="49602471" role=""/>
+    <member type="way" ref="49514812" role=""/>
+    <member type="way" ref="29221616" role=""/>
+    <member type="way" ref="49514813" role=""/>
+    <member type="way" ref="112869497" role=""/>
+    <member type="way" ref="112870815" role=""/>
+    <member type="way" ref="112757372" role=""/>
+    <member type="way" ref="49602477" role=""/>
+    <member type="way" ref="49745602" role=""/>
+    <member type="way" ref="29221515" role=""/>
+    <member type="way" ref="112752401" role=""/>
+    <member type="way" ref="112752429" role=""/>
+    <member type="way" ref="112692554" role=""/>
+    <member type="way" ref="112692557" role=""/>
+    <member type="way" ref="49745599" role=""/>
+    <member type="way" ref="112752407" role=""/>
+    <member type="way" ref="29221520" role=""/>
+    <member type="way" ref="50804145" role=""/>
+    <tag k="name" v="Droga wojewódzka 387"/>
+    <tag k="network" v="pl:regional"/>
+    <tag k="ref" v="387"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+    <tag k="wikipedia" v="pl:Droga wojewódzka nr 387"/>
+  </relation>
+  <relation id="909481" version="8" timestamp="2011-05-12T20:05:58Z" uid="20587" user="balrog-kun" changeset="8125932">
+    <member type="way" ref="41199636" role=""/>
+    <member type="way" ref="112873118" role=""/>
+    <member type="way" ref="49806866" role=""/>
+    <member type="way" ref="49806867" role=""/>
+    <member type="way" ref="22392318" role=""/>
+    <member type="way" ref="22392317" role=""/>
+    <member type="way" ref="49602471" role=""/>
+    <member type="way" ref="49514812" role=""/>
+    <member type="way" ref="29221616" role=""/>
+    <member type="way" ref="49514813" role=""/>
+    <member type="way" ref="112869497" role=""/>
+    <member type="way" ref="112884267" role=""/>
+    <member type="way" ref="112884264" role=""/>
+    <member type="way" ref="112884268" role=""/>
+    <member type="way" ref="112870815" role=""/>
+    <member type="way" ref="112757372" role=""/>
+    <member type="way" ref="49602477" role=""/>
+    <member type="way" ref="49745602" role=""/>
+    <member type="way" ref="29221515" role=""/>
+    <member type="way" ref="112752401" role=""/>
+    <member type="way" ref="112752429" role=""/>
+    <member type="way" ref="112692554" role=""/>
+    <member type="way" ref="112692557" role=""/>
+    <member type="way" ref="49745599" role=""/>
+    <member type="way" ref="112752407" role=""/>
+    <member type="way" ref="29221520" role=""/>
+    <member type="way" ref="50804145" role=""/>
+    <tag k="name" v="Droga wojewódzka 387"/>
+    <tag k="network" v="pl:regional"/>
+    <tag k="ref" v="387"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+    <tag k="wikipedia" v="pl:Droga wojewódzka nr 387"/>
+  </relation>
+  <relation id="909481" version="9" timestamp="2011-05-13T13:18:06Z" uid="30632" user="antblant" changeset="8131599">
+    <member type="way" ref="41199636" role=""/>
+    <member type="way" ref="112873118" role=""/>
+    <member type="way" ref="49806866" role=""/>
+    <member type="way" ref="49806867" role=""/>
+    <member type="way" ref="22392318" role=""/>
+    <member type="way" ref="22392317" role=""/>
+    <member type="way" ref="49602471" role=""/>
+    <member type="way" ref="49514812" role=""/>
+    <member type="way" ref="29221616" role=""/>
+    <member type="way" ref="49514813" role=""/>
+    <member type="way" ref="112869497" role=""/>
+    <member type="way" ref="112884267" role=""/>
+    <member type="way" ref="112884264" role=""/>
+    <member type="way" ref="112884268" role=""/>
+    <member type="way" ref="112870815" role=""/>
+    <member type="way" ref="112757372" role=""/>
+    <member type="way" ref="49602477" role=""/>
+    <member type="way" ref="49745602" role=""/>
+    <member type="way" ref="29221515" role=""/>
+    <member type="way" ref="112752401" role=""/>
+    <member type="way" ref="112752429" role=""/>
+    <member type="way" ref="112692554" role=""/>
+    <member type="way" ref="112692557" role=""/>
+    <member type="way" ref="49745599" role=""/>
+    <member type="way" ref="112752407" role=""/>
+    <member type="way" ref="112977873" role=""/>
+    <member type="way" ref="112977875" role=""/>
+    <member type="way" ref="29221520" role=""/>
+    <member type="way" ref="50804145" role=""/>
+    <tag k="name" v="Droga wojewódzka 387"/>
+    <tag k="network" v="pl:regional"/>
+    <tag k="ref" v="387"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+    <tag k="wikipedia" v="pl:Droga wojewódzka nr 387"/>
+  </relation>
+</osm>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="67074569" version="1" timestamp="2010-07-10T18:51:03Z" uid="74617" user="JohnSmith" changeset="5184634">
+    <nd ref="314975260"/>
+    <nd ref="314975262"/>
+    <nd ref="725234577"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="67074572" version="1" timestamp="2010-07-10T18:51:04Z" uid="74617" user="JohnSmith" changeset="5184634">
+    <nd ref="314975259"/>
+    <nd ref="809893768"/>
+    <nd ref="809893712"/>
+    <nd ref="809893725"/>
+    <nd ref="809893674"/>
+    <tag k="attribution" v="Based on data from State of Queensland (Department of Environment and Resource Management) 2009"/>
+    <tag k="highway" v="road"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="note" v="FIXME: DCDB indicates a right of way in this location. Needs a field survey to confirm highway type and actual alignment."/>
+    <tag k="source" v="au.qld.dcdb_lite"/>
+  </way>
+  <way id="67074572" version="2" timestamp="2011-01-06T06:54:38Z" uid="4467" user="Rosscoe" changeset="6878941">
+    <nd ref="314975259"/>
+    <nd ref="809893768"/>
+    <nd ref="809893712"/>
+    <nd ref="809893725"/>
+    <nd ref="809893674"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+  </way>
+</osm>

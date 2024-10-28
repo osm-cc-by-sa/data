@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="45695113" version="1" timestamp="2009-12-05T23:04:11Z" uid="7617" user="Franc" changeset="3299286">
+    <nd ref="582225134"/>
+    <nd ref="582225138"/>
+    <nd ref="582225135"/>
+    <nd ref="582225140"/>
+    <nd ref="582225137"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="45695114" version="1" timestamp="2009-12-05T23:04:11Z" uid="7617" user="Franc" changeset="3299286">
+    <nd ref="582225141"/>
+    <nd ref="582225147"/>
+    <nd ref="582225149"/>
+    <nd ref="582225150"/>
+    <nd ref="582225143"/>
+    <nd ref="582225144"/>
+    <nd ref="582225146"/>
+    <nd ref="582225141"/>
+    <tag k="landuse" v="commercial"/>
+  </way>
+  <way id="45695118" version="1" timestamp="2009-12-05T23:04:51Z" uid="59758" user="rendle" changeset="3299281">
+    <nd ref="582009787"/>
+    <nd ref="582009537"/>
+    <nd ref="582009539"/>
+    <nd ref="582009540"/>
+    <nd ref="582009541"/>
+    <nd ref="582009543"/>
+    <nd ref="582009545"/>
+    <nd ref="582009547"/>
+    <nd ref="582009549"/>
+    <nd ref="582009551"/>
+    <nd ref="582006895"/>
+    <tag k="highway" v="track"/>
+    <tag k="tracktype" v="grade2"/>
+  </way>
+  <way id="45695643" version="2" timestamp="2010-07-08T19:55:25Z" uid="74617" user="JohnSmith" changeset="5168688">
+    <nd ref="582227585"/>
+    <nd ref="308123575"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="45695728" version="1" timestamp="2009-12-05T23:09:50Z" uid="59758" user="rendle" changeset="3299281">
+    <nd ref="356938028"/>
+    <nd ref="356938030"/>
+    <nd ref="356938032"/>
+    <nd ref="356938033"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="45695776" version="3" timestamp="2010-07-08T17:33:56Z" uid="74617" user="JohnSmith" changeset="5167338">
+    <nd ref="186668316"/>
+    <nd ref="759467740"/>
+    <nd ref="759467741"/>
+    <nd ref="582233438"/>
+    <nd ref="582233443"/>
+    <nd ref="759467742"/>
+    <nd ref="759467743"/>
+    <nd ref="759467744"/>
+    <nd ref="582233446"/>
+    <nd ref="582233449"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Possumtail Run"/>
+  </way>
+  <way id="45695835" version="2" timestamp="2010-06-29T19:13:55Z" uid="74617" user="JohnSmith" changeset="5108182">
+    <nd ref="582237051"/>
+    <nd ref="582237066"/>
+    <nd ref="582237064"/>
+    <nd ref="582237047"/>
+    <nd ref="582237051"/>
+    <tag k="fixme" v="sport=football is ambiguous, see http://wiki.osm.org/wiki/Football for more details"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="football"/>
+  </way>
+</osm>

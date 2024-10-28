@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1339351" version="1" timestamp="2010-12-23T22:53:06Z" uid="20587" user="balrog-kun" changeset="6750470">
+    <member type="way" ref="48279432" role="to"/>
+    <member type="node" ref="59978680" role="via"/>
+    <member type="way" ref="91332035" role="from"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1339484" version="2" timestamp="2011-03-21T21:45:53Z" uid="49111" user="Markus B" changeset="7632095">
+    <member type="way" ref="91342119" role="outer"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_08.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1339909" version="2" timestamp="2011-04-11T23:00:33Z" uid="6269" user="Mueck" changeset="7838377">
+    <member type="way" ref="4234637" role="outer"/>
+    <member type="way" ref="91387426" role="inner"/>
+    <tag k="addr:housenumber" v="16-20"/>
+    <tag k="amenity" v="library"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Badische Landesbibliothek"/>
+    <tag k="name:sk" v="Bádenská krajinská knižnica - BLB"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-19:00; Sa 10:00-18:00"/>
+    <tag k="ref:isil" v="DE-31"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="website" v="http://www.blb-karlsruhe.de/"/>
+    <tag k="wikipedia" v="de:Badische Landesbibliothek"/>
+  </relation>
+</osm>

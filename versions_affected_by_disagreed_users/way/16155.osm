@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="16155484" version="3" timestamp="2010-07-08T09:22:53Z" uid="74617" user="JohnSmith" changeset="5164427">
+    <nd ref="163286012"/>
+    <nd ref="267322618"/>
+    <nd ref="163286037"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Cambridge Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="16155486" version="3" timestamp="2010-07-08T09:17:18Z" uid="74617" user="JohnSmith" changeset="5164427">
+    <nd ref="163286037"/>
+    <nd ref="172652877"/>
+    <nd ref="60189400"/>
+    <nd ref="172652845"/>
+    <nd ref="60570911"/>
+    <nd ref="60570910"/>
+    <nd ref="60570909"/>
+    <nd ref="60813682"/>
+    <nd ref="60813688"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Cambridge Street"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="16155489" version="5" timestamp="2010-07-08T09:24:11Z" uid="74617" user="JohnSmith" changeset="5164427">
+    <nd ref="163286103"/>
+    <nd ref="158228228"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Campbell Street"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="16155491" version="6" timestamp="2010-07-08T09:18:41Z" uid="74617" user="JohnSmith" changeset="5164427">
+    <nd ref="163286064"/>
+    <nd ref="163286133"/>
+    <nd ref="163286088"/>
+    <nd ref="163286103"/>
+    <nd ref="163286064"/>
+    <tag k="highway" v="residential"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="source" v="survey"/>
+  </way>
+</osm>

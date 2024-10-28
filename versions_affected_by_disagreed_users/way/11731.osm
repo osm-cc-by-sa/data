@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="11731158" version="8" timestamp="2010-04-06T11:09:58Z" uid="74617" user="JohnSmith" changeset="4341925">
+    <nd ref="105031026"/>
+    <nd ref="105031027"/>
+    <nd ref="105031029"/>
+    <nd ref="105031030"/>
+    <nd ref="105031032"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="James Street"/>
+    <tag k="ref" v="T2"/>
+  </way>
+  <way id="11731158" version="9" timestamp="2010-04-19T13:01:08Z" uid="4467" user="Rosscoe" changeset="4467619">
+    <nd ref="105031026"/>
+    <nd ref="105031027"/>
+    <nd ref="105031029"/>
+    <nd ref="105031030"/>
+    <nd ref="701842012"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="James Street"/>
+    <tag k="ref" v="T2"/>
+  </way>
+  <way id="11731498" version="7" timestamp="2010-04-19T13:01:10Z" uid="4467" user="Rosscoe" changeset="4467619">
+    <nd ref="105033484"/>
+    <nd ref="105034181"/>
+    <nd ref="105031677"/>
+    <nd ref="701842019"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Anderson Street"/>
+  </way>
+  <way id="11731498" version="8" timestamp="2010-07-09T04:06:46Z" uid="74617" user="JohnSmith" changeset="5170825">
+    <nd ref="105033484"/>
+    <nd ref="105034181"/>
+    <nd ref="105031677"/>
+    <nd ref="701842019"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Anderson Street"/>
+  </way>
+  <way id="11731954" version="6" timestamp="2010-04-06T07:30:29Z" uid="74617" user="JohnSmith" changeset="4340624">
+    <nd ref="105038078"/>
+    <nd ref="105038079"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="1"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey;Yahoo"/>
+  </way>
+  <way id="11731973" version="12" timestamp="2010-04-06T07:30:28Z" uid="74617" user="JohnSmith" changeset="4340624">
+    <nd ref="105038079"/>
+    <nd ref="105038080"/>
+    <nd ref="302523674"/>
+    <nd ref="105038081"/>
+    <nd ref="105038082"/>
+    <nd ref="105038083"/>
+    <nd ref="105038084"/>
+    <nd ref="105038086"/>
+    <nd ref="105038087"/>
+    <nd ref="312719644"/>
+    <nd ref="105038088"/>
+    <nd ref="312721275"/>
+    <nd ref="312724289"/>
+    <nd ref="105038089"/>
+    <nd ref="105038090"/>
+    <nd ref="105038091"/>
+    <nd ref="537508334"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="Fitzsimons Lane"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey;Yahoo"/>
+  </way>
+</osm>

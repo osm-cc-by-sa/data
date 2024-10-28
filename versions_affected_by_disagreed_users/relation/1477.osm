@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1477005" version="1" timestamp="2011-03-15T20:13:16Z" uid="33382" user="de_muur" changeset="7569879">
+    <member type="node" ref="1203529934" role=""/>
+    <member type="way" ref="18817956" role=""/>
+    <member type="way" ref="18817943" role=""/>
+    <member type="node" ref="1203548557" role=""/>
+    <tag k="name" v="Bruchhausen-Vilsen - Eitzendorf"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Mittelweser-Touristik GmbH"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1477006" version="1" timestamp="2011-03-15T20:13:17Z" uid="33382" user="de_muur" changeset="7569879">
+    <member type="node" ref="1203548557" role=""/>
+    <member type="way" ref="29402504" role=""/>
+    <member type="way" ref="33238159" role=""/>
+    <member type="way" ref="33238157" role=""/>
+    <member type="way" ref="33238237" role=""/>
+    <tag k="name" v="Bruchhausen-Vilsen"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Mittelweser-Touristik GmbH"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1477429" version="1" timestamp="2011-03-15T23:49:02Z" uid="66036" user="h4v" changeset="7571709">
+    <member type="way" ref="104339192" role="outer"/>
+    <member type="way" ref="104339197" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1477691" version="1" timestamp="2011-03-16T11:51:56Z" uid="66036" user="h4v" changeset="7574856">
+    <member type="way" ref="104312540" role="outer"/>
+    <member type="way" ref="104312551" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1477700" version="1" timestamp="2011-03-16T12:16:48Z" uid="59758" user="rendle" changeset="7575087">
+    <member type="way" ref="104370701" role="outer"/>
+    <member type="way" ref="104370699" role="inner"/>
+    <member type="way" ref="104370698" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+</osm>

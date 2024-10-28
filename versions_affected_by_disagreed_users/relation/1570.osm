@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1570171" version="2" timestamp="2011-05-08T08:22:58Z" uid="9581" user="Lobelt" changeset="8079978">
+    <member type="way" ref="25761331" role="forward"/>
+    <member type="way" ref="24502053" role="forward"/>
+    <member type="way" ref="112291246" role="forward"/>
+    <member type="way" ref="112291240" role="forward"/>
+    <tag k="junction" v="ramp"/>
+    <tag k="ref" v="[A 60- &gt; A 61+]"/>
+    <tag k="type" v="junction"/>
+  </relation>
+  <relation id="1570172" version="2" timestamp="2011-05-08T08:23:25Z" uid="9581" user="Lobelt" changeset="8079978">
+    <member type="way" ref="4453461" role="forward"/>
+    <member type="way" ref="112291247" role="forward"/>
+    <member type="way" ref="26200558" role="forward"/>
+    <member type="way" ref="26200560" role="forward"/>
+    <tag k="junction" v="ramp"/>
+    <tag k="ref" v="[A 61- &gt; A 60+]"/>
+    <tag k="type" v="junction"/>
+  </relation>
+  <relation id="1570179" version="2" timestamp="2011-05-08T08:22:55Z" uid="9581" user="Lobelt" changeset="8079978">
+    <member type="way" ref="23095505" role="forward"/>
+    <member type="way" ref="111545798" role="forward"/>
+    <member type="way" ref="112291248" role="forward"/>
+    <member type="way" ref="112291245" role="forward"/>
+    <tag k="junction" v="ramp"/>
+    <tag k="ref" v="[L 417 &gt; A 61+]"/>
+    <tag k="type" v="junction"/>
+  </relation>
+  <relation id="1570313" version="1" timestamp="2011-05-02T22:13:25Z" uid="66036" user="h4v" changeset="8035274">
+    <member type="way" ref="102847244" role="outer"/>
+    <member type="way" ref="111556879" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1570881" version="1" timestamp="2011-05-03T10:28:10Z" uid="7617" user="Franc" changeset="8038186">
+    <member type="way" ref="111590792" role="from"/>
+    <member type="way" ref="5212023" role="to"/>
+    <member type="node" ref="10283693" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1570882" version="1" timestamp="2011-05-03T10:28:10Z" uid="7617" user="Franc" changeset="8038186">
+    <member type="way" ref="56239484" role="from"/>
+    <member type="way" ref="5212019" role="to"/>
+    <member type="node" ref="36513651" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1570883" version="1" timestamp="2011-05-03T10:28:10Z" uid="7617" user="Franc" changeset="8038186">
+    <member type="way" ref="111590794" role="from"/>
+    <member type="way" ref="23123918" role="to"/>
+    <member type="node" ref="249663639" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1570884" version="1" timestamp="2011-05-03T10:28:10Z" uid="7617" user="Franc" changeset="8038186">
+    <member type="way" ref="45457865" role="from"/>
+    <member type="way" ref="3169067" role="to"/>
+    <member type="node" ref="14750536" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1570885" version="1" timestamp="2011-05-03T10:28:11Z" uid="7617" user="Franc" changeset="8038186">
+    <member type="way" ref="111590791" role="from"/>
+    <member type="way" ref="3169230" role="to"/>
+    <member type="node" ref="15159006" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1570886" version="1" timestamp="2011-05-03T10:28:11Z" uid="7617" user="Franc" changeset="8038186">
+    <member type="way" ref="111590784" role="from"/>
+    <member type="way" ref="5212024" role="to"/>
+    <member type="node" ref="36513947" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+</osm>

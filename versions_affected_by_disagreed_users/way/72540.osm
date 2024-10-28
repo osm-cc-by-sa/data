@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="72540312" version="1" timestamp="2010-08-15T11:34:41Z" uid="164966" user="linuss1" changeset="5498633">
+    <nd ref="861113335"/>
+    <nd ref="861113339"/>
+    <nd ref="861113327"/>
+    <nd ref="861113327"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="path"/>
+    <tag k="surface" v="gravel"/>
+    <tag k="tracktype" v="grade2"/>
+  </way>
+  <way id="72540888" version="3" timestamp="2010-11-13T07:16:20Z" uid="30632" user="antblant" changeset="6356169">
+    <nd ref="277550035"/>
+    <nd ref="861674353"/>
+    <nd ref="277550040"/>
+    <nd ref="861674324"/>
+    <nd ref="861674328"/>
+    <nd ref="277550041"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Batalionów Chłopskich"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="UMP-PL, ./UMP-Opole/src/OPOLE.ulice.txt"/>
+  </way>
+</osm>

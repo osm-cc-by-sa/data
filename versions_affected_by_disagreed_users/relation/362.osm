@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="362598" version="1" timestamp="2009-12-13T21:10:07Z" uid="9581" user="Lobelt" changeset="3367130">
+    <member type="way" ref="46193544" role="from"/>
+    <member type="node" ref="145967787" role="via"/>
+    <member type="way" ref="24018373" role="to"/>
+    <tag k="restriction" v="only_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="362692" version="1" timestamp="2009-12-13T22:35:28Z" uid="17602" user="B10xyz" changeset="3368000">
+    <member type="way" ref="46203041" role="outer"/>
+    <member type="way" ref="46203042" role="inner"/>
+    <member type="way" ref="46203043" role="inner"/>
+    <member type="way" ref="46203044" role="inner"/>
+    <member type="way" ref="46203045" role="inner"/>
+    <tag k="multipolygon" v=""/>
+  </relation>
+  <relation id="362692" version="2" timestamp="2009-12-14T12:59:55Z" uid="17602" user="B10xyz" changeset="3371364">
+    <member type="way" ref="46203041" role="outer"/>
+    <member type="way" ref="46203042" role="inner"/>
+    <member type="way" ref="46203043" role="inner"/>
+    <member type="way" ref="46203044" role="inner"/>
+    <member type="way" ref="46203045" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="362692" version="3" timestamp="2010-05-16T12:46:41Z" uid="17602" user="B10xyz" changeset="4716621">
+    <member type="way" ref="46203041" role="outer"/>
+    <member type="way" ref="46203042" role="inner"/>
+    <member type="way" ref="46203043" role="inner"/>
+    <member type="way" ref="46203044" role="inner"/>
+    <member type="way" ref="46203045" role="inner"/>
+    <member type="way" ref="59378996" role="inner"/>
+    <member type="way" ref="59378993" role="inner"/>
+    <member type="way" ref="59378994" role="inner"/>
+    <member type="way" ref="59378995" role="inner"/>
+    <member type="way" ref="59378989" role="inner"/>
+    <member type="way" ref="59378997" role="inner"/>
+    <member type="way" ref="59378990" role="inner"/>
+    <member type="way" ref="59378992" role="inner"/>
+    <member type="way" ref="59378991" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="362734" version="2" timestamp="2011-01-15T07:25:38Z" uid="4467" user="Rosscoe" changeset="6974018"/>
+  <relation id="362804" version="1" timestamp="2009-12-14T01:11:39Z" uid="74617" user="JohnSmith" changeset="3368843">
+    <member type="way" ref="31954082" role="outer"/>
+    <member type="way" ref="31954074" role="outer"/>
+    <member type="way" ref="32304036" role="outer"/>
+    <member type="way" ref="31753812" role="outer"/>
+    <member type="way" ref="32256452" role="outer"/>
+    <member type="way" ref="32121349" role="outer"/>
+    <member type="way" ref="46218536" role="outer"/>
+    <member type="way" ref="46218538" role="outer"/>
+    <member type="way" ref="32284865" role="outer"/>
+    <member type="way" ref="32284842" role="outer"/>
+    <member type="way" ref="32018672" role="outer"/>
+    <member type="way" ref="32248159" role="outer"/>
+    <member type="way" ref="46158903" role="outer"/>
+    <member type="way" ref="46158902" role="outer"/>
+    <member type="way" ref="31968127" role="outer"/>
+    <member type="way" ref="31954076" role="outer"/>
+    <member type="way" ref="31954098" role="outer"/>
+    <member type="way" ref="32253921" role="outer"/>
+    <member type="way" ref="32254551" role="outer"/>
+    <member type="way" ref="31954083" role="outer"/>
+    <member type="way" ref="31660184" role="outer"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="attribution" v="Based on Australian Bureau of Statistics data"/>
+    <tag k="au.gov.abs:reviewed" v="yes"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="2141"/>
+    <tag k="postal_code" v="2141"/>
+    <tag k="source" v="ABS_2006"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="362804" version="2" timestamp="2009-12-16T11:18:09Z" uid="74617" user="JohnSmith" changeset="3385897">
+    <member type="way" ref="31954082" role="outer"/>
+    <member type="way" ref="31954074" role="outer"/>
+    <member type="way" ref="32304036" role="outer"/>
+    <member type="way" ref="31753812" role="outer"/>
+    <member type="way" ref="32256452" role="outer"/>
+    <member type="way" ref="32121349" role="outer"/>
+    <member type="way" ref="46218536" role="outer"/>
+    <member type="way" ref="46218538" role="outer"/>
+    <member type="way" ref="32284865" role="outer"/>
+    <member type="way" ref="32284842" role="outer"/>
+    <member type="way" ref="32018672" role="outer"/>
+    <member type="way" ref="32248159" role="outer"/>
+    <member type="way" ref="46158903" role="outer"/>
+    <member type="way" ref="46158902" role="outer"/>
+    <member type="way" ref="31968127" role="outer"/>
+    <member type="way" ref="31954076" role="outer"/>
+    <member type="way" ref="31954098" role="outer"/>
+    <member type="way" ref="32253921" role="outer"/>
+    <member type="way" ref="32254551" role="outer"/>
+    <member type="way" ref="46422288" role="outer"/>
+    <member type="way" ref="31954083" role="outer"/>
+    <member type="way" ref="31660184" role="outer"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="attribution" v="Based on Australian Bureau of Statistics data"/>
+    <tag k="au.gov.abs:reviewed" v="yes"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="2141"/>
+    <tag k="postal_code" v="2141"/>
+    <tag k="source" v="ABS_2006"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+</osm>

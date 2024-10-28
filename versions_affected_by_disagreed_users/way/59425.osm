@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="59425225" version="1" timestamp="2010-05-16T20:28:31Z" uid="6269" user="Mueck" changeset="4720770">
+    <nd ref="736905571"/>
+    <nd ref="27159242"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="59425624" version="1" timestamp="2010-05-16T20:36:56Z" uid="6269" user="Mueck" changeset="4720770">
+    <nd ref="23694484"/>
+    <nd ref="267987658"/>
+    <nd ref="267987660"/>
+    <nd ref="267987663"/>
+    <nd ref="267987665"/>
+    <nd ref="267987667"/>
+    <tag k="highway" v="cycleway"/>
+  </way>
+  <way id="59425766" version="1" timestamp="2010-05-16T20:39:30Z" uid="6269" user="Mueck" changeset="4720770">
+    <nd ref="736911016"/>
+    <nd ref="25188057"/>
+    <nd ref="30972838"/>
+    <nd ref="25187154"/>
+    <tag k="bicycle" v="designated"/>
+    <tag k="foot" v="designated"/>
+    <tag k="highway" v="path"/>
+    <tag k="segregated" v="no"/>
+    <tag k="smoothness" v="intermediate"/>
+    <tag k="surface" v="compacted"/>
+    <tag k="width" v="1"/>
+  </way>
+  <way id="59425890" version="2" timestamp="2010-05-27T07:28:55Z" uid="4467" user="Rosscoe" changeset="4819686">
+    <nd ref="736912371"/>
+    <nd ref="750483163"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="path"/>
+  </way>
+</osm>

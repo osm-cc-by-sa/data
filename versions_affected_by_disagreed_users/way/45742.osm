@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="45742057" version="1" timestamp="2009-12-06T16:59:57Z" uid="59758" user="rendle" changeset="3307101">
+    <nd ref="499393922"/>
+    <nd ref="249457715"/>
+    <nd ref="582599781"/>
+    <nd ref="249457716"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Eegene"/>
+    <tag k="ref" v="N416"/>
+  </way>
+  <way id="45742057" version="2" timestamp="2009-12-06T17:00:19Z" uid="59758" user="rendle" changeset="3307101">
+    <nd ref="499393922"/>
+    <nd ref="249457715"/>
+    <nd ref="582599781"/>
+    <nd ref="249457716"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Schoonaardebaan"/>
+    <tag k="ref" v="N416"/>
+  </way>
+  <way id="45742111" version="1" timestamp="2009-12-06T17:02:04Z" uid="33382" user="de_muur" changeset="3307179">
+    <nd ref="582614215"/>
+    <nd ref="298495728"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Zum Bahnhof"/>
+    <tag k="ref" v="K 2"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="45742759" version="1" timestamp="2009-12-06T17:17:43Z" uid="33382" user="de_muur" changeset="3307329">
+    <nd ref="298481941"/>
+    <nd ref="298481942"/>
+    <nd ref="298481943"/>
+    <nd ref="298481944"/>
+    <nd ref="298481945"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Am Fuhrenkamp"/>
+    <tag k="surface" v="cobblestone"/>
+  </way>
+  <way id="45742759" version="2" timestamp="2009-12-12T17:46:21Z" uid="33382" user="de_muur" changeset="3357480">
+    <nd ref="298481941"/>
+    <nd ref="298481942"/>
+    <nd ref="298481943"/>
+    <nd ref="298481944"/>
+    <nd ref="298481945"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="motor_vehicle" v="destination"/>
+    <tag k="name" v="Am Fuhrenkamp"/>
+    <tag k="surface" v="cobblestone"/>
+  </way>
+  <way id="45742760" version="1" timestamp="2009-12-06T17:17:44Z" uid="33382" user="de_muur" changeset="3307329">
+    <nd ref="298495714"/>
+    <nd ref="254916726"/>
+    <tag k="highway" v="residential"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="45742760" version="2" timestamp="2009-12-12T17:46:21Z" uid="33382" user="de_muur" changeset="3357480">
+    <nd ref="298495714"/>
+    <nd ref="254916726"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="motor_vehicle" v="destination"/>
+    <tag k="surface" v="paved"/>
+  </way>
+</osm>

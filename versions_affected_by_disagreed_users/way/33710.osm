@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="33710598" version="2" timestamp="2009-09-30T15:18:15Z" uid="36809" user="pfoten_weg_!_" changeset="2689341">
+    <nd ref="288821038"/>
+    <nd ref="288821086"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="track"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="5"/>
+    <tag k="surface" v="gravel"/>
+    <tag k="tracktype" v="grade3"/>
+    <tag k="width" v="1"/>
+  </way>
+  <way id="33710599" version="2" timestamp="2009-09-30T15:18:15Z" uid="36809" user="pfoten_weg_!_" changeset="2689341">
+    <nd ref="288821086"/>
+    <nd ref="288825233"/>
+    <nd ref="288821087"/>
+    <tag k="highway" v="track"/>
+    <tag k="surface" v="gravel"/>
+    <tag k="tracktype" v="grade3"/>
+  </way>
+  <way id="33710601" version="3" timestamp="2009-10-20T23:52:26Z" uid="36809" user="pfoten_weg_!_" changeset="2908189">
+    <nd ref="385414429"/>
+    <nd ref="97515511"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Fischerstraße"/>
+  </way>
+  <way id="33710602" version="4" timestamp="2009-10-20T23:52:17Z" uid="36809" user="pfoten_weg_!_" changeset="2908189">
+    <nd ref="97515511"/>
+    <nd ref="97515515"/>
+    <nd ref="97515522"/>
+    <nd ref="97515529"/>
+    <nd ref="97515535"/>
+    <nd ref="97515540"/>
+    <nd ref="97515544"/>
+    <nd ref="97515549"/>
+    <nd ref="364776422"/>
+    <nd ref="97515553"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Fischerstraße"/>
+  </way>
+  <way id="33710691" version="6" timestamp="2010-04-07T13:36:15Z" uid="20587" user="balrog-kun" changeset="4353646">
+    <nd ref="152724976"/>
+    <nd ref="152604476"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="South 7th"/>
+    <tag k="tiger:county" v="Travis, TX"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:zip_left" v="78704"/>
+    <tag k="tiger:zip_right" v="78704"/>
+  </way>
+  <way id="33710805" version="2" timestamp="2010-04-07T13:36:16Z" uid="20587" user="balrog-kun" changeset="4353646">
+    <nd ref="152604476"/>
+    <nd ref="152571692"/>
+    <nd ref="152504244"/>
+    <nd ref="152604474"/>
+    <nd ref="152604470"/>
+    <nd ref="152604468"/>
+    <nd ref="152601513"/>
+    <tag k="highway" v="residential"/>
+    <tag k="history" v="Retrieved from v1"/>
+    <tag k="name" v="Jewell Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Travis, TX"/>
+    <tag k="tiger:name_base" v="Jewell"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="63955845:63944507:63944613:63944622:63944624:63944627"/>
+    <tag k="tiger:zip_left" v="78704"/>
+    <tag k="tiger:zip_right" v="78704"/>
+  </way>
+</osm>

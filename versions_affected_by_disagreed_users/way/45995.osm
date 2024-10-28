@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="45995377" version="3" timestamp="2010-04-04T01:43:43Z" uid="20587" user="balrog-kun" changeset="4318136">
+    <nd ref="585629591"/>
+    <nd ref="585629592"/>
+    <tag k="attribution" v="NHD"/>
+    <tag k="man_made" v="pipeline"/>
+    <tag k="name" v="East O Lateral"/>
+    <tag k="nhd:com_id" v="75567613"/>
+    <tag k="nhd:fcode" v="42813"/>
+    <tag k="nhd:ftype" v="Pipeline"/>
+    <tag k="nhd:gnis_id" v="00186505"/>
+    <tag k="nhd:reach_code" v="14020005001700"/>
+    <tag k="source" v="NHD"/>
+  </way>
+  <way id="45995749" version="2" timestamp="2009-12-19T14:02:24Z" uid="4467" user="Rosscoe" changeset="3406928">
+    <nd ref="586438268"/>
+    <nd ref="586438269"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="45995749" version="3" timestamp="2010-02-15T05:31:14Z" uid="74617" user="JohnSmith" changeset="3880291">
+    <nd ref="586438268"/>
+    <nd ref="586438269"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="45995750" version="2" timestamp="2010-02-08T07:59:40Z" uid="74617" user="JohnSmith" changeset="3821217">
+    <nd ref="586438316"/>
+    <nd ref="586438312"/>
+    <nd ref="586438313"/>
+    <nd ref="586438314"/>
+    <nd ref="586438315"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="50"/>
+  </way>
+  <way id="45995752" version="2" timestamp="2009-12-19T14:02:27Z" uid="4467" user="Rosscoe" changeset="3406928">
+    <nd ref="515464613"/>
+    <nd ref="586438319"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="45995752" version="3" timestamp="2010-02-08T07:59:48Z" uid="74617" user="JohnSmith" changeset="3821217">
+    <nd ref="515464613"/>
+    <nd ref="586438319"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+</osm>

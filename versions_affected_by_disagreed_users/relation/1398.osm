@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1398460" version="1" timestamp="2011-01-29T15:27:52Z" uid="115477" user="wowik" changeset="7123287">
+    <member type="way" ref="41013163" role="outer"/>
+    <member type="way" ref="97231502" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1398460" version="2" timestamp="2011-01-29T16:23:45Z" uid="115477" user="wowik" changeset="7123968">
+    <member type="way" ref="41013163" role="outer"/>
+    <member type="way" ref="97231502" role="inner"/>
+    <member type="way" ref="97237424" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1398460" version="3" timestamp="2011-01-29T20:47:55Z" uid="115477" user="wowik" changeset="7127169">
+    <member type="way" ref="97231502" role="outer"/>
+    <member type="way" ref="97237424" role="inner"/>
+    <member type="way" ref="97283628" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1398531" version="1" timestamp="2011-01-29T16:19:08Z" uid="33382" user="de_muur" changeset="7123910">
+    <member type="node" ref="1126357202" role=""/>
+    <member type="way" ref="82587676" role=""/>
+    <tag k="name" v="Groß Hutbergen - (Intschede)"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1398593" version="1" timestamp="2011-01-29T16:49:37Z" uid="33382" user="de_muur" changeset="7124294">
+    <member type="node" ref="961232444" role=""/>
+    <member type="way" ref="5184523" role=""/>
+    <member type="way" ref="60175457" role=""/>
+    <member type="way" ref="5184527" role=""/>
+    <member type="node" ref="1126422338" role=""/>
+    <tag k="name" v="Holtum/Marsch - Verden"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1398613" version="1" timestamp="2011-01-29T16:54:07Z" uid="33382" user="de_muur" changeset="7124348">
+    <member type="node" ref="1126422338" role=""/>
+    <member type="way" ref="72554137" role=""/>
+    <member type="way" ref="60208816" role=""/>
+    <member type="node" ref="1126430376" role=""/>
+    <tag k="name" v="Einste - Varste"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1398618" version="1" timestamp="2011-01-29T16:58:22Z" uid="33382" user="de_muur" changeset="7124413">
+    <member type="node" ref="1126430376" role=""/>
+    <member type="way" ref="97241531" role=""/>
+    <member type="way" ref="67350205" role=""/>
+    <member type="node" ref="813467934" role=""/>
+    <tag k="name" v="Hiddestorf - Holtum/Marsch"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1398626" version="1" timestamp="2011-01-29T17:02:15Z" uid="33382" user="de_muur" changeset="7124468">
+    <member type="node" ref="1126430376" role=""/>
+    <member type="way" ref="15721955" role=""/>
+    <member type="node" ref="813475311" role=""/>
+    <tag k="name" v="Hiddestorf - (Seestedt)"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1398759" version="1" timestamp="2011-01-29T18:19:53Z" uid="115477" user="wowik" changeset="7125345">
+    <member type="way" ref="37202841" role="outer"/>
+    <member type="way" ref="37202840" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1398912" version="1" timestamp="2011-01-29T20:18:27Z" uid="33382" user="de_muur" changeset="7126816">
+    <member type="node" ref="1126764097" role=""/>
+    <member type="way" ref="97277879" role=""/>
+    <member type="way" ref="97277876" role=""/>
+    <member type="way" ref="5184530" role=""/>
+    <member type="way" ref="97277872" role=""/>
+    <member type="way" ref="97277877" role=""/>
+    <tag k="name" v="Blender - (Holtum/Marsch)"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+</osm>

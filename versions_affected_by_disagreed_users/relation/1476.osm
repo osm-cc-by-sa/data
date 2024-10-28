@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1476974" version="1" timestamp="2011-03-15T19:25:01Z" uid="66036" user="h4v" changeset="7569366">
+    <member type="node" ref="1203470614" role="house"/>
+    <member type="way" ref="32791714" role="street"/>
+    <tag k="name" v="Targowa"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1476974" version="2" timestamp="2011-04-10T22:13:51Z" uid="66036" user="h4v" changeset="7828290">
+    <member type="node" ref="1203470614" role="house"/>
+    <member type="way" ref="32791714" role="street"/>
+    <member type="way" ref="108048486" role="house"/>
+    <member type="node" ref="1240390503" role="house"/>
+    <member type="node" ref="1240390630" role="house"/>
+    <member type="way" ref="108048495" role="house"/>
+    <member type="node" ref="1240390544" role="house"/>
+    <member type="node" ref="1240390532" role="house"/>
+    <tag k="name" v="Targowa"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1476975" version="1" timestamp="2011-03-15T19:25:01Z" uid="66036" user="h4v" changeset="7569366">
+    <member type="way" ref="104252441" role="outer"/>
+    <member type="way" ref="104252456" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1476976" version="1" timestamp="2011-03-15T19:25:02Z" uid="66036" user="h4v" changeset="7569366">
+    <member type="way" ref="103453984" role="outer"/>
+    <member type="way" ref="103453988" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1476977" version="1" timestamp="2011-03-15T19:25:02Z" uid="66036" user="h4v" changeset="7569366">
+    <member type="way" ref="103448568" role="outer"/>
+    <member type="way" ref="103448577" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1476978" version="1" timestamp="2011-03-15T19:25:02Z" uid="66036" user="h4v" changeset="7569366">
+    <member type="way" ref="101179894" role="outer"/>
+    <member type="way" ref="101179903" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1476979" version="1" timestamp="2011-03-15T19:25:03Z" uid="66036" user="h4v" changeset="7569366">
+    <member type="way" ref="104252455" role="outer"/>
+    <member type="way" ref="104252450" role="inner"/>
+    <member type="way" ref="104252442" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1476998" version="1" timestamp="2011-03-15T20:03:37Z" uid="33382" user="de_muur" changeset="7569785">
+    <member type="node" ref="1203529934" role=""/>
+    <member type="way" ref="99620289" role=""/>
+    <member type="way" ref="18817939" role=""/>
+    <member type="way" ref="104304625" role=""/>
+    <tag k="name" v="Hoya - Verden"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Mittelweser-Touristik GmbH"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+</osm>

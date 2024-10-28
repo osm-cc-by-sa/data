@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="67231215" version="2" timestamp="2010-10-02T12:56:07Z" uid="9581" user="Lobelt" changeset="5935957">
+    <nd ref="10801555"/>
+    <nd ref="934891476"/>
+    <nd ref="934890615"/>
+    <nd ref="934891004"/>
+    <nd ref="934892026"/>
+    <nd ref="811814077"/>
+    <nd ref="934891067"/>
+    <nd ref="811814137"/>
+    <nd ref="811814020"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Im Herrengarten"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="67231559" version="1" timestamp="2010-07-11T17:02:09Z" uid="33382" user="de_muur" changeset="5192354">
+    <nd ref="811820009"/>
+    <nd ref="21524100"/>
+    <nd ref="21524221"/>
+    <tag k="cycleway" v="track"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="ref" v="L 168"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="67231559" version="2" timestamp="2010-11-03T15:56:05Z" uid="33382" user="de_muur" changeset="6277199">
+    <nd ref="811820009"/>
+    <nd ref="21524100"/>
+    <tag k="cycleway" v="track"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed:backward" v="70"/>
+    <tag k="maxspeed:forward" v="100"/>
+    <tag k="ref" v="L 168"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="67231560" version="1" timestamp="2010-07-11T17:02:09Z" uid="33382" user="de_muur" changeset="5192354">
+    <nd ref="21524215"/>
+    <nd ref="295418372"/>
+    <nd ref="21524216"/>
+    <nd ref="802101844"/>
+    <nd ref="21524224"/>
+    <nd ref="21524171"/>
+    <tag k="cycleway" v="track"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Hamburger Straße"/>
+    <tag k="ref" v="L 168"/>
+    <tag k="surface" v="paved"/>
+  </way>
+</osm>

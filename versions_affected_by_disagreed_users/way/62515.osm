@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="62515232" version="2" timestamp="2010-08-04T17:41:32Z" uid="9581" user="Lobelt" changeset="5401263">
+    <nd ref="244332074"/>
+    <nd ref="244332072"/>
+    <nd ref="244332071"/>
+    <nd ref="244332070"/>
+    <nd ref="244332069"/>
+    <nd ref="244332068"/>
+    <nd ref="317393021"/>
+    <nd ref="317393002"/>
+    <nd ref="244332067"/>
+    <nd ref="244332066"/>
+    <nd ref="244332065"/>
+    <nd ref="244332063"/>
+    <nd ref="244332062"/>
+    <nd ref="244332061"/>
+    <nd ref="244332060"/>
+    <nd ref="244332059"/>
+    <nd ref="317426735"/>
+    <nd ref="244332058"/>
+    <nd ref="317426733"/>
+    <nd ref="317426732"/>
+    <nd ref="317426731"/>
+    <nd ref="317426730"/>
+    <nd ref="317426729"/>
+    <nd ref="317426728"/>
+    <nd ref="317426727"/>
+    <nd ref="317426726"/>
+    <nd ref="317426725"/>
+    <nd ref="317426724"/>
+    <nd ref="317426723"/>
+    <nd ref="317426722"/>
+    <nd ref="317426721"/>
+    <nd ref="297273790"/>
+    <nd ref="317426720"/>
+    <nd ref="317391444"/>
+    <nd ref="317391445"/>
+    <nd ref="317425398"/>
+    <nd ref="317391446"/>
+    <nd ref="317425397"/>
+    <nd ref="317425396"/>
+    <nd ref="258889100"/>
+    <nd ref="317425395"/>
+    <nd ref="297273788"/>
+    <nd ref="313080825"/>
+    <nd ref="297612724"/>
+    <nd ref="313080824"/>
+    <nd ref="313081042"/>
+    <nd ref="317425394"/>
+    <nd ref="317425393"/>
+    <nd ref="317425392"/>
+    <nd ref="317425391"/>
+    <nd ref="317425390"/>
+    <nd ref="317392065"/>
+    <nd ref="297496668"/>
+    <nd ref="297496673"/>
+    <nd ref="317424495"/>
+    <nd ref="317424494"/>
+    <nd ref="317424493"/>
+    <nd ref="314082672"/>
+    <nd ref="317424492"/>
+    <nd ref="314083707"/>
+    <nd ref="317424491"/>
+    <nd ref="317424490"/>
+    <nd ref="317424489"/>
+    <nd ref="317424488"/>
+    <nd ref="317424487"/>
+    <tag k="cables" v="4"/>
+    <tag k="frequency" v="16.7"/>
+    <tag k="name" v="110 kV Bahnstrom Köln - Gerresheim 1|2"/>
+    <tag k="operator" v="DB_Energie"/>
+    <tag k="power" v="line"/>
+    <tag k="ref" v="Köln - Gerresheim"/>
+    <tag k="source" v="survey; yahoo"/>
+    <tag k="voltage" v="110000"/>
+    <tag k="wires" v="single"/>
+  </way>
+  <way id="62515251" version="2" timestamp="2010-08-04T17:42:11Z" uid="9581" user="Lobelt" changeset="5401263">
+    <nd ref="244329008"/>
+    <nd ref="780209863"/>
+    <nd ref="780209855"/>
+    <tag k="cables" v="3"/>
+    <tag k="cables:diff" v="3"/>
+    <tag k="frequency" v="50"/>
+    <tag k="name:diff" v="0 kV ground_9375"/>
+    <tag k="operator" v="RWE"/>
+    <tag k="power" v="line"/>
+    <tag k="voltage" v="0"/>
+    <tag k="wires" v="double"/>
+  </way>
+  <way id="62515253" version="2" timestamp="2010-08-04T17:48:14Z" uid="9581" user="Lobelt" changeset="5401263">
+    <nd ref="244378478"/>
+    <nd ref="244319325"/>
+    <tag k="cables" v="6"/>
+    <tag k="cables:diff" v="3"/>
+    <tag k="frequency" v="50"/>
+    <tag k="name" v="220 kV Stommeln Nord"/>
+    <tag k="name:diff" v="0 kV ground_2957"/>
+    <tag k="operator" v="RWE"/>
+    <tag k="power" v="line"/>
+    <tag k="ref" v="2429"/>
+    <tag k="source" v="yahoo"/>
+    <tag k="voltage" v="220000;0"/>
+    <tag k="wires" v="double"/>
+  </way>
+  <way id="62515257" version="2" timestamp="2010-08-04T17:42:28Z" uid="9581" user="Lobelt" changeset="5401263">
+    <nd ref="244338661"/>
+    <nd ref="244338662"/>
+    <nd ref="244338663"/>
+    <nd ref="244338664"/>
+    <tag k="cables" v="6"/>
+    <tag k="cables:diff" v="3"/>
+    <tag k="fixme" v="Nach Beobachtung aus dem Zug ist diesder Teil der Leituing abgebaut worden. Statt dessen ist die Leitunjg an die Stromkreise Hülsberg Nord|Süd angeschlossen worden."/>
+    <tag k="frequency" v="50"/>
+    <tag k="name" v="110 kV Hülsberg Süd"/>
+    <tag k="name:diff" v="0 kV ground_5638"/>
+    <tag k="note" v="3*single*110 kV; 3*single*0 kV; Monheim West: dead"/>
+    <tag k="operator" v="RWE"/>
+    <tag k="power" v="line"/>
+    <tag k="voltage" v="110000;0"/>
+    <tag k="wires" v="single"/>
+  </way>
+</osm>

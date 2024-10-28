@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1188443" version="1" timestamp="2010-09-23T09:07:16Z" uid="7617" user="Franc" changeset="5852331">
+    <member type="way" ref="78622236" role="house"/>
+    <member type="way" ref="27812757" role="street"/>
+    <member type="node" ref="922403542" role="house"/>
+    <member type="node" ref="922403526" role="house"/>
+    <member type="node" ref="922403470" role="house"/>
+    <member type="node" ref="922403511" role="house"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1188789" version="1" timestamp="2010-09-23T16:12:33Z" uid="115477" user="wowik" changeset="5855239">
+    <member type="way" ref="78714153" role="from"/>
+    <member type="way" ref="78714150" role="to"/>
+    <member type="node" ref="922831954" role="via"/>
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+</osm>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1411081" version="1" timestamp="2011-02-05T21:38:39Z" uid="9581" user="Lobelt" changeset="7197568">
+    <member type="way" ref="94356278" role="outer"/>
+    <member type="way" ref="94356280" role="inner"/>
+    <member type="way" ref="4250661" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1411218" version="1" timestamp="2011-02-06T00:00:42Z" uid="61114" user="Trav" changeset="7198945">
+    <member type="way" ref="10419307" role="from"/>
+    <member type="way" ref="10418837" role="to"/>
+    <member type="node" ref="89004602" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="source" v="survey"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1411413" version="3" timestamp="2011-03-05T02:05:54Z" uid="4467" user="Rosscoe" changeset="7459719">
+    <member type="way" ref="23785081" role=""/>
+    <member type="way" ref="23691736" role=""/>
+    <member type="way" ref="23785080" role=""/>
+    <member type="way" ref="23691731" role=""/>
+    <member type="way" ref="31734145" role=""/>
+    <tag k="addr:country" v="AU"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="name" v="Mountain Highway"/>
+    <tag k="network" v="S"/>
+    <tag k="ref" v="28"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1411428" version="1" timestamp="2011-02-06T04:22:32Z" uid="61114" user="Trav" changeset="7199842">
+    <member type="way" ref="98400815" role="inner"/>
+    <member type="way" ref="98400814" role="outer"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Euroa Centre"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="source:name" v="survey"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1411605" version="1" timestamp="2011-02-06T08:56:24Z" uid="4467" user="Rosscoe" changeset="7200832">
+    <member type="way" ref="98416487" role="from"/>
+    <member type="node" ref="253449466" role="via"/>
+    <member type="way" ref="98416489" role="to"/>
+    <tag k="restriction" v="only_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1411611" version="2" timestamp="2011-04-06T21:08:12Z" uid="107674" user="GeoCounter" changeset="7789350">
+    <member type="way" ref="6239260" role="outer"/>
+    <member type="way" ref="98420713" role="inner"/>
+    <tag k="name" v="Hansteinweiher"/>
+    <tag k="natural" v="water"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+</osm>

@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="49777139" version="2" timestamp="2010-07-06T11:30:55Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="632449718"/>
+    <nd ref="206245615"/>
+    <nd ref="313640264"/>
+    <nd ref="313640379"/>
+    <nd ref="632449711"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="North Street"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="49777141" version="2" timestamp="2010-07-06T11:18:37Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="313640260"/>
+    <nd ref="313640261"/>
+    <nd ref="313640202"/>
+    <nd ref="313640264"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="River Street"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="49777142" version="2" timestamp="2010-07-06T11:32:07Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="313640379"/>
+    <nd ref="313640381"/>
+    <nd ref="313640382"/>
+    <nd ref="632449710"/>
+    <nd ref="313640384"/>
+    <nd ref="313640385"/>
+    <nd ref="313640386"/>
+    <nd ref="313640387"/>
+    <nd ref="313640388"/>
+    <nd ref="313640389"/>
+    <nd ref="313640390"/>
+    <nd ref="313640391"/>
+    <nd ref="313640392"/>
+    <nd ref="313640393"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Storey Road"/>
+    <tag k="source" v="GPS"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="49777145" version="2" timestamp="2010-03-21T06:23:22Z" uid="74617" user="JohnSmith" changeset="4187493">
+    <nd ref="632449714"/>
+    <nd ref="632449713"/>
+    <nd ref="632449712"/>
+    <nd ref="632449718"/>
+    <nd ref="632449719"/>
+    <nd ref="632449716"/>
+    <nd ref="632449717"/>
+    <nd ref="632449715"/>
+    <nd ref="632449714"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="lanes" v="1"/>
+  </way>
+  <way id="49777146" version="3" timestamp="2010-03-21T06:23:22Z" uid="74617" user="JohnSmith" changeset="4187493">
+    <nd ref="632449713"/>
+    <nd ref="206245217"/>
+    <nd ref="206245218"/>
+    <nd ref="206245219"/>
+    <nd ref="206245220"/>
+    <nd ref="206245221"/>
+    <nd ref="206244270"/>
+    <nd ref="206244271"/>
+    <nd ref="206244272"/>
+    <nd ref="206244273"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Albert Street"/>
+  </way>
+  <way id="49777866" version="2" timestamp="2010-06-29T19:15:46Z" uid="74617" user="JohnSmith" changeset="5108182">
+    <nd ref="632461046"/>
+    <nd ref="632461048"/>
+    <nd ref="632461050"/>
+    <nd ref="632461052"/>
+    <nd ref="632461046"/>
+    <tag k="fixme" v="sport=football is ambiguous, see http://wiki.osm.org/wiki/Football for more details"/>
+    <tag k="leisure" v="playground"/>
+    <tag k="sport" v="football"/>
+  </way>
+</osm>

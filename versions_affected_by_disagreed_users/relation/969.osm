@@ -1,0 +1,1508 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="969123" version="2" timestamp="2010-07-30T05:45:44Z" uid="4467" user="Rosscoe" changeset="5351838">
+    <member type="way" ref="8650682" role="to"/>
+    <member type="node" ref="60810905" role="via"/>
+    <member type="way" ref="70203133" role="from"/>
+    <tag k="opening_hours" v="Mo-Fr 1600-1900"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="969126" version="2" timestamp="2011-02-23T11:40:50Z" uid="4467" user="Rosscoe" changeset="7371637">
+    <member type="way" ref="23413906" role="give_way"/>
+    <member type="node" ref="60810896" role="junction"/>
+    <member type="way" ref="8650044" role="give_way"/>
+    <member type="node" ref="1167993093" role="junction"/>
+    <tag k="type" v="traffic_control"/>
+  </relation>
+  <relation id="969181" version="11" timestamp="2010-08-28T22:34:07Z" uid="34428" user="usm78-gis" changeset="5620983">
+    <member type="way" ref="4457163" role="forward"/>
+    <member type="way" ref="31402017" role="forward"/>
+    <member type="way" ref="31386434" role="backward"/>
+    <member type="way" ref="31399849" role="backward"/>
+    <member type="way" ref="31396007" role="backward"/>
+    <member type="way" ref="31379724" role="backward"/>
+    <member type="way" ref="31371694" role="backward"/>
+    <member type="way" ref="31386431" role="backward"/>
+    <member type="way" ref="31378261" role="backward"/>
+    <member type="way" ref="31396395" role="backward"/>
+    <member type="way" ref="31381201" role="backward"/>
+    <member type="way" ref="31365953" role="backward"/>
+    <member type="way" ref="31379044" role="backward"/>
+    <member type="way" ref="31395622" role="forward"/>
+    <member type="way" ref="31399036" role="forward"/>
+    <member type="way" ref="31369411" role="forward"/>
+    <member type="way" ref="31388564" role="forward"/>
+    <member type="way" ref="31397798" role="forward"/>
+    <member type="way" ref="31364957" role="forward"/>
+    <member type="way" ref="31387700" role="forward"/>
+    <member type="way" ref="31365979" role="forward"/>
+    <member type="way" ref="31402089" role="forward"/>
+    <member type="way" ref="31396621" role="forward"/>
+    <member type="way" ref="31402601" role="forward"/>
+    <member type="way" ref="31364947" role="backward"/>
+    <member type="way" ref="31364788" role="backward"/>
+    <member type="way" ref="31376650" role="forward"/>
+    <member type="way" ref="37740396" role="forward"/>
+    <member type="way" ref="37740605" role="backward"/>
+    <member type="way" ref="45173103" role="backward"/>
+    <member type="way" ref="31375769" role="backward"/>
+    <member type="way" ref="75016010" role="backward"/>
+    <member type="way" ref="31376651" role="backward"/>
+    <member type="way" ref="31403411" role="backward"/>
+    <member type="way" ref="31401877" role="backward"/>
+    <member type="way" ref="51232648" role="backward"/>
+    <member type="way" ref="31399125" role="backward"/>
+    <member type="way" ref="51232223" role="backward"/>
+    <member type="way" ref="50935225" role="backward"/>
+    <member type="way" ref="31369622" role="backward"/>
+    <member type="way" ref="31398326" role="backward"/>
+    <member type="way" ref="31370892" role="backward"/>
+    <member type="way" ref="31377724" role="backward"/>
+    <member type="way" ref="4456050" role="backward"/>
+    <member type="way" ref="4456541" role="forward"/>
+    <member type="way" ref="34748709" role="forward"/>
+    <member type="way" ref="34400439" role="forward"/>
+    <member type="way" ref="31398701" role="forward"/>
+    <member type="way" ref="62292285" role="forward"/>
+    <member type="way" ref="62252440" role="forward"/>
+    <member type="way" ref="66833125" role="forward"/>
+    <member type="way" ref="34400438" role="forward"/>
+    <member type="way" ref="31365640" role="forward"/>
+    <member type="way" ref="31397055" role="forward"/>
+    <member type="way" ref="31385971" role="forward"/>
+    <member type="way" ref="31368288" role="forward"/>
+    <member type="way" ref="31402228" role="backward"/>
+    <member type="way" ref="31370610" role="backward"/>
+    <member type="way" ref="31398986" role="backward"/>
+    <member type="way" ref="31395868" role="backward"/>
+    <member type="way" ref="24782410" role="backward"/>
+    <member type="way" ref="24782409" role="backward"/>
+    <member type="way" ref="24782407" role="backward"/>
+    <member type="way" ref="10904090" role="backward"/>
+    <member type="way" ref="31380462" role="backward"/>
+    <member type="way" ref="31365602" role="backward"/>
+    <member type="way" ref="31400323" role="backward"/>
+    <member type="way" ref="31367858" role="backward"/>
+    <member type="way" ref="31403685" role="backward"/>
+    <member type="way" ref="31372088" role="backward"/>
+    <member type="way" ref="31389966" role="backward"/>
+    <member type="way" ref="31385901" role="backward"/>
+    <member type="way" ref="31385994" role="backward"/>
+    <member type="way" ref="31404256" role="backward"/>
+    <member type="way" ref="31395881" role="backward"/>
+    <member type="way" ref="31400150" role="forward"/>
+    <member type="way" ref="31385996" role="forward"/>
+    <member type="way" ref="31369175" role="forward"/>
+    <member type="way" ref="31365298" role="forward"/>
+    <member type="way" ref="31389484" role="forward"/>
+    <member type="way" ref="40941514" role="forward"/>
+    <member type="way" ref="31369964" role="forward"/>
+    <member type="way" ref="28015720" role="forward"/>
+    <tag k="from" v="Пискарёвка"/>
+    <tag k="ref" v="105"/>
+    <tag k="route" v="bus"/>
+    <tag k="to" v="Восстания"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="969181" version="17" timestamp="2011-03-26T21:20:27Z" uid="34428" user="usm78-gis" changeset="7680240">
+    <member type="way" ref="4457163" role="forward"/>
+    <member type="way" ref="31402017" role="forward"/>
+    <member type="way" ref="31386434" role="backward"/>
+    <member type="way" ref="31399849" role="backward"/>
+    <member type="way" ref="31396007" role="backward"/>
+    <member type="way" ref="31379724" role="backward"/>
+    <member type="way" ref="31371694" role="backward"/>
+    <member type="way" ref="31386431" role="backward"/>
+    <member type="way" ref="31378261" role="backward"/>
+    <member type="way" ref="31396395" role="backward"/>
+    <member type="way" ref="31381201" role="backward"/>
+    <member type="way" ref="78008235" role="backward"/>
+    <member type="way" ref="31365953" role="backward"/>
+    <member type="way" ref="31379044" role="backward"/>
+    <member type="way" ref="31395622" role="forward"/>
+    <member type="way" ref="31399036" role="forward"/>
+    <member type="way" ref="31369411" role="forward"/>
+    <member type="way" ref="31388564" role="forward"/>
+    <member type="way" ref="31397798" role="forward"/>
+    <member type="way" ref="31402089" role="forward"/>
+    <member type="way" ref="31396621" role="forward"/>
+    <member type="way" ref="31402601" role="forward"/>
+    <member type="way" ref="105926170" role="forward"/>
+    <member type="way" ref="105926288" role="forward"/>
+    <member type="way" ref="31364947" role="backward"/>
+    <member type="way" ref="31364788" role="backward"/>
+    <member type="way" ref="31376650" role="forward"/>
+    <member type="way" ref="37740396" role="forward"/>
+    <member type="way" ref="37740605" role="backward"/>
+    <member type="way" ref="45173103" role="backward"/>
+    <member type="way" ref="31375769" role="backward"/>
+    <member type="way" ref="75016010" role="backward"/>
+    <member type="way" ref="31401877" role="backward"/>
+    <member type="way" ref="31399125" role="backward"/>
+    <member type="way" ref="51232223" role="backward"/>
+    <member type="way" ref="50935225" role="backward"/>
+    <member type="way" ref="31369622" role="backward"/>
+    <member type="way" ref="31398326" role="backward"/>
+    <member type="way" ref="31370892" role="backward"/>
+    <member type="way" ref="31377724" role="backward"/>
+    <member type="way" ref="4456050" role="backward"/>
+    <member type="way" ref="4456541" role="forward"/>
+    <member type="way" ref="34748709" role="forward"/>
+    <member type="way" ref="34400439" role="forward"/>
+    <member type="way" ref="31398701" role="forward"/>
+    <member type="way" ref="62292285" role="forward"/>
+    <member type="way" ref="66833125" role="forward"/>
+    <member type="way" ref="34400438" role="forward"/>
+    <member type="way" ref="31365640" role="forward"/>
+    <member type="way" ref="31397055" role="forward"/>
+    <member type="way" ref="31385971" role="forward"/>
+    <member type="way" ref="31368288" role="forward"/>
+    <member type="way" ref="31402228" role="backward"/>
+    <member type="way" ref="31370610" role="backward"/>
+    <member type="way" ref="31398986" role="backward"/>
+    <member type="way" ref="31395868" role="backward"/>
+    <member type="way" ref="24782410" role="backward"/>
+    <member type="way" ref="24782409" role="backward"/>
+    <member type="way" ref="24782407" role="backward"/>
+    <member type="way" ref="10904090" role="backward"/>
+    <member type="way" ref="31380462" role="backward"/>
+    <member type="way" ref="31365602" role="backward"/>
+    <member type="way" ref="31400323" role="backward"/>
+    <member type="way" ref="31367858" role="backward"/>
+    <member type="way" ref="31403685" role="backward"/>
+    <member type="way" ref="31372088" role="backward"/>
+    <member type="way" ref="31389966" role="backward"/>
+    <member type="way" ref="31385901" role="backward"/>
+    <member type="way" ref="31385994" role="backward"/>
+    <member type="way" ref="31404256" role="backward"/>
+    <member type="way" ref="31395881" role="backward"/>
+    <member type="way" ref="31400150" role="forward"/>
+    <member type="way" ref="31385996" role="forward"/>
+    <member type="way" ref="31369175" role="forward"/>
+    <member type="way" ref="31365298" role="forward"/>
+    <member type="way" ref="31389484" role="forward"/>
+    <member type="way" ref="40941514" role="forward"/>
+    <member type="way" ref="31369964" role="forward"/>
+    <member type="way" ref="28015720" role="forward"/>
+    <tag k="from" v="Пискарёвка"/>
+    <tag k="ref" v="105"/>
+    <tag k="route" v="bus"/>
+    <tag k="to" v="Восстания"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="969276" version="7" timestamp="2010-11-01T00:09:05Z" uid="34428" user="usm78-gis" changeset="6249816">
+    <member type="way" ref="33914323" role="forward"/>
+    <member type="way" ref="31388332" role="forward"/>
+    <member type="way" ref="31364797" role="forward"/>
+    <member type="way" ref="31385764" role="forward"/>
+    <member type="way" ref="31369793" role="forward"/>
+    <member type="way" ref="50405422" role="forward"/>
+    <member type="way" ref="50301945" role="backward"/>
+    <member type="way" ref="28296124" role="backward"/>
+    <member type="way" ref="4457123" role="backward"/>
+    <member type="way" ref="31402923" role="forward"/>
+    <member type="way" ref="31377535" role="forward"/>
+    <member type="way" ref="31381131" role="forward"/>
+    <member type="way" ref="31396566" role="backward"/>
+    <member type="way" ref="31400967" role="forward"/>
+    <member type="way" ref="31385540" role="forward"/>
+    <member type="way" ref="31388984" role="forward"/>
+    <member type="way" ref="31397914" role="backward"/>
+    <member type="way" ref="31371652" role="forward"/>
+    <member type="way" ref="31399192" role="backward"/>
+    <member type="way" ref="31370584" role="forward"/>
+    <member type="way" ref="31375925" role="forward"/>
+    <member type="way" ref="31369135" role="forward"/>
+    <member type="way" ref="23349912" role="forward"/>
+    <member type="way" ref="31377240" role="backward"/>
+    <member type="way" ref="31378932" role="backward"/>
+    <member type="way" ref="31372054" role="backward"/>
+    <member type="way" ref="31403839" role="backward"/>
+    <member type="way" ref="31400001" role="backward"/>
+    <member type="way" ref="31378798" role="backward"/>
+    <member type="way" ref="31369178" role="backward"/>
+    <member type="way" ref="31399147" role="backward"/>
+    <member type="way" ref="31378689" role="backward"/>
+    <member type="way" ref="31365851" role="backward"/>
+    <member type="way" ref="31379987" role="backward"/>
+    <member type="way" ref="31387849" role="backward"/>
+    <member type="way" ref="31395892" role="backward"/>
+    <member type="way" ref="31378203" role="backward"/>
+    <member type="way" ref="31388279" role="backward"/>
+    <member type="way" ref="31371495" role="backward"/>
+    <member type="way" ref="31397151" role="backward"/>
+    <member type="way" ref="31387036" role="backward"/>
+    <member type="way" ref="31396401" role="backward"/>
+    <member type="way" ref="31397604" role="backward"/>
+    <member type="way" ref="31397443" role="backward"/>
+    <member type="way" ref="31366567" role="backward"/>
+    <member type="way" ref="31397039" role="backward"/>
+    <member type="way" ref="31370593" role="forward"/>
+    <member type="way" ref="31397034" role="forward"/>
+    <member type="way" ref="31366266" role="forward"/>
+    <member type="way" ref="31386744" role="forward"/>
+    <member type="way" ref="31396039" role="forward"/>
+    <member type="way" ref="31400261" role="backward"/>
+    <member type="way" ref="31379569" role="backward"/>
+    <member type="way" ref="31400627" role="backward"/>
+    <member type="way" ref="31387654" role="backward"/>
+    <member type="way" ref="31387440" role="backward"/>
+    <member type="way" ref="31398575" role="forward"/>
+    <member type="way" ref="31365137" role="forward"/>
+    <member type="way" ref="31376442" role="forward"/>
+    <member type="way" ref="4455300" role="forward"/>
+    <member type="way" ref="31386172" role="forward"/>
+    <member type="way" ref="31378037" role="forward"/>
+    <member type="way" ref="31401229" role="forward"/>
+    <member type="way" ref="4458407" role="forward"/>
+    <member type="way" ref="31404338" role="forward"/>
+    <member type="way" ref="58873449" role="forward"/>
+    <member type="way" ref="42798956" role="forward"/>
+    <member type="way" ref="42798955" role="forward"/>
+    <member type="way" ref="54973832" role="forward"/>
+    <member type="way" ref="54973833" role="forward"/>
+    <member type="way" ref="58873448" role="forward"/>
+    <member type="way" ref="42719805" role="forward"/>
+    <member type="way" ref="31380046" role="forward"/>
+    <member type="way" ref="31403417" role="forward"/>
+    <member type="way" ref="23417662" role="forward"/>
+    <member type="way" ref="31396815" role="forward"/>
+    <member type="way" ref="31366855" role="forward"/>
+    <member type="way" ref="31397915" role="forward"/>
+    <member type="way" ref="31368050" role="forward"/>
+    <member type="way" ref="31397830" role="forward"/>
+    <member type="way" ref="31369844" role="forward"/>
+    <member type="way" ref="31371852" role="forward"/>
+    <member type="way" ref="31378570" role="forward"/>
+    <member type="way" ref="31381294" role="forward"/>
+    <member type="way" ref="23377481" role="forward"/>
+    <member type="way" ref="79570068" role="forward"/>
+    <member type="way" ref="31381231" role="backward"/>
+    <member type="way" ref="31376962" role="backward"/>
+    <member type="way" ref="31386219" role="backward"/>
+    <member type="way" ref="31398519" role="backward"/>
+    <member type="way" ref="31401291" role="backward"/>
+    <member type="way" ref="31396438" role="backward"/>
+    <member type="way" ref="23076483" role="forward"/>
+    <member type="way" ref="58873450" role="forward"/>
+    <member type="way" ref="31401346" role="forward"/>
+    <member type="way" ref="31989314" role="forward"/>
+    <member type="way" ref="31368764" role="forward"/>
+    <member type="way" ref="31399349" role="forward"/>
+    <member type="way" ref="31367808" role="forward"/>
+    <member type="way" ref="31401029" role="forward"/>
+    <member type="way" ref="41169563" role="forward"/>
+    <member type="way" ref="51133501" role="backward"/>
+    <member type="way" ref="52060698" role="backward"/>
+    <member type="way" ref="31379776" role="backward"/>
+    <member type="way" ref="31375969" role="forward"/>
+    <member type="way" ref="31385886" role="forward"/>
+    <member type="way" ref="31400289" role="forward"/>
+    <member type="way" ref="31388082" role="forward"/>
+    <member type="way" ref="31374246" role="forward"/>
+    <member type="way" ref="72030383" role="forward"/>
+    <member type="way" ref="31390000" role="forward"/>
+    <member type="way" ref="31370470" role="forward"/>
+    <member type="way" ref="31404440" role="forward"/>
+    <member type="way" ref="72030373" role="forward"/>
+    <member type="way" ref="31368642" role="forward"/>
+    <member type="way" ref="31376618" role="forward"/>
+    <member type="way" ref="24782409" role="forward"/>
+    <member type="way" ref="24782410" role="forward"/>
+    <member type="way" ref="31395868" role="forward"/>
+    <member type="way" ref="31396878" role="forward"/>
+    <member type="way" ref="4461336" role="forward"/>
+    <member type="way" ref="31389377" role="forward"/>
+    <member type="way" ref="83568644" role="forward"/>
+    <member type="way" ref="31371219" role="forward"/>
+    <member type="way" ref="31379040" role="forward"/>
+    <member type="way" ref="31402228" role="backward"/>
+    <member type="way" ref="68678470" role="backward"/>
+    <member type="way" ref="68678471" role="backward"/>
+    <member type="way" ref="68678472" role="backward"/>
+    <member type="way" ref="68678473" role="backward"/>
+    <tag k="from" v="ул. Кораблестроителей"/>
+    <tag k="ref" v="11"/>
+    <tag k="route" v="trolleybus"/>
+    <tag k="to" v="Тульская ул."/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="969537" version="1" timestamp="2010-06-20T14:10:23Z" uid="171838" user="argrath" changeset="5033200">
+    <member type="way" ref="62289868" role="outer"/>
+    <member type="way" ref="62289890" role="inner"/>
+    <member type="way" ref="62289891" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969538" version="1" timestamp="2010-06-20T14:10:37Z" uid="171838" user="argrath" changeset="5033200">
+    <member type="way" ref="62289896" role="outer"/>
+    <member type="way" ref="62289909" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969539" version="1" timestamp="2010-06-20T14:10:42Z" uid="171838" user="argrath" changeset="5033200">
+    <member type="way" ref="62289919" role="outer"/>
+    <member type="way" ref="62289920" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969540" version="1" timestamp="2010-06-20T14:11:47Z" uid="171838" user="argrath" changeset="5033200">
+    <member type="way" ref="62289922" role="outer"/>
+    <member type="way" ref="62289943" role="inner"/>
+    <member type="way" ref="62289944" role="inner"/>
+    <member type="way" ref="62289945" role="inner"/>
+    <member type="way" ref="62289946" role="inner"/>
+    <member type="way" ref="62289947" role="inner"/>
+    <member type="way" ref="62289948" role="inner"/>
+    <member type="way" ref="62289949" role="inner"/>
+    <member type="way" ref="62289950" role="inner"/>
+    <member type="way" ref="62289951" role="inner"/>
+    <member type="way" ref="62289952" role="inner"/>
+    <member type="way" ref="62289953" role="inner"/>
+    <member type="way" ref="62289954" role="inner"/>
+    <member type="way" ref="62289955" role="inner"/>
+    <member type="way" ref="62289956" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969541" version="1" timestamp="2010-06-20T14:12:02Z" uid="171838" user="argrath" changeset="5033200">
+    <member type="way" ref="62289960" role="outer"/>
+    <member type="way" ref="62289961" role="inner"/>
+    <member type="way" ref="62289962" role="inner"/>
+    <member type="way" ref="62289963" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969544" version="1" timestamp="2010-06-20T14:17:02Z" uid="171838" user="argrath" changeset="5033200">
+    <member type="way" ref="62289994" role="outer"/>
+    <member type="way" ref="62290031" role="outer"/>
+    <member type="way" ref="62290040" role="outer"/>
+    <member type="way" ref="62290042" role="inner"/>
+    <member type="way" ref="62290043" role="inner"/>
+    <member type="way" ref="62290045" role="inner"/>
+    <member type="way" ref="62290046" role="inner"/>
+    <member type="way" ref="62290047" role="inner"/>
+    <member type="way" ref="62290048" role="inner"/>
+    <member type="way" ref="62290049" role="inner"/>
+    <member type="way" ref="62290052" role="inner"/>
+    <member type="way" ref="62290058" role="inner"/>
+    <member type="way" ref="62290059" role="inner"/>
+    <member type="way" ref="62290060" role="inner"/>
+    <member type="way" ref="62290061" role="inner"/>
+    <member type="way" ref="62290062" role="inner"/>
+    <member type="way" ref="62290063" role="inner"/>
+    <member type="way" ref="62290064" role="inner"/>
+    <member type="way" ref="62290065" role="inner"/>
+    <member type="way" ref="62290069" role="inner"/>
+    <member type="way" ref="62290070" role="inner"/>
+    <member type="way" ref="62290073" role="inner"/>
+    <member type="way" ref="62290074" role="inner"/>
+    <member type="way" ref="62290075" role="inner"/>
+    <member type="way" ref="62290076" role="inner"/>
+    <member type="way" ref="62290077" role="inner"/>
+    <member type="way" ref="62290078" role="inner"/>
+    <member type="way" ref="62290079" role="inner"/>
+    <member type="way" ref="62290080" role="inner"/>
+    <member type="way" ref="62290081" role="inner"/>
+    <member type="way" ref="62290082" role="inner"/>
+    <member type="way" ref="62290084" role="inner"/>
+    <member type="way" ref="62290086" role="inner"/>
+    <member type="way" ref="62290088" role="inner"/>
+    <member type="way" ref="62290089" role="inner"/>
+    <member type="way" ref="62290090" role="inner"/>
+    <member type="way" ref="62290093" role="inner"/>
+    <member type="way" ref="62290094" role="inner"/>
+    <member type="way" ref="62290097" role="inner"/>
+    <member type="way" ref="62290100" role="inner"/>
+    <member type="way" ref="62290103" role="inner"/>
+    <member type="way" ref="62290105" role="inner"/>
+    <member type="way" ref="62290106" role="inner"/>
+    <member type="way" ref="62290108" role="inner"/>
+    <member type="way" ref="62290109" role="inner"/>
+    <member type="way" ref="62290111" role="inner"/>
+    <member type="way" ref="62290113" role="inner"/>
+    <member type="way" ref="62290114" role="inner"/>
+    <member type="way" ref="62290116" role="inner"/>
+    <member type="way" ref="62290119" role="inner"/>
+    <member type="way" ref="62290121" role="inner"/>
+    <member type="way" ref="62290123" role="inner"/>
+    <member type="way" ref="62290125" role="inner"/>
+    <member type="way" ref="62290128" role="inner"/>
+    <member type="way" ref="62290129" role="inner"/>
+    <member type="way" ref="62290130" role="inner"/>
+    <member type="way" ref="62290132" role="inner"/>
+    <member type="way" ref="62290133" role="inner"/>
+    <member type="way" ref="62290134" role="inner"/>
+    <member type="way" ref="62290135" role="inner"/>
+    <member type="way" ref="62290136" role="inner"/>
+    <member type="way" ref="62290137" role="inner"/>
+    <member type="way" ref="62290139" role="inner"/>
+    <member type="way" ref="62290140" role="inner"/>
+    <member type="way" ref="62290141" role="inner"/>
+    <member type="way" ref="62290143" role="inner"/>
+    <member type="way" ref="62290144" role="inner"/>
+    <member type="way" ref="62290145" role="inner"/>
+    <member type="way" ref="62290146" role="inner"/>
+    <member type="way" ref="62290147" role="inner"/>
+    <member type="way" ref="62290148" role="inner"/>
+    <member type="way" ref="62290149" role="inner"/>
+    <member type="way" ref="62290150" role="inner"/>
+    <member type="way" ref="62290151" role="inner"/>
+    <member type="way" ref="62290152" role="inner"/>
+    <member type="way" ref="62290153" role="inner"/>
+    <member type="way" ref="62290154" role="inner"/>
+    <member type="way" ref="62290155" role="inner"/>
+    <member type="way" ref="62290156" role="inner"/>
+    <member type="way" ref="62290158" role="inner"/>
+    <member type="way" ref="62290160" role="inner"/>
+    <member type="way" ref="62290161" role="inner"/>
+    <member type="way" ref="62290162" role="inner"/>
+    <member type="way" ref="62290163" role="inner"/>
+    <member type="way" ref="62290164" role="inner"/>
+    <member type="way" ref="62290165" role="inner"/>
+    <member type="way" ref="62290166" role="inner"/>
+    <member type="way" ref="62290167" role="inner"/>
+    <member type="way" ref="62290168" role="inner"/>
+    <member type="way" ref="62290169" role="inner"/>
+    <member type="way" ref="62290170" role="inner"/>
+    <member type="way" ref="62290172" role="inner"/>
+    <member type="way" ref="62290173" role="inner"/>
+    <member type="way" ref="62290175" role="inner"/>
+    <member type="way" ref="62290176" role="inner"/>
+    <member type="way" ref="62290177" role="inner"/>
+    <member type="way" ref="62290178" role="inner"/>
+    <member type="way" ref="62290179" role="inner"/>
+    <member type="way" ref="62290180" role="inner"/>
+    <member type="way" ref="62290181" role="inner"/>
+    <member type="way" ref="62290182" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969545" version="1" timestamp="2010-06-20T14:17:42Z" uid="171838" user="argrath" changeset="5033200">
+    <member type="way" ref="62290196" role="outer"/>
+    <member type="way" ref="62290197" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969546" version="1" timestamp="2010-06-20T14:18:08Z" uid="171838" user="argrath" changeset="5033200">
+    <member type="way" ref="62290229" role="outer"/>
+    <member type="way" ref="62290235" role="inner"/>
+    <member type="way" ref="62290237" role="inner"/>
+    <member type="way" ref="62290238" role="inner"/>
+    <member type="way" ref="62290239" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969547" version="1" timestamp="2010-06-20T14:18:29Z" uid="171838" user="argrath" changeset="5033200">
+    <member type="way" ref="62290258" role="outer"/>
+    <member type="way" ref="62290259" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969548" version="1" timestamp="2010-06-20T14:18:44Z" uid="171838" user="argrath" changeset="5033200">
+    <member type="way" ref="62290284" role="outer"/>
+    <member type="way" ref="62290286" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969549" version="1" timestamp="2010-06-20T14:19:01Z" uid="171838" user="argrath" changeset="5033200">
+    <member type="way" ref="62290296" role="outer"/>
+    <member type="way" ref="62290299" role="inner"/>
+    <member type="way" ref="62290300" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969551" version="1" timestamp="2010-06-20T14:20:19Z" uid="171838" user="argrath" changeset="5033200">
+    <member type="way" ref="62290327" role="outer"/>
+    <member type="way" ref="62290335" role="inner"/>
+    <member type="way" ref="62290336" role="inner"/>
+    <member type="way" ref="62290338" role="inner"/>
+    <member type="way" ref="62290339" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969553" version="1" timestamp="2010-06-20T14:22:28Z" uid="171838" user="argrath" changeset="5033200">
+    <member type="way" ref="62290441" role="outer"/>
+    <member type="way" ref="62290442" role="inner"/>
+    <member type="way" ref="62290443" role="inner"/>
+    <member type="way" ref="62290444" role="inner"/>
+    <member type="way" ref="62290445" role="inner"/>
+    <member type="way" ref="62290446" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969554" version="1" timestamp="2010-06-20T14:22:58Z" uid="171838" user="argrath" changeset="5033200">
+    <member type="way" ref="62290449" role="outer"/>
+    <member type="way" ref="62290450" role="inner"/>
+    <member type="way" ref="62290451" role="inner"/>
+    <member type="way" ref="62290452" role="inner"/>
+    <member type="way" ref="62290453" role="inner"/>
+    <member type="way" ref="62290454" role="inner"/>
+    <member type="way" ref="62290455" role="inner"/>
+    <member type="way" ref="62290456" role="inner"/>
+    <member type="way" ref="62290457" role="inner"/>
+    <member type="way" ref="62290458" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969555" version="1" timestamp="2010-06-20T14:23:01Z" uid="171838" user="argrath" changeset="5033200">
+    <member type="way" ref="62290463" role="outer"/>
+    <member type="way" ref="62290464" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969557" version="1" timestamp="2010-06-20T14:24:06Z" uid="171838" user="argrath" changeset="5033200">
+    <member type="way" ref="62290601" role="outer"/>
+    <member type="way" ref="62290606" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969558" version="1" timestamp="2010-06-20T14:24:14Z" uid="171838" user="argrath" changeset="5033200">
+    <member type="way" ref="62290610" role="outer"/>
+    <member type="way" ref="62290630" role="inner"/>
+    <member type="way" ref="62290641" role="inner"/>
+    <member type="way" ref="62290643" role="inner"/>
+    <member type="way" ref="62290647" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969559" version="1" timestamp="2010-06-20T14:25:01Z" uid="171838" user="argrath" changeset="5033200">
+    <member type="way" ref="62290753" role="outer"/>
+    <member type="way" ref="62290773" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969565" version="1" timestamp="2010-06-20T14:27:49Z" uid="171838" user="argrath" changeset="5033200">
+    <member type="way" ref="62291002" role="outer"/>
+    <member type="way" ref="62291098" role="outer"/>
+    <member type="way" ref="62291103" role="inner"/>
+    <member type="way" ref="62291105" role="inner"/>
+    <member type="way" ref="62291107" role="inner"/>
+    <member type="way" ref="62291111" role="inner"/>
+    <member type="way" ref="62291114" role="inner"/>
+    <member type="way" ref="62291117" role="inner"/>
+    <member type="way" ref="62291119" role="inner"/>
+    <member type="way" ref="62291122" role="inner"/>
+    <member type="way" ref="62291124" role="inner"/>
+    <member type="way" ref="62291127" role="inner"/>
+    <member type="way" ref="62291129" role="inner"/>
+    <member type="way" ref="62291132" role="inner"/>
+    <member type="way" ref="62291134" role="inner"/>
+    <member type="way" ref="62291136" role="inner"/>
+    <member type="way" ref="62291139" role="inner"/>
+    <member type="way" ref="62291142" role="inner"/>
+    <member type="way" ref="62291144" role="inner"/>
+    <member type="way" ref="62291146" role="inner"/>
+    <member type="way" ref="62291149" role="inner"/>
+    <member type="way" ref="62291151" role="inner"/>
+    <member type="way" ref="62291164" role="inner"/>
+    <member type="way" ref="62291167" role="inner"/>
+    <member type="way" ref="62291170" role="inner"/>
+    <member type="way" ref="62291174" role="inner"/>
+    <member type="way" ref="62291175" role="inner"/>
+    <member type="way" ref="62291179" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969569" version="1" timestamp="2010-06-20T14:28:46Z" uid="171838" user="argrath" changeset="5033200">
+    <member type="way" ref="62291343" role="outer"/>
+    <member type="way" ref="62291349" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969570" version="1" timestamp="2010-06-20T14:29:04Z" uid="171838" user="argrath" changeset="5033200">
+    <member type="way" ref="62291395" role="outer"/>
+    <member type="way" ref="62291398" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969571" version="1" timestamp="2010-06-20T14:29:27Z" uid="171838" user="argrath" changeset="5033200">
+    <member type="way" ref="62291461" role="outer"/>
+    <member type="way" ref="62291476" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969581" version="1" timestamp="2010-06-20T14:31:34Z" uid="171838" user="argrath" changeset="5033200">
+    <member type="way" ref="62291516" role="outer"/>
+    <member type="way" ref="62291666" role="outer"/>
+    <member type="way" ref="62291673" role="inner"/>
+    <member type="way" ref="62291682" role="inner"/>
+    <member type="way" ref="62291691" role="inner"/>
+    <member type="way" ref="62291696" role="inner"/>
+    <member type="way" ref="62291700" role="inner"/>
+    <member type="way" ref="62291703" role="inner"/>
+    <member type="way" ref="62291705" role="inner"/>
+    <member type="way" ref="62291708" role="inner"/>
+    <member type="way" ref="62291712" role="inner"/>
+    <member type="way" ref="62291715" role="inner"/>
+    <member type="way" ref="62291718" role="inner"/>
+    <member type="way" ref="62291720" role="inner"/>
+    <member type="way" ref="62291722" role="inner"/>
+    <member type="way" ref="62291725" role="inner"/>
+    <member type="way" ref="62291726" role="inner"/>
+    <member type="way" ref="62291728" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969601" version="1" timestamp="2010-06-20T14:31:58Z" uid="171838" user="argrath" changeset="5033200">
+    <member type="way" ref="62291734" role="outer"/>
+    <member type="way" ref="62291736" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969608" version="1" timestamp="2010-06-20T14:32:16Z" uid="171838" user="argrath" changeset="5033200">
+    <member type="way" ref="62291793" role="outer"/>
+    <member type="way" ref="62291799" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969620" version="1" timestamp="2010-06-20T14:36:37Z" uid="171838" user="argrath" changeset="5033200">
+    <member type="way" ref="62292136" role="outer"/>
+    <member type="way" ref="62292139" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969623" version="1" timestamp="2010-06-20T14:37:43Z" uid="171838" user="argrath" changeset="5033200">
+    <member type="way" ref="62292163" role="outer"/>
+    <member type="way" ref="62292174" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969625" version="1" timestamp="2010-06-20T14:38:17Z" uid="171838" user="argrath" changeset="5033200">
+    <member type="way" ref="62292190" role="outer"/>
+    <member type="way" ref="62292191" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969628" version="1" timestamp="2010-06-20T14:40:35Z" uid="171838" user="argrath" changeset="5033200">
+    <member type="way" ref="62292247" role="outer"/>
+    <member type="way" ref="62292248" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969629" version="1" timestamp="2010-06-20T14:41:02Z" uid="171838" user="argrath" changeset="5033200">
+    <member type="way" ref="62292279" role="outer"/>
+    <member type="way" ref="62292286" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969631" version="6" timestamp="2010-11-01T00:09:01Z" uid="34428" user="usm78-gis" changeset="6249816">
+    <member type="way" ref="31366595" role="forward"/>
+    <member type="way" ref="31387543" role="forward"/>
+    <member type="way" ref="31396021" role="forward"/>
+    <member type="way" ref="31389423" role="forward"/>
+    <member type="way" ref="31398922" role="backward"/>
+    <member type="way" ref="31366475" role="backward"/>
+    <member type="way" ref="31399877" role="backward"/>
+    <member type="way" ref="31369437" role="backward"/>
+    <member type="way" ref="31399308" role="backward"/>
+    <member type="way" ref="58873449" role="forward"/>
+    <member type="way" ref="42798956" role="forward"/>
+    <member type="way" ref="42798955" role="forward"/>
+    <member type="way" ref="54973832" role="forward"/>
+    <member type="way" ref="54973833" role="forward"/>
+    <member type="way" ref="58873448" role="forward"/>
+    <member type="way" ref="42719805" role="forward"/>
+    <member type="way" ref="31380046" role="forward"/>
+    <member type="way" ref="31403417" role="forward"/>
+    <member type="way" ref="23417662" role="forward"/>
+    <member type="way" ref="31396815" role="forward"/>
+    <member type="way" ref="31366855" role="forward"/>
+    <member type="way" ref="31397915" role="forward"/>
+    <member type="way" ref="31368050" role="forward"/>
+    <member type="way" ref="31397830" role="forward"/>
+    <member type="way" ref="31369844" role="forward"/>
+    <member type="way" ref="31371852" role="forward"/>
+    <member type="way" ref="31378570" role="forward"/>
+    <member type="way" ref="31381294" role="forward"/>
+    <member type="way" ref="23377481" role="forward"/>
+    <member type="way" ref="79570068" role="forward"/>
+    <member type="way" ref="31381231" role="backward"/>
+    <member type="way" ref="31376962" role="backward"/>
+    <member type="way" ref="31386219" role="backward"/>
+    <member type="way" ref="31398519" role="backward"/>
+    <member type="way" ref="31401291" role="backward"/>
+    <member type="way" ref="31396438" role="backward"/>
+    <member type="way" ref="23076483" role="forward"/>
+    <member type="way" ref="58873450" role="forward"/>
+    <member type="way" ref="31401346" role="forward"/>
+    <member type="way" ref="31989314" role="forward"/>
+    <member type="way" ref="31368764" role="forward"/>
+    <member type="way" ref="31399349" role="forward"/>
+    <member type="way" ref="31367808" role="forward"/>
+    <member type="way" ref="31401029" role="forward"/>
+    <member type="way" ref="41169563" role="forward"/>
+    <member type="way" ref="51133501" role="backward"/>
+    <member type="way" ref="52060698" role="backward"/>
+    <member type="way" ref="31379776" role="backward"/>
+    <member type="way" ref="31375969" role="forward"/>
+    <member type="way" ref="31385886" role="forward"/>
+    <member type="way" ref="31400289" role="forward"/>
+    <member type="way" ref="31388082" role="forward"/>
+    <member type="way" ref="31374246" role="forward"/>
+    <member type="way" ref="72030383" role="forward"/>
+    <member type="way" ref="31390000" role="forward"/>
+    <member type="way" ref="31370470" role="forward"/>
+    <member type="way" ref="31404440" role="forward"/>
+    <member type="way" ref="72030373" role="forward"/>
+    <member type="way" ref="31368642" role="forward"/>
+    <member type="way" ref="31376618" role="forward"/>
+    <member type="way" ref="24782409" role="forward"/>
+    <member type="way" ref="24782410" role="forward"/>
+    <member type="way" ref="31395868" role="forward"/>
+    <member type="way" ref="31396878" role="forward"/>
+    <member type="way" ref="4461336" role="forward"/>
+    <member type="way" ref="31389377" role="forward"/>
+    <member type="way" ref="83568644" role="forward"/>
+    <member type="way" ref="31371219" role="forward"/>
+    <member type="way" ref="31379040" role="forward"/>
+    <member type="way" ref="31402228" role="backward"/>
+    <tag k="from" v="пл. Труда"/>
+    <tag k="ref" v="5"/>
+    <tag k="route" v="trolleybus"/>
+    <tag k="to" v="Тульская ул."/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="969635" version="1" timestamp="2010-06-20T14:41:31Z" uid="171838" user="argrath" changeset="5033200">
+    <member type="way" ref="62292336" role="outer"/>
+    <member type="way" ref="62292338" role="inner"/>
+    <member type="way" ref="62292339" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969637" version="10" timestamp="2010-11-01T00:08:42Z" uid="34428" user="usm78-gis" changeset="6249816">
+    <member type="way" ref="31380868" role="backward"/>
+    <member type="way" ref="31397347" role="backward"/>
+    <member type="way" ref="31371941" role="backward"/>
+    <member type="way" ref="31371054" role="backward"/>
+    <member type="way" ref="31402519" role="backward"/>
+    <member type="way" ref="75374443" role="backward"/>
+    <member type="way" ref="31368866" role="backward"/>
+    <member type="way" ref="31388639" role="forward"/>
+    <member type="way" ref="31380825" role="forward"/>
+    <member type="way" ref="31397590" role="forward"/>
+    <member type="way" ref="31378040" role="forward"/>
+    <member type="way" ref="31368974" role="forward"/>
+    <member type="way" ref="31398615" role="forward"/>
+    <member type="way" ref="31377498" role="forward"/>
+    <member type="way" ref="31385998" role="forward"/>
+    <member type="way" ref="31403932" role="forward"/>
+    <member type="way" ref="31401454" role="forward"/>
+    <member type="way" ref="31387844" role="forward"/>
+    <member type="way" ref="31371970" role="forward"/>
+    <member type="way" ref="23591669" role="forward"/>
+    <member type="way" ref="31388045" role="forward"/>
+    <member type="way" ref="31367841" role="forward"/>
+    <member type="way" ref="52114134" role="forward"/>
+    <member type="way" ref="31388578" role="forward"/>
+    <member type="way" ref="31387468" role="forward"/>
+    <member type="way" ref="31400890" role="forward"/>
+    <member type="way" ref="31386766" role="forward"/>
+    <member type="way" ref="31397758" role="forward"/>
+    <member type="way" ref="31389876" role="forward"/>
+    <member type="way" ref="31398940" role="forward"/>
+    <member type="way" ref="31374962" role="forward"/>
+    <member type="way" ref="31372276" role="forward"/>
+    <member type="way" ref="31389622" role="forward"/>
+    <member type="way" ref="4458035" role="forward"/>
+    <member type="way" ref="31376355" role="forward"/>
+    <member type="way" ref="31370270" role="forward"/>
+    <member type="way" ref="31386775" role="forward"/>
+    <member type="way" ref="31380489" role="forward"/>
+    <member type="way" ref="31403322" role="forward"/>
+    <member type="way" ref="31396761" role="forward"/>
+    <member type="way" ref="31402066" role="forward"/>
+    <member type="way" ref="31401147" role="forward"/>
+    <member type="way" ref="31396162" role="forward"/>
+    <member type="way" ref="31386518" role="forward"/>
+    <member type="way" ref="31379535" role="forward"/>
+    <member type="way" ref="31375223" role="forward"/>
+    <member type="way" ref="31365239" role="backward"/>
+    <member type="way" ref="4454489" role="forward"/>
+    <member type="way" ref="61687258" role="forward"/>
+    <member type="way" ref="62292288" role="forward"/>
+    <member type="way" ref="31385554" role="forward"/>
+    <member type="way" ref="31380278" role="backward"/>
+    <member type="way" ref="31368584" role="forward"/>
+    <member type="way" ref="31371344" role="forward"/>
+    <member type="way" ref="31385870" role="forward"/>
+    <member type="way" ref="31372270" role="forward"/>
+    <member type="way" ref="31389783" role="forward"/>
+    <member type="way" ref="31396537" role="forward"/>
+    <member type="way" ref="30893728" role="forward"/>
+    <member type="way" ref="71406369" role="forward"/>
+    <member type="way" ref="31371008" role="forward"/>
+    <member type="way" ref="31372115" role="forward"/>
+    <member type="way" ref="31404171" role="forward"/>
+    <member type="way" ref="31403954" role="forward"/>
+    <member type="way" ref="31401846" role="forward"/>
+    <member type="way" ref="79570061" role="forward"/>
+    <member type="way" ref="31403685" role="forward"/>
+    <member type="way" ref="31367858" role="forward"/>
+    <member type="way" ref="31400323" role="forward"/>
+    <member type="way" ref="31365602" role="forward"/>
+    <member type="way" ref="31380462" role="forward"/>
+    <member type="way" ref="10904090" role="forward"/>
+    <member type="way" ref="24782407" role="forward"/>
+    <member type="way" ref="24782409" role="forward"/>
+    <member type="way" ref="24782410" role="forward"/>
+    <member type="way" ref="31395868" role="forward"/>
+    <member type="way" ref="31396878" role="forward"/>
+    <member type="way" ref="4461336" role="forward"/>
+    <member type="way" ref="31389377" role="forward"/>
+    <member type="way" ref="83568644" role="forward"/>
+    <member type="way" ref="31371219" role="forward"/>
+    <member type="way" ref="31379040" role="forward"/>
+    <member type="way" ref="31402228" role="backward"/>
+    <tag k="from" v="Сызранская ул."/>
+    <tag k="ref" v="15"/>
+    <tag k="route" v="trolleybus"/>
+    <tag k="to" v="Тульская ул."/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="969639" version="1" timestamp="2010-06-20T14:41:48Z" uid="171838" user="argrath" changeset="5033200">
+    <member type="way" ref="62292350" role="outer"/>
+    <member type="way" ref="62292351" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969642" version="1" timestamp="2010-06-20T14:43:04Z" uid="171838" user="argrath" changeset="5033200">
+    <member type="way" ref="62292446" role="outer"/>
+    <member type="way" ref="62292451" role="inner"/>
+    <member type="way" ref="62292452" role="inner"/>
+    <member type="way" ref="62292453" role="inner"/>
+    <member type="way" ref="62292454" role="inner"/>
+    <member type="way" ref="62292455" role="inner"/>
+    <member type="way" ref="62292456" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969644" version="1" timestamp="2010-06-20T14:43:32Z" uid="171838" user="argrath" changeset="5033200">
+    <member type="way" ref="62292501" role="outer"/>
+    <member type="way" ref="62292503" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969645" version="1" timestamp="2010-06-20T14:47:41Z" uid="171838" user="argrath" changeset="5033581">
+    <member type="way" ref="62292688" role="outer"/>
+    <member type="way" ref="62292695" role="inner"/>
+    <member type="way" ref="62292696" role="inner"/>
+    <member type="way" ref="62292697" role="inner"/>
+    <member type="way" ref="62292699" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969646" version="1" timestamp="2010-06-20T14:48:18Z" uid="171838" user="argrath" changeset="5033581">
+    <member type="way" ref="62292713" role="outer"/>
+    <member type="way" ref="62292715" role="inner"/>
+    <member type="way" ref="62292716" role="inner"/>
+    <member type="way" ref="62292717" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969649" version="1" timestamp="2010-06-20T14:50:42Z" uid="171838" user="argrath" changeset="5033581">
+    <member type="way" ref="62292803" role="outer"/>
+    <member type="way" ref="62292810" role="inner"/>
+    <member type="way" ref="62292816" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969657" version="1" timestamp="2010-06-20T14:52:07Z" uid="171838" user="argrath" changeset="5033581">
+    <member type="way" ref="62292888" role="outer"/>
+    <member type="way" ref="62292908" role="inner"/>
+    <member type="way" ref="62292909" role="inner"/>
+    <member type="way" ref="62292911" role="inner"/>
+    <member type="way" ref="62292912" role="inner"/>
+    <member type="way" ref="62292914" role="inner"/>
+    <member type="way" ref="62292915" role="inner"/>
+    <member type="way" ref="62292916" role="inner"/>
+    <member type="way" ref="62292917" role="inner"/>
+    <member type="way" ref="62292918" role="inner"/>
+    <member type="way" ref="62292921" role="inner"/>
+    <member type="way" ref="62292922" role="inner"/>
+    <member type="way" ref="62292923" role="inner"/>
+    <member type="way" ref="62292924" role="inner"/>
+    <member type="way" ref="62292926" role="inner"/>
+    <member type="way" ref="62292927" role="inner"/>
+    <member type="way" ref="62292929" role="inner"/>
+    <member type="way" ref="62292930" role="inner"/>
+    <member type="way" ref="62292933" role="inner"/>
+    <member type="way" ref="62292936" role="inner"/>
+    <member type="way" ref="62292941" role="inner"/>
+    <member type="way" ref="62292946" role="inner"/>
+    <member type="way" ref="62292949" role="inner"/>
+    <member type="way" ref="62292952" role="inner"/>
+    <member type="way" ref="62292953" role="inner"/>
+    <member type="way" ref="62292954" role="inner"/>
+    <member type="way" ref="62292957" role="inner"/>
+    <member type="way" ref="62292958" role="inner"/>
+    <member type="way" ref="62292959" role="inner"/>
+    <member type="way" ref="62292960" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969658" version="1" timestamp="2010-06-20T14:52:40Z" uid="171838" user="argrath" changeset="5033581">
+    <member type="way" ref="62292969" role="outer"/>
+    <member type="way" ref="62292974" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969659" version="1" timestamp="2010-06-20T14:53:55Z" uid="171838" user="argrath" changeset="5033581">
+    <member type="way" ref="62293008" role="outer"/>
+    <member type="way" ref="62293011" role="inner"/>
+    <member type="way" ref="62293012" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969660" version="1" timestamp="2010-06-20T14:55:26Z" uid="171838" user="argrath" changeset="5033581">
+    <member type="way" ref="62293068" role="outer"/>
+    <member type="way" ref="62293069" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969662" version="1" timestamp="2010-06-20T14:56:35Z" uid="171838" user="argrath" changeset="5033581">
+    <member type="way" ref="62293082" role="outer"/>
+    <member type="way" ref="62293108" role="inner"/>
+    <member type="way" ref="62293109" role="inner"/>
+    <member type="way" ref="62293110" role="inner"/>
+    <member type="way" ref="62293111" role="inner"/>
+    <member type="way" ref="62293112" role="inner"/>
+    <member type="way" ref="62293113" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969663" version="1" timestamp="2010-06-20T14:57:36Z" uid="171838" user="argrath" changeset="5033581">
+    <member type="way" ref="62293166" role="outer"/>
+    <member type="way" ref="62293167" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969664" version="1" timestamp="2010-06-20T14:57:55Z" uid="171838" user="argrath" changeset="5033581">
+    <member type="way" ref="62293175" role="outer"/>
+    <member type="way" ref="62293178" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969666" version="1" timestamp="2010-06-20T14:59:17Z" uid="171838" user="argrath" changeset="5033581">
+    <member type="way" ref="62293264" role="outer"/>
+    <member type="way" ref="62293266" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969672" version="1" timestamp="2010-06-20T15:00:10Z" uid="171838" user="argrath" changeset="5033581">
+    <member type="way" ref="62293332" role="outer"/>
+    <member type="way" ref="62293335" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969673" version="1" timestamp="2010-06-20T15:00:56Z" uid="171838" user="argrath" changeset="5033581">
+    <member type="way" ref="62293378" role="outer"/>
+    <member type="way" ref="62293380" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969674" version="1" timestamp="2010-06-20T15:01:03Z" uid="171838" user="argrath" changeset="5033581">
+    <member type="way" ref="62293393" role="outer"/>
+    <member type="way" ref="62293395" role="inner"/>
+    <member type="way" ref="62293397" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969675" version="1" timestamp="2010-06-20T15:03:40Z" uid="171838" user="argrath" changeset="5033581">
+    <member type="way" ref="62293421" role="outer"/>
+    <member type="way" ref="62293484" role="outer"/>
+    <member type="way" ref="62293505" role="inner"/>
+    <member type="way" ref="62293506" role="inner"/>
+    <member type="way" ref="62293509" role="inner"/>
+    <member type="way" ref="62293511" role="inner"/>
+    <member type="way" ref="62293513" role="inner"/>
+    <member type="way" ref="62293516" role="inner"/>
+    <member type="way" ref="62293518" role="inner"/>
+    <member type="way" ref="62293521" role="inner"/>
+    <member type="way" ref="62293523" role="inner"/>
+    <member type="way" ref="62293525" role="inner"/>
+    <member type="way" ref="62293529" role="inner"/>
+    <member type="way" ref="62293531" role="inner"/>
+    <member type="way" ref="62293533" role="inner"/>
+    <member type="way" ref="62293535" role="inner"/>
+    <member type="way" ref="62293537" role="inner"/>
+    <member type="way" ref="62293540" role="inner"/>
+    <member type="way" ref="62293552" role="inner"/>
+    <member type="way" ref="62293555" role="inner"/>
+    <member type="way" ref="62293558" role="inner"/>
+    <member type="way" ref="62293560" role="inner"/>
+    <member type="way" ref="62293563" role="inner"/>
+    <member type="way" ref="62293567" role="inner"/>
+    <member type="way" ref="62293569" role="inner"/>
+    <member type="way" ref="62293572" role="inner"/>
+    <member type="way" ref="62293573" role="inner"/>
+    <member type="way" ref="62293575" role="inner"/>
+    <member type="way" ref="62293578" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969678" version="1" timestamp="2010-06-20T15:04:01Z" uid="171838" user="argrath" changeset="5033581">
+    <member type="way" ref="62293631" role="outer"/>
+    <member type="way" ref="62293644" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969680" version="1" timestamp="2010-06-20T15:07:48Z" uid="171838" user="argrath" changeset="5033581">
+    <member type="way" ref="62294019" role="outer"/>
+    <member type="way" ref="62294023" role="inner"/>
+    <member type="way" ref="62294028" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969693" version="1" timestamp="2010-06-20T15:08:52Z" uid="171838" user="argrath" changeset="5033581">
+    <member type="way" ref="62294090" role="outer"/>
+    <member type="way" ref="62294095" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969707" version="1" timestamp="2010-06-20T15:10:42Z" uid="171838" user="argrath" changeset="5033581">
+    <member type="way" ref="62294140" role="outer"/>
+    <member type="way" ref="62294142" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969708" version="1" timestamp="2010-06-20T15:11:03Z" uid="171838" user="argrath" changeset="5033581">
+    <member type="way" ref="62294153" role="outer"/>
+    <member type="way" ref="62294155" role="inner"/>
+    <member type="way" ref="62294156" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969709" version="1" timestamp="2010-06-20T15:12:01Z" uid="171838" user="argrath" changeset="5033581">
+    <member type="way" ref="62294176" role="outer"/>
+    <member type="way" ref="62294220" role="inner"/>
+    <member type="way" ref="62294223" role="inner"/>
+    <member type="way" ref="62294226" role="inner"/>
+    <member type="way" ref="62294229" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969710" version="1" timestamp="2010-06-20T15:13:15Z" uid="171838" user="argrath" changeset="5033581">
+    <member type="way" ref="62294287" role="outer"/>
+    <member type="way" ref="62294299" role="inner"/>
+    <member type="way" ref="62294300" role="inner"/>
+    <member type="way" ref="62294301" role="inner"/>
+    <member type="way" ref="62294302" role="inner"/>
+    <member type="way" ref="62294304" role="inner"/>
+    <member type="way" ref="62294305" role="inner"/>
+    <member type="way" ref="62294306" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969711" version="1" timestamp="2010-06-20T15:15:18Z" uid="171838" user="argrath" changeset="5033581">
+    <member type="way" ref="62294527" role="outer"/>
+    <member type="way" ref="62294535" role="inner"/>
+    <member type="way" ref="62294537" role="inner"/>
+    <member type="way" ref="62294538" role="inner"/>
+    <member type="way" ref="62294540" role="inner"/>
+    <member type="way" ref="62294541" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969713" version="1" timestamp="2010-06-20T15:16:09Z" uid="171838" user="argrath" changeset="5033581">
+    <member type="way" ref="62294556" role="outer"/>
+    <member type="way" ref="62294574" role="inner"/>
+    <member type="way" ref="62294579" role="inner"/>
+    <member type="way" ref="62294581" role="inner"/>
+    <member type="way" ref="62294584" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969714" version="1" timestamp="2010-06-20T15:16:58Z" uid="171838" user="argrath" changeset="5033581">
+    <member type="way" ref="62294623" role="outer"/>
+    <member type="way" ref="62294626" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969715" version="1" timestamp="2010-06-20T15:17:19Z" uid="171838" user="argrath" changeset="5033581">
+    <member type="way" ref="62294627" role="outer"/>
+    <member type="way" ref="62294630" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969716" version="1" timestamp="2010-06-20T15:17:46Z" uid="171838" user="argrath" changeset="5033581">
+    <member type="way" ref="62294660" role="outer"/>
+    <member type="way" ref="62294664" role="inner"/>
+    <member type="way" ref="62294667" role="inner"/>
+    <member type="way" ref="62294672" role="inner"/>
+    <member type="way" ref="62294674" role="inner"/>
+    <member type="way" ref="62294677" role="inner"/>
+    <member type="way" ref="62294680" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969719" version="1" timestamp="2010-06-20T15:17:49Z" uid="171838" user="argrath" changeset="5033581">
+    <member type="way" ref="62294686" role="outer"/>
+    <member type="way" ref="62294688" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969720" version="1" timestamp="2010-06-20T15:17:57Z" uid="171838" user="argrath" changeset="5033581">
+    <member type="way" ref="62294692" role="outer"/>
+    <member type="way" ref="62294694" role="inner"/>
+    <member type="way" ref="62294696" role="inner"/>
+    <member type="way" ref="62294697" role="inner"/>
+    <member type="way" ref="62294698" role="inner"/>
+    <member type="way" ref="62294699" role="inner"/>
+    <member type="way" ref="62294700" role="inner"/>
+    <member type="way" ref="62294701" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969721" version="1" timestamp="2010-06-20T15:18:36Z" uid="171838" user="argrath" changeset="5033581">
+    <member type="way" ref="62294712" role="outer"/>
+    <member type="way" ref="62294718" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969722" version="1" timestamp="2010-06-20T15:19:19Z" uid="171838" user="argrath" changeset="5033581">
+    <member type="way" ref="62294836" role="outer"/>
+    <member type="way" ref="62294838" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969724" version="1" timestamp="2010-06-20T15:20:40Z" uid="171838" user="argrath" changeset="5033581">
+    <member type="way" ref="62294904" role="outer"/>
+    <member type="way" ref="62294922" role="inner"/>
+    <member type="way" ref="62294923" role="inner"/>
+    <member type="way" ref="62294928" role="inner"/>
+    <member type="way" ref="62294930" role="inner"/>
+    <member type="way" ref="62294931" role="inner"/>
+    <member type="way" ref="62294932" role="inner"/>
+    <member type="way" ref="62294933" role="inner"/>
+    <member type="way" ref="62294934" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969725" version="1" timestamp="2010-06-20T15:21:12Z" uid="171838" user="argrath" changeset="5033581">
+    <member type="way" ref="62294948" role="outer"/>
+    <member type="way" ref="62294950" role="inner"/>
+    <member type="way" ref="62294951" role="inner"/>
+    <member type="way" ref="62294952" role="inner"/>
+    <member type="way" ref="62294953" role="inner"/>
+    <member type="way" ref="62294954" role="inner"/>
+    <member type="way" ref="62294955" role="inner"/>
+    <member type="way" ref="62294956" role="inner"/>
+    <member type="way" ref="62294957" role="inner"/>
+    <member type="way" ref="62294958" role="inner"/>
+    <member type="way" ref="62294959" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969727" version="1" timestamp="2010-06-20T15:21:43Z" uid="171838" user="argrath" changeset="5033581">
+    <member type="way" ref="62294986" role="outer"/>
+    <member type="way" ref="62294989" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969728" version="1" timestamp="2010-06-20T15:22:50Z" uid="171838" user="argrath" changeset="5033581">
+    <member type="way" ref="62295034" role="outer"/>
+    <member type="way" ref="62295036" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969730" version="1" timestamp="2010-06-20T15:23:24Z" uid="171838" user="argrath" changeset="5033581">
+    <member type="way" ref="62295065" role="outer"/>
+    <member type="way" ref="62295082" role="inner"/>
+    <member type="way" ref="62295084" role="inner"/>
+    <member type="way" ref="62295085" role="inner"/>
+    <member type="way" ref="62295086" role="inner"/>
+    <member type="way" ref="62295088" role="inner"/>
+    <member type="way" ref="62295089" role="inner"/>
+    <tag k="natural" v="wood"/>
+    <tag k="note" v="A13-06_43.xml"/>
+    <tag k="source" v="MLIT, Japan"/>
+    <tag k="source:ja" v="国土数値情報（森林地域データ）平成18年　国土交通省"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-A13.html"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="969980" version="1" timestamp="2010-06-20T17:11:11Z" uid="38528" user="acrosscanadatrails" changeset="5034933">
+    <member type="way" ref="62302585" role="outer"/>
+    <member type="way" ref="62302584" role="inner"/>
+    <tag k="natural" v="water"/>
+    <tag k="source" v="CanVec 6.0 - NRCan"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+</osm>

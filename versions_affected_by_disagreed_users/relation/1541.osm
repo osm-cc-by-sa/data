@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1541460" version="1" timestamp="2011-04-15T07:51:48Z" uid="66036" user="h4v" changeset="7867403">
+    <member type="way" ref="108549510" role="outer"/>
+    <member type="way" ref="108549516" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1541461" version="1" timestamp="2011-04-15T07:51:48Z" uid="66036" user="h4v" changeset="7867403">
+    <member type="way" ref="62035523" role="street"/>
+    <member type="way" ref="108549506" role="house"/>
+    <member type="node" ref="1245183647" role="house"/>
+    <member type="node" ref="1245183690" role="house"/>
+    <member type="way" ref="108549507" role="house"/>
+    <member type="node" ref="1245183653" role="house"/>
+    <member type="node" ref="1245183696" role="house"/>
+    <tag k="name" v="Legionów"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1541461" version="2" timestamp="2011-05-30T19:00:37Z" uid="66036" user="h4v" changeset="8295107">
+    <member type="way" ref="62035523" role="street"/>
+    <member type="way" ref="108549506" role="house"/>
+    <member type="node" ref="1245183647" role="house"/>
+    <member type="node" ref="1245183690" role="house"/>
+    <member type="way" ref="108549507" role="house"/>
+    <member type="node" ref="1245183653" role="house"/>
+    <member type="node" ref="1245183696" role="house"/>
+    <tag k="name" v="Legionów"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1541461" version="3" timestamp="2011-06-03T23:07:58Z" uid="66036" user="h4v" changeset="8334996">
+    <member type="way" ref="62035523" role="street"/>
+    <member type="way" ref="108549506" role="house"/>
+    <member type="way" ref="116258781" role="house"/>
+    <member type="node" ref="1245183647" role="house"/>
+    <member type="node" ref="1245183690" role="house"/>
+    <member type="way" ref="108549507" role="house"/>
+    <member type="way" ref="116258794" role="house"/>
+    <member type="node" ref="1245183653" role="house"/>
+    <member type="node" ref="1245183696" role="house"/>
+    <member type="way" ref="104253563" role="house"/>
+    <member type="way" ref="49229492" role="house"/>
+    <member type="way" ref="109506878" role="house"/>
+    <member type="way" ref="113796155" role="house"/>
+    <member type="node" ref="1311276299" role="house"/>
+    <member type="node" ref="1311276290" role="house"/>
+    <member type="way" ref="113796156" role="house"/>
+    <member type="way" ref="113796160" role="house"/>
+    <member type="way" ref="113796161" role="house"/>
+    <member type="way" ref="113796165" role="house"/>
+    <member type="way" ref="113796158" role="house"/>
+    <member type="node" ref="1311276297" role="house"/>
+    <member type="node" ref="1311276362" role="house"/>
+    <tag k="name" v="Legionów"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1541461" version="4" timestamp="2011-06-17T19:07:05Z" uid="66036" user="h4v" changeset="8467520">
+    <member type="way" ref="62035523" role="street"/>
+    <member type="way" ref="108549506" role="house"/>
+    <member type="way" ref="116258781" role="house"/>
+    <member type="way" ref="118079964" role="house"/>
+    <member type="node" ref="1245183647" role="house"/>
+    <member type="node" ref="1245183690" role="house"/>
+    <member type="way" ref="108549507" role="house"/>
+    <member type="way" ref="116258794" role="house"/>
+    <member type="way" ref="118079962" role="house"/>
+    <member type="node" ref="1245183653" role="house"/>
+    <member type="node" ref="1245183696" role="house"/>
+    <member type="way" ref="104253563" role="house"/>
+    <member type="way" ref="49229492" role="house"/>
+    <member type="way" ref="109506878" role="house"/>
+    <member type="way" ref="113796155" role="house"/>
+    <member type="node" ref="1311276299" role="house"/>
+    <member type="node" ref="1311276290" role="house"/>
+    <member type="way" ref="113796156" role="house"/>
+    <member type="way" ref="113796160" role="house"/>
+    <member type="way" ref="113796161" role="house"/>
+    <member type="way" ref="113796165" role="house"/>
+    <member type="way" ref="113796158" role="house"/>
+    <member type="node" ref="1311276297" role="house"/>
+    <member type="node" ref="1311276362" role="house"/>
+    <tag k="name" v="Legionów"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1541735" version="1" timestamp="2011-04-15T10:26:33Z" uid="7617" user="Franc" changeset="7868334">
+    <member type="way" ref="23024132" role="from"/>
+    <member type="way" ref="108570460" role="to"/>
+    <member type="node" ref="248265160" role="via"/>
+    <tag k="restriction" v="only_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1541736" version="1" timestamp="2011-04-15T10:26:33Z" uid="7617" user="Franc" changeset="7868334">
+    <member type="way" ref="45415738" role="from"/>
+    <member type="way" ref="4564806" role="to"/>
+    <member type="node" ref="28782885" role="via"/>
+    <tag k="restriction" v="no_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+</osm>

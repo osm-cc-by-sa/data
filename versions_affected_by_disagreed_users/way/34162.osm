@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="34162039" version="3" timestamp="2010-07-08T19:37:00Z" uid="74617" user="JohnSmith" changeset="5168730">
+    <nd ref="391913806"/>
+    <nd ref="391919721"/>
+    <nd ref="391919722"/>
+    <nd ref="391919723"/>
+    <nd ref="391919724"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Durban Court"/>
+  </way>
+  <way id="34162148" version="4" timestamp="2010-07-08T19:29:00Z" uid="74617" user="JohnSmith" changeset="5168730">
+    <nd ref="391909361"/>
+    <nd ref="391919742"/>
+    <nd ref="391919743"/>
+    <nd ref="391919744"/>
+    <nd ref="391919745"/>
+    <nd ref="599474322"/>
+    <nd ref="391919746"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Dakar Court"/>
+  </way>
+  <way id="34162232" version="4" timestamp="2010-07-08T19:34:11Z" uid="74617" user="JohnSmith" changeset="5168730">
+    <nd ref="391909390"/>
+    <nd ref="391919774"/>
+    <nd ref="599474399"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Sorell Court"/>
+  </way>
+  <way id="34162285" version="4" timestamp="2010-07-08T19:39:49Z" uid="74617" user="JohnSmith" changeset="5168730">
+    <nd ref="391919775"/>
+    <nd ref="391919780"/>
+    <nd ref="583055590"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Cadiz Place"/>
+  </way>
+  <way id="34162290" version="6" timestamp="2011-04-12T16:25:52Z" uid="4467" user="Rosscoe" changeset="7844178">
+    <nd ref="391919776"/>
+    <nd ref="1242121179"/>
+    <nd ref="1242121029"/>
+    <nd ref="391919777"/>
+    <nd ref="391919778"/>
+    <nd ref="321951084"/>
+    <nd ref="391919779"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Meander Valley Highway Offramp"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="34162295" version="2" timestamp="2009-12-22T02:20:40Z" uid="4467" user="Rosscoe" changeset="3424504">
+    <nd ref="391919779"/>
+    <nd ref="321951086"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary_link"/>
+    <tag k="layer" v="1"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="34162295" version="6" timestamp="2011-04-12T16:24:18Z" uid="4467" user="Rosscoe" changeset="7844178">
+    <nd ref="391919779"/>
+    <nd ref="321951086"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="lanes" v="1"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Meander Valley Highway Offramp"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="34162302" version="7" timestamp="2011-04-12T16:24:10Z" uid="4467" user="Rosscoe" changeset="7844178">
+    <nd ref="321951086"/>
+    <nd ref="746334707"/>
+    <nd ref="321951087"/>
+    <nd ref="321951088"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Meander Valley Highway Offramp"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+</osm>

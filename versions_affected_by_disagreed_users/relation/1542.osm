@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1542007" version="1" timestamp="2011-04-15T14:44:14Z" uid="66036" user="h4v" changeset="7870218">
+    <member type="way" ref="4685241" role="from"/>
+    <member type="way" ref="4900920" role="to"/>
+    <member type="node" ref="29781655" role="via"/>
+    <tag k="except" v="bicycle"/>
+    <tag k="restriction" v="only_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1542008" version="1" timestamp="2011-04-15T14:44:14Z" uid="66036" user="h4v" changeset="7870218">
+    <member type="way" ref="26893012" role="street"/>
+    <member type="way" ref="108598476" role="house"/>
+    <member type="node" ref="1245593465" role="house"/>
+    <member type="node" ref="1245593477" role="house"/>
+    <tag k="name" v="Więckowskiego"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1542227" version="1" timestamp="2011-04-15T17:59:33Z" uid="33382" user="de_muur" changeset="7871974">
+    <member type="node" ref="1244767702" role=""/>
+    <member type="way" ref="108508533" role=""/>
+    <member type="way" ref="37914180" role=""/>
+    <member type="node" ref="1245906533" role=""/>
+    <tag k="name" v="Krummesse - Sandesneben"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1542251" version="1" timestamp="2011-04-15T18:16:32Z" uid="33382" user="de_muur" changeset="7872120">
+    <member type="node" ref="1245941507" role=""/>
+    <member type="way" ref="24639350" role=""/>
+    <member type="node" ref="1245941514" role=""/>
+    <tag k="name" v="Berkenthin - Pogeez"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1542258" version="1" timestamp="2011-04-15T18:26:22Z" uid="33382" user="de_muur" changeset="7872209">
+    <member type="node" ref="1245941514" role=""/>
+    <member type="way" ref="47634689" role=""/>
+    <member type="way" ref="108643901" role=""/>
+    <tag k="name" v="Lübeck - (Ratzeburg)"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1542259" version="1" timestamp="2011-04-15T18:26:22Z" uid="33382" user="de_muur" changeset="7872209">
+    <member type="node" ref="1245941507" role=""/>
+    <member type="way" ref="39327422" role=""/>
+    <member type="way" ref="54278421" role=""/>
+    <member type="way" ref="47474749" role=""/>
+    <tag k="name" v="(Berkenthin) - Krummesse"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1542260" version="1" timestamp="2011-04-15T18:26:23Z" uid="33382" user="de_muur" changeset="7872209">
+    <member type="node" ref="1245955842" role=""/>
+    <member type="way" ref="80279262" role=""/>
+    <tag k="name" v="Berkenthin - (Lübeck)"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1542274" version="1" timestamp="2011-04-15T18:34:46Z" uid="33382" user="de_muur" changeset="7872292">
+    <member type="node" ref="1245955842" role=""/>
+    <member type="way" ref="24639358" role=""/>
+    <member type="way" ref="24639359" role=""/>
+    <member type="way" ref="37881593" role=""/>
+    <member type="node" ref="1245966004" role=""/>
+    <tag k="name" v="Berkenthin - Lübeck"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1542540" version="1" timestamp="2011-04-15T20:39:57Z" uid="9581" user="Lobelt" changeset="7873442">
+    <member type="way" ref="19830867" role="outer"/>
+    <member type="way" ref="108683095" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+</osm>

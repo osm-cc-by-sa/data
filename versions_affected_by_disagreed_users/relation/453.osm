@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="453239" version="1" timestamp="2010-03-17T18:33:52Z" uid="9581" user="Lobelt" changeset="4155436">
+    <member type="way" ref="4026278" role="from"/>
+    <member type="node" ref="276069795" role="via"/>
+    <member type="way" ref="25336778" role="to"/>
+    <tag k="restriction" v="no_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="453240" version="1" timestamp="2010-03-17T18:33:53Z" uid="9581" user="Lobelt" changeset="4155436">
+    <member type="way" ref="25336778" role="from"/>
+    <member type="node" ref="276069795" role="via"/>
+    <member type="way" ref="4026278" role="to"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="453337" version="1" timestamp="2010-03-17T19:34:04Z" uid="9581" user="Lobelt" changeset="4156025">
+    <member type="way" ref="52596990" role="from"/>
+    <member type="node" ref="22358814" role="via"/>
+    <member type="way" ref="5030601" role="to"/>
+    <tag k="restriction" v="no_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="453338" version="1" timestamp="2010-03-17T19:34:04Z" uid="9581" user="Lobelt" changeset="4156025">
+    <member type="way" ref="5030601" role="from"/>
+    <member type="node" ref="22358814" role="via"/>
+    <member type="way" ref="52596990" role="to"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="453600" version="10" timestamp="2011-03-09T05:11:25Z" uid="4467" user="Rosscoe" changeset="7500679">
+    <member type="way" ref="103379932" role=""/>
+    <member type="way" ref="8415698" role=""/>
+    <member type="way" ref="52631599" role=""/>
+    <member type="way" ref="4868181" role=""/>
+    <member type="way" ref="13127133" role=""/>
+    <tag k="description" v="On-road signed &quot;bicycle route&quot; along Princes Hwy service road."/>
+    <tag k="network" v="lcn"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="453942" version="1" timestamp="2010-03-18T14:43:19Z" uid="171838" user="argrath" changeset="4161820">
+    <member type="way" ref="52697824" role="outer"/>
+    <member type="way" ref="52697831" role="inner"/>
+    <member type="way" ref="52697832" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+</osm>

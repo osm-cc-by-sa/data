@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1397431" version="1" timestamp="2011-01-28T18:45:45Z" uid="33382" user="de_muur" changeset="7115709">
+    <member type="node" ref="707990702" role=""/>
+    <member type="way" ref="14858404" role=""/>
+    <member type="way" ref="97126818" role=""/>
+    <member type="way" ref="97126827" role=""/>
+    <member type="node" ref="1125178322" role=""/>
+    <tag k="name" v="Blender - Daverden"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1397432" version="1" timestamp="2011-01-28T18:45:46Z" uid="33382" user="de_muur" changeset="7115709">
+    <member type="node" ref="707990718" role=""/>
+    <member type="way" ref="32494907" role=""/>
+    <member type="node" ref="1125178322" role=""/>
+    <tag k="name" v="Amedorf - Nottorf"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1397457" version="1" timestamp="2011-01-28T19:23:18Z" uid="23543" user="jkjk" changeset="7116048">
+    <member type="way" ref="97136760" role="outer"/>
+    <member type="way" ref="97136715" role="outer"/>
+    <member type="way" ref="97136745" role="outer"/>
+    <member type="way" ref="97136734" role="outer"/>
+    <tag k="generator:output:electricty" v="4567 kW"/>
+    <tag k="name" v="FVE Sky Solar Velenice"/>
+    <tag k="operator" v="Viktor Property"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1397994" version="1" timestamp="2011-01-29T03:50:26Z" uid="4467" user="Rosscoe" changeset="7119118">
+    <member type="way" ref="97189231" role="from"/>
+    <member type="node" ref="1111479605" role="via"/>
+    <member type="way" ref="39622639" role="to"/>
+    <tag k="restriction" v="only_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+</osm>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="33411116" version="2" timestamp="2010-07-08T20:14:04Z" uid="74617" user="JohnSmith" changeset="5168730">
+    <nd ref="380164232"/>
+    <nd ref="380164599"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Moore Street"/>
+  </way>
+  <way id="33411854" version="2" timestamp="2010-03-28T01:48:03Z" uid="20587" user="balrog-kun" changeset="4250871">
+    <nd ref="380170973"/>
+    <nd ref="122912852"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Adelbert Avenue"/>
+  </way>
+  <way id="33411934" version="5" timestamp="2010-03-28T01:48:03Z" uid="20587" user="balrog-kun" changeset="4250871">
+    <nd ref="122841417"/>
+    <nd ref="597548777"/>
+    <nd ref="380171582"/>
+    <tag k="highway" v="steps"/>
+    <tag k="name" v="Silver Lake Avenue"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Los Angeles, CA"/>
+    <tag k="tiger:name_base" v="Silver Lake"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="142665329:141807531:141610934"/>
+    <tag k="tiger:zip_left" v="90039"/>
+    <tag k="tiger:zip_right" v="90039"/>
+  </way>
+</osm>

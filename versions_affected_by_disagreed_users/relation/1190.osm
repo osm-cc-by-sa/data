@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1190000" version="1" timestamp="2010-09-24T20:09:22Z" uid="33382" user="de_muur" changeset="5866108">
+    <member type="node" ref="924526372" role=""/>
+    <member type="way" ref="31875649" role=""/>
+    <member type="way" ref="31909907" role=""/>
+    <member type="way" ref="31909981" role=""/>
+    <member type="way" ref="23181302" role=""/>
+    <member type="node" ref="924526371" role=""/>
+    <tag k="name" v="L 154 - Ottersberg"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1190461" version="1" timestamp="2010-09-25T05:45:03Z" uid="7617" user="Franc" changeset="5868200">
+    <member type="way" ref="8037053" role="from"/>
+    <member type="way" ref="42295945" role="to"/>
+    <member type="node" ref="362442740" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1190461" version="2" timestamp="2011-04-20T13:11:25Z" uid="7617" user="Franc" changeset="7916137">
+    <member type="way" ref="42295945" role="to"/>
+    <member type="node" ref="362442740" role="via"/>
+    <member type="way" ref="109387221" role="from"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1190760" version="1" timestamp="2010-09-25T07:57:40Z" uid="33382" user="de_muur" changeset="5868653">
+    <member type="node" ref="924526371" role=""/>
+    <member type="way" ref="79126720" role=""/>
+    <member type="node" ref="925113319" role=""/>
+    <tag k="name" v="Ottersberg - Seebergen"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1190760" version="2" timestamp="2010-09-25T15:04:28Z" uid="33382" user="de_muur" changeset="5871672">
+    <member type="node" ref="924526371" role=""/>
+    <member type="way" ref="79126720" role=""/>
+    <member type="node" ref="925113319" role=""/>
+    <member type="way" ref="79176650" role=""/>
+    <member type="node" ref="925513497" role=""/>
+    <tag k="name" v="Ottersberg - Seebergen"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1190760" version="3" timestamp="2010-09-25T15:23:32Z" uid="33382" user="de_muur" changeset="5871859">
+    <member type="node" ref="925524990" role=""/>
+    <member type="way" ref="79232129" role=""/>
+    <member type="node" ref="924526371" role=""/>
+    <member type="way" ref="79126720" role=""/>
+    <member type="node" ref="925113319" role=""/>
+    <member type="way" ref="79176650" role=""/>
+    <member type="node" ref="925513497" role=""/>
+    <tag k="name" v="Ottersberg - Seebergen"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+</osm>

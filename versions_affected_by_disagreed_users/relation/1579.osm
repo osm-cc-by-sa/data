@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1579113" version="1" timestamp="2011-05-09T19:53:01Z" uid="33382" user="de_muur" changeset="8096261">
+    <member type="node" ref="904163612" role=""/>
+    <member type="way" ref="76742900" role=""/>
+    <member type="way" ref="34832217" role=""/>
+    <member type="way" ref="24490427" role=""/>
+    <member type="way" ref="112506017" role=""/>
+    <member type="node" ref="1278548578" role=""/>
+    <tag k="name" v="Gnarrenburg - Kirchtimke"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Rotenburg (Wümme)"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1579120" version="1" timestamp="2011-05-09T20:00:25Z" uid="33382" user="de_muur" changeset="8096345">
+    <member type="node" ref="1278556683" role=""/>
+    <member type="way" ref="11675613" role=""/>
+    <member type="node" ref="1278556677" role=""/>
+    <tag k="name" v="Kirchtimke - Rhade"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Rotenburg (Wümme)"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1579121" version="1" timestamp="2011-05-09T20:00:26Z" uid="33382" user="de_muur" changeset="8096345">
+    <member type="node" ref="1278548578" role=""/>
+    <member type="way" ref="112507303" role=""/>
+    <member type="node" ref="1278556683" role=""/>
+    <tag k="name" v="(Kirchtimke) - Rhade"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Rotenburg (Wümme)"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1579345" version="1" timestamp="2011-05-09T23:47:22Z" uid="66036" user="h4v" changeset="8098065">
+    <member type="way" ref="103194994" role="outer"/>
+    <member type="way" ref="112539138" role="inner"/>
+    <member type="way" ref="112539132" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1579346" version="1" timestamp="2011-05-09T23:47:22Z" uid="66036" user="h4v" changeset="8098065">
+    <member type="way" ref="112539136" role="outer"/>
+    <member type="way" ref="112539134" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1579818" version="1" timestamp="2011-05-10T12:12:14Z" uid="66036" user="h4v" changeset="8101658">
+    <member type="way" ref="112571068" role="house"/>
+    <member type="way" ref="27017550" role="street"/>
+    <member type="way" ref="112571066" role="house"/>
+    <member type="node" ref="1279173273" role="house"/>
+    <member type="node" ref="1279173237" role="house"/>
+    <tag k="name" v="Jerzego"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1579818" version="2" timestamp="2011-05-22T19:50:02Z" uid="66036" user="h4v" changeset="8220431">
+    <member type="way" ref="112571068" role="house"/>
+    <member type="way" ref="27017550" role="street"/>
+    <member type="way" ref="112571066" role="house"/>
+    <member type="node" ref="1279173273" role="house"/>
+    <member type="node" ref="1279173237" role="house"/>
+    <member type="way" ref="114456076" role="house"/>
+    <member type="node" ref="1296569305" role="house"/>
+    <member type="node" ref="1296569222" role="house"/>
+    <tag k="name" v="Jerzego"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1579819" version="1" timestamp="2011-05-10T12:12:15Z" uid="66036" user="h4v" changeset="8101658">
+    <member type="way" ref="27890877" role="street"/>
+    <member type="way" ref="112571061" role="house"/>
+    <member type="node" ref="1279173218" role="house"/>
+    <member type="node" ref="1279173246" role="house"/>
+    <tag k="name" v="Gdańska"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1579819" version="2" timestamp="2011-06-11T13:35:33Z" uid="66036" user="h4v" changeset="8406012">
+    <member type="way" ref="27890877" role="street"/>
+    <member type="way" ref="112571061" role="house"/>
+    <member type="way" ref="117200294" role="house"/>
+    <member type="node" ref="1279173218" role="house"/>
+    <member type="node" ref="1279173246" role="house"/>
+    <member type="way" ref="104627804" role="house"/>
+    <member type="way" ref="104292248" role="house"/>
+    <member type="way" ref="117200283" role="house"/>
+    <member type="node" ref="1320103009" role="house"/>
+    <member type="node" ref="1320103022" role="house"/>
+    <member type="way" ref="117200284" role="house"/>
+    <member type="way" ref="117200296" role="house"/>
+    <member type="way" ref="117200289" role="house"/>
+    <member type="node" ref="1320102959" role="house"/>
+    <member type="node" ref="1320102980" role="house"/>
+    <member type="way" ref="117200286" role="house"/>
+    <member type="node" ref="1320103027" role="house"/>
+    <member type="node" ref="1320103001" role="house"/>
+    <tag k="name" v="Gdańska"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+</osm>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="258507" version="1" timestamp="2009-09-19T19:08:11Z" uid="115477" user="wowik" changeset="2537902">
+    <tag k="type" v="outer"/>
+  </relation>
+  <relation id="258508" version="1" timestamp="2009-09-19T19:08:11Z" uid="115477" user="wowik" changeset="2537902">
+    <member type="way" ref="25467784" role="outer"/>
+    <member type="way" ref="41147055" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+</osm>

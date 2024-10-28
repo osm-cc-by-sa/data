@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="57041032" version="2" timestamp="2010-07-09T08:06:07Z" uid="74617" user="JohnSmith" changeset="5171412">
+    <nd ref="355798573"/>
+    <nd ref="355798574"/>
+    <nd ref="355798576"/>
+    <nd ref="355798577"/>
+    <nd ref="355798579"/>
+    <nd ref="355798580"/>
+    <nd ref="355798582"/>
+    <nd ref="355798584"/>
+    <nd ref="355798586"/>
+    <nd ref="355798570"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Pitt Way"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="57041183" version="2" timestamp="2010-07-25T08:08:14Z" uid="4467" user="Rosscoe" changeset="5309577">
+    <nd ref="712185767"/>
+    <nd ref="712182221"/>
+    <tag k="bicycle" v="designated"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="foot" v="designated"/>
+    <tag k="highway" v="path"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Leitchs Crossing"/>
+    <tag k="segregated" v="no"/>
+    <tag k="surface" v="concrete"/>
+  </way>
+  <way id="57041504" version="2" timestamp="2010-06-29T20:49:55Z" uid="74617" user="JohnSmith" changeset="5109183">
+    <nd ref="712192892"/>
+    <nd ref="712192900"/>
+    <nd ref="712192947"/>
+    <nd ref="712192899"/>
+    <nd ref="712192919"/>
+    <nd ref="712192941"/>
+    <nd ref="712192892"/>
+    <tag k="fixme" v="sport=rugby is ambiguous, see http://wiki.osm.org/wiki/Tag:sport%3Drugby for more details"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="name" v="Knysna High School"/>
+    <tag k="sport" v="rugby"/>
+  </way>
+</osm>

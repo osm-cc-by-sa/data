@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1482390" version="1" timestamp="2011-03-18T20:06:55Z" uid="115477" user="wowik" changeset="7598839">
+    <member type="way" ref="89465711" role="outer"/>
+    <member type="way" ref="104706815" role="outer"/>
+    <member type="way" ref="104706817" role="outer"/>
+    <member type="way" ref="34320750" role="outer"/>
+    <tag k="addr:housenumber" v="13 с1А"/>
+    <tag k="building" v="yes"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1482391" version="1" timestamp="2011-03-18T20:06:55Z" uid="115477" user="wowik" changeset="7598839">
+    <member type="way" ref="24673789" role="from"/>
+    <member type="way" ref="104706813" role="to"/>
+    <member type="node" ref="958197616" role="via"/>
+    <tag k="restriction" v="no_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1482392" version="1" timestamp="2011-03-18T20:06:56Z" uid="115477" user="wowik" changeset="7598839">
+    <member type="way" ref="97567680" role="outer"/>
+    <member type="way" ref="97567660" role="outer"/>
+    <member type="way" ref="34320751" role="outer"/>
+    <member type="way" ref="89465746" role=""/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="7"/>
+    <tag k="cladr:code" v="77000000000168500"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1482393" version="1" timestamp="2011-03-18T20:06:56Z" uid="115477" user="wowik" changeset="7598839">
+    <member type="way" ref="89465747" role="outer"/>
+    <member type="way" ref="104706817" role="outer"/>
+    <member type="way" ref="104706828" role="outer"/>
+    <member type="way" ref="89465705" role="outer"/>
+    <member type="way" ref="89465741" role="outer"/>
+    <member type="way" ref="89465652" role="outer"/>
+    <tag k="addr:housenumber" v="13 с1"/>
+    <tag k="building" v="yes"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1482394" version="1" timestamp="2011-03-18T20:06:57Z" uid="115477" user="wowik" changeset="7598839">
+    <member type="way" ref="89465711" role="outer"/>
+    <member type="way" ref="104706815" role="outer"/>
+    <member type="way" ref="104706817" role="outer"/>
+    <member type="way" ref="34320750" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1482501" version="1" timestamp="2011-03-18T21:23:18Z" uid="9581" user="Lobelt" changeset="7599557">
+    <member type="way" ref="104715170" role="inner"/>
+    <member type="way" ref="4090261" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1482610" version="1" timestamp="2011-03-18T22:36:23Z" uid="7617" user="Franc" changeset="7600161">
+    <member type="way" ref="45397054" role="from"/>
+    <member type="way" ref="45397052" role="to"/>
+    <member type="node" ref="577292478" role="via"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1482611" version="1" timestamp="2011-03-18T22:36:23Z" uid="7617" user="Franc" changeset="7600161">
+    <member type="way" ref="45397052" role="from"/>
+    <member type="way" ref="45397054" role="to"/>
+    <member type="node" ref="577292481" role="via"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+</osm>

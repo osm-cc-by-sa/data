@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1588301" version="1" timestamp="2011-05-15T23:02:33Z" uid="16922" user="amai" changeset="8158028">
+    <member type="way" ref="113525216" role="inner"/>
+    <member type="way" ref="106950816" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1588540" version="1" timestamp="2011-05-16T09:19:16Z" uid="33382" user="de_muur" changeset="8160533">
+    <member type="node" ref="980128387" role=""/>
+    <member type="way" ref="42790961" role=""/>
+    <member type="way" ref="42790962" role=""/>
+    <member type="way" ref="113553778" role=""/>
+    <tag k="name" v="Lehmrade - Ratzeburg"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1588541" version="1" timestamp="2011-05-16T09:19:16Z" uid="33382" user="de_muur" changeset="8160533">
+    <member type="node" ref="1287564267" role=""/>
+    <member type="way" ref="25039658" role=""/>
+    <member type="node" ref="980114262" role=""/>
+    <tag k="name" v="Lehmrade - Sterley"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1588554" version="1" timestamp="2011-05-16T09:35:09Z" uid="33382" user="de_muur" changeset="8160650">
+    <member type="node" ref="718853938" role=""/>
+    <member type="way" ref="113554385" role=""/>
+    <member type="way" ref="28078675" role=""/>
+    <member type="way" ref="28078606" role=""/>
+    <member type="way" ref="113554607" role=""/>
+    <member type="node" ref="1287571236" role=""/>
+    <tag k="name" v="Güster - Mölln"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1588703" version="1" timestamp="2011-05-16T13:37:48Z" uid="74617" user="JohnSmith" changeset="8162576">
+    <member type="way" ref="113569556" role="outer"/>
+    <member type="way" ref="113569554" role="outer"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="cricket"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1588703" version="2" timestamp="2011-05-16T13:39:43Z" uid="74617" user="JohnSmith" changeset="8162597">
+    <member type="way" ref="113569556" role="outer"/>
+    <member type="way" ref="113569554" role="outer"/>
+    <tag k="barrier" v="fence"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="cricket"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1588704" version="1" timestamp="2011-05-16T13:37:49Z" uid="74617" user="JohnSmith" changeset="8162576">
+    <member type="way" ref="113569552" role="outer"/>
+    <member type="way" ref="113569554" role="outer"/>
+    <member type="way" ref="113569557" role="outer"/>
+    <member type="way" ref="113569542" role="outer"/>
+    <tag k="landuse" v="recreation_ground"/>
+    <tag k="name" v="Warialda Show Ground"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1588704" version="2" timestamp="2011-05-16T13:39:43Z" uid="74617" user="JohnSmith" changeset="8162597">
+    <member type="way" ref="113569552" role="outer"/>
+    <member type="way" ref="113569554" role="outer"/>
+    <member type="way" ref="113569557" role="outer"/>
+    <member type="way" ref="113569542" role="outer"/>
+    <tag k="barrier" v="fence"/>
+    <tag k="landuse" v="recreation_ground"/>
+    <tag k="name" v="Warialda Show Ground"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1588705" version="1" timestamp="2011-05-16T13:37:49Z" uid="74617" user="JohnSmith" changeset="8162576">
+    <member type="way" ref="113569543" role="outer"/>
+    <member type="way" ref="113569542" role="outer"/>
+    <tag k="man_made" v="wastewater_plant"/>
+    <tag k="source" v="bing"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1588705" version="2" timestamp="2011-05-16T13:39:42Z" uid="74617" user="JohnSmith" changeset="8162597">
+    <member type="way" ref="113569543" role="outer"/>
+    <member type="way" ref="113569542" role="outer"/>
+    <tag k="barrier" v="fence"/>
+    <tag k="man_made" v="wastewater_plant"/>
+    <tag k="source" v="bing"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1588751" version="1" timestamp="2011-05-16T14:38:21Z" uid="74617" user="JohnSmith" changeset="8163109">
+    <member type="way" ref="113567725" role="member"/>
+    <member type="way" ref="105252710" role="member"/>
+    <member type="way" ref="105252713" role="member"/>
+    <member type="way" ref="35424263" role="member"/>
+    <tag k="network" v="S"/>
+    <tag k="ref" v="95"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+</osm>

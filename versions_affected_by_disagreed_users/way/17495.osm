@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="17495703" version="8" timestamp="2011-05-11T04:42:19Z" uid="74617" user="JohnSmith" changeset="8108429">
+    <nd ref="105542393"/>
+    <nd ref="598797710"/>
+    <nd ref="105542415"/>
+    <nd ref="1280002103"/>
+    <nd ref="105542419"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="Marius Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="17495829" version="3" timestamp="2010-07-07T07:39:43Z" uid="74617" user="JohnSmith" changeset="5156250">
+    <nd ref="105542379"/>
+    <nd ref="616238715"/>
+    <nd ref="181177398"/>
+    <nd ref="181177401"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Bourke Street"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="17495954" version="5" timestamp="2010-02-14T17:09:00Z" uid="74617" user="JohnSmith" changeset="3875836">
+    <nd ref="181179229"/>
+    <nd ref="181179413"/>
+    <nd ref="181179690"/>
+    <tag k="cycleway" v="track"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="cycleway"/>
+  </way>
+  <way id="17495973" version="4" timestamp="2010-02-14T17:09:01Z" uid="74617" user="JohnSmith" changeset="3875836">
+    <nd ref="181193083"/>
+    <nd ref="181058875"/>
+    <nd ref="181179690"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Myrtle Street"/>
+  </way>
+</osm>

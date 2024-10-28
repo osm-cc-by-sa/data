@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1475216" version="1" timestamp="2011-03-14T18:08:06Z" uid="96874" user="Quedel" changeset="7559119">
+    <member type="way" ref="27112124" role="from"/>
+    <member type="way" ref="26477078" role="to"/>
+    <member type="node" ref="290174301" role="via"/>
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1475303" version="1" timestamp="2011-03-14T19:47:26Z" uid="33382" user="de_muur" changeset="7560133">
+    <member type="node" ref="813519295" role=""/>
+    <member type="way" ref="11955574" role=""/>
+    <member type="way" ref="104169267" role=""/>
+    <member type="node" ref="1202015105" role=""/>
+    <tag k="name" v="Hoya - Verden"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1475303" version="2" timestamp="2011-03-15T20:03:39Z" uid="33382" user="de_muur" changeset="7569785">
+    <member type="node" ref="813519295" role=""/>
+    <member type="way" ref="11955574" role=""/>
+    <member type="way" ref="104169267" role=""/>
+    <member type="node" ref="1202015105" role=""/>
+    <member type="way" ref="18817937" role=""/>
+    <tag k="name" v="Hoya - Verden"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1475308" version="1" timestamp="2011-03-14T19:55:38Z" uid="33382" user="de_muur" changeset="7560218">
+    <member type="node" ref="1202015105" role=""/>
+    <member type="way" ref="24949029" role=""/>
+    <member type="way" ref="5228588" role=""/>
+    <tag k="name" v="Martfeld - Verden"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1475309" version="1" timestamp="2011-03-14T19:55:38Z" uid="33382" user="de_muur" changeset="7560218">
+    <member type="node" ref="1134223525" role=""/>
+    <member type="way" ref="104171096" role=""/>
+    <member type="way" ref="5031672" role=""/>
+    <tag k="name" v="Martfeld - Verden"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Diepholz"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1475775" version="1" timestamp="2011-03-14T23:40:33Z" uid="66036" user="h4v" changeset="7562381">
+    <member type="way" ref="103656387" role="outer"/>
+    <member type="way" ref="104204984" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1475776" version="1" timestamp="2011-03-14T23:40:34Z" uid="66036" user="h4v" changeset="7562381">
+    <member type="way" ref="103526300" role="outer"/>
+    <member type="way" ref="103526302" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1475777" version="1" timestamp="2011-03-14T23:40:34Z" uid="66036" user="h4v" changeset="7562381">
+    <member type="way" ref="103526306" role="outer"/>
+    <member type="way" ref="103526312" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1475778" version="1" timestamp="2011-03-14T23:40:34Z" uid="66036" user="h4v" changeset="7562381">
+    <member type="way" ref="103526317" role="outer"/>
+    <member type="way" ref="103526301" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+</osm>

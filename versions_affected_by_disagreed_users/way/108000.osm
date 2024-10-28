@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="108000100" version="1" timestamp="2011-04-10T15:27:20Z" uid="66036" user="h4v" changeset="7824007">
+    <nd ref="1239943011"/>
+    <nd ref="347384712"/>
+    <nd ref="347384716"/>
+    <nd ref="272713198"/>
+    <nd ref="1149862000"/>
+    <nd ref="272713199"/>
+    <nd ref="272713200"/>
+    <nd ref="1096199742"/>
+    <nd ref="1073861984"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="E 65"/>
+    <tag k="lanes" v="2"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="S3"/>
+    <tag k="url" v="http://www.skyscrapercity.com/showthread.php?t=167702"/>
+  </way>
+  <way id="108000101" version="1" timestamp="2011-04-10T15:27:21Z" uid="66036" user="h4v" changeset="7824007">
+    <nd ref="1239943013"/>
+    <nd ref="1239943011"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="E 65"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="S3"/>
+    <tag k="url" v="http://www.skyscrapercity.com/showthread.php?t=167702"/>
+  </way>
+  <way id="108000102" version="1" timestamp="2011-04-10T15:27:21Z" uid="66036" user="h4v" changeset="7824007">
+    <nd ref="1239943010"/>
+    <nd ref="347384754"/>
+    <nd ref="347384752"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="E 65"/>
+    <tag k="ref" v="S3"/>
+    <tag k="source" v="UMP-PL, ./UMP-GorzowWlkp/src/GORZOW_WIELKOPOLSKI.ulice.txt"/>
+  </way>
+  <way id="108000103" version="1" timestamp="2011-04-10T15:27:21Z" uid="66036" user="h4v" changeset="7824007">
+    <nd ref="1239943015"/>
+    <nd ref="1239943012"/>
+    <tag k="addr:inclusion" v="actual"/>
+    <tag k="addr:interpolation" v="odd"/>
+  </way>
+  <way id="108000104" version="1" timestamp="2011-04-10T15:27:21Z" uid="66036" user="h4v" changeset="7824007">
+    <nd ref="1239943016"/>
+    <nd ref="1239943010"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="E 65"/>
+    <tag k="layer" v="1"/>
+    <tag k="ref" v="S3"/>
+    <tag k="source" v="UMP-PL, ./UMP-GorzowWlkp/src/GORZOW_WIELKOPOLSKI.ulice.txt"/>
+  </way>
+</osm>

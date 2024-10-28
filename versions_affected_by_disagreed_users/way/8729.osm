@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="8729373" version="3" timestamp="2008-09-22T03:44:04Z" uid="30201" user="rrankin" changeset="678141">
+    <nd ref="20979881"/>
+    <nd ref="62539556"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Hall Street"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="8729373" version="4" timestamp="2010-07-07T21:51:40Z" uid="74617" user="JohnSmith" changeset="5161069">
+    <nd ref="20979881"/>
+    <nd ref="62539556"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Hall Street"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="8729503" version="3" timestamp="2010-07-09T02:56:38Z" uid="74617" user="JohnSmith" changeset="5170739">
+    <nd ref="62569308"/>
+    <nd ref="62569310"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Parry Street"/>
+    <tag k="source" v="Yahoo"/>
+    <tag k="source:name" v="Collins 1936"/>
+  </way>
+</osm>

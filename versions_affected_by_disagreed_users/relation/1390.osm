@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1390126" version="1" timestamp="2011-01-24T01:18:55Z" uid="20587" user="balrog-kun" changeset="7069126">
+    <member type="way" ref="88183933" role="outer"/>
+    <member type="way" ref="88183939" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1390127" version="1" timestamp="2011-01-24T01:18:55Z" uid="20587" user="balrog-kun" changeset="7069126">
+    <member type="way" ref="28841772" role="outer"/>
+    <member type="way" ref="96507692" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1390128" version="1" timestamp="2011-01-24T01:18:55Z" uid="20587" user="balrog-kun" changeset="7069126">
+    <member type="way" ref="56174648" role="outer"/>
+    <member type="way" ref="96507705" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1390129" version="1" timestamp="2011-01-24T01:18:55Z" uid="20587" user="balrog-kun" changeset="7069126">
+    <member type="way" ref="88187310" role="outer"/>
+    <member type="way" ref="88187320" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1390826" version="1" timestamp="2011-01-24T13:24:00Z" uid="115477" user="wowik" changeset="7072981">
+    <member type="way" ref="47576102" role="outer"/>
+    <member type="way" ref="96576791" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1390826" version="2" timestamp="2011-04-01T17:48:29Z" uid="115477" user="wowik" changeset="7737524">
+    <member type="way" ref="47576102" role="outer"/>
+    <member type="way" ref="96576791" role="outer"/>
+    <tag k="type" v="building"/>
+  </relation>
+  <relation id="1390826" version="3" timestamp="2011-05-04T14:14:31Z" uid="115477" user="wowik" changeset="8049379">
+    <member type="way" ref="47576102" role="outer"/>
+    <member type="way" ref="96576791" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1390828" version="1" timestamp="2011-01-24T13:27:26Z" uid="115477" user="wowik" changeset="7073020">
+    <member type="way" ref="85146472" role="outer"/>
+    <member type="way" ref="47576105" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1390828" version="2" timestamp="2011-04-01T17:48:22Z" uid="115477" user="wowik" changeset="7737524">
+    <member type="way" ref="85146472" role="outer"/>
+    <member type="way" ref="47576105" role="outer"/>
+    <tag k="type" v="building"/>
+  </relation>
+  <relation id="1390828" version="3" timestamp="2011-05-04T14:14:32Z" uid="115477" user="wowik" changeset="8049379">
+    <member type="way" ref="85146472" role="outer"/>
+    <member type="way" ref="47576105" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1390894" version="1" timestamp="2011-01-24T14:54:57Z" uid="20587" user="balrog-kun" changeset="7073235">
+    <member type="node" ref="32912944" role="via"/>
+    <member type="way" ref="96584859" role="from"/>
+    <member type="way" ref="4968734" role="to"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1390895" version="1" timestamp="2011-01-24T14:54:57Z" uid="20587" user="balrog-kun" changeset="7073235">
+    <member type="node" ref="32912951" role="via"/>
+    <member type="way" ref="96584850" role="to"/>
+    <member type="way" ref="85686071" role="from"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1390896" version="1" timestamp="2011-01-24T14:54:58Z" uid="20587" user="balrog-kun" changeset="7073235">
+    <member type="way" ref="96584852" role="from"/>
+    <member type="node" ref="32598967" role="via"/>
+    <member type="way" ref="4990553" role="to"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+</osm>

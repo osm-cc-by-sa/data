@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1018576" version="1" timestamp="2010-06-29T02:54:01Z" uid="244897" user="M526244" changeset="5102920">
+    <member type="way" ref="64884461" role="member"/>
+    <member type="way" ref="36953593" role="member"/>
+    <tag k="collection" v="waterway"/>
+    <tag k="name" v="Jiggi Creek"/>
+    <tag k="type" v="collection"/>
+  </relation>
+  <relation id="1018576" version="2" timestamp="2010-07-08T01:55:03Z" uid="244897" user="M526244" changeset="5162996">
+    <member type="way" ref="64884461" role="member"/>
+    <member type="way" ref="36953597" role="member"/>
+    <tag k="collection" v="waterway"/>
+    <tag k="name" v="Jiggi Creek"/>
+    <tag k="type" v="collection"/>
+  </relation>
+  <relation id="1018995" version="1" timestamp="2010-06-29T07:58:33Z" uid="38528" user="acrosscanadatrails" changeset="5103690">
+    <member type="way" ref="64897917" role="outer"/>
+    <member type="way" ref="64897908" role="outer"/>
+    <member type="way" ref="64897922" role="outer"/>
+    <member type="way" ref="64897914" role="outer"/>
+    <member type="way" ref="64897934" role="outer"/>
+    <member type="way" ref="64897920" role="outer"/>
+    <member type="way" ref="64897912" role="outer"/>
+    <member type="way" ref="64897928" role="outer"/>
+    <member type="way" ref="64897915" role="outer"/>
+    <member type="way" ref="64897921" role="inner"/>
+    <tag k="FIXME" v="the name needs to be lowercase"/>
+    <tag k="addr:province" v="Ontario"/>
+    <tag k="attribution" v="Ontario Ministry of Natural Resources"/>
+    <tag k="boundary" v="national_park"/>
+    <tag k="boundary:type" v="Waterway"/>
+    <tag k="date:protected" v="2003"/>
+    <tag k="is_in:zone" v="NORTHWEST"/>
+    <tag k="leisure" v="nature_reserve"/>
+    <tag k="name" v="East English River Provincial Park (WATERWAY CLASS)"/>
+    <tag k="name:short" v="EAST ENGLISH RIVER"/>
+    <tag k="operator" v="Ontario Parks"/>
+    <tag k="operator:url" v="www.ontarioparks.com/english/"/>
+    <tag k="source" v="Land Information Ontario"/>
+    <tag k="source:type" v="Provincial Park"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+</osm>

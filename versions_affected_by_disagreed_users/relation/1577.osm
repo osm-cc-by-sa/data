@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1577057" version="1" timestamp="2011-05-08T11:01:13Z" uid="9581" user="Lobelt" changeset="8081341">
+    <member type="way" ref="4760169" role="outer"/>
+    <member type="way" ref="104408964" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1577101" version="1" timestamp="2011-05-08T12:26:18Z" uid="66036" user="h4v" changeset="8082067">
+    <member type="way" ref="40499030" role="street"/>
+    <member type="way" ref="112319073" role="house"/>
+    <member type="node" ref="1276978535" role="house"/>
+    <member type="node" ref="1276978382" role="house"/>
+    <tag k="name" v="Podgórna"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+</osm>

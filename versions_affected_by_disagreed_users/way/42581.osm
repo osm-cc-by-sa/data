@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="42581501" version="4" timestamp="2010-03-07T10:35:37Z" uid="58091" user="Andreas M" changeset="4059302">
+    <nd ref="78464837"/>
+    <nd ref="78464836"/>
+    <nd ref="78464835"/>
+    <tag k="highway" v="primary"/>
+    <tag k="is_in:city" v="Zistersdorf"/>
+    <tag k="is_in:country_code" v="AT"/>
+    <tag k="name" v="Umfahrungsstraße"/>
+    <tag k="postal_code" v="2225"/>
+    <tag k="ref" v="B40"/>
+  </way>
+  <way id="42581510" version="5" timestamp="2010-03-07T10:35:38Z" uid="58091" user="Andreas M" changeset="4059302">
+    <nd ref="78464838"/>
+    <nd ref="78464837"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="is_in:city" v="Zistersdorf"/>
+    <tag k="is_in:country_code" v="AT"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Umfahrungsstraße"/>
+    <tag k="postal_code" v="2225"/>
+    <tag k="ref" v="B40"/>
+  </way>
+  <way id="42581590" version="6" timestamp="2010-03-07T10:35:39Z" uid="58091" user="Andreas M" changeset="4059302">
+    <nd ref="531989431"/>
+    <nd ref="31899522"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="is_in:city" v="Zistersdorf"/>
+    <tag k="is_in:country_code" v="AT"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Bahnstraße"/>
+    <tag k="postal_code" v="2225"/>
+    <tag k="ref" v="L 16"/>
+  </way>
+  <way id="42581603" version="6" timestamp="2010-03-07T10:35:38Z" uid="58091" user="Andreas M" changeset="4059302">
+    <nd ref="31899522"/>
+    <nd ref="600773028"/>
+    <nd ref="321710491"/>
+    <nd ref="333770462"/>
+    <nd ref="31899519"/>
+    <nd ref="31443143"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="is_in:city" v="Zistersdorf"/>
+    <tag k="is_in:country_code" v="AT"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Bahnstraße"/>
+    <tag k="postal_code" v="2225"/>
+    <tag k="ref" v="L 16"/>
+  </way>
+</osm>

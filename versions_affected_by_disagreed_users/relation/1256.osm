@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1256371" version="1" timestamp="2010-11-05T09:35:59Z" uid="7617" user="Franc" changeset="6293977">
+    <member type="way" ref="24294723" role="from"/>
+    <member type="way" ref="45466038" role="to"/>
+    <member type="node" ref="263078536" role="via"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1256372" version="1" timestamp="2010-11-05T09:36:00Z" uid="7617" user="Franc" changeset="6293977">
+    <member type="way" ref="45466038" role="from"/>
+    <member type="way" ref="24294723" role="to"/>
+    <member type="node" ref="263078539" role="via"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1256819" version="1" timestamp="2010-11-05T12:35:04Z" uid="33382" user="de_muur" changeset="6294903">
+    <member type="node" ref="937028112" role=""/>
+    <member type="way" ref="80280797" role=""/>
+    <member type="way" ref="84009503" role=""/>
+    <member type="way" ref="35722584" role=""/>
+    <member type="way" ref="37917309" role=""/>
+    <member type="node" ref="977463729" role=""/>
+    <tag k="name" v="Mölln - Nusse"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+</osm>

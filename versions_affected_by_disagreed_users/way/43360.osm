@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="43360075" version="1" timestamp="2009-10-30T05:22:14Z" uid="38528" user="acrosscanadatrails" changeset="2986712">
+    <nd ref="545599986"/>
+    <nd ref="545599989"/>
+    <nd ref="545599991"/>
+    <nd ref="545599993"/>
+    <nd ref="545599986"/>
+    <tag k="amenity" v="bus_station"/>
+    <tag k="name" v="Port Alberni Bus Depot"/>
+  </way>
+  <way id="43360076" version="1" timestamp="2009-10-30T05:22:14Z" uid="38528" user="acrosscanadatrails" changeset="2986712">
+    <nd ref="545599997"/>
+    <nd ref="545599995"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="-1"/>
+    <tag k="service" v="parking_aisle"/>
+    <tag k="surface" v="gravel"/>
+  </way>
+  <way id="43360173" version="2" timestamp="2010-04-04T01:34:57Z" uid="20587" user="balrog-kun" changeset="4318136">
+    <nd ref="55845862"/>
+    <nd ref="55770269"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="South 25th Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="El Paso, CO"/>
+    <tag k="tiger:name_base" v="25th"/>
+    <tag k="tiger:name_direction_prefix" v="S"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="105507159:105507161:105507162:105507165:105507167"/>
+    <tag k="tiger:zip_left" v="80904"/>
+    <tag k="tiger:zip_right" v="80904"/>
+  </way>
+  <way id="43360374" version="1" timestamp="2009-10-30T05:28:19Z" uid="38528" user="acrosscanadatrails" changeset="2986725">
+    <nd ref="545605006"/>
+    <nd ref="545605007"/>
+    <nd ref="545605008"/>
+    <nd ref="545605009"/>
+    <nd ref="545605006"/>
+    <tag k="FIXME" v="park boundaries need to be fixed"/>
+    <tag k="leisure" v="nature_reserve"/>
+    <tag k="name" v="MacMillan Provincial Park"/>
+    <tag k="note" v="This park boundary might be available from Canada Import Data"/>
+  </way>
+  <way id="43360815" version="2" timestamp="2010-04-04T01:34:58Z" uid="20587" user="balrog-kun" changeset="4318136">
+    <nd ref="55745796"/>
+    <nd ref="55745798"/>
+    <nd ref="55745800"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="West Cimarron Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="El Paso, CO"/>
+    <tag k="tiger:name_base" v="Cimarron"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="105513748:105550736:105513752"/>
+    <tag k="tiger:zip_left" v="80905"/>
+    <tag k="tiger:zip_right" v="80905"/>
+  </way>
+  <way id="43360816" version="3" timestamp="2010-04-04T01:34:58Z" uid="20587" user="balrog-kun" changeset="4318136">
+    <nd ref="545615339"/>
+    <nd ref="55749708"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="United States Highway 24"/>
+    <tag k="name_1" v="State Highway 4"/>
+    <tag k="name_2" v="Midland Expressway"/>
+    <tag k="ref" v="US 24"/>
+    <tag k="tiger:cfcc" v="A21"/>
+    <tag k="tiger:county" v="El Paso, CO"/>
+    <tag k="tiger:name_base" v="United States Highway 24"/>
+    <tag k="tiger:name_base_1" v="State Highway 4"/>
+    <tag k="tiger:name_base_2" v="Midland"/>
+    <tag k="tiger:name_type_2" v="Expy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="105507224:105507227:105507237:105513259:105545403:105507082:105568716:105513356"/>
+  </way>
+</osm>

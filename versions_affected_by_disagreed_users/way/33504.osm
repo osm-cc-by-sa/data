@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="33504048" version="1" timestamp="2009-04-23T07:27:30Z" uid="7617" user="Franc" changeset="909532">
+    <nd ref="381911618"/>
+    <nd ref="381911619"/>
+    <nd ref="381911620"/>
+    <nd ref="381911621"/>
+    <nd ref="381911622"/>
+    <nd ref="381911623"/>
+    <nd ref="381911618"/>
+    <tag k="amenity" v="school"/>
+    <tag k="note" v="discovered while mapping, bounds from yahoo"/>
+    <tag k="source" v="mixed"/>
+  </way>
+  <way id="33504262" version="3" timestamp="2011-02-21T18:55:52Z" uid="49111" user="Markus B" changeset="7356787">
+    <nd ref="381913591"/>
+    <nd ref="381910512"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="33504685" version="2" timestamp="2009-07-11T11:58:01Z" uid="4467" user="Rosscoe" changeset="1796426">
+    <nd ref="381921367"/>
+    <nd ref="381921368"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="33504689" version="2" timestamp="2009-07-11T11:58:01Z" uid="4467" user="Rosscoe" changeset="1796426">
+    <nd ref="381921389"/>
+    <nd ref="381921390"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="33504708" version="1" timestamp="2009-04-23T07:54:40Z" uid="30632" user="antblant" changeset="909770">
+    <nd ref="365746747"/>
+    <nd ref="381921550"/>
+    <tag k="admin_level" v="4"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 22:10:14 03/25/09 (granice/KOSZALIN.granice.txt)"/>
+  </way>
+  <way id="33504708" version="2" timestamp="2009-04-23T09:46:32Z" uid="30632" user="antblant" changeset="910050">
+    <nd ref="381921550"/>
+    <nd ref="365758933"/>
+    <tag k="admin_level" v="4"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 22:10:14 03/25/09 (granice/KOSZALIN.granice.txt)"/>
+  </way>
+  <way id="33504708" version="3" timestamp="2009-04-23T09:46:56Z" uid="30632" user="antblant" changeset="910050">
+    <nd ref="381921550"/>
+    <nd ref="365758933"/>
+    <tag k="admin_level" v="4"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="left:province" v="województwo zachodniopomorskie"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 22:10:14 03/25/09 (granice/KOSZALIN.granice.txt)"/>
+  </way>
+  <way id="33504708" version="4" timestamp="2009-04-23T09:47:13Z" uid="30632" user="antblant" changeset="910050">
+    <nd ref="365758933"/>
+    <nd ref="381921550"/>
+    <tag k="admin_level" v="4"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="left:province" v="województwo zachodniopomorskie"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 22:10:14 03/25/09 (granice/KOSZALIN.granice.txt)"/>
+  </way>
+  <way id="33504708" version="5" timestamp="2009-08-31T20:44:09Z" uid="20587" user="balrog-kun" changeset="2331462">
+    <nd ref="365758933"/>
+    <nd ref="381921550"/>
+    <tag k="admin_level" v="4"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="left:province" v="województwo zachodniopomorskie"/>
+    <tag k="name" v="Pomorskie - Zachodniopomorskie"/>
+    <tag k="right:province" v="województwo pomorskie"/>
+  </way>
+  <way id="33504715" version="1" timestamp="2009-04-23T09:32:21Z" uid="30632" user="antblant" changeset="909791">
+    <nd ref="254059770"/>
+    <nd ref="254063392"/>
+    <nd ref="254063394"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="UMP-PL, ./UMP-Szczecin/src/SZCZECIN.ulice.txt"/>
+  </way>
+  <way id="33504715" version="2" timestamp="2009-11-03T02:10:35Z" uid="36809" user="pfoten_weg_!_" changeset="3021530">
+    <nd ref="254059770"/>
+    <nd ref="254063392"/>
+    <nd ref="254063394"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="UMP-PL, ./UMP-Szczecin/src/SZCZECIN.ulice.txt"/>
+  </way>
+  <way id="33504716" version="1" timestamp="2009-04-23T09:32:21Z" uid="30632" user="antblant" changeset="909791">
+    <nd ref="381921608"/>
+    <nd ref="381921606"/>
+    <nd ref="381921602"/>
+    <nd ref="254059770"/>
+    <tag k="railway" v="tram"/>
+  </way>
+</osm>

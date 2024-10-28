@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1614031" version="1" timestamp="2011-06-06T12:39:43Z" uid="115477" user="wowik" changeset="8359850">
+    <member type="way" ref="32954560" role="from"/>
+    <member type="node" ref="849289549" role="via"/>
+    <member type="way" ref="116536200" role="to"/>
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1614048" version="1" timestamp="2011-06-06T13:23:40Z" uid="115477" user="wowik" changeset="8359637">
+    <member type="way" ref="116597992" role="outer"/>
+    <member type="way" ref="116597990" role="inner"/>
+    <member type="way" ref="116597989" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1614063" version="1" timestamp="2011-06-06T13:46:19Z" uid="66036" user="h4v" changeset="8360480">
+    <member type="way" ref="33234834" role="street"/>
+    <member type="way" ref="116600817" role="house"/>
+    <member type="node" ref="1314105031" role="house"/>
+    <member type="node" ref="1314105047" role="house"/>
+    <tag k="name" v="Rataja"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1614064" version="1" timestamp="2011-06-06T13:46:19Z" uid="66036" user="h4v" changeset="8360480">
+    <member type="way" ref="70979182" role="street"/>
+    <member type="way" ref="116600829" role="house"/>
+    <member type="node" ref="1314105019" role="house"/>
+    <member type="node" ref="1314105039" role="house"/>
+    <tag k="name" v="Gerberowa"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1614065" version="1" timestamp="2011-06-06T13:46:19Z" uid="66036" user="h4v" changeset="8360480">
+    <member type="way" ref="38290327" role="street"/>
+    <member type="way" ref="116600823" role="house"/>
+    <member type="node" ref="1314105001" role="house"/>
+    <member type="node" ref="1314104994" role="house"/>
+    <tag k="name" v="Gałkówek-Kolonia"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1614066" version="1" timestamp="2011-06-06T13:46:20Z" uid="66036" user="h4v" changeset="8360480">
+    <member type="way" ref="35158416" role="street"/>
+    <member type="way" ref="116600833" role="house"/>
+    <member type="node" ref="1314105061" role="house"/>
+    <member type="node" ref="1314105074" role="house"/>
+    <member type="way" ref="116600819" role="house"/>
+    <member type="node" ref="1314105021" role="house"/>
+    <member type="node" ref="1314105082" role="house"/>
+    <member type="node" ref="1314105035" role="house"/>
+    <tag k="name" v="Kosodrzewiny"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1614067" version="1" timestamp="2011-06-06T13:46:20Z" uid="66036" user="h4v" changeset="8360480">
+    <member type="way" ref="70979184" role="street"/>
+    <member type="way" ref="116600824" role="house"/>
+    <member type="node" ref="1314105070" role="house"/>
+    <member type="node" ref="1314105063" role="house"/>
+    <tag k="name" v="Solecka"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1614068" version="1" timestamp="2011-06-06T13:46:20Z" uid="66036" user="h4v" changeset="8360480">
+    <member type="way" ref="110796616" role="street"/>
+    <member type="way" ref="116600827" role="house"/>
+    <member type="node" ref="1314105072" role="house"/>
+    <member type="node" ref="1314105086" role="house"/>
+    <member type="way" ref="116600832" role="house"/>
+    <member type="node" ref="1314105014" role="house"/>
+    <member type="node" ref="1314105036" role="house"/>
+    <member type="way" ref="116600826" role="house"/>
+    <member type="node" ref="1314105068" role="house"/>
+    <member type="node" ref="1314105042" role="house"/>
+    <member type="way" ref="116600814" role="house"/>
+    <member type="node" ref="1314105062" role="house"/>
+    <member type="node" ref="1314105077" role="house"/>
+    <tag k="name" v="Malownicza"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1614165" version="1" timestamp="2011-06-06T15:23:26Z" uid="33382" user="de_muur" changeset="8361267">
+    <member type="node" ref="1314192361" role=""/>
+    <member type="way" ref="33962926" role=""/>
+    <member type="node" ref="1314192362" role=""/>
+    <tag k="name" v="Elbe-Lübeck-Kanal - Woltersdorf"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1614268" version="1" timestamp="2011-06-06T17:53:18Z" uid="33382" user="de_muur" changeset="8362601">
+    <member type="node" ref="804655130" role=""/>
+    <member type="way" ref="116610370" role=""/>
+    <member type="way" ref="116624525" role=""/>
+    <member type="node" ref="1314324937" role=""/>
+    <tag k="name" v="Lauenburg/Elbe - Lübeck"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1614292" version="1" timestamp="2011-06-06T18:07:46Z" uid="33382" user="de_muur" changeset="8362744">
+    <member type="node" ref="1314324937" role=""/>
+    <member type="way" ref="37842239" role=""/>
+    <member type="way" ref="116625276" role=""/>
+    <member type="node" ref="1314331628" role=""/>
+    <tag k="name" v="Lauenburg - Lübeck"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1614292" version="2" timestamp="2011-06-07T16:26:13Z" uid="33382" user="de_muur" changeset="8371617">
+    <member type="node" ref="1314324937" role=""/>
+    <member type="way" ref="37842239" role=""/>
+    <member type="way" ref="116625276" role=""/>
+    <member type="node" ref="1314331628" role=""/>
+    <member type="way" ref="33602551" role=""/>
+    <member type="way" ref="48410389" role=""/>
+    <member type="node" ref="978264275" role=""/>
+    <tag k="name" v="Lauenburg - Lübeck"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+</osm>

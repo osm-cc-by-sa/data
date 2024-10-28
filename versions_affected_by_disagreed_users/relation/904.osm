@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="904061" version="2" timestamp="2010-07-04T13:51:34Z" uid="8619" user="cetest" changeset="5133097">
+    <member type="way" ref="24455730" role=""/>
+    <member type="way" ref="24455731" role=""/>
+    <member type="way" ref="7446035" role=""/>
+    <member type="way" ref="7446045" role=""/>
+    <member type="way" ref="7446036" role=""/>
+    <member type="way" ref="7446017" role=""/>
+    <tag k="name" v="Haaglanden 93-94"/>
+    <tag k="network" v="rcn"/>
+    <tag k="note" v="93-94"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="904333" version="1" timestamp="2010-05-07T01:23:02Z" uid="20587" user="balrog-kun" changeset="4626670">
+    <member type="way" ref="58471947" role="inner"/>
+    <member type="way" ref="58471696" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="904578" version="1" timestamp="2010-05-07T13:13:26Z" uid="74617" user="JohnSmith" changeset="4629841">
+    <member type="way" ref="58509610" role="inner"/>
+    <member type="way" ref="56117394" role="outer"/>
+    <tag k="boundary" v="nearmap"/>
+    <tag k="hires" v="yes"/>
+    <tag k="name" v="Melbourne;Geelong;South-Central NSW Area;Central Victoria Area"/>
+    <tag k="note" v="Edge of NearMap high-resoultion imagery."/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="904807" version="1" timestamp="2010-05-07T19:11:10Z" uid="151899" user="Bikeman2000" changeset="4632894">
+    <member type="way" ref="58534558" role="outer"/>
+    <member type="way" ref="58534561" role="inner"/>
+    <member type="way" ref="58534557" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+</osm>

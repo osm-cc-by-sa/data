@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="22393111" version="6" timestamp="2008-07-12T06:57:18Z" uid="27600" user="Islanit" changeset="469615">
+    <nd ref="240521430"/>
+    <nd ref="260125008"/>
+    <nd ref="240521431"/>
+    <tag k="created_by" v="Potlatch 0.9c"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="Bergedorfer Straße"/>
+    <tag k="oneway" v="true"/>
+    <tag k="ref" v="B 5"/>
+  </way>
+  <way id="22393111" version="7" timestamp="2008-07-16T18:48:19Z" uid="27600" user="Islanit" changeset="507826">
+    <nd ref="240521430"/>
+    <nd ref="260125008"/>
+    <nd ref="240521431"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="created_by" v="Potlatch 0.9c"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="Bergedorfer Straße"/>
+    <tag k="oneway" v="true"/>
+    <tag k="ref" v="B 5"/>
+  </way>
+  <way id="22393111" version="9" timestamp="2008-11-11T11:55:17Z" uid="27600" user="Islanit" changeset="735004">
+    <nd ref="240521430"/>
+    <nd ref="311288914"/>
+    <nd ref="260125008"/>
+    <nd ref="240521431"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="Bergedorfer Straße"/>
+    <tag k="oneway" v="true"/>
+    <tag k="ref" v="B 5"/>
+  </way>
+  <way id="22393112" version="8" timestamp="2008-07-16T18:48:19Z" uid="27600" user="Islanit" changeset="507826">
+    <nd ref="93117141"/>
+    <nd ref="260125902"/>
+    <nd ref="93117121"/>
+    <nd ref="260126332"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="created_by" v="Potlatch 0.9c"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="Bergedorfer Straße"/>
+    <tag k="oneway" v="true"/>
+    <tag k="ref" v="B 5"/>
+  </way>
+  <way id="22393113" version="2" timestamp="2008-09-05T10:53:11Z" uid="1066" user="pavel" changeset="539695">
+    <nd ref="61311939"/>
+    <nd ref="240781528"/>
+    <tag k="created_by" v="Potlatch 0.6c"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Olešnická"/>
+    <tag k="name:source" v="nameit/uir-adr"/>
+  </way>
+  <way id="22393124" version="3" timestamp="2008-09-05T10:54:15Z" uid="1066" user="pavel" changeset="539695">
+    <nd ref="240781783"/>
+    <nd ref="240781871"/>
+    <tag k="created_by" v="Potlatch 0.6c"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Bousovská"/>
+    <tag k="name:source" v="nameit/uir-adr"/>
+  </way>
+  <way id="22393146" version="2" timestamp="2008-09-05T10:55:20Z" uid="1066" user="pavel" changeset="539695">
+    <nd ref="240782426"/>
+    <nd ref="240783202"/>
+    <tag k="created_by" v="Potlatch 0.6c"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Kosmonoská"/>
+    <tag k="name:source" v="nameit/uir-adr"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+</osm>

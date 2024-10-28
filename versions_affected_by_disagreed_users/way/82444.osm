@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="82444087" version="1" timestamp="2010-10-21T17:41:17Z" uid="96874" user="Quedel" changeset="6129786">
+    <nd ref="959579027"/>
+    <nd ref="355742152"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="path"/>
+    <tag k="horse" v="no"/>
+    <tag k="ski" v="no"/>
+    <tag k="snowmobile" v="no"/>
+    <tag k="wheelchair" v="no"/>
+  </way>
+  <way id="82444088" version="1" timestamp="2010-10-21T17:41:17Z" uid="96874" user="Quedel" changeset="6129786">
+    <nd ref="959579025"/>
+    <nd ref="959579027"/>
+    <tag k="highway" v="steps"/>
+    <tag k="step_count" v="18"/>
+    <tag k="surface" v="paving_stones"/>
+    <tag k="wheelchair" v="no"/>
+  </way>
+  <way id="82444089" version="1" timestamp="2010-10-21T17:41:18Z" uid="96874" user="Quedel" changeset="6129786">
+    <nd ref="950651203"/>
+    <nd ref="959579025"/>
+    <tag k="access" v="permissive"/>
+    <tag k="agricultural" v="no"/>
+    <tag k="bicycle" v="permissive"/>
+    <tag k="foot" v="permissive"/>
+    <tag k="highway" v="path"/>
+    <tag k="note" v="Pfarrgelände; Zufahrt"/>
+    <tag k="psv" v="permissive"/>
+    <tag k="ref" v="St. Mathilden-Kirche"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+</osm>

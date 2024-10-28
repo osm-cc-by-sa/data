@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1430408" version="1" timestamp="2011-02-16T09:03:42Z" uid="115477" user="wowik" changeset="7302003">
+    <member type="node" ref="1156138301" role="via"/>
+    <member type="way" ref="99991616" role="from"/>
+    <member type="way" ref="99991617" role="to"/>
+    <tag k="restriction" v="only_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1430409" version="1" timestamp="2011-02-16T09:03:42Z" uid="115477" user="wowik" changeset="7302003">
+    <member type="node" ref="1156138298" role="via"/>
+    <member type="way" ref="99991614" role="from"/>
+    <member type="way" ref="99991617" role="to"/>
+    <tag k="restriction" v="only_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1430410" version="1" timestamp="2011-02-16T09:03:43Z" uid="115477" user="wowik" changeset="7302003">
+    <member type="way" ref="99991618" role="from"/>
+    <member type="way" ref="99991613" role="to"/>
+    <member type="node" ref="1156138307" role="via"/>
+    <tag k="restriction" v="only_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1430446" version="1" timestamp="2011-02-16T09:29:39Z" uid="115477" user="wowik" changeset="7302166">
+    <member type="way" ref="99993613" role="outer"/>
+    <member type="way" ref="99993616" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1430552" version="1" timestamp="2011-02-16T12:33:11Z" uid="115477" user="wowik" changeset="7303383">
+    <member type="way" ref="53272401" role="from"/>
+    <member type="way" ref="53272402" role="to"/>
+    <member type="node" ref="674059753" role="via"/>
+    <tag k="restriction" v="only_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1430553" version="1" timestamp="2011-02-16T12:33:11Z" uid="115477" user="wowik" changeset="7303383">
+    <member type="way" ref="100007610" role="outer"/>
+    <member type="way" ref="100007650" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1430619" version="1" timestamp="2011-02-16T14:33:50Z" uid="115477" user="wowik" changeset="7304380">
+    <member type="way" ref="23443327" role="from"/>
+    <member type="way" ref="100014050" role="to"/>
+    <member type="node" ref="506201342" role="via"/>
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1430712" version="1" timestamp="2011-02-16T16:26:36Z" uid="115477" user="wowik" changeset="7305201">
+    <member type="way" ref="100023797" role="from"/>
+    <member type="node" ref="1156420953" role="via"/>
+    <member type="way" ref="51731899" role="to"/>
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1430713" version="1" timestamp="2011-02-16T16:26:36Z" uid="115477" user="wowik" changeset="7305201">
+    <member type="way" ref="41231787" role="from"/>
+    <member type="node" ref="253733050" role="via"/>
+    <member type="way" ref="37807245" role="to"/>
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1430932" version="1" timestamp="2011-02-16T18:56:09Z" uid="115477" user="wowik" changeset="7306528">
+    <member type="way" ref="60966245" role="from"/>
+    <member type="way" ref="97397563" role="to"/>
+    <member type="node" ref="763209209" role="via"/>
+    <tag k="restriction" v="only_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1430933" version="1" timestamp="2011-02-16T18:56:09Z" uid="115477" user="wowik" changeset="7306528">
+    <member type="way" ref="23427779" role="from"/>
+    <member type="way" ref="97397486" role="to"/>
+    <member type="node" ref="253731332" role="via"/>
+    <tag k="restriction" v="only_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+</osm>

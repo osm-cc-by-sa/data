@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1573068" version="1" timestamp="2011-05-05T08:54:39Z" uid="115477" user="wowik" changeset="8055584">
+    <member type="way" ref="111794540" role="from"/>
+    <member type="way" ref="111794562" role="to"/>
+    <member type="node" ref="245922043" role="via"/>
+    <tag k="restriction" v="only_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1573274" version="1" timestamp="2011-05-05T12:00:43Z" uid="115477" user="wowik" changeset="8056877">
+    <member type="way" ref="10366506" role="outer"/>
+    <member type="way" ref="11322195" role="outer"/>
+    <member type="way" ref="11322961" role="outer"/>
+    <member type="way" ref="11323215" role="outer"/>
+    <member type="way" ref="10366209" role="outer"/>
+    <tag k="landuse" v="reservoir"/>
+    <tag k="name" v="Химкинское водохранилище"/>
+    <tag k="natural" v="water"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1573274" version="2" timestamp="2011-06-06T11:24:15Z" uid="115477" user="wowik" changeset="8358950">
+    <member type="way" ref="10366506" role="outer"/>
+    <member type="way" ref="11322195" role="outer"/>
+    <member type="way" ref="11322961" role="outer"/>
+    <member type="way" ref="11323215" role="outer"/>
+    <member type="way" ref="10366209" role="outer"/>
+    <tag k="landuse" v="reservoir"/>
+    <tag k="name" v="Химкинское водохранилище"/>
+    <tag k="natural" v="water"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="water" v="reservoir"/>
+  </relation>
+  <relation id="1573878" version="1" timestamp="2011-05-05T19:45:54Z" uid="33382" user="de_muur" changeset="8060405">
+    <member type="node" ref="718853933" role=""/>
+    <member type="way" ref="23387802" role=""/>
+    <member type="way" ref="34990063" role=""/>
+    <member type="node" ref="1273456206" role=""/>
+    <tag k="name" v="Breitenfelde - Gudow"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1573878" version="2" timestamp="2011-05-05T19:52:06Z" uid="33382" user="de_muur" changeset="8060460">
+    <member type="node" ref="718853933" role=""/>
+    <member type="way" ref="23387802" role=""/>
+    <member type="way" ref="34990063" role=""/>
+    <member type="node" ref="1273456206" role=""/>
+    <member type="way" ref="111857248" role=""/>
+    <member type="way" ref="23387801" role=""/>
+    <member type="way" ref="111857247" role=""/>
+    <member type="way" ref="25018751" role=""/>
+    <member type="node" ref="1273465585" role=""/>
+    <tag k="name" v="Breitenfelde - Gudow"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+</osm>

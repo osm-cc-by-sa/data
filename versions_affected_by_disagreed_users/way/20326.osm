@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="20326502" version="3" timestamp="2008-02-10T00:19:46Z" uid="6269" user="Mueck" changeset="88956">
+    <nd ref="211360108"/>
+    <nd ref="208661740"/>
+    <nd ref="246866321"/>
+    <nd ref="33377538"/>
+    <tag k="created_by" v="Potlatch 0.7"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Frankfurter Straße"/>
+    <tag k="ref" v="L3117"/>
+  </way>
+  <way id="20326502" version="4" timestamp="2008-03-11T00:30:19Z" uid="6269" user="Mueck" changeset="302742">
+    <nd ref="211360108"/>
+    <nd ref="208661740"/>
+    <tag k="created_by" v="Potlatch 0.7b"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Frankfurter Straße"/>
+    <tag k="ref" v="L3117"/>
+  </way>
+  <way id="20326502" version="5" timestamp="2008-05-30T19:22:31Z" uid="6269" user="Mueck" changeset="553160">
+    <nd ref="211360108"/>
+    <nd ref="208661740"/>
+    <tag k="created_by" v="Potlatch 0.9c"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Frankfurter Straße"/>
+  </way>
+  <way id="20326502" version="7" timestamp="2009-10-19T12:32:50Z" uid="107674" user="GeoCounter" changeset="2893933">
+    <nd ref="211360108"/>
+    <nd ref="208661740"/>
+    <tag k="cycleway" v="lane"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxheight" v="4"/>
+    <tag k="name" v="Frankfurter Straße"/>
+  </way>
+  <way id="20326504" version="6" timestamp="2008-02-18T22:18:20Z" uid="6269" user="Mueck" changeset="149542">
+    <nd ref="33377538"/>
+    <nd ref="215832214"/>
+    <nd ref="245589616"/>
+    <tag k="created_by" v="Potlatch 0.7b"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="20326504" version="7" timestamp="2008-02-18T22:18:22Z" uid="6269" user="Mueck" changeset="149542">
+    <nd ref="33377538"/>
+    <nd ref="215832214"/>
+    <tag k="created_by" v="Potlatch 0.7b"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="20326504" version="8" timestamp="2008-02-18T22:20:32Z" uid="6269" user="Mueck" changeset="149542">
+    <nd ref="33377538"/>
+    <nd ref="215832214"/>
+    <tag k="created_by" v="Potlatch 0.7b"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Herrnstraße"/>
+  </way>
+  <way id="20326504" version="9" timestamp="2008-03-10T23:52:22Z" uid="6269" user="Mueck" changeset="302742">
+    <nd ref="215832214"/>
+    <nd ref="33377538"/>
+    <tag k="created_by" v="Potlatch 0.7b"/>
+    <tag k="cycleway" v="opposite"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Herrnstraße"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="20326504" version="10" timestamp="2008-09-07T18:23:06Z" uid="6269" user="Mueck" changeset="562196">
+    <nd ref="215832214"/>
+    <nd ref="33377538"/>
+    <tag k="created_by" v="Potlatch 0.10b"/>
+    <tag k="cycleway" v="opposite"/>
+    <tag k="goods" v="destination"/>
+    <tag k="hgv" v="destination"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Herrnstraße"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="20326504" version="11" timestamp="2009-01-31T00:46:50Z" uid="6269" user="Mueck" changeset="859135">
+    <nd ref="215832214"/>
+    <nd ref="33377538"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="cycleway" v="opposite"/>
+    <tag k="hgv" v="destination"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Herrnstraße"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+</osm>

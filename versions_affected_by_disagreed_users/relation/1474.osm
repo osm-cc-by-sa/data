@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1474263" version="1" timestamp="2011-03-13T22:50:02Z" uid="30632" user="antblant" changeset="7551596">
+    <member type="way" ref="104039928" role=""/>
+    <member type="way" ref="104061573" role=""/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Gmina Stara Dąbrowa"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikipedia" v="pl:Gmina_Stara_Dąbrowa"/>
+  </relation>
+  <relation id="1474264" version="1" timestamp="2011-03-13T22:50:04Z" uid="30632" user="antblant" changeset="7551596">
+    <member type="way" ref="104061573" role=""/>
+    <member type="way" ref="103196706" role=""/>
+    <member type="way" ref="104061571" role=""/>
+    <member type="way" ref="104061570" role=""/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Gmina Maszewo"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikipedia" v="pl:Gmina_Maszewo_(powiat_goleniowski)"/>
+  </relation>
+  <relation id="1474265" version="1" timestamp="2011-03-13T22:50:04Z" uid="30632" user="antblant" changeset="7551596">
+    <member type="way" ref="103323345" role=""/>
+    <member type="way" ref="104061571" role=""/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Gmina Osina"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikipedia" v="pl:Gmina_Osina"/>
+  </relation>
+  <relation id="1474816" version="1" timestamp="2011-03-14T12:23:16Z" uid="66036" user="h4v" changeset="7555755">
+    <member type="way" ref="104126101" role="outer"/>
+    <member type="way" ref="104004959" role="inner"/>
+    <member type="way" ref="104126099" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1474817" version="1" timestamp="2011-03-14T12:23:16Z" uid="66036" user="h4v" changeset="7555755">
+    <member type="way" ref="104126090" role="outer"/>
+    <member type="way" ref="104126091" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1474818" version="1" timestamp="2011-03-14T12:23:16Z" uid="66036" user="h4v" changeset="7555755">
+    <member type="way" ref="104017212" role="outer"/>
+    <member type="way" ref="104017275" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1474843" version="1" timestamp="2011-03-14T13:21:04Z" uid="66036" user="h4v" changeset="7556234">
+    <member type="way" ref="61434445" role="outer"/>
+    <member type="way" ref="104129260" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+</osm>

@@ -1,0 +1,189 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1536204" version="1" timestamp="2011-04-10T22:13:47Z" uid="66036" user="h4v" changeset="7828290">
+    <member type="way" ref="32791735" role="street"/>
+    <member type="way" ref="108048483" role="house"/>
+    <member type="node" ref="1240390580" role="house"/>
+    <member type="node" ref="1240390538" role="house"/>
+    <member type="way" ref="108048482" role="house"/>
+    <member type="node" ref="1240390638" role="house"/>
+    <member type="node" ref="1240390570" role="house"/>
+    <tag k="name" v="Wodna"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1536205" version="1" timestamp="2011-04-10T22:13:48Z" uid="66036" user="h4v" changeset="7828290">
+    <member type="way" ref="32791725" role="street"/>
+    <member type="way" ref="108048493" role="house"/>
+    <member type="node" ref="1240390569" role="house"/>
+    <member type="node" ref="1240390524" role="house"/>
+    <member type="way" ref="108048494" role="house"/>
+    <member type="node" ref="1240390539" role="house"/>
+    <member type="node" ref="1240390522" role="house"/>
+    <member type="way" ref="108048480" role="house"/>
+    <member type="node" ref="1240390628" role="house"/>
+    <member type="node" ref="1240390560" role="house"/>
+    <tag k="name" v="Dowborczyków"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1536536" version="1" timestamp="2011-04-11T10:38:06Z" uid="7617" user="Franc" changeset="7831678">
+    <member type="way" ref="108094366" role="from"/>
+    <member type="way" ref="45833972" role="to"/>
+    <member type="node" ref="33884923" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1536537" version="1" timestamp="2011-04-11T10:38:07Z" uid="7617" user="Franc" changeset="7831678">
+    <member type="way" ref="108094314" role="from"/>
+    <member type="way" ref="108094334" role="to"/>
+    <member type="node" ref="1240760314" role="via"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1536538" version="1" timestamp="2011-04-11T10:38:07Z" uid="7617" user="Franc" changeset="7831678">
+    <member type="way" ref="108094334" role="from"/>
+    <member type="way" ref="108094314" role="to"/>
+    <member type="node" ref="1240760168" role="via"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1536539" version="1" timestamp="2011-04-11T10:38:07Z" uid="7617" user="Franc" changeset="7831678">
+    <member type="way" ref="108094345" role="from"/>
+    <member type="way" ref="108094340" role="to"/>
+    <member type="node" ref="60981249" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1536540" version="1" timestamp="2011-04-11T10:38:07Z" uid="7617" user="Franc" changeset="7831678">
+    <member type="way" ref="39166973" role="from"/>
+    <member type="way" ref="108094353" role="to"/>
+    <member type="node" ref="60709939" role="via"/>
+    <tag k="except" v="bus"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1536541" version="1" timestamp="2011-04-11T10:38:07Z" uid="7617" user="Franc" changeset="7831678">
+    <member type="way" ref="9928908" role="from"/>
+    <member type="way" ref="47183353" role="to"/>
+    <member type="node" ref="32009570" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1536542" version="1" timestamp="2011-04-11T10:38:07Z" uid="7617" user="Franc" changeset="7831678">
+    <member type="way" ref="108094345" role="from"/>
+    <member type="way" ref="4904207" role="to"/>
+    <member type="node" ref="60981249" role="via"/>
+    <tag k="restriction" v="no_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1536796" version="1" timestamp="2011-04-11T16:07:23Z" uid="33382" user="de_muur" changeset="7834484">
+    <member type="node" ref="977463729" role=""/>
+    <member type="way" ref="35722219" role=""/>
+    <member type="node" ref="1241031551" role=""/>
+    <tag k="name" v="Trittau - Ratzeburg"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1536796" version="2" timestamp="2011-04-11T16:15:28Z" uid="33382" user="de_muur" changeset="7834577">
+    <member type="node" ref="977463729" role=""/>
+    <member type="way" ref="35722219" role=""/>
+    <member type="node" ref="1241031551" role=""/>
+    <tag k="name" v="Ratzeburg - Trittau"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1536801" version="1" timestamp="2011-04-11T16:15:20Z" uid="33382" user="de_muur" changeset="7834577">
+    <member type="node" ref="1241031551" role=""/>
+    <member type="way" ref="35721959" role=""/>
+    <member type="way" ref="108128564" role=""/>
+    <member type="node" ref="1241038667" role=""/>
+    <tag k="name" v="Nusse - Trittau"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1536801" version="2" timestamp="2011-04-11T16:19:08Z" uid="33382" user="de_muur" changeset="7834625">
+    <member type="node" ref="1241031551" role=""/>
+    <member type="way" ref="35721959" role=""/>
+    <member type="way" ref="108128564" role=""/>
+    <member type="node" ref="1241038667" role=""/>
+    <member type="way" ref="108128803" role=""/>
+    <member type="node" ref="1241040960" role=""/>
+    <tag k="name" v="Nusse - Trittau"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1536801" version="3" timestamp="2011-04-11T16:31:09Z" uid="33382" user="de_muur" changeset="7834741">
+    <member type="node" ref="1241031551" role=""/>
+    <member type="way" ref="35721959" role=""/>
+    <member type="way" ref="108128564" role=""/>
+    <member type="node" ref="1241038667" role=""/>
+    <member type="way" ref="108128803" role=""/>
+    <member type="node" ref="1241040960" role=""/>
+    <member type="way" ref="23413215" role=""/>
+    <member type="way" ref="33284413" role=""/>
+    <member type="way" ref="33127448" role=""/>
+    <member type="way" ref="23413214" role=""/>
+    <member type="way" ref="23413113" role=""/>
+    <member type="way" ref="37916927" role=""/>
+    <tag k="name" v="Nusse - Trittau"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1536801" version="4" timestamp="2011-04-11T16:45:23Z" uid="33382" user="de_muur" changeset="7834882">
+    <member type="node" ref="1241031551" role=""/>
+    <member type="way" ref="35721959" role=""/>
+    <member type="way" ref="108128564" role=""/>
+    <member type="node" ref="1241038667" role=""/>
+    <member type="way" ref="108128803" role=""/>
+    <member type="node" ref="1241040960" role=""/>
+    <member type="way" ref="23413215" role=""/>
+    <member type="way" ref="33284413" role=""/>
+    <member type="way" ref="33127448" role=""/>
+    <member type="way" ref="23413214" role=""/>
+    <member type="way" ref="23413113" role=""/>
+    <member type="way" ref="37916927" role=""/>
+    <member type="node" ref="1241048278" role=""/>
+    <member type="way" ref="33127447" role=""/>
+    <member type="way" ref="108130788" role=""/>
+    <member type="way" ref="33127446" role=""/>
+    <member type="way" ref="37916942" role=""/>
+    <member type="node" ref="1241058557" role=""/>
+    <tag k="name" v="Nusse - Trittau"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1536819" version="1" timestamp="2011-04-11T16:31:04Z" uid="33382" user="de_muur" changeset="7834741">
+    <member type="way" ref="58522421" role="inner"/>
+    <member type="way" ref="28299355" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1536868" version="1" timestamp="2011-04-11T17:11:07Z" uid="9581" user="Lobelt" changeset="7835081">
+    <member type="way" ref="108134376" role="inner"/>
+    <member type="way" ref="19830856" role="outer"/>
+    <member type="way" ref="108134375" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1536960" version="1" timestamp="2011-04-11T18:04:47Z" uid="33382" user="de_muur" changeset="7835716">
+    <member type="node" ref="1241058557" role=""/>
+    <member type="way" ref="108130789" role=""/>
+    <member type="way" ref="41501377" role=""/>
+    <member type="way" ref="4257125" role=""/>
+    <member type="node" ref="1241151828" role=""/>
+    <tag k="name" v="Hohenfelde - Sandesneben"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+</osm>

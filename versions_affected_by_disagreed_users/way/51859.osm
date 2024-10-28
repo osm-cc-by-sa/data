@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="51859173" version="1" timestamp="2010-03-06T23:49:58Z" uid="230283" user="AuFCL" changeset="4056173">
+    <nd ref="660898816"/>
+    <nd ref="661693545"/>
+    <nd ref="661693547"/>
+    <nd ref="661693549"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Catalina Place"/>
+  </way>
+  <way id="51859173" version="2" timestamp="2010-07-07T07:17:13Z" uid="74617" user="JohnSmith" changeset="5156250">
+    <nd ref="660898816"/>
+    <nd ref="661693545"/>
+    <nd ref="661693547"/>
+    <nd ref="661693549"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Catalina Place"/>
+  </way>
+  <way id="51859916" version="1" timestamp="2010-03-06T23:51:38Z" uid="61114" user="Trav" changeset="4056343">
+    <nd ref="661694677"/>
+    <nd ref="661694678"/>
+    <nd ref="661694679"/>
+    <nd ref="661694680"/>
+    <nd ref="661694677"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="source" v="nearmap;survey"/>
+    <tag k="tourism" v="picnic_site"/>
+  </way>
+</osm>

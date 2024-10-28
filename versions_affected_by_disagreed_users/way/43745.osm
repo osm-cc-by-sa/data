@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="43745475" version="2" timestamp="2010-07-08T18:24:54Z" uid="74617" user="JohnSmith" changeset="5167338">
+    <nd ref="387095505"/>
+    <nd ref="387095459"/>
+    <nd ref="387095506"/>
+    <nd ref="387938770"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Bowen Road"/>
+  </way>
+  <way id="43745683" version="3" timestamp="2010-04-02T03:17:22Z" uid="74617" user="JohnSmith" changeset="4299895">
+    <nd ref="14868167"/>
+    <nd ref="26855939"/>
+    <nd ref="14868168"/>
+    <nd ref="14868169"/>
+    <nd ref="14868170"/>
+    <nd ref="14868171"/>
+    <nd ref="14868172"/>
+    <nd ref="14172329"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Northbourne Avenue"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="43745683" version="8" timestamp="2011-02-09T15:04:25Z" uid="4467" user="Rosscoe" changeset="7236829">
+    <nd ref="904619398"/>
+    <nd ref="26855939"/>
+    <nd ref="14868168"/>
+    <nd ref="870322319"/>
+    <nd ref="14868169"/>
+    <nd ref="833789082"/>
+    <nd ref="14868170"/>
+    <nd ref="14868171"/>
+    <nd ref="14868172"/>
+    <nd ref="1114969448"/>
+    <nd ref="870322540"/>
+    <nd ref="14172329"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Northbourne Avenue"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="43745685" version="2" timestamp="2010-04-02T03:17:26Z" uid="74617" user="JohnSmith" changeset="4299895">
+    <nd ref="14169949"/>
+    <nd ref="14169953"/>
+    <nd ref="14169957"/>
+    <nd ref="14169961"/>
+    <nd ref="14169965"/>
+    <nd ref="14169967"/>
+    <tag k="cycleway" v="lane"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Northbourne Avenue"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="rcn" v="yes"/>
+  </way>
+</osm>

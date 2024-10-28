@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="67174348" version="1" timestamp="2010-07-11T11:32:13Z" uid="33382" user="de_muur" changeset="5189394">
+    <nd ref="811292843"/>
+    <nd ref="267825431"/>
+    <nd ref="811292846"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="ref" v="K 20"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="67174349" version="1" timestamp="2010-07-11T11:32:13Z" uid="33382" user="de_muur" changeset="5189394">
+    <nd ref="811292846"/>
+    <nd ref="267825420"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="ref" v="K 20"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="67174349" version="2" timestamp="2011-01-29T20:18:45Z" uid="33382" user="de_muur" changeset="7126816">
+    <nd ref="811292846"/>
+    <nd ref="267825420"/>
+    <tag k="cycleway" v="track"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="ref" v="K 20"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="67174350" version="1" timestamp="2010-07-11T11:32:13Z" uid="33382" user="de_muur" changeset="5189394">
+    <nd ref="811292843"/>
+    <nd ref="811292845"/>
+    <tag k="highway" v="road"/>
+    <tag k="note" v="to be continued"/>
+  </way>
+  <way id="67174350" version="2" timestamp="2011-03-13T19:37:00Z" uid="33382" user="de_muur" changeset="7549377">
+    <nd ref="811292843"/>
+    <nd ref="811292845"/>
+    <nd ref="1200622565"/>
+    <nd ref="36156035"/>
+    <tag k="highway" v="track"/>
+    <tag k="surface" v="unpaved"/>
+    <tag k="tracktype" v="grade3"/>
+  </way>
+  <way id="67174714" version="3" timestamp="2010-07-25T22:02:09Z" uid="4467" user="Rosscoe" changeset="5317120">
+    <nd ref="811294635"/>
+    <nd ref="811294637"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="layer" v="1"/>
+  </way>
+  <way id="67174758" version="1" timestamp="2010-07-11T11:34:44Z" uid="4467" user="Rosscoe" changeset="5189414">
+    <nd ref="600582662"/>
+    <nd ref="811297312"/>
+    <nd ref="600583169"/>
+    <nd ref="811298068"/>
+    <nd ref="600582661"/>
+    <nd ref="811296891"/>
+    <nd ref="600583154"/>
+    <nd ref="811296565"/>
+    <nd ref="600582662"/>
+    <tag k="highway" v="residential"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="lanes" v="1"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="67174760" version="1" timestamp="2010-07-11T11:34:45Z" uid="4467" user="Rosscoe" changeset="5189414">
+    <nd ref="811297064"/>
+    <nd ref="250554721"/>
+    <nd ref="811296495"/>
+    <nd ref="250554722"/>
+    <tag k="highway" v="primary"/>
+    <tag k="is_in" v="Henley Beach,South Australia,Australia"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Henley Beach Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="postal_code" v="5022"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="67174761" version="1" timestamp="2010-07-11T11:34:46Z" uid="4467" user="Rosscoe" changeset="5189414">
+    <nd ref="811298012"/>
+    <nd ref="250554291"/>
+    <nd ref="811296948"/>
+    <nd ref="811297064"/>
+    <nd ref="811297450"/>
+    <nd ref="811297798"/>
+    <nd ref="811297565"/>
+    <nd ref="250554724"/>
+    <nd ref="811297168"/>
+    <nd ref="811296849"/>
+    <nd ref="811296400"/>
+    <nd ref="811298012"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="postal_code" v="5022"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="67174764" version="1" timestamp="2010-07-11T11:34:47Z" uid="4467" user="Rosscoe" changeset="5189414">
+    <nd ref="811297123"/>
+    <nd ref="811296690"/>
+    <nd ref="283300272"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Henley Beach Road"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="67174773" version="1" timestamp="2010-07-11T11:34:49Z" uid="4467" user="Rosscoe" changeset="5189414">
+    <nd ref="811296849"/>
+    <nd ref="811297619"/>
+    <nd ref="811297357"/>
+    <nd ref="250554726"/>
+    <tag k="highway" v="primary"/>
+    <tag k="is_in" v="Henley Beach South,South Australia,Australia"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Henley Beach Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="postal_code" v="5022"/>
+  </way>
+</osm>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1308331" version="2" timestamp="2010-12-16T11:44:02Z" uid="4467" user="Rosscoe" changeset="6675850">
+    <member type="way" ref="62260526" role="from"/>
+    <member type="way" ref="5391003" role="to"/>
+    <member type="node" ref="777790935" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1308331" version="3" timestamp="2011-02-16T11:29:54Z" uid="4467" user="Rosscoe" changeset="7302936">
+    <member type="way" ref="62260526" role="from"/>
+    <member type="way" ref="5391003" role="to"/>
+    <member type="node" ref="387153103" role="via"/>
+    <member type="node" ref="1156240422" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1308470" version="3" timestamp="2011-03-16T21:56:26Z" uid="9581" user="Lobelt" changeset="7580250">
+    <member type="way" ref="88343264" role="outer"/>
+    <member type="way" ref="93228595" role="outer"/>
+    <member type="way" ref="88343323" role="outer"/>
+    <member type="way" ref="104424479" role="outer"/>
+    <member type="way" ref="88343523" role="outer"/>
+    <member type="way" ref="88343541" role="inner"/>
+    <member type="way" ref="88343566" role="inner"/>
+    <member type="way" ref="88343582" role="inner"/>
+    <member type="way" ref="88343598" role="inner"/>
+    <member type="way" ref="88343611" role="inner"/>
+    <member type="way" ref="88343615" role="inner"/>
+    <member type="way" ref="88343618" role="inner"/>
+    <tag k="CLC:code" v="511"/>
+    <tag k="CLC:shapeId" v="1562"/>
+    <tag k="CLC:waterway" v="riverbank"/>
+    <tag k="CLC:year" v="2006"/>
+    <tag k="comment" v="Water bodies, green areas and sport facilities need to be manually edited from CLC data. Please edit them according to the field reality. Thank you."/>
+    <tag k="fixme" v="This area was automatically imported, but it has to be manually edited. Please change the tags accordingly. Thank you."/>
+    <tag k="source" v="Union européenne - SOeS, CORINE Land Cover, 2006."/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+</osm>

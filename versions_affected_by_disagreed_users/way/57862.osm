@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="57862858" version="2" timestamp="2010-08-04T17:46:51Z" uid="9581" user="Lobelt" changeset="5401263">
+    <nd ref="312487023"/>
+    <nd ref="615102286"/>
+    <nd ref="717844097"/>
+    <tag k="cables" v="3"/>
+    <tag k="frequency" v="50"/>
+    <tag k="name" v="110 kV Grefrath West; Roddergrube West"/>
+    <tag k="operator" v="RWE"/>
+    <tag k="power" v="line"/>
+    <tag k="ref" v="0082"/>
+    <tag k="source" v="survey"/>
+    <tag k="voltage" v="110000"/>
+    <tag k="wires" v="single"/>
+  </way>
+  <way id="57862861" version="2" timestamp="2010-08-04T17:36:33Z" uid="9581" user="Lobelt" changeset="5401263">
+    <nd ref="717844093"/>
+    <nd ref="717844096"/>
+    <nd ref="312487023"/>
+    <tag k="cables" v="3"/>
+    <tag k="frequency" v="50"/>
+    <tag k="name" v="110 kV Grefrath Ost; Roddergrube Ost"/>
+    <tag k="operator" v="RWE"/>
+    <tag k="power" v="line"/>
+    <tag k="ref" v="0082"/>
+    <tag k="source" v="survey"/>
+    <tag k="voltage" v="110000"/>
+    <tag k="wires" v="single"/>
+  </way>
+  <way id="57862865" version="2" timestamp="2010-08-04T17:43:25Z" uid="9581" user="Lobelt" changeset="5401263">
+    <nd ref="312486958"/>
+    <nd ref="312487023"/>
+    <tag k="cables" v="6"/>
+    <tag k="frequency" v="50"/>
+    <tag k="name" v="110 kV Grefrath Ost|West; Roddergrube Ost|West"/>
+    <tag k="operator" v="RWE"/>
+    <tag k="power" v="line"/>
+    <tag k="ref" v="0082"/>
+    <tag k="source" v="survey"/>
+    <tag k="voltage" v="110000"/>
+    <tag k="wires" v="single"/>
+  </way>
+</osm>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="8624100" version="4" timestamp="2010-01-30T09:37:56Z" uid="7617" user="Franc" changeset="3749138">
+    <nd ref="61490184"/>
+    <nd ref="61490285"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="restriction" v="school_zone"/>
+    <tag k="source:maxspeed" v="state_limit"/>
+  </way>
+  <way id="8624100" version="5" timestamp="2010-11-29T11:14:14Z" uid="7617" user="Franc" changeset="6485523">
+    <nd ref="61490184"/>
+    <nd ref="61490285"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Diana Street"/>
+    <tag k="restriction" v="school_zone"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="state_limit"/>
+  </way>
+  <way id="8624112" version="3" timestamp="2009-07-05T10:02:48Z" uid="30201" user="rrankin" changeset="1737492">
+    <nd ref="19160606"/>
+    <nd ref="61491090"/>
+    <nd ref="61491163"/>
+    <nd ref="61491091"/>
+    <nd ref="61491092"/>
+    <tag k="created_by" v="Potlatch alpha"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Thorne Avenue"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="8624112" version="4" timestamp="2010-07-08T01:38:29Z" uid="74617" user="JohnSmith" changeset="5162525">
+    <nd ref="19160606"/>
+    <nd ref="61491090"/>
+    <nd ref="61491163"/>
+    <nd ref="61491091"/>
+    <nd ref="61491092"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Thorne Avenue"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="8624126" version="2" timestamp="2009-07-05T10:02:50Z" uid="30201" user="rrankin" changeset="1737492">
+    <nd ref="61491163"/>
+    <nd ref="61491261"/>
+    <tag k="created_by" v="Potlatch alpha"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Comber Crescent"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="8624126" version="3" timestamp="2010-07-08T01:39:22Z" uid="74617" user="JohnSmith" changeset="5162525">
+    <nd ref="61491163"/>
+    <nd ref="61491261"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Comber Crescent"/>
+    <tag k="source" v="survey"/>
+  </way>
+</osm>

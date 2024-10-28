@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="104744215" version="2" timestamp="2011-04-12T08:13:23Z" uid="4467" user="Rosscoe" changeset="7840223">
+    <nd ref="1208145462"/>
+    <nd ref="1208047903"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="East Tamar Highway"/>
+    <tag k="ref" v="A8"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="104744217" version="3" timestamp="2011-04-12T07:31:47Z" uid="4467" user="Rosscoe" changeset="7839941">
+    <nd ref="1241624359"/>
+    <nd ref="1208145463"/>
+    <nd ref="1208145464"/>
+    <nd ref="1208145465"/>
+    <nd ref="1208145466"/>
+    <nd ref="1208145467"/>
+    <nd ref="1208145468"/>
+    <nd ref="1208145469"/>
+    <nd ref="1208145470"/>
+    <nd ref="1208145462"/>
+    <nd ref="1208145471"/>
+    <nd ref="1208145472"/>
+    <nd ref="1241624359"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="roundabout" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="104744219" version="2" timestamp="2011-04-12T07:31:33Z" uid="4467" user="Rosscoe" changeset="7839941">
+    <nd ref="253671048"/>
+    <nd ref="253671147"/>
+    <nd ref="434302041"/>
+    <nd ref="434302042"/>
+    <nd ref="1241624275"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Macquarie Street"/>
+    <tag k="source" v="survey"/>
+    <tag k="survey" v="GPS"/>
+  </way>
+</osm>

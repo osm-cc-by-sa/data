@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1399039" version="1" timestamp="2011-01-29T20:25:10Z" uid="33382" user="de_muur" changeset="7126896">
+    <member type="node" ref="1126764097" role=""/>
+    <member type="way" ref="97279236" role=""/>
+    <member type="node" ref="1126774493" role=""/>
+    <tag k="name" v="Einste - Varste"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1399040" version="1" timestamp="2011-01-29T20:25:10Z" uid="33382" user="de_muur" changeset="7126896">
+    <member type="node" ref="1126774493" role=""/>
+    <member type="way" ref="97279237" role=""/>
+    <tag k="name" v="Einste - Martfeld"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1399045" version="1" timestamp="2011-01-29T20:31:48Z" uid="107674" user="GeoCounter" changeset="7126889">
+    <member type="way" ref="97280647" role=""/>
+    <member type="way" ref="97280649" role=""/>
+    <member type="way" ref="97280648" role=""/>
+    <tag k="destination" v="Würzburg"/>
+    <tag k="detour" v="A 3"/>
+    <tag k="ref" v="U 71"/>
+    <tag k="route" v="detour"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1399045" version="2" timestamp="2011-01-29T21:18:56Z" uid="107674" user="GeoCounter" changeset="7127519"/>
+  <relation id="1399046" version="1" timestamp="2011-01-29T20:31:49Z" uid="107674" user="GeoCounter" changeset="7126889">
+    <member type="way" ref="97280647" role="forward"/>
+    <member type="way" ref="97280648" role="backward"/>
+    <member type="way" ref="97280650" role="forward"/>
+    <tag k="direction" v="forward"/>
+    <tag k="from" v="Langen Bf"/>
+    <tag k="name" v="Buslinie OF-99 (Langen - Jügesheim - Seligenstadt)"/>
+    <tag k="ref" v="OF-99"/>
+    <tag k="route" v="bus"/>
+    <tag k="to" v="Seligenstadt"/>
+    <tag k="type" v="line_variant"/>
+    <tag k="via" v="Dietzenbach"/>
+  </relation>
+  <relation id="1399046" version="2" timestamp="2011-01-29T21:18:56Z" uid="107674" user="GeoCounter" changeset="7127519"/>
+  <relation id="1399047" version="1" timestamp="2011-01-29T20:31:49Z" uid="107674" user="GeoCounter" changeset="7126889">
+    <member type="way" ref="97280650" role="backward"/>
+    <member type="way" ref="97280648" role="forward"/>
+    <tag k="direction" v="backward"/>
+    <tag k="from" v="Seligenstadt"/>
+    <tag k="name" v="Buslinie OF-99 (Seligenstadt - Jügesheim - Langen)"/>
+    <tag k="ref" v="OF-99"/>
+    <tag k="route" v="bus"/>
+    <tag k="to" v="Langen Bf"/>
+    <tag k="type" v="line_variant"/>
+    <tag k="via" v="Dietzenbach"/>
+  </relation>
+  <relation id="1399047" version="2" timestamp="2011-01-29T21:18:56Z" uid="107674" user="GeoCounter" changeset="7127519"/>
+  <relation id="1399048" version="1" timestamp="2011-01-29T20:31:49Z" uid="107674" user="GeoCounter" changeset="7126889">
+    <member type="way" ref="97280648" role=""/>
+    <tag k="TMC:cid_58:tabcd_1:Class" v="Road"/>
+    <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+    <tag k="TMC:cid_58:tabcd_1:LocationCode" v="36503"/>
+    <tag k="ref" v="K 174"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1399048" version="2" timestamp="2011-01-29T21:18:56Z" uid="107674" user="GeoCounter" changeset="7127519"/>
+  <relation id="1399426" version="1" timestamp="2011-01-30T04:22:10Z" uid="61114" user="Trav" changeset="7130058">
+    <member type="way" ref="97338191" role="outer"/>
+    <member type="way" ref="97338192" role="inner"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Black Dog Institute"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="source:name" v="survey"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1399534" version="2" timestamp="2011-02-01T04:08:56Z" uid="30201" user="rrankin" changeset="7151522">
+    <member type="node" ref="34355389" role="via"/>
+    <member type="way" ref="24926796" role="to"/>
+    <member type="way" ref="97353788" role="from"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="source" v="survey"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+</osm>

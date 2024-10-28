@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1454220" version="1" timestamp="2011-03-02T00:22:41Z" uid="20587" user="balrog-kun" changeset="7434455">
+    <member type="way" ref="102361591" role="inner"/>
+    <member type="way" ref="32712126" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1454693" version="1" timestamp="2011-03-02T10:19:22Z" uid="115477" user="wowik" changeset="7436444">
+    <member type="way" ref="38232397" role="from"/>
+    <member type="node" ref="303609607" role="via"/>
+    <member type="way" ref="42769318" role="to"/>
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+</osm>

@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="92415003" version="2" timestamp="2011-01-30T01:15:43Z" uid="4467" user="Rosscoe" changeset="7129491"/>
+  <way id="92415004" version="2" timestamp="2011-01-11T03:48:07Z" uid="4467" user="Rosscoe" changeset="6933285">
+    <nd ref="176519981"/>
+    <nd ref="1072781704"/>
+    <nd ref="1072781747"/>
+    <nd ref="1072781705"/>
+    <nd ref="1072781695"/>
+    <nd ref="1072781702"/>
+    <nd ref="1072781684"/>
+    <nd ref="1072781722"/>
+    <nd ref="1072781720"/>
+    <nd ref="1072781749"/>
+    <nd ref="1072781710"/>
+    <nd ref="176522319"/>
+    <nd ref="176522320"/>
+    <nd ref="836221116"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Algester Road"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="92415004" version="3" timestamp="2011-01-30T01:15:39Z" uid="4467" user="Rosscoe" changeset="7129491">
+    <nd ref="176519981"/>
+    <nd ref="1072781704"/>
+    <nd ref="1127224087"/>
+    <nd ref="1072781747"/>
+    <nd ref="1072781705"/>
+    <nd ref="1072781702"/>
+    <nd ref="1072781684"/>
+    <nd ref="1072781722"/>
+    <nd ref="1072781720"/>
+    <nd ref="1072781749"/>
+    <nd ref="1072781710"/>
+    <nd ref="176522319"/>
+    <nd ref="1127224102"/>
+    <nd ref="176522320"/>
+    <nd ref="836221116"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Algester Road"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="92415057" version="1" timestamp="2010-12-30T13:06:04Z" uid="4467" user="Rosscoe" changeset="6809120">
+    <nd ref="1072782294"/>
+    <nd ref="1072782291"/>
+    <nd ref="1072782298"/>
+    <nd ref="1072782295"/>
+    <nd ref="1072782292"/>
+    <nd ref="1072782301"/>
+    <nd ref="1072782300"/>
+    <nd ref="1072782296"/>
+    <nd ref="1072782294"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="junction" v="roundabout"/>
+  </way>
+  <way id="92415058" version="1" timestamp="2010-12-30T13:06:04Z" uid="4467" user="Rosscoe" changeset="6809120">
+    <nd ref="1072782294"/>
+    <nd ref="251792617"/>
+    <nd ref="987448465"/>
+    <nd ref="251792637"/>
+    <nd ref="251792729"/>
+    <nd ref="251792764"/>
+    <nd ref="29150034"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="George Street"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="92415369" version="6" timestamp="2011-01-30T01:27:06Z" uid="4467" user="Rosscoe" changeset="7129549">
+    <nd ref="1127229926"/>
+    <nd ref="1127229921"/>
+    <nd ref="28375021"/>
+    <nd ref="28375019"/>
+    <nd ref="32878950"/>
+    <nd ref="29415560"/>
+    <nd ref="17854058"/>
+    <nd ref="29057591"/>
+    <nd ref="1127229924"/>
+    <nd ref="1127229930"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="President Avenue"/>
+    <tag k="network" v="MR"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="1"/>
+  </way>
+  <way id="92415443" version="2" timestamp="2011-01-30T01:27:07Z" uid="4467" user="Rosscoe" changeset="7129549">
+    <nd ref="1072786899"/>
+    <nd ref="575701209"/>
+    <nd ref="1072787021"/>
+    <nd ref="33226063"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="President Avenue"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="92415443" version="3" timestamp="2011-04-22T23:16:27Z" uid="7617" user="Franc" changeset="7939553">
+    <nd ref="1072786899"/>
+    <nd ref="575701209"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="President Avenue"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="92415447" version="2" timestamp="2011-01-30T01:27:06Z" uid="4467" user="Rosscoe" changeset="7129549">
+    <nd ref="33226063"/>
+    <nd ref="1072787030"/>
+    <nd ref="1072786875"/>
+    <nd ref="17854082"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="President Avenue"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="restriction" v="school_zone"/>
+  </way>
+  <way id="92415447" version="3" timestamp="2011-04-22T23:16:18Z" uid="7617" user="Franc" changeset="7939553">
+    <nd ref="33226063"/>
+    <nd ref="1072787030"/>
+    <nd ref="1072786875"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="President Avenue"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="restriction" v="school_zone"/>
+  </way>
+</osm>

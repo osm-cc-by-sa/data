@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="17955014" version="4" timestamp="2009-12-26T07:17:56Z" uid="4467" user="Rosscoe" changeset="3452506">
+    <nd ref="185883913"/>
+    <nd ref="185883914"/>
+    <nd ref="185883915"/>
+    <nd ref="185885095"/>
+    <nd ref="599488374"/>
+    <nd ref="185883913"/>
+    <tag k="landuse" v="retail"/>
+  </way>
+  <way id="17955282" version="2" timestamp="2009-12-26T06:33:38Z" uid="4467" user="Rosscoe" changeset="3452375">
+    <nd ref="175475535"/>
+    <nd ref="185886173"/>
+    <nd ref="599482860"/>
+    <nd ref="185886174"/>
+    <nd ref="143951875"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Henchman Avenue"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="17955282" version="3" timestamp="2010-07-06T17:38:15Z" uid="74617" user="JohnSmith" changeset="5152225">
+    <nd ref="175475535"/>
+    <nd ref="185886173"/>
+    <nd ref="599482860"/>
+    <nd ref="185886174"/>
+    <nd ref="143951875"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Henchman Avenue"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="17955729" version="12" timestamp="2009-12-18T09:12:30Z" uid="4467" user="Rosscoe" changeset="3399054">
+    <nd ref="185891773"/>
+    <nd ref="595542230"/>
+    <nd ref="185764427"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Old Burleigh Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="17955895" version="7" timestamp="2009-12-18T09:12:30Z" uid="4467" user="Rosscoe" changeset="3399054">
+    <nd ref="185892456"/>
+    <nd ref="185891772"/>
+    <nd ref="185893092"/>
+    <nd ref="185893733"/>
+    <nd ref="185908237"/>
+    <nd ref="595542229"/>
+    <nd ref="185891773"/>
+    <nd ref="185764424"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Alexandra Avenue"/>
+  </way>
+  <way id="17955895" version="8" timestamp="2010-07-06T17:41:37Z" uid="74617" user="JohnSmith" changeset="5152225">
+    <nd ref="185892456"/>
+    <nd ref="185891772"/>
+    <nd ref="185893092"/>
+    <nd ref="185893733"/>
+    <nd ref="185908237"/>
+    <nd ref="595542229"/>
+    <nd ref="185891773"/>
+    <nd ref="185764424"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Alexandra Avenue"/>
+  </way>
+</osm>

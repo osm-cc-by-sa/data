@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="568528" version="1" timestamp="2010-04-18T23:39:07Z" uid="244897" user="M526244" changeset="4464032">
+    <member type="way" ref="25502648" role="member"/>
+    <member type="way" ref="33070029" role="member"/>
+    <tag k="name" v="Dunoon Road"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="568528" version="2" timestamp="2010-06-13T05:52:52Z" uid="244897" user="M526244" changeset="4975617">
+    <member type="way" ref="25502648" role="member"/>
+    <member type="way" ref="33070029" role="member"/>
+    <member type="way" ref="61861009" role="member"/>
+    <member type="way" ref="61861010" role="member"/>
+    <tag k="name" v="Dunoon Road"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="568530" version="1" timestamp="2010-04-18T23:44:07Z" uid="244897" user="M526244" changeset="4464032">
+    <member type="way" ref="32506699" role="member"/>
+    <member type="way" ref="32506698" role="member"/>
+    <member type="way" ref="32506697" role="member"/>
+    <member type="way" ref="32506696" role="member"/>
+    <member type="way" ref="32506617" role="member"/>
+    <tag k="name" v="Whian Road"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="568533" version="1" timestamp="2010-04-18T23:58:17Z" uid="244897" user="M526244" changeset="4464032">
+    <member type="way" ref="24868754" role="member"/>
+    <tag k="name" v="Friday Hut Road"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="568533" version="2" timestamp="2010-06-25T07:54:46Z" uid="244897" user="M526244" changeset="5071609">
+    <member type="way" ref="24868754" role="member"/>
+    <member type="way" ref="63950312" role="member"/>
+    <member type="way" ref="63950309" role="member"/>
+    <tag k="name" v="Friday Hut Road"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="568646" version="1" timestamp="2010-04-19T08:10:46Z" uid="74617" user="JohnSmith" changeset="4465421">
+    <member type="way" ref="55885557" role=""/>
+    <member type="way" ref="55885559" role=""/>
+    <member type="way" ref="55885560" role=""/>
+    <member type="way" ref="55885561" role=""/>
+    <tag k="natural" v="wetland"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="wetland" v="marsh"/>
+  </relation>
+  <relation id="568647" version="1" timestamp="2010-04-19T08:10:46Z" uid="74617" user="JohnSmith" changeset="4465421">
+    <member type="way" ref="55885556" role=""/>
+    <member type="way" ref="55885557" role=""/>
+    <tag k="natural" v="beach"/>
+    <tag k="surface" v="sand"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="568648" version="1" timestamp="2010-04-19T08:10:46Z" uid="74617" user="JohnSmith" changeset="4465421">
+    <member type="way" ref="55885560" role=""/>
+    <member type="way" ref="55885562" role=""/>
+    <tag k="natural" v="beach"/>
+    <tag k="surface" v="sand"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="568649" version="1" timestamp="2010-04-19T08:16:08Z" uid="74617" user="JohnSmith" changeset="4465421">
+    <member type="way" ref="55885661" role="outer"/>
+    <member type="way" ref="32319906" role="inner"/>
+    <tag k="natural" v="beach"/>
+    <tag k="surface" v="sand"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="568655" version="1" timestamp="2010-04-19T08:31:30Z" uid="115477" user="wowik" changeset="4465815">
+    <member type="way" ref="46628141" role="from"/>
+    <member type="node" ref="35926151" role="via"/>
+    <member type="way" ref="55885979" role="to"/>
+    <tag k="restriction" v="no_turn_left"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="568656" version="1" timestamp="2010-04-19T08:34:32Z" uid="115477" user="wowik" changeset="4465815">
+    <member type="way" ref="49948830" role="from"/>
+    <member type="node" ref="632830617" role="via"/>
+    <member type="way" ref="55886106" role="to"/>
+    <tag k="restriction" v="only_turn_right"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="568656" version="2" timestamp="2010-04-19T09:17:45Z" uid="115477" user="wowik" changeset="4465815">
+    <member type="way" ref="49948830" role="from"/>
+    <member type="node" ref="632830617" role="via"/>
+    <member type="way" ref="55886106" role="to"/>
+    <member type="way" ref="55887111" role="to"/>
+    <member type="way" ref="55887113" role="to"/>
+    <tag k="restriction" v="only_turn_right"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="568656" version="3" timestamp="2010-04-19T09:50:20Z" uid="115477" user="wowik" changeset="4466384">
+    <member type="way" ref="55887111" role="to"/>
+    <member type="way" ref="55887113" role="to"/>
+    <tag k="restriction" v="only_turn_right"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="568656" version="4" timestamp="2010-04-21T09:08:10Z" uid="115477" user="wowik" changeset="4484616"/>
+  <relation id="568657" version="1" timestamp="2010-04-19T08:34:32Z" uid="115477" user="wowik" changeset="4465815">
+    <member type="way" ref="55886105" role="from"/>
+    <member type="way" ref="53203634" role="to"/>
+    <member type="node" ref="632830617" role="via"/>
+    <tag k="restriction" v="only_turn_right"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="568657" version="2" timestamp="2010-04-19T09:57:08Z" uid="115477" user="wowik" changeset="4466384">
+    <member type="node" ref="632830617" role="to"/>
+    <tag k="restriction" v="no_turn_left"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="568657" version="3" timestamp="2010-04-19T09:59:18Z" uid="115477" user="wowik" changeset="4466384">
+    <tag k="restriction" v="no_turn_left"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="568665" version="1" timestamp="2010-04-19T08:52:58Z" uid="74617" user="JohnSmith" changeset="4465421">
+    <member type="way" ref="55886487" role="outer"/>
+    <member type="way" ref="32319905" role="inner"/>
+    <tag k="natural" v="beach"/>
+    <tag k="surface" v="sand"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="568682" version="2" timestamp="2011-05-08T16:55:23Z" uid="107674" user="GeoCounter" changeset="8084758"/>
+  <relation id="568692" version="1" timestamp="2010-04-19T09:17:46Z" uid="115477" user="wowik" changeset="4465815">
+    <member type="way" ref="55887112" role="from"/>
+    <member type="node" ref="701748693" role="via"/>
+    <tag k="restriction" v="only_turn_right"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="568692" version="2" timestamp="2010-04-19T09:37:50Z" uid="115477" user="wowik" changeset="4465815">
+    <member type="way" ref="55887112" role="from"/>
+    <member type="node" ref="701748693" role="via"/>
+    <tag k="restriction" v="only_turn_right"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="568692" version="3" timestamp="2010-04-21T09:09:56Z" uid="115477" user="wowik" changeset="4484633">
+    <member type="way" ref="55887112" role="from"/>
+    <member type="node" ref="701748693" role="via"/>
+    <member type="way" ref="55887113" role="to"/>
+    <tag k="restriction" v="only_turn_right"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+</osm>

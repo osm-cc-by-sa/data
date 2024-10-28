@@ -1,0 +1,228 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1061148" version="1" timestamp="2010-07-10T23:53:43Z" uid="74617" user="JohnSmith" changeset="5186148">
+    <member type="way" ref="67125946" role="outer"/>
+    <member type="way" ref="67125940" role="outer"/>
+    <tag k="leisure" v="park"/>
+    <tag k="name" v="Pelican Park"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1061149" version="1" timestamp="2010-07-10T23:53:43Z" uid="74617" user="JohnSmith" changeset="5186148">
+    <member type="way" ref="67125943" role="outer"/>
+    <member type="way" ref="67125940" role="outer"/>
+    <member type="way" ref="67125947" role="outer"/>
+    <tag k="leisure" v="park"/>
+    <tag k="name" v="Bells Beach"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1061150" version="1" timestamp="2010-07-10T23:53:43Z" uid="74617" user="JohnSmith" changeset="5186148">
+    <member type="way" ref="67125939" role="outer"/>
+    <member type="way" ref="67125945" role="outer"/>
+    <member type="way" ref="67125942" role="outer"/>
+    <member type="way" ref="67125947" role="outer"/>
+    <tag k="name" v="Bells Beach"/>
+    <tag k="natural" v="beach"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1061623" version="1" timestamp="2010-07-11T11:17:48Z" uid="33382" user="de_muur" changeset="5189277">
+    <member type="node" ref="778479662" role=""/>
+    <member type="way" ref="31030146" role=""/>
+    <member type="way" ref="62311205" role=""/>
+    <member type="way" ref="26725867" role=""/>
+    <member type="way" ref="67172334" role=""/>
+    <member type="node" ref="695624652" role=""/>
+    <tag k="name" v="Thedinghausen - Wulmstorf"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1061624" version="1" timestamp="2010-07-11T11:17:49Z" uid="33382" user="de_muur" changeset="5189277">
+    <member type="node" ref="695624642" role=""/>
+    <member type="way" ref="29455551" role=""/>
+    <member type="way" ref="67172331" role=""/>
+    <member type="node" ref="811266659" role=""/>
+    <tag k="name" v="Einste - Neu Morsum"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1061634" version="1" timestamp="2010-07-11T11:23:39Z" uid="33382" user="de_muur" changeset="5189333">
+    <member type="node" ref="811280110" role=""/>
+    <member type="way" ref="67172337" role=""/>
+    <tag k="name" v="(Einste) - Schwarme"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1061635" version="1" timestamp="2010-07-11T11:23:39Z" uid="33382" user="de_muur" changeset="5189333">
+    <member type="node" ref="811266659" role=""/>
+    <member type="way" ref="26531061" role=""/>
+    <tag k="name" v="Schwarme - (Wulmsdorf)"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Diepholz"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1061635" version="3" timestamp="2011-03-13T15:19:09Z" uid="33382" user="de_muur" changeset="7546131">
+    <member type="node" ref="811266659" role=""/>
+    <member type="way" ref="26531061" role=""/>
+    <member type="way" ref="88289351" role=""/>
+    <member type="way" ref="88289369" role=""/>
+    <tag k="name" v="Schwarme - (Wulmstorf)"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Diepholz"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1061636" version="1" timestamp="2010-07-11T11:32:13Z" uid="33382" user="de_muur" changeset="5189394">
+    <member type="node" ref="811292834" role=""/>
+    <member type="way" ref="10996654" role=""/>
+    <member type="node" ref="811292831" role=""/>
+    <tag k="name" v="Hiddestorf - Kuhlenkamp"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1061636" version="2" timestamp="2010-07-12T14:10:13Z" uid="33382" user="de_muur" changeset="5199450">
+    <member type="node" ref="811292834" role=""/>
+    <member type="way" ref="10996654" role=""/>
+    <member type="node" ref="811292831" role=""/>
+    <member type="way" ref="60208820" role=""/>
+    <member type="node" ref="813462466" role=""/>
+    <tag k="name" v="Hiddestorf - Kuhlenkamp"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1061636" version="3" timestamp="2010-07-12T14:13:46Z" uid="33382" user="de_muur" changeset="5199476">
+    <member type="node" ref="811292834" role=""/>
+    <member type="way" ref="10996654" role=""/>
+    <member type="node" ref="811292831" role=""/>
+    <member type="way" ref="60208820" role=""/>
+    <member type="node" ref="813462466" role=""/>
+    <member type="way" ref="67349997" role=""/>
+    <member type="node" ref="813467934" role=""/>
+    <tag k="name" v="Hiddestorf - Kuhlenkamp"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1061636" version="6" timestamp="2011-01-29T20:18:43Z" uid="33382" user="de_muur" changeset="7126816">
+    <member type="node" ref="811292834" role=""/>
+    <member type="way" ref="10996654" role=""/>
+    <member type="way" ref="60208820" role=""/>
+    <member type="node" ref="811292831" role=""/>
+    <member type="way" ref="97277880" role=""/>
+    <member type="way" ref="91761638" role=""/>
+    <member type="way" ref="91761636" role=""/>
+    <member type="node" ref="813462466" role=""/>
+    <member type="way" ref="67349997" role=""/>
+    <member type="node" ref="813467934" role=""/>
+    <member type="way" ref="86925149" role=""/>
+    <tag k="name" v="Hiddestorf - Kuhlenkamp"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1061637" version="1" timestamp="2010-07-11T11:32:14Z" uid="33382" user="de_muur" changeset="5189394">
+    <member type="node" ref="811280110" role=""/>
+    <member type="way" ref="29455541" role=""/>
+    <member type="way" ref="67174349" role=""/>
+    <member type="way" ref="67174348" role=""/>
+    <member type="node" ref="811292834" role=""/>
+    <tag k="name" v="(Einste) - (Kuhlenkamp)"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1061637" version="3" timestamp="2011-01-29T20:18:53Z" uid="33382" user="de_muur" changeset="7126816">
+    <member type="node" ref="811280110" role=""/>
+    <member type="way" ref="29455541" role=""/>
+    <member type="way" ref="67174349" role=""/>
+    <member type="node" ref="811292834" role=""/>
+    <member type="way" ref="86925149" role=""/>
+    <tag k="name" v="(Einste) - (Kuhlenkamp)"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1061691" version="1" timestamp="2010-07-11T12:21:37Z" uid="33382" user="de_muur" changeset="5189855">
+    <member type="node" ref="670710511" role=""/>
+    <member type="way" ref="59425705" role=""/>
+    <member type="way" ref="26960190" role=""/>
+    <member type="way" ref="28892183" role=""/>
+    <member type="node" ref="811339924" role=""/>
+    <member type="way" ref="26960188" role=""/>
+    <member type="way" ref="26960184" role=""/>
+    <member type="way" ref="26960185" role=""/>
+    <member type="way" ref="26960187" role=""/>
+    <member type="way" ref="58726695" role=""/>
+    <member type="way" ref="52916929" role=""/>
+    <member type="node" ref="671173401" role=""/>
+    <tag k="name" v="Achim - Schaphusen"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1061701" version="1" timestamp="2010-07-11T12:41:29Z" uid="33382" user="de_muur" changeset="5189989">
+    <member type="node" ref="811346551" role=""/>
+    <member type="way" ref="67187575" role=""/>
+    <tag k="name" v="Ottersberg - (Oyten)"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1061702" version="1" timestamp="2010-07-11T12:41:29Z" uid="33382" user="de_muur" changeset="5189989">
+    <member type="node" ref="582588794" role=""/>
+    <member type="way" ref="4886691" role=""/>
+    <member type="way" ref="40754214" role=""/>
+    <member type="way" ref="58726096" role=""/>
+    <member type="way" ref="35135389" role=""/>
+    <member type="way" ref="28493037" role=""/>
+    <member type="way" ref="28493036" role=""/>
+    <member type="way" ref="24318860" role=""/>
+    <member type="way" ref="4245893" role=""/>
+    <tag k="name" v="(Achim) - Sagehorn"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1061703" version="1" timestamp="2010-07-11T12:41:30Z" uid="33382" user="de_muur" changeset="5189989">
+    <member type="node" ref="811339924" role=""/>
+    <member type="way" ref="28892188" role=""/>
+    <member type="way" ref="28892184" role=""/>
+    <member type="way" ref="28892187" role=""/>
+    <member type="way" ref="28892185" role=""/>
+    <member type="way" ref="67187572" role=""/>
+    <member type="way" ref="67187573" role=""/>
+    <member type="way" ref="67187576" role=""/>
+    <member type="node" ref="811346551" role=""/>
+    <tag k="name" v="Achim - Bassen"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Landkreis Verden"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1061710" version="1" timestamp="2010-07-11T12:55:22Z" uid="27600" user="Islanit" changeset="5190103">
+    <member type="way" ref="23431243" role="from"/>
+    <tag k="restriction" v="no_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1061710" version="2" timestamp="2010-07-11T12:55:36Z" uid="27600" user="Islanit" changeset="5190103">
+    <member type="way" ref="23431243" role="from"/>
+    <tag k="restriction" v="no_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+</osm>

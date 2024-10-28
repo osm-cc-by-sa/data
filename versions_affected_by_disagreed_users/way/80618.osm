@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="80618440" version="2" timestamp="2010-10-13T16:30:10Z" uid="96874" user="Quedel" changeset="6030469">
+    <nd ref="266823252"/>
+    <nd ref="793631271"/>
+    <nd ref="266823296"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Wallstraße"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="80618440" version="3" timestamp="2010-10-15T18:48:58Z" uid="96874" user="Quedel" changeset="6051410">
+    <nd ref="266823252"/>
+    <nd ref="793631271"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Wallstraße"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:condition:right" v="free"/>
+    <tag k="parking:lane:left" v="no_parking"/>
+    <tag k="parking:lane:right" v="diagonal"/>
+    <tag k="surface" v="paved"/>
+  </way>
+</osm>

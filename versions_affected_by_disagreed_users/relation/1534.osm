@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1534278" version="1" timestamp="2011-04-09T16:40:25Z" uid="59758" user="rendle" changeset="7814990">
+    <member type="way" ref="107867361" role="outer"/>
+    <member type="way" ref="107867364" role="inner"/>
+    <member type="way" ref="107867366" role="inner"/>
+    <member type="way" ref="107867362" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1534777" version="1" timestamp="2011-04-09T20:38:54Z" uid="30632" user="antblant" changeset="7817238">
+    <member type="way" ref="107904079" role="outer"/>
+    <member type="way" ref="107904080" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1534905" version="1" timestamp="2011-04-09T23:50:21Z" uid="66036" user="h4v" changeset="7818457">
+    <member type="way" ref="25502902" role="street"/>
+    <member type="way" ref="107916425" role="house"/>
+    <member type="node" ref="1239319337" role="house"/>
+    <member type="node" ref="1239319236" role="house"/>
+    <member type="node" ref="1239319294" role="house"/>
+    <tag k="name" v="Rawska"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1534906" version="1" timestamp="2011-04-09T23:50:21Z" uid="66036" user="h4v" changeset="7818457">
+    <member type="way" ref="25753885" role="street"/>
+    <member type="way" ref="107916422" role="house"/>
+    <member type="node" ref="1239319265" role="house"/>
+    <member type="node" ref="1239319284" role="house"/>
+    <member type="way" ref="107916418" role="house"/>
+    <member type="node" ref="1239319268" role="house"/>
+    <member type="node" ref="1239319289" role="house"/>
+    <tag k="name" v="Stanisława Moniuszki"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1534907" version="1" timestamp="2011-04-09T23:50:21Z" uid="66036" user="h4v" changeset="7818457">
+    <member type="way" ref="25753843" role="street"/>
+    <member type="way" ref="107916424" role="house"/>
+    <member type="node" ref="1239319211" role="house"/>
+    <member type="node" ref="1239319256" role="house"/>
+    <tag k="name" v="Willowa"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1534908" version="1" timestamp="2011-04-09T23:50:21Z" uid="66036" user="h4v" changeset="7818457">
+    <member type="way" ref="90346483" role="street"/>
+    <member type="way" ref="107916416" role="house"/>
+    <member type="node" ref="1239319253" role="house"/>
+    <member type="node" ref="1239319266" role="house"/>
+    <member type="way" ref="107916417" role="house"/>
+    <member type="node" ref="1239319310" role="house"/>
+    <member type="node" ref="1239319329" role="house"/>
+    <tag k="name" v="Instytutowa"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1534909" version="1" timestamp="2011-04-09T23:50:21Z" uid="66036" user="h4v" changeset="7818457">
+    <member type="way" ref="25753848" role="street"/>
+    <member type="way" ref="107916421" role="house"/>
+    <member type="node" ref="1239319234" role="house"/>
+    <member type="node" ref="1239319291" role="house"/>
+    <tag k="name" v="Wieniawskiego"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1534909" version="2" timestamp="2011-04-14T10:06:23Z" uid="66036" user="h4v" changeset="7859263">
+    <member type="way" ref="25753848" role="street"/>
+    <member type="way" ref="107916421" role="house"/>
+    <member type="node" ref="1239319234" role="house"/>
+    <member type="node" ref="1239319291" role="house"/>
+    <member type="way" ref="108434520" role="house"/>
+    <member type="node" ref="1244209947" role="house"/>
+    <member type="node" ref="1244209931" role="house"/>
+    <tag k="name" v="Wieniawskiego"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+  <relation id="1534909" version="3" timestamp="2011-05-25T09:11:55Z" uid="66036" user="h4v" changeset="8242905">
+    <member type="way" ref="25753848" role="street"/>
+    <member type="way" ref="107916421" role="house"/>
+    <member type="node" ref="1239319234" role="house"/>
+    <member type="node" ref="1239319291" role="house"/>
+    <member type="way" ref="108434520" role="house"/>
+    <member type="node" ref="1244209947" role="house"/>
+    <member type="node" ref="1244209931" role="house"/>
+    <member type="node" ref="1299366414" role="house"/>
+    <tag k="name" v="Wieniawskiego"/>
+    <tag k="type" v="associatedStreet"/>
+  </relation>
+</osm>

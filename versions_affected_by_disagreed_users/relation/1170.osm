@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1170430" version="2" timestamp="2010-12-17T21:09:08Z" uid="107674" user="GeoCounter" changeset="6690810">
+    <member type="way" ref="47051522" role="inner"/>
+    <member type="way" ref="76845645" role="inner"/>
+    <member type="way" ref="75634124" role="outer"/>
+    <tag k="area" v="yes"/>
+    <tag k="bicycle:(Mo-Fr 20:00-09:00; Sa 16:00+; Su)" v="yes"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1170430" version="3" timestamp="2010-12-17T21:18:51Z" uid="107674" user="GeoCounter" changeset="6690902">
+    <member type="way" ref="47051522" role="inner"/>
+    <member type="way" ref="76845645" role="inner"/>
+    <member type="way" ref="75634124" role="outer"/>
+    <tag k="area" v="yes"/>
+    <tag k="bicycle:(Mo-Fr 20:00-09:00, Sa 16:00-24:00, Su,PH 00:00-24:00, 24:00-09:00)" v="yes"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1170431" version="2" timestamp="2010-12-17T21:09:12Z" uid="107674" user="GeoCounter" changeset="6690810"/>
+  <relation id="1170446" version="1" timestamp="2010-09-10T14:46:17Z" uid="115477" user="wowik" changeset="5741766">
+    <member type="way" ref="75529786" role="from"/>
+    <member type="way" ref="75390478" role="to"/>
+    <member type="node" ref="890260963" role="via"/>
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1170446" version="3" timestamp="2010-11-11T06:27:36Z" uid="115477" user="wowik" changeset="6341308">
+    <member type="way" ref="75390478" role="to"/>
+    <member type="node" ref="890260963" role="via"/>
+    <member type="way" ref="77739038" role="from"/>
+    <member type="way" ref="84832580" role="to"/>
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1170446" version="5" timestamp="2011-01-25T10:56:57Z" uid="115477" user="wowik" changeset="7082367">
+    <member type="way" ref="75390478" role="to"/>
+    <member type="node" ref="890260963" role="via"/>
+    <member type="way" ref="96692563" role="from"/>
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1170446" version="6" timestamp="2011-01-25T11:33:10Z" uid="115477" user="wowik" changeset="7082670">
+    <member type="way" ref="75390478" role="to"/>
+    <member type="node" ref="890260963" role="via"/>
+    <member type="way" ref="96695189" role="from"/>
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1170746" version="1" timestamp="2010-09-10T17:43:17Z" uid="8619" user="cetest" changeset="5743143">
+    <member type="node" ref="43979526" role=""/>
+    <member type="way" ref="7291505" role=""/>
+    <member type="way" ref="7291471" role=""/>
+    <member type="way" ref="7291434" role=""/>
+    <member type="way" ref="7291435" role=""/>
+    <member type="way" ref="7291517" role=""/>
+    <member type="way" ref="7291516" role=""/>
+    <member type="way" ref="7291368" role=""/>
+    <member type="way" ref="7291369" role=""/>
+    <member type="way" ref="7291429" role=""/>
+    <member type="way" ref="53198964" role=""/>
+    <member type="way" ref="53198963" role=""/>
+    <member type="way" ref="72896403" role=""/>
+    <member type="way" ref="22768366" role=""/>
+    <member type="way" ref="72896405" role=""/>
+    <member type="way" ref="75911798" role=""/>
+    <member type="node" ref="43953351" role=""/>
+    <tag k="name" v="Drechtsteden 87-98"/>
+    <tag k="network" v="rcn"/>
+    <tag k="note" v="87-98"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1170748" version="1" timestamp="2010-09-10T17:51:40Z" uid="8619" user="cetest" changeset="5743198">
+    <member type="node" ref="43953351" role=""/>
+    <member type="way" ref="7291363" role=""/>
+    <member type="way" ref="7291352" role=""/>
+    <member type="way" ref="7291492" role=""/>
+    <member type="way" ref="76873339" role=""/>
+    <member type="way" ref="7291509" role=""/>
+    <member type="way" ref="7291531" role=""/>
+    <member type="way" ref="7291493" role=""/>
+    <member type="way" ref="7291510" role=""/>
+    <member type="way" ref="75911801" role=""/>
+    <member type="way" ref="26060982" role=""/>
+    <member type="way" ref="71117858" role=""/>
+    <member type="way" ref="7291349" role=""/>
+    <member type="way" ref="7291304" role=""/>
+    <member type="way" ref="7338255" role=""/>
+    <member type="way" ref="7338267" role=""/>
+    <member type="way" ref="7338145" role=""/>
+    <member type="way" ref="7338160" role=""/>
+    <member type="way" ref="7338168" role=""/>
+    <member type="way" ref="7338240" role=""/>
+    <member type="way" ref="7338269" role=""/>
+    <member type="way" ref="7338130" role=""/>
+    <member type="way" ref="7338874" role=""/>
+    <member type="way" ref="7338879" role=""/>
+    <member type="node" ref="43909253" role=""/>
+    <tag k="name" v="Drechtsteden 87-88"/>
+    <tag k="network" v="rcn"/>
+    <tag k="note" v="87-88"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1170757" version="1" timestamp="2010-09-10T18:17:34Z" uid="8619" user="cetest" changeset="5743373">
+    <member type="node" ref="43910107" role=""/>
+    <member type="way" ref="76883926" role=""/>
+    <member type="way" ref="7338788" role=""/>
+    <member type="way" ref="7338911" role=""/>
+    <member type="way" ref="7338866" role=""/>
+    <member type="way" ref="7338880" role=""/>
+    <member type="node" ref="43909253" role=""/>
+    <tag k="name" v="Drechtsteden 49-88"/>
+    <tag k="network" v="rcn"/>
+    <tag k="note" v="49-88"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1170781" version="1" timestamp="2010-09-10T18:24:56Z" uid="8619" user="cetest" changeset="5743430">
+    <member type="node" ref="43910107" role=""/>
+    <member type="way" ref="45874196" role=""/>
+    <member type="way" ref="7338871" role=""/>
+    <member type="way" ref="75911797" role=""/>
+    <member type="way" ref="76886753" role=""/>
+    <member type="way" ref="7339030" role=""/>
+    <member type="way" ref="31985933" role=""/>
+    <member type="way" ref="7339024" role=""/>
+    <member type="way" ref="7338500" role=""/>
+    <member type="way" ref="7342477" role=""/>
+    <member type="way" ref="7342467" role=""/>
+    <tag k="name" v="Drechtsteden 48-49"/>
+    <tag k="network" v="rcn"/>
+    <tag k="note" v="48-49"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1170781" version="2" timestamp="2010-09-10T19:07:41Z" uid="8619" user="cetest" changeset="5743781">
+    <member type="node" ref="43910107" role=""/>
+    <member type="way" ref="45874196" role=""/>
+    <member type="way" ref="7338871" role=""/>
+    <member type="way" ref="75911797" role=""/>
+    <member type="way" ref="76886753" role=""/>
+    <member type="way" ref="7339030" role=""/>
+    <member type="way" ref="31985933" role=""/>
+    <member type="way" ref="7339024" role=""/>
+    <member type="way" ref="7338500" role=""/>
+    <member type="way" ref="7342477" role=""/>
+    <member type="way" ref="76899417" role=""/>
+    <member type="way" ref="7342467" role=""/>
+    <tag k="name" v="Drechtsteden 48-49"/>
+    <tag k="network" v="rcn"/>
+    <tag k="note" v="48-49"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1170896" version="1" timestamp="2010-09-10T19:07:35Z" uid="8619" user="cetest" changeset="5743781">
+    <member type="node" ref="43892384" role=""/>
+    <member type="way" ref="7342518" role=""/>
+    <member type="way" ref="7342477" role=""/>
+    <member type="way" ref="7342404" role=""/>
+    <member type="way" ref="7342410" role=""/>
+    <member type="way" ref="75911796" role=""/>
+    <member type="way" ref="76642755" role=""/>
+    <member type="way" ref="76642760" role=""/>
+    <member type="way" ref="75911793" role=""/>
+    <member type="way" ref="76899418" role=""/>
+    <member type="node" ref="247743093" role=""/>
+    <tag k="name" v="Drechtsteden 48-90"/>
+    <tag k="network" v="rcn"/>
+    <tag k="note" v="48-90"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+</osm>

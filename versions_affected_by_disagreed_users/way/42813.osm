@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="42813126" version="2" timestamp="2010-01-18T20:45:16Z" uid="9581" user="Lobelt" changeset="3653664">
+    <nd ref="535432619"/>
+    <nd ref="535432621"/>
+    <nd ref="535432625"/>
+    <nd ref="535432627"/>
+    <nd ref="535432628"/>
+    <tag k="cables" v="4"/>
+    <tag k="power" v="minor_line"/>
+    <tag k="wires" v="single"/>
+  </way>
+  <way id="42813209" version="2" timestamp="2011-02-28T12:09:41Z" uid="30632" user="antblant" changeset="7419936"/>
+  <way id="42813210" version="3" timestamp="2011-02-28T12:09:37Z" uid="30632" user="antblant" changeset="7419936">
+    <nd ref="535155026"/>
+    <nd ref="535155028"/>
+    <nd ref="535155036"/>
+    <nd ref="535299993"/>
+    <nd ref="535299988"/>
+    <nd ref="535299979"/>
+    <nd ref="535299981"/>
+    <nd ref="535299980"/>
+    <nd ref="535299941"/>
+    <nd ref="535299954"/>
+    <nd ref="535299947"/>
+    <nd ref="535299929"/>
+    <nd ref="535299950"/>
+    <nd ref="535299888"/>
+    <nd ref="535299906"/>
+    <nd ref="535299913"/>
+    <tag k="hgv" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="motorcar" v="no"/>
+    <tag k="note" v="Zakaz ruchu z wyjątkiem mieszkańców i transportu publicznego"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 01:24:13 09/02/09 (UMP-Krakow/src/WIELKA_WIES.drogi.txt)"/>
+    <tag k="taxi" v="no"/>
+  </way>
+  <way id="42813227" version="2" timestamp="2011-02-28T12:09:41Z" uid="30632" user="antblant" changeset="7419936"/>
+  <way id="42813246" version="2" timestamp="2011-02-28T12:15:12Z" uid="30632" user="antblant" changeset="7419975">
+    <nd ref="535300451"/>
+    <nd ref="535300527"/>
+    <tag k="access" v="permissive"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 01:24:13 09/02/09 (UMP-Krakow/src/WIELKA_WIES.drogi.txt)"/>
+  </way>
+  <way id="42813349" version="2" timestamp="2011-02-28T12:15:16Z" uid="30632" user="antblant" changeset="7419975">
+    <nd ref="535307791"/>
+    <nd ref="535307825"/>
+    <nd ref="535307817"/>
+    <nd ref="535307806"/>
+    <nd ref="535307811"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 01:24:13 09/02/09 (UMP-Krakow/src/WIELKA_WIES.drogi.txt)"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+</osm>

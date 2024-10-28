@@ -1,0 +1,427 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1260367" version="1" timestamp="2010-11-07T02:35:34Z" uid="7617" user="Franc" changeset="6307957">
+    <member type="way" ref="45230052" role="from"/>
+    <member type="way" ref="45230053" role="to"/>
+    <member type="node" ref="26374993" role="via"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1260368" version="1" timestamp="2010-11-07T02:35:36Z" uid="7617" user="Franc" changeset="6307957">
+    <member type="way" ref="45230053" role="from"/>
+    <member type="way" ref="83598739" role="to"/>
+    <member type="node" ref="574186328" role="via"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1260369" version="1" timestamp="2010-11-07T02:35:37Z" uid="7617" user="Franc" changeset="6307957">
+    <member type="way" ref="83598739" role="from"/>
+    <member type="way" ref="45230052" role="to"/>
+    <member type="node" ref="26374989" role="via"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1260370" version="1" timestamp="2010-11-07T02:35:37Z" uid="7617" user="Franc" changeset="6307957">
+    <member type="way" ref="4333789" role="from"/>
+    <member type="way" ref="4333790" role="to"/>
+    <member type="node" ref="26374947" role="via"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1260370" version="2" timestamp="2010-11-07T10:58:59Z" uid="7617" user="Franc" changeset="6310020">
+    <member type="way" ref="4333789" role="from"/>
+    <member type="way" ref="4333790" role="to"/>
+    <member type="node" ref="26374947" role="via"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1260425" version="1" timestamp="2010-11-07T07:56:37Z" uid="33382" user="de_muur" changeset="6308775">
+    <member type="node" ref="980114262" role=""/>
+    <member type="way" ref="42790963" role=""/>
+    <member type="way" ref="43659590" role=""/>
+    <member type="way" ref="35381587" role=""/>
+    <member type="node" ref="980121747" role=""/>
+    <tag k="name" v="Lehmrade - Ratzeburg"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1260425" version="2" timestamp="2010-11-07T08:02:46Z" uid="33382" user="de_muur" changeset="6308801">
+    <member type="node" ref="980114262" role=""/>
+    <member type="way" ref="42790963" role=""/>
+    <member type="way" ref="43659590" role=""/>
+    <member type="way" ref="35381587" role=""/>
+    <member type="node" ref="980121747" role=""/>
+    <member type="way" ref="25039658" role=""/>
+    <member type="way" ref="42790962" role=""/>
+    <member type="way" ref="42790961" role=""/>
+    <tag k="name" v="Lehmrade - Ratzeburg"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1260425" version="3" timestamp="2010-11-07T16:07:19Z" uid="33382" user="de_muur" changeset="6312856">
+    <member type="node" ref="980128387" role=""/>
+    <member type="way" ref="42790961" role=""/>
+    <member type="way" ref="42790962" role=""/>
+    <member type="way" ref="25039658" role=""/>
+    <member type="node" ref="980114262" role=""/>
+    <member type="way" ref="42790963" role=""/>
+    <member type="way" ref="43659590" role=""/>
+    <member type="way" ref="35381587" role=""/>
+    <member type="node" ref="980121747" role=""/>
+    <member type="way" ref="35382310" role=""/>
+    <member type="way" ref="84395994" role=""/>
+    <member type="way" ref="84395995" role=""/>
+    <member type="node" ref="981108732" role=""/>
+    <tag k="name" v="Lehmrade - Ratzeburg"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1260425" version="4" timestamp="2011-05-16T09:19:23Z" uid="33382" user="de_muur" changeset="8160533">
+    <member type="node" ref="980114262" role=""/>
+    <member type="way" ref="42790963" role=""/>
+    <member type="way" ref="43659590" role=""/>
+    <member type="way" ref="35381587" role=""/>
+    <member type="node" ref="980121747" role=""/>
+    <member type="way" ref="35382310" role=""/>
+    <member type="way" ref="84395994" role=""/>
+    <member type="way" ref="84395995" role=""/>
+    <member type="node" ref="981108732" role=""/>
+    <tag k="name" v="Lehmrade - Ratzeburg"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1260481" version="1" timestamp="2010-11-07T08:11:18Z" uid="33382" user="de_muur" changeset="6308834">
+    <member type="way" ref="42790961" role=""/>
+    <member type="way" ref="84276319" role=""/>
+    <member type="way" ref="26165958" role=""/>
+    <tag k="description" v="Mölln - Fredeburg - Farchau - Schmilau - Lehmrade - Mölln"/>
+    <tag k="distance" v="27km"/>
+    <tag k="name" v="Tour 14"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="ref" v="14"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1260481" version="2" timestamp="2010-11-07T16:07:22Z" uid="33382" user="de_muur" changeset="6312856">
+    <member type="way" ref="25161733" role=""/>
+    <member type="way" ref="84395991" role=""/>
+    <member type="way" ref="84395994" role=""/>
+    <member type="way" ref="35382310" role=""/>
+    <member type="way" ref="35381587" role=""/>
+    <member type="way" ref="43659590" role=""/>
+    <member type="way" ref="42790963" role=""/>
+    <member type="way" ref="25039658" role=""/>
+    <member type="way" ref="42790962" role=""/>
+    <member type="way" ref="42790961" role=""/>
+    <member type="way" ref="84276319" role=""/>
+    <member type="way" ref="26165958" role=""/>
+    <tag k="description" v="Mölln - Fredeburg - Farchau - Schmilau - Lehmrade - Mölln"/>
+    <tag k="distance" v="27km"/>
+    <tag k="name" v="Tour 14"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="ref" v="14"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1260481" version="3" timestamp="2010-11-14T15:57:30Z" uid="33382" user="de_muur" changeset="6367866">
+    <member type="way" ref="25161733" role=""/>
+    <member type="way" ref="84395991" role=""/>
+    <member type="way" ref="84395994" role=""/>
+    <member type="way" ref="35382310" role=""/>
+    <member type="way" ref="35381587" role=""/>
+    <member type="way" ref="43659590" role=""/>
+    <member type="way" ref="42790963" role=""/>
+    <member type="way" ref="25039658" role=""/>
+    <member type="way" ref="42790962" role=""/>
+    <member type="way" ref="42790961" role=""/>
+    <member type="way" ref="84276319" role=""/>
+    <member type="way" ref="26165958" role=""/>
+    <tag k="description" v="Mölln - Fredeburg - Farchau - Schmilau - Lehmrade - Mölln"/>
+    <tag k="distance" v="27km"/>
+    <tag k="name" v="Tour 14"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="ref" v="14"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1260481" version="4" timestamp="2011-05-16T09:19:18Z" uid="33382" user="de_muur" changeset="8160533">
+    <member type="way" ref="25161733" role=""/>
+    <member type="way" ref="84395991" role=""/>
+    <member type="way" ref="84395994" role=""/>
+    <member type="way" ref="35382310" role=""/>
+    <member type="way" ref="35381587" role=""/>
+    <member type="way" ref="43659590" role=""/>
+    <member type="way" ref="42790963" role=""/>
+    <member type="way" ref="25039658" role=""/>
+    <member type="way" ref="113553778" role=""/>
+    <member type="way" ref="42790962" role=""/>
+    <member type="way" ref="42790961" role=""/>
+    <member type="way" ref="84276319" role=""/>
+    <member type="way" ref="26165958" role=""/>
+    <tag k="description" v="Mölln - Fredeburg - Farchau - Schmilau - Lehmrade - Mölln"/>
+    <tag k="distance" v="27km"/>
+    <tag k="name" v="Tour 14"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="ref" v="14"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1260482" version="1" timestamp="2010-11-07T08:11:19Z" uid="33382" user="de_muur" changeset="6308834">
+    <member type="way" ref="26165958" role=""/>
+    <member type="way" ref="84276319" role=""/>
+    <member type="way" ref="38331707" role=""/>
+    <tag k="description" v="Mölln - Lehmrade - Gudow - Güster - westl. Kanalufer - Mölln"/>
+    <tag k="distance" v="33km"/>
+    <tag k="name" v="Tour 15"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="ref" v="15"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1260482" version="2" timestamp="2010-11-08T09:35:18Z" uid="33382" user="de_muur" changeset="6318891">
+    <member type="way" ref="26165958" role=""/>
+    <member type="way" ref="84276319" role=""/>
+    <member type="way" ref="38331707" role=""/>
+    <member type="way" ref="8580020" role=""/>
+    <member type="way" ref="37214962" role=""/>
+    <member type="way" ref="84526768" role=""/>
+    <member type="way" ref="66431283" role=""/>
+    <tag k="description" v="Mölln - Lehmrade - Gudow - Güster - westl. Kanalufer - Mölln"/>
+    <tag k="distance" v="33km"/>
+    <tag k="name" v="Tour 15"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="ref" v="15"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1260482" version="3" timestamp="2010-11-08T09:51:30Z" uid="33382" user="de_muur" changeset="6319005">
+    <member type="way" ref="26165958" role=""/>
+    <member type="way" ref="84276319" role=""/>
+    <member type="way" ref="38331707" role=""/>
+    <member type="way" ref="8580020" role=""/>
+    <member type="way" ref="37214962" role=""/>
+    <member type="way" ref="84526768" role=""/>
+    <member type="way" ref="66431283" role=""/>
+    <member type="way" ref="66431280" role=""/>
+    <member type="way" ref="57717906" role=""/>
+    <member type="way" ref="57717938" role=""/>
+    <member type="way" ref="25040478" role=""/>
+    <member type="way" ref="57717944" role=""/>
+    <member type="way" ref="25040479" role=""/>
+    <member type="way" ref="57717942" role=""/>
+    <member type="way" ref="57932685" role=""/>
+    <member type="way" ref="66420523" role=""/>
+    <tag k="description" v="Mölln - Lehmrade - Gudow - Güster - westl. Kanalufer - Mölln"/>
+    <tag k="distance" v="33km"/>
+    <tag k="name" v="Tour 15"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="ref" v="15"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1260482" version="4" timestamp="2010-11-14T15:57:53Z" uid="33382" user="de_muur" changeset="6367866">
+    <member type="way" ref="26165958" role=""/>
+    <member type="way" ref="84276319" role=""/>
+    <member type="way" ref="38331707" role=""/>
+    <member type="way" ref="8580020" role=""/>
+    <member type="way" ref="37214962" role=""/>
+    <member type="way" ref="84526768" role=""/>
+    <member type="way" ref="66431283" role=""/>
+    <member type="way" ref="66431280" role=""/>
+    <member type="way" ref="57717906" role=""/>
+    <member type="way" ref="57717938" role=""/>
+    <member type="way" ref="25040478" role=""/>
+    <member type="way" ref="57717944" role=""/>
+    <member type="way" ref="25040479" role=""/>
+    <member type="way" ref="57717942" role=""/>
+    <member type="way" ref="57932685" role=""/>
+    <member type="way" ref="66420523" role=""/>
+    <tag k="description" v="Mölln - Lehmrade - Gudow - Güster - westl. Kanalufer - Mölln"/>
+    <tag k="distance" v="33km"/>
+    <tag k="name" v="Tour 15"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="ref" v="15"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1260482" version="5" timestamp="2011-03-12T08:55:58Z" uid="33382" user="de_muur" changeset="7530777">
+    <member type="way" ref="26165958" role=""/>
+    <member type="way" ref="84276319" role=""/>
+    <member type="way" ref="38331707" role=""/>
+    <member type="way" ref="8580020" role=""/>
+    <member type="way" ref="37214962" role=""/>
+    <member type="way" ref="84526768" role=""/>
+    <member type="way" ref="66431283" role=""/>
+    <member type="way" ref="66431280" role=""/>
+    <member type="way" ref="57717906" role=""/>
+    <member type="way" ref="57717938" role=""/>
+    <member type="way" ref="25040478" role=""/>
+    <member type="way" ref="57717944" role=""/>
+    <member type="way" ref="25040479" role=""/>
+    <member type="way" ref="57717942" role=""/>
+    <member type="way" ref="57932685" role=""/>
+    <member type="way" ref="103766929" role=""/>
+    <member type="way" ref="103766948" role=""/>
+    <member type="way" ref="66420523" role=""/>
+    <tag k="description" v="Mölln - Lehmrade - Gudow - Güster - westl. Kanalufer - Mölln"/>
+    <tag k="distance" v="33km"/>
+    <tag k="name" v="Tour 15"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="ref" v="15"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1260482" version="6" timestamp="2011-06-14T19:03:31Z" uid="33382" user="de_muur" changeset="8440636">
+    <member type="way" ref="26165958" role=""/>
+    <member type="way" ref="84276319" role=""/>
+    <member type="way" ref="38331707" role=""/>
+    <member type="way" ref="8580020" role=""/>
+    <member type="way" ref="37214962" role=""/>
+    <member type="way" ref="84526768" role=""/>
+    <member type="way" ref="66431283" role=""/>
+    <member type="way" ref="66431280" role=""/>
+    <member type="way" ref="57717906" role=""/>
+    <member type="way" ref="57717938" role=""/>
+    <member type="way" ref="25040478" role=""/>
+    <member type="way" ref="57717944" role=""/>
+    <member type="way" ref="25040479" role=""/>
+    <member type="way" ref="57717942" role=""/>
+    <member type="way" ref="57932685" role=""/>
+    <member type="way" ref="103766929" role=""/>
+    <member type="way" ref="103766948" role=""/>
+    <member type="way" ref="66420523" role=""/>
+    <member type="way" ref="37905035" role=""/>
+    <member type="way" ref="37462474" role=""/>
+    <member type="way" ref="117686675" role=""/>
+    <member type="way" ref="37487065" role=""/>
+    <member type="way" ref="26156054" role=""/>
+    <member type="way" ref="37462492" role=""/>
+    <tag k="description" v="Mölln - Lehmrade - Gudow - Güster - westl. Kanalufer - Mölln"/>
+    <tag k="distance" v="33km"/>
+    <tag k="name" v="Tour 15"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="ref" v="15"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1260483" version="1" timestamp="2010-11-07T08:11:20Z" uid="33382" user="de_muur" changeset="6308834">
+    <member type="way" ref="38331707" role=""/>
+    <member type="way" ref="42790961" role=""/>
+    <tag k="description" v="Ratzeburg - Salem - Hollenbek - Kehrsen - Lehmrade - Schmilau - Ratzeburg"/>
+    <tag k="distance" v="33km"/>
+    <tag k="name" v="Tour 28"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="ref" v="28"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1260483" version="2" timestamp="2010-11-07T16:07:21Z" uid="33382" user="de_muur" changeset="6312856">
+    <member type="way" ref="38331707" role=""/>
+    <member type="way" ref="42790961" role=""/>
+    <member type="way" ref="42790962" role=""/>
+    <member type="way" ref="25039658" role=""/>
+    <member type="way" ref="42790963" role=""/>
+    <member type="way" ref="43659590" role=""/>
+    <member type="way" ref="35381587" role=""/>
+    <member type="way" ref="35382310" role=""/>
+    <member type="way" ref="84395994" role=""/>
+    <member type="way" ref="84395991" role=""/>
+    <member type="way" ref="25161733" role=""/>
+    <tag k="description" v="Ratzeburg - Salem - Hollenbek - Kehrsen - Lehmrade - Schmilau - Ratzeburg"/>
+    <tag k="distance" v="33km"/>
+    <tag k="name" v="Tour 28"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="ref" v="28"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1260483" version="3" timestamp="2010-11-08T09:12:10Z" uid="33382" user="de_muur" changeset="6318752">
+    <member type="way" ref="77677782" role=""/>
+    <member type="way" ref="84526305" role=""/>
+    <member type="way" ref="77677791" role=""/>
+    <member type="way" ref="84526304" role=""/>
+    <member type="way" ref="77677758" role=""/>
+    <member type="way" ref="38331707" role=""/>
+    <member type="way" ref="42790961" role=""/>
+    <member type="way" ref="42790962" role=""/>
+    <member type="way" ref="25039658" role=""/>
+    <member type="way" ref="42790963" role=""/>
+    <member type="way" ref="43659590" role=""/>
+    <member type="way" ref="35381587" role=""/>
+    <member type="way" ref="35382310" role=""/>
+    <member type="way" ref="84395994" role=""/>
+    <member type="way" ref="84395991" role=""/>
+    <member type="way" ref="25161733" role=""/>
+    <tag k="description" v="Ratzeburg - Salem - Hollenbek - Kehrsen - Lehmrade - Schmilau - Ratzeburg"/>
+    <tag k="distance" v="33km"/>
+    <tag k="name" v="Tour 28"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="ref" v="28"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1260483" version="4" timestamp="2011-05-16T09:19:23Z" uid="33382" user="de_muur" changeset="8160533">
+    <member type="way" ref="77677782" role=""/>
+    <member type="way" ref="84526305" role=""/>
+    <member type="way" ref="77677791" role=""/>
+    <member type="way" ref="84526304" role=""/>
+    <member type="way" ref="77677758" role=""/>
+    <member type="way" ref="38331707" role=""/>
+    <member type="way" ref="42790961" role=""/>
+    <member type="way" ref="42790962" role=""/>
+    <member type="way" ref="113553778" role=""/>
+    <member type="way" ref="25039658" role=""/>
+    <member type="way" ref="42790963" role=""/>
+    <member type="way" ref="43659590" role=""/>
+    <member type="way" ref="35381587" role=""/>
+    <member type="way" ref="35382310" role=""/>
+    <member type="way" ref="84395994" role=""/>
+    <member type="way" ref="84395991" role=""/>
+    <member type="way" ref="25161733" role=""/>
+    <tag k="description" v="Ratzeburg - Salem - Hollenbek - Kehrsen - Lehmrade - Schmilau - Ratzeburg"/>
+    <tag k="distance" v="33km"/>
+    <tag k="name" v="Tour 28"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="ref" v="28"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1260589" version="1" timestamp="2010-11-07T10:58:21Z" uid="7617" user="Franc" changeset="6310020">
+    <member type="way" ref="45232369" role="from"/>
+    <member type="way" ref="4333789" role="to"/>
+    <member type="node" ref="574228543" role="via"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1260590" version="1" timestamp="2010-11-07T10:58:23Z" uid="7617" user="Franc" changeset="6310020">
+    <member type="way" ref="3696131" role="from"/>
+    <member type="way" ref="54949321" role="to"/>
+    <member type="node" ref="18319139" role="via"/>
+    <tag k="restriction" v="no_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1260591" version="1" timestamp="2010-11-07T10:58:23Z" uid="7617" user="Franc" changeset="6310020">
+    <member type="way" ref="4333790" role="from"/>
+    <member type="way" ref="45232369" role="to"/>
+    <member type="node" ref="574228522" role="via"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+</osm>

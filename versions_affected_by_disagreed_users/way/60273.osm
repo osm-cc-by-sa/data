@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="60273817" version="2" timestamp="2010-08-04T17:39:41Z" uid="9581" user="Lobelt" changeset="5401263">
+    <nd ref="257579874"/>
+    <nd ref="749416277"/>
+    <nd ref="749416290"/>
+    <nd ref="749416297"/>
+    <nd ref="749416300"/>
+    <tag k="cables" v="6"/>
+    <tag k="frequency" v="50"/>
+    <tag k="name" v="212"/>
+    <tag k="operator" v="EON_Netz"/>
+    <tag k="power" v="line"/>
+    <tag k="ref" v="212"/>
+    <tag k="voltage" v="220000"/>
+  </way>
+  <way id="60273978" version="1" timestamp="2010-05-26T16:52:39Z" uid="115477" user="wowik" changeset="4814765">
+    <nd ref="749431974"/>
+    <nd ref="749431975"/>
+    <nd ref="749431979"/>
+    <nd ref="749431982"/>
+    <nd ref="749431974"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="60273979" version="1" timestamp="2010-05-26T16:52:39Z" uid="115477" user="wowik" changeset="4814765">
+    <nd ref="749431992"/>
+    <nd ref="749431995"/>
+    <nd ref="749431999"/>
+    <tag k="railway" v="rail"/>
+    <tag k="service" v="spur"/>
+  </way>
+  <way id="60273979" version="2" timestamp="2010-09-08T10:49:20Z" uid="115477" user="wowik" changeset="5715736">
+    <nd ref="902572277"/>
+    <nd ref="749431992"/>
+    <nd ref="749431995"/>
+    <nd ref="902572278"/>
+    <nd ref="749431999"/>
+    <tag k="railway" v="rail"/>
+    <tag k="service" v="spur"/>
+  </way>
+</osm>

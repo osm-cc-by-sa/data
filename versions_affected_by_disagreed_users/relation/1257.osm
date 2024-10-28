@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1257201" version="4" timestamp="2011-05-05T15:22:39Z" uid="115477" user="wowik" changeset="8057723">
+    <member type="way" ref="5169728" role="outer"/>
+    <member type="way" ref="80217851" role="outer"/>
+    <member type="way" ref="43565415" role="outer"/>
+    <member type="way" ref="43565416" role="outer"/>
+    <member type="way" ref="84039105" role="outer"/>
+    <member type="way" ref="25069328" role="outer"/>
+    <member type="way" ref="84039108" role="outer"/>
+    <member type="way" ref="8110048" role="outer"/>
+    <member type="way" ref="8110100" role="outer"/>
+    <member type="way" ref="25452332" role="outer"/>
+    <member type="way" ref="86323004" role="outer"/>
+    <member type="way" ref="30794512" role="outer"/>
+    <member type="way" ref="25008224" role="outer"/>
+    <member type="way" ref="23680611" role="outer"/>
+    <member type="way" ref="33814279" role="outer"/>
+    <member type="way" ref="33814278" role="outer"/>
+    <member type="way" ref="23680615" role="outer"/>
+    <member type="way" ref="84039115" role="outer"/>
+    <member type="way" ref="28282318" role="outer"/>
+    <member type="way" ref="84039118" role="outer"/>
+    <member type="way" ref="84039100" role="outer"/>
+    <member type="way" ref="84039107" role="outer"/>
+    <member type="way" ref="46421649" role="outer"/>
+    <member type="way" ref="84039114" role="outer"/>
+    <member type="way" ref="84039111" role="outer"/>
+    <member type="way" ref="23129088" role="outer"/>
+    <member type="way" ref="45375963" role="outer"/>
+    <member type="way" ref="31960461" role="outer"/>
+    <member type="way" ref="46521585" role="outer"/>
+    <member type="way" ref="23125771" role="outer"/>
+    <member type="way" ref="23680719" role="outer"/>
+    <member type="way" ref="55939357" role="outer"/>
+    <member type="way" ref="47967691" role="outer"/>
+    <member type="way" ref="47967687" role="outer"/>
+    <member type="way" ref="23180967" role="outer"/>
+    <member type="way" ref="23645907" role="outer"/>
+    <member type="way" ref="111826828" role="outer"/>
+    <member type="way" ref="84039101" role="outer"/>
+    <member type="way" ref="84039106" role="outer"/>
+    <member type="way" ref="84039120" role="outer"/>
+    <member type="way" ref="33997739" role="outer"/>
+    <member type="way" ref="38192365" role="outer"/>
+    <member type="way" ref="45652157" role="outer"/>
+    <member type="way" ref="84039103" role="outer"/>
+    <member type="way" ref="55334963" role="outer"/>
+    <member type="way" ref="84039112" role="outer"/>
+    <member type="way" ref="22580628" role="outer"/>
+    <member type="way" ref="23411905" role="outer"/>
+    <member type="way" ref="47994627" role="outer"/>
+    <member type="way" ref="25059224" role="outer"/>
+    <member type="way" ref="99339087" role="outer"/>
+    <member type="way" ref="84039119" role="outer"/>
+    <member type="way" ref="23412018" role="outer"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Басманный район"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="1257677" version="1" timestamp="2010-11-05T22:12:51Z" uid="7617" user="Franc" changeset="6298795">
+    <member type="way" ref="84064947" role="from"/>
+    <member type="way" ref="84064875" role="to"/>
+    <member type="node" ref="29375493" role="via"/>
+    <tag k="restriction" v="no_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1257678" version="1" timestamp="2010-11-05T22:12:51Z" uid="7617" user="Franc" changeset="6298795">
+    <member type="way" ref="84064954" role="from"/>
+    <member type="way" ref="84064875" role="to"/>
+    <member type="node" ref="29375493" role="via"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1257679" version="1" timestamp="2010-11-05T22:12:51Z" uid="7617" user="Franc" changeset="6298795">
+    <member type="way" ref="84064875" role="from"/>
+    <member type="way" ref="84064954" role="to"/>
+    <member type="node" ref="977983602" role="via"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+</osm>

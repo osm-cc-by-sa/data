@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="57888777" version="1" timestamp="2010-05-03T07:11:52Z" uid="55964" user="Evan Sebire" changeset="4592212">
+    <nd ref="718406202"/>
+    <nd ref="718406203"/>
+    <nd ref="405984815"/>
+    <nd ref="718406204"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="57888778" version="1" timestamp="2010-05-03T07:11:52Z" uid="55964" user="Evan Sebire" changeset="4592212">
+    <nd ref="718406205"/>
+    <nd ref="718406202"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="path"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="width" v="1.2"/>
+  </way>
+  <way id="57888779" version="1" timestamp="2010-05-03T07:11:52Z" uid="55964" user="Evan Sebire" changeset="4592212">
+    <nd ref="718406205"/>
+    <nd ref="405984815"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="path"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="width" v="1.2"/>
+  </way>
+  <way id="57888853" version="3" timestamp="2010-05-24T00:41:40Z" uid="4467" user="Rosscoe" changeset="4789233">
+    <nd ref="718406637"/>
+    <nd ref="720629529"/>
+    <nd ref="718406638"/>
+    <nd ref="718406639"/>
+    <nd ref="718406640"/>
+    <nd ref="718406641"/>
+    <nd ref="718406642"/>
+    <nd ref="718406643"/>
+    <nd ref="718406644"/>
+    <nd ref="718406637"/>
+    <tag k="addr:housenumber" v="162"/>
+    <tag k="building" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="57888920" version="2" timestamp="2010-07-06T10:02:57Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="718407112"/>
+    <nd ref="718407116"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Holbrook Street"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="57888922" version="2" timestamp="2010-07-06T10:11:48Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="718407118"/>
+    <nd ref="718407117"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Barbecue Street"/>
+    <tag k="note" v="what a great street name !!"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+</osm>

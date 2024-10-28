@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="38390108" version="4" timestamp="2010-08-02T14:23:29Z" uid="33382" user="de_muur" changeset="5381153">
+    <nd ref="843428863"/>
+    <nd ref="453608924"/>
+    <nd ref="503896334"/>
+    <nd ref="268290116"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Narthauener Straße"/>
+    <tag k="ref" v="K 202"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="38390125" version="5" timestamp="2010-08-02T14:14:17Z" uid="33382" user="de_muur" changeset="5381047">
+    <nd ref="268290071"/>
+    <nd ref="393702656"/>
+    <nd ref="268290074"/>
+    <nd ref="268290075"/>
+    <nd ref="461990673"/>
+    <nd ref="268290078"/>
+    <nd ref="843414393"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Am Glockenstuhl"/>
+    <tag k="ref" v="K 4"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="38390251" version="1" timestamp="2009-08-01T22:11:14Z" uid="110593" user="esetzer" changeset="2008585">
+    <nd ref="421057886"/>
+    <nd ref="453671235"/>
+    <tag k="created_by" v="Merkaartor 0.11"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="cycleway"/>
+  </way>
+  <way id="38390251" version="2" timestamp="2010-03-26T23:55:28Z" uid="110593" user="esetzer" changeset="4243032">
+    <nd ref="421057886"/>
+    <nd ref="453671235"/>
+    <tag k="bicycle" v="designated"/>
+    <tag k="created_by" v="Merkaartor 0.11"/>
+    <tag k="foot" v="designated"/>
+    <tag k="highway" v="path"/>
+  </way>
+  <way id="38390271" version="2" timestamp="2010-06-29T19:13:12Z" uid="74617" user="JohnSmith" changeset="5108182">
+    <nd ref="453671394"/>
+    <nd ref="453671395"/>
+    <nd ref="453671396"/>
+    <nd ref="453671397"/>
+    <nd ref="453671394"/>
+    <tag k="fixme" v="sport=football is ambiguous, see http://wiki.osm.org/wiki/Football for more details"/>
+    <tag k="sport" v="football"/>
+  </way>
+  <way id="38390289" version="1" timestamp="2009-08-01T22:12:31Z" uid="123517" user="Qichina" changeset="2008581">
+    <nd ref="453323746"/>
+    <nd ref="453671548"/>
+    <nd ref="453330908"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="footway"/>
+    <tag k="name" v="St Peter&apos;s Way"/>
+    <tag k="source" v="gps"/>
+  </way>
+  <way id="38390289" version="2" timestamp="2009-08-01T22:15:24Z" uid="123517" user="Qichina" changeset="2008619"/>
+</osm>

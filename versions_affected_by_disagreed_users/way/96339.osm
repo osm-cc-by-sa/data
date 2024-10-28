@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="96339974" version="1" timestamp="2011-01-23T10:03:22Z" uid="61114" user="Trav" changeset="7059022">
+    <nd ref="111234501"/>
+    <nd ref="1116567531"/>
+    <nd ref="1116567532"/>
+    <nd ref="1116567533"/>
+    <tag k="highway" v="residential"/>
+    <tag k="note" v="FIXME: Might go through - survey needed"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="96339974" version="2" timestamp="2011-01-24T10:25:43Z" uid="61114" user="Trav" changeset="7071370">
+    <nd ref="653262460"/>
+    <nd ref="1118495876"/>
+    <nd ref="1118495877"/>
+    <nd ref="111234501"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lcn" v="yes"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Lone Pine Avenue"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+</osm>

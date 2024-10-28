@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="76508250" version="2" timestamp="2011-01-25T13:24:09Z" uid="4467" user="Rosscoe" changeset="7083604">
+    <nd ref="900670778"/>
+    <nd ref="901858067"/>
+    <nd ref="901858070"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Two Wells Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:name" v="local knowledge"/>
+    <tag k="source_ref" v="http://osm.beldin.org/2008/12/dscf6013.jpg"/>
+  </way>
+  <way id="76508252" version="2" timestamp="2011-01-25T13:24:07Z" uid="4467" user="Rosscoe" changeset="7083604">
+    <nd ref="901858095"/>
+    <nd ref="901858098"/>
+    <nd ref="901858099"/>
+    <nd ref="901858100"/>
+    <nd ref="901858117"/>
+    <nd ref="901858120"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="name" v="Wingate Road"/>
+    <tag k="source" v="ABS_2006"/>
+    <tag k="source_ref:name" v="http://osm.beldin.org/dscf1640.jpg"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="76508264" version="2" timestamp="2011-04-05T02:49:48Z" uid="4467" user="Rosscoe" changeset="7771132">
+    <nd ref="1233256352"/>
+    <nd ref="279428727"/>
+    <nd ref="279428728"/>
+    <nd ref="279428729"/>
+    <nd ref="279428730"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Marmora Terrace"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+  </way>
+</osm>

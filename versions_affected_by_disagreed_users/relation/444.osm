@@ -1,0 +1,525 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="444322" version="1" timestamp="2010-03-06T18:47:19Z" uid="20587" user="balrog-kun" changeset="4053502">
+    <member type="way" ref="5537917" role=""/>
+    <tag k="note" v="TODO"/>
+    <tag k="ref" v="4T"/>
+    <tag k="route" v="hiking"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="444517" version="1" timestamp="2010-03-07T00:29:04Z" uid="61114" user="Trav" changeset="4056595">
+    <member type="way" ref="51863260" role="inner"/>
+    <member type="way" ref="51863259" role="outer"/>
+    <tag k="building" v="yes"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="444531" version="1" timestamp="2010-03-07T01:20:59Z" uid="7617" user="Franc" changeset="4056859">
+    <member type="way" ref="13340075" role="from"/>
+    <member type="node" ref="21398726" role="via"/>
+    <member type="way" ref="48731454" role="to"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="444532" version="1" timestamp="2010-03-07T01:21:01Z" uid="7617" user="Franc" changeset="4056859">
+    <member type="way" ref="51863964" role="from"/>
+    <member type="way" ref="15370258" role="to"/>
+    <member type="node" ref="661777984" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="444532" version="2" timestamp="2010-03-07T10:42:35Z" uid="7617" user="Franc" changeset="4059391">
+    <member type="way" ref="15370258" role="to"/>
+    <member type="node" ref="661777984" role="via"/>
+    <member type="way" ref="51876775" role="from"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="444562" version="1" timestamp="2010-03-07T04:37:26Z" uid="74617" user="JohnSmith" changeset="4057332">
+    <member type="way" ref="32038803" role="outer"/>
+    <member type="way" ref="32038806" role="outer"/>
+    <member type="way" ref="32259286" role="outer"/>
+    <member type="way" ref="32259287" role="outer"/>
+    <member type="way" ref="32259288" role="outer"/>
+    <member type="way" ref="31756933" role="outer"/>
+    <member type="way" ref="31893305" role="outer"/>
+    <member type="way" ref="31893300" role="outer"/>
+    <member type="way" ref="31981590" role="outer"/>
+    <member type="way" ref="31927419" role="outer"/>
+    <member type="way" ref="31706351" role="outer"/>
+    <member type="way" ref="31706345" role="outer"/>
+    <member type="way" ref="32267577" role="outer"/>
+    <member type="way" ref="32290026" role="outer"/>
+    <member type="way" ref="31758897" role="outer"/>
+    <member type="way" ref="31758902" role="outer"/>
+    <member type="way" ref="32289391" role="outer"/>
+    <member type="way" ref="32249310" role="outer"/>
+    <member type="way" ref="32053023" role="outer"/>
+    <member type="way" ref="32249312" role="outer"/>
+    <member type="way" ref="32246870" role="outer"/>
+    <member type="way" ref="32246875" role="outer"/>
+    <member type="way" ref="32246876" role="outer"/>
+    <member type="way" ref="32304156" role="outer"/>
+    <member type="way" ref="32252128" role="outer"/>
+    <member type="way" ref="32252129" role="outer"/>
+    <member type="way" ref="32285027" role="outer"/>
+    <member type="way" ref="32198137" role="outer"/>
+    <member type="way" ref="32023978" role="outer"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="attribution" v="Based on Australian Bureau of Statistics data"/>
+    <tag k="au.gov.abs:reviewed" v="yes"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="4305"/>
+    <tag k="postal_code" v="4305"/>
+    <tag k="source" v="ABS_2006"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="444564" version="1" timestamp="2010-03-07T04:43:46Z" uid="74617" user="JohnSmith" changeset="4057347">
+    <member type="way" ref="32129404" role="outer"/>
+    <member type="way" ref="32129403" role="outer"/>
+    <member type="way" ref="32296786" role="outer"/>
+    <member type="way" ref="32246875" role="outer"/>
+    <member type="way" ref="32246876" role="outer"/>
+    <member type="way" ref="32304156" role="outer"/>
+    <member type="way" ref="32252128" role="outer"/>
+    <member type="way" ref="32252129" role="outer"/>
+    <member type="way" ref="32285027" role="outer"/>
+    <member type="way" ref="32198137" role="outer"/>
+    <member type="way" ref="32023978" role="outer"/>
+    <member type="way" ref="32038803" role="outer"/>
+    <member type="way" ref="32038806" role="outer"/>
+    <member type="way" ref="32259286" role="outer"/>
+    <member type="way" ref="32259728" role="outer"/>
+    <member type="way" ref="32129326" role="outer"/>
+    <member type="way" ref="32129412" role="outer"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="attribution" v="Based on Australian Bureau of Statistics data"/>
+    <tag k="au.gov.abs:reviewed" v="yes"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="4304"/>
+    <tag k="postal_code" v="4304"/>
+    <tag k="source" v="ABS_2006"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="444572" version="1" timestamp="2010-03-07T06:40:22Z" uid="74617" user="JohnSmith" changeset="4057602">
+    <member type="way" ref="31408831" role="member"/>
+    <member type="way" ref="31408827" role="member"/>
+    <member type="way" ref="47411454" role="member"/>
+    <member type="way" ref="31716473" role="member"/>
+    <member type="way" ref="31716472" role="member"/>
+    <member type="way" ref="27217407" role="member"/>
+    <member type="way" ref="51869336" role="member"/>
+    <member type="way" ref="15657145" role="member"/>
+    <member type="way" ref="15657144" role="member"/>
+    <member type="way" ref="15657149" role="member"/>
+    <member type="way" ref="29171038" role="member"/>
+    <member type="way" ref="15659041" role="member"/>
+    <tag k="network" v="T"/>
+    <tag k="ref" v="7"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="444572" version="2" timestamp="2010-03-07T06:49:37Z" uid="74617" user="JohnSmith" changeset="4057646">
+    <member type="way" ref="31408831" role="member"/>
+    <member type="way" ref="31408827" role="member"/>
+    <member type="way" ref="47411454" role="member"/>
+    <member type="way" ref="31716473" role="member"/>
+    <member type="way" ref="31716472" role="member"/>
+    <member type="way" ref="27217407" role="member"/>
+    <member type="way" ref="51869336" role="member"/>
+    <member type="way" ref="15657145" role="member"/>
+    <member type="way" ref="15657144" role="member"/>
+    <member type="way" ref="15657149" role="member"/>
+    <member type="way" ref="29171038" role="member"/>
+    <member type="way" ref="15659041" role="member"/>
+    <member type="way" ref="15676646" role="member"/>
+    <tag k="network" v="T"/>
+    <tag k="ref" v="7"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="444585" version="1" timestamp="2010-03-07T08:10:58Z" uid="7617" user="Franc" changeset="4058045">
+    <member type="way" ref="14242774" role="from"/>
+    <member type="way" ref="4085519" role="to"/>
+    <member type="node" ref="60409607" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="444610" version="1" timestamp="2010-03-07T08:29:38Z" uid="74617" user="JohnSmith" changeset="4058176">
+    <member type="way" ref="32259728" role="outer"/>
+    <member type="way" ref="32129326" role="outer"/>
+    <member type="way" ref="32129412" role="outer"/>
+    <member type="way" ref="32129404" role="outer"/>
+    <member type="way" ref="32129403" role="outer"/>
+    <member type="way" ref="32129325" role="outer"/>
+    <member type="way" ref="32129319" role="outer"/>
+    <member type="way" ref="32129401" role="outer"/>
+    <member type="way" ref="32259723" role="outer"/>
+    <member type="way" ref="32250117" role="outer"/>
+    <member type="way" ref="32259720" role="outer"/>
+    <member type="way" ref="32259725" role="outer"/>
+    <member type="way" ref="32259718" role="outer"/>
+    <member type="way" ref="32259726" role="outer"/>
+    <member type="way" ref="32259287" role="outer"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="attribution" v="Based on Australian Bureau of Statistics data"/>
+    <tag k="au.gov.abs:reviewed" v="yes"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="4303"/>
+    <tag k="postal_code" v="4303"/>
+    <tag k="source" v="ABS_2006"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="444611" version="1" timestamp="2010-03-07T08:33:16Z" uid="74617" user="JohnSmith" changeset="4058196">
+    <member type="way" ref="32250117" role="outer"/>
+    <member type="way" ref="32250119" role="outer"/>
+    <member type="way" ref="32250120" role="outer"/>
+    <member type="way" ref="32243800" role="outer"/>
+    <member type="way" ref="32243812" role="outer"/>
+    <member type="way" ref="32288898" role="outer"/>
+    <member type="way" ref="32288894" role="outer"/>
+    <member type="way" ref="32288895" role="outer"/>
+    <member type="way" ref="32296787" role="outer"/>
+    <member type="way" ref="32129319" role="outer"/>
+    <member type="way" ref="32129401" role="outer"/>
+    <member type="way" ref="32259723" role="outer"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="attribution" v="Based on Australian Bureau of Statistics data"/>
+    <tag k="au.gov.abs:reviewed" v="yes"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="4301"/>
+    <tag k="postal_code" v="4301"/>
+    <tag k="source" v="ABS_2006"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="444612" version="1" timestamp="2010-03-07T08:38:02Z" uid="74617" user="JohnSmith" changeset="4058228">
+    <member type="way" ref="31711989" role="outer"/>
+    <member type="way" ref="32055268" role="outer"/>
+    <member type="way" ref="32055270" role="outer"/>
+    <member type="way" ref="31952876" role="outer"/>
+    <member type="way" ref="32297582" role="outer"/>
+    <member type="way" ref="32297583" role="outer"/>
+    <member type="way" ref="32319919" role="outer"/>
+    <member type="way" ref="32250120" role="outer"/>
+    <member type="way" ref="32243800" role="outer"/>
+    <member type="way" ref="32243812" role="outer"/>
+    <member type="way" ref="32288898" role="outer"/>
+    <member type="way" ref="32288894" role="outer"/>
+    <member type="way" ref="32289118" role="outer"/>
+    <member type="way" ref="32257148" role="outer"/>
+    <member type="way" ref="32289117" role="outer"/>
+    <member type="way" ref="32081880" role="outer"/>
+    <member type="way" ref="31952875" role="outer"/>
+    <member type="way" ref="31952867" role="outer"/>
+    <member type="way" ref="32055271" role="outer"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="attribution" v="Based on Australian Bureau of Statistics data"/>
+    <tag k="au.gov.abs:reviewed" v="yes"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="4300"/>
+    <tag k="postal_code" v="4300"/>
+    <tag k="source" v="ABS_2006"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="444614" version="1" timestamp="2010-03-07T08:53:12Z" uid="27600" user="Islanit" changeset="4058320">
+    <member type="way" ref="51871939" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="444614" version="2" timestamp="2010-03-07T08:53:23Z" uid="27600" user="Islanit" changeset="4058320">
+    <member type="way" ref="51871939" role="inner"/>
+    <member type="way" ref="23387960" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="444655" version="3" timestamp="2011-02-23T19:17:44Z" uid="16922" user="amai" changeset="7375517">
+    <member type="way" ref="27843021" role=""/>
+    <member type="way" ref="37844338" role=""/>
+    <tag k="color" v="#175A0C"/>
+    <tag k="name" v="Silom Line"/>
+    <tag k="operator" v="BTS Skytrain"/>
+    <tag k="route" v="subway"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="444697" version="1" timestamp="2010-03-07T11:24:21Z" uid="74617" user="JohnSmith" changeset="4059817">
+    <member type="way" ref="32284205" role="outer"/>
+    <member type="way" ref="32284202" role="outer"/>
+    <member type="way" ref="32294743" role="outer"/>
+    <member type="way" ref="32305663" role="outer"/>
+    <member type="way" ref="32245247" role="outer"/>
+    <member type="way" ref="32025664" role="outer"/>
+    <member type="way" ref="31775681" role="outer"/>
+    <member type="way" ref="31775662" role="outer"/>
+    <member type="way" ref="32051931" role="outer"/>
+    <member type="way" ref="31999794" role="outer"/>
+    <member type="way" ref="31999785" role="outer"/>
+    <member type="way" ref="31999802" role="outer"/>
+    <member type="way" ref="32294248" role="outer"/>
+    <member type="way" ref="32308765" role="outer"/>
+    <member type="way" ref="32294938" role="outer"/>
+    <member type="way" ref="32293951" role="outer"/>
+    <member type="way" ref="32284207" role="outer"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="attribution" v="Based on Australian Bureau of Statistics data"/>
+    <tag k="au.gov.abs:reviewed" v="yes"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="4069"/>
+    <tag k="postal_code" v="4069"/>
+    <tag k="source" v="ABS_2006"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="444723" version="1" timestamp="2010-03-07T11:35:58Z" uid="74617" user="JohnSmith" changeset="4059954">
+    <member type="way" ref="31999785" role="outer"/>
+    <member type="way" ref="31999794" role="outer"/>
+    <member type="way" ref="32051931" role="outer"/>
+    <member type="way" ref="31775664" role="outer"/>
+    <member type="way" ref="32258879" role="outer"/>
+    <member type="way" ref="32306353" role="outer"/>
+    <member type="way" ref="32245307" role="outer"/>
+    <member type="way" ref="32285024" role="outer"/>
+    <member type="way" ref="32285026" role="outer"/>
+    <member type="way" ref="32259725" role="outer"/>
+    <member type="way" ref="32306909" role="outer"/>
+    <member type="way" ref="32273048" role="outer"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="attribution" v="Based on Australian Bureau of Statistics data"/>
+    <tag k="au.gov.abs:reviewed" v="yes"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="4070"/>
+    <tag k="postal_code" v="4070"/>
+    <tag k="source" v="ABS_2006"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="444878" version="11" timestamp="2010-06-08T16:23:23Z" uid="171838" user="argrath" changeset="4938419">
+    <member type="way" ref="43007705" role=""/>
+    <member type="way" ref="43007701" role=""/>
+    <member type="way" ref="43007693" role=""/>
+    <member type="way" ref="43007716" role=""/>
+    <member type="way" ref="43007697" role=""/>
+    <member type="way" ref="43007702" role=""/>
+    <member type="way" ref="43007687" role=""/>
+    <member type="way" ref="43007696" role=""/>
+    <member type="way" ref="43007712" role=""/>
+    <member type="way" ref="43007680" role=""/>
+    <member type="way" ref="43007707" role=""/>
+    <member type="way" ref="43007683" role=""/>
+    <member type="way" ref="43007714" role=""/>
+    <member type="way" ref="43007685" role=""/>
+    <member type="way" ref="43007681" role=""/>
+    <member type="way" ref="43007733" role=""/>
+    <member type="way" ref="43007694" role=""/>
+    <member type="way" ref="43007690" role=""/>
+    <member type="way" ref="43007704" role=""/>
+    <member type="way" ref="43007686" role=""/>
+    <member type="way" ref="43007691" role=""/>
+    <member type="way" ref="43007682" role=""/>
+    <member type="way" ref="43007684" role=""/>
+    <member type="way" ref="43007703" role=""/>
+    <member type="way" ref="43007715" role=""/>
+    <member type="way" ref="43007695" role=""/>
+    <member type="way" ref="43007724" role=""/>
+    <member type="way" ref="43007700" role=""/>
+    <member type="way" ref="43007711" role=""/>
+    <member type="way" ref="43007734" role=""/>
+    <member type="way" ref="43007708" role=""/>
+    <member type="way" ref="43007698" role=""/>
+    <member type="way" ref="43007706" role=""/>
+    <tag k="color" v="#AD5"/>
+    <tag k="name" v="長堀鶴見緑地線"/>
+    <tag k="name:en" v="Nagahori Tsurumi-Ryokuchi Line"/>
+    <tag k="network" v="大阪市営地下鉄"/>
+    <tag k="network:en" v="Osaka&apos;s subway system"/>
+    <tag k="operator:en" v="Osaka Municipal Transportation Bureau"/>
+    <tag k="ref" v="N"/>
+    <tag k="route" v="subway"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="444881" version="14" timestamp="2010-06-08T16:02:47Z" uid="171838" user="argrath" changeset="4938281">
+    <member type="way" ref="42919519" role=""/>
+    <member type="way" ref="42919488" role=""/>
+    <member type="way" ref="42919489" role=""/>
+    <member type="way" ref="42919514" role=""/>
+    <member type="way" ref="42919495" role=""/>
+    <member type="way" ref="42919493" role=""/>
+    <member type="way" ref="42919496" role=""/>
+    <member type="way" ref="42919545" role=""/>
+    <member type="way" ref="42919494" role=""/>
+    <member type="way" ref="42919510" role=""/>
+    <member type="way" ref="42919500" role=""/>
+    <member type="way" ref="42919504" role=""/>
+    <member type="way" ref="42919516" role=""/>
+    <member type="way" ref="42919499" role=""/>
+    <member type="way" ref="42919512" role=""/>
+    <member type="way" ref="42919505" role=""/>
+    <member type="way" ref="34619749" role=""/>
+    <member type="way" ref="42919502" role=""/>
+    <member type="way" ref="42919503" role=""/>
+    <member type="way" ref="42919511" role=""/>
+    <member type="way" ref="42919492" role=""/>
+    <member type="way" ref="42919518" role=""/>
+    <member type="way" ref="42919498" role=""/>
+    <member type="way" ref="42919491" role=""/>
+    <member type="way" ref="42919509" role=""/>
+    <member type="way" ref="42919506" role=""/>
+    <member type="way" ref="42919513" role=""/>
+    <member type="way" ref="42919501" role=""/>
+    <tag k="color" v="#0D0"/>
+    <tag k="name" v="中央"/>
+    <tag k="name:en" v="Chūō"/>
+    <tag k="operator" v="大阪市"/>
+    <tag k="ref" v="C"/>
+    <tag k="route" v="subway"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="444899" version="15" timestamp="2010-06-08T15:52:36Z" uid="171838" user="argrath" changeset="4938214">
+    <member type="way" ref="42918234" role=""/>
+    <member type="way" ref="42918238" role=""/>
+    <member type="way" ref="42918233" role=""/>
+    <member type="way" ref="42918249" role=""/>
+    <member type="way" ref="42918235" role=""/>
+    <member type="way" ref="42918236" role=""/>
+    <member type="way" ref="42918245" role=""/>
+    <member type="way" ref="42918228" role=""/>
+    <member type="way" ref="42918243" role=""/>
+    <member type="way" ref="42918250" role=""/>
+    <member type="way" ref="42918239" role=""/>
+    <member type="way" ref="42918240" role=""/>
+    <member type="way" ref="42918251" role=""/>
+    <member type="way" ref="42918230" role=""/>
+    <member type="way" ref="42918248" role=""/>
+    <member type="way" ref="42918237" role=""/>
+    <member type="way" ref="42918229" role=""/>
+    <member type="way" ref="42918242" role=""/>
+    <member type="way" ref="42918247" role=""/>
+    <member type="way" ref="42918231" role=""/>
+    <member type="way" ref="42918246" role=""/>
+    <member type="way" ref="42918244" role=""/>
+    <member type="way" ref="42918232" role=""/>
+    <tag k="color" v="#00F"/>
+    <tag k="name" v="四つ橋"/>
+    <tag k="name:en" v="Yotsubashi"/>
+    <tag k="operator" v="大阪市"/>
+    <tag k="ref" v="Y"/>
+    <tag k="route" v="subway"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="444901" version="15" timestamp="2010-06-08T15:49:44Z" uid="171838" user="argrath" changeset="4938193">
+    <member type="way" ref="42713739" role=""/>
+    <member type="way" ref="42713787" role=""/>
+    <member type="way" ref="42713773" role=""/>
+    <member type="way" ref="42713756" role=""/>
+    <member type="way" ref="42713764" role=""/>
+    <member type="way" ref="42713765" role=""/>
+    <member type="way" ref="42713777" role=""/>
+    <member type="way" ref="42713766" role=""/>
+    <member type="way" ref="42713754" role=""/>
+    <member type="way" ref="42713749" role=""/>
+    <member type="way" ref="42713760" role=""/>
+    <member type="way" ref="42713785" role=""/>
+    <member type="way" ref="42713769" role=""/>
+    <member type="way" ref="42713755" role=""/>
+    <member type="way" ref="42713028" role=""/>
+    <member type="way" ref="42713023" role=""/>
+    <member type="way" ref="42713032" role=""/>
+    <member type="way" ref="42713043" role=""/>
+    <member type="way" ref="42713026" role=""/>
+    <member type="way" ref="42713029" role=""/>
+    <member type="way" ref="42713021" role=""/>
+    <member type="way" ref="42713037" role=""/>
+    <member type="way" ref="42713751" role=""/>
+    <member type="way" ref="42713761" role=""/>
+    <member type="way" ref="42713770" role=""/>
+    <member type="way" ref="42713789" role=""/>
+    <member type="way" ref="42713772" role=""/>
+    <member type="way" ref="42713775" role=""/>
+    <member type="way" ref="42713746" role=""/>
+    <member type="way" ref="42713782" role=""/>
+    <member type="way" ref="42713752" role=""/>
+    <member type="way" ref="42713779" role=""/>
+    <member type="way" ref="42713757" role=""/>
+    <member type="way" ref="42713774" role=""/>
+    <member type="way" ref="42713790" role=""/>
+    <member type="way" ref="42713778" role=""/>
+    <member type="way" ref="42713762" role=""/>
+    <member type="way" ref="42713784" role=""/>
+    <member type="way" ref="42713784" role=""/>
+    <member type="way" ref="42713781" role=""/>
+    <member type="way" ref="42713022" role=""/>
+    <member type="way" ref="42713780" role=""/>
+    <member type="way" ref="42713010" role=""/>
+    <member type="way" ref="42713771" role=""/>
+    <tag k="color" v="#D00"/>
+    <tag k="name" v="御堂筋"/>
+    <tag k="name:en" v="Midōsuji"/>
+    <tag k="operator" v="大阪市"/>
+    <tag k="ref" v="M"/>
+    <tag k="route" v="subway"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="444907" version="17" timestamp="2010-06-08T16:44:40Z" uid="171838" user="argrath" changeset="4938578">
+    <member type="way" ref="42854072" role=""/>
+    <member type="way" ref="42854113" role=""/>
+    <member type="way" ref="42854083" role=""/>
+    <member type="way" ref="42854091" role=""/>
+    <member type="way" ref="42854112" role=""/>
+    <member type="way" ref="42854111" role=""/>
+    <member type="way" ref="42854063" role=""/>
+    <member type="way" ref="42854071" role=""/>
+    <member type="way" ref="42854064" role=""/>
+    <member type="way" ref="42854093" role=""/>
+    <member type="way" ref="42854079" role=""/>
+    <member type="way" ref="42854069" role=""/>
+    <member type="way" ref="42854059" role=""/>
+    <member type="way" ref="42854104" role=""/>
+    <member type="way" ref="42854105" role=""/>
+    <member type="way" ref="42854106" role=""/>
+    <member type="way" ref="42854058" role=""/>
+    <member type="way" ref="42854085" role=""/>
+    <member type="way" ref="42854088" role=""/>
+    <member type="way" ref="42854109" role=""/>
+    <member type="way" ref="42854078" role=""/>
+    <member type="way" ref="42854074" role=""/>
+    <member type="way" ref="42854067" role=""/>
+    <member type="way" ref="42854077" role=""/>
+    <member type="way" ref="42854081" role=""/>
+    <member type="way" ref="42854115" role=""/>
+    <member type="way" ref="42854102" role=""/>
+    <member type="way" ref="42854114" role=""/>
+    <member type="way" ref="42854092" role=""/>
+    <member type="way" ref="42854099" role=""/>
+    <member type="way" ref="42854062" role=""/>
+    <member type="way" ref="42854075" role=""/>
+    <member type="way" ref="42854061" role=""/>
+    <member type="way" ref="42854094" role=""/>
+    <member type="way" ref="42854098" role=""/>
+    <member type="way" ref="42854060" role=""/>
+    <member type="way" ref="42854068" role=""/>
+    <member type="way" ref="42854080" role=""/>
+    <member type="way" ref="42854103" role=""/>
+    <member type="way" ref="42854087" role=""/>
+    <member type="way" ref="42854095" role=""/>
+    <member type="way" ref="42854110" role=""/>
+    <member type="way" ref="42854082" role=""/>
+    <member type="way" ref="42854070" role=""/>
+    <member type="way" ref="42854073" role=""/>
+    <member type="way" ref="42854076" role=""/>
+    <member type="way" ref="42854096" role=""/>
+    <member type="way" ref="42854086" role=""/>
+    <member type="way" ref="42854065" role=""/>
+    <member type="way" ref="42854100" role=""/>
+    <member type="way" ref="42854117" role=""/>
+    <member type="way" ref="42854107" role=""/>
+    <member type="way" ref="42854066" role=""/>
+    <member type="way" ref="42854097" role=""/>
+    <member type="way" ref="42854116" role=""/>
+    <member type="way" ref="42854118" role=""/>
+    <member type="way" ref="42854084" role=""/>
+    <tag k="color" v="#609"/>
+    <tag k="name" v="谷町線"/>
+    <tag k="name:en" v="Tanimachi Line"/>
+    <tag k="network:en" v="Osaka&apos;s subway system"/>
+    <tag k="operator" v="大阪市交通局"/>
+    <tag k="operator:en" v="Osaka Municipal Transportation Bureau"/>
+    <tag k="ref" v="T"/>
+    <tag k="route" v="subway"/>
+    <tag k="type" v="route"/>
+  </relation>
+</osm>

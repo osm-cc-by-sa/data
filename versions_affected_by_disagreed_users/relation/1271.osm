@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1271453" version="1" timestamp="2010-11-14T06:36:56Z" uid="7617" user="Franc" changeset="6363993">
+    <member type="way" ref="22529302" role="from"/>
+    <member type="way" ref="59284778" role="to"/>
+    <member type="node" ref="735109996" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1271454" version="1" timestamp="2010-11-14T06:36:56Z" uid="7617" user="Franc" changeset="6363993">
+    <member type="way" ref="65544389" role="from"/>
+    <member type="way" ref="85246964" role="to"/>
+    <member type="node" ref="988537996" role="via"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1271455" version="1" timestamp="2010-11-14T06:36:56Z" uid="7617" user="Franc" changeset="6363993">
+    <member type="way" ref="85246990" role="from"/>
+    <member type="way" ref="25356572" role="to"/>
+    <member type="node" ref="679906142" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1271456" version="1" timestamp="2010-11-14T06:36:57Z" uid="7617" user="Franc" changeset="6363993">
+    <member type="way" ref="85246978" role="from"/>
+    <member type="way" ref="85246990" role="to"/>
+    <member type="node" ref="152712587" role="via"/>
+    <tag k="except" v="bus"/>
+    <tag k="restriction" v="only_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1271457" version="1" timestamp="2010-11-14T06:36:57Z" uid="7617" user="Franc" changeset="6363993">
+    <member type="way" ref="47027114" role="from"/>
+    <member type="way" ref="25074937" role="to"/>
+    <member type="node" ref="152712587" role="via"/>
+    <tag k="except" v="bus"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1271667" version="2" timestamp="2011-01-04T17:20:47Z" uid="43863" user="Rundling" changeset="6863175"/>
+</osm>

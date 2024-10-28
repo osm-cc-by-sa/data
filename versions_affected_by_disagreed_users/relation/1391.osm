@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1391171" version="1" timestamp="2011-01-24T17:28:07Z" uid="115477" user="wowik" changeset="7075407">
+    <member type="way" ref="47575617" role="outer"/>
+    <member type="way" ref="96600149" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1391171" version="2" timestamp="2011-04-01T17:48:27Z" uid="115477" user="wowik" changeset="7737524">
+    <member type="way" ref="47575617" role="outer"/>
+    <member type="way" ref="96600149" role="outer"/>
+    <tag k="type" v="building"/>
+  </relation>
+  <relation id="1391171" version="3" timestamp="2011-05-04T14:14:33Z" uid="115477" user="wowik" changeset="8049379">
+    <member type="way" ref="47575617" role="outer"/>
+    <member type="way" ref="96600149" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1391172" version="1" timestamp="2011-01-24T17:28:07Z" uid="115477" user="wowik" changeset="7075407">
+    <member type="way" ref="47575633" role="outer"/>
+    <member type="way" ref="96600142" role="outer"/>
+    <tag k="building" v="yes"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1391172" version="2" timestamp="2011-04-01T17:48:00Z" uid="115477" user="wowik" changeset="7737524">
+    <member type="way" ref="47575633" role="outer"/>
+    <member type="way" ref="96600142" role="outer"/>
+    <tag k="building" v="yes"/>
+    <tag k="type" v="building"/>
+  </relation>
+  <relation id="1391172" version="4" timestamp="2011-05-04T14:17:50Z" uid="115477" user="wowik" changeset="8049379">
+    <member type="way" ref="47575633" role="outer"/>
+    <member type="way" ref="96600142" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1391827" version="1" timestamp="2011-01-24T21:49:36Z" uid="23543" user="jkjk" changeset="7078595">
+    <member type="way" ref="96645577" role="outer"/>
+    <member type="way" ref="96645571" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+</osm>

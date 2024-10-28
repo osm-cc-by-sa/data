@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="24425523" version="12" timestamp="2008-11-26T18:08:22Z" uid="6975" user="ulfl" changeset="797054">
+    <nd ref="30241340"/>
+    <nd ref="271219519"/>
+    <nd ref="270725083"/>
+    <nd ref="269765997"/>
+    <tag k="highway" v="living_street"/>
+    <tag k="name" v="Poststraße"/>
+    <tag k="surface" v="cobblestone"/>
+  </way>
+  <way id="24425733" version="3" timestamp="2008-05-27T08:50:25Z" uid="9581" user="Lobelt" changeset="530862">
+    <nd ref="265481381"/>
+    <nd ref="265481382"/>
+    <nd ref="265481384"/>
+    <nd ref="265481385"/>
+    <nd ref="265481386"/>
+    <nd ref="265481387"/>
+    <nd ref="265481395"/>
+    <tag k="created_by" v="Merkaartor 0.10"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Hinter der Kirche"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="24425733" version="7" timestamp="2009-06-06T20:22:44Z" uid="9581" user="Lobelt" changeset="1442253">
+    <nd ref="270394945"/>
+    <nd ref="332626269"/>
+    <nd ref="265481382"/>
+    <nd ref="265481384"/>
+    <nd ref="270395071"/>
+    <nd ref="265481385"/>
+    <nd ref="265481386"/>
+    <nd ref="265481387"/>
+    <nd ref="265481395"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Hinter der Kirche"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="24425734" version="3" timestamp="2008-05-27T08:50:22Z" uid="9581" user="Lobelt" changeset="530862">
+    <nd ref="265481395"/>
+    <nd ref="265481390"/>
+    <nd ref="260383969"/>
+    <tag k="created_by" v="Merkaartor 0.10"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="Hinter der Kirche"/>
+  </way>
+  <way id="24425736" version="2" timestamp="2008-05-27T08:50:26Z" uid="9581" user="Lobelt" changeset="530862">
+    <nd ref="265481391"/>
+    <nd ref="265481396"/>
+    <nd ref="265481393"/>
+    <nd ref="265481394"/>
+    <tag k="created_by" v="Merkaartor 0.10"/>
+    <tag k="highway" v="living_street"/>
+  </way>
+  <way id="24425886" version="3" timestamp="2010-07-08T02:00:35Z" uid="74617" user="JohnSmith" changeset="5162525">
+    <nd ref="265481305"/>
+    <nd ref="265481519"/>
+    <nd ref="265481520"/>
+    <nd ref="265481658"/>
+    <nd ref="265481521"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Streatham Avenue"/>
+  </way>
+  <way id="24425983" version="2" timestamp="2010-07-08T01:59:12Z" uid="74617" user="JohnSmith" changeset="5162525">
+    <nd ref="265481658"/>
+    <nd ref="265481667"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Safari Avenue"/>
+    <tag k="source" v="yahoo"/>
+  </way>
+  <way id="24425983" version="3" timestamp="2010-10-04T12:11:54Z" uid="7617" user="Franc" changeset="5952984">
+    <nd ref="265481658"/>
+    <nd ref="937615393"/>
+    <nd ref="265481667"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Safari Avenue"/>
+    <tag k="source" v="yahoo"/>
+  </way>
+</osm>

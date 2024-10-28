@@ -1,0 +1,604 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="19681850" version="4" timestamp="2008-12-17T11:48:29Z" uid="58091" user="Andreas M" changeset="447226">
+    <nd ref="65095669"/>
+    <nd ref="65097221"/>
+    <nd ref="46959689"/>
+    <nd ref="46959671"/>
+    <nd ref="46959165"/>
+    <nd ref="46959620"/>
+    <nd ref="46959651"/>
+    <nd ref="46959546"/>
+    <tag k="created_by" v="Potlatch 0.6"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Ramperstorffergasse"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="yahoo"/>
+  </way>
+  <way id="19681857" version="3" timestamp="2008-12-17T11:48:29Z" uid="58091" user="Andreas M" changeset="447226">
+    <nd ref="685289"/>
+    <nd ref="46959779"/>
+    <nd ref="46959546"/>
+    <tag k="created_by" v="Potlatch 0.6"/>
+    <tag k="fixme" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Ramperstorffergasse"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source" v="yahoo"/>
+  </way>
+  <way id="19681857" version="8" timestamp="2009-02-22T11:10:59Z" uid="58091" user="Andreas M" changeset="606483">
+    <nd ref="685289"/>
+    <nd ref="46959779"/>
+    <nd ref="332102737"/>
+    <nd ref="46959546"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Ramperstorffergasse"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source" v="yahoo"/>
+  </way>
+  <way id="19681922" version="1" timestamp="2008-01-03T01:52:51Z" uid="4467" user="Rosscoe" changeset="521818">
+    <nd ref="204255613"/>
+    <nd ref="133038457"/>
+    <tag k="bridge" v="true"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Leichhardt Highway; Wambo Street"/>
+    <tag k="ref" v="A5"/>
+    <tag k="source" v="gpsdrivetrack"/>
+  </way>
+  <way id="19681922" version="2" timestamp="2008-05-15T02:34:17Z" uid="4467" user="Rosscoe" changeset="452476">
+    <nd ref="204255613"/>
+    <nd ref="133038457"/>
+    <tag k="bridge" v="true"/>
+    <tag k="created_by" v="Potlatch 0.9a"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Leichhardt Highway; Wambo Street"/>
+    <tag k="ref" v="A5"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="19681922" version="3" timestamp="2009-08-03T19:57:24Z" uid="4467" user="Rosscoe" changeset="2029701">
+    <nd ref="204255613"/>
+    <nd ref="133038457"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Leichhardt Highway; Wambo Street"/>
+    <tag k="ref" v="A5"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="19681922" version="4" timestamp="2009-08-21T13:31:43Z" uid="74617" user="JohnSmith" changeset="2224142">
+    <nd ref="204255613"/>
+    <nd ref="133038457"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="1"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="19681925" version="1" timestamp="2008-01-03T01:52:53Z" uid="4467" user="Rosscoe" changeset="521818">
+    <nd ref="133038457"/>
+    <nd ref="133038296"/>
+    <nd ref="133038605"/>
+    <nd ref="133039080"/>
+    <nd ref="133039307"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="Leichhardt Highway; Wambo Street"/>
+    <tag k="ref" v="A5"/>
+    <tag k="source" v="gpsdrivetrack"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="19681925" version="2" timestamp="2009-08-06T12:36:14Z" uid="4467" user="Rosscoe" changeset="2055707">
+    <nd ref="133038457"/>
+    <nd ref="133038296"/>
+    <nd ref="133038605"/>
+    <nd ref="133039080"/>
+    <nd ref="133039307"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="Leichhardt Highway; Wambo Street"/>
+    <tag k="ref" v="A5"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="19681925" version="3" timestamp="2009-08-21T13:31:42Z" uid="74617" user="JohnSmith" changeset="2224142">
+    <nd ref="133038457"/>
+    <nd ref="133038296"/>
+    <nd ref="133038605"/>
+    <nd ref="133039080"/>
+    <nd ref="133039307"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="Wambo Street"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="19681925" version="4" timestamp="2009-10-11T12:52:13Z" uid="74617" user="JohnSmith" changeset="2813988">
+    <nd ref="133038457"/>
+    <nd ref="133038296"/>
+    <nd ref="528822666"/>
+    <nd ref="133038605"/>
+    <nd ref="528822667"/>
+    <nd ref="528822673"/>
+    <nd ref="133039080"/>
+    <nd ref="133039307"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="Wambo Street"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="19681925" version="5" timestamp="2011-03-26T07:24:39Z" uid="4467" user="Rosscoe" changeset="7672561">
+    <nd ref="133038457"/>
+    <nd ref="528822666"/>
+    <nd ref="528822667"/>
+    <nd ref="528822673"/>
+    <nd ref="1218601152"/>
+    <nd ref="133039307"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="Wambo Street"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="19681928" version="1" timestamp="2008-01-03T01:52:55Z" uid="4467" user="Rosscoe" changeset="521818">
+    <nd ref="204255622"/>
+    <nd ref="204255623"/>
+    <nd ref="204255627"/>
+    <nd ref="204255650"/>
+    <nd ref="204255679"/>
+    <nd ref="204255712"/>
+    <nd ref="204255744"/>
+    <nd ref="204255766"/>
+    <nd ref="204255796"/>
+    <nd ref="204255828"/>
+    <nd ref="204255857"/>
+    <nd ref="204255886"/>
+    <nd ref="204255913"/>
+    <nd ref="204255952"/>
+    <nd ref="204255979"/>
+    <nd ref="204256004"/>
+    <nd ref="204256033"/>
+    <nd ref="204256046"/>
+    <nd ref="204256076"/>
+    <nd ref="204256101"/>
+    <nd ref="204256126"/>
+    <nd ref="204256162"/>
+    <nd ref="204256182"/>
+    <nd ref="204256205"/>
+    <nd ref="204256228"/>
+    <nd ref="204256249"/>
+    <nd ref="204256285"/>
+    <nd ref="204256317"/>
+    <nd ref="204256345"/>
+    <nd ref="204256378"/>
+    <nd ref="204256400"/>
+    <nd ref="204256428"/>
+    <nd ref="204256437"/>
+    <nd ref="204256446"/>
+    <nd ref="204256475"/>
+    <nd ref="204256504"/>
+    <nd ref="204256538"/>
+    <nd ref="204256571"/>
+    <nd ref="204256596"/>
+    <nd ref="204256597"/>
+    <nd ref="204256628"/>
+    <nd ref="204256649"/>
+    <nd ref="204256671"/>
+    <nd ref="204256702"/>
+    <nd ref="204256722"/>
+    <nd ref="204256748"/>
+    <nd ref="204256775"/>
+    <nd ref="204256804"/>
+    <nd ref="204256835"/>
+    <nd ref="204256857"/>
+    <nd ref="204256889"/>
+    <nd ref="204256919"/>
+    <nd ref="204256947"/>
+    <nd ref="204256980"/>
+    <nd ref="204256994"/>
+    <nd ref="204257022"/>
+    <nd ref="204257050"/>
+    <nd ref="204257074"/>
+    <nd ref="204257099"/>
+    <nd ref="204257124"/>
+    <nd ref="204257149"/>
+    <nd ref="204257173"/>
+    <nd ref="204257202"/>
+    <nd ref="204257225"/>
+    <nd ref="204257256"/>
+    <nd ref="204257334"/>
+    <nd ref="204257407"/>
+    <nd ref="204257426"/>
+    <nd ref="204257455"/>
+    <nd ref="204257484"/>
+    <nd ref="204257586"/>
+    <nd ref="204257658"/>
+    <nd ref="204257681"/>
+    <nd ref="204257706"/>
+    <nd ref="204257720"/>
+    <nd ref="204257751"/>
+    <nd ref="204257777"/>
+    <nd ref="204257798"/>
+    <nd ref="204257820"/>
+    <nd ref="204257843"/>
+    <nd ref="204257872"/>
+    <nd ref="204257900"/>
+    <nd ref="204257932"/>
+    <nd ref="204257956"/>
+    <nd ref="204257976"/>
+    <nd ref="204258002"/>
+    <nd ref="204258029"/>
+    <nd ref="204258044"/>
+    <nd ref="204258057"/>
+    <nd ref="204258076"/>
+    <nd ref="204258101"/>
+    <nd ref="204258132"/>
+    <nd ref="204258166"/>
+    <nd ref="204258191"/>
+    <nd ref="204258241"/>
+    <nd ref="204258255"/>
+    <nd ref="204258275"/>
+    <nd ref="204258294"/>
+    <nd ref="204258320"/>
+    <nd ref="204258344"/>
+    <nd ref="204258366"/>
+    <nd ref="204258389"/>
+    <nd ref="204258416"/>
+    <nd ref="204258438"/>
+    <nd ref="204258466"/>
+    <nd ref="204258750"/>
+    <nd ref="204258829"/>
+    <nd ref="204258493"/>
+    <nd ref="204258526"/>
+    <nd ref="204258552"/>
+    <nd ref="204258578"/>
+    <nd ref="204258605"/>
+    <nd ref="204258621"/>
+    <nd ref="204258646"/>
+    <nd ref="204258675"/>
+    <nd ref="204258682"/>
+    <nd ref="204258696"/>
+    <nd ref="204258718"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="waterway" v="river"/>
+  </way>
+  <way id="19681928" version="4" timestamp="2009-08-21T13:31:43Z" uid="74617" user="JohnSmith" changeset="2224142">
+    <nd ref="366095078"/>
+    <nd ref="366095079"/>
+    <nd ref="366095080"/>
+    <nd ref="366095081"/>
+    <nd ref="366095082"/>
+    <nd ref="366095083"/>
+    <nd ref="366095084"/>
+    <nd ref="366095085"/>
+    <nd ref="366095086"/>
+    <nd ref="366095087"/>
+    <nd ref="366095088"/>
+    <nd ref="366095089"/>
+    <nd ref="366095090"/>
+    <nd ref="366095092"/>
+    <nd ref="366095094"/>
+    <nd ref="366095095"/>
+    <nd ref="366095096"/>
+    <nd ref="366095097"/>
+    <nd ref="366095098"/>
+    <nd ref="366095099"/>
+    <nd ref="366095100"/>
+    <nd ref="366095101"/>
+    <nd ref="366095102"/>
+    <nd ref="366095103"/>
+    <nd ref="366095104"/>
+    <nd ref="366095105"/>
+    <nd ref="366095106"/>
+    <nd ref="366095107"/>
+    <nd ref="366095108"/>
+    <nd ref="366095109"/>
+    <nd ref="366095110"/>
+    <nd ref="366095111"/>
+    <nd ref="366095112"/>
+    <nd ref="366095113"/>
+    <nd ref="366095114"/>
+    <nd ref="366095115"/>
+    <nd ref="366095116"/>
+    <nd ref="366095117"/>
+    <nd ref="366095118"/>
+    <nd ref="366095119"/>
+    <nd ref="366095120"/>
+    <nd ref="366095121"/>
+    <nd ref="366095122"/>
+    <nd ref="366095123"/>
+    <nd ref="366095124"/>
+    <nd ref="366095125"/>
+    <nd ref="366095126"/>
+    <nd ref="366095127"/>
+    <nd ref="366095128"/>
+    <nd ref="366095129"/>
+    <nd ref="366095130"/>
+    <nd ref="366095131"/>
+    <nd ref="366095132"/>
+    <nd ref="366095133"/>
+    <nd ref="366095134"/>
+    <nd ref="366095135"/>
+    <nd ref="366095136"/>
+    <nd ref="366095137"/>
+    <nd ref="366095138"/>
+    <nd ref="366095139"/>
+    <nd ref="366095140"/>
+    <nd ref="366095141"/>
+    <nd ref="366095142"/>
+    <nd ref="366095143"/>
+    <nd ref="366095144"/>
+    <nd ref="366095145"/>
+    <nd ref="366095146"/>
+    <nd ref="366095147"/>
+    <nd ref="366095148"/>
+    <nd ref="366095149"/>
+    <nd ref="366095150"/>
+    <nd ref="366095151"/>
+    <nd ref="366095152"/>
+    <nd ref="366095153"/>
+    <nd ref="366095154"/>
+    <nd ref="366095155"/>
+    <nd ref="366095156"/>
+    <nd ref="366095157"/>
+    <nd ref="366095158"/>
+    <nd ref="366095159"/>
+    <nd ref="366095160"/>
+    <nd ref="366095161"/>
+    <nd ref="204255622"/>
+    <nd ref="204255623"/>
+    <nd ref="204255627"/>
+    <nd ref="204255650"/>
+    <nd ref="204255679"/>
+    <nd ref="204255712"/>
+    <nd ref="204255744"/>
+    <nd ref="204255766"/>
+    <nd ref="204255796"/>
+    <nd ref="204255828"/>
+    <nd ref="204255857"/>
+    <nd ref="204255886"/>
+    <nd ref="204255913"/>
+    <nd ref="204255952"/>
+    <nd ref="204255979"/>
+    <nd ref="204256004"/>
+    <nd ref="204256033"/>
+    <nd ref="204256046"/>
+    <nd ref="204256076"/>
+    <nd ref="204256101"/>
+    <nd ref="204256126"/>
+    <nd ref="204256162"/>
+    <nd ref="204256182"/>
+    <nd ref="204256205"/>
+    <nd ref="204256228"/>
+    <nd ref="204256249"/>
+    <nd ref="204256285"/>
+    <nd ref="204256317"/>
+    <nd ref="204256345"/>
+    <nd ref="204256378"/>
+    <nd ref="204256400"/>
+    <nd ref="204256428"/>
+    <nd ref="204256437"/>
+    <nd ref="204256446"/>
+    <nd ref="204256475"/>
+    <nd ref="204256504"/>
+    <nd ref="204256538"/>
+    <nd ref="204256571"/>
+    <nd ref="204256596"/>
+    <nd ref="204256597"/>
+    <nd ref="204256628"/>
+    <nd ref="204256649"/>
+    <nd ref="204256671"/>
+    <nd ref="204256702"/>
+    <nd ref="204256722"/>
+    <nd ref="204256748"/>
+    <nd ref="204256775"/>
+    <nd ref="204256804"/>
+    <nd ref="204256835"/>
+    <nd ref="204256857"/>
+    <nd ref="204256889"/>
+    <nd ref="204256919"/>
+    <nd ref="204256947"/>
+    <nd ref="204256980"/>
+    <nd ref="204256994"/>
+    <nd ref="204257022"/>
+    <nd ref="204257050"/>
+    <nd ref="204257074"/>
+    <nd ref="204257099"/>
+    <nd ref="204257124"/>
+    <nd ref="204257149"/>
+    <nd ref="204257173"/>
+    <nd ref="204257202"/>
+    <nd ref="204257225"/>
+    <nd ref="204257256"/>
+    <nd ref="204257334"/>
+    <nd ref="204257407"/>
+    <nd ref="204257426"/>
+    <nd ref="204257455"/>
+    <nd ref="204257484"/>
+    <nd ref="204257586"/>
+    <nd ref="204257658"/>
+    <nd ref="204257681"/>
+    <nd ref="204257706"/>
+    <nd ref="204257720"/>
+    <nd ref="204257751"/>
+    <nd ref="204257777"/>
+    <nd ref="204257798"/>
+    <nd ref="204257820"/>
+    <nd ref="204257843"/>
+    <nd ref="204257872"/>
+    <nd ref="204257900"/>
+    <nd ref="204257932"/>
+    <nd ref="204257956"/>
+    <nd ref="204257976"/>
+    <nd ref="204258002"/>
+    <nd ref="204258029"/>
+    <nd ref="204258044"/>
+    <nd ref="204258057"/>
+    <nd ref="204258076"/>
+    <nd ref="204258101"/>
+    <nd ref="204258132"/>
+    <nd ref="204258166"/>
+    <nd ref="204258191"/>
+    <nd ref="204258241"/>
+    <nd ref="204258255"/>
+    <nd ref="204258275"/>
+    <nd ref="204258294"/>
+    <nd ref="204258320"/>
+    <nd ref="204258344"/>
+    <nd ref="204258366"/>
+    <nd ref="204258389"/>
+    <nd ref="204258416"/>
+    <nd ref="204258438"/>
+    <nd ref="204258466"/>
+    <nd ref="204258750"/>
+    <nd ref="204258829"/>
+    <nd ref="204258493"/>
+    <nd ref="204258526"/>
+    <nd ref="204258552"/>
+    <nd ref="204258578"/>
+    <nd ref="204258605"/>
+    <nd ref="204258621"/>
+    <nd ref="204258646"/>
+    <nd ref="204258675"/>
+    <nd ref="204258682"/>
+    <nd ref="204258696"/>
+    <nd ref="204258718"/>
+    <tag k="boat" v="no"/>
+    <tag k="name" v="Condamine River"/>
+    <tag k="waterway" v="river"/>
+  </way>
+  <way id="19681928" version="7" timestamp="2009-10-11T12:52:13Z" uid="74617" user="JohnSmith" changeset="2813988">
+    <nd ref="366095078"/>
+    <nd ref="366095079"/>
+    <nd ref="366095080"/>
+    <nd ref="366095081"/>
+    <nd ref="366095082"/>
+    <nd ref="366095083"/>
+    <nd ref="366095084"/>
+    <nd ref="366095085"/>
+    <nd ref="366095086"/>
+    <nd ref="366095087"/>
+    <nd ref="366095088"/>
+    <nd ref="366095089"/>
+    <nd ref="366095090"/>
+    <nd ref="366095092"/>
+    <nd ref="366095094"/>
+    <nd ref="366095095"/>
+    <nd ref="366095096"/>
+    <nd ref="366095097"/>
+    <nd ref="366095098"/>
+    <nd ref="366095099"/>
+    <nd ref="366095100"/>
+    <nd ref="366095101"/>
+    <nd ref="366095102"/>
+    <nd ref="366095103"/>
+    <nd ref="366095104"/>
+    <nd ref="366095105"/>
+    <nd ref="366095106"/>
+    <nd ref="366095107"/>
+    <nd ref="366095108"/>
+    <nd ref="366095109"/>
+    <nd ref="366095110"/>
+    <nd ref="366095111"/>
+    <nd ref="366095112"/>
+    <nd ref="366095113"/>
+    <nd ref="366095114"/>
+    <nd ref="366095115"/>
+    <nd ref="366095116"/>
+    <nd ref="366095117"/>
+    <nd ref="366095118"/>
+    <nd ref="366095119"/>
+    <nd ref="366095120"/>
+    <nd ref="366095121"/>
+    <nd ref="366095122"/>
+    <nd ref="366095123"/>
+    <nd ref="366095124"/>
+    <nd ref="366095125"/>
+    <nd ref="366095126"/>
+    <nd ref="366095127"/>
+    <nd ref="366095128"/>
+    <nd ref="366095129"/>
+    <nd ref="366095130"/>
+    <nd ref="366095131"/>
+    <nd ref="366095132"/>
+    <nd ref="366095133"/>
+    <nd ref="366095134"/>
+    <nd ref="366095135"/>
+    <nd ref="366095136"/>
+    <nd ref="366095137"/>
+    <nd ref="366095138"/>
+    <nd ref="366095139"/>
+    <nd ref="366095140"/>
+    <nd ref="366095141"/>
+    <nd ref="366095142"/>
+    <nd ref="366095143"/>
+    <nd ref="366095144"/>
+    <nd ref="366095145"/>
+    <nd ref="366095146"/>
+    <nd ref="366095147"/>
+    <nd ref="366095148"/>
+    <nd ref="366095149"/>
+    <nd ref="366095150"/>
+    <nd ref="366095151"/>
+    <nd ref="366095152"/>
+    <nd ref="366095153"/>
+    <nd ref="366095154"/>
+    <nd ref="366095155"/>
+    <nd ref="366095156"/>
+    <nd ref="366095157"/>
+    <nd ref="366095158"/>
+    <nd ref="366095159"/>
+    <nd ref="366095160"/>
+    <nd ref="366095161"/>
+    <nd ref="204255622"/>
+    <nd ref="204255623"/>
+    <nd ref="204255627"/>
+    <nd ref="204255650"/>
+    <nd ref="204255679"/>
+    <nd ref="204255712"/>
+    <nd ref="204255744"/>
+    <nd ref="204255766"/>
+    <nd ref="204255796"/>
+    <nd ref="204255828"/>
+    <nd ref="204255857"/>
+    <nd ref="204255886"/>
+    <nd ref="204255913"/>
+    <nd ref="204255952"/>
+    <nd ref="204255979"/>
+    <nd ref="204256004"/>
+    <nd ref="204256033"/>
+    <nd ref="204256046"/>
+    <nd ref="204256076"/>
+    <nd ref="204256101"/>
+    <nd ref="204256126"/>
+    <nd ref="204256162"/>
+    <nd ref="204256182"/>
+    <nd ref="204256205"/>
+    <nd ref="204256228"/>
+    <nd ref="204256249"/>
+    <nd ref="204256285"/>
+    <nd ref="204256317"/>
+    <nd ref="204256345"/>
+    <nd ref="204256378"/>
+    <nd ref="204256400"/>
+    <nd ref="204256428"/>
+    <nd ref="204256437"/>
+    <nd ref="204256446"/>
+    <nd ref="204256475"/>
+    <nd ref="204256504"/>
+    <nd ref="204256538"/>
+    <nd ref="204256571"/>
+    <nd ref="204256596"/>
+    <nd ref="204256597"/>
+    <nd ref="204256628"/>
+    <nd ref="528822665"/>
+    <nd ref="204256649"/>
+    <nd ref="204256671"/>
+    <nd ref="204256702"/>
+    <nd ref="204256722"/>
+    <nd ref="204256748"/>
+    <nd ref="204256775"/>
+    <nd ref="204256804"/>
+    <nd ref="528598444"/>
+    <nd ref="361594606"/>
+    <tag k="boat" v="no"/>
+    <tag k="name" v="Condamine River"/>
+    <tag k="waterway" v="river"/>
+  </way>
+</osm>

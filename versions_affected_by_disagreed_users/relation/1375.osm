@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1375404" version="3" timestamp="2011-06-07T17:30:46Z" uid="115477" user="wowik" changeset="8372183">
+    <member type="way" ref="95666258" role="outer"/>
+    <member type="way" ref="95045598" role="outer"/>
+    <member type="way" ref="95045551" role="outer"/>
+    <tag k="landuse" v="residential"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1375905" version="1" timestamp="2011-01-14T16:41:40Z" uid="115477" user="wowik" changeset="6968851">
+    <member type="way" ref="95120443" role="outer"/>
+    <member type="way" ref="95120503" role="outer"/>
+    <member type="way" ref="38884322" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1375905" version="2" timestamp="2011-04-01T17:47:58Z" uid="115477" user="wowik" changeset="7737524">
+    <member type="way" ref="95120443" role="outer"/>
+    <member type="way" ref="95120503" role="outer"/>
+    <member type="way" ref="38884322" role="outer"/>
+    <tag k="type" v="building"/>
+  </relation>
+  <relation id="1375905" version="3" timestamp="2011-05-04T15:26:36Z" uid="115477" user="wowik" changeset="8049857">
+    <member type="way" ref="95120443" role="outer"/>
+    <member type="way" ref="95120503" role="outer"/>
+    <member type="way" ref="38884322" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1375906" version="1" timestamp="2011-01-14T16:41:40Z" uid="115477" user="wowik" changeset="6968851">
+    <member type="way" ref="32954560" role="from"/>
+    <member type="node" ref="849289556" role="via"/>
+    <member type="way" ref="95120564" role="to"/>
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1375907" version="1" timestamp="2011-01-14T16:41:40Z" uid="115477" user="wowik" changeset="6968851">
+    <member type="way" ref="45416808" role="from"/>
+    <member type="node" ref="877743052" role="via"/>
+    <member type="way" ref="74207925" role="to"/>
+    <tag k="restriction" v="no_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1375907" version="2" timestamp="2011-06-06T12:35:28Z" uid="115477" user="wowik" changeset="8359850"/>
+</osm>

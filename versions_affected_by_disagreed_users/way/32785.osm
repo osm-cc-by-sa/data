@@ -1,0 +1,639 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="32785070" version="2" timestamp="2010-02-15T06:01:00Z" uid="74617" user="JohnSmith" changeset="3880328">
+    <nd ref="330757111"/>
+    <nd ref="369324170"/>
+    <nd ref="369324171"/>
+    <nd ref="369324172"/>
+    <tag k="foot" v="permissive"/>
+    <tag k="highway" v="footway"/>
+    <tag k="name" v="Bottle Alley"/>
+  </way>
+  <way id="32785070" version="3" timestamp="2011-01-15T15:44:10Z" uid="4467" user="Rosscoe" changeset="6978359">
+    <nd ref="330757111"/>
+    <nd ref="369324170"/>
+    <nd ref="369324171"/>
+    <nd ref="1104631174"/>
+    <tag k="foot" v="permissive"/>
+    <tag k="highway" v="footway"/>
+    <tag k="name" v="Bottle Alley"/>
+  </way>
+  <way id="32785071" version="2" timestamp="2010-02-15T06:00:57Z" uid="74617" user="JohnSmith" changeset="3880328">
+    <nd ref="369324173"/>
+    <nd ref="369324174"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="footway"/>
+    <tag k="layer" v="-1"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="32785072" version="2" timestamp="2010-02-15T06:01:04Z" uid="74617" user="JohnSmith" changeset="3880328">
+    <nd ref="330758897"/>
+    <nd ref="369324175"/>
+    <nd ref="369324176"/>
+    <nd ref="369324177"/>
+    <tag k="access" v="permissive"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="32785199" version="4" timestamp="2010-02-15T06:01:04Z" uid="74617" user="JohnSmith" changeset="3880328">
+    <nd ref="330758478"/>
+    <nd ref="369325206"/>
+    <nd ref="369325208"/>
+    <nd ref="330758809"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Bremer Street"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="32785214" version="3" timestamp="2010-02-15T06:00:55Z" uid="74617" user="JohnSmith" changeset="3880328">
+    <nd ref="369324177"/>
+    <nd ref="369325287"/>
+    <nd ref="369325288"/>
+    <nd ref="369325289"/>
+    <tag k="access" v="permissive"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="32785268" version="5" timestamp="2010-03-28T01:40:43Z" uid="20587" user="balrog-kun" changeset="4250871">
+    <nd ref="123675116"/>
+    <nd ref="369325705"/>
+    <nd ref="369325706"/>
+    <nd ref="123050088"/>
+    <nd ref="123466944"/>
+    <nd ref="122674311"/>
+    <nd ref="123171543"/>
+    <nd ref="123675118"/>
+    <nd ref="123675121"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Haynes Street"/>
+    <tag k="source" v="Yahoo"/>
+    <tag k="source:highway" v="NavigateLA"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Los Angeles, CA"/>
+    <tag k="tiger:name_base" v="Haynes"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="141556260:141556261:141556298:141556299:141556300:141556306:141556311"/>
+    <tag k="tiger:zip_left" v="91406"/>
+    <tag k="tiger:zip_right" v="91406"/>
+  </way>
+  <way id="32785269" version="4" timestamp="2010-02-15T06:01:02Z" uid="74617" user="JohnSmith" changeset="3880328">
+    <nd ref="369325627"/>
+    <nd ref="369325628"/>
+    <nd ref="369325629"/>
+    <nd ref="369901603"/>
+    <nd ref="369325630"/>
+    <nd ref="369907257"/>
+    <nd ref="369325627"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="32785344" version="5" timestamp="2010-02-15T06:00:46Z" uid="74617" user="JohnSmith" changeset="3880328">
+    <nd ref="369318034"/>
+    <nd ref="107165042"/>
+    <nd ref="107165015"/>
+    <nd ref="107164995"/>
+    <nd ref="107164972"/>
+    <nd ref="107164952"/>
+    <nd ref="107164928"/>
+    <nd ref="107164909"/>
+    <nd ref="107164884"/>
+    <nd ref="107164867"/>
+    <nd ref="107164851"/>
+    <nd ref="107164829"/>
+    <nd ref="107164741"/>
+    <nd ref="107164719"/>
+    <nd ref="107164702"/>
+    <nd ref="107164684"/>
+    <nd ref="107164668"/>
+    <nd ref="107164657"/>
+    <nd ref="107164639"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="name" v="Main Line"/>
+    <tag k="railway" v="rail"/>
+  </way>
+  <way id="32785344" version="6" timestamp="2010-06-26T08:57:38Z" uid="74617" user="JohnSmith" changeset="5078709"/>
+  <way id="32785409" version="3" timestamp="2010-03-28T01:40:43Z" uid="20587" user="balrog-kun" changeset="4250871">
+    <nd ref="366669874"/>
+    <nd ref="369326398"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Stonecrest Avenue"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Sacramento, CA"/>
+    <tag k="tiger:name_base" v="Stonecrest"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="133373186:133392448:133446465"/>
+  </way>
+  <way id="32785410" version="2" timestamp="2010-03-28T01:40:43Z" uid="20587" user="balrog-kun" changeset="4250871">
+    <nd ref="369326398"/>
+    <nd ref="90299683"/>
+    <nd ref="90299681"/>
+    <nd ref="90299679"/>
+    <nd ref="90299677"/>
+    <nd ref="90299675"/>
+    <nd ref="90299673"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Stonecrest Avenue"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Sacramento, CA"/>
+    <tag k="tiger:name_base" v="Stonecrest"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="133373186:133392448:133446465"/>
+  </way>
+  <way id="32785440" version="6" timestamp="2010-02-15T06:00:56Z" uid="74617" user="JohnSmith" changeset="3880328">
+    <nd ref="369318686"/>
+    <nd ref="369326554"/>
+    <nd ref="369327945"/>
+    <nd ref="369326555"/>
+    <nd ref="369326557"/>
+    <nd ref="369317954"/>
+    <tag k="layer" v="-2"/>
+    <tag k="name" v="Main Line"/>
+    <tag k="railway" v="rail"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="32785440" version="7" timestamp="2011-01-15T15:44:10Z" uid="4467" user="Rosscoe" changeset="6978359">
+    <nd ref="1104631171"/>
+    <nd ref="369326554"/>
+    <nd ref="369327945"/>
+    <nd ref="369326555"/>
+    <nd ref="369326557"/>
+    <nd ref="369317954"/>
+    <tag k="layer" v="-2"/>
+    <tag k="name" v="Main Line"/>
+    <tag k="railway" v="rail"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="32785463" version="8" timestamp="2010-02-15T06:00:56Z" uid="74617" user="JohnSmith" changeset="3880328">
+    <nd ref="369317651"/>
+    <nd ref="369326929"/>
+    <nd ref="369326930"/>
+    <nd ref="369326931"/>
+    <nd ref="369326932"/>
+    <nd ref="369326933"/>
+    <nd ref="369326982"/>
+    <nd ref="369326983"/>
+    <nd ref="330756778"/>
+    <tag k="layer" v="-2"/>
+    <tag k="name" v="Ipswich Platform 1"/>
+    <tag k="railway" v="rail"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="32785463" version="9" timestamp="2011-01-15T15:44:16Z" uid="4467" user="Rosscoe" changeset="6978359">
+    <nd ref="369317651"/>
+    <nd ref="369326929"/>
+    <nd ref="369326930"/>
+    <nd ref="369326931"/>
+    <nd ref="369326932"/>
+    <nd ref="369326933"/>
+    <nd ref="369326982"/>
+    <nd ref="369326983"/>
+    <nd ref="1104631180"/>
+    <tag k="layer" v="-2"/>
+    <tag k="name" v="Ipswich Platform 1"/>
+    <tag k="railway" v="rail"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="32785465" version="2" timestamp="2010-03-28T01:40:43Z" uid="20587" user="balrog-kun" changeset="4250871">
+    <nd ref="369326928"/>
+    <nd ref="90299733"/>
+    <nd ref="90299735"/>
+    <nd ref="90299737"/>
+    <nd ref="90299738"/>
+    <nd ref="90299740"/>
+    <nd ref="90299741"/>
+    <nd ref="90299743"/>
+    <nd ref="90299745"/>
+    <nd ref="90299747"/>
+    <nd ref="90299749"/>
+    <nd ref="90299752"/>
+    <nd ref="90299754"/>
+    <nd ref="90299756"/>
+    <nd ref="90299758"/>
+    <nd ref="90299760"/>
+    <nd ref="90299762"/>
+    <nd ref="90299765"/>
+    <nd ref="90299767"/>
+    <nd ref="90299770"/>
+    <nd ref="90299771"/>
+    <nd ref="90299773"/>
+    <nd ref="90299775"/>
+    <nd ref="90299777"/>
+    <nd ref="90299779"/>
+    <nd ref="90299782"/>
+    <nd ref="90299785"/>
+    <nd ref="90299787"/>
+    <nd ref="90299789"/>
+    <nd ref="90299791"/>
+    <nd ref="90299794"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="South Land Park Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Sacramento, CA"/>
+    <tag k="tiger:name_base" v="Land Park"/>
+    <tag k="tiger:name_direction_prefix" v="S"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="133377244"/>
+  </way>
+  <way id="32785466" version="3" timestamp="2010-03-28T01:40:44Z" uid="20587" user="balrog-kun" changeset="4250871">
+    <nd ref="90707321"/>
+    <nd ref="369326934"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="South Land Park Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Sacramento, CA"/>
+    <tag k="tiger:name_base" v="South Land Park"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="133417408:133417409:133350305:133350306:133350315:133350316:133350202:133350291:133350286:133323236:133350292:133350297:133350298:133350210:133350211:133364174:133323245:133323244:133323246"/>
+    <tag k="tiger:zip_left" v="95831"/>
+    <tag k="tiger:zip_right" v="95831"/>
+  </way>
+  <way id="32785475" version="2" timestamp="2010-03-28T01:40:44Z" uid="20587" user="balrog-kun" changeset="4250871">
+    <nd ref="122780630"/>
+    <nd ref="122780635"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Forbes Avenue"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Los Angeles, CA"/>
+    <tag k="tiger:name_base" v="Forbes"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="141556459:141556460"/>
+    <tag k="tiger:zip_left" v="91436"/>
+    <tag k="tiger:zip_right" v="91436"/>
+  </way>
+  <way id="32785499" version="4" timestamp="2010-02-15T06:01:03Z" uid="74617" user="JohnSmith" changeset="3880328">
+    <nd ref="369327248"/>
+    <nd ref="369327249"/>
+    <nd ref="369327250"/>
+    <nd ref="369327251"/>
+    <nd ref="369902968"/>
+    <nd ref="369327248"/>
+    <tag k="building" v="tower"/>
+  </way>
+  <way id="32785537" version="6" timestamp="2010-02-15T06:00:48Z" uid="74617" user="JohnSmith" changeset="3880328">
+    <nd ref="330756778"/>
+    <nd ref="369327406"/>
+    <nd ref="369327407"/>
+    <nd ref="369327408"/>
+    <nd ref="369327409"/>
+    <nd ref="369329061"/>
+    <nd ref="369329024"/>
+    <nd ref="369328782"/>
+    <nd ref="369328783"/>
+    <tag k="name" v="Ipswich Stabling"/>
+    <tag k="railway" v="rail"/>
+  </way>
+  <way id="32785537" version="7" timestamp="2011-01-15T15:44:16Z" uid="4467" user="Rosscoe" changeset="6978359">
+    <nd ref="1104631180"/>
+    <nd ref="369327406"/>
+    <nd ref="369327407"/>
+    <nd ref="369327408"/>
+    <nd ref="369327409"/>
+    <nd ref="369329061"/>
+    <nd ref="369329024"/>
+    <nd ref="369328782"/>
+    <nd ref="369328783"/>
+    <tag k="name" v="Ipswich Stabling"/>
+    <tag k="railway" v="rail"/>
+  </way>
+  <way id="32785572" version="2" timestamp="2010-02-15T06:00:58Z" uid="74617" user="JohnSmith" changeset="3880328">
+    <nd ref="68717257"/>
+    <nd ref="369324173"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="32785578" version="3" timestamp="2010-02-15T06:00:58Z" uid="74617" user="JohnSmith" changeset="3880328">
+    <nd ref="369324173"/>
+    <nd ref="369327628"/>
+    <nd ref="369327630"/>
+    <nd ref="369327631"/>
+    <nd ref="369327632"/>
+    <nd ref="369905548"/>
+    <tag k="foot" v="permissive"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="32785578" version="4" timestamp="2010-07-30T03:00:31Z" uid="4467" user="Rosscoe" changeset="5351398">
+    <nd ref="369324173"/>
+    <nd ref="369327628"/>
+    <nd ref="369327630"/>
+    <nd ref="369327631"/>
+    <nd ref="369905548"/>
+    <tag k="foot" v="permissive"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="32785641" version="6" timestamp="2010-07-30T21:28:45Z" uid="74617" user="JohnSmith" changeset="5358432">
+    <nd ref="491732726"/>
+    <nd ref="648962057"/>
+    <nd ref="648962059"/>
+    <nd ref="839230337"/>
+    <nd ref="491732728"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="32785686" version="3" timestamp="2009-08-03T22:07:23Z" uid="4467" user="Rosscoe" changeset="2030804">
+    <nd ref="369328158"/>
+    <nd ref="369328159"/>
+    <nd ref="369328160"/>
+    <nd ref="369328161"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="32785723" version="3" timestamp="2010-02-15T05:57:57Z" uid="74617" user="JohnSmith" changeset="3880328">
+    <nd ref="330760077"/>
+    <nd ref="107099306"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Waghorn Street"/>
+  </way>
+  <way id="32785723" version="4" timestamp="2010-05-26T14:10:33Z" uid="4467" user="Rosscoe" changeset="4813467"/>
+  <way id="32785736" version="4" timestamp="2009-11-30T03:19:13Z" uid="110593" user="esetzer" changeset="3252703">
+    <nd ref="369328336"/>
+    <nd ref="369328337"/>
+    <nd ref="369328614"/>
+    <nd ref="90405279"/>
+    <nd ref="90405281"/>
+    <nd ref="369328724"/>
+    <nd ref="90405283"/>
+    <nd ref="369328726"/>
+    <nd ref="90405285"/>
+    <nd ref="90405287"/>
+    <nd ref="90405289"/>
+    <nd ref="90405291"/>
+    <nd ref="90405293"/>
+    <nd ref="90405295"/>
+    <nd ref="90405297"/>
+    <nd ref="90405299"/>
+    <nd ref="90405301"/>
+    <nd ref="90405303"/>
+    <nd ref="90405305"/>
+    <nd ref="90405307"/>
+    <nd ref="90405309"/>
+    <nd ref="90405311"/>
+    <nd ref="90405312"/>
+    <nd ref="90405314"/>
+    <nd ref="90405316"/>
+    <nd ref="90405318"/>
+    <nd ref="90405320"/>
+    <nd ref="90405322"/>
+    <nd ref="90405326"/>
+    <nd ref="90405328"/>
+    <nd ref="90405330"/>
+    <nd ref="90405332"/>
+    <nd ref="90405334"/>
+    <nd ref="90405336"/>
+    <nd ref="90405338"/>
+    <nd ref="90405340"/>
+    <nd ref="90405342"/>
+    <nd ref="90405344"/>
+    <nd ref="90405346"/>
+    <nd ref="90405347"/>
+    <nd ref="90405349"/>
+    <nd ref="90405351"/>
+    <nd ref="90405353"/>
+    <nd ref="90405355"/>
+    <nd ref="90405357"/>
+    <nd ref="90405359"/>
+    <nd ref="90405362"/>
+    <nd ref="90405364"/>
+    <nd ref="90405366"/>
+    <nd ref="90405368"/>
+    <nd ref="90405370"/>
+    <nd ref="90405372"/>
+    <nd ref="90405374"/>
+    <nd ref="90405376"/>
+    <nd ref="90405378"/>
+    <nd ref="90405380"/>
+    <nd ref="90405382"/>
+    <nd ref="90405385"/>
+    <nd ref="90405387"/>
+    <nd ref="90405388"/>
+    <nd ref="90405390"/>
+    <nd ref="90405391"/>
+    <nd ref="90405392"/>
+    <nd ref="90405393"/>
+    <nd ref="90405394"/>
+    <nd ref="90405395"/>
+    <nd ref="90405396"/>
+    <nd ref="90405398"/>
+    <nd ref="90405400"/>
+    <nd ref="90405402"/>
+    <nd ref="90405403"/>
+    <nd ref="90405405"/>
+    <nd ref="90405407"/>
+    <nd ref="575485225"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Union Pacific Railroad"/>
+    <tag k="railway" v="rail"/>
+    <tag k="tiger:cfcc" v="B11"/>
+    <tag k="tiger:county" v="Sacramento, CA"/>
+    <tag k="tiger:name_base" v="Union Pacific Railroad"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="133421410:133421412:133421414:133421415:133352042:133367239:133373174:133373179:133373183:133446416:133416480:133416481:133350575:133350578:133350580:133350584:133350592:133350597:133365855:133350450:133391904:133391905:133377250:133417836:133417838:13341"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-8b271cc4-ebb6-43ef-8161-0eecd8db77de"/>
+  </way>
+  <way id="32785761" version="5" timestamp="2009-05-04T08:05:38Z" uid="27600" user="Islanit" changeset="1071617">
+    <nd ref="266542435"/>
+    <nd ref="266542434"/>
+    <nd ref="266542433"/>
+    <nd ref="266542432"/>
+    <nd ref="266542431"/>
+    <nd ref="369328693"/>
+    <nd ref="369328694"/>
+    <nd ref="266540331"/>
+    <nd ref="390236462"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="32785761" version="6" timestamp="2010-07-22T16:09:33Z" uid="33382" user="de_muur" changeset="5288810">
+    <nd ref="266542435"/>
+    <nd ref="266542434"/>
+    <nd ref="266542433"/>
+    <nd ref="266542432"/>
+    <nd ref="266542431"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="32785769" version="2" timestamp="2009-05-04T08:05:32Z" uid="27600" user="Islanit" changeset="1071617">
+    <nd ref="266540331"/>
+    <nd ref="368174877"/>
+    <nd ref="266537507"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="32785769" version="3" timestamp="2010-07-22T16:09:34Z" uid="33382" user="de_muur" changeset="5288810">
+    <nd ref="266540331"/>
+    <nd ref="368174877"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="32785784" version="3" timestamp="2010-02-15T06:00:58Z" uid="74617" user="JohnSmith" changeset="3880328">
+    <nd ref="369329061"/>
+    <nd ref="369329080"/>
+    <nd ref="369329081"/>
+    <tag k="name" v="Ipswich Stabling"/>
+    <tag k="railway" v="rail"/>
+  </way>
+  <way id="32785784" version="4" timestamp="2011-01-15T15:44:12Z" uid="4467" user="Rosscoe" changeset="6978359">
+    <nd ref="1104631170"/>
+    <nd ref="1104631181"/>
+    <nd ref="1104631172"/>
+    <nd ref="369329080"/>
+    <nd ref="1104631175"/>
+    <nd ref="369329081"/>
+    <tag k="name" v="Ipswich Stabling"/>
+    <tag k="railway" v="rail"/>
+  </way>
+  <way id="32785808" version="3" timestamp="2010-02-15T05:57:57Z" uid="74617" user="JohnSmith" changeset="3880328">
+    <nd ref="107099237"/>
+    <nd ref="369329404"/>
+    <nd ref="369329405"/>
+    <nd ref="369329406"/>
+    <nd ref="369329407"/>
+    <nd ref="369329408"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Horan St"/>
+  </way>
+  <way id="32785808" version="4" timestamp="2010-05-26T14:07:08Z" uid="4467" user="Rosscoe" changeset="4813467">
+    <nd ref="107099237"/>
+    <nd ref="369329404"/>
+    <nd ref="369329405"/>
+    <nd ref="369329406"/>
+    <nd ref="369329407"/>
+    <nd ref="369329408"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Horan Street"/>
+  </way>
+  <way id="32785858" version="6" timestamp="2010-02-15T05:58:50Z" uid="74617" user="JohnSmith" changeset="3880328">
+    <nd ref="250254351"/>
+    <nd ref="369329796"/>
+    <nd ref="369329961"/>
+    <nd ref="249653704"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Syntax Street"/>
+  </way>
+  <way id="32785858" version="7" timestamp="2011-01-15T15:36:14Z" uid="4467" user="Rosscoe" changeset="6978263">
+    <nd ref="250254351"/>
+    <nd ref="369329961"/>
+    <nd ref="249653704"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Syntax Street"/>
+  </way>
+  <way id="32785890" version="3" timestamp="2010-02-15T05:58:55Z" uid="74617" user="JohnSmith" changeset="3880328">
+    <nd ref="249653704"/>
+    <nd ref="369329933"/>
+    <nd ref="369329926"/>
+    <nd ref="107099163"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Syntax Street"/>
+  </way>
+  <way id="32785891" version="3" timestamp="2010-02-15T05:58:50Z" uid="74617" user="JohnSmith" changeset="3880328">
+    <nd ref="107099163"/>
+    <nd ref="369329930"/>
+    <nd ref="369330278"/>
+    <nd ref="106887252"/>
+    <nd ref="369330279"/>
+    <nd ref="369330280"/>
+    <nd ref="330760091"/>
+    <nd ref="330760092"/>
+    <nd ref="107099174"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Darling Street East"/>
+  </way>
+  <way id="32785901" version="3" timestamp="2010-02-15T05:58:50Z" uid="74617" user="JohnSmith" changeset="3880328">
+    <nd ref="249653243"/>
+    <nd ref="249643984"/>
+    <nd ref="249643985"/>
+    <nd ref="250226485"/>
+    <nd ref="249643986"/>
+    <nd ref="506410956"/>
+    <nd ref="249643987"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Herbert Street"/>
+  </way>
+  <way id="32785915" version="5" timestamp="2010-02-15T05:58:56Z" uid="74617" user="JohnSmith" changeset="3880328">
+    <nd ref="106887252"/>
+    <nd ref="369330300"/>
+    <nd ref="369330301"/>
+    <nd ref="369330302"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Burnett Street"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="32785916" version="6" timestamp="2010-02-15T05:58:55Z" uid="74617" user="JohnSmith" changeset="3880328">
+    <nd ref="369330276"/>
+    <nd ref="106887260"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Burnett Street"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="32785917" version="6" timestamp="2010-02-15T05:58:55Z" uid="74617" user="JohnSmith" changeset="3880328">
+    <nd ref="106887260"/>
+    <nd ref="369330720"/>
+    <nd ref="369330721"/>
+    <nd ref="369330722"/>
+    <nd ref="106887252"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Burnett Street"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="32785921" version="4" timestamp="2010-02-15T05:58:55Z" uid="74617" user="JohnSmith" changeset="3880328">
+    <nd ref="68716983"/>
+    <nd ref="369330276"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Burnett Street"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="32785923" version="3" timestamp="2010-02-15T05:58:55Z" uid="74617" user="JohnSmith" changeset="3880328">
+    <nd ref="369330303"/>
+    <nd ref="68716983"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Burnett Street"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="32785929" version="4" timestamp="2010-02-15T05:58:54Z" uid="74617" user="JohnSmith" changeset="3880328">
+    <nd ref="369330302"/>
+    <nd ref="369330303"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Burnett Street"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="32785934" version="6" timestamp="2009-06-10T04:06:58Z" uid="20587" user="balrog-kun" changeset="1473633"/>
+</osm>

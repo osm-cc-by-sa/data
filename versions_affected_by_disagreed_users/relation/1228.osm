@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1228038" version="2" timestamp="2010-12-06T20:31:33Z" uid="8619" user="cetest" changeset="6568333">
+    <member type="way" ref="81637806" role="outer"/>
+    <member type="way" ref="88279481" role="outer"/>
+    <member type="way" ref="81774941" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1228376" version="7" timestamp="2011-01-29T06:24:08Z" uid="4467" user="Rosscoe" changeset="7119356">
+    <member type="way" ref="41691272" role=""/>
+    <member type="way" ref="17387709" role=""/>
+    <member type="way" ref="23425618" role=""/>
+    <member type="way" ref="76700501" role=""/>
+    <member type="way" ref="76700502" role=""/>
+    <member type="way" ref="76700504" role=""/>
+    <tag k="name" v="Meakin Terrace"/>
+    <tag k="type" v="collection"/>
+  </relation>
+  <relation id="1228424" version="1" timestamp="2010-10-17T08:17:37Z" uid="61114" user="Trav" changeset="6064240">
+    <member type="way" ref="81814206" role="innner"/>
+    <member type="way" ref="23325603" role="outer"/>
+    <tag k="name" v="Glenmore Loch"/>
+    <tag k="natural" v="water"/>
+    <tag k="source:name" v="survey"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1228440" version="1" timestamp="2010-10-17T08:40:27Z" uid="61114" user="Trav" changeset="6064424">
+    <member type="way" ref="14296570" role="from"/>
+    <member type="way" ref="23369576" role="to"/>
+    <member type="node" ref="168479500" role="via"/>
+    <tag k="restriction" v="no_straight_on"/>
+    <tag k="source" v="survey"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1228440" version="2" timestamp="2010-10-19T12:06:13Z" uid="7617" user="Franc" changeset="6098118"/>
+  <relation id="1228441" version="1" timestamp="2010-10-17T08:40:27Z" uid="61114" user="Trav" changeset="6064424">
+    <member type="way" ref="14296570" role="from"/>
+    <member type="way" ref="16364610" role="to"/>
+    <member type="node" ref="168479500" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="source" v="survey"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1228441" version="2" timestamp="2010-10-19T12:06:13Z" uid="7617" user="Franc" changeset="6098118"/>
+</osm>

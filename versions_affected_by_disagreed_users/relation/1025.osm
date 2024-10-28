@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1025243" version="1" timestamp="2010-07-05T08:39:28Z" uid="8619" user="cetest" changeset="5139933">
+    <member type="relation" ref="6315" role=""/>
+    <member type="node" ref="44796064" role=""/>
+    <member type="node" ref="662855928" role=""/>
+    <tag k="name" v="Fietsroutenetwerk Midden Delfland"/>
+    <tag k="network" v="rcn"/>
+    <tag k="operator" v="Midden Delfland"/>
+    <tag k="type" v="network"/>
+    <tag k="url" v="http://recreatie.middendelfland.net/fietsen/fietsknooppunten.htm"/>
+  </relation>
+  <relation id="1025243" version="2" timestamp="2010-07-06T14:42:59Z" uid="8619" user="cetest" changeset="5151113">
+    <member type="relation" ref="6315" role=""/>
+    <member type="node" ref="44796064" role=""/>
+    <member type="node" ref="662855928" role=""/>
+    <member type="relation" ref="6226" role=""/>
+    <member type="node" ref="249803444" role=""/>
+    <tag k="name" v="Fietsroutenetwerk Midden Delfland"/>
+    <tag k="network" v="rcn"/>
+    <tag k="operator" v="Midden Delfland"/>
+    <tag k="type" v="network"/>
+    <tag k="url" v="http://recreatie.middendelfland.net/fietsen/fietsknooppunten.htm"/>
+  </relation>
+  <relation id="1025243" version="3" timestamp="2010-07-06T15:03:45Z" uid="8619" user="cetest" changeset="5151243">
+    <member type="relation" ref="6315" role=""/>
+    <member type="node" ref="44796064" role=""/>
+    <member type="node" ref="662855928" role=""/>
+    <member type="relation" ref="6226" role="connection"/>
+    <member type="node" ref="249803444" role=""/>
+    <member type="relation" ref="6227" role=""/>
+    <member type="node" ref="33250336" role=""/>
+    <tag k="name" v="Fietsroutenetwerk Midden Delfland"/>
+    <tag k="network" v="rcn"/>
+    <tag k="operator" v="Midden Delfland"/>
+    <tag k="type" v="network"/>
+    <tag k="url" v="http://recreatie.middendelfland.net/fietsen/fietsknooppunten.htm"/>
+  </relation>
+  <relation id="1025243" version="4" timestamp="2010-07-06T18:31:18Z" uid="8619" user="cetest" changeset="5152946">
+    <member type="relation" ref="6315" role=""/>
+    <member type="node" ref="44796064" role=""/>
+    <member type="node" ref="662855928" role=""/>
+    <member type="relation" ref="6226" role="connection"/>
+    <member type="node" ref="249803444" role=""/>
+    <member type="relation" ref="6227" role=""/>
+    <member type="node" ref="33250336" role=""/>
+    <member type="relation" ref="6527" role=""/>
+    <member type="node" ref="673661645" role=""/>
+    <tag k="name" v="Fietsroutenetwerk Midden Delfland"/>
+    <tag k="network" v="rcn"/>
+    <tag k="operator" v="Midden Delfland"/>
+    <tag k="type" v="network"/>
+    <tag k="url" v="http://recreatie.middendelfland.net/fietsen/fietsknooppunten.htm"/>
+  </relation>
+</osm>

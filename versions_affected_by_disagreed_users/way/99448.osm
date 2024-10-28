@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="99448608" version="1" timestamp="2011-02-13T04:28:56Z" uid="7617" user="Franc" changeset="7271755">
+    <nd ref="1150311549"/>
+    <nd ref="539946736"/>
+    <nd ref="35827649"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Cornelia Road"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="99448609" version="1" timestamp="2011-02-13T04:28:56Z" uid="7617" user="Franc" changeset="7271755">
+    <nd ref="1150311621"/>
+    <nd ref="158284731"/>
+    <nd ref="158288508"/>
+    <nd ref="60016819"/>
+    <nd ref="158289103"/>
+    <nd ref="331577278"/>
+    <nd ref="1150311603"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Best Road"/>
+    <tag k="restriction" v="school_zone"/>
+  </way>
+  <way id="99448610" version="1" timestamp="2011-02-13T04:28:56Z" uid="7617" user="Franc" changeset="7271755">
+    <nd ref="1150311603"/>
+    <nd ref="539946751"/>
+    <nd ref="158288095"/>
+    <nd ref="158291107"/>
+    <nd ref="60016820"/>
+    <nd ref="1150311521"/>
+    <nd ref="60016821"/>
+    <nd ref="1150311543"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Best Road"/>
+  </way>
+  <way id="99448612" version="1" timestamp="2011-02-13T04:28:57Z" uid="7617" user="Franc" changeset="7271755">
+    <nd ref="1150311568"/>
+    <nd ref="331577278"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Mackenzie Boulevard"/>
+    <tag k="restriction" v="school_zone"/>
+    <tag k="source" v="yahoo"/>
+  </way>
+  <way id="99448613" version="1" timestamp="2011-02-13T04:28:57Z" uid="7617" user="Franc" changeset="7271755">
+    <nd ref="539946765"/>
+    <nd ref="539946766"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Cathy Way"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="99448615" version="1" timestamp="2011-02-13T04:28:57Z" uid="7617" user="Franc" changeset="7271755">
+    <nd ref="1150311543"/>
+    <nd ref="1150311594"/>
+    <nd ref="1150311617"/>
+    <nd ref="1150311590"/>
+    <nd ref="1150311615"/>
+    <nd ref="1150311519"/>
+    <nd ref="1150311549"/>
+    <nd ref="1150311600"/>
+    <nd ref="1150311543"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+</osm>

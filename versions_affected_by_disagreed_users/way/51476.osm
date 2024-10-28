@@ -1,0 +1,420 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="51476294" version="2" timestamp="2010-03-03T21:08:03Z" uid="99207" user="Lar Kiesel" changeset="4028547">
+    <nd ref="113073378"/>
+    <nd ref="113089941"/>
+    <nd ref="113089944"/>
+    <nd ref="113075935"/>
+    <nd ref="113063896"/>
+    <nd ref="113089947"/>
+    <nd ref="113089950"/>
+    <nd ref="113089955"/>
+    <nd ref="113089958"/>
+    <nd ref="113087128"/>
+    <nd ref="113089961"/>
+    <nd ref="113089964"/>
+    <nd ref="113089965"/>
+    <nd ref="113089968"/>
+    <nd ref="113063158"/>
+    <nd ref="113089972"/>
+    <nd ref="113089975"/>
+    <nd ref="113089977"/>
+    <nd ref="113089979"/>
+    <nd ref="113089981"/>
+    <nd ref="113089983"/>
+    <nd ref="113089986"/>
+    <nd ref="606256855"/>
+    <nd ref="113089989"/>
+    <nd ref="113089991"/>
+    <nd ref="113089995"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="name" v="Wright Blvd"/>
+    <tag k="name_1" v="United States Highway 378"/>
+    <tag k="ref" v="US 378"/>
+    <tag k="tiger:cfcc" v="A21"/>
+    <tag k="tiger:county" v="Horry, SC"/>
+    <tag k="tiger:name_base" v="Wright"/>
+    <tag k="tiger:name_base_1" v="United States Highway 378"/>
+    <tag k="tiger:name_type" v="Blvd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="29042333:29071921:29071922:29090914:29090915"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-d4571a8e-22ce-40ef-bb16-0392b2940b1d"/>
+  </way>
+  <way id="51476426" version="1" timestamp="2010-03-01T06:12:48Z" uid="7617" user="Franc" changeset="4005992">
+    <nd ref="657653779"/>
+    <nd ref="52525422"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Kintore Street"/>
+    <tag k="restriction" v="school_zone"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="51476427" version="1" timestamp="2010-03-01T06:12:50Z" uid="7617" user="Franc" changeset="4005992">
+    <nd ref="657653783"/>
+    <nd ref="31201006"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Charlecot Street"/>
+    <tag k="restriction" v="school_zone"/>
+  </way>
+  <way id="51476427" version="2" timestamp="2010-07-08T02:53:41Z" uid="74617" user="JohnSmith" changeset="5163091">
+    <nd ref="657653783"/>
+    <nd ref="31201006"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Charlecot Street"/>
+    <tag k="restriction" v="school_zone"/>
+  </way>
+  <way id="51476428" version="1" timestamp="2010-03-01T06:12:50Z" uid="7617" user="Franc" changeset="4005992">
+    <nd ref="657653852"/>
+    <nd ref="657653901"/>
+    <nd ref="657653904"/>
+    <tag k="highway" v="service"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="51476428" version="2" timestamp="2010-09-03T10:00:53Z" uid="7617" user="Franc" changeset="5669226"/>
+  <way id="51476429" version="1" timestamp="2010-03-01T06:12:50Z" uid="7617" user="Franc" changeset="4005992">
+    <nd ref="657653855"/>
+    <nd ref="15162363"/>
+    <nd ref="15162447"/>
+    <nd ref="657653838"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Lennox Street"/>
+    <tag k="restriction" v="school_zone"/>
+  </way>
+  <way id="51476429" version="2" timestamp="2010-07-07T22:11:40Z" uid="74617" user="JohnSmith" changeset="5161069">
+    <nd ref="657653855"/>
+    <nd ref="15162363"/>
+    <nd ref="15162447"/>
+    <nd ref="657653838"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Lennox Street"/>
+    <tag k="restriction" v="school_zone"/>
+  </way>
+  <way id="51476430" version="1" timestamp="2010-03-01T06:12:50Z" uid="7617" user="Franc" changeset="4005992">
+    <nd ref="657653878"/>
+    <nd ref="17991819"/>
+    <nd ref="17992088"/>
+    <nd ref="17991821"/>
+    <nd ref="597177888"/>
+    <nd ref="597177885"/>
+    <nd ref="15162363"/>
+    <nd ref="657653859"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Australia Street"/>
+    <tag k="restriction" v="school_zone"/>
+  </way>
+  <way id="51476431" version="1" timestamp="2010-03-01T06:12:51Z" uid="7617" user="Franc" changeset="4005992">
+    <nd ref="17991817"/>
+    <nd ref="17991821"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Campbell Lane"/>
+    <tag k="restriction" v="school_zone"/>
+  </way>
+  <way id="51476432" version="1" timestamp="2010-03-01T06:12:51Z" uid="7617" user="Franc" changeset="4005992">
+    <nd ref="17991815"/>
+    <nd ref="17991817"/>
+    <nd ref="17993059"/>
+    <nd ref="15162447"/>
+    <nd ref="657653854"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Denison Street"/>
+    <tag k="restriction" v="school_zone"/>
+  </way>
+  <way id="51476432" version="2" timestamp="2010-07-07T22:11:33Z" uid="74617" user="JohnSmith" changeset="5161069">
+    <nd ref="17991815"/>
+    <nd ref="17991817"/>
+    <nd ref="17993059"/>
+    <nd ref="15162447"/>
+    <nd ref="657653854"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Denison Street"/>
+    <tag k="restriction" v="school_zone"/>
+  </way>
+  <way id="51476433" version="1" timestamp="2010-03-01T06:12:51Z" uid="7617" user="Franc" changeset="4005992">
+    <nd ref="657653842"/>
+    <nd ref="657653880"/>
+    <nd ref="657653860"/>
+    <nd ref="657653862"/>
+    <nd ref="657653842"/>
+    <tag k="amenity" v="school"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="51476433" version="2" timestamp="2010-08-02T09:55:17Z" uid="7617" user="Franc" changeset="5378779">
+    <nd ref="657653842"/>
+    <nd ref="657653880"/>
+    <nd ref="657653860"/>
+    <nd ref="657653862"/>
+    <nd ref="657653842"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Australia Street Infants School"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="51476434" version="1" timestamp="2010-03-01T06:12:51Z" uid="7617" user="Franc" changeset="4005992">
+    <nd ref="657653825"/>
+    <nd ref="657653840"/>
+    <nd ref="657653827"/>
+    <nd ref="657653829"/>
+    <nd ref="657653832"/>
+    <nd ref="657653834"/>
+    <nd ref="657653825"/>
+    <tag k="leisure" v="playground"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="51476435" version="1" timestamp="2010-03-01T06:12:51Z" uid="7617" user="Franc" changeset="4005992">
+    <nd ref="657653838"/>
+    <nd ref="17993054"/>
+    <nd ref="17993053"/>
+    <nd ref="17991871"/>
+    <nd ref="17991825"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Lennox Street"/>
+  </way>
+  <way id="51476435" version="2" timestamp="2010-07-07T22:10:17Z" uid="74617" user="JohnSmith" changeset="5161069">
+    <nd ref="657653838"/>
+    <nd ref="17993054"/>
+    <nd ref="17993053"/>
+    <nd ref="17991871"/>
+    <nd ref="17991825"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Lennox Street"/>
+  </way>
+  <way id="51476436" version="1" timestamp="2010-03-01T06:12:51Z" uid="7617" user="Franc" changeset="4005992">
+    <nd ref="657653849"/>
+    <nd ref="657653852"/>
+    <nd ref="206096001"/>
+    <tag k="highway" v="service"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="51476436" version="2" timestamp="2010-04-15T12:55:33Z" uid="7617" user="Franc" changeset="4430672">
+    <nd ref="657653849"/>
+    <nd ref="657653852"/>
+    <nd ref="206096001"/>
+    <nd ref="206096014"/>
+    <nd ref="206096003"/>
+    <nd ref="286667301"/>
+    <nd ref="206096002"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Bishopgate Lane"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="51476437" version="1" timestamp="2010-03-01T06:12:51Z" uid="7617" user="Franc" changeset="4005992">
+    <nd ref="657653859"/>
+    <nd ref="17991822"/>
+    <nd ref="15162372"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Australia Street"/>
+  </way>
+  <way id="51476438" version="1" timestamp="2010-03-01T06:12:51Z" uid="7617" user="Franc" changeset="4005992">
+    <nd ref="657653854"/>
+    <nd ref="17991824"/>
+    <nd ref="248614722"/>
+    <nd ref="15162391"/>
+    <nd ref="605048314"/>
+    <nd ref="15162396"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Denison Street"/>
+  </way>
+  <way id="51476438" version="2" timestamp="2010-07-07T22:09:36Z" uid="74617" user="JohnSmith" changeset="5161069">
+    <nd ref="657653854"/>
+    <nd ref="17991824"/>
+    <nd ref="248614722"/>
+    <nd ref="15162391"/>
+    <nd ref="605048314"/>
+    <nd ref="15162396"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Denison Street"/>
+  </way>
+  <way id="51476439" version="1" timestamp="2010-03-01T06:12:51Z" uid="7617" user="Franc" changeset="4005992">
+    <nd ref="657653900"/>
+    <nd ref="657653898"/>
+    <tag k="highway" v="service"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="51476439" version="2" timestamp="2010-04-15T12:55:34Z" uid="7617" user="Franc" changeset="4430672">
+    <nd ref="657653900"/>
+    <nd ref="657653898"/>
+    <tag k="highway" v="service"/>
+    <tag k="nostreetsign" v="20100412"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="51476439" version="3" timestamp="2010-04-19T12:03:04Z" uid="7617" user="Franc" changeset="4467214">
+    <nd ref="657653900"/>
+    <nd ref="657653898"/>
+    <tag k="highway" v="service"/>
+    <tag k="nostreetsign" v="20100412"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="51476439" version="4" timestamp="2010-04-23T09:07:19Z" uid="7617" user="Franc" changeset="4501825">
+    <nd ref="657653900"/>
+    <nd ref="657653898"/>
+    <tag k="FCC" v="FCC"/>
+    <tag k="highway" v="service"/>
+    <tag k="nostreetsign" v="20100412"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="51476439" version="5" timestamp="2010-04-23T09:07:43Z" uid="7617" user="Franc" changeset="4501826">
+    <nd ref="657653900"/>
+    <nd ref="657653898"/>
+    <tag k="highway" v="service"/>
+    <tag k="nostreetsign" v="20100412"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="51476439" version="6" timestamp="2010-04-25T09:53:37Z" uid="7617" user="Franc" changeset="4519201">
+    <nd ref="657653900"/>
+    <nd ref="657653898"/>
+    <tag k="fixme:sign:no" v="2010-04-12"/>
+    <tag k="highway" v="service"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="51476439" version="7" timestamp="2011-03-11T10:05:20Z" uid="7617" user="Franc" changeset="7521816">
+    <nd ref="657653900"/>
+    <nd ref="657653898"/>
+    <tag k="fixme:sign:no" v="2010-04-11"/>
+    <tag k="highway" v="service"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="51476440" version="1" timestamp="2010-03-01T06:12:51Z" uid="7617" user="Franc" changeset="4005992">
+    <nd ref="249663634"/>
+    <nd ref="657653910"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="51476440" version="2" timestamp="2010-04-15T12:55:35Z" uid="7617" user="Franc" changeset="4430672">
+    <nd ref="249663632"/>
+    <nd ref="249663633"/>
+    <nd ref="249663634"/>
+    <nd ref="657653910"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Fitzgerald Street"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="51476440" version="3" timestamp="2010-07-07T22:10:11Z" uid="74617" user="JohnSmith" changeset="5161069">
+    <nd ref="249663632"/>
+    <nd ref="249663633"/>
+    <nd ref="249663634"/>
+    <nd ref="657653910"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Fitzgerald Street"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="51476441" version="1" timestamp="2010-03-01T06:12:51Z" uid="7617" user="Franc" changeset="4005992">
+    <nd ref="657653922"/>
+    <nd ref="249761416"/>
+    <nd ref="570757524"/>
+    <nd ref="44780361"/>
+    <nd ref="249663623"/>
+    <nd ref="616049208"/>
+    <nd ref="616049200"/>
+    <nd ref="616049201"/>
+    <nd ref="616049202"/>
+    <nd ref="616049203"/>
+    <nd ref="10283710"/>
+    <nd ref="33683830"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Carillon Avenue"/>
+  </way>
+  <way id="51476441" version="2" timestamp="2010-08-02T09:26:49Z" uid="7617" user="Franc" changeset="5378492">
+    <nd ref="657653922"/>
+    <nd ref="249761416"/>
+    <nd ref="570757524"/>
+    <nd ref="44780361"/>
+    <nd ref="249663623"/>
+    <nd ref="616049208"/>
+    <nd ref="616049200"/>
+    <nd ref="616049201"/>
+    <nd ref="616049202"/>
+    <nd ref="616049203"/>
+    <nd ref="10283710"/>
+    <nd ref="33683830"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Carillion Avenue"/>
+  </way>
+  <way id="51476442" version="1" timestamp="2010-03-01T06:12:51Z" uid="7617" user="Franc" changeset="4005992">
+    <nd ref="657653915"/>
+    <nd ref="249663625"/>
+    <nd ref="657653918"/>
+    <tag k="highway" v="service"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="51476442" version="2" timestamp="2010-04-21T07:32:08Z" uid="7617" user="Franc" changeset="4483967">
+    <nd ref="657653915"/>
+    <nd ref="249663625"/>
+    <nd ref="657653918"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="51476454" version="2" timestamp="2010-04-02T17:56:55Z" uid="20587" user="balrog-kun" changeset="4304500">
+    <nd ref="657654550"/>
+    <nd ref="52974611"/>
+    <nd ref="52981817"/>
+    <nd ref="657604713"/>
+    <nd ref="52981819"/>
+    <nd ref="657604712"/>
+    <nd ref="52981821"/>
+    <nd ref="52974600"/>
+    <nd ref="52974629"/>
+    <nd ref="52981825"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="layer" v="2"/>
+    <tag k="name" v="Lakeview Boulevard East"/>
+  </way>
+  <way id="51476859" version="2" timestamp="2010-03-21T23:25:13Z" uid="38528" user="acrosscanadatrails" changeset="4198040">
+    <nd ref="657679915"/>
+    <nd ref="657679916"/>
+    <nd ref="657679914"/>
+    <nd ref="657679912"/>
+    <nd ref="657679897"/>
+    <nd ref="657679898"/>
+    <nd ref="657679900"/>
+    <nd ref="657679901"/>
+    <nd ref="657679903"/>
+    <nd ref="657679905"/>
+    <nd ref="657679906"/>
+    <nd ref="657679907"/>
+    <nd ref="657679908"/>
+    <nd ref="657679910"/>
+    <nd ref="657679911"/>
+    <nd ref="657679885"/>
+    <nd ref="657679886"/>
+    <nd ref="657679887"/>
+    <nd ref="657679889"/>
+    <nd ref="657679891"/>
+    <nd ref="657679892"/>
+    <nd ref="657679893"/>
+    <nd ref="657679895"/>
+    <nd ref="657679879"/>
+    <nd ref="671801608"/>
+    <nd ref="657679881"/>
+    <nd ref="657679883"/>
+    <nd ref="657679884"/>
+    <nd ref="657679727"/>
+    <nd ref="657679715"/>
+    <nd ref="657679716"/>
+    <nd ref="657679724"/>
+    <nd ref="657679726"/>
+    <nd ref="657679713"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="surface" v="gravel"/>
+  </way>
+</osm>

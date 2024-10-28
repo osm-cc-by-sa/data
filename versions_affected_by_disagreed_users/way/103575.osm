@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="103575000" version="1" timestamp="2011-03-10T21:21:18Z" uid="6269" user="Mueck" changeset="7518469">
+    <nd ref="1195923201"/>
+    <nd ref="1195922988"/>
+    <nd ref="1195923288"/>
+    <nd ref="1195923034"/>
+    <nd ref="1195923201"/>
+  </way>
+  <way id="103575000" version="2" timestamp="2011-03-21T00:55:19Z" uid="6269" user="Mueck" changeset="7623412">
+    <nd ref="1195923201"/>
+    <nd ref="1195922988"/>
+    <nd ref="1195923288"/>
+    <nd ref="1195923034"/>
+    <nd ref="1195923201"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="103575001" version="1" timestamp="2011-03-10T21:21:19Z" uid="6269" user="Mueck" changeset="7518469">
+    <nd ref="247918369"/>
+    <nd ref="1195784568"/>
+    <nd ref="429902741"/>
+    <nd ref="1195784531"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="frequency" v="16.7"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="operator" v="KVVH / AVG"/>
+    <tag k="railway" v="rail"/>
+    <tag k="service" v="yard"/>
+    <tag k="tracks" v="1"/>
+    <tag k="voltage" v="15000"/>
+    <tag k="workrules" v="EBO"/>
+  </way>
+  <way id="103575002" version="1" timestamp="2011-03-10T21:21:19Z" uid="6269" user="Mueck" changeset="7518469">
+    <nd ref="1195923311"/>
+    <nd ref="1195923194"/>
+    <nd ref="1195923172"/>
+    <nd ref="1195923226"/>
+    <nd ref="1195923270"/>
+    <tag k="man_made" v="pier"/>
+  </way>
+  <way id="103575003" version="1" timestamp="2011-03-10T21:21:19Z" uid="6269" user="Mueck" changeset="7518469">
+    <nd ref="1163746827"/>
+    <nd ref="1195922983"/>
+    <nd ref="1195923070"/>
+    <nd ref="1195923222"/>
+    <tag k="electrified" v="no"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="operator" v="KVVH / AVG"/>
+    <tag k="railway" v="rail"/>
+    <tag k="ref" v="7"/>
+    <tag k="service" v="spur"/>
+    <tag k="tracks" v="1"/>
+    <tag k="workrules" v="EBO"/>
+  </way>
+</osm>

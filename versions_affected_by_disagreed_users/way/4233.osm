@@ -1,0 +1,618 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="4233058" version="3" timestamp="2008-10-23T19:18:18Z" uid="6975" user="ulfl" changeset="530870">
+    <nd ref="25264123"/>
+    <nd ref="25264124"/>
+    <tag k="highway" v="footway"/>
+    <tag k="layer" v="-1"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="4233276" version="12" timestamp="2011-02-27T11:36:29Z" uid="9581" user="Lobelt" changeset="7409425">
+    <nd ref="292066962"/>
+    <nd ref="292067550"/>
+    <nd ref="278397831"/>
+    <nd ref="292043073"/>
+    <nd ref="292043066"/>
+    <nd ref="292043064"/>
+    <nd ref="292044476"/>
+    <nd ref="292043056"/>
+    <nd ref="24498082"/>
+    <nd ref="292051018"/>
+    <nd ref="265607333"/>
+    <nd ref="292068734"/>
+    <nd ref="24498079"/>
+    <nd ref="292051410"/>
+    <nd ref="292051428"/>
+    <nd ref="292051441"/>
+    <nd ref="292051036"/>
+    <nd ref="292051030"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lines" v="3"/>
+    <tag k="maxspeed" v="signals"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="osmarender:renderRef" v="no"/>
+    <tag k="ref" v="A 66"/>
+  </way>
+  <way id="4233277" version="15" timestamp="2011-02-27T11:35:58Z" uid="9581" user="Lobelt" changeset="7409425">
+    <nd ref="20289876"/>
+    <nd ref="292059375"/>
+    <nd ref="292059372"/>
+    <nd ref="20289881"/>
+    <nd ref="1177016649"/>
+    <nd ref="25265092"/>
+    <nd ref="1177016515"/>
+    <nd ref="25265094"/>
+    <nd ref="25265097"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="E 41"/>
+    <tag k="is_in" v="Germany,Europe"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="signals"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A 45; A 66"/>
+    <tag k="source:maxspeed" v="DE:motorway"/>
+    <tag k="zone:traffic" v="DE:rural"/>
+  </way>
+  <way id="4233413" version="6" timestamp="2010-03-27T07:41:27Z" uid="20587" user="balrog-kun" changeset="4244079">
+    <nd ref="25266721"/>
+    <nd ref="565893316"/>
+    <nd ref="565893356"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="name" v="Santa Anita Ave offramp via Brockway Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="Exit 28 from I-10 West"/>
+    <tag k="source" v="survey;image;usgs_imagery;CDOT"/>
+    <tag k="source_ref" v="AM909_DSCP8898"/>
+  </way>
+  <way id="4233417" version="6" timestamp="2010-03-27T07:41:27Z" uid="20587" user="balrog-kun" changeset="4244079">
+    <nd ref="123629573"/>
+    <nd ref="122656702"/>
+    <nd ref="268900867"/>
+    <nd ref="268900301"/>
+    <nd ref="268900302"/>
+    <nd ref="268900303"/>
+    <nd ref="268900304"/>
+    <nd ref="268900326"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Santa Anita Avenue"/>
+  </way>
+  <way id="4233418" version="4" timestamp="2010-03-27T07:41:28Z" uid="20587" user="balrog-kun" changeset="4244079">
+    <nd ref="21063621"/>
+    <nd ref="605261842"/>
+    <nd ref="21063622"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Bellevue Avenue"/>
+  </way>
+  <way id="4233474" version="11" timestamp="2008-08-15T20:42:35Z" uid="33382" user="de_muur" changeset="268321">
+    <nd ref="25268426"/>
+    <nd ref="30007103"/>
+    <nd ref="30007104"/>
+    <nd ref="30007106"/>
+    <nd ref="30007105"/>
+    <nd ref="25268427"/>
+    <nd ref="25268428"/>
+    <nd ref="25268429"/>
+    <nd ref="25268430"/>
+    <nd ref="25268431"/>
+    <nd ref="25268432"/>
+    <nd ref="251174720"/>
+    <nd ref="25268433"/>
+    <nd ref="25268434"/>
+    <nd ref="25268435"/>
+    <nd ref="243530477"/>
+    <nd ref="251982831"/>
+    <nd ref="25268436"/>
+    <nd ref="25268437"/>
+    <nd ref="288313568"/>
+    <nd ref="25268438"/>
+    <tag k="VzG" v="1740"/>
+    <tag k="created_by" v="Potlatch 0.9c"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="name" v="Bremerhaven-Wunstorf"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="Landsat/Yahoo/GPS-Track"/>
+  </way>
+  <way id="4233475" version="5" timestamp="2008-12-01T17:41:29Z" uid="33382" user="de_muur" changeset="21992">
+    <nd ref="25268438"/>
+    <nd ref="316078358"/>
+    <nd ref="25268439"/>
+    <tag k="VzG" v="1740"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="layer" v="-2"/>
+    <tag k="name" v="Bremerhaven-Wunstorf"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="Landsat/Yahoo/GPS-Track"/>
+  </way>
+  <way id="4233475" version="9" timestamp="2009-02-28T07:25:50Z" uid="33382" user="de_muur" changeset="700991">
+    <nd ref="25268438"/>
+    <nd ref="353639255"/>
+    <nd ref="316078358"/>
+    <nd ref="25268439"/>
+    <tag k="VzG" v="1740"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="layer" v="-2"/>
+    <tag k="name" v="Bremerhaven-Wunstorf"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="Landsat/Yahoo/GPS-Track"/>
+  </way>
+  <way id="4233475" version="15" timestamp="2011-01-30T16:38:39Z" uid="33382" user="de_muur" changeset="7136208">
+    <nd ref="25268426"/>
+    <nd ref="30007103"/>
+    <nd ref="973754410"/>
+    <nd ref="30007104"/>
+    <nd ref="30007106"/>
+    <nd ref="25268427"/>
+    <nd ref="25268428"/>
+    <nd ref="25268429"/>
+    <nd ref="429744316"/>
+    <nd ref="25268430"/>
+    <nd ref="25268431"/>
+    <nd ref="25268432"/>
+    <nd ref="251174720"/>
+    <nd ref="25268433"/>
+    <nd ref="25268434"/>
+    <nd ref="25268435"/>
+    <nd ref="243530477"/>
+    <nd ref="251982831"/>
+    <nd ref="25268436"/>
+    <nd ref="25268437"/>
+    <nd ref="288313568"/>
+    <nd ref="25268438"/>
+    <nd ref="316078365"/>
+    <nd ref="287056475"/>
+    <nd ref="25268439"/>
+    <tag k="VzG" v="1740"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="frequency" v="16.7"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="name" v="Bremerhaven-Wunstorf"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="Landsat/Yahoo/GPS-Track"/>
+    <tag k="voltage" v="15000"/>
+  </way>
+  <way id="4233491" version="2" timestamp="2008-03-22T19:55:56Z" uid="5871" user="Banny" changeset="371730">
+    <nd ref="22488191"/>
+    <nd ref="21767511"/>
+    <nd ref="21767512"/>
+    <nd ref="21767513"/>
+    <nd ref="21767514"/>
+    <nd ref="21767515"/>
+    <nd ref="21767516"/>
+    <nd ref="21767517"/>
+    <nd ref="21767518"/>
+    <nd ref="21767519"/>
+    <nd ref="21767520"/>
+    <nd ref="21767521"/>
+    <nd ref="21767522"/>
+    <nd ref="21767523"/>
+    <nd ref="21767524"/>
+    <nd ref="21767525"/>
+    <nd ref="21767526"/>
+    <nd ref="21767527"/>
+    <nd ref="21431766"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="residential"/>
+    <tag k="is_in" v="Lünen,Germany,Europe"/>
+    <tag k="name" v="Am Fuchsbach"/>
+  </way>
+  <way id="4233494" version="2" timestamp="2008-03-22T19:55:55Z" uid="5871" user="Banny" changeset="371730">
+    <nd ref="21767438"/>
+    <nd ref="21767457"/>
+    <nd ref="21767458"/>
+    <nd ref="21767459"/>
+    <nd ref="21767460"/>
+    <nd ref="21767461"/>
+    <nd ref="21767462"/>
+    <nd ref="21767463"/>
+    <nd ref="21767464"/>
+    <nd ref="21767465"/>
+    <nd ref="21431760"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="residential"/>
+    <tag k="is_in" v="Lünen,Germany,Europe"/>
+    <tag k="name" v="Roemerweg"/>
+  </way>
+  <way id="4233604" version="2" timestamp="2008-03-22T19:55:55Z" uid="5871" user="Banny" changeset="371730">
+    <nd ref="21767396"/>
+    <nd ref="21767397"/>
+    <nd ref="21767398"/>
+    <nd ref="21767406"/>
+    <nd ref="21767419"/>
+    <nd ref="21767428"/>
+    <nd ref="21767429"/>
+    <nd ref="21767438"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="residential"/>
+    <tag k="is_in" v="Lünen,Germany,Europe"/>
+    <tag k="name" v="Landwehr"/>
+  </way>
+  <way id="4233607" version="2" timestamp="2008-03-22T19:55:54Z" uid="5871" user="Banny" changeset="371730">
+    <nd ref="21767371"/>
+    <nd ref="21767395"/>
+    <nd ref="21767396"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="residential"/>
+    <tag k="is_in" v="Lünen,Germany,Europe"/>
+    <tag k="name" v="Lauenburger Straße"/>
+  </way>
+  <way id="4233608" version="2" timestamp="2008-03-22T19:55:54Z" uid="5871" user="Banny" changeset="371730">
+    <nd ref="21767324"/>
+    <nd ref="21767356"/>
+    <nd ref="21767371"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="residential"/>
+    <tag k="is_in" v="Lünen,Germany,Europe"/>
+    <tag k="name" v="Lauenburger Straße"/>
+  </way>
+  <way id="4233609" version="2" timestamp="2008-03-22T19:55:54Z" uid="5871" user="Banny" changeset="371730">
+    <nd ref="21431844"/>
+    <nd ref="28838791"/>
+    <nd ref="21767324"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="residential"/>
+    <tag k="is_in" v="Lünen,Germany,Europe"/>
+    <tag k="name" v="Am Steinkreuz"/>
+  </way>
+  <way id="4233610" version="2" timestamp="2008-03-22T19:55:53Z" uid="5871" user="Banny" changeset="371730">
+    <nd ref="21767324"/>
+    <nd ref="21767315"/>
+    <nd ref="21767314"/>
+    <nd ref="21767313"/>
+    <nd ref="21767312"/>
+    <nd ref="21767311"/>
+    <nd ref="21767310"/>
+    <nd ref="21767309"/>
+    <nd ref="21767308"/>
+    <nd ref="21767307"/>
+    <nd ref="21767306"/>
+    <nd ref="21767305"/>
+    <nd ref="21767304"/>
+    <nd ref="21767303"/>
+    <nd ref="21767302"/>
+    <nd ref="21767301"/>
+    <nd ref="21767300"/>
+    <nd ref="21767299"/>
+    <nd ref="21767193"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="residential"/>
+    <tag k="is_in" v="Lünen,Germany,Europe"/>
+    <tag k="name" v="Am Steinkreuz"/>
+  </way>
+  <way id="4233633" version="1" timestamp="2007-06-10T21:32:22Z" uid="1066" user="pavel" changeset="89614">
+    <nd ref="25269068"/>
+    <nd ref="25269067"/>
+    <nd ref="25269066"/>
+    <nd ref="25269065"/>
+    <nd ref="25269064"/>
+    <nd ref="25269071"/>
+    <nd ref="25269068"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="4233634" version="1" timestamp="2007-06-12T23:30:36Z" uid="1066" user="pavel" changeset="93654">
+    <nd ref="514904"/>
+    <nd ref="25269086"/>
+    <nd ref="25269087"/>
+    <nd ref="514903"/>
+    <nd ref="260802"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="primary"/>
+    <tag k="level" v="-1"/>
+  </way>
+  <way id="4233634" version="3" timestamp="2007-12-21T21:34:36Z" uid="1066" user="pavel" changeset="382744">
+    <nd ref="514904"/>
+    <nd ref="25269086"/>
+    <nd ref="25269087"/>
+    <nd ref="514903"/>
+    <nd ref="260802"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="layer" v="-1"/>
+  </way>
+  <way id="4233635" version="1" timestamp="2007-06-12T23:31:54Z" uid="1066" user="pavel" changeset="93654">
+    <nd ref="483415"/>
+    <nd ref="25269089"/>
+    <nd ref="25269090"/>
+    <nd ref="30271726"/>
+    <nd ref="30271724"/>
+    <nd ref="30271725"/>
+    <nd ref="25269092"/>
+    <nd ref="25269114"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="trunk_link"/>
+  </way>
+  <way id="4233636" version="1" timestamp="2007-01-16T21:01:41Z" uid="1066" user="pavel" changeset="196201">
+    <nd ref="25269116"/>
+    <nd ref="25269117"/>
+    <nd ref="25269118"/>
+    <nd ref="25269119"/>
+    <nd ref="25269120"/>
+    <nd ref="25269121"/>
+    <nd ref="25269122"/>
+    <nd ref="25269123"/>
+    <nd ref="25436647"/>
+    <nd ref="25314840"/>
+    <nd ref="25314852"/>
+    <nd ref="25314867"/>
+    <nd ref="25314883"/>
+    <nd ref="25314890"/>
+    <nd ref="25314898"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="cycleway"/>
+    <tag k="level" v="1"/>
+    <tag k="name" v="Cylkostezka na tubusu metra"/>
+  </way>
+  <way id="4233636" version="3" timestamp="2007-12-09T19:43:34Z" uid="1066" user="pavel" changeset="213143">
+    <nd ref="25269116"/>
+    <nd ref="25269119"/>
+    <nd ref="25269120"/>
+    <nd ref="25269122"/>
+    <nd ref="25269123"/>
+    <nd ref="25436647"/>
+    <nd ref="25314840"/>
+    <nd ref="25314852"/>
+    <nd ref="25314867"/>
+    <nd ref="25314883"/>
+    <nd ref="25314890"/>
+    <nd ref="25314898"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="cycleway"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Cylkostezka na tubusu metra"/>
+  </way>
+  <way id="4233637" version="1" timestamp="2007-01-16T21:01:43Z" uid="1066" user="pavel" changeset="196201">
+    <nd ref="25269122"/>
+    <nd ref="25269131"/>
+    <nd ref="25269130"/>
+    <nd ref="25269132"/>
+    <nd ref="25269129"/>
+    <nd ref="25269124"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="steps"/>
+  </way>
+  <way id="4233638" version="1" timestamp="2007-01-16T21:01:47Z" uid="1066" user="pavel" changeset="196201">
+    <nd ref="25269124"/>
+    <nd ref="25269125"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="4233639" version="1" timestamp="2007-01-16T21:01:50Z" uid="1066" user="pavel" changeset="196201">
+    <nd ref="25269126"/>
+    <nd ref="25269127"/>
+    <nd ref="25269128"/>
+    <nd ref="25450814"/>
+    <nd ref="25610991"/>
+    <nd ref="25314958"/>
+    <nd ref="25314957"/>
+    <nd ref="25314956"/>
+    <nd ref="25314954"/>
+    <nd ref="25314808"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="4233639" version="2" timestamp="2007-11-19T16:24:42Z" uid="1066" user="pavel" changeset="568091"/>
+  <way id="4233647" version="1" timestamp="2007-01-16T21:07:10Z" uid="1066" user="pavel" changeset="196201">
+    <nd ref="260806"/>
+    <nd ref="260805"/>
+    <nd ref="260801"/>
+    <nd ref="260802"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="4233647" version="3" timestamp="2008-09-05T10:54:23Z" uid="1066" user="pavel" changeset="539695">
+    <nd ref="260806"/>
+    <nd ref="260805"/>
+    <nd ref="260801"/>
+    <tag k="created_by" v="Potlatch 0.5d"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Skorkovská"/>
+    <tag k="name:source" v="nameit/uir-adr"/>
+  </way>
+  <way id="4233648" version="1" timestamp="2007-01-16T21:07:15Z" uid="1066" user="pavel" changeset="196201">
+    <nd ref="7307708"/>
+    <nd ref="7307711"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="4233648" version="2" timestamp="2008-09-05T10:53:48Z" uid="1066" user="pavel" changeset="539695">
+    <nd ref="7307708"/>
+    <nd ref="7307711"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Generála Janouška"/>
+    <tag k="name:source" v="nameit/uir-adr"/>
+  </way>
+  <way id="4233649" version="3" timestamp="2009-03-25T16:55:37Z" uid="1066" user="pavel" changeset="857378">
+    <nd ref="7307300"/>
+    <nd ref="7307298"/>
+    <nd ref="365599673"/>
+    <nd ref="365599656"/>
+    <nd ref="7307284"/>
+    <nd ref="25610977"/>
+    <nd ref="6925827"/>
+    <nd ref="6925831"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Šromova"/>
+  </way>
+  <way id="4233650" version="1" timestamp="2007-01-16T21:11:03Z" uid="1066" user="pavel" changeset="196201">
+    <nd ref="7307258"/>
+    <nd ref="7307255"/>
+    <nd ref="7307324"/>
+    <nd ref="7307340"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Himrova"/>
+  </way>
+  <way id="4233650" version="2" timestamp="2008-12-17T21:13:18Z" uid="1066" user="pavel" changeset="441451">
+    <nd ref="7307258"/>
+    <nd ref="319597166"/>
+    <nd ref="7307255"/>
+    <nd ref="7307324"/>
+    <nd ref="7307340"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Himrova"/>
+  </way>
+  <way id="4233651" version="1" timestamp="2007-01-16T21:11:07Z" uid="1066" user="pavel" changeset="196201">
+    <nd ref="7307391"/>
+    <nd ref="7307392"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="4233651" version="2" timestamp="2008-09-05T10:53:55Z" uid="1066" user="pavel" changeset="539695">
+    <nd ref="7307391"/>
+    <nd ref="7307392"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Dygrýnova"/>
+    <tag k="name:source" v="nameit/uir-adr"/>
+  </way>
+  <way id="4233652" version="1" timestamp="2007-06-12T02:28:18Z" uid="1066" user="pavel" changeset="92307">
+    <nd ref="7307403"/>
+    <nd ref="7307385"/>
+    <nd ref="7307381"/>
+    <nd ref="30233335"/>
+    <nd ref="7307350"/>
+    <nd ref="25240109"/>
+    <nd ref="483391"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Breicetlova"/>
+  </way>
+  <way id="4233686" version="1" timestamp="2007-01-16T21:25:55Z" uid="1066" user="pavel" changeset="196201">
+    <nd ref="251790"/>
+    <nd ref="7782845"/>
+    <nd ref="7782856"/>
+    <nd ref="7782867"/>
+    <nd ref="251239"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="unclassified"/>
+  </way>
+  <way id="4233786" version="3" timestamp="2008-09-19T09:50:54Z" uid="66740" user="Jürgen Schmidt" changeset="666513">
+    <nd ref="25270665"/>
+    <nd ref="25270666"/>
+    <nd ref="25270629"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Benzstraße"/>
+  </way>
+  <way id="4233787" version="4" timestamp="2008-09-10T09:04:47Z" uid="66740" user="Jürgen Schmidt" changeset="592739">
+    <nd ref="25270627"/>
+    <nd ref="25270626"/>
+    <nd ref="25270625"/>
+    <nd ref="25270624"/>
+    <nd ref="25270623"/>
+    <nd ref="25270621"/>
+    <nd ref="25270620"/>
+    <nd ref="295555617"/>
+    <nd ref="25270619"/>
+    <nd ref="25270618"/>
+    <nd ref="25270617"/>
+    <nd ref="25270616"/>
+    <nd ref="25270615"/>
+    <nd ref="25270614"/>
+    <nd ref="25270613"/>
+    <nd ref="25270612"/>
+    <nd ref="271236623"/>
+    <nd ref="25270611"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="tertiary"/>
+  </way>
+  <way id="4233787" version="5" timestamp="2008-09-19T09:25:57Z" uid="66740" user="Jürgen Schmidt" changeset="666513">
+    <nd ref="25270627"/>
+    <nd ref="25270626"/>
+    <nd ref="25270625"/>
+    <nd ref="25270624"/>
+    <nd ref="25270623"/>
+    <nd ref="298089808"/>
+    <nd ref="25270621"/>
+    <nd ref="298089776"/>
+    <nd ref="25270620"/>
+    <nd ref="295555617"/>
+    <nd ref="25270619"/>
+    <nd ref="298089814"/>
+    <nd ref="25270618"/>
+    <nd ref="25270617"/>
+    <nd ref="25270616"/>
+    <nd ref="25270615"/>
+    <nd ref="298089819"/>
+    <nd ref="25270614"/>
+    <nd ref="25270613"/>
+    <nd ref="25270612"/>
+    <nd ref="271236623"/>
+    <nd ref="25270611"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Otto-Hahn-Straße"/>
+    <tag k="ref" v="K 52"/>
+  </way>
+  <way id="4233790" version="3" timestamp="2008-10-25T16:09:23Z" uid="66740" user="Jürgen Schmidt" changeset="573433">
+    <nd ref="25270631"/>
+    <nd ref="25270643"/>
+    <nd ref="274368392"/>
+    <nd ref="25270644"/>
+    <nd ref="25270645"/>
+    <nd ref="25270646"/>
+    <nd ref="25270647"/>
+    <nd ref="25270648"/>
+    <nd ref="25270649"/>
+    <nd ref="25270650"/>
+    <nd ref="25270651"/>
+    <nd ref="25270652"/>
+    <nd ref="25270653"/>
+    <nd ref="25270654"/>
+    <nd ref="25270655"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Heitmannsweg"/>
+  </way>
+  <way id="4233818" version="2" timestamp="2008-03-30T19:21:28Z" uid="16922" user="amai" changeset="426625">
+    <nd ref="532413"/>
+    <nd ref="24555956"/>
+    <nd ref="499187"/>
+    <tag k="created_by" v="Potlatch 0.8a"/>
+    <tag k="highway" v="secondary"/>
+  </way>
+  <way id="4233835" version="2" timestamp="2008-08-10T17:06:11Z" uid="6269" user="Mueck" changeset="171550">
+    <nd ref="16812768"/>
+    <nd ref="16375965"/>
+    <nd ref="16812831"/>
+    <nd ref="16812824"/>
+    <nd ref="26936676"/>
+    <nd ref="26936674"/>
+    <nd ref="17198951"/>
+    <nd ref="17198952"/>
+    <nd ref="17198953"/>
+    <nd ref="17198956"/>
+    <nd ref="21519870"/>
+    <tag k="+no" v="im SHP des NVK: II"/>
+    <tag k="created_by" v="Potlatch 0.10b"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Rommelstraße"/>
+  </way>
+  <way id="4233838" version="5" timestamp="2011-02-06T01:52:32Z" uid="6269" user="Mueck" changeset="7199360">
+    <nd ref="31088980"/>
+    <nd ref="1138378561"/>
+    <nd ref="1138378578"/>
+    <nd ref="1138378495"/>
+    <nd ref="1138378593"/>
+    <nd ref="31088982"/>
+    <nd ref="1138378439"/>
+    <nd ref="1138378428"/>
+    <nd ref="25271371"/>
+    <nd ref="1138378582"/>
+    <nd ref="1138378516"/>
+    <nd ref="20697250"/>
+    <nd ref="20697249"/>
+    <nd ref="25271373"/>
+    <nd ref="759744045"/>
+    <nd ref="1138378548"/>
+    <nd ref="1138378425"/>
+    <nd ref="25271374"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="lanes" v="2"/>
+    <tag k="oneway" v="yes; yes; no"/>
+  </way>
+</osm>

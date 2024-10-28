@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="47248237" version="5" timestamp="2010-08-04T17:36:56Z" uid="9581" user="Lobelt" changeset="5401263">
+    <nd ref="544667420"/>
+    <nd ref="602938211"/>
+    <nd ref="602938215"/>
+    <nd ref="602938220"/>
+    <nd ref="545335127"/>
+    <tag k="cables" v="6"/>
+    <tag k="frequency" v="50"/>
+    <tag k="name" v="110 kV Hennef Nord|Süd"/>
+    <tag k="operator" v="RWE"/>
+    <tag k="power" v="line"/>
+    <tag k="ref" v="0073"/>
+    <tag k="voltage" v="110000"/>
+    <tag k="wires" v="single"/>
+  </way>
+  <way id="47248238" version="4" timestamp="2010-08-04T17:43:30Z" uid="9581" user="Lobelt" changeset="5401263">
+    <nd ref="582904827"/>
+    <nd ref="582904823"/>
+    <nd ref="602048714"/>
+    <tag k="cables" v="6"/>
+    <tag k="cables:diff" v="6"/>
+    <tag k="frequency" v="50"/>
+    <tag k="name:diff" v="0 kV ground_3957; ground_1927"/>
+    <tag k="note" v="Die Leiter sind isoliert, aber spannungslos"/>
+    <tag k="operator" v="RWE"/>
+    <tag k="power" v="line"/>
+    <tag k="ref" v="0073"/>
+    <tag k="voltage" v="0"/>
+    <tag k="wires" v="single"/>
+  </way>
+  <way id="47248240" version="4" timestamp="2010-08-04T17:48:02Z" uid="9581" user="Lobelt" changeset="5401263">
+    <nd ref="582904829"/>
+    <nd ref="603363340"/>
+    <nd ref="582904818"/>
+    <nd ref="602048787"/>
+    <nd ref="582904826"/>
+    <nd ref="582904822"/>
+    <nd ref="602048714"/>
+    <tag k="cables" v="6"/>
+    <tag k="frequency" v="50"/>
+    <tag k="name" v="110 kV Hennef Nord|Süd"/>
+    <tag k="operator" v="RWE"/>
+    <tag k="power" v="line"/>
+    <tag k="ref" v="0076"/>
+    <tag k="voltage" v="110000"/>
+    <tag k="wires" v="single"/>
+  </way>
+  <way id="47248246" version="4" timestamp="2010-08-04T17:37:04Z" uid="9581" user="Lobelt" changeset="5401263">
+    <nd ref="602048702"/>
+    <nd ref="602048784"/>
+    <nd ref="582904827"/>
+    <tag k="cables" v="6"/>
+    <tag k="frequency" v="50"/>
+    <tag k="name" v="11 kV Geisbach Nord|Süd"/>
+    <tag k="note" v="Wirklich 11 kV Mittelspannung und nicht 110 kV Hochspannung. Isolation und Masten beide für Hochspannung."/>
+    <tag k="operator" v="RWE"/>
+    <tag k="power" v="line"/>
+    <tag k="ref" v="0073"/>
+    <tag k="voltage" v="11000"/>
+    <tag k="wires" v="single"/>
+  </way>
+  <way id="47248249" version="8" timestamp="2010-08-04T17:37:59Z" uid="9581" user="Lobelt" changeset="5401263">
+    <nd ref="603363376"/>
+    <nd ref="603363375"/>
+    <nd ref="331277542"/>
+    <nd ref="582904816"/>
+    <nd ref="602048697"/>
+    <nd ref="602048699"/>
+    <tag k="cables" v="10"/>
+    <tag k="frequency" v="50;16.7"/>
+    <tag k="name" v="380 kV Siegtal Nord|Süd; 110 kV Bahnstrom Orscheid - Köln 1|2"/>
+    <tag k="note" v="6*quad*380 kV; 4*single*110 kV"/>
+    <tag k="operator" v="RWE"/>
+    <tag k="operator:2" v="DB_Energie"/>
+    <tag k="power" v="line"/>
+    <tag k="ref" v="4104"/>
+    <tag k="ref:2" v="Abzweig - Uw Herchen"/>
+    <tag k="source" v="yahoo"/>
+    <tag k="voltage" v="380000;110000"/>
+    <tag k="wires" v="quad;single"/>
+  </way>
+  <way id="47248250" version="3" timestamp="2010-08-04T17:44:31Z" uid="9581" user="Lobelt" changeset="5401263">
+    <nd ref="602048699"/>
+    <nd ref="582904815"/>
+    <tag k="cables" v="6"/>
+    <tag k="frequency" v="50"/>
+    <tag k="name" v="380 kV Siegtal Nord|Süd"/>
+    <tag k="operator" v="RWE"/>
+    <tag k="power" v="line"/>
+    <tag k="ref" v="4104"/>
+    <tag k="source" v="survey"/>
+    <tag k="voltage" v="380000"/>
+    <tag k="wires" v="quad"/>
+  </way>
+  <way id="47248252" version="5" timestamp="2010-08-04T17:37:38Z" uid="9581" user="Lobelt" changeset="5401263">
+    <nd ref="602048699"/>
+    <nd ref="602048779"/>
+    <tag k="cables" v="4"/>
+    <tag k="frequency" v="16.7"/>
+    <tag k="name" v="110 kV Bahnstrom Orscheid - Köln 1|2"/>
+    <tag k="operator" v="DB_Energie"/>
+    <tag k="power" v="line"/>
+    <tag k="ref" v="Abzweig - Uw Herchen"/>
+    <tag k="source" v="survey"/>
+    <tag k="voltage" v="110000"/>
+    <tag k="wires" v="single"/>
+  </way>
+  <way id="47248288" version="2" timestamp="2010-03-14T15:06:37Z" uid="30632" user="antblant" changeset="4125468">
+    <nd ref="602054500"/>
+    <nd ref="602050652"/>
+    <nd ref="602050653"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Komandosów"/>
+  </way>
+  <way id="47248442" version="2" timestamp="2010-03-14T15:06:39Z" uid="30632" user="antblant" changeset="4125468"/>
+  <way id="47248443" version="2" timestamp="2010-03-14T15:06:39Z" uid="30632" user="antblant" changeset="4125468"/>
+  <way id="47248444" version="2" timestamp="2010-03-14T15:06:39Z" uid="30632" user="antblant" changeset="4125468"/>
+  <way id="47248445" version="2" timestamp="2010-03-14T15:06:39Z" uid="30632" user="antblant" changeset="4125468"/>
+  <way id="47248446" version="2" timestamp="2010-03-14T15:06:39Z" uid="30632" user="antblant" changeset="4125468"/>
+  <way id="47248447" version="2" timestamp="2010-03-14T15:06:39Z" uid="30632" user="antblant" changeset="4125468"/>
+  <way id="47248448" version="2" timestamp="2010-03-14T15:06:39Z" uid="30632" user="antblant" changeset="4125468"/>
+  <way id="47248449" version="2" timestamp="2010-03-14T15:06:39Z" uid="30632" user="antblant" changeset="4125468"/>
+  <way id="47248450" version="2" timestamp="2010-03-14T15:06:39Z" uid="30632" user="antblant" changeset="4125468"/>
+  <way id="47248451" version="2" timestamp="2010-03-14T15:06:39Z" uid="30632" user="antblant" changeset="4125468"/>
+  <way id="47248452" version="2" timestamp="2010-03-14T15:06:39Z" uid="30632" user="antblant" changeset="4125468"/>
+  <way id="47248453" version="2" timestamp="2010-03-14T15:06:39Z" uid="30632" user="antblant" changeset="4125468"/>
+  <way id="47248454" version="2" timestamp="2010-03-14T15:06:39Z" uid="30632" user="antblant" changeset="4125468"/>
+</osm>

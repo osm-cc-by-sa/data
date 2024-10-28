@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="17785175" version="1" timestamp="2007-12-23T02:46:58Z" uid="7617" user="Franc" changeset="397476">
+    <nd ref="33107560"/>
+    <nd ref="33107564"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="created_by" v="Potlatch alpha"/>
+    <tag k="highway" v="residential"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Brenan Street"/>
+    <tag k="source" v="yahoo_imagery"/>
+    <tag k="source:name" v="DOL 1939"/>
+    <tag k="source_ref" v="http://www.sl.nsw.gov.au/online/maps.cfm"/>
+  </way>
+  <way id="17785175" version="3" timestamp="2010-07-07T22:11:20Z" uid="74617" user="JohnSmith" changeset="5161069">
+    <nd ref="33107560"/>
+    <nd ref="33107564"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="layer" v="1"/>
+    <tag k="lcn" v="yes"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Brenan Street"/>
+    <tag k="source" v="yahoo_imagery"/>
+    <tag k="source:name" v="DOL 1939"/>
+    <tag k="source_ref" v="http://www.sl.nsw.gov.au/online/maps.cfm"/>
+  </way>
+  <way id="17785177" version="1" timestamp="2007-12-23T02:46:59Z" uid="7617" user="Franc" changeset="397476">
+    <nd ref="33107564"/>
+    <nd ref="33033169"/>
+    <tag k="created_by" v="Potlatch alpha"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Brenan Street"/>
+    <tag k="source:name" v="DOL 1939"/>
+    <tag k="source_ref" v="http://www.sl.nsw.gov.au/online/maps.cfm"/>
+  </way>
+  <way id="17785177" version="2" timestamp="2010-07-07T22:09:35Z" uid="74617" user="JohnSmith" changeset="5161069">
+    <nd ref="33107564"/>
+    <nd ref="33033169"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Brenan Street"/>
+    <tag k="source:name" v="DOL 1939"/>
+    <tag k="source_ref" v="http://www.sl.nsw.gov.au/online/maps.cfm"/>
+  </way>
+</osm>

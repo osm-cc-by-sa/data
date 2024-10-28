@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="99655659" version="1" timestamp="2011-02-14T02:32:00Z" uid="107674" user="GeoCounter" changeset="7282532">
+    <nd ref="1152185437"/>
+    <nd ref="1152185431"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Ringstraße"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="L 3117"/>
+  </way>
+  <way id="99655660" version="1" timestamp="2011-02-14T02:32:00Z" uid="107674" user="GeoCounter" changeset="7282532">
+    <nd ref="1152185431"/>
+    <nd ref="2470960"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Hohebergstraße"/>
+  </way>
+  <way id="99655662" version="1" timestamp="2011-02-14T02:32:00Z" uid="107674" user="GeoCounter" changeset="7282532">
+    <nd ref="1152185431"/>
+    <nd ref="1152185434"/>
+    <nd ref="1152185432"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Ringstraße"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="L 3117"/>
+  </way>
+  <way id="99655663" version="1" timestamp="2011-02-14T02:32:00Z" uid="107674" user="GeoCounter" changeset="7282532">
+    <nd ref="1152185432"/>
+    <nd ref="245412487"/>
+    <nd ref="2470963"/>
+    <nd ref="269360800"/>
+    <nd ref="248155465"/>
+    <nd ref="2470964"/>
+    <nd ref="2470965"/>
+    <nd ref="269388078"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Ringstraße"/>
+    <tag k="ref" v="L 3117"/>
+  </way>
+  <way id="99655664" version="1" timestamp="2011-02-14T02:32:00Z" uid="107674" user="GeoCounter" changeset="7282532">
+    <nd ref="1152185437"/>
+    <nd ref="280373472"/>
+    <nd ref="2470960"/>
+    <tag k="class:bicycle" v="-2"/>
+    <tag k="class:bicycle:non_experienced" v="-3"/>
+    <tag k="cycleway" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Ringstraße"/>
+    <tag k="note" v="schmale Fahrbahn ohne Seitenstreifen"/>
+    <tag k="oneway" v="-1"/>
+    <tag k="ref" v="L 3117"/>
+  </way>
+  <way id="99655839" version="1" timestamp="2011-02-14T02:33:27Z" uid="4467" user="Rosscoe" changeset="7282535">
+    <nd ref="1152187409"/>
+    <nd ref="1152187452"/>
+    <nd ref="1152187458"/>
+    <nd ref="1152187377"/>
+    <nd ref="1152187470"/>
+    <nd ref="1152187412"/>
+    <nd ref="1152187460"/>
+    <nd ref="1152187380"/>
+    <nd ref="1152187407"/>
+    <nd ref="1152187465"/>
+    <nd ref="1152187386"/>
+    <nd ref="1152187431"/>
+    <nd ref="1152187471"/>
+    <nd ref="1152187393"/>
+    <nd ref="1152187443"/>
+    <nd ref="1152187370"/>
+    <nd ref="1152187362"/>
+    <nd ref="1152187394"/>
+    <nd ref="1152187447"/>
+    <nd ref="1152187373"/>
+    <nd ref="1152187369"/>
+    <nd ref="1152187402"/>
+    <nd ref="1152187453"/>
+    <nd ref="272268397"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Warrigal Road"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="99655840" version="1" timestamp="2011-02-14T02:33:28Z" uid="4467" user="Rosscoe" changeset="7282535">
+    <nd ref="21643760"/>
+    <nd ref="1152187375"/>
+    <nd ref="1152187421"/>
+    <nd ref="1152187352"/>
+    <nd ref="1152187379"/>
+    <nd ref="1152187430"/>
+    <nd ref="1152187367"/>
+    <nd ref="1152187395"/>
+    <nd ref="1152187467"/>
+    <nd ref="1152187389"/>
+    <nd ref="1152187409"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Warrigal Road"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="99655841" version="1" timestamp="2011-02-14T02:33:28Z" uid="4467" user="Rosscoe" changeset="7282535">
+    <nd ref="314490408"/>
+    <nd ref="1152187354"/>
+    <nd ref="1152187387"/>
+    <nd ref="1152187423"/>
+    <nd ref="1152187361"/>
+    <nd ref="1152187390"/>
+    <nd ref="1152187424"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Alexandra Crescent"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="99655842" version="1" timestamp="2011-02-14T02:33:28Z" uid="4467" user="Rosscoe" changeset="7282535">
+    <nd ref="1152187424"/>
+    <nd ref="1152187449"/>
+    <nd ref="1152187444"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Windsor Crescent"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="surface" v="paved"/>
+  </way>
+</osm>

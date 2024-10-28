@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="47809202" version="2" timestamp="2010-03-23T11:46:23Z" uid="4467" user="Rosscoe" changeset="4211337">
+    <nd ref="672690959"/>
+    <nd ref="608182583"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Laurie Street"/>
+  </way>
+  <way id="47809202" version="3" timestamp="2010-07-08T16:56:20Z" uid="74617" user="JohnSmith" changeset="5167338">
+    <nd ref="672690959"/>
+    <nd ref="608182583"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Laurie Street"/>
+  </way>
+  <way id="47809202" version="4" timestamp="2011-02-07T11:12:26Z" uid="4467" user="Rosscoe" changeset="7214726">
+    <nd ref="672690959"/>
+    <nd ref="608182583"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Laurie Street"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="47809203" version="2" timestamp="2010-07-08T16:56:42Z" uid="74617" user="JohnSmith" changeset="5167338">
+    <nd ref="608182570"/>
+    <nd ref="608182578"/>
+    <nd ref="608182581"/>
+    <nd ref="608182586"/>
+    <nd ref="608182589"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="47809203" version="4" timestamp="2011-02-07T11:14:33Z" uid="4467" user="Rosscoe" changeset="7214726">
+    <nd ref="608182570"/>
+    <nd ref="608182578"/>
+    <nd ref="608182581"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Peady Street"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+  </way>
+</osm>

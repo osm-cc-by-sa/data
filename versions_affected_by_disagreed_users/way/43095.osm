@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="43095965" version="2" timestamp="2010-03-01T06:50:20Z" uid="7617" user="Franc" changeset="4006099">
+    <nd ref="82077040"/>
+    <nd ref="82077060"/>
+    <nd ref="657715243"/>
+    <nd ref="26359413"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Iredale Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="43095965" version="4" timestamp="2010-07-07T21:54:41Z" uid="74617" user="JohnSmith" changeset="5161069">
+    <nd ref="82077040"/>
+    <nd ref="82077060"/>
+    <nd ref="657715243"/>
+    <nd ref="26359413"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Iredale Avenue"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+</osm>

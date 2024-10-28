@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="60081040" version="1" timestamp="2010-05-23T16:55:16Z" uid="59758" user="rendle" changeset="4785015">
+    <nd ref="742895109"/>
+    <nd ref="270191577"/>
+    <nd ref="742895117"/>
+    <nd ref="742895062"/>
+    <nd ref="441922071"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Toleindestraat"/>
+  </way>
+  <way id="60081364" version="1" timestamp="2010-05-23T16:56:45Z" uid="6269" user="Mueck" changeset="4784635">
+    <nd ref="746622707"/>
+    <nd ref="746621092"/>
+    <nd ref="27159190"/>
+    <tag k="highway" v="track"/>
+    <tag k="surface" v="grass"/>
+  </way>
+  <way id="60081364" version="2" timestamp="2010-05-23T16:57:25Z" uid="6269" user="Mueck" changeset="4784635">
+    <nd ref="746622707"/>
+    <nd ref="746621092"/>
+    <tag k="highway" v="track"/>
+    <tag k="smoothness" v="very_bad"/>
+    <tag k="surface" v="grass"/>
+    <tag k="tracktype" v="grade5"/>
+  </way>
+  <way id="60081364" version="3" timestamp="2010-05-23T16:57:45Z" uid="6269" user="Mueck" changeset="4784635">
+    <nd ref="746622707"/>
+    <nd ref="746621092"/>
+    <tag k="highway" v="track"/>
+    <tag k="smoothness" v="bad"/>
+    <tag k="surface" v="grass; comppacted"/>
+    <tag k="tracktype" v="grade4"/>
+  </way>
+  <way id="60081543" version="1" timestamp="2010-05-23T16:57:25Z" uid="6269" user="Mueck" changeset="4784635">
+    <nd ref="746621092"/>
+    <nd ref="27159190"/>
+    <tag k="highway" v="track"/>
+    <tag k="smoothness" v="very_bad"/>
+    <tag k="surface" v="grass"/>
+    <tag k="tracktype" v="grade5"/>
+  </way>
+  <way id="60081977" version="1" timestamp="2010-05-23T16:59:13Z" uid="6269" user="Mueck" changeset="4784635">
+    <nd ref="746624979"/>
+    <nd ref="746624983"/>
+    <nd ref="27159185"/>
+    <tag k="highway" v="service"/>
+    <tag k="smoothness" v="intermediate"/>
+    <tag k="surface" v="compacted"/>
+    <tag k="tracktype" v="grade2"/>
+  </way>
+  <way id="60081977" version="2" timestamp="2010-05-23T16:59:28Z" uid="6269" user="Mueck" changeset="4784635">
+    <nd ref="746624979"/>
+    <nd ref="746624983"/>
+    <nd ref="27159185"/>
+    <tag k="highway" v="track"/>
+    <tag k="smoothness" v="very_bad"/>
+    <tag k="surface" v="grass"/>
+    <tag k="tracktype" v="grade5"/>
+  </way>
+</osm>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1429355" version="3" timestamp="2011-05-22T22:13:49Z" uid="23543" user="jkjk" changeset="8221887">
+    <member type="way" ref="114475004" role=""/>
+    <member type="way" ref="99903652" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="waterway" v="riverbank"/>
+  </relation>
+  <relation id="1429456" version="1" timestamp="2011-02-15T21:23:06Z" uid="107674" user="GeoCounter" changeset="7299206">
+    <member type="way" ref="99655660" role="to"/>
+    <member type="way" ref="22812959" role="from"/>
+    <member type="node" ref="2470960" role="via"/>
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+</osm>

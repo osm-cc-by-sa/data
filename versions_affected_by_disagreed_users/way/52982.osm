@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="52982527" version="2" timestamp="2010-04-02T03:05:01Z" uid="74617" user="JohnSmith" changeset="4299895">
+    <nd ref="671210947"/>
+    <nd ref="260342970"/>
+    <nd ref="260342971"/>
+    <nd ref="260342972"/>
+    <nd ref="260342973"/>
+    <nd ref="68348952"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="52982666" version="3" timestamp="2010-06-06T20:14:26Z" uid="9581" user="Lobelt" changeset="4922168">
+    <nd ref="152184649"/>
+    <nd ref="766013581"/>
+    <nd ref="766013618"/>
+    <nd ref="85841232"/>
+    <nd ref="85841233"/>
+    <nd ref="381117093"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="70"/>
+    <tag k="ref" v="L 1048"/>
+  </way>
+  <way id="52982666" version="4" timestamp="2011-04-12T19:48:11Z" uid="9581" user="Lobelt" changeset="7846108">
+    <nd ref="152184649"/>
+    <nd ref="766013581"/>
+    <nd ref="766013618"/>
+    <nd ref="85841232"/>
+    <nd ref="85841233"/>
+    <nd ref="381117093"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="signals"/>
+    <tag k="ref" v="L 1048"/>
+  </way>
+  <way id="52982670" version="3" timestamp="2011-01-11T17:04:30Z" uid="9581" user="Lobelt" changeset="6938895">
+    <nd ref="269487819"/>
+    <nd ref="85841218"/>
+    <nd ref="446285967"/>
+    <nd ref="85841219"/>
+    <nd ref="1098233717"/>
+    <nd ref="446285575"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="ref" v="L 1048"/>
+  </way>
+  <way id="52982670" version="5" timestamp="2011-04-12T19:48:06Z" uid="9581" user="Lobelt" changeset="7846108">
+    <nd ref="269487819"/>
+    <nd ref="85841218"/>
+    <nd ref="446285967"/>
+    <nd ref="85841219"/>
+    <nd ref="1242382670"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="ref" v="L 1048"/>
+  </way>
+  <way id="52982762" version="6" timestamp="2010-07-08T01:44:29Z" uid="74617" user="JohnSmith" changeset="5162525">
+    <nd ref="671213412"/>
+    <nd ref="671213413"/>
+    <nd ref="671213414"/>
+    <nd ref="671213415"/>
+    <nd ref="671213416"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Maralinga Place"/>
+  </way>
+  <way id="52982784" version="1" timestamp="2010-03-21T10:24:32Z" uid="59758" user="rendle" changeset="4188957">
+    <nd ref="520295437"/>
+    <nd ref="292687670"/>
+    <nd ref="344223381"/>
+    <nd ref="292687848"/>
+    <nd ref="292687850"/>
+    <nd ref="331574519"/>
+    <nd ref="331574728"/>
+    <nd ref="320940346"/>
+    <nd ref="292687852"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="ref" v="N442"/>
+  </way>
+  <way id="52982823" version="1" timestamp="2010-03-21T10:25:06Z" uid="59758" user="rendle" changeset="4188957">
+    <nd ref="292686800"/>
+    <nd ref="333752733"/>
+    <nd ref="292687579"/>
+    <nd ref="292686797"/>
+    <nd ref="292686796"/>
+    <nd ref="292687581"/>
+    <nd ref="364637909"/>
+    <nd ref="333752731"/>
+    <nd ref="292686794"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Veerstraat"/>
+    <tag k="ref" v="N442"/>
+  </way>
+  <way id="52982977" version="1" timestamp="2010-03-21T10:26:01Z" uid="74617" user="JohnSmith" changeset="4188982">
+    <nd ref="249907574"/>
+    <nd ref="249908567"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Wellington Street"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="52982978" version="1" timestamp="2010-03-21T10:26:01Z" uid="74617" user="JohnSmith" changeset="4188982">
+    <nd ref="249907685"/>
+    <nd ref="249908562"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Wellington Street"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="52982979" version="1" timestamp="2010-03-21T10:26:01Z" uid="74617" user="JohnSmith" changeset="4188982">
+    <nd ref="671214910"/>
+    <nd ref="671214911"/>
+    <nd ref="671214912"/>
+    <nd ref="671214913"/>
+    <nd ref="671214914"/>
+    <nd ref="671214915"/>
+    <tag k="highway" v="service"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+</osm>

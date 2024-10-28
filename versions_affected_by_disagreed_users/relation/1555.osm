@@ -1,0 +1,231 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1555029" version="1" timestamp="2011-04-23T08:06:31Z" uid="4467" user="Rosscoe" changeset="7941257">
+    <member type="way" ref="78592307" role="member"/>
+    <member type="way" ref="58672497" role="member"/>
+    <member type="way" ref="78592313" role="member"/>
+    <member type="way" ref="109832395" role="member"/>
+    <member type="way" ref="57529565" role="member"/>
+    <member type="way" ref="108849898" role="member"/>
+    <member type="way" ref="109832390" role="member"/>
+    <member type="way" ref="109832406" role="member"/>
+    <member type="way" ref="37856721" role="member"/>
+    <member type="way" ref="29449602" role="member"/>
+    <member type="way" ref="29449593" role="member"/>
+    <tag k="name" v="Great Eastern Highway"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1555177" version="1" timestamp="2011-04-23T11:21:29Z" uid="30632" user="antblant" changeset="7942693">
+    <member type="way" ref="23522870" role=""/>
+    <member type="way" ref="109859667" role=""/>
+    <member type="way" ref="109859678" role=""/>
+    <member type="way" ref="23523078" role=""/>
+    <member type="way" ref="23523116" role=""/>
+    <member type="way" ref="23460791" role=""/>
+    <member type="way" ref="23460749" role=""/>
+    <member type="way" ref="23460800" role=""/>
+    <member type="way" ref="23460755" role=""/>
+    <member type="way" ref="23460484" role=""/>
+    <member type="way" ref="23460549" role=""/>
+    <tag k="colour" v="red"/>
+    <tag k="name" v="Szlak Puszczy Wkrzańskiej im. Stefana &quot;Taty&quot; Kaczmarka"/>
+    <tag k="route" v="foot"/>
+    <tag k="type" v="route"/>
+    <tag k="wikipedia" v="pl:Szlak_Puszczy_Wkrzańskiej"/>
+  </relation>
+  <relation id="1555212" version="1" timestamp="2011-04-23T12:25:40Z" uid="30632" user="antblant" changeset="7943152">
+    <member type="way" ref="23459731" role=""/>
+    <member type="way" ref="23459849" role=""/>
+    <member type="way" ref="23459572" role=""/>
+    <member type="way" ref="23461297" role=""/>
+    <member type="way" ref="109862618" role=""/>
+    <tag k="colour" v="yellow"/>
+    <tag k="name" v="Szlak Gocławski"/>
+    <tag k="route" v="foot"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1555241" version="1" timestamp="2011-04-23T12:53:57Z" uid="7617" user="Franc" changeset="7943317">
+    <member type="way" ref="109815065" role="from"/>
+    <member type="way" ref="109815070" role="to"/>
+    <member type="node" ref="587611970" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1555242" version="1" timestamp="2011-04-23T12:53:57Z" uid="7617" user="Franc" changeset="7943317">
+    <member type="way" ref="5079507" role="from"/>
+    <member type="way" ref="109864715" role="to"/>
+    <member type="node" ref="1256657130" role="via"/>
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1555242" version="2" timestamp="2011-04-30T11:06:21Z" uid="7617" user="Franc" changeset="8010690">
+    <member type="way" ref="5079507" role="from"/>
+    <member type="way" ref="109864715" role="to"/>
+    <member type="node" ref="1256657130" role="via"/>
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1555243" version="1" timestamp="2011-04-23T12:53:57Z" uid="7617" user="Franc" changeset="7943317">
+    <member type="way" ref="96921940" role="from"/>
+    <member type="way" ref="96921941" role="to"/>
+    <member type="node" ref="59830628" role="via"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1555244" version="1" timestamp="2011-04-23T12:53:57Z" uid="7617" user="Franc" changeset="7943317">
+    <member type="way" ref="51074645" role="from"/>
+    <member type="way" ref="109864706" role="to"/>
+    <member type="way" ref="109864785" role="via"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1555245" version="1" timestamp="2011-04-23T12:53:58Z" uid="7617" user="Franc" changeset="7943317">
+    <member type="way" ref="93290058" role="from"/>
+    <member type="way" ref="93290056" role="to"/>
+    <member type="node" ref="1081517318" role="via"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1555246" version="1" timestamp="2011-04-23T12:53:58Z" uid="7617" user="Franc" changeset="7943317">
+    <member type="way" ref="93290056" role="from"/>
+    <member type="way" ref="109864759" role="to"/>
+    <member type="node" ref="1082964570" role="via"/>
+    <tag k="restriction" v="only_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1555247" version="1" timestamp="2011-04-23T12:53:58Z" uid="7617" user="Franc" changeset="7943317">
+    <member type="way" ref="109864720" role="from"/>
+    <member type="way" ref="109864738" role="to"/>
+    <member type="node" ref="1256657114" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1555248" version="1" timestamp="2011-04-23T12:53:58Z" uid="7617" user="Franc" changeset="7943317">
+    <member type="way" ref="3609818" role="from"/>
+    <member type="way" ref="109864726" role="to"/>
+    <member type="way" ref="109864785" role="via"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1555249" version="1" timestamp="2011-04-23T12:53:58Z" uid="7617" user="Franc" changeset="7943317">
+    <member type="way" ref="7981872" role="from"/>
+    <member type="way" ref="99685462" role="to"/>
+    <member type="node" ref="59744124" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1555250" version="1" timestamp="2011-04-23T12:53:58Z" uid="7617" user="Franc" changeset="7943317">
+    <member type="way" ref="109864706" role="from"/>
+    <member type="way" ref="51074645" role="to"/>
+    <member type="node" ref="651508753" role="via"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1555251" version="1" timestamp="2011-04-23T12:53:59Z" uid="7617" user="Franc" changeset="7943317">
+    <member type="way" ref="82578207" role="from"/>
+    <member type="way" ref="109387160" role="via"/>
+    <member type="way" ref="109387217" role="to"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1555251" version="2" timestamp="2011-06-12T22:06:23Z" uid="7617" user="Franc" changeset="8420502"/>
+  <relation id="1555252" version="1" timestamp="2011-04-23T12:53:59Z" uid="7617" user="Franc" changeset="7943317">
+    <member type="way" ref="96921941" role="from"/>
+    <member type="way" ref="96921940" role="to"/>
+    <member type="node" ref="59830623" role="via"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1555253" version="1" timestamp="2011-04-23T12:53:59Z" uid="7617" user="Franc" changeset="7943317">
+    <member type="way" ref="93405933" role="from"/>
+    <member type="way" ref="20651909" role="to"/>
+    <member type="node" ref="221697962" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1555254" version="1" timestamp="2011-04-23T12:53:59Z" uid="7617" user="Franc" changeset="7943317">
+    <member type="way" ref="3609819" role="from"/>
+    <member type="way" ref="109864778" role="to"/>
+    <member type="node" ref="17855407" role="via"/>
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1555255" version="1" timestamp="2011-04-23T12:53:59Z" uid="7617" user="Franc" changeset="7943317">
+    <member type="way" ref="93290059" role="from"/>
+    <member type="way" ref="3680968" role="to"/>
+    <member type="node" ref="1081517323" role="via"/>
+    <tag k="restriction" v="only_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1555256" version="1" timestamp="2011-04-23T12:54:00Z" uid="7617" user="Franc" changeset="7943317">
+    <member type="way" ref="109864738" role="from"/>
+    <member type="way" ref="109864767" role="to"/>
+    <member type="node" ref="1256657074" role="via"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1555257" version="1" timestamp="2011-04-23T12:54:00Z" uid="7617" user="Franc" changeset="7943317">
+    <member type="way" ref="109815070" role="from"/>
+    <member type="way" ref="109864729" role="to"/>
+    <member type="way" ref="20651909" role="via"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1555258" version="1" timestamp="2011-04-23T12:54:00Z" uid="7617" user="Franc" changeset="7943317">
+    <member type="way" ref="109864750" role="to"/>
+    <member type="node" ref="1256657754" role="via"/>
+    <member type="way" ref="109864778" role="from"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1555259" version="1" timestamp="2011-04-23T12:54:00Z" uid="7617" user="Franc" changeset="7943317">
+    <member type="way" ref="93405065" role="from"/>
+    <member type="way" ref="93290059" role="to"/>
+    <member type="node" ref="1081517317" role="via"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1555260" version="1" timestamp="2011-04-23T12:54:00Z" uid="7617" user="Franc" changeset="7943317">
+    <member type="way" ref="109864750" role="from"/>
+    <member type="way" ref="109864715" role="to"/>
+    <member type="node" ref="1256657130" role="via"/>
+    <tag k="restriction" v="only_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1555260" version="2" timestamp="2011-04-30T11:06:27Z" uid="7617" user="Franc" changeset="8010690">
+    <member type="way" ref="109864750" role="from"/>
+    <member type="way" ref="109864715" role="to"/>
+    <member type="node" ref="1256657130" role="via"/>
+    <tag k="restriction" v="only_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1555861" version="1" timestamp="2011-04-23T22:39:41Z" uid="7617" user="Franc" changeset="7948284">
+    <member type="way" ref="58251948" role="from"/>
+    <member type="way" ref="58251932" role="to"/>
+    <member type="node" ref="721964198" role="via"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1555862" version="1" timestamp="2011-04-23T22:39:41Z" uid="7617" user="Franc" changeset="7948284">
+    <member type="way" ref="3609894" role="from"/>
+    <member type="way" ref="109936628" role="to"/>
+    <member type="way" ref="58252007" role="via"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1555863" version="1" timestamp="2011-04-23T22:39:41Z" uid="7617" user="Franc" changeset="7948284">
+    <member type="way" ref="109936628" role="from"/>
+    <member type="way" ref="3609894" role="to"/>
+    <member type="way" ref="109936615" role="via"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1555864" version="1" timestamp="2011-04-23T22:39:42Z" uid="7617" user="Franc" changeset="7948284">
+    <member type="way" ref="58340948" role="from"/>
+    <member type="way" ref="109936623" role="to"/>
+    <member type="node" ref="249375546" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+</osm>

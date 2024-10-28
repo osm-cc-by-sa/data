@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="46270132" version="2" timestamp="2010-07-09T02:42:16Z" uid="74617" user="JohnSmith" changeset="5170713">
+    <nd ref="243079973"/>
+    <nd ref="26964986"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Herriotts Boulevard"/>
+  </way>
+  <way id="46270134" version="2" timestamp="2010-07-09T02:48:43Z" uid="74617" user="JohnSmith" changeset="5170713">
+    <nd ref="590790694"/>
+    <nd ref="243079974"/>
+    <nd ref="590790706"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Herriotts Boulevard"/>
+  </way>
+  <way id="46270331" version="3" timestamp="2011-06-05T15:50:35Z" uid="9581" user="Lobelt" changeset="8350656">
+    <nd ref="266872289"/>
+    <nd ref="353656687"/>
+    <nd ref="353656688"/>
+    <nd ref="353656690"/>
+    <nd ref="353656691"/>
+    <nd ref="353656692"/>
+    <nd ref="353656694"/>
+    <nd ref="353656695"/>
+    <nd ref="1313198648"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="left:city" v="Hochstett"/>
+    <tag k="right:city" v="Batzendorf"/>
+    <tag k="source" v="Direction Générale des Impôts - Cadastre ; mise à jour : 2008"/>
+  </way>
+  <way id="46270745" version="2" timestamp="2010-04-05T08:41:04Z" uid="74617" user="JohnSmith" changeset="4330247">
+    <nd ref="590829265"/>
+    <nd ref="275182963"/>
+    <nd ref="275182964"/>
+    <nd ref="268554908"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="name" v="EastLink"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="toll" v="yes"/>
+  </way>
+  <way id="46270746" version="2" timestamp="2010-04-05T08:41:04Z" uid="74617" user="JohnSmith" changeset="4330247">
+    <nd ref="590829240"/>
+    <nd ref="590829265"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="name" v="EastLink"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="toll" v="yes"/>
+  </way>
+  <way id="46270746" version="3" timestamp="2010-07-25T22:27:58Z" uid="4467" user="Rosscoe" changeset="5317245">
+    <nd ref="590829240"/>
+    <nd ref="590829265"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="name" v="EastLink"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="toll" v="yes"/>
+  </way>
+  <way id="46270747" version="2" timestamp="2010-04-05T08:41:01Z" uid="74617" user="JohnSmith" changeset="4330247">
+    <nd ref="275183036"/>
+    <nd ref="275183037"/>
+    <nd ref="275183147"/>
+    <nd ref="445180540"/>
+    <nd ref="275183252"/>
+    <nd ref="314748015"/>
+    <nd ref="275183541"/>
+    <nd ref="313080980"/>
+    <nd ref="268552985"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="name" v="EastLink"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="toll" v="yes"/>
+  </way>
+  <way id="46270748" version="2" timestamp="2010-04-05T08:41:04Z" uid="74617" user="JohnSmith" changeset="4330247">
+    <nd ref="590829281"/>
+    <nd ref="275183036"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="name" v="EastLink"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="toll" v="yes"/>
+  </way>
+  <way id="46270748" version="3" timestamp="2010-07-25T22:28:00Z" uid="4467" user="Rosscoe" changeset="5317245">
+    <nd ref="590829281"/>
+    <nd ref="275183036"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="name" v="EastLink"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="toll" v="yes"/>
+  </way>
+</osm>

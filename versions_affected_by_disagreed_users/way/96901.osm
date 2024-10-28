@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="96901001" version="2" timestamp="2011-02-05T03:34:48Z" uid="30201" user="rrankin" changeset="7189221"/>
+  <way id="96901121" version="1" timestamp="2011-01-27T02:00:39Z" uid="4467" user="Rosscoe" changeset="7099822">
+    <nd ref="210574643"/>
+    <nd ref="1122888912"/>
+    <nd ref="210575042"/>
+    <nd ref="210575058"/>
+    <nd ref="210575083"/>
+    <nd ref="210575107"/>
+    <nd ref="210574533"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="Madden Grove"/>
+  </way>
+  <way id="96901122" version="1" timestamp="2011-01-27T02:00:39Z" uid="4467" user="Rosscoe" changeset="7099822">
+    <nd ref="210574643"/>
+    <nd ref="210574646"/>
+    <nd ref="1122888911"/>
+    <nd ref="210574666"/>
+    <nd ref="210574684"/>
+    <nd ref="210574709"/>
+    <nd ref="27123158"/>
+    <nd ref="210574734"/>
+    <nd ref="210574759"/>
+    <nd ref="210574777"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="Madden Grove"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="96901123" version="1" timestamp="2011-01-27T02:00:40Z" uid="4467" user="Rosscoe" changeset="7099822">
+    <nd ref="210574533"/>
+    <nd ref="210575144"/>
+    <nd ref="210574429"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="Madden Grove"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="96901197" version="1" timestamp="2011-01-27T02:04:50Z" uid="4467" user="Rosscoe" changeset="7099841">
+    <nd ref="154177250"/>
+    <nd ref="660861695"/>
+    <nd ref="154126346"/>
+    <nd ref="154116164"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Bassett Street East"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="96901200" version="1" timestamp="2011-01-27T02:06:03Z" uid="4467" user="Rosscoe" changeset="7099846">
+    <nd ref="154188314"/>
+    <nd ref="660861695"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+</osm>

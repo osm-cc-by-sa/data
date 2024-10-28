@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="14521674" version="3" timestamp="2008-09-16T03:20:16Z" uid="30201" user="rrankin" changeset="645511">
+    <nd ref="142814900"/>
+    <nd ref="142814902"/>
+    <nd ref="60794258"/>
+    <nd ref="142815815"/>
+    <nd ref="60794051"/>
+    <nd ref="60794262"/>
+    <nd ref="142814903"/>
+    <tag k="created_by" v="Potlatch 0.5d"/>
+    <tag k="highway" v="residential"/>
+    <tag k="note" v="This used to be Old Windsor Road"/>
+  </way>
+  <way id="14521674" version="4" timestamp="2009-08-02T08:08:54Z" uid="30201" user="rrankin" changeset="2010873">
+    <nd ref="142814900"/>
+    <nd ref="142814902"/>
+    <nd ref="60794258"/>
+    <nd ref="142815815"/>
+    <nd ref="60794051"/>
+    <nd ref="60794262"/>
+    <nd ref="142814903"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Fulton Avenue"/>
+    <tag k="note" v="This used to be Old Windsor Road"/>
+  </way>
+  <way id="14521674" version="6" timestamp="2010-07-08T01:33:22Z" uid="74617" user="JohnSmith" changeset="5162525">
+    <nd ref="142814900"/>
+    <nd ref="142814902"/>
+    <nd ref="60794258"/>
+    <nd ref="142815815"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Fulton Avenue"/>
+    <tag k="note" v="This used to be Old Windsor Road"/>
+  </way>
+  <way id="14521763" version="3" timestamp="2010-07-08T01:35:04Z" uid="74617" user="JohnSmith" changeset="5162525">
+    <nd ref="142815815"/>
+    <nd ref="142816032"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lcn" v="yes"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Clarence Street"/>
+  </way>
+  <way id="14521809" version="4" timestamp="2010-07-08T01:37:17Z" uid="74617" user="JohnSmith" changeset="5162525">
+    <nd ref="142816032"/>
+    <nd ref="142816571"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lcn" v="yes"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Mayfield Street"/>
+  </way>
+  <way id="14521818" version="2" timestamp="2009-08-02T08:08:55Z" uid="30201" user="rrankin" changeset="2010873">
+    <nd ref="142816571"/>
+    <nd ref="454120828"/>
+    <nd ref="142816712"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Thopkins Street"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="14521818" version="4" timestamp="2010-02-15T08:31:13Z" uid="7617" user="Franc" changeset="3881019">
+    <nd ref="142816571"/>
+    <nd ref="639543398"/>
+    <nd ref="454120828"/>
+    <nd ref="142816712"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lcn" v="yes"/>
+    <tag k="name" v="Thopkins Street"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="14521818" version="5" timestamp="2010-07-08T01:37:45Z" uid="74617" user="JohnSmith" changeset="5162525">
+    <nd ref="142816571"/>
+    <nd ref="639543398"/>
+    <nd ref="454120828"/>
+    <nd ref="142816712"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lcn" v="yes"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Thopkins Street"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="14521901" version="2" timestamp="2009-08-02T09:37:25Z" uid="30201" user="rrankin" changeset="2011823">
+    <nd ref="142817797"/>
+    <nd ref="454164638"/>
+    <nd ref="142817799"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Mons Road"/>
+  </way>
+  <way id="14521901" version="4" timestamp="2010-01-09T07:08:32Z" uid="30201" user="rrankin" changeset="3575666">
+    <nd ref="600028265"/>
+    <nd ref="600028264"/>
+    <nd ref="610196314"/>
+    <tag k="access" v="no"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="40"/>
+    <tag k="psv" v="yes"/>
+  </way>
+</osm>

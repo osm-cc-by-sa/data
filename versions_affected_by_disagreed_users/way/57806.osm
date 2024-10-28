@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="57806728" version="1" timestamp="2010-05-02T13:14:47Z" uid="74617" user="JohnSmith" changeset="4584527">
+    <nd ref="360588367"/>
+    <nd ref="364653256"/>
+    <nd ref="360636325"/>
+    <nd ref="360636326"/>
+    <nd ref="360636327"/>
+    <nd ref="314190062"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="name" v="High Street"/>
+    <tag k="old_name" v="Western Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="C801"/>
+  </way>
+  <way id="57806728" version="2" timestamp="2010-05-15T02:32:34Z" uid="4467" user="Rosscoe" changeset="4702073">
+    <nd ref="364653237"/>
+    <nd ref="734823427"/>
+    <nd ref="734823461"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="High Street"/>
+    <tag k="old_name" v="Western Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="C801"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="57806728" version="3" timestamp="2010-05-15T13:37:37Z" uid="4467" user="Rosscoe" changeset="4706260">
+    <nd ref="364653237"/>
+    <nd ref="735070821"/>
+    <nd ref="735070590"/>
+    <nd ref="734823427"/>
+    <nd ref="734823461"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="High Street"/>
+    <tag k="old_name" v="Western Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="C801"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+</osm>

@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1223490" version="1" timestamp="2010-10-13T08:48:06Z" uid="115477" user="wowik" changeset="6027249">
+    <member type="way" ref="8652874" role="from"/>
+    <member type="way" ref="81238931" role="to"/>
+    <member type="node" ref="61676444" role="via"/>
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1223491" version="1" timestamp="2010-10-13T08:48:07Z" uid="115477" user="wowik" changeset="6027249">
+    <member type="way" ref="81238931" role="from"/>
+    <member type="way" ref="53209227" role="to"/>
+    <member type="node" ref="366813092" role="via"/>
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1223492" version="1" timestamp="2010-10-13T08:58:20Z" uid="115477" user="wowik" changeset="6027299">
+    <member type="way" ref="53209227" role="from"/>
+    <member type="node" ref="366813092" role="via"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1223508" version="1" timestamp="2010-10-13T09:32:20Z" uid="96874" user="Quedel" changeset="6027517">
+    <member type="way" ref="27111917" role="from"/>
+    <member type="way" ref="32074367" role="to"/>
+    <member type="node" ref="299573634" role="via"/>
+    <tag k="restriction" v="only_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1223508" version="2" timestamp="2010-10-14T19:52:21Z" uid="96874" user="Quedel" changeset="6040209">
+    <member type="way" ref="27111917" role="from"/>
+    <member type="node" ref="299573634" role="via"/>
+    <member type="way" ref="81411801" role="to"/>
+    <tag k="restriction" v="only_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1223688" version="1" timestamp="2010-10-13T13:14:40Z" uid="96874" user="Quedel" changeset="6029120">
+    <member type="way" ref="27364935" role="from"/>
+    <member type="way" ref="81250184" role="to"/>
+    <member type="node" ref="251203112" role="via"/>
+    <tag k="restriction" v="only_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1223689" version="1" timestamp="2010-10-13T13:14:40Z" uid="96874" user="Quedel" changeset="6029120">
+    <member type="way" ref="81250183" role="from"/>
+    <member type="way" ref="27366013" role="to"/>
+    <member type="node" ref="298863148" role="via"/>
+    <tag k="restriction" v="only_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1223689" version="2" timestamp="2010-10-15T18:48:44Z" uid="96874" user="Quedel" changeset="6051410">
+    <member type="way" ref="81250183" role="from"/>
+    <member type="node" ref="298863148" role="via"/>
+    <member type="way" ref="81548055" role="to"/>
+    <tag k="restriction" v="only_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1223690" version="1" timestamp="2010-10-13T13:14:41Z" uid="96874" user="Quedel" changeset="6029120">
+    <member type="way" ref="80618440" role="from"/>
+    <member type="way" ref="27368776" role="to"/>
+    <member type="node" ref="266823314" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1223690" version="2" timestamp="2010-10-13T16:30:14Z" uid="96874" user="Quedel" changeset="6030469">
+    <member type="way" ref="27368776" role="to"/>
+    <member type="node" ref="266823314" role="via"/>
+    <member type="way" ref="81268021" role="from"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1223691" version="1" timestamp="2010-10-13T13:14:41Z" uid="96874" user="Quedel" changeset="6029120">
+    <member type="way" ref="5023141" role="from"/>
+    <member type="way" ref="28821222" role="to"/>
+    <member type="node" ref="33506144" role="via"/>
+    <tag k="except" v="bicycle"/>
+    <tag k="restriction" v="only_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1223912" version="1" timestamp="2010-10-13T16:30:03Z" uid="96874" user="Quedel" changeset="6030469">
+    <member type="way" ref="27231563" role="from"/>
+    <member type="way" ref="81268027" role="to"/>
+    <member type="node" ref="298863118" role="via"/>
+    <tag k="restriction" v="only_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1223912" version="2" timestamp="2010-10-15T18:48:49Z" uid="96874" user="Quedel" changeset="6051410">
+    <member type="way" ref="27231563" role="from"/>
+    <member type="way" ref="81268027" role="to"/>
+    <member type="node" ref="298863118" role="via"/>
+    <tag k="restriction" v="only_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1223913" version="1" timestamp="2010-10-13T16:30:03Z" uid="96874" user="Quedel" changeset="6030469">
+    <member type="way" ref="72442589" role="from"/>
+    <member type="way" ref="27231596" role="to"/>
+    <member type="node" ref="298863530" role="via"/>
+    <tag k="restriction" v="only_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1223913" version="2" timestamp="2010-10-15T18:48:53Z" uid="96874" user="Quedel" changeset="6051410">
+    <member type="way" ref="27231596" role="to"/>
+    <member type="node" ref="298863530" role="via"/>
+    <member type="way" ref="81548075" role="from"/>
+    <tag k="restriction" v="only_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1223914" version="1" timestamp="2010-10-13T16:30:04Z" uid="96874" user="Quedel" changeset="6030469">
+    <member type="way" ref="28821222" role="from"/>
+    <member type="way" ref="5023141" role="to"/>
+    <member type="node" ref="33506144" role="via"/>
+    <tag k="restriction" v="only_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1223915" version="1" timestamp="2010-10-13T16:30:04Z" uid="96874" user="Quedel" changeset="6030469">
+    <member type="way" ref="81268020" role="from"/>
+    <member type="way" ref="26477029" role="to"/>
+    <member type="node" ref="946801770" role="via"/>
+    <tag k="restriction" v="only_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1223916" version="1" timestamp="2010-10-13T16:30:04Z" uid="96874" user="Quedel" changeset="6030469">
+    <member type="way" ref="27364937" role="from"/>
+    <member type="way" ref="35605675" role="to"/>
+    <member type="node" ref="297471690" role="via"/>
+    <tag k="except" v="bicycle"/>
+    <tag k="restriction" v="no_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1223917" version="1" timestamp="2010-10-13T16:30:04Z" uid="96874" user="Quedel" changeset="6030469">
+    <member type="way" ref="81268011" role="from"/>
+    <member type="way" ref="80618440" role="to"/>
+    <member type="node" ref="266823296" role="via"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1223917" version="2" timestamp="2010-10-15T18:48:38Z" uid="96874" user="Quedel" changeset="6051410">
+    <member type="way" ref="81268011" role="from"/>
+    <member type="node" ref="266823296" role="via"/>
+    <member type="way" ref="81548073" role="to"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1223918" version="1" timestamp="2010-10-13T16:30:05Z" uid="96874" user="Quedel" changeset="6030469">
+    <member type="way" ref="80476539" role="from"/>
+    <member type="way" ref="35605675" role="to"/>
+    <member type="node" ref="297471690" role="via"/>
+    <tag k="except" v="bicycle"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+</osm>

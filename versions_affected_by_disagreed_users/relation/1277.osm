@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1277586" version="2" timestamp="2010-12-27T19:49:17Z" uid="30632" user="antblant" changeset="6781442">
+    <member type="way" ref="58516846" role="outer"/>
+    <tag k="landuse" v="forest"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 10:59:05 05/06/10 (UMP-Szczecin\src\inne.zielone.txt)"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1277630" version="1" timestamp="2010-11-19T00:43:56Z" uid="20587" user="balrog-kun" changeset="6404193">
+    <member type="way" ref="85686002" role="from"/>
+    <member type="way" ref="85686031" role="to"/>
+    <member type="node" ref="32551927" role="via"/>
+    <tag k="name" v="Zakaz zawracania"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="1277631" version="1" timestamp="2010-11-19T00:43:58Z" uid="20587" user="balrog-kun" changeset="6404193">
+    <member type="way" ref="85686069" role="inner"/>
+    <member type="way" ref="85686047" role="inner"/>
+    <member type="way" ref="85686037" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1277827" version="3" timestamp="2011-01-18T12:23:55Z" uid="115477" user="wowik" changeset="7009789"/>
+</osm>

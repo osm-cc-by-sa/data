@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <relation id="1267338" version="33" timestamp="2011-02-28T12:36:23Z" uid="30632" user="antblant" changeset="7420159">
+    <member type="way" ref="27476532" role="forward"/>
+    <member type="way" ref="27477546" role="forward"/>
+    <member type="way" ref="27477317" role="forward"/>
+    <member type="way" ref="84736715" role="forward"/>
+    <member type="way" ref="84736742" role="forward"/>
+    <member type="way" ref="27476560" role="forward"/>
+    <member type="way" ref="8078875" role="forward"/>
+    <member type="way" ref="84736748" role=""/>
+    <member type="way" ref="84736750" role="forward"/>
+    <member type="way" ref="84736754" role="forward"/>
+    <member type="way" ref="84736761" role="forward"/>
+    <member type="way" ref="4941079" role="forward"/>
+    <member type="way" ref="4941052" role="forward"/>
+    <member type="way" ref="27399110" role="forward"/>
+    <member type="way" ref="27399102" role="forward"/>
+    <member type="way" ref="28344709" role="forward"/>
+    <member type="way" ref="28684499" role="forward"/>
+    <member type="way" ref="27398828" role="forward"/>
+    <member type="way" ref="27398737" role="forward"/>
+    <member type="way" ref="84736883" role="forward"/>
+    <member type="way" ref="27398808" role="forward"/>
+    <member type="way" ref="28684502" role="forward"/>
+    <member type="way" ref="28344705" role="forward"/>
+    <member type="way" ref="27398816" role="forward"/>
+    <member type="way" ref="27399150" role="forward"/>
+    <member type="way" ref="66696428" role="forward"/>
+    <member type="way" ref="25637709" role="forward"/>
+    <member type="way" ref="27477300" role="forward"/>
+    <member type="way" ref="37230060" role="backward"/>
+    <member type="way" ref="17713211" role="backward"/>
+    <member type="way" ref="84736749" role="backward"/>
+    <tag k="network" v="ZKM Gdynia"/>
+    <tag k="ref" v="07"/>
+    <tag k="route" v="bus"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1267364" version="1" timestamp="2010-11-10T12:02:40Z" uid="33382" user="de_muur" changeset="6335374">
+    <member type="node" ref="984176450" role=""/>
+    <member type="way" ref="26460960" role=""/>
+    <member type="way" ref="26460957" role=""/>
+    <member type="node" ref="984193189" role=""/>
+    <tag k="name" v="Krüzen - Schnakenbek"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1267365" version="1" timestamp="2010-11-10T12:02:40Z" uid="33382" user="de_muur" changeset="6335374">
+    <member type="node" ref="984155232" role=""/>
+    <member type="way" ref="84736647" role=""/>
+    <member type="node" ref="984193189" role=""/>
+    <tag k="name" v="Schnakenbek - Schwarzenbek"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1267365" version="2" timestamp="2010-11-10T13:59:16Z" uid="33382" user="de_muur" changeset="6336148">
+    <member type="node" ref="984155232" role=""/>
+    <member type="way" ref="84736647" role=""/>
+    <member type="node" ref="984193189" role=""/>
+    <member type="way" ref="35503193" role=""/>
+    <member type="way" ref="33072163" role=""/>
+    <member type="node" ref="984303876" role=""/>
+    <tag k="name" v="Schnakenbek - Schwarzenbek"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1267415" version="1" timestamp="2010-11-10T14:07:43Z" uid="33382" user="de_muur" changeset="6336205">
+    <member type="node" ref="984303876" role=""/>
+    <member type="way" ref="33071927" role=""/>
+    <member type="way" ref="84751174" role=""/>
+    <member type="way" ref="33072376" role=""/>
+    <member type="way" ref="84751401" role=""/>
+    <member type="way" ref="53038839" role=""/>
+    <member type="node" ref="984315409" role=""/>
+    <tag k="name" v="Geesthacht - Schwarzenbek"/>
+    <tag k="network" v="lcn"/>
+    <tag k="operator" v="Kreis Herzogtum Lauenburg"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+</osm>

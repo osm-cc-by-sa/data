@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="46617028" version="2" timestamp="2010-07-09T04:12:29Z" uid="74617" user="JohnSmith" changeset="5170825">
+    <nd ref="459523762"/>
+    <nd ref="459523768"/>
+    <nd ref="459523766"/>
+    <nd ref="312165013"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Wilkinson Street"/>
+  </way>
+  <way id="46617036" version="2" timestamp="2010-07-09T04:07:43Z" uid="74617" user="JohnSmith" changeset="5170825">
+    <nd ref="355289975"/>
+    <nd ref="561142684"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Kolonga Court"/>
+  </way>
+  <way id="46617314" version="3" timestamp="2010-06-29T19:12:21Z" uid="74617" user="JohnSmith" changeset="5108182">
+    <nd ref="595732341"/>
+    <nd ref="595732342"/>
+    <nd ref="595732343"/>
+    <nd ref="595732344"/>
+    <nd ref="595732341"/>
+    <tag k="fixme" v="sport=football is ambiguous, see http://wiki.osm.org/wiki/Football for more details"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="football"/>
+  </way>
+  <way id="46617411" version="2" timestamp="2010-05-13T16:00:55Z" uid="33382" user="de_muur" changeset="4687685">
+    <nd ref="244133305"/>
+    <nd ref="95966170"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Horster Landstraße"/>
+    <tag k="ref" v="K 10"/>
+    <tag k="surface" v="paved"/>
+  </way>
+</osm>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="42029185" version="1" timestamp="2009-10-05T13:14:00Z" uid="58091" user="Andreas M" changeset="2749839">
+    <nd ref="320875628"/>
+    <nd ref="521574605"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="42029186" version="1" timestamp="2009-10-05T13:14:00Z" uid="58091" user="Andreas M" changeset="2749839">
+    <nd ref="521574605"/>
+    <nd ref="521574609"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="cycleway"/>
+    <tag k="layer" v="1"/>
+  </way>
+  <way id="42029333" version="1" timestamp="2009-10-05T13:18:27Z" uid="43863" user="Rundling" changeset="2749897">
+    <nd ref="521575844"/>
+    <nd ref="521575846"/>
+    <nd ref="521575847"/>
+    <nd ref="521575845"/>
+    <nd ref="521575844"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="name" v="Tennisplatz"/>
+    <tag k="sport" v="tennis"/>
+  </way>
+  <way id="42029333" version="2" timestamp="2009-10-05T13:31:55Z" uid="43863" user="Rundling" changeset="2750024">
+    <nd ref="521575844"/>
+    <nd ref="521591157"/>
+    <nd ref="521591159"/>
+    <nd ref="521591153"/>
+    <nd ref="521575844"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="name" v="Tennisplatz"/>
+    <tag k="sport" v="tennis"/>
+  </way>
+  <way id="42029502" version="2" timestamp="2010-12-12T08:14:58Z" uid="33382" user="de_muur" changeset="6632992">
+    <nd ref="401424266"/>
+    <nd ref="521578253"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Auf dem Born"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="42029999" version="1" timestamp="2009-10-05T13:33:13Z" uid="43967" user="railsnail" changeset="2750032">
+    <nd ref="521593126"/>
+    <nd ref="521593124"/>
+    <tag k="waterway" v="stream"/>
+  </way>
+</osm>

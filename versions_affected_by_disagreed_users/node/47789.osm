@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <node id="477893961" version="4" timestamp="2010-04-11T04:48:30Z" uid="20587" user="balrog-kun" changeset="4389130" lat="49.6550372" lon="19.5566656">
+    <tag k="is_in:country" v="Poland"/>
+    <tag k="is_in:county" v="powiat suski"/>
+    <tag k="is_in:municipality" v="Gmina Zawoja"/>
+    <tag k="is_in:province" v="województwo małopolskie"/>
+    <tag k="name" v="Zawoja"/>
+    <tag k="place" v="town"/>
+  </node>
+  <node id="477893961" version="5" timestamp="2010-04-27T04:10:45Z" uid="30632" user="antblant" changeset="4537882" lat="49.6550372" lon="19.5566656">
+    <tag k="is_in:country" v="Poland"/>
+    <tag k="is_in:county" v="powiat suski"/>
+    <tag k="is_in:municipality" v="Gmina Zawoja"/>
+    <tag k="is_in:province" v="województwo małopolskie"/>
+    <tag k="name" v="Zawoja"/>
+    <tag k="place" v="town"/>
+    <tag k="teryt:simc" v="0077356"/>
+  </node>
+  <node id="477893968" version="3" timestamp="2010-04-11T04:48:30Z" uid="20587" user="balrog-kun" changeset="4389130" lat="49.6168661" lon="19.5073018">
+    <tag k="is_in" v="Zawoja"/>
+    <tag k="name" v="Czatoża"/>
+    <tag k="place" v="hamlet"/>
+    <tag k="source" v="http://warper.geothings.net/maps/1133"/>
+  </node>
+  <node id="477893984" version="3" timestamp="2010-04-27T04:11:06Z" uid="30632" user="antblant" changeset="4537882" lat="49.6099659" lon="19.511649">
+    <tag k="is_in" v="Zawoja"/>
+    <tag k="name" v="Markowa"/>
+    <tag k="place" v="hamlet"/>
+    <tag k="source" v="http://warper.geothings.net/maps/1133"/>
+    <tag k="teryt:simc" v="0655391"/>
+  </node>
+  <node id="477899153" version="2" timestamp="2010-07-28T20:03:32Z" uid="74617" user="JohnSmith" changeset="5339329" lat="45.8518188" lon="8.628412">
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="477899153" version="3" timestamp="2010-07-30T17:38:53Z" uid="74617" user="JohnSmith" changeset="5356742" lat="45.8518188" lon="8.628412">
+    <tag k="amenity" v="fire_hydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+</osm>
