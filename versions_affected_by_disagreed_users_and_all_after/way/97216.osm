@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="97216842" version="2" timestamp="2011-01-30T18:54:30Z" uid="6269" user="Mueck" changeset="7138022">
+    <nd ref="1125932794"/>
+    <nd ref="15108272"/>
+    <tag k="cycleway" v="track"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Zeppelinstraße"/>
+    <tag k="note" v="im SHP des NVK: II"/>
+  </way>
+  <way id="97216844" version="2" timestamp="2011-01-30T18:40:46Z" uid="6269" user="Mueck" changeset="7137804">
+    <nd ref="1125932745"/>
+    <nd ref="1125932750"/>
+    <nd ref="1125496376"/>
+    <nd ref="1125932776"/>
+    <nd ref="1126105812"/>
+    <nd ref="1128330684"/>
+    <nd ref="32540906"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="Kriegsstraße"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="97216844" version="3" timestamp="2011-06-03T05:05:53Z" uid="163673" user="Free_Jan" changeset="8325961">
+    <nd ref="1125932745"/>
+    <nd ref="1125932750"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="Kriegsstraße"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="97216844" version="4" timestamp="2012-02-03T23:24:21Z" uid="165061" user="keinname" changeset="10580210">
+    <nd ref="1125932745"/>
+    <nd ref="1125932750"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="1"/>
+    <tag k="name" v="Kriegsstraße"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+</osm>

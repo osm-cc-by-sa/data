@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="82585500" version="1" timestamp="2010-10-23T04:21:33Z" uid="7617" user="Franc" changeset="6142011">
+    <nd ref="961118188"/>
+    <nd ref="601195803"/>
+    <nd ref="29414587"/>
+    <nd ref="29414586"/>
+    <nd ref="29414585"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Avenal Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="restriction" v="school_zone"/>
+  </way>
+  <way id="82585501" version="1" timestamp="2010-10-23T04:21:33Z" uid="7617" user="Franc" changeset="6142011">
+    <nd ref="961118189"/>
+    <nd ref="29414656"/>
+    <nd ref="29414587"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Marinea Street"/>
+    <tag k="restriction" v="school_zone"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="82585501" version="2" timestamp="2010-10-30T11:38:04Z" uid="7617" user="Franc" changeset="6225905">
+    <nd ref="961118189"/>
+    <nd ref="29414656"/>
+    <nd ref="29414587"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Marinea Street"/>
+    <tag k="restriction" v="school_zone"/>
+    <tag k="source" v="survey"/>
+  </way>
+</osm>

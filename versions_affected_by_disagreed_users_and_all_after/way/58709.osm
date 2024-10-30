@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="58709824" version="2" timestamp="2010-05-20T14:28:10Z" uid="4467" user="Rosscoe" changeset="4758033">
+    <nd ref="33451611"/>
+    <nd ref="727514995"/>
+    <nd ref="741039947"/>
+    <nd ref="727514990"/>
+    <nd ref="727514982"/>
+    <nd ref="727514979"/>
+    <nd ref="727514974"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="58709827" version="1" timestamp="2010-05-09T14:58:04Z" uid="4467" user="Rosscoe" changeset="4649561">
+    <nd ref="32316988"/>
+    <nd ref="727513583"/>
+    <nd ref="14985986"/>
+    <nd ref="80999213"/>
+    <nd ref="14985979"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Fairbairn Avenue"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="58709827" version="2" timestamp="2010-08-23T04:36:51Z" uid="12434" user="nm7s9" changeset="5567608"/>
+  <way id="58709932" version="1" timestamp="2010-05-09T14:59:38Z" uid="4467" user="Rosscoe" changeset="4649581">
+    <nd ref="727519208"/>
+    <nd ref="244455303"/>
+    <nd ref="244455304"/>
+    <nd ref="244455305"/>
+    <nd ref="244455306"/>
+    <nd ref="244455307"/>
+    <nd ref="244455161"/>
+    <nd ref="234181143"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Thomas Mitchel Drive"/>
+  </way>
+  <way id="58709932" version="2" timestamp="2010-07-09T03:39:57Z" uid="74617" user="JohnSmith" changeset="5170838">
+    <nd ref="727519208"/>
+    <nd ref="244455303"/>
+    <nd ref="244455304"/>
+    <nd ref="244455305"/>
+    <nd ref="244455306"/>
+    <nd ref="244455307"/>
+    <nd ref="244455161"/>
+    <nd ref="234181143"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Thomas Mitchel Drive"/>
+  </way>
+  <way id="58709933" version="1" timestamp="2010-05-09T14:59:38Z" uid="4467" user="Rosscoe" changeset="4649581">
+    <nd ref="727519208"/>
+    <nd ref="727519220"/>
+    <nd ref="727519221"/>
+    <nd ref="727519213"/>
+    <nd ref="727519211"/>
+    <nd ref="727519222"/>
+    <nd ref="727519216"/>
+    <nd ref="727519223"/>
+    <nd ref="727519218"/>
+    <nd ref="727519208"/>
+    <tag k="highway" v="residential"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="58709933" version="2" timestamp="2010-07-09T03:36:44Z" uid="74617" user="JohnSmith" changeset="5170838">
+    <nd ref="727519208"/>
+    <nd ref="727519220"/>
+    <nd ref="727519221"/>
+    <nd ref="727519213"/>
+    <nd ref="727519211"/>
+    <nd ref="727519222"/>
+    <nd ref="727519216"/>
+    <nd ref="727519223"/>
+    <nd ref="727519218"/>
+    <nd ref="727519208"/>
+    <tag k="highway" v="residential"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+</osm>

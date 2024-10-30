@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="110203849" version="1" timestamp="2011-04-25T09:46:15Z" uid="4467" user="Rosscoe" changeset="7961234">
+    <nd ref="1259285646"/>
+    <nd ref="1259285591"/>
+    <nd ref="1259285668"/>
+    <nd ref="1259285624"/>
+    <nd ref="1259285638"/>
+    <nd ref="1259285604"/>
+    <nd ref="1259285622"/>
+    <nd ref="1259285656"/>
+    <nd ref="1259285646"/>
+    <tag k="highway" v="residential"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="110203851" version="1" timestamp="2011-04-25T09:46:15Z" uid="4467" user="Rosscoe" changeset="7961234">
+    <nd ref="231838201"/>
+    <nd ref="1259285680"/>
+    <nd ref="1259285667"/>
+    <nd ref="1259285654"/>
+    <nd ref="1259285590"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Illawarra Street"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="110203853" version="1" timestamp="2011-04-25T09:46:15Z" uid="4467" user="Rosscoe" changeset="7961234">
+    <nd ref="1259285622"/>
+    <nd ref="231958120"/>
+    <nd ref="231958122"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Chessom Street"/>
+  </way>
+  <way id="110203855" version="1" timestamp="2011-04-25T09:46:16Z" uid="4467" user="Rosscoe" changeset="7961234">
+    <nd ref="268564547"/>
+    <nd ref="325705918"/>
+    <nd ref="325711666"/>
+    <nd ref="268565352"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Camelia Avenue"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="110203855" version="2" timestamp="2011-08-15T07:01:59Z" uid="22094" user="Chadzopkyo" changeset="9023799">
+    <nd ref="268564547"/>
+    <nd ref="1399508767"/>
+    <nd ref="325705918"/>
+    <nd ref="1399508761"/>
+    <nd ref="1399508756"/>
+    <nd ref="1259285619"/>
+    <nd ref="1399508752"/>
+    <tag k="highway" v="primary_link"/>
+    <tag k="lanes" v="1"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+</osm>

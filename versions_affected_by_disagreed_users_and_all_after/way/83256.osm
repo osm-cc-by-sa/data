@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="83256906" version="2" timestamp="2011-01-22T16:41:45Z" uid="4467" user="Rosscoe" changeset="7052148">
+    <nd ref="968689987"/>
+    <nd ref="1115659664"/>
+    <nd ref="968690003"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed:restriction" v="40"/>
+    <tag k="restriction" v="school_zone"/>
+    <tag k="restriction_hours" v="Mo-Fr 08:00-09:30; 14:30-16:00; SH off; PH off"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="83256930" version="2" timestamp="2011-01-22T16:41:15Z" uid="4467" user="Rosscoe" changeset="7052148">
+    <nd ref="602429446"/>
+    <nd ref="602429441"/>
+    <nd ref="968690077"/>
+    <nd ref="968690098"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="voice"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="83256933" version="2" timestamp="2011-01-22T16:41:54Z" uid="4467" user="Rosscoe" changeset="7052148">
+    <nd ref="968690104"/>
+    <nd ref="602429397"/>
+    <nd ref="1115659528"/>
+    <tag k="ford" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Murulla Street"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="83256937" version="2" timestamp="2011-01-22T16:42:16Z" uid="4467" user="Rosscoe" changeset="7052148">
+    <nd ref="1115659528"/>
+    <nd ref="602429400"/>
+    <nd ref="602429395"/>
+    <nd ref="602429387"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Murulla Street"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+</osm>

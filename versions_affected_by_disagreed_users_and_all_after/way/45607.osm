@@ -1,0 +1,2105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="45607173" version="2" timestamp="2010-07-06T18:49:52Z" uid="74617" user="JohnSmith" changeset="5152225">
+    <nd ref="252920293"/>
+    <nd ref="252920294"/>
+    <nd ref="252920295"/>
+    <nd ref="252920296"/>
+    <nd ref="252920297"/>
+    <nd ref="252920298"/>
+    <nd ref="252920299"/>
+    <nd ref="87899617"/>
+    <nd ref="87896648"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="45607173" version="3" timestamp="2011-01-07T04:21:37Z" uid="163497" user="Iteration" changeset="6889361">
+    <nd ref="252920293"/>
+    <nd ref="252920294"/>
+    <nd ref="252920295"/>
+    <nd ref="252920296"/>
+    <nd ref="252920297"/>
+    <nd ref="252920298"/>
+    <nd ref="252920299"/>
+    <nd ref="87899617"/>
+    <nd ref="87896648"/>
+    <nd ref="1087701901"/>
+    <nd ref="252920405"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="highway" v="footway"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="source" v="survey; yahoo; nearmap"/>
+  </way>
+  <way id="45607173" version="4" timestamp="2011-01-16T04:16:58Z" uid="163497" user="Iteration" changeset="6984137">
+    <nd ref="252920293"/>
+    <nd ref="252920294"/>
+    <nd ref="252920295"/>
+    <nd ref="252920296"/>
+    <nd ref="252920297"/>
+    <nd ref="252920298"/>
+    <nd ref="252920299"/>
+    <nd ref="87899617"/>
+    <nd ref="87896648"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="source" v="nearmap; survey"/>
+  </way>
+  <way id="45607173" version="5" timestamp="2011-01-22T10:38:50Z" uid="4467" user="Rosscoe" changeset="7048708">
+    <nd ref="252920293"/>
+    <nd ref="252920294"/>
+    <nd ref="252920295"/>
+    <nd ref="252920296"/>
+    <nd ref="252920297"/>
+    <nd ref="252920298"/>
+    <nd ref="1114876003"/>
+    <nd ref="1114876213"/>
+    <nd ref="1114876138"/>
+    <nd ref="252920299"/>
+    <nd ref="87899617"/>
+    <nd ref="87896648"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="source" v="nearmap; survey"/>
+  </way>
+  <way id="45607173" version="6" timestamp="2012-01-19T12:24:17Z" uid="147510" user="woodpeck_fixbot" changeset="10436041">
+    <nd ref="252920293"/>
+    <nd ref="252920294"/>
+    <nd ref="252920295"/>
+    <nd ref="252920296"/>
+    <nd ref="252920297"/>
+    <nd ref="252920298"/>
+    <nd ref="1114876003"/>
+    <nd ref="1114876213"/>
+    <nd ref="1114876138"/>
+    <nd ref="252920299"/>
+    <nd ref="87899617"/>
+    <nd ref="87896648"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="nearmap; survey"/>
+  </way>
+  <way id="45607175" version="2" timestamp="2010-07-06T18:48:19Z" uid="74617" user="JohnSmith" changeset="5152225">
+    <nd ref="252920290"/>
+    <nd ref="252920323"/>
+    <nd ref="581448509"/>
+    <nd ref="252920291"/>
+    <nd ref="252920292"/>
+    <nd ref="581448496"/>
+    <nd ref="252920293"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Oceanic Drive"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="45607175" version="3" timestamp="2012-01-19T12:24:29Z" uid="147510" user="woodpeck_fixbot" changeset="10436041">
+    <nd ref="252920290"/>
+    <nd ref="252920323"/>
+    <nd ref="581448509"/>
+    <nd ref="252920291"/>
+    <nd ref="252920292"/>
+    <nd ref="581448496"/>
+    <nd ref="252920293"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Oceanic Drive"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="45607639" version="2" timestamp="2010-04-07T14:07:22Z" uid="20587" user="balrog-kun" changeset="4353646">
+    <nd ref="82127474"/>
+    <nd ref="82127473"/>
+    <nd ref="81630637"/>
+    <nd ref="82104618"/>
+    <nd ref="82127472"/>
+    <nd ref="82127471"/>
+    <nd ref="82127469"/>
+    <nd ref="81661634"/>
+    <nd ref="81630631"/>
+    <nd ref="82127467"/>
+    <nd ref="82127466"/>
+    <nd ref="82071019"/>
+    <nd ref="81640884"/>
+    <nd ref="82127464"/>
+    <nd ref="82127461"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="East Ledbetter Dr; State Loop 12"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="TX Loop 12"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Ledbetter"/>
+    <tag k="tiger:name_base_1" v="State Highway LP 12"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="103193976:103193977:102958818:102958822:102970434:102958723:102958732:102958746:102958747:102958749:102958751:102958685:102958686:102958691:103193870:103193871:103193904:103193905:102958864:102958870:103221537:103265454:103221524:103221525:103265450:10326"/>
+    <tag k="tiger:zip_left" v="75217"/>
+    <tag k="tiger:zip_right" v="75217"/>
+  </way>
+  <way id="45607639" version="3" timestamp="2010-04-09T16:18:59Z" uid="37392" user="25or6to4" changeset="4374580">
+    <nd ref="82127474"/>
+    <nd ref="82127473"/>
+    <nd ref="81630637"/>
+    <nd ref="82104618"/>
+    <nd ref="82127472"/>
+    <nd ref="82127471"/>
+    <nd ref="82127469"/>
+    <nd ref="81661634"/>
+    <nd ref="81630631"/>
+    <nd ref="82127467"/>
+    <nd ref="82127466"/>
+    <nd ref="82071019"/>
+    <nd ref="81640884"/>
+    <nd ref="82127464"/>
+    <nd ref="82127461"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="East Ledbetter Dr; State Loop 12"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="Loop 12"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Ledbetter"/>
+    <tag k="tiger:name_base_1" v="State Highway LP 12"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="103193976:103193977:102958818:102958822:102970434:102958723:102958732:102958746:102958747:102958749:102958751:102958685:102958686:102958691:103193870:103193871:103193904:103193905:102958864:102958870:103221537:103265454:103221524:103221525:103265450:10326"/>
+    <tag k="tiger:zip_left" v="75217"/>
+    <tag k="tiger:zip_right" v="75217"/>
+  </way>
+  <way id="45607639" version="4" timestamp="2010-12-22T11:40:26Z" uid="207745" user="NE2" changeset="6734550">
+    <nd ref="82127474"/>
+    <nd ref="82127473"/>
+    <nd ref="81630637"/>
+    <nd ref="82104618"/>
+    <nd ref="82127472"/>
+    <nd ref="82127471"/>
+    <nd ref="82127469"/>
+    <nd ref="81661634"/>
+    <nd ref="81630631"/>
+    <nd ref="82127467"/>
+    <nd ref="82127466"/>
+    <nd ref="82071019"/>
+    <nd ref="81640884"/>
+    <nd ref="82127464"/>
+    <nd ref="82127461"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="East Ledbetter Dr; State Loop 12"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="Loop 12"/>
+    <tag k="source:hgv" v="Dallas City Code section 28-71"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Ledbetter"/>
+    <tag k="tiger:name_base_1" v="State Highway LP 12"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="103193976:103193977:102958818:102958822:102970434:102958723:102958732:102958746:102958747:102958749:102958751:102958685:102958686:102958691:103193870:103193871:103193904:103193905:102958864:102958870:103221537:103265454:103221524:103221525:103265450:10326"/>
+    <tag k="tiger:zip_left" v="75217"/>
+    <tag k="tiger:zip_right" v="75217"/>
+  </way>
+  <way id="45607639" version="5" timestamp="2010-12-24T04:58:23Z" uid="207745" user="NE2" changeset="6751594">
+    <nd ref="82127474"/>
+    <nd ref="82127473"/>
+    <nd ref="81630637"/>
+    <nd ref="82104618"/>
+    <nd ref="82127472"/>
+    <nd ref="82127471"/>
+    <nd ref="82127469"/>
+    <nd ref="81661634"/>
+    <nd ref="81630631"/>
+    <nd ref="82127467"/>
+    <nd ref="82127466"/>
+    <nd ref="82071019"/>
+    <nd ref="81640884"/>
+    <nd ref="82127464"/>
+    <nd ref="82127461"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="East Ledbetter Drive"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="Loop 12"/>
+    <tag k="source:hgv" v="Dallas City Code section 28-71"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Ledbetter"/>
+    <tag k="tiger:name_base_1" v="State Highway LP 12"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="103193976:103193977:102958818:102958822:102970434:102958723:102958732:102958746:102958747:102958749:102958751:102958685:102958686:102958691:103193870:103193871:103193904:103193905:102958864:102958870:103221537:103265454:103221524:103221525:103265450:10326"/>
+    <tag k="tiger:zip_left" v="75217"/>
+    <tag k="tiger:zip_right" v="75217"/>
+  </way>
+  <way id="45607639" version="6" timestamp="2012-02-12T05:15:58Z" uid="119881" user="Clorox" changeset="10659694">
+    <nd ref="82127474"/>
+    <nd ref="82127473"/>
+    <nd ref="81630637"/>
+    <nd ref="81661634"/>
+    <nd ref="81630631"/>
+    <nd ref="82127467"/>
+    <nd ref="82127466"/>
+    <nd ref="82071019"/>
+    <nd ref="81640884"/>
+    <nd ref="82127461"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="East Ledbetter Drive"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="Loop 12"/>
+    <tag k="source:hgv" v="Dallas City Code section 28-71"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Ledbetter"/>
+    <tag k="tiger:name_base_1" v="State Highway LP 12"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="103193976:103193977:102958818:102958822:102970434:102958723:102958732:102958746:102958747:102958749:102958751:102958685:102958686:102958691:103193870:103193871:103193904:103193905:102958864:102958870:103221537:103265454:103221524:103221525:103265450:10326"/>
+    <tag k="tiger:zip_left" v="75217"/>
+    <tag k="tiger:zip_right" v="75217"/>
+  </way>
+  <way id="45607639" version="7" timestamp="2012-02-12T05:21:09Z" uid="119881" user="Clorox" changeset="10659694">
+    <nd ref="82127474"/>
+    <nd ref="82127473"/>
+    <nd ref="81630637"/>
+    <nd ref="81661634"/>
+    <nd ref="81630631"/>
+    <nd ref="82071019"/>
+    <nd ref="81640884"/>
+    <nd ref="82127461"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="East Ledbetter Drive"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="Loop 12"/>
+    <tag k="source:hgv" v="Dallas City Code section 28-71"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Ledbetter"/>
+    <tag k="tiger:name_base_1" v="State Highway LP 12"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="103193976:103193977:102958818:102958822:102970434:102958723:102958732:102958746:102958747:102958749:102958751:102958685:102958686:102958691:103193870:103193871:103193904:103193905:102958864:102958870:103221537:103265454:103221524:103221525:103265450:10326"/>
+    <tag k="tiger:zip_left" v="75217"/>
+    <tag k="tiger:zip_right" v="75217"/>
+  </way>
+  <way id="45607639" version="8" timestamp="2012-02-12T05:23:48Z" uid="119881" user="Clorox" changeset="10659747">
+    <nd ref="82127474"/>
+    <nd ref="82127473"/>
+    <nd ref="81630637"/>
+    <nd ref="81661634"/>
+    <nd ref="81630631"/>
+    <nd ref="1629229806"/>
+    <nd ref="82071019"/>
+    <nd ref="81640884"/>
+    <nd ref="82127461"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="East Ledbetter Drive"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="Loop 12"/>
+    <tag k="source:hgv" v="Dallas City Code section 28-71"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Ledbetter"/>
+    <tag k="tiger:name_base_1" v="State Highway LP 12"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="103193976:103193977:102958818:102958822:102970434:102958723:102958732:102958746:102958747:102958749:102958751:102958685:102958686:102958691:103193870:103193871:103193904:103193905:102958864:102958870:103221537:103265454:103221524:103221525:103265450:10326"/>
+    <tag k="tiger:zip_left" v="75217"/>
+    <tag k="tiger:zip_right" v="75217"/>
+  </way>
+  <way id="45607639" version="9" timestamp="2012-02-12T05:27:35Z" uid="119881" user="Clorox" changeset="10659747">
+    <nd ref="1629230414"/>
+    <nd ref="1629230411"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="East Ledbetter Drive"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="Loop 12"/>
+    <tag k="source:hgv" v="Dallas City Code section 28-71"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Ledbetter"/>
+    <tag k="tiger:name_base_1" v="State Highway LP 12"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="103193976:103193977:102958818:102958822:102970434:102958723:102958732:102958746:102958747:102958749:102958751:102958685:102958686:102958691:103193870:103193871:103193904:103193905:102958864:102958870:103221537:103265454:103221524:103221525:103265450:10326"/>
+    <tag k="tiger:zip_left" v="75217"/>
+    <tag k="tiger:zip_right" v="75217"/>
+  </way>
+  <way id="45607639" version="10" timestamp="2012-02-12T05:30:02Z" uid="119881" user="Clorox" changeset="10659747">
+    <nd ref="1629231181"/>
+    <nd ref="1629231176"/>
+    <nd ref="1629231183"/>
+    <nd ref="1629231187"/>
+    <nd ref="1629231185"/>
+    <nd ref="1629231186"/>
+    <nd ref="1629231192"/>
+    <nd ref="1629231184"/>
+    <nd ref="1629231182"/>
+    <nd ref="1629231179"/>
+    <nd ref="1629230414"/>
+    <nd ref="1629230411"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="East Ledbetter Drive"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="Loop 12"/>
+    <tag k="source:hgv" v="Dallas City Code section 28-71"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Ledbetter"/>
+    <tag k="tiger:name_base_1" v="State Highway LP 12"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="103193976:103193977:102958818:102958822:102970434:102958723:102958732:102958746:102958747:102958749:102958751:102958685:102958686:102958691:103193870:103193871:103193904:103193905:102958864:102958870:103221537:103265454:103221524:103221525:103265450:10326"/>
+    <tag k="tiger:zip_left" v="75217"/>
+    <tag k="tiger:zip_right" v="75217"/>
+  </way>
+  <way id="45607640" version="2" timestamp="2010-04-07T14:07:23Z" uid="20587" user="balrog-kun" changeset="4353646">
+    <nd ref="82057789"/>
+    <nd ref="82127498"/>
+    <nd ref="82127496"/>
+    <nd ref="82127494"/>
+    <nd ref="82127492"/>
+    <nd ref="82127490"/>
+    <nd ref="82127488"/>
+    <nd ref="82127486"/>
+    <nd ref="82127484"/>
+    <nd ref="82127482"/>
+    <nd ref="82127479"/>
+    <nd ref="82127478"/>
+    <nd ref="82127476"/>
+    <nd ref="82127474"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="East Ledbetter Dr; State Loop 12"/>
+    <tag k="ref" v="TX Loop 12"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Ledbetter"/>
+    <tag k="tiger:name_base_1" v="State Highway LP 12"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="103193976:103193977:102958818:102958822:102970434:102958723:102958732:102958746:102958747:102958749:102958751:102958685:102958686:102958691:103193870:103193871:103193904:103193905:102958864:102958870:103221537:103265454:103221524:103221525:103265450:10326"/>
+    <tag k="tiger:zip_left" v="75217"/>
+    <tag k="tiger:zip_right" v="75217"/>
+  </way>
+  <way id="45607640" version="3" timestamp="2010-04-09T16:18:58Z" uid="37392" user="25or6to4" changeset="4374580">
+    <nd ref="82057789"/>
+    <nd ref="82127498"/>
+    <nd ref="82127496"/>
+    <nd ref="82127494"/>
+    <nd ref="82127492"/>
+    <nd ref="82127490"/>
+    <nd ref="82127488"/>
+    <nd ref="82127486"/>
+    <nd ref="82127484"/>
+    <nd ref="82127482"/>
+    <nd ref="82127479"/>
+    <nd ref="82127478"/>
+    <nd ref="82127476"/>
+    <nd ref="82127474"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="East Ledbetter Dr; State Loop 12"/>
+    <tag k="ref" v="Loop 12"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Ledbetter"/>
+    <tag k="tiger:name_base_1" v="State Highway LP 12"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="103193976:103193977:102958818:102958822:102970434:102958723:102958732:102958746:102958747:102958749:102958751:102958685:102958686:102958691:103193870:103193871:103193904:103193905:102958864:102958870:103221537:103265454:103221524:103221525:103265450:10326"/>
+    <tag k="tiger:zip_left" v="75217"/>
+    <tag k="tiger:zip_right" v="75217"/>
+  </way>
+  <way id="45607640" version="4" timestamp="2010-12-22T11:45:05Z" uid="207745" user="NE2" changeset="6734550">
+    <nd ref="82057789"/>
+    <nd ref="82127498"/>
+    <nd ref="82127496"/>
+    <nd ref="82127494"/>
+    <nd ref="82127492"/>
+    <nd ref="82127490"/>
+    <nd ref="82127488"/>
+    <nd ref="82127486"/>
+    <nd ref="82127484"/>
+    <nd ref="82127482"/>
+    <nd ref="82127479"/>
+    <nd ref="82127478"/>
+    <nd ref="82127476"/>
+    <nd ref="82127474"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="East Ledbetter Dr; State Loop 12"/>
+    <tag k="ref" v="Loop 12"/>
+    <tag k="source:hgv" v="Dallas City Code section 28-71"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Ledbetter"/>
+    <tag k="tiger:name_base_1" v="State Highway LP 12"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="103193976:103193977:102958818:102958822:102970434:102958723:102958732:102958746:102958747:102958749:102958751:102958685:102958686:102958691:103193870:103193871:103193904:103193905:102958864:102958870:103221537:103265454:103221524:103221525:103265450:10326"/>
+    <tag k="tiger:zip_left" v="75217"/>
+    <tag k="tiger:zip_right" v="75217"/>
+  </way>
+  <way id="45607640" version="5" timestamp="2010-12-24T04:46:23Z" uid="207745" user="NE2" changeset="6751594">
+    <nd ref="82057789"/>
+    <nd ref="82127498"/>
+    <nd ref="82127496"/>
+    <nd ref="82127494"/>
+    <nd ref="82127492"/>
+    <nd ref="82127490"/>
+    <nd ref="82127488"/>
+    <nd ref="82127486"/>
+    <nd ref="82127484"/>
+    <nd ref="82127482"/>
+    <nd ref="82127479"/>
+    <nd ref="82127478"/>
+    <nd ref="82127476"/>
+    <nd ref="82127474"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="East Ledbetter Drive"/>
+    <tag k="ref" v="Loop 12"/>
+    <tag k="source:hgv" v="Dallas City Code section 28-71"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Ledbetter"/>
+    <tag k="tiger:name_base_1" v="State Highway LP 12"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="103193976:103193977:102958818:102958822:102970434:102958723:102958732:102958746:102958747:102958749:102958751:102958685:102958686:102958691:103193870:103193871:103193904:103193905:102958864:102958870:103221537:103265454:103221524:103221525:103265450:10326"/>
+    <tag k="tiger:zip_left" v="75217"/>
+    <tag k="tiger:zip_right" v="75217"/>
+  </way>
+  <way id="45607640" version="6" timestamp="2012-02-12T05:27:38Z" uid="119881" user="Clorox" changeset="10659747"/>
+  <way id="45607641" version="3" timestamp="2010-04-07T14:07:24Z" uid="20587" user="balrog-kun" changeset="4353646">
+    <nd ref="81766742"/>
+    <nd ref="82127725"/>
+    <nd ref="82127727"/>
+    <nd ref="81642264"/>
+    <nd ref="82127729"/>
+    <nd ref="81933492"/>
+    <nd ref="82127731"/>
+    <nd ref="82127733"/>
+    <nd ref="82127735"/>
+    <nd ref="82127737"/>
+    <nd ref="82127739"/>
+    <nd ref="82127740"/>
+    <nd ref="82127741"/>
+    <nd ref="82127742"/>
+    <nd ref="82127743"/>
+    <nd ref="81789138"/>
+    <nd ref="82127745"/>
+    <nd ref="82127747"/>
+    <nd ref="82127748"/>
+    <nd ref="82127749"/>
+    <nd ref="82105669"/>
+    <nd ref="82127750"/>
+    <nd ref="82027653"/>
+    <nd ref="82127751"/>
+    <nd ref="82127752"/>
+    <nd ref="82127754"/>
+    <nd ref="82127756"/>
+    <nd ref="81625784"/>
+    <nd ref="82127758"/>
+    <nd ref="82127759"/>
+    <nd ref="82127760"/>
+    <nd ref="82127762"/>
+    <nd ref="81972292"/>
+    <nd ref="81972290"/>
+    <nd ref="82127764"/>
+    <nd ref="82127766"/>
+    <nd ref="82127768"/>
+    <nd ref="82127770"/>
+    <nd ref="82127771"/>
+    <nd ref="82127773"/>
+    <nd ref="82127775"/>
+    <nd ref="82127777"/>
+    <nd ref="81806860"/>
+    <nd ref="82127779"/>
+    <nd ref="82060509"/>
+    <nd ref="82127780"/>
+    <nd ref="82127781"/>
+    <nd ref="82127783"/>
+    <nd ref="81820886"/>
+    <nd ref="82127786"/>
+    <nd ref="81748452"/>
+    <nd ref="82127788"/>
+    <nd ref="82127790"/>
+    <nd ref="82127792"/>
+    <nd ref="82127794"/>
+    <nd ref="82127795"/>
+    <nd ref="82127796"/>
+    <nd ref="82127797"/>
+    <nd ref="82127798"/>
+    <nd ref="82127799"/>
+    <nd ref="82127800"/>
+    <nd ref="82127802"/>
+    <nd ref="82127804"/>
+    <nd ref="82127805"/>
+    <nd ref="81882139"/>
+    <nd ref="82127806"/>
+    <nd ref="82127808"/>
+    <nd ref="82127810"/>
+    <nd ref="81749070"/>
+    <nd ref="81749013"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="East Ledbetter Drive; State Loop 12"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="TX Loop 12"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Ledbetter"/>
+    <tag k="tiger:name_base_1" v="State Highway LP 12"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102952473:102952388:103191332:103191334:103191335:102951808:102951810:102951819:102951820:102952348:102952349:102951739:102952351:102952352:102952358:102970216:102951630:102951631:102951642:103191266:103191267:102948519:102951550:103191276:103191277:10319"/>
+    <tag k="tiger:zip_left" v="75216"/>
+    <tag k="tiger:zip_right" v="75216"/>
+  </way>
+  <way id="45607641" version="4" timestamp="2010-04-09T16:18:40Z" uid="37392" user="25or6to4" changeset="4374580">
+    <nd ref="81766742"/>
+    <nd ref="82127725"/>
+    <nd ref="82127727"/>
+    <nd ref="81642264"/>
+    <nd ref="82127729"/>
+    <nd ref="81933492"/>
+    <nd ref="82127731"/>
+    <nd ref="82127733"/>
+    <nd ref="82127735"/>
+    <nd ref="82127737"/>
+    <nd ref="82127739"/>
+    <nd ref="82127740"/>
+    <nd ref="82127741"/>
+    <nd ref="82127742"/>
+    <nd ref="82127743"/>
+    <nd ref="81789138"/>
+    <nd ref="82127745"/>
+    <nd ref="82127747"/>
+    <nd ref="82127748"/>
+    <nd ref="82127749"/>
+    <nd ref="82105669"/>
+    <nd ref="82127750"/>
+    <nd ref="82027653"/>
+    <nd ref="82127751"/>
+    <nd ref="82127752"/>
+    <nd ref="82127754"/>
+    <nd ref="82127756"/>
+    <nd ref="81625784"/>
+    <nd ref="82127758"/>
+    <nd ref="82127759"/>
+    <nd ref="82127760"/>
+    <nd ref="82127762"/>
+    <nd ref="81972292"/>
+    <nd ref="81972290"/>
+    <nd ref="82127764"/>
+    <nd ref="82127766"/>
+    <nd ref="82127768"/>
+    <nd ref="82127770"/>
+    <nd ref="82127771"/>
+    <nd ref="82127773"/>
+    <nd ref="82127775"/>
+    <nd ref="82127777"/>
+    <nd ref="81806860"/>
+    <nd ref="82127779"/>
+    <nd ref="82060509"/>
+    <nd ref="82127780"/>
+    <nd ref="82127781"/>
+    <nd ref="82127783"/>
+    <nd ref="81820886"/>
+    <nd ref="82127786"/>
+    <nd ref="81748452"/>
+    <nd ref="82127788"/>
+    <nd ref="82127790"/>
+    <nd ref="82127792"/>
+    <nd ref="82127794"/>
+    <nd ref="82127795"/>
+    <nd ref="82127796"/>
+    <nd ref="82127797"/>
+    <nd ref="82127798"/>
+    <nd ref="82127799"/>
+    <nd ref="82127800"/>
+    <nd ref="82127802"/>
+    <nd ref="82127804"/>
+    <nd ref="82127805"/>
+    <nd ref="81882139"/>
+    <nd ref="82127806"/>
+    <nd ref="82127808"/>
+    <nd ref="82127810"/>
+    <nd ref="81749070"/>
+    <nd ref="81749013"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="East Ledbetter Drive; State Loop 12"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="Loop 12"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Ledbetter"/>
+    <tag k="tiger:name_base_1" v="State Highway LP 12"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102952473:102952388:103191332:103191334:103191335:102951808:102951810:102951819:102951820:102952348:102952349:102951739:102952351:102952352:102952358:102970216:102951630:102951631:102951642:103191266:103191267:102948519:102951550:103191276:103191277:10319"/>
+    <tag k="tiger:zip_left" v="75216"/>
+    <tag k="tiger:zip_right" v="75216"/>
+  </way>
+  <way id="45607641" version="5" timestamp="2010-04-29T12:00:19Z" uid="37392" user="25or6to4" changeset="4557287">
+    <nd ref="81766742"/>
+    <nd ref="82127725"/>
+    <nd ref="82127727"/>
+    <nd ref="81642264"/>
+    <nd ref="82127729"/>
+    <nd ref="81933492"/>
+    <nd ref="82127731"/>
+    <nd ref="82127733"/>
+    <nd ref="82127735"/>
+    <nd ref="82127737"/>
+    <nd ref="82127739"/>
+    <nd ref="82127740"/>
+    <nd ref="82127741"/>
+    <nd ref="82127742"/>
+    <nd ref="82127743"/>
+    <nd ref="81789138"/>
+    <nd ref="82127745"/>
+    <nd ref="82127747"/>
+    <nd ref="82127748"/>
+    <nd ref="82127749"/>
+    <nd ref="82105669"/>
+    <nd ref="82127750"/>
+    <nd ref="82027653"/>
+    <nd ref="82127751"/>
+    <nd ref="82127752"/>
+    <nd ref="82127754"/>
+    <nd ref="82127756"/>
+    <nd ref="81625784"/>
+    <nd ref="82127758"/>
+    <nd ref="82127759"/>
+    <nd ref="82127760"/>
+    <nd ref="82127762"/>
+    <nd ref="81972292"/>
+    <nd ref="81972290"/>
+    <nd ref="82127764"/>
+    <nd ref="82127766"/>
+    <nd ref="82127768"/>
+    <nd ref="82127770"/>
+    <nd ref="82127771"/>
+    <nd ref="82127773"/>
+    <nd ref="82127775"/>
+    <nd ref="82127777"/>
+    <nd ref="81806860"/>
+    <nd ref="82127779"/>
+    <nd ref="82060509"/>
+    <nd ref="82127780"/>
+    <nd ref="82127781"/>
+    <nd ref="82127783"/>
+    <nd ref="81820886"/>
+    <nd ref="82127786"/>
+    <nd ref="81748452"/>
+    <nd ref="82127788"/>
+    <nd ref="82127790"/>
+    <nd ref="82127792"/>
+    <nd ref="82127794"/>
+    <nd ref="82127795"/>
+    <nd ref="711865147"/>
+    <nd ref="82127797"/>
+    <nd ref="82127798"/>
+    <nd ref="82127799"/>
+    <nd ref="82127800"/>
+    <nd ref="82127802"/>
+    <nd ref="82127804"/>
+    <nd ref="82127805"/>
+    <nd ref="81882139"/>
+    <nd ref="82127806"/>
+    <nd ref="82127808"/>
+    <nd ref="82127810"/>
+    <nd ref="81749070"/>
+    <nd ref="81749013"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="East Ledbetter Drive; State Loop 12"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="Loop 12"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Ledbetter"/>
+    <tag k="tiger:name_base_1" v="State Highway LP 12"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102952473:102952388:103191332:103191334:103191335:102951808:102951810:102951819:102951820:102952348:102952349:102951739:102952351:102952352:102952358:102970216:102951630:102951631:102951642:103191266:103191267:102948519:102951550:103191276:103191277:10319"/>
+    <tag k="tiger:zip_left" v="75216"/>
+    <tag k="tiger:zip_right" v="75216"/>
+  </way>
+  <way id="45607641" version="6" timestamp="2010-12-22T11:47:07Z" uid="207745" user="NE2" changeset="6734550">
+    <nd ref="81766742"/>
+    <nd ref="82127725"/>
+    <nd ref="82127727"/>
+    <nd ref="81642264"/>
+    <nd ref="82127729"/>
+    <nd ref="81933492"/>
+    <nd ref="82127731"/>
+    <nd ref="82127733"/>
+    <nd ref="82127735"/>
+    <nd ref="82127737"/>
+    <nd ref="82127739"/>
+    <nd ref="82127740"/>
+    <nd ref="82127741"/>
+    <nd ref="82127742"/>
+    <nd ref="82127743"/>
+    <nd ref="81789138"/>
+    <nd ref="82127745"/>
+    <nd ref="82127747"/>
+    <nd ref="82127748"/>
+    <nd ref="82127749"/>
+    <nd ref="82105669"/>
+    <nd ref="82127750"/>
+    <nd ref="82027653"/>
+    <nd ref="82127751"/>
+    <nd ref="82127752"/>
+    <nd ref="82127754"/>
+    <nd ref="82127756"/>
+    <nd ref="81625784"/>
+    <nd ref="82127758"/>
+    <nd ref="82127759"/>
+    <nd ref="82127760"/>
+    <nd ref="82127762"/>
+    <nd ref="81972292"/>
+    <nd ref="81972290"/>
+    <nd ref="82127764"/>
+    <nd ref="82127766"/>
+    <nd ref="82127768"/>
+    <nd ref="82127770"/>
+    <nd ref="82127771"/>
+    <nd ref="82127773"/>
+    <nd ref="82127775"/>
+    <nd ref="82127777"/>
+    <nd ref="81806860"/>
+    <nd ref="82127779"/>
+    <nd ref="82060509"/>
+    <nd ref="82127780"/>
+    <nd ref="82127781"/>
+    <nd ref="82127783"/>
+    <nd ref="81820886"/>
+    <nd ref="82127786"/>
+    <nd ref="81748452"/>
+    <nd ref="82127788"/>
+    <nd ref="82127790"/>
+    <nd ref="82127792"/>
+    <nd ref="82127794"/>
+    <nd ref="82127795"/>
+    <nd ref="711865147"/>
+    <nd ref="82127797"/>
+    <nd ref="82127798"/>
+    <nd ref="82127799"/>
+    <nd ref="82127800"/>
+    <nd ref="82127802"/>
+    <nd ref="82127804"/>
+    <nd ref="82127805"/>
+    <nd ref="81882139"/>
+    <nd ref="82127806"/>
+    <nd ref="82127808"/>
+    <nd ref="82127810"/>
+    <nd ref="81749070"/>
+    <nd ref="81749013"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="East Ledbetter Drive; State Loop 12"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="Loop 12"/>
+    <tag k="source:hgv" v="Dallas City Code section 28-71"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Ledbetter"/>
+    <tag k="tiger:name_base_1" v="State Highway LP 12"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102952473:102952388:103191332:103191334:103191335:102951808:102951810:102951819:102951820:102952348:102952349:102951739:102952351:102952352:102952358:102970216:102951630:102951631:102951642:103191266:103191267:102948519:102951550:103191276:103191277:10319"/>
+    <tag k="tiger:zip_left" v="75216"/>
+    <tag k="tiger:zip_right" v="75216"/>
+  </way>
+  <way id="45607641" version="7" timestamp="2010-12-24T04:57:04Z" uid="207745" user="NE2" changeset="6751594">
+    <nd ref="81766742"/>
+    <nd ref="82127725"/>
+    <nd ref="82127727"/>
+    <nd ref="81642264"/>
+    <nd ref="82127729"/>
+    <nd ref="81933492"/>
+    <nd ref="82127731"/>
+    <nd ref="82127733"/>
+    <nd ref="82127735"/>
+    <nd ref="82127737"/>
+    <nd ref="82127739"/>
+    <nd ref="82127740"/>
+    <nd ref="82127741"/>
+    <nd ref="82127742"/>
+    <nd ref="82127743"/>
+    <nd ref="81789138"/>
+    <nd ref="82127745"/>
+    <nd ref="82127747"/>
+    <nd ref="82127748"/>
+    <nd ref="82127749"/>
+    <nd ref="82105669"/>
+    <nd ref="82127750"/>
+    <nd ref="82027653"/>
+    <nd ref="82127751"/>
+    <nd ref="82127752"/>
+    <nd ref="82127754"/>
+    <nd ref="82127756"/>
+    <nd ref="81625784"/>
+    <nd ref="82127758"/>
+    <nd ref="82127759"/>
+    <nd ref="82127760"/>
+    <nd ref="82127762"/>
+    <nd ref="81972292"/>
+    <nd ref="81972290"/>
+    <nd ref="82127764"/>
+    <nd ref="82127766"/>
+    <nd ref="82127768"/>
+    <nd ref="82127770"/>
+    <nd ref="82127771"/>
+    <nd ref="82127773"/>
+    <nd ref="82127775"/>
+    <nd ref="82127777"/>
+    <nd ref="81806860"/>
+    <nd ref="82127779"/>
+    <nd ref="82060509"/>
+    <nd ref="82127780"/>
+    <nd ref="82127781"/>
+    <nd ref="82127783"/>
+    <nd ref="81820886"/>
+    <nd ref="82127786"/>
+    <nd ref="81748452"/>
+    <nd ref="82127788"/>
+    <nd ref="82127790"/>
+    <nd ref="82127792"/>
+    <nd ref="82127794"/>
+    <nd ref="82127795"/>
+    <nd ref="711865147"/>
+    <nd ref="82127797"/>
+    <nd ref="82127798"/>
+    <nd ref="82127799"/>
+    <nd ref="82127800"/>
+    <nd ref="82127802"/>
+    <nd ref="82127804"/>
+    <nd ref="82127805"/>
+    <nd ref="81882139"/>
+    <nd ref="82127806"/>
+    <nd ref="82127808"/>
+    <nd ref="82127810"/>
+    <nd ref="81749070"/>
+    <nd ref="81749013"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="East Ledbetter Drive"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="Loop 12"/>
+    <tag k="source:hgv" v="Dallas City Code section 28-71"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Ledbetter"/>
+    <tag k="tiger:name_base_1" v="State Highway LP 12"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102952473:102952388:103191332:103191334:103191335:102951808:102951810:102951819:102951820:102952348:102952349:102951739:102952351:102952352:102952358:102970216:102951630:102951631:102951642:103191266:103191267:102948519:102951550:103191276:103191277:10319"/>
+    <tag k="tiger:zip_left" v="75216"/>
+    <tag k="tiger:zip_right" v="75216"/>
+  </way>
+  <way id="45607641" version="8" timestamp="2011-07-21T01:28:38Z" uid="145781" user="Mara" changeset="8784388">
+    <nd ref="81628144"/>
+    <nd ref="1368553600"/>
+    <nd ref="1368553566"/>
+    <nd ref="1368553568"/>
+    <nd ref="82127727"/>
+    <nd ref="81642264"/>
+    <nd ref="82127729"/>
+    <nd ref="81933492"/>
+    <nd ref="82127731"/>
+    <nd ref="82127733"/>
+    <nd ref="82127735"/>
+    <nd ref="82127737"/>
+    <nd ref="82127739"/>
+    <nd ref="82127740"/>
+    <nd ref="82127741"/>
+    <nd ref="82127742"/>
+    <nd ref="82127743"/>
+    <nd ref="81789138"/>
+    <nd ref="82127745"/>
+    <nd ref="82127747"/>
+    <nd ref="82127748"/>
+    <nd ref="82127749"/>
+    <nd ref="82105669"/>
+    <nd ref="82127750"/>
+    <nd ref="82027653"/>
+    <nd ref="82127751"/>
+    <nd ref="82127752"/>
+    <nd ref="82127754"/>
+    <nd ref="82127756"/>
+    <nd ref="81625784"/>
+    <nd ref="82127758"/>
+    <nd ref="82127759"/>
+    <nd ref="82127760"/>
+    <nd ref="82127762"/>
+    <nd ref="81972292"/>
+    <nd ref="81972290"/>
+    <nd ref="82127764"/>
+    <nd ref="82127766"/>
+    <nd ref="82127768"/>
+    <nd ref="82127770"/>
+    <nd ref="82127771"/>
+    <nd ref="82127773"/>
+    <nd ref="82127775"/>
+    <nd ref="82127777"/>
+    <nd ref="81806860"/>
+    <nd ref="82127779"/>
+    <nd ref="82060509"/>
+    <nd ref="82127780"/>
+    <nd ref="82127781"/>
+    <nd ref="82127783"/>
+    <nd ref="81820886"/>
+    <nd ref="82127786"/>
+    <nd ref="81748452"/>
+    <nd ref="82127788"/>
+    <nd ref="82127790"/>
+    <nd ref="82127792"/>
+    <nd ref="82127794"/>
+    <nd ref="82127795"/>
+    <nd ref="711865147"/>
+    <nd ref="82127797"/>
+    <nd ref="82127798"/>
+    <nd ref="82127799"/>
+    <nd ref="82127800"/>
+    <nd ref="82127802"/>
+    <nd ref="82127804"/>
+    <nd ref="82127805"/>
+    <nd ref="81882139"/>
+    <nd ref="82127806"/>
+    <nd ref="82127808"/>
+    <nd ref="82127810"/>
+    <nd ref="81749070"/>
+    <nd ref="81749013"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="East Ledbetter Drive"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="Loop 12"/>
+    <tag k="source:hgv" v="Dallas City Code section 28-71"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Ledbetter"/>
+    <tag k="tiger:name_base_1" v="State Highway LP 12"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102952473:102952388:103191332:103191334:103191335:102951808:102951810:102951819:102951820:102952348:102952349:102951739:102952351:102952352:102952358:102970216:102951630:102951631:102951642:103191266:103191267:102948519:102951550:103191276:103191277:10319"/>
+    <tag k="tiger:zip_left" v="75216"/>
+    <tag k="tiger:zip_right" v="75216"/>
+  </way>
+  <way id="45607674" version="2" timestamp="2009-12-25T12:08:19Z" uid="4467" user="Rosscoe" changeset="3447652">
+    <nd ref="581449298"/>
+    <nd ref="581449299"/>
+    <nd ref="581449301"/>
+    <nd ref="581449302"/>
+    <nd ref="579632851"/>
+    <tag k="highway" v="service"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="45607675" version="2" timestamp="2009-12-25T12:08:21Z" uid="4467" user="Rosscoe" changeset="3447652">
+    <nd ref="581449263"/>
+    <nd ref="581449265"/>
+    <nd ref="581449266"/>
+    <nd ref="581449271"/>
+    <nd ref="581449272"/>
+    <nd ref="581449273"/>
+    <nd ref="581449275"/>
+    <nd ref="581449268"/>
+    <nd ref="581449269"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="45607676" version="3" timestamp="2009-12-25T12:08:21Z" uid="4467" user="Rosscoe" changeset="3447652">
+    <nd ref="581388221"/>
+    <nd ref="581449276"/>
+    <nd ref="581449278"/>
+    <nd ref="581449279"/>
+    <nd ref="581449280"/>
+    <nd ref="581449289"/>
+    <tag k="highway" v="service"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="45607677" version="3" timestamp="2009-12-25T12:08:21Z" uid="4467" user="Rosscoe" changeset="3447652">
+    <nd ref="577391934"/>
+    <nd ref="581449295"/>
+    <nd ref="581449296"/>
+    <tag k="highway" v="service"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="45607679" version="2" timestamp="2010-07-06T17:44:08Z" uid="74617" user="JohnSmith" changeset="5152225">
+    <nd ref="579632730"/>
+    <nd ref="581449286"/>
+    <nd ref="581449287"/>
+    <nd ref="581449282"/>
+    <nd ref="581449283"/>
+    <nd ref="577391940"/>
+    <tag k="access" v="permissive"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="45607679" version="3" timestamp="2012-01-19T12:24:40Z" uid="147510" user="woodpeck_fixbot" changeset="10436041">
+    <nd ref="579632730"/>
+    <nd ref="581449286"/>
+    <nd ref="581449287"/>
+    <nd ref="581449282"/>
+    <nd ref="581449283"/>
+    <nd ref="577391940"/>
+    <tag k="access" v="permissive"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="45607686" version="1" timestamp="2009-12-05T03:24:11Z" uid="7617" user="Franc" changeset="3293055">
+    <nd ref="581450033"/>
+    <nd ref="581450035"/>
+    <nd ref="581450037"/>
+    <nd ref="581450038"/>
+    <nd ref="581450044"/>
+    <nd ref="581450045"/>
+    <nd ref="581450046"/>
+    <nd ref="581450048"/>
+    <nd ref="581450049"/>
+    <nd ref="581450040"/>
+    <nd ref="581450033"/>
+    <tag k="leisure" v="park"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="45607687" version="1" timestamp="2009-12-05T03:24:11Z" uid="7617" user="Franc" changeset="3293055">
+    <nd ref="581450055"/>
+    <nd ref="581450057"/>
+    <nd ref="581450058"/>
+    <nd ref="581450071"/>
+    <nd ref="581450060"/>
+    <nd ref="581450061"/>
+    <nd ref="581450066"/>
+    <nd ref="581450068"/>
+    <nd ref="581450055"/>
+    <tag k="leisure" v="park"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="45607688" version="1" timestamp="2009-12-05T03:24:11Z" uid="7617" user="Franc" changeset="3293055">
+    <nd ref="581450072"/>
+    <nd ref="282994664"/>
+    <tag k="highway" v="footway"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="45607689" version="1" timestamp="2009-12-05T03:24:11Z" uid="7617" user="Franc" changeset="3293055">
+    <nd ref="581450082"/>
+    <nd ref="581450084"/>
+    <nd ref="581450075"/>
+    <nd ref="581450076"/>
+    <nd ref="581450082"/>
+    <tag k="amenity" v="parking"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="45607690" version="1" timestamp="2009-12-05T03:24:11Z" uid="7617" user="Franc" changeset="3293055">
+    <nd ref="581450078"/>
+    <nd ref="581450079"/>
+    <tag k="highway" v="service"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="45607691" version="1" timestamp="2009-12-05T03:24:11Z" uid="7617" user="Franc" changeset="3293055">
+    <nd ref="299151435"/>
+    <nd ref="581450125"/>
+    <nd ref="581450124"/>
+    <nd ref="581450122"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Burdett Street"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="45607692" version="1" timestamp="2009-12-05T03:24:11Z" uid="7617" user="Franc" changeset="3293055">
+    <nd ref="581450102"/>
+    <nd ref="581450108"/>
+    <nd ref="581450104"/>
+    <nd ref="581450110"/>
+    <nd ref="581450097"/>
+    <nd ref="581450088"/>
+    <nd ref="581450092"/>
+    <nd ref="581450087"/>
+    <nd ref="581450094"/>
+    <nd ref="581450090"/>
+    <nd ref="581450095"/>
+    <nd ref="581450091"/>
+    <nd ref="581450111"/>
+    <nd ref="581450105"/>
+    <nd ref="581450112"/>
+    <nd ref="581450101"/>
+    <nd ref="581450107"/>
+    <nd ref="581450114"/>
+    <nd ref="581450102"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="45607693" version="1" timestamp="2009-12-05T03:24:11Z" uid="7617" user="Franc" changeset="3293055">
+    <nd ref="299151446"/>
+    <nd ref="581450117"/>
+    <nd ref="581450115"/>
+    <nd ref="288587422"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Burdett Street"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="45607694" version="1" timestamp="2009-12-05T03:24:12Z" uid="7617" user="Franc" changeset="3293055">
+    <nd ref="299151440"/>
+    <nd ref="581450119"/>
+    <nd ref="581450121"/>
+    <nd ref="581450118"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Burdett Street"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="45607695" version="1" timestamp="2009-12-05T03:24:12Z" uid="7617" user="Franc" changeset="3293055">
+    <nd ref="299151428"/>
+    <nd ref="581450131"/>
+    <nd ref="581450130"/>
+    <nd ref="581450128"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Burdett Street"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="45607696" version="1" timestamp="2009-12-05T03:24:12Z" uid="7617" user="Franc" changeset="3293055">
+    <nd ref="299151427"/>
+    <nd ref="581450137"/>
+    <nd ref="581450135"/>
+    <nd ref="581450134"/>
+    <nd ref="581450132"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Burdett Street"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="45607697" version="1" timestamp="2009-12-05T03:24:12Z" uid="7617" user="Franc" changeset="3293055">
+    <nd ref="70037304"/>
+    <nd ref="581450141"/>
+    <nd ref="581450138"/>
+    <nd ref="70037307"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Burdett Street"/>
+  </way>
+  <way id="45607963" version="2" timestamp="2010-04-07T14:07:26Z" uid="20587" user="balrog-kun" changeset="4353646">
+    <nd ref="82112336"/>
+    <nd ref="81589503"/>
+    <nd ref="82238661"/>
+    <nd ref="82238659"/>
+    <nd ref="82238657"/>
+    <nd ref="82238655"/>
+    <nd ref="82238653"/>
+    <nd ref="82238652"/>
+    <nd ref="82238651"/>
+    <nd ref="82112241"/>
+    <nd ref="82238650"/>
+    <nd ref="82238649"/>
+    <nd ref="82238648"/>
+    <nd ref="82238646"/>
+    <nd ref="81755364"/>
+    <nd ref="81755304"/>
+    <nd ref="82238644"/>
+    <nd ref="82238642"/>
+    <nd ref="82238640"/>
+    <nd ref="82238638"/>
+    <nd ref="82238636"/>
+    <nd ref="82238634"/>
+    <nd ref="290279992"/>
+    <nd ref="82238631"/>
+    <nd ref="82238630"/>
+    <nd ref="82238629"/>
+    <nd ref="82238628"/>
+    <nd ref="82238626"/>
+    <nd ref="82238624"/>
+    <nd ref="82238622"/>
+    <nd ref="81857462"/>
+    <nd ref="82057063"/>
+    <nd ref="81723439"/>
+    <nd ref="82221448"/>
+    <nd ref="82119155"/>
+    <nd ref="82238620"/>
+    <nd ref="82208706"/>
+    <nd ref="82238618"/>
+    <nd ref="82238616"/>
+    <nd ref="82238614"/>
+    <nd ref="82238612"/>
+    <nd ref="82238610"/>
+    <nd ref="82238608"/>
+    <nd ref="82238604"/>
+    <nd ref="81721495"/>
+    <nd ref="81720898"/>
+    <nd ref="82238602"/>
+    <nd ref="82238600"/>
+    <nd ref="82238598"/>
+    <nd ref="82238596"/>
+    <nd ref="82238594"/>
+    <nd ref="81842646"/>
+    <nd ref="81645264"/>
+    <nd ref="82238592"/>
+    <nd ref="82238591"/>
+    <nd ref="81665465"/>
+    <nd ref="81663653"/>
+    <nd ref="82238590"/>
+    <nd ref="81632858"/>
+    <nd ref="81933955"/>
+    <nd ref="82238589"/>
+    <nd ref="81644421"/>
+    <nd ref="82238587"/>
+    <nd ref="82238585"/>
+    <nd ref="82238583"/>
+    <nd ref="82238581"/>
+    <nd ref="82238578"/>
+    <nd ref="82238576"/>
+    <nd ref="82238575"/>
+    <nd ref="82238574"/>
+    <nd ref="82238572"/>
+    <nd ref="82238570"/>
+    <nd ref="82238568"/>
+    <nd ref="82238566"/>
+    <nd ref="82238564"/>
+    <nd ref="82238562"/>
+    <nd ref="82238561"/>
+    <nd ref="82238560"/>
+    <nd ref="82238559"/>
+    <nd ref="81914648"/>
+    <nd ref="82238558"/>
+    <nd ref="81853877"/>
+    <nd ref="82238556"/>
+    <nd ref="82238554"/>
+    <nd ref="81569152"/>
+    <nd ref="81578391"/>
+    <nd ref="81604333"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="East Northwest Hwy; State Loop 12"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="TX Loop 12"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Northwest"/>
+    <tag k="tiger:name_base_1" v="State Highway 244"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="Hwy"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102969372:103203894:103203895:102922259:102922189:102969365:102921974:103175730:103203876:103203877:102983166:102983146:102983147:102970783:103203698:103203699:102918038:102918040:102918053:102918067:102918071:103237604:103237727:103237728:103203750:10320"/>
+    <tag k="tiger:zip_left" v="75238"/>
+    <tag k="tiger:zip_right" v="75238"/>
+  </way>
+  <way id="45607963" version="3" timestamp="2010-04-09T16:19:07Z" uid="37392" user="25or6to4" changeset="4374580">
+    <nd ref="82112336"/>
+    <nd ref="81589503"/>
+    <nd ref="82238661"/>
+    <nd ref="82238659"/>
+    <nd ref="82238657"/>
+    <nd ref="82238655"/>
+    <nd ref="82238653"/>
+    <nd ref="82238652"/>
+    <nd ref="82238651"/>
+    <nd ref="82112241"/>
+    <nd ref="82238650"/>
+    <nd ref="82238649"/>
+    <nd ref="82238648"/>
+    <nd ref="82238646"/>
+    <nd ref="81755364"/>
+    <nd ref="81755304"/>
+    <nd ref="82238644"/>
+    <nd ref="82238642"/>
+    <nd ref="82238640"/>
+    <nd ref="82238638"/>
+    <nd ref="82238636"/>
+    <nd ref="82238634"/>
+    <nd ref="290279992"/>
+    <nd ref="82238631"/>
+    <nd ref="82238630"/>
+    <nd ref="82238629"/>
+    <nd ref="82238628"/>
+    <nd ref="82238626"/>
+    <nd ref="82238624"/>
+    <nd ref="82238622"/>
+    <nd ref="81857462"/>
+    <nd ref="82057063"/>
+    <nd ref="81723439"/>
+    <nd ref="82221448"/>
+    <nd ref="82119155"/>
+    <nd ref="82238620"/>
+    <nd ref="82208706"/>
+    <nd ref="82238618"/>
+    <nd ref="82238616"/>
+    <nd ref="82238614"/>
+    <nd ref="82238612"/>
+    <nd ref="82238610"/>
+    <nd ref="82238608"/>
+    <nd ref="82238604"/>
+    <nd ref="81721495"/>
+    <nd ref="81720898"/>
+    <nd ref="82238602"/>
+    <nd ref="82238600"/>
+    <nd ref="82238598"/>
+    <nd ref="82238596"/>
+    <nd ref="82238594"/>
+    <nd ref="81842646"/>
+    <nd ref="81645264"/>
+    <nd ref="82238592"/>
+    <nd ref="82238591"/>
+    <nd ref="81665465"/>
+    <nd ref="81663653"/>
+    <nd ref="82238590"/>
+    <nd ref="81632858"/>
+    <nd ref="81933955"/>
+    <nd ref="82238589"/>
+    <nd ref="81644421"/>
+    <nd ref="82238587"/>
+    <nd ref="82238585"/>
+    <nd ref="82238583"/>
+    <nd ref="82238581"/>
+    <nd ref="82238578"/>
+    <nd ref="82238576"/>
+    <nd ref="82238575"/>
+    <nd ref="82238574"/>
+    <nd ref="82238572"/>
+    <nd ref="82238570"/>
+    <nd ref="82238568"/>
+    <nd ref="82238566"/>
+    <nd ref="82238564"/>
+    <nd ref="82238562"/>
+    <nd ref="82238561"/>
+    <nd ref="82238560"/>
+    <nd ref="82238559"/>
+    <nd ref="81914648"/>
+    <nd ref="82238558"/>
+    <nd ref="81853877"/>
+    <nd ref="82238556"/>
+    <nd ref="82238554"/>
+    <nd ref="81569152"/>
+    <nd ref="81578391"/>
+    <nd ref="81604333"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="East Northwest Hwy; State Loop 12"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="Loop 12"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Northwest"/>
+    <tag k="tiger:name_base_1" v="State Highway 244"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="Hwy"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102969372:103203894:103203895:102922259:102922189:102969365:102921974:103175730:103203876:103203877:102983166:102983146:102983147:102970783:103203698:103203699:102918038:102918040:102918053:102918067:102918071:103237604:103237727:103237728:103203750:10320"/>
+    <tag k="tiger:zip_left" v="75238"/>
+    <tag k="tiger:zip_right" v="75238"/>
+  </way>
+  <way id="45607963" version="4" timestamp="2010-05-13T08:47:34Z" uid="175600" user="grossing" changeset="4683251">
+    <nd ref="82112336"/>
+    <nd ref="81589503"/>
+    <nd ref="82238661"/>
+    <nd ref="82238659"/>
+    <nd ref="82238657"/>
+    <nd ref="82238655"/>
+    <nd ref="82238653"/>
+    <nd ref="82238652"/>
+    <nd ref="82238651"/>
+    <nd ref="82112241"/>
+    <nd ref="82238650"/>
+    <nd ref="82238649"/>
+    <nd ref="82238648"/>
+    <nd ref="82238646"/>
+    <nd ref="81755364"/>
+    <nd ref="81755304"/>
+    <nd ref="82238644"/>
+    <nd ref="82238642"/>
+    <nd ref="82238640"/>
+    <nd ref="82238638"/>
+    <nd ref="82238636"/>
+    <nd ref="82238634"/>
+    <nd ref="290279992"/>
+    <nd ref="82238631"/>
+    <nd ref="82238630"/>
+    <nd ref="82238629"/>
+    <nd ref="82238628"/>
+    <nd ref="82238626"/>
+    <nd ref="82238624"/>
+    <nd ref="82238622"/>
+    <nd ref="81857462"/>
+    <nd ref="82057063"/>
+    <nd ref="81723439"/>
+    <nd ref="82221448"/>
+    <nd ref="82119155"/>
+    <nd ref="82238620"/>
+    <nd ref="82208706"/>
+    <nd ref="82238618"/>
+    <nd ref="82238616"/>
+    <nd ref="82238614"/>
+    <nd ref="82238612"/>
+    <nd ref="82238610"/>
+    <nd ref="82238608"/>
+    <nd ref="82238604"/>
+    <nd ref="81721495"/>
+    <nd ref="81720898"/>
+    <nd ref="82238602"/>
+    <nd ref="82238600"/>
+    <nd ref="82238598"/>
+    <nd ref="82238596"/>
+    <nd ref="82238594"/>
+    <nd ref="81842646"/>
+    <nd ref="81645264"/>
+    <nd ref="82238592"/>
+    <nd ref="82238591"/>
+    <nd ref="81665465"/>
+    <nd ref="81663653"/>
+    <nd ref="82238590"/>
+    <nd ref="81632858"/>
+    <nd ref="81933955"/>
+    <nd ref="82238589"/>
+    <nd ref="81644421"/>
+    <nd ref="82238587"/>
+    <nd ref="82238585"/>
+    <nd ref="82238583"/>
+    <nd ref="82238581"/>
+    <nd ref="82238578"/>
+    <nd ref="82238576"/>
+    <nd ref="82238575"/>
+    <nd ref="82238574"/>
+    <nd ref="82238572"/>
+    <nd ref="82238570"/>
+    <nd ref="82238568"/>
+    <nd ref="82238566"/>
+    <nd ref="82238564"/>
+    <nd ref="82238562"/>
+    <nd ref="82238561"/>
+    <nd ref="82238560"/>
+    <nd ref="82238559"/>
+    <nd ref="81914648"/>
+    <nd ref="82238558"/>
+    <nd ref="81853877"/>
+    <nd ref="82238556"/>
+    <nd ref="82182575"/>
+    <nd ref="81569152"/>
+    <nd ref="81578391"/>
+    <nd ref="81604333"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="East Northwest Hwy; State Loop 12"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="Loop 12"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Northwest"/>
+    <tag k="tiger:name_base_1" v="State Highway 244"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="Hwy"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102969372:103203894:103203895:102922259:102922189:102969365:102921974:103175730:103203876:103203877:102983166:102983146:102983147:102970783:103203698:103203699:102918038:102918040:102918053:102918067:102918071:103237604:103237727:103237728:103203750:10320"/>
+    <tag k="tiger:zip_left" v="75238"/>
+    <tag k="tiger:zip_right" v="75238"/>
+  </way>
+  <way id="45607963" version="5" timestamp="2010-12-20T21:52:48Z" uid="207745" user="NE2" changeset="6720615">
+    <nd ref="82112336"/>
+    <nd ref="81589503"/>
+    <nd ref="82238661"/>
+    <nd ref="82238659"/>
+    <nd ref="82238657"/>
+    <nd ref="82238655"/>
+    <nd ref="82238653"/>
+    <nd ref="82238652"/>
+    <nd ref="82238651"/>
+    <nd ref="82112241"/>
+    <nd ref="82238650"/>
+    <nd ref="82238649"/>
+    <nd ref="82238648"/>
+    <nd ref="82238646"/>
+    <nd ref="81755364"/>
+    <nd ref="81755304"/>
+    <nd ref="82238644"/>
+    <nd ref="82238642"/>
+    <nd ref="82238640"/>
+    <nd ref="82238638"/>
+    <nd ref="82238636"/>
+    <nd ref="82238634"/>
+    <nd ref="290279992"/>
+    <nd ref="82238631"/>
+    <nd ref="82238630"/>
+    <nd ref="82238629"/>
+    <nd ref="82238628"/>
+    <nd ref="82238626"/>
+    <nd ref="82238624"/>
+    <nd ref="82238622"/>
+    <nd ref="81857462"/>
+    <nd ref="82057063"/>
+    <nd ref="81723439"/>
+    <nd ref="82221448"/>
+    <nd ref="82119155"/>
+    <nd ref="82238620"/>
+    <nd ref="82208706"/>
+    <nd ref="82238618"/>
+    <nd ref="82238616"/>
+    <nd ref="82238614"/>
+    <nd ref="82238612"/>
+    <nd ref="82238610"/>
+    <nd ref="82238608"/>
+    <nd ref="82238604"/>
+    <nd ref="81721495"/>
+    <nd ref="81720898"/>
+    <nd ref="82238602"/>
+    <nd ref="82238600"/>
+    <nd ref="82238598"/>
+    <nd ref="82238596"/>
+    <nd ref="82238594"/>
+    <nd ref="81842646"/>
+    <nd ref="81645264"/>
+    <nd ref="82238592"/>
+    <nd ref="82238591"/>
+    <nd ref="81665465"/>
+    <nd ref="81663653"/>
+    <nd ref="82238590"/>
+    <nd ref="81632858"/>
+    <nd ref="81933955"/>
+    <nd ref="82238589"/>
+    <nd ref="81644421"/>
+    <nd ref="82238587"/>
+    <nd ref="82238585"/>
+    <nd ref="82238583"/>
+    <nd ref="82238581"/>
+    <nd ref="82238578"/>
+    <nd ref="82238576"/>
+    <nd ref="82238575"/>
+    <nd ref="82238574"/>
+    <nd ref="82238572"/>
+    <nd ref="82238570"/>
+    <nd ref="82238568"/>
+    <nd ref="82238566"/>
+    <nd ref="82238564"/>
+    <nd ref="82238562"/>
+    <nd ref="82238561"/>
+    <nd ref="82238560"/>
+    <nd ref="82238559"/>
+    <nd ref="81914648"/>
+    <nd ref="82238558"/>
+    <nd ref="81853877"/>
+    <nd ref="82238556"/>
+    <nd ref="82182575"/>
+    <nd ref="81569152"/>
+    <nd ref="81578391"/>
+    <nd ref="81604333"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="East Northwest Hwy"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="Loop 12"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Northwest"/>
+    <tag k="tiger:name_base_1" v="State Highway 244"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="Hwy"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102969372:103203894:103203895:102922259:102922189:102969365:102921974:103175730:103203876:103203877:102983166:102983146:102983147:102970783:103203698:103203699:102918038:102918040:102918053:102918067:102918071:103237604:103237727:103237728:103203750:10320"/>
+    <tag k="tiger:zip_left" v="75238"/>
+    <tag k="tiger:zip_right" v="75238"/>
+  </way>
+  <way id="45607963" version="6" timestamp="2010-12-22T11:43:26Z" uid="207745" user="NE2" changeset="6734550">
+    <nd ref="82112336"/>
+    <nd ref="81589503"/>
+    <nd ref="82238661"/>
+    <nd ref="82238659"/>
+    <nd ref="82238657"/>
+    <nd ref="82238655"/>
+    <nd ref="82238653"/>
+    <nd ref="82238652"/>
+    <nd ref="82238651"/>
+    <nd ref="82112241"/>
+    <nd ref="82238650"/>
+    <nd ref="82238649"/>
+    <nd ref="82238648"/>
+    <nd ref="82238646"/>
+    <nd ref="81755364"/>
+    <nd ref="81755304"/>
+    <nd ref="82238644"/>
+    <nd ref="82238642"/>
+    <nd ref="82238640"/>
+    <nd ref="82238638"/>
+    <nd ref="82238636"/>
+    <nd ref="82238634"/>
+    <nd ref="290279992"/>
+    <nd ref="82238631"/>
+    <nd ref="82238630"/>
+    <nd ref="82238629"/>
+    <nd ref="82238628"/>
+    <nd ref="82238626"/>
+    <nd ref="82238624"/>
+    <nd ref="82238622"/>
+    <nd ref="81857462"/>
+    <nd ref="82057063"/>
+    <nd ref="81723439"/>
+    <nd ref="82221448"/>
+    <nd ref="82119155"/>
+    <nd ref="82238620"/>
+    <nd ref="82208706"/>
+    <nd ref="82238618"/>
+    <nd ref="82238616"/>
+    <nd ref="82238614"/>
+    <nd ref="82238612"/>
+    <nd ref="82238610"/>
+    <nd ref="82238608"/>
+    <nd ref="82238604"/>
+    <nd ref="81721495"/>
+    <nd ref="81720898"/>
+    <nd ref="82238602"/>
+    <nd ref="82238600"/>
+    <nd ref="82238598"/>
+    <nd ref="82238596"/>
+    <nd ref="82238594"/>
+    <nd ref="81842646"/>
+    <nd ref="81645264"/>
+    <nd ref="82238592"/>
+    <nd ref="82238591"/>
+    <nd ref="81665465"/>
+    <nd ref="81663653"/>
+    <nd ref="82238590"/>
+    <nd ref="81632858"/>
+    <nd ref="81933955"/>
+    <nd ref="82238589"/>
+    <nd ref="81644421"/>
+    <nd ref="82238587"/>
+    <nd ref="82238585"/>
+    <nd ref="82238583"/>
+    <nd ref="82238581"/>
+    <nd ref="82238578"/>
+    <nd ref="82238576"/>
+    <nd ref="82238575"/>
+    <nd ref="82238574"/>
+    <nd ref="82238572"/>
+    <nd ref="82238570"/>
+    <nd ref="82238568"/>
+    <nd ref="82238566"/>
+    <nd ref="82238564"/>
+    <nd ref="82238562"/>
+    <nd ref="82238561"/>
+    <nd ref="82238560"/>
+    <nd ref="82238559"/>
+    <nd ref="81914648"/>
+    <nd ref="82238558"/>
+    <nd ref="81853877"/>
+    <nd ref="82238556"/>
+    <nd ref="82182575"/>
+    <nd ref="81569152"/>
+    <nd ref="81578391"/>
+    <nd ref="81604333"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="East Northwest Hwy"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="Loop 12"/>
+    <tag k="source:hgv" v="Dallas City Code section 28-71"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Northwest"/>
+    <tag k="tiger:name_base_1" v="State Highway 244"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="Hwy"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102969372:103203894:103203895:102922259:102922189:102969365:102921974:103175730:103203876:103203877:102983166:102983146:102983147:102970783:103203698:103203699:102918038:102918040:102918053:102918067:102918071:103237604:103237727:103237728:103203750:10320"/>
+    <tag k="tiger:zip_left" v="75238"/>
+    <tag k="tiger:zip_right" v="75238"/>
+  </way>
+  <way id="45607963" version="7" timestamp="2011-01-21T00:43:33Z" uid="377053" user="Richard Masoner" changeset="7036362">
+    <nd ref="82112336"/>
+    <nd ref="81589503"/>
+    <nd ref="82238661"/>
+    <nd ref="82238659"/>
+    <nd ref="82238657"/>
+    <nd ref="82238655"/>
+    <nd ref="82238653"/>
+    <nd ref="82238652"/>
+    <nd ref="82238651"/>
+    <nd ref="82112241"/>
+    <nd ref="82238650"/>
+    <nd ref="82238649"/>
+    <nd ref="82238648"/>
+    <nd ref="82238646"/>
+    <nd ref="1112475640"/>
+    <nd ref="81755364"/>
+    <nd ref="81755304"/>
+    <nd ref="82238644"/>
+    <nd ref="82238642"/>
+    <nd ref="82238640"/>
+    <nd ref="82238638"/>
+    <nd ref="82238636"/>
+    <nd ref="82238634"/>
+    <nd ref="290279992"/>
+    <nd ref="82238631"/>
+    <nd ref="82238630"/>
+    <nd ref="82238629"/>
+    <nd ref="82238628"/>
+    <nd ref="82238626"/>
+    <nd ref="82238624"/>
+    <nd ref="82238622"/>
+    <nd ref="81857462"/>
+    <nd ref="82057063"/>
+    <nd ref="81723439"/>
+    <nd ref="82221448"/>
+    <nd ref="82119155"/>
+    <nd ref="82238620"/>
+    <nd ref="82208706"/>
+    <nd ref="82238618"/>
+    <nd ref="82238616"/>
+    <nd ref="82238614"/>
+    <nd ref="82238612"/>
+    <nd ref="82238610"/>
+    <nd ref="82238608"/>
+    <nd ref="82238604"/>
+    <nd ref="81721495"/>
+    <nd ref="81720898"/>
+    <nd ref="82238602"/>
+    <nd ref="82238600"/>
+    <nd ref="82238598"/>
+    <nd ref="82238596"/>
+    <nd ref="82238594"/>
+    <nd ref="81842646"/>
+    <nd ref="81645264"/>
+    <nd ref="82238592"/>
+    <nd ref="82238591"/>
+    <nd ref="81665465"/>
+    <nd ref="81663653"/>
+    <nd ref="82238590"/>
+    <nd ref="81632858"/>
+    <nd ref="81933955"/>
+    <nd ref="82238589"/>
+    <nd ref="81644421"/>
+    <nd ref="82238587"/>
+    <nd ref="82238585"/>
+    <nd ref="82238583"/>
+    <nd ref="82238581"/>
+    <nd ref="82238578"/>
+    <nd ref="82238576"/>
+    <nd ref="82238575"/>
+    <nd ref="82238574"/>
+    <nd ref="82238572"/>
+    <nd ref="82238570"/>
+    <nd ref="82238568"/>
+    <nd ref="82238566"/>
+    <nd ref="82238564"/>
+    <nd ref="82238562"/>
+    <nd ref="82238561"/>
+    <nd ref="82238560"/>
+    <nd ref="82238559"/>
+    <nd ref="81914648"/>
+    <nd ref="82238558"/>
+    <nd ref="81853877"/>
+    <nd ref="82238556"/>
+    <nd ref="82182575"/>
+    <nd ref="81569152"/>
+    <nd ref="81578391"/>
+    <nd ref="81604333"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="East Northwest Hwy"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="Loop 12"/>
+    <tag k="source:hgv" v="Dallas City Code section 28-71"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Northwest"/>
+    <tag k="tiger:name_base_1" v="State Highway 244"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="Hwy"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102969372:103203894:103203895:102922259:102922189:102969365:102921974:103175730:103203876:103203877:102983166:102983146:102983147:102970783:103203698:103203699:102918038:102918040:102918053:102918067:102918071:103237604:103237727:103237728:103203750:10320"/>
+    <tag k="tiger:zip_left" v="75238"/>
+    <tag k="tiger:zip_right" v="75238"/>
+  </way>
+  <way id="45607963" version="8" timestamp="2012-01-06T06:28:15Z" uid="207745" user="NE2" changeset="10308176">
+    <nd ref="82112336"/>
+    <nd ref="81589503"/>
+    <nd ref="82238661"/>
+    <nd ref="82238659"/>
+    <nd ref="82238657"/>
+    <nd ref="82238655"/>
+    <nd ref="82238653"/>
+    <nd ref="82238652"/>
+    <nd ref="82238651"/>
+    <nd ref="82112241"/>
+    <nd ref="82238650"/>
+    <nd ref="82238649"/>
+    <nd ref="82238648"/>
+    <nd ref="82238646"/>
+    <nd ref="1112475640"/>
+    <nd ref="81755364"/>
+    <nd ref="81755304"/>
+    <nd ref="82238644"/>
+    <nd ref="82238642"/>
+    <nd ref="82238640"/>
+    <nd ref="82238638"/>
+    <nd ref="82238636"/>
+    <nd ref="82238634"/>
+    <nd ref="290279992"/>
+    <nd ref="82238631"/>
+    <nd ref="82238630"/>
+    <nd ref="82238629"/>
+    <nd ref="82238628"/>
+    <nd ref="82238626"/>
+    <nd ref="82238624"/>
+    <nd ref="82238622"/>
+    <nd ref="81857462"/>
+    <nd ref="82057063"/>
+    <nd ref="81723439"/>
+    <nd ref="82221448"/>
+    <nd ref="82119155"/>
+    <nd ref="82238620"/>
+    <nd ref="82208706"/>
+    <nd ref="82238618"/>
+    <nd ref="82238616"/>
+    <nd ref="82238614"/>
+    <nd ref="82238612"/>
+    <nd ref="82238610"/>
+    <nd ref="82238608"/>
+    <nd ref="82238604"/>
+    <nd ref="81721495"/>
+    <nd ref="81720898"/>
+    <nd ref="82238602"/>
+    <nd ref="82238600"/>
+    <nd ref="82238598"/>
+    <nd ref="82238596"/>
+    <nd ref="82238594"/>
+    <nd ref="81842646"/>
+    <nd ref="81645264"/>
+    <nd ref="82238592"/>
+    <nd ref="82238591"/>
+    <nd ref="81665465"/>
+    <nd ref="81663653"/>
+    <nd ref="82238590"/>
+    <nd ref="81632858"/>
+    <nd ref="81933955"/>
+    <nd ref="82238589"/>
+    <nd ref="81644421"/>
+    <nd ref="82238587"/>
+    <nd ref="82238585"/>
+    <nd ref="82238583"/>
+    <nd ref="82238581"/>
+    <nd ref="82238578"/>
+    <nd ref="82238576"/>
+    <nd ref="82238575"/>
+    <nd ref="82238574"/>
+    <nd ref="82238572"/>
+    <nd ref="82238570"/>
+    <nd ref="82238568"/>
+    <nd ref="82238566"/>
+    <nd ref="82238564"/>
+    <nd ref="82238562"/>
+    <nd ref="82238561"/>
+    <nd ref="82238560"/>
+    <nd ref="82238559"/>
+    <nd ref="81914648"/>
+    <nd ref="82238558"/>
+    <nd ref="81853877"/>
+    <nd ref="82238556"/>
+    <nd ref="82182575"/>
+    <nd ref="81569152"/>
+    <nd ref="81578391"/>
+    <nd ref="81604333"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="East Northwest Hwy"/>
+    <tag k="old_ref" v="SH 114"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="Loop 12"/>
+    <tag k="source:hgv" v="Dallas City Code section 28-71"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Northwest"/>
+    <tag k="tiger:name_base_1" v="State Highway 244"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="Hwy"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102969372:103203894:103203895:102922259:102922189:102969365:102921974:103175730:103203876:103203877:102983166:102983146:102983147:102970783:103203698:103203699:102918038:102918040:102918053:102918067:102918071:103237604:103237727:103237728:103203750:10320"/>
+    <tag k="tiger:zip_left" v="75238"/>
+    <tag k="tiger:zip_right" v="75238"/>
+  </way>
+  <way id="45607963" version="9" timestamp="2012-01-09T00:44:50Z" uid="207745" user="NE2" changeset="10338299">
+    <nd ref="82112336"/>
+    <nd ref="81589503"/>
+    <nd ref="82238661"/>
+    <nd ref="82238659"/>
+    <nd ref="82238657"/>
+    <nd ref="82238655"/>
+    <nd ref="82238653"/>
+    <nd ref="82238652"/>
+    <nd ref="82238651"/>
+    <nd ref="82112241"/>
+    <nd ref="82238650"/>
+    <nd ref="82238649"/>
+    <nd ref="82238648"/>
+    <nd ref="82238646"/>
+    <nd ref="1112475640"/>
+    <nd ref="81755364"/>
+    <nd ref="81755304"/>
+    <nd ref="82238644"/>
+    <nd ref="82238642"/>
+    <nd ref="82238640"/>
+    <nd ref="82238638"/>
+    <nd ref="82238636"/>
+    <nd ref="82238634"/>
+    <nd ref="290279992"/>
+    <nd ref="82238631"/>
+    <nd ref="82238630"/>
+    <nd ref="82238629"/>
+    <nd ref="82238628"/>
+    <nd ref="82238626"/>
+    <nd ref="82238624"/>
+    <nd ref="82238622"/>
+    <nd ref="81857462"/>
+    <nd ref="82057063"/>
+    <nd ref="81723439"/>
+    <nd ref="82221448"/>
+    <nd ref="82119155"/>
+    <nd ref="82238620"/>
+    <nd ref="82208706"/>
+    <nd ref="82238618"/>
+    <nd ref="82238616"/>
+    <nd ref="82238614"/>
+    <nd ref="82238612"/>
+    <nd ref="82238610"/>
+    <nd ref="82238608"/>
+    <nd ref="82238604"/>
+    <nd ref="81721495"/>
+    <nd ref="81720898"/>
+    <nd ref="82238602"/>
+    <nd ref="82238600"/>
+    <nd ref="82238598"/>
+    <nd ref="82238596"/>
+    <nd ref="82238594"/>
+    <nd ref="81842646"/>
+    <nd ref="81645264"/>
+    <nd ref="82238592"/>
+    <nd ref="82238591"/>
+    <nd ref="81665465"/>
+    <nd ref="81663653"/>
+    <nd ref="82238590"/>
+    <nd ref="81632858"/>
+    <nd ref="81933955"/>
+    <nd ref="82238589"/>
+    <nd ref="81644421"/>
+    <nd ref="82238587"/>
+    <nd ref="82238585"/>
+    <nd ref="82238583"/>
+    <nd ref="82238581"/>
+    <nd ref="82238578"/>
+    <nd ref="82238576"/>
+    <nd ref="82238575"/>
+    <nd ref="82238574"/>
+    <nd ref="82238572"/>
+    <nd ref="82238570"/>
+    <nd ref="82238568"/>
+    <nd ref="82238566"/>
+    <nd ref="82238564"/>
+    <nd ref="82238562"/>
+    <nd ref="82238561"/>
+    <nd ref="82238560"/>
+    <nd ref="82238559"/>
+    <nd ref="81914648"/>
+    <nd ref="82238558"/>
+    <nd ref="81853877"/>
+    <nd ref="82238556"/>
+    <nd ref="82182575"/>
+    <nd ref="81569152"/>
+    <nd ref="81578391"/>
+    <nd ref="81604333"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="East Northwest Hwy"/>
+    <tag k="old_ref" v="SH 78 (old SH 114)"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="Loop 12"/>
+    <tag k="source:hgv" v="Dallas City Code section 28-71"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Northwest"/>
+    <tag k="tiger:name_base_1" v="State Highway 244"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="Hwy"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102969372:103203894:103203895:102922259:102922189:102969365:102921974:103175730:103203876:103203877:102983166:102983146:102983147:102970783:103203698:103203699:102918038:102918040:102918053:102918067:102918071:103237604:103237727:103237728:103203750:10320"/>
+    <tag k="tiger:zip_left" v="75238"/>
+    <tag k="tiger:zip_right" v="75238"/>
+  </way>
+  <way id="45607964" version="2" timestamp="2010-04-07T14:07:29Z" uid="20587" user="balrog-kun" changeset="4353646">
+    <nd ref="82238206"/>
+    <nd ref="82238286"/>
+    <nd ref="82238288"/>
+    <nd ref="82238290"/>
+    <nd ref="82127046"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="East Northwest Highway"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Northwest"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="Hwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102929818:103204052:103204053"/>
+  </way>
+  <way id="45607964" version="3" timestamp="2010-12-22T11:48:02Z" uid="207745" user="NE2" changeset="6734550">
+    <nd ref="82127046"/>
+    <nd ref="82238290"/>
+    <nd ref="82238288"/>
+    <nd ref="82238286"/>
+    <nd ref="82238206"/>
+    <tag k="highway" v="primary_link"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Northwest"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="Hwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102929818:103204052:103204053"/>
+  </way>
+</osm>

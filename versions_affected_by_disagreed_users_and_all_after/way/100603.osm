@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="100603072" version="3" timestamp="2011-03-19T17:43:02Z" uid="6269" user="Mueck" changeset="7607682">
+    <nd ref="1163061602"/>
+    <nd ref="1177018470"/>
+    <nd ref="1163061804"/>
+    <nd ref="1163061834"/>
+    <nd ref="1163061450"/>
+    <nd ref="1163061736"/>
+    <nd ref="1163061573"/>
+    <nd ref="1209235729"/>
+    <nd ref="489456969"/>
+    <nd ref="18302903"/>
+    <nd ref="988572323"/>
+    <tag k="highway" v="primary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Karlsruher Straße"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="B 3;B 36"/>
+  </way>
+  <way id="100603072" version="4" timestamp="2011-04-02T12:50:49Z" uid="165061" user="keinname" changeset="7743809">
+    <nd ref="1163061602"/>
+    <nd ref="1177018470"/>
+    <nd ref="1163061804"/>
+    <nd ref="1163061834"/>
+    <nd ref="1229167960"/>
+    <nd ref="1163061450"/>
+    <nd ref="1163061736"/>
+    <nd ref="1163061573"/>
+    <nd ref="1209235729"/>
+    <nd ref="489456969"/>
+    <nd ref="18302903"/>
+    <nd ref="988572323"/>
+    <tag k="highway" v="primary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Karlsruher Straße"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="B 3;B 36"/>
+  </way>
+  <way id="100603072" version="5" timestamp="2011-04-17T11:41:24Z" uid="40397" user="Zartbitter" changeset="7885618">
+    <nd ref="1163061602"/>
+    <nd ref="1177018470"/>
+    <nd ref="1163061804"/>
+    <nd ref="1163061834"/>
+    <nd ref="1229167960"/>
+    <nd ref="1163061450"/>
+    <tag k="highway" v="primary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Karlsruher Straße"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="B 3;B 36"/>
+  </way>
+  <way id="100603119" version="1" timestamp="2011-02-20T10:19:07Z" uid="4467" user="Rosscoe" changeset="7340329">
+    <nd ref="1163063666"/>
+    <nd ref="208520791"/>
+    <nd ref="208522100"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="100603120" version="1" timestamp="2011-02-20T10:19:08Z" uid="4467" user="Rosscoe" changeset="7340329">
+    <nd ref="1163063658"/>
+    <nd ref="1163063645"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="cycleway" v="lane"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="is_in" v="Morphettville,South Australia,Australia"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Oaklands Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="postal_code" v="5043"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="100603121" version="1" timestamp="2011-02-20T10:19:08Z" uid="4467" user="Rosscoe" changeset="7340329">
+    <nd ref="369631753"/>
+    <nd ref="369631761"/>
+  </way>
+  <way id="100603121" version="2" timestamp="2011-05-05T11:43:06Z" uid="21143" user="hryciuk" changeset="8056469">
+    <nd ref="369631753"/>
+    <nd ref="369631761"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+  </way>
+</osm>

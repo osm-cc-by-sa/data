@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="52044639" version="2" timestamp="2010-07-07T08:26:59Z" uid="74617" user="JohnSmith" changeset="5156250">
+    <nd ref="663427948"/>
+    <nd ref="655807796"/>
+    <nd ref="231182635"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Hollingsworth Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="52044639" version="3" timestamp="2012-01-20T03:36:15Z" uid="147510" user="woodpeck_fixbot" changeset="10442986">
+    <nd ref="663427948"/>
+    <nd ref="655807796"/>
+    <nd ref="231182635"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Hollingsworth Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="52044927" version="2" timestamp="2010-06-29T19:04:59Z" uid="74617" user="JohnSmith" changeset="5108182">
+    <nd ref="663429504"/>
+    <nd ref="663429505"/>
+    <nd ref="663429506"/>
+    <nd ref="663429507"/>
+    <nd ref="663429504"/>
+    <tag k="fixme" v="sport=football is ambiguous, see http://wiki.osm.org/wiki/Football for more details"/>
+    <tag k="sport" v="football"/>
+  </way>
+  <way id="52044927" version="3" timestamp="2011-10-23T14:15:21Z" uid="7203" user="ToffeHoff" changeset="9633325">
+    <nd ref="663429504"/>
+    <nd ref="663429505"/>
+    <nd ref="663429506"/>
+    <nd ref="663429507"/>
+    <nd ref="663429504"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="soccer"/>
+  </way>
+  <way id="52044928" version="2" timestamp="2010-06-29T19:16:08Z" uid="74617" user="JohnSmith" changeset="5108182">
+    <nd ref="663429509"/>
+    <nd ref="663429510"/>
+    <nd ref="663429511"/>
+    <nd ref="663429512"/>
+    <nd ref="663429509"/>
+    <tag k="fixme" v="sport=football is ambiguous, see http://wiki.osm.org/wiki/Football for more details"/>
+    <tag k="sport" v="football"/>
+  </way>
+  <way id="52044928" version="3" timestamp="2011-10-23T14:15:21Z" uid="7203" user="ToffeHoff" changeset="9633325">
+    <nd ref="663429509"/>
+    <nd ref="663429510"/>
+    <nd ref="663429511"/>
+    <nd ref="663429512"/>
+    <nd ref="663429509"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="soccer"/>
+  </way>
+</osm>

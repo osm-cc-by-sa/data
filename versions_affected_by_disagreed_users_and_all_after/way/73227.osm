@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="73227609" version="2" timestamp="2010-10-24T21:08:52Z" uid="23543" user="jkjk" changeset="6163418">
+    <nd ref="330442443"/>
+    <nd ref="31768210"/>
+    <nd ref="963940223"/>
+    <nd ref="256091077"/>
+    <nd ref="103041678"/>
+    <nd ref="29942520"/>
+    <nd ref="29942521"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Libušská"/>
+  </way>
+  <way id="73227616" version="2" timestamp="2011-01-03T00:04:39Z" uid="23543" user="jkjk" changeset="6845268">
+    <nd ref="353288987"/>
+    <nd ref="353288983"/>
+    <nd ref="1079907722"/>
+    <nd ref="1079907724"/>
+    <nd ref="353289000"/>
+    <tag k="highway" v="service"/>
+    <tag k="source" v="cuzk:km"/>
+  </way>
+  <way id="73227616" version="3" timestamp="2011-10-25T14:23:31Z" uid="516480" user="janstepanek" changeset="9652693">
+    <nd ref="353288987"/>
+    <nd ref="353288983"/>
+    <tag k="access" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="motor_vehicle" v="designated"/>
+    <tag k="source" v="cuzk:km"/>
+  </way>
+  <way id="73227616" version="4" timestamp="2011-12-18T00:15:35Z" uid="527259" user="Vratislav Filler" changeset="10143091">
+    <nd ref="353288987"/>
+    <nd ref="353288983"/>
+    <tag k="access" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="motor_vehicle" v="designated"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="cuzk:km"/>
+  </way>
+</osm>

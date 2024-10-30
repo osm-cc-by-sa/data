@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="48736150" version="2" timestamp="2010-07-08T04:55:12Z" uid="74617" user="JohnSmith" changeset="5163091">
+    <nd ref="618596133"/>
+    <nd ref="618596134"/>
+    <nd ref="618596135"/>
+    <nd ref="618596136"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="48736150" version="3" timestamp="2012-01-19T22:58:13Z" uid="147510" user="woodpeck_fixbot" changeset="10442006">
+    <nd ref="618596133"/>
+    <nd ref="618596134"/>
+    <nd ref="618596135"/>
+    <nd ref="618596136"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="48736176" version="2" timestamp="2010-02-07T07:20:56Z" uid="8619" user="cetest" changeset="3811286">
+    <nd ref="614307790"/>
+    <nd ref="618596582"/>
+    <nd ref="618596584"/>
+    <tag k="highway" v="path"/>
+    <tag k="source" v="GeoEye"/>
+  </way>
+</osm>

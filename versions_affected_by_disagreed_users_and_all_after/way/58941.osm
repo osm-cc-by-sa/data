@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="58941144" version="2" timestamp="2010-07-09T05:57:48Z" uid="74617" user="JohnSmith" changeset="5171128">
+    <nd ref="30066340"/>
+    <nd ref="730422967"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Joondalup Place"/>
+    <tag k="source" v="Dead reckoning"/>
+    <tag k="source:name" v="physical road sign"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="58941144" version="3" timestamp="2012-01-20T07:44:38Z" uid="147510" user="woodpeck_fixbot" changeset="10443754">
+    <nd ref="30066340"/>
+    <nd ref="730422967"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Joondalup Place"/>
+    <tag k="source" v="Dead reckoning"/>
+    <tag k="source:name" v="physical road sign"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="58941149" version="2" timestamp="2010-06-23T04:45:36Z" uid="4467" user="Rosscoe" changeset="5056189">
+    <nd ref="30066148"/>
+    <nd ref="730422948"/>
+    <nd ref="730422933"/>
+    <nd ref="730422951"/>
+    <nd ref="30066148"/>
+    <tag k="highway" v="residential"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="58941149" version="3" timestamp="2010-07-09T05:55:40Z" uid="74617" user="JohnSmith" changeset="5171128">
+    <nd ref="30066148"/>
+    <nd ref="730422948"/>
+    <nd ref="730422933"/>
+    <nd ref="730422951"/>
+    <nd ref="30066148"/>
+    <tag k="highway" v="residential"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="58941149" version="4" timestamp="2012-01-20T07:44:39Z" uid="147510" user="woodpeck_fixbot" changeset="10443754">
+    <nd ref="30066148"/>
+    <nd ref="730422948"/>
+    <nd ref="730422933"/>
+    <nd ref="730422951"/>
+    <nd ref="30066148"/>
+    <tag k="highway" v="residential"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="source" v="survey"/>
+  </way>
+</osm>

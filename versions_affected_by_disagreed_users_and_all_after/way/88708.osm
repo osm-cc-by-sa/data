@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="88708505" version="1" timestamp="2010-12-09T18:02:26Z" uid="7617" user="Franc" changeset="6597628">
+    <nd ref="1029807339"/>
+    <nd ref="1029807439"/>
+    <nd ref="1029807409"/>
+    <nd ref="1029807356"/>
+    <nd ref="1029807312"/>
+    <nd ref="1029807394"/>
+    <nd ref="1029807386"/>
+    <nd ref="1029807342"/>
+    <nd ref="1029807428"/>
+    <nd ref="1029807359"/>
+    <nd ref="1029807350"/>
+    <nd ref="1029807323"/>
+    <nd ref="1029807388"/>
+    <nd ref="1029807344"/>
+    <nd ref="1029807341"/>
+    <nd ref="1029807443"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="88708508" version="1" timestamp="2010-12-09T18:02:27Z" uid="7617" user="Franc" changeset="6597628">
+    <nd ref="1029807319"/>
+    <nd ref="1029807391"/>
+    <nd ref="1029807435"/>
+    <nd ref="32023327"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Main Road"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="88708508" version="2" timestamp="2011-05-31T10:30:28Z" uid="7617" user="Franc" changeset="8300126">
+    <nd ref="1029807319"/>
+    <nd ref="1029807391"/>
+    <nd ref="1306589180"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Main Road"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="nearmap"/>
+  </way>
+  <way id="88708510" version="1" timestamp="2010-12-09T18:02:28Z" uid="7617" user="Franc" changeset="6597628">
+    <nd ref="1029807404"/>
+    <nd ref="1029807319"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Main Road"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="88708510" version="2" timestamp="2011-05-31T10:30:24Z" uid="7617" user="Franc" changeset="8300126">
+    <nd ref="1029807404"/>
+    <nd ref="1029807319"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Main Road"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="nearmap"/>
+  </way>
+</osm>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="97908530" version="1" timestamp="2011-02-03T02:08:59Z" uid="4467" user="Rosscoe" changeset="7170514">
+    <nd ref="655432378"/>
+    <nd ref="655432379"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Gleeson Avenue"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="97908531" version="1" timestamp="2011-02-03T02:08:59Z" uid="4467" user="Rosscoe" changeset="7170514">
+    <nd ref="253087607"/>
+    <nd ref="1133219695"/>
+    <nd ref="655432378"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Gleeson Avenue"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="97908542" version="1" timestamp="2011-02-03T02:11:04Z" uid="4467" user="Rosscoe" changeset="7170518">
+    <nd ref="1133226892"/>
+    <nd ref="1133226901"/>
+    <nd ref="1133226911"/>
+    <nd ref="1133226898"/>
+    <nd ref="1133226903"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="97908542" version="2" timestamp="2011-12-21T03:42:49Z" uid="90768" user="Gyaos" changeset="10168642">
+    <nd ref="1133226892"/>
+    <nd ref="1133226901"/>
+    <nd ref="1133226911"/>
+    <nd ref="1133226898"/>
+    <nd ref="1133226903"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Vanilla Bend"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="97908543" version="1" timestamp="2011-02-03T02:11:04Z" uid="4467" user="Rosscoe" changeset="7170518">
+    <nd ref="1133226888"/>
+    <nd ref="1133226898"/>
+    <nd ref="1133226895"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="97908543" version="2" timestamp="2011-12-21T03:42:49Z" uid="90768" user="Gyaos" changeset="10168642">
+    <nd ref="1133226888"/>
+    <nd ref="1133226898"/>
+    <nd ref="1133226895"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Sandalwood Avenue"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+</osm>

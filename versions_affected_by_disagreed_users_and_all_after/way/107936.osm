@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="107936120" version="1" timestamp="2011-04-10T02:52:24Z" uid="4467" user="Rosscoe" changeset="7818953">
+    <nd ref="678596819"/>
+    <nd ref="678596831"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="107936121" version="1" timestamp="2011-04-10T02:52:24Z" uid="4467" user="Rosscoe" changeset="7818953">
+    <nd ref="1239440675"/>
+    <nd ref="1239440721"/>
+    <nd ref="1239440687"/>
+    <nd ref="1239440683"/>
+    <nd ref="1239440705"/>
+    <nd ref="678596819"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="107936831" version="1" timestamp="2011-04-10T03:43:27Z" uid="18775" user="drlizau" changeset="7819035">
+    <nd ref="1239448412"/>
+    <nd ref="1239448416"/>
+    <nd ref="1239448417"/>
+    <nd ref="1239448419"/>
+    <nd ref="1239448421"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Savige Road"/>
+    <tag k="source" v=""/>
+  </way>
+  <way id="107936831" version="2" timestamp="2011-04-10T17:42:13Z" uid="70696" user="xybot" changeset="7825361">
+    <nd ref="1239448412"/>
+    <nd ref="1239448416"/>
+    <nd ref="1239448417"/>
+    <nd ref="1239448419"/>
+    <nd ref="1239448421"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Savige Road"/>
+  </way>
+  <way id="107936831" version="3" timestamp="2012-01-08T02:34:03Z" uid="11111" user="melb_guy" changeset="10327785">
+    <nd ref="1239448412"/>
+    <nd ref="1582018637"/>
+    <nd ref="1239448416"/>
+    <nd ref="1239448417"/>
+    <nd ref="1239448419"/>
+    <nd ref="1239448421"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Savige Road"/>
+  </way>
+  <way id="107936832" version="1" timestamp="2011-04-10T03:43:27Z" uid="18775" user="drlizau" changeset="7819035">
+    <nd ref="1239448425"/>
+    <nd ref="1239448427"/>
+    <nd ref="1239448429"/>
+    <nd ref="1239448432"/>
+    <nd ref="1239448425"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Stanhope Primary School"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="107936832" version="2" timestamp="2012-01-08T02:34:03Z" uid="11111" user="melb_guy" changeset="10327785">
+    <nd ref="1239448425"/>
+    <nd ref="1239448427"/>
+    <nd ref="1582018605"/>
+    <nd ref="1582018617"/>
+    <nd ref="1239448429"/>
+    <nd ref="1582018688"/>
+    <nd ref="1239448432"/>
+    <nd ref="1582018531"/>
+    <nd ref="1239448425"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Stanhope Primary School"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+</osm>

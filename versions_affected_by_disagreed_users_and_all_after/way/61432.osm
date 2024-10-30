@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="61432092" version="5" timestamp="2010-07-25T13:58:17Z" uid="4467" user="Rosscoe" changeset="5312110">
+    <nd ref="766955505"/>
+    <nd ref="766955248"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Alex Evans Memorial Bridge"/>
+  </way>
+  <way id="61432092" version="6" timestamp="2011-12-19T04:54:43Z" uid="11111" user="melb_guy" changeset="10152861">
+    <nd ref="766955505"/>
+    <nd ref="766955248"/>
+    <tag k="alt_name" v="Macedon - Woodend Road"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="1"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="90"/>
+    <tag k="name" v="Black Forest Drive"/>
+    <tag k="name:bridge" v="Alex Evans Bridge"/>
+    <tag k="old_name" v="Calder Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="61432099" version="4" timestamp="2010-07-25T13:58:18Z" uid="4467" user="Rosscoe" changeset="5312110">
+    <nd ref="766955526"/>
+    <nd ref="97456360"/>
+    <nd ref="766955527"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Calder Freeway"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="61432099" version="5" timestamp="2011-12-19T09:08:18Z" uid="11111" user="melb_guy" changeset="10153629">
+    <nd ref="766955526"/>
+    <nd ref="766955527"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Calder Freeway"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="61432100" version="3" timestamp="2011-04-14T07:26:29Z" uid="4467" user="Rosscoe" changeset="7858208">
+    <nd ref="766955527"/>
+    <nd ref="766955640"/>
+    <nd ref="766955641"/>
+    <nd ref="97456356"/>
+    <nd ref="1244120778"/>
+    <nd ref="1244120773"/>
+    <nd ref="1244120777"/>
+    <nd ref="97456351"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="Calder Freeway"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="61432100" version="4" timestamp="2011-12-19T09:08:19Z" uid="11111" user="melb_guy" changeset="10153629">
+    <nd ref="766955527"/>
+    <nd ref="1553553036"/>
+    <nd ref="1553553040"/>
+    <nd ref="766955640"/>
+    <nd ref="1553552951"/>
+    <nd ref="766955641"/>
+    <nd ref="1553552985"/>
+    <nd ref="1553552976"/>
+    <nd ref="97456356"/>
+    <nd ref="1244120778"/>
+    <nd ref="1244120773"/>
+    <nd ref="1244120777"/>
+    <nd ref="97456351"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="Calder Freeway"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="61432677" version="2" timestamp="2010-07-09T05:56:50Z" uid="74617" user="JohnSmith" changeset="5171134">
+    <nd ref="761120235"/>
+    <nd ref="760816290"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Jeffrey Street"/>
+    <tag k="surface" v="gravel"/>
+  </way>
+  <way id="61432677" version="3" timestamp="2012-01-20T09:45:38Z" uid="147510" user="woodpeck_fixbot" changeset="10443754">
+    <nd ref="761120235"/>
+    <nd ref="760816290"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Jeffrey Street"/>
+    <tag k="surface" v="gravel"/>
+  </way>
+</osm>

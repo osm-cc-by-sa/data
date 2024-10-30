@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="62306145" version="1" timestamp="2010-06-20T17:33:03Z" uid="33382" user="de_muur" changeset="5035186">
+    <nd ref="778395874"/>
+    <nd ref="778395879"/>
+    <tag k="highway" v="service"/>
+    <tag k="service" v="parking_aisle"/>
+  </way>
+  <way id="62306146" version="1" timestamp="2010-06-20T17:33:03Z" uid="33382" user="de_muur" changeset="5035186">
+    <nd ref="778395870"/>
+    <nd ref="260042727"/>
+    <nd ref="668210465"/>
+    <nd ref="35146853"/>
+    <nd ref="331264076"/>
+    <nd ref="35146855"/>
+    <nd ref="331264067"/>
+    <nd ref="331264075"/>
+    <nd ref="35146857"/>
+    <nd ref="563852964"/>
+    <tag k="cycleway" v="track"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="70"/>
+    <tag k="name" v="Verdener Straße"/>
+    <tag k="ref" v="L 158"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="62306146" version="2" timestamp="2011-10-22T15:02:19Z" uid="42429" user="FK270673" changeset="9624843"/>
+  <way id="62306147" version="1" timestamp="2010-06-20T17:33:04Z" uid="33382" user="de_muur" changeset="5035186">
+    <nd ref="778395871"/>
+    <nd ref="778395881"/>
+    <nd ref="253651569"/>
+    <nd ref="260035036"/>
+    <nd ref="778395870"/>
+    <tag k="cycleway" v="track"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Verdener Straße"/>
+    <tag k="ref" v="L 158"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="62306147" version="2" timestamp="2011-10-22T15:02:20Z" uid="42429" user="FK270673" changeset="9624843"/>
+  <way id="62306209" version="1" timestamp="2010-06-20T17:35:18Z" uid="33382" user="de_muur" changeset="5035212">
+    <nd ref="778401634"/>
+    <nd ref="224661393"/>
+    <nd ref="224661390"/>
+    <tag k="cycleway" v="track"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Verdener Straße"/>
+    <tag k="postal_code" v="27299"/>
+    <tag k="ref" v="L 158"/>
+  </way>
+  <way id="62306706" version="3" timestamp="2010-08-04T17:45:22Z" uid="9581" user="Lobelt" changeset="5401263">
+    <nd ref="244332061"/>
+    <nd ref="778412392"/>
+    <nd ref="778412349"/>
+    <nd ref="778412407"/>
+    <nd ref="778412354"/>
+    <nd ref="778412381"/>
+    <tag k="cables" v="4"/>
+    <tag k="frequency" v="16.7"/>
+    <tag k="name" v="110 kV Bahnstrom Köln - Gerresheim 1|2"/>
+    <tag k="operator" v="DB_Energie"/>
+    <tag k="power" v="line"/>
+    <tag k="ref" v="Abzw. - Uw Langenfeld"/>
+    <tag k="source" v="survey"/>
+    <tag k="voltage" v="110000"/>
+    <tag k="wires" v="single"/>
+  </way>
+</osm>

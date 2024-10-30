@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="61316066" version="1" timestamp="2010-06-06T16:42:20Z" uid="6269" user="Mueck" changeset="4919602">
+    <nd ref="98050234"/>
+    <nd ref="98050235"/>
+    <nd ref="765904217"/>
+    <nd ref="765904369"/>
+    <tag k="highway" v="cycleway"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="61316066" version="2" timestamp="2010-06-06T16:42:33Z" uid="6269" user="Mueck" changeset="4919602">
+    <nd ref="98050234"/>
+    <nd ref="98050235"/>
+    <nd ref="765904217"/>
+    <nd ref="765904369"/>
+    <tag k="foot" v="no"/>
+    <tag k="highway" v="cycleway"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="61316066" version="3" timestamp="2010-06-06T16:43:11Z" uid="6269" user="Mueck" changeset="4919602">
+    <nd ref="98050234"/>
+    <nd ref="765912102"/>
+    <nd ref="98050235"/>
+    <nd ref="765904217"/>
+    <nd ref="765904369"/>
+    <tag k="foot" v="no"/>
+    <tag k="highway" v="cycleway"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="61316515" version="2" timestamp="2010-06-29T19:07:09Z" uid="74617" user="JohnSmith" changeset="5108182">
+    <nd ref="765915517"/>
+    <nd ref="765915374"/>
+    <nd ref="765915429"/>
+    <nd ref="765915501"/>
+    <nd ref="765915517"/>
+    <tag k="fixme" v="sport=football is ambiguous, see http://wiki.osm.org/wiki/Football for more details"/>
+    <tag k="sport" v="football"/>
+  </way>
+  <way id="61316515" version="3" timestamp="2012-01-31T16:03:08Z" uid="92286" user="Paul Johnson" changeset="10550617">
+    <nd ref="765915517"/>
+    <nd ref="765915374"/>
+    <nd ref="765915429"/>
+    <nd ref="765915501"/>
+    <nd ref="765915517"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="american_football"/>
+  </way>
+  <way id="61316914" version="1" timestamp="2010-06-06T17:00:54Z" uid="6269" user="Mueck" changeset="4919602">
+    <nd ref="15750562"/>
+    <nd ref="764569434"/>
+  </way>
+  <way id="61316914" version="2" timestamp="2010-06-07T09:27:27Z" uid="6269" user="Mueck" changeset="4926292">
+    <nd ref="15750562"/>
+    <nd ref="764569434"/>
+    <tag k="highway" v="path"/>
+    <tag k="smoothness" v="very_bad"/>
+    <tag k="surface" v="ground"/>
+    <tag k="tracktype" v="grade5"/>
+    <tag k="width" v="0.3"/>
+  </way>
+</osm>

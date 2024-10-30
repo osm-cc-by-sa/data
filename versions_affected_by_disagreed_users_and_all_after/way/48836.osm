@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="48836543" version="2" timestamp="2010-04-07T14:15:31Z" uid="20587" user="balrog-kun" changeset="4353646">
+    <nd ref="228825087"/>
+    <nd ref="228892356"/>
+    <nd ref="228901678"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="1st Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Trinity, TX"/>
+    <tag k="tiger:name_base" v="1st"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="24367797"/>
+    <tag k="tiger:zip_left" v="75845"/>
+    <tag k="tiger:zip_right" v="75845"/>
+  </way>
+  <way id="48836882" version="1" timestamp="2010-01-24T23:35:25Z" uid="8807" user="brendanpuck" changeset="3707432">
+    <nd ref="619543007"/>
+    <nd ref="619543008"/>
+    <nd ref="619543009"/>
+    <nd ref="619543010"/>
+    <nd ref="619543011"/>
+    <nd ref="619543012"/>
+    <nd ref="619543013"/>
+    <nd ref="619543007"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Mount Kuring-gai Public School"/>
+  </way>
+  <way id="48836883" version="1" timestamp="2010-01-24T23:35:26Z" uid="8807" user="brendanpuck" changeset="3707432">
+    <nd ref="619543014"/>
+    <nd ref="33476439"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="footway"/>
+    <tag k="layer" v="2"/>
+    <tag k="name" v="Footbridge"/>
+  </way>
+  <way id="48836883" version="2" timestamp="2010-02-12T03:35:09Z" uid="74617" user="JohnSmith" changeset="3853522">
+    <nd ref="619543014"/>
+    <nd ref="636348264"/>
+    <nd ref="33476439"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="footway"/>
+    <tag k="layer" v="2"/>
+    <tag k="name" v="Footbridge"/>
+  </way>
+  <way id="48836883" version="3" timestamp="2012-03-20T20:50:54Z" uid="104101" user="swanilli" changeset="11045492">
+    <nd ref="619543014"/>
+    <nd ref="636348264"/>
+    <nd ref="33476439"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="footway"/>
+    <tag k="layer" v="3"/>
+    <tag k="name" v="Footbridge"/>
+  </way>
+  <way id="48836883" version="4" timestamp="2012-03-21T21:52:35Z" uid="104101" user="swanilli" changeset="11057673">
+    <nd ref="619543014"/>
+    <nd ref="33476439"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="footway"/>
+    <tag k="layer" v="3"/>
+    <tag k="name" v="Footbridge"/>
+  </way>
+  <way id="48836884" version="1" timestamp="2010-01-24T23:35:26Z" uid="8807" user="brendanpuck" changeset="3707432">
+    <nd ref="619543015"/>
+    <nd ref="619543014"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="footway"/>
+    <tag k="layer" v="1"/>
+  </way>
+  <way id="48836885" version="1" timestamp="2010-01-24T23:35:26Z" uid="8807" user="brendanpuck" changeset="3707432">
+    <nd ref="619543006"/>
+    <nd ref="619543015"/>
+    <tag k="foot" v="yes"/>
+    <tag k="layer" v="-1"/>
+    <tag k="name" v="Footbridge"/>
+  </way>
+  <way id="48836885" version="2" timestamp="2010-02-12T03:35:09Z" uid="74617" user="JohnSmith" changeset="3853522">
+    <nd ref="619543006"/>
+    <nd ref="619543015"/>
+    <tag k="highway" v="footway"/>
+    <tag k="layer" v="-1"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="48836885" version="3" timestamp="2012-03-20T20:50:55Z" uid="104101" user="swanilli" changeset="11045492">
+    <nd ref="619543006"/>
+    <nd ref="619543015"/>
+    <tag k="highway" v="footway"/>
+    <tag k="layer" v="-3"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+</osm>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="70371907" version="2" timestamp="2011-04-22T15:32:53Z" uid="4467" user="Rosscoe" changeset="7935461">
+    <nd ref="839726038"/>
+    <nd ref="428298264"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="survey"/>
+    <tag k="name" v="Waratah Lane"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="70371921" version="3" timestamp="2011-04-22T16:06:26Z" uid="4467" user="Rosscoe" changeset="7935817">
+    <nd ref="33536508"/>
+    <nd ref="839726049"/>
+    <nd ref="442918006"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:restriction" v="40"/>
+    <tag k="name" v="Ordnance Avenue"/>
+    <tag k="restriction" v="school_zone"/>
+    <tag k="restriction_hours" v="Mo-Fr 08:00-09:30; 14:30-16:00; SH off; PH off"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="70371949" version="3" timestamp="2011-04-22T16:05:56Z" uid="4467" user="Rosscoe" changeset="7935817">
+    <nd ref="839726058"/>
+    <nd ref="1037199020"/>
+    <nd ref="839726059"/>
+    <nd ref="1037199077"/>
+    <nd ref="1037195469"/>
+    <nd ref="1037199066"/>
+    <nd ref="644622361"/>
+    <nd ref="1037199171"/>
+    <nd ref="839726060"/>
+    <nd ref="1037199057"/>
+    <nd ref="839726062"/>
+    <nd ref="839726049"/>
+    <nd ref="839726063"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+</osm>

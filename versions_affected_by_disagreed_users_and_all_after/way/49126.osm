@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="49126251" version="3" timestamp="2010-07-09T07:53:17Z" uid="74617" user="JohnSmith" changeset="5171412">
+    <nd ref="469833358"/>
+    <nd ref="622995880"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="49126251" version="4" timestamp="2011-03-21T09:33:31Z" uid="4467" user="Rosscoe" changeset="7625311">
+    <nd ref="469833358"/>
+    <nd ref="622995880"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="49126251" version="5" timestamp="2011-07-15T11:52:01Z" uid="36235" user="Sam Wilson" changeset="8730498">
+    <nd ref="469833358"/>
+    <nd ref="622995880"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Gordon Street"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="49126251" version="6" timestamp="2012-01-19T23:58:51Z" uid="147510" user="woodpeck_fixbot" changeset="10442006">
+    <nd ref="469833358"/>
+    <nd ref="622995880"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Gordon Street"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="49126457" version="3" timestamp="2010-07-08T18:34:13Z" uid="74617" user="JohnSmith" changeset="5167338">
+    <nd ref="198497896"/>
+    <nd ref="622996715"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Walker Street"/>
+  </way>
+  <way id="49126457" version="4" timestamp="2012-01-19T23:58:52Z" uid="147510" user="woodpeck_fixbot" changeset="10442006">
+    <nd ref="198497896"/>
+    <nd ref="622996715"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Walker Street"/>
+  </way>
+  <way id="49126960" version="2" timestamp="2010-05-24T15:02:17Z" uid="4467" user="Rosscoe" changeset="4794360">
+    <nd ref="623000503"/>
+    <nd ref="623000541"/>
+    <nd ref="747134952"/>
+    <nd ref="747134850"/>
+    <tag k="highway" v="service"/>
+    <tag k="service" v="driveway"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+</osm>

@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="51045797" version="1" timestamp="2010-02-22T21:27:09Z" uid="1066" user="pavel" changeset="3947693">
+    <nd ref="209145809"/>
+    <nd ref="650918352"/>
+    <nd ref="650918356"/>
+    <nd ref="650918358"/>
+    <nd ref="650918370"/>
+    <nd ref="650918374"/>
+    <nd ref="650918377"/>
+    <nd ref="650918381"/>
+    <nd ref="650918383"/>
+    <nd ref="650918387"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="51045797" version="2" timestamp="2011-04-15T08:50:47Z" uid="248441" user="Jandrs" changeset="7867726">
+    <nd ref="209145809"/>
+    <nd ref="650918352"/>
+    <nd ref="650918356"/>
+    <nd ref="650918358"/>
+    <nd ref="650918370"/>
+    <nd ref="650918374"/>
+    <nd ref="650918377"/>
+    <nd ref="650918381"/>
+    <nd ref="650918383"/>
+    <nd ref="650918387"/>
+    <tag k="highway" v="path"/>
+  </way>
+  <way id="51045798" version="1" timestamp="2010-02-22T21:27:10Z" uid="1066" user="pavel" changeset="3947693">
+    <nd ref="209145668"/>
+    <nd ref="650918388"/>
+    <tag k="highway" v="footway"/>
+    <tag k="kct_yellow" v="major"/>
+  </way>
+  <way id="51045798" version="2" timestamp="2011-04-11T12:42:30Z" uid="248441" user="Jandrs" changeset="7832709">
+    <nd ref="209145668"/>
+    <nd ref="650918388"/>
+    <nd ref="1240893797"/>
+    <nd ref="1240893806"/>
+    <nd ref="1240893779"/>
+    <nd ref="1240893792"/>
+    <nd ref="1240893795"/>
+    <nd ref="1240893802"/>
+    <nd ref="1240893807"/>
+    <nd ref="1240893785"/>
+    <nd ref="1240893790"/>
+    <nd ref="1240893799"/>
+    <nd ref="366793872"/>
+    <tag k="highway" v="footway"/>
+    <tag k="kct_yellow" v="major"/>
+  </way>
+  <way id="51045798" version="3" timestamp="2011-04-15T08:50:39Z" uid="248441" user="Jandrs" changeset="7867726">
+    <nd ref="209145668"/>
+    <nd ref="650918388"/>
+    <nd ref="1240893797"/>
+    <nd ref="1240893806"/>
+    <nd ref="1240893779"/>
+    <nd ref="1240893792"/>
+    <nd ref="1240893795"/>
+    <nd ref="1240893802"/>
+    <nd ref="1240893807"/>
+    <nd ref="1240893785"/>
+    <nd ref="1240893790"/>
+    <nd ref="1240893799"/>
+    <nd ref="366793872"/>
+    <tag k="highway" v="path"/>
+    <tag k="kct_yellow" v="major"/>
+  </way>
+  <way id="51045799" version="1" timestamp="2010-02-22T21:27:10Z" uid="1066" user="pavel" changeset="3947693">
+    <nd ref="349294498"/>
+    <nd ref="349294510"/>
+    <nd ref="351137173"/>
+    <tag k="highway" v="track"/>
+    <tag k="kct_yellow" v="major"/>
+    <tag k="tracktype" v="grade2"/>
+  </way>
+  <way id="51045799" version="2" timestamp="2011-04-15T08:50:35Z" uid="248441" user="Jandrs" changeset="7867726">
+    <nd ref="349294498"/>
+    <nd ref="1245257322"/>
+    <nd ref="349294510"/>
+    <nd ref="351137173"/>
+    <tag k="highway" v="track"/>
+    <tag k="kct_yellow" v="major"/>
+    <tag k="tracktype" v="grade1"/>
+  </way>
+  <way id="51045799" version="3" timestamp="2012-03-15T23:55:55Z" uid="248441" user="Jandrs" changeset="10994259">
+    <nd ref="349294498"/>
+    <nd ref="1245257322"/>
+    <nd ref="1676350308"/>
+    <nd ref="349294510"/>
+    <nd ref="351137173"/>
+    <tag k="highway" v="track"/>
+    <tag k="kct_yellow" v="major"/>
+    <tag k="tracktype" v="grade1"/>
+  </way>
+  <way id="51045800" version="1" timestamp="2010-02-22T21:27:10Z" uid="1066" user="pavel" changeset="3947693">
+    <nd ref="349293413"/>
+    <nd ref="349293415"/>
+    <nd ref="349293425"/>
+    <nd ref="349293431"/>
+    <nd ref="349293433"/>
+    <nd ref="349293434"/>
+    <nd ref="349293435"/>
+    <nd ref="349293436"/>
+    <nd ref="349293437"/>
+    <nd ref="349293438"/>
+    <tag k="highway" v="track"/>
+    <tag k="kct_blue" v="major"/>
+    <tag k="piste:grooming" v="classic;skating"/>
+    <tag k="piste:type" v="nordic"/>
+  </way>
+  <way id="51045800" version="2" timestamp="2012-03-15T23:55:53Z" uid="248441" user="Jandrs" changeset="10994259">
+    <nd ref="349293413"/>
+    <nd ref="349293415"/>
+    <nd ref="349293425"/>
+    <nd ref="349293431"/>
+    <nd ref="349293433"/>
+    <nd ref="349293434"/>
+    <nd ref="349293435"/>
+    <nd ref="349293436"/>
+    <nd ref="349293437"/>
+    <nd ref="349293438"/>
+    <tag k="highway" v="track"/>
+    <tag k="kct_blue" v="major"/>
+    <tag k="piste:grooming" v="classic;skating"/>
+    <tag k="piste:type" v="nordic"/>
+    <tag k="tracktype" v="grade1"/>
+  </way>
+</osm>

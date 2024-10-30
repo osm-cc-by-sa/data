@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="62581000" version="1" timestamp="2010-06-21T23:25:21Z" uid="4467" user="Rosscoe" changeset="5047579">
+    <nd ref="780627514"/>
+    <nd ref="780627605"/>
+    <nd ref="780627635"/>
+    <tag k="highway" v="primary_link"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="62581000" version="2" timestamp="2010-10-06T22:59:14Z" uid="79475" user="AlexOnTheBus" changeset="5974273">
+    <nd ref="780627514"/>
+    <nd ref="780627605"/>
+    <nd ref="780627635"/>
+    <tag k="highway" v="secondary_link"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="62581000" version="3" timestamp="2011-10-27T02:19:17Z" uid="170282" user="rlewis" changeset="9665274">
+    <nd ref="780627514"/>
+    <nd ref="780627605"/>
+    <nd ref="1481965216"/>
+    <nd ref="780627635"/>
+    <tag k="highway" v="secondary_link"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="62581025" version="1" timestamp="2010-06-21T23:25:22Z" uid="4467" user="Rosscoe" changeset="5047579">
+    <nd ref="769814766"/>
+    <nd ref="780626767"/>
+    <nd ref="780626891"/>
+    <tag k="highway" v="primary_link"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="62581025" version="2" timestamp="2010-10-06T22:59:08Z" uid="79475" user="AlexOnTheBus" changeset="5974273">
+    <nd ref="769814766"/>
+    <nd ref="780626767"/>
+    <nd ref="780626891"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+</osm>

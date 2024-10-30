@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="98307708" version="1" timestamp="2011-02-05T13:01:29Z" uid="6269" user="Mueck" changeset="7192048">
+    <nd ref="1136337421"/>
+    <nd ref="1136451184"/>
+    <tag k="layer" v="-1"/>
+    <tag k="railway" v="tram"/>
+    <tag k="tracks" v="1"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="98307708" version="2" timestamp="2011-02-05T21:09:50Z" uid="6269" user="Mueck" changeset="7197252">
+    <nd ref="1136337421"/>
+    <nd ref="1136451184"/>
+    <tag k="railway" v="tram"/>
+    <tag k="tracks" v="1"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="98307708" version="3" timestamp="2011-03-12T00:14:36Z" uid="6269" user="Mueck" changeset="7528841">
+    <nd ref="1136337421"/>
+    <nd ref="1136451184"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="operator" v="VBK"/>
+    <tag k="railway" v="tram"/>
+    <tag k="service" v="yard"/>
+    <tag k="tracks" v="1"/>
+    <tag k="tunnel" v="yes"/>
+    <tag k="voltage" v="750"/>
+    <tag k="workrules" v="BOStrab"/>
+  </way>
+</osm>

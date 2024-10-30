@@ -1,0 +1,793 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="45008899" version="2" timestamp="2010-05-12T14:45:33Z" uid="4467" user="Rosscoe" changeset="4677772"/>
+  <way id="45008901" version="1" timestamp="2009-11-25T05:36:28Z" uid="30201" user="rrankin" changeset="3209658">
+    <nd ref="570570757"/>
+    <nd ref="462098746"/>
+    <nd ref="570570763"/>
+    <nd ref="570570767"/>
+    <nd ref="462098747"/>
+    <tag k="cycleway" v="lane"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Hoxton Park Road"/>
+    <tag k="rcn" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="45008901" version="2" timestamp="2010-07-07T22:35:20Z" uid="74617" user="JohnSmith" changeset="5162525">
+    <nd ref="570570757"/>
+    <nd ref="462098746"/>
+    <nd ref="570570763"/>
+    <nd ref="570570767"/>
+    <nd ref="462098747"/>
+    <tag k="cycleway" v="lane"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Hoxton Park Road"/>
+    <tag k="rcn" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="45008901" version="3" timestamp="2012-01-19T10:42:35Z" uid="147510" user="woodpeck_fixbot" changeset="10434386">
+    <nd ref="570570757"/>
+    <nd ref="462098746"/>
+    <nd ref="570570763"/>
+    <nd ref="570570767"/>
+    <nd ref="462098747"/>
+    <tag k="cycleway" v="lane"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Hoxton Park Road"/>
+    <tag k="rcn" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="45008902" version="1" timestamp="2009-11-25T05:36:28Z" uid="30201" user="rrankin" changeset="3209658">
+    <nd ref="462098747"/>
+    <nd ref="570570771"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="cycleway"/>
+    <tag k="layer" v="1"/>
+    <tag k="rcn" v="yes"/>
+    <tag k="source" v="local_knowledge"/>
+  </way>
+  <way id="45008903" version="1" timestamp="2009-11-25T05:36:28Z" uid="30201" user="rrankin" changeset="3209658">
+    <nd ref="36399644"/>
+    <nd ref="570570759"/>
+    <nd ref="31879530"/>
+    <nd ref="570570761"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Hoxton Park Road"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="45008904" version="1" timestamp="2009-11-25T05:36:28Z" uid="30201" user="rrankin" changeset="3209658">
+    <nd ref="570570761"/>
+    <nd ref="570570755"/>
+    <nd ref="570570749"/>
+    <nd ref="570570751"/>
+    <nd ref="570570753"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Hoxton Park Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="45008905" version="1" timestamp="2009-11-25T05:36:28Z" uid="30201" user="rrankin" changeset="3209658">
+    <nd ref="31879528"/>
+    <nd ref="31879529"/>
+    <nd ref="31879530"/>
+    <nd ref="31879531"/>
+    <nd ref="570570753"/>
+    <nd ref="36399160"/>
+    <nd ref="307580060"/>
+    <nd ref="176341834"/>
+    <nd ref="300674581"/>
+    <nd ref="36399164"/>
+    <nd ref="272983312"/>
+    <nd ref="300674587"/>
+    <nd ref="36399168"/>
+    <nd ref="300674590"/>
+    <nd ref="300674592"/>
+    <nd ref="286727548"/>
+    <nd ref="300674597"/>
+    <nd ref="300674594"/>
+    <nd ref="36399170"/>
+    <nd ref="36399172"/>
+    <nd ref="36399173"/>
+    <nd ref="36399175"/>
+    <nd ref="258442371"/>
+    <nd ref="286727269"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="Hoxton Park Road"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="45008905" version="2" timestamp="2009-12-28T06:09:26Z" uid="12203" user="brainwad" changeset="3468863">
+    <nd ref="31879528"/>
+    <nd ref="31879529"/>
+    <nd ref="31879530"/>
+    <nd ref="31879531"/>
+    <nd ref="570570753"/>
+    <nd ref="36399160"/>
+    <nd ref="307580060"/>
+    <nd ref="176341834"/>
+    <nd ref="300674581"/>
+    <nd ref="36399164"/>
+    <nd ref="272983312"/>
+    <nd ref="300674587"/>
+    <nd ref="36399168"/>
+    <nd ref="300674590"/>
+    <nd ref="300674592"/>
+    <nd ref="286727548"/>
+    <nd ref="300674597"/>
+    <nd ref="300674594"/>
+    <nd ref="36399170"/>
+    <nd ref="36399172"/>
+    <nd ref="600243485"/>
+    <tag k="highway" v="primary"/>
+    <tag k="maxspeed" v="70"/>
+    <tag k="name" v="Hoxton Park Road"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="45008906" version="1" timestamp="2009-11-25T05:36:28Z" uid="30201" user="rrankin" changeset="3209658">
+    <nd ref="286725981"/>
+    <nd ref="570570770"/>
+    <tag k="access" v="no"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Parramatta-Liverpool Transitway"/>
+    <tag k="psv" v="yes"/>
+  </way>
+  <way id="45008907" version="1" timestamp="2009-11-25T05:36:28Z" uid="30201" user="rrankin" changeset="3209658">
+    <nd ref="570570768"/>
+    <nd ref="570570769"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Hoxton Park Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="yahoo"/>
+  </way>
+  <way id="45008908" version="1" timestamp="2009-11-25T05:36:28Z" uid="30201" user="rrankin" changeset="3209658">
+    <nd ref="570570771"/>
+    <nd ref="462098748"/>
+    <nd ref="462098749"/>
+    <nd ref="462098750"/>
+    <nd ref="462098751"/>
+    <nd ref="462098752"/>
+    <nd ref="462098754"/>
+    <nd ref="462098755"/>
+    <nd ref="462098756"/>
+    <nd ref="462098758"/>
+    <nd ref="462098759"/>
+    <nd ref="462098760"/>
+    <nd ref="462098761"/>
+    <nd ref="462098762"/>
+    <nd ref="462098764"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="cycleway"/>
+    <tag k="rcn" v="yes"/>
+    <tag k="source" v="local_knowledge"/>
+  </way>
+  <way id="45008908" version="2" timestamp="2009-11-25T05:41:07Z" uid="30201" user="rrankin" changeset="3209664">
+    <nd ref="570570771"/>
+    <nd ref="462098748"/>
+    <nd ref="462098749"/>
+    <nd ref="462098750"/>
+    <nd ref="462098751"/>
+    <nd ref="570571182"/>
+    <nd ref="570571183"/>
+    <nd ref="462098752"/>
+    <nd ref="462098754"/>
+    <nd ref="462098755"/>
+    <nd ref="462098756"/>
+    <nd ref="462098758"/>
+    <nd ref="462098759"/>
+    <nd ref="462098760"/>
+    <nd ref="462098761"/>
+    <nd ref="462098762"/>
+    <nd ref="462098764"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="cycleway"/>
+    <tag k="rcn" v="yes"/>
+    <tag k="source" v="local_knowledge"/>
+  </way>
+  <way id="45008908" version="3" timestamp="2009-11-25T05:52:13Z" uid="30201" user="rrankin" changeset="3209690">
+    <nd ref="570570771"/>
+    <nd ref="570573844"/>
+    <nd ref="462098748"/>
+    <nd ref="570573849"/>
+    <nd ref="462098749"/>
+    <nd ref="462098750"/>
+    <nd ref="462098751"/>
+    <nd ref="570571182"/>
+    <nd ref="570571183"/>
+    <nd ref="462098752"/>
+    <nd ref="462098754"/>
+    <nd ref="462098755"/>
+    <nd ref="462098756"/>
+    <nd ref="462098758"/>
+    <nd ref="462098759"/>
+    <nd ref="462098760"/>
+    <nd ref="462098761"/>
+    <nd ref="462098762"/>
+    <nd ref="462098764"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="cycleway"/>
+    <tag k="rcn" v="yes"/>
+    <tag k="source" v="local_knowledge"/>
+  </way>
+  <way id="45008908" version="4" timestamp="2009-11-26T02:30:26Z" uid="30201" user="rrankin" changeset="3217551">
+    <nd ref="570570771"/>
+    <nd ref="570573844"/>
+    <nd ref="462098748"/>
+    <nd ref="570573849"/>
+    <nd ref="462098749"/>
+    <nd ref="462098750"/>
+    <nd ref="462098751"/>
+    <nd ref="570571182"/>
+    <nd ref="570571183"/>
+    <nd ref="462098752"/>
+    <nd ref="462098754"/>
+    <nd ref="462098755"/>
+    <nd ref="462098756"/>
+    <nd ref="462098758"/>
+    <nd ref="462098759"/>
+    <nd ref="571317696"/>
+    <nd ref="462098760"/>
+    <nd ref="462098761"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="cycleway"/>
+    <tag k="rcn" v="yes"/>
+    <tag k="source" v="local_knowledge"/>
+  </way>
+  <way id="45008908" version="5" timestamp="2010-01-07T13:33:46Z" uid="7617" user="Franc" changeset="3561835">
+    <nd ref="570570771"/>
+    <nd ref="570573844"/>
+    <nd ref="462098748"/>
+    <nd ref="570573849"/>
+    <nd ref="462098749"/>
+    <nd ref="462098750"/>
+    <nd ref="608085963"/>
+    <nd ref="608085962"/>
+    <nd ref="608085954"/>
+    <nd ref="608085956"/>
+    <nd ref="608085953"/>
+    <nd ref="462098751"/>
+    <nd ref="570571182"/>
+    <nd ref="570571183"/>
+    <nd ref="462098752"/>
+    <nd ref="462098754"/>
+    <nd ref="462098755"/>
+    <nd ref="462098756"/>
+    <nd ref="462098758"/>
+    <nd ref="462098759"/>
+    <nd ref="571317696"/>
+    <nd ref="462098760"/>
+    <nd ref="462098761"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="cycleway"/>
+    <tag k="rcn" v="yes"/>
+    <tag k="source" v="local_knowledge"/>
+  </way>
+  <way id="45008908" version="6" timestamp="2010-11-14T06:37:02Z" uid="7617" user="Franc" changeset="6363993">
+    <nd ref="570570771"/>
+    <nd ref="570573844"/>
+    <nd ref="462098748"/>
+    <nd ref="570573849"/>
+    <nd ref="462098749"/>
+    <nd ref="462098750"/>
+    <nd ref="608085963"/>
+    <nd ref="608085962"/>
+    <nd ref="608085954"/>
+    <nd ref="608085956"/>
+    <nd ref="608085953"/>
+    <nd ref="462098751"/>
+    <nd ref="570571182"/>
+    <nd ref="570571183"/>
+    <nd ref="462098752"/>
+    <nd ref="462098754"/>
+    <nd ref="462098755"/>
+    <nd ref="462098756"/>
+    <nd ref="462098758"/>
+    <nd ref="462098759"/>
+    <nd ref="571317696"/>
+    <nd ref="462098760"/>
+    <nd ref="988537719"/>
+    <nd ref="462098761"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="cycleway"/>
+    <tag k="rcn" v="yes"/>
+    <tag k="source" v="local_knowledge"/>
+  </way>
+  <way id="45008908" version="7" timestamp="2011-06-24T05:39:44Z" uid="11111" user="melb_guy" changeset="8528944">
+    <nd ref="570570771"/>
+    <nd ref="570573844"/>
+    <nd ref="462098748"/>
+    <nd ref="570573849"/>
+    <nd ref="462098749"/>
+    <nd ref="462098750"/>
+    <nd ref="608085963"/>
+    <nd ref="608085962"/>
+    <nd ref="608085954"/>
+    <nd ref="608085956"/>
+    <nd ref="608085953"/>
+    <nd ref="462098751"/>
+    <nd ref="570571182"/>
+    <nd ref="1336405813"/>
+    <nd ref="1336405793"/>
+    <nd ref="1336405826"/>
+    <nd ref="1336405885"/>
+    <nd ref="462098752"/>
+    <nd ref="1336405811"/>
+    <nd ref="1336405801"/>
+    <nd ref="1336405873"/>
+    <nd ref="462098755"/>
+    <nd ref="1336405871"/>
+    <nd ref="1336405816"/>
+    <nd ref="1336405841"/>
+    <nd ref="1336405864"/>
+    <nd ref="462098756"/>
+    <nd ref="462098758"/>
+    <nd ref="462098759"/>
+    <nd ref="571317696"/>
+    <nd ref="462098760"/>
+    <nd ref="988537719"/>
+    <nd ref="462098761"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="cycleway"/>
+    <tag k="rcn" v="yes"/>
+    <tag k="source" v="local_knowledge"/>
+  </way>
+  <way id="45008909" version="1" timestamp="2009-11-25T05:36:29Z" uid="30201" user="rrankin" changeset="3209658">
+    <nd ref="570570769"/>
+    <nd ref="36399650"/>
+    <nd ref="272854068"/>
+    <nd ref="36399652"/>
+    <nd ref="272912512"/>
+    <nd ref="272855200"/>
+    <nd ref="36399655"/>
+    <nd ref="286727172"/>
+    <nd ref="36399657"/>
+    <nd ref="323115621"/>
+    <nd ref="36399659"/>
+    <nd ref="36399661"/>
+    <nd ref="36399158"/>
+    <nd ref="276327300"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="Hoxton Park Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="yahoo"/>
+  </way>
+  <way id="45008909" version="2" timestamp="2009-11-25T05:52:13Z" uid="30201" user="rrankin" changeset="3209690">
+    <nd ref="570570769"/>
+    <nd ref="36399650"/>
+    <nd ref="570573843"/>
+    <nd ref="272854068"/>
+    <nd ref="36399652"/>
+    <nd ref="272912512"/>
+    <nd ref="272855200"/>
+    <nd ref="36399655"/>
+    <nd ref="286727172"/>
+    <nd ref="36399657"/>
+    <nd ref="323115621"/>
+    <nd ref="36399659"/>
+    <nd ref="36399661"/>
+    <nd ref="36399158"/>
+    <nd ref="276327300"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="Hoxton Park Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="yahoo"/>
+  </way>
+  <way id="45008909" version="3" timestamp="2009-11-26T02:30:25Z" uid="30201" user="rrankin" changeset="3217551">
+    <nd ref="570570769"/>
+    <nd ref="36399650"/>
+    <nd ref="570573843"/>
+    <nd ref="272854068"/>
+    <nd ref="36399652"/>
+    <nd ref="272912512"/>
+    <nd ref="272855200"/>
+    <nd ref="36399655"/>
+    <nd ref="286727172"/>
+    <nd ref="36399657"/>
+    <nd ref="571317687"/>
+    <nd ref="323115621"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="Hoxton Park Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="45008909" version="4" timestamp="2011-03-28T11:57:41Z" uid="7617" user="Franc" changeset="7695884">
+    <nd ref="570570769"/>
+    <nd ref="36399650"/>
+    <nd ref="570573843"/>
+    <nd ref="272854068"/>
+    <nd ref="36399652"/>
+    <nd ref="272912512"/>
+    <nd ref="1223066813"/>
+    <nd ref="1223066382"/>
+    <nd ref="272855200"/>
+    <nd ref="36399655"/>
+    <nd ref="286727172"/>
+    <nd ref="36399657"/>
+    <nd ref="571317687"/>
+    <nd ref="323115621"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="Hoxton Park Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="45008909" version="5" timestamp="2011-06-24T05:39:43Z" uid="11111" user="melb_guy" changeset="8528944">
+    <nd ref="570570769"/>
+    <nd ref="36399650"/>
+    <nd ref="570573843"/>
+    <nd ref="272854068"/>
+    <nd ref="36399652"/>
+    <nd ref="272912512"/>
+    <nd ref="1223066813"/>
+    <nd ref="1223066382"/>
+    <nd ref="272855200"/>
+    <nd ref="36399655"/>
+    <nd ref="1336405825"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="Hoxton Park Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="45008910" version="1" timestamp="2009-11-25T05:36:29Z" uid="30201" user="rrankin" changeset="3209658">
+    <nd ref="570570770"/>
+    <nd ref="286725983"/>
+    <nd ref="286727159"/>
+    <nd ref="286727173"/>
+    <nd ref="286727254"/>
+    <nd ref="286727162"/>
+    <nd ref="286727163"/>
+    <nd ref="286727554"/>
+    <nd ref="286727165"/>
+    <nd ref="286727166"/>
+    <nd ref="286727167"/>
+    <nd ref="286727172"/>
+    <nd ref="286725369"/>
+    <nd ref="286725368"/>
+    <nd ref="286725367"/>
+    <nd ref="286725415"/>
+    <nd ref="286725365"/>
+    <nd ref="286727176"/>
+    <nd ref="286725413"/>
+    <nd ref="286725317"/>
+    <tag k="access" v="no"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Parramatta-Liverpool Transitway"/>
+    <tag k="psv" v="yes"/>
+  </way>
+  <way id="45008910" version="2" timestamp="2009-11-25T05:41:07Z" uid="30201" user="rrankin" changeset="3209664">
+    <nd ref="570570770"/>
+    <nd ref="286725983"/>
+    <nd ref="286727159"/>
+    <nd ref="286727173"/>
+    <nd ref="286727254"/>
+    <nd ref="286727162"/>
+    <nd ref="286727163"/>
+    <nd ref="286727554"/>
+    <nd ref="286727165"/>
+    <nd ref="286727166"/>
+    <nd ref="286727167"/>
+    <nd ref="286727172"/>
+    <nd ref="570571183"/>
+    <nd ref="286725369"/>
+    <nd ref="286725368"/>
+    <nd ref="286725367"/>
+    <nd ref="286725415"/>
+    <nd ref="286725365"/>
+    <nd ref="286727176"/>
+    <nd ref="286725413"/>
+    <nd ref="286725317"/>
+    <tag k="access" v="no"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Parramatta-Liverpool Transitway"/>
+    <tag k="psv" v="yes"/>
+  </way>
+  <way id="45008910" version="3" timestamp="2009-11-25T05:52:13Z" uid="30201" user="rrankin" changeset="3209690">
+    <nd ref="570570770"/>
+    <nd ref="286725983"/>
+    <nd ref="286727159"/>
+    <nd ref="570573846"/>
+    <nd ref="570573847"/>
+    <nd ref="286727173"/>
+    <nd ref="286727254"/>
+    <nd ref="570573850"/>
+    <nd ref="286727162"/>
+    <nd ref="286727163"/>
+    <nd ref="570573851"/>
+    <nd ref="286727554"/>
+    <nd ref="286727165"/>
+    <nd ref="286727166"/>
+    <nd ref="286727167"/>
+    <nd ref="286727172"/>
+    <nd ref="570571183"/>
+    <nd ref="286725369"/>
+    <nd ref="286725368"/>
+    <nd ref="286725367"/>
+    <nd ref="286725415"/>
+    <nd ref="286725365"/>
+    <nd ref="286727176"/>
+    <nd ref="286725413"/>
+    <nd ref="286725317"/>
+    <tag k="access" v="no"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Parramatta-Liverpool Transitway"/>
+    <tag k="psv" v="yes"/>
+  </way>
+  <way id="45008910" version="4" timestamp="2010-11-14T06:37:34Z" uid="7617" user="Franc" changeset="6363993">
+    <nd ref="570570770"/>
+    <nd ref="286725983"/>
+    <nd ref="286727159"/>
+    <nd ref="570573846"/>
+    <nd ref="570573847"/>
+    <nd ref="286727173"/>
+    <nd ref="286727254"/>
+    <nd ref="570573850"/>
+    <nd ref="286727162"/>
+    <nd ref="286727163"/>
+    <nd ref="570573851"/>
+    <nd ref="286727554"/>
+    <nd ref="286727165"/>
+    <nd ref="286727166"/>
+    <nd ref="286727167"/>
+    <nd ref="286727172"/>
+    <nd ref="570571183"/>
+    <nd ref="286725369"/>
+    <nd ref="286725368"/>
+    <nd ref="286725367"/>
+    <nd ref="286725415"/>
+    <nd ref="286725365"/>
+    <nd ref="286727176"/>
+    <nd ref="286725413"/>
+    <nd ref="988538041"/>
+    <nd ref="286725317"/>
+    <tag k="access" v="no"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Parramatta-Liverpool Transitway"/>
+    <tag k="psv" v="yes"/>
+  </way>
+  <way id="45008910" version="5" timestamp="2011-06-24T05:39:44Z" uid="11111" user="melb_guy" changeset="8528944">
+    <nd ref="570570770"/>
+    <nd ref="286725983"/>
+    <nd ref="286727159"/>
+    <nd ref="570573846"/>
+    <nd ref="570573847"/>
+    <nd ref="286727173"/>
+    <nd ref="286727254"/>
+    <nd ref="570573850"/>
+    <nd ref="286727162"/>
+    <nd ref="286727163"/>
+    <nd ref="570573851"/>
+    <nd ref="286727554"/>
+    <nd ref="286727165"/>
+    <nd ref="286727166"/>
+    <nd ref="1336405818"/>
+    <nd ref="1336405848"/>
+    <nd ref="1336405886"/>
+    <nd ref="1336405797"/>
+    <tag k="access" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Parramatta-Liverpool Transitway"/>
+    <tag k="psv" v="yes"/>
+  </way>
+  <way id="45008911" version="1" timestamp="2009-11-25T05:36:29Z" uid="30201" user="rrankin" changeset="3209658">
+    <nd ref="570570765"/>
+    <nd ref="31879528"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Hoxton Park Road"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="45008984" version="1" timestamp="2009-11-25T05:36:48Z" uid="4467" user="Rosscoe" changeset="3209660">
+    <nd ref="570571094"/>
+    <nd ref="570571095"/>
+    <nd ref="570571078"/>
+    <nd ref="570571079"/>
+    <nd ref="570571062"/>
+    <nd ref="570571063"/>
+    <nd ref="570571064"/>
+    <nd ref="570571065"/>
+    <nd ref="570571061"/>
+    <nd ref="570571059"/>
+    <nd ref="570571058"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="45008984" version="2" timestamp="2009-11-25T05:42:51Z" uid="4467" user="Rosscoe" changeset="3209667">
+    <nd ref="570571094"/>
+    <nd ref="570571095"/>
+    <nd ref="570571078"/>
+    <nd ref="570571079"/>
+    <nd ref="570572238"/>
+    <nd ref="570571062"/>
+    <nd ref="570571063"/>
+    <nd ref="570571064"/>
+    <nd ref="570571065"/>
+    <nd ref="570571061"/>
+    <nd ref="570571059"/>
+    <nd ref="570571058"/>
+    <tag k="highway" v="service"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="45008986" version="1" timestamp="2009-11-25T05:36:48Z" uid="4467" user="Rosscoe" changeset="3209660">
+    <nd ref="570571059"/>
+    <nd ref="570571049"/>
+    <nd ref="570571042"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="45008987" version="1" timestamp="2009-11-25T05:36:48Z" uid="4467" user="Rosscoe" changeset="3209660">
+    <nd ref="570571068"/>
+    <nd ref="570571067"/>
+    <nd ref="570571066"/>
+    <nd ref="570571064"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="45008987" version="2" timestamp="2009-11-25T05:42:51Z" uid="4467" user="Rosscoe" changeset="3209667">
+    <nd ref="570571068"/>
+    <nd ref="570571067"/>
+    <nd ref="570571066"/>
+    <nd ref="570571064"/>
+    <tag k="highway" v="service"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="45008989" version="1" timestamp="2009-11-25T05:36:48Z" uid="4467" user="Rosscoe" changeset="3209660">
+    <nd ref="570571066"/>
+    <nd ref="570571050"/>
+    <nd ref="570571051"/>
+    <nd ref="570571052"/>
+    <nd ref="570571043"/>
+    <nd ref="570571044"/>
+    <nd ref="570571042"/>
+    <nd ref="570571045"/>
+    <nd ref="570571046"/>
+    <nd ref="570571047"/>
+    <nd ref="570571048"/>
+    <nd ref="570571016"/>
+    <nd ref="570571017"/>
+    <nd ref="570571018"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="45008989" version="2" timestamp="2009-11-25T05:42:51Z" uid="4467" user="Rosscoe" changeset="3209667">
+    <nd ref="570571066"/>
+    <nd ref="570571050"/>
+    <nd ref="570571051"/>
+    <nd ref="570571052"/>
+    <nd ref="570571043"/>
+    <nd ref="570571044"/>
+    <nd ref="570571042"/>
+    <nd ref="570571045"/>
+    <nd ref="570571046"/>
+    <nd ref="570571047"/>
+    <nd ref="570571048"/>
+    <nd ref="570571016"/>
+    <nd ref="570571017"/>
+    <nd ref="570571018"/>
+    <tag k="highway" v="service"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="45008991" version="1" timestamp="2009-11-25T05:36:48Z" uid="4467" user="Rosscoe" changeset="3209660">
+    <nd ref="570571067"/>
+    <nd ref="570571069"/>
+    <nd ref="570571053"/>
+    <nd ref="570571054"/>
+    <nd ref="570571055"/>
+    <nd ref="570571056"/>
+    <nd ref="570571019"/>
+    <nd ref="570571018"/>
+    <nd ref="570571020"/>
+    <nd ref="570571021"/>
+    <nd ref="570571026"/>
+    <nd ref="570571027"/>
+    <nd ref="570571028"/>
+    <nd ref="570571022"/>
+    <nd ref="570571023"/>
+    <nd ref="570571024"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="45008991" version="2" timestamp="2009-11-25T05:42:51Z" uid="4467" user="Rosscoe" changeset="3209667">
+    <nd ref="570571067"/>
+    <nd ref="570571069"/>
+    <nd ref="570571053"/>
+    <nd ref="570571054"/>
+    <nd ref="570571055"/>
+    <nd ref="570571056"/>
+    <nd ref="570571019"/>
+    <nd ref="570571018"/>
+    <nd ref="570571020"/>
+    <nd ref="570571021"/>
+    <nd ref="570571026"/>
+    <nd ref="570571027"/>
+    <nd ref="570571028"/>
+    <nd ref="570571022"/>
+    <nd ref="570571023"/>
+    <nd ref="570571024"/>
+    <tag k="highway" v="service"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="45008994" version="1" timestamp="2009-11-25T05:36:48Z" uid="4467" user="Rosscoe" changeset="3209660">
+    <nd ref="570571055"/>
+    <nd ref="570571057"/>
+    <nd ref="570571016"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="45008994" version="2" timestamp="2009-11-25T05:42:51Z" uid="4467" user="Rosscoe" changeset="3209667">
+    <nd ref="570571055"/>
+    <nd ref="570571057"/>
+    <nd ref="570571016"/>
+    <tag k="highway" v="service"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="45008996" version="1" timestamp="2009-11-25T05:36:48Z" uid="4467" user="Rosscoe" changeset="3209660">
+    <nd ref="570570987"/>
+    <nd ref="570571014"/>
+    <nd ref="570571024"/>
+    <nd ref="570571032"/>
+    <nd ref="570571040"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="45008996" version="2" timestamp="2009-11-25T05:42:51Z" uid="4467" user="Rosscoe" changeset="3209667">
+    <nd ref="570570987"/>
+    <nd ref="570571014"/>
+    <nd ref="570571024"/>
+    <nd ref="570571032"/>
+    <nd ref="570571040"/>
+    <tag k="highway" v="service"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="45008998" version="1" timestamp="2009-11-25T05:36:48Z" uid="4467" user="Rosscoe" changeset="3209660">
+    <nd ref="570571040"/>
+    <nd ref="570571041"/>
+    <nd ref="570571080"/>
+    <nd ref="570571081"/>
+    <nd ref="570571082"/>
+    <nd ref="570571083"/>
+    <nd ref="570571084"/>
+    <nd ref="570571085"/>
+    <nd ref="570571086"/>
+    <nd ref="570571070"/>
+    <nd ref="570571071"/>
+    <nd ref="570571072"/>
+    <nd ref="570571073"/>
+    <nd ref="570571068"/>
+    <nd ref="570571074"/>
+    <nd ref="570571029"/>
+    <nd ref="570571030"/>
+    <nd ref="570571031"/>
+    <nd ref="570571033"/>
+    <nd ref="570571034"/>
+    <nd ref="570571035"/>
+    <nd ref="570571036"/>
+    <nd ref="570571040"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="45008998" version="2" timestamp="2009-11-25T05:42:52Z" uid="4467" user="Rosscoe" changeset="3209667">
+    <nd ref="570571040"/>
+    <nd ref="570571041"/>
+    <nd ref="570571080"/>
+    <nd ref="570571081"/>
+    <nd ref="570571082"/>
+    <nd ref="570571083"/>
+    <nd ref="570571084"/>
+    <nd ref="570571085"/>
+    <nd ref="570571086"/>
+    <nd ref="570571070"/>
+    <nd ref="570571071"/>
+    <nd ref="570571072"/>
+    <nd ref="570571073"/>
+    <nd ref="570571068"/>
+    <nd ref="570571074"/>
+    <nd ref="570571029"/>
+    <nd ref="570571030"/>
+    <nd ref="570571031"/>
+    <nd ref="570571033"/>
+    <nd ref="570571034"/>
+    <nd ref="570571035"/>
+    <nd ref="570571036"/>
+    <nd ref="570571040"/>
+    <tag k="highway" v="service"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+</osm>

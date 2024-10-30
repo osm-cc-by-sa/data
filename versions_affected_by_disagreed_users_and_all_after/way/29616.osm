@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="29616563" version="2" timestamp="2009-10-03T14:23:09Z" uid="179968" user="Ich_hasse_doitsche_OSM-Korinthenkacker" changeset="2724403">
+    <nd ref="326181000"/>
+    <nd ref="326181027"/>
+    <nd ref="326181012"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="29616570" version="2" timestamp="2009-10-03T14:23:10Z" uid="179968" user="Ich_hasse_doitsche_OSM-Korinthenkacker" changeset="2724403">
+    <nd ref="326181041"/>
+    <nd ref="326181043"/>
+    <nd ref="326181046"/>
+    <nd ref="326181050"/>
+    <nd ref="326181041"/>
+    <tag k="access" v="permissive"/>
+    <tag k="amenity" v="parking"/>
+  </way>
+  <way id="29616575" version="2" timestamp="2009-10-03T14:23:10Z" uid="179968" user="Ich_hasse_doitsche_OSM-Korinthenkacker" changeset="2724403">
+    <nd ref="326181027"/>
+    <nd ref="326181064"/>
+    <nd ref="326181067"/>
+    <nd ref="326181069"/>
+    <tag k="highway" v="service"/>
+    <tag k="service" v="parking_aisle"/>
+  </way>
+  <way id="29616708" version="4" timestamp="2010-05-18T22:15:33Z" uid="9581" user="Lobelt" changeset="4743574">
+    <nd ref="250038967"/>
+    <nd ref="326181514"/>
+    <nd ref="326181517"/>
+    <nd ref="326181524"/>
+    <nd ref="345552288"/>
+    <tag k="highway" v="residential"/>
+    <tag k="layer" v="0"/>
+    <tag k="name" v="Westliche Ringstraße"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="29616708" version="5" timestamp="2012-03-11T11:11:50Z" uid="189997" user="gerd95" changeset="10941449">
+    <nd ref="250038967"/>
+    <nd ref="345552288"/>
+    <tag k="highway" v="residential"/>
+    <tag k="layer" v="0"/>
+    <tag k="name" v="Westliche Ringstraße"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="paved"/>
+  </way>
+</osm>

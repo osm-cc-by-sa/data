@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="101784016" version="1" timestamp="2011-02-26T16:21:15Z" uid="30632" user="antblant" changeset="7401387">
+    <nd ref="258262967"/>
+    <nd ref="258263097"/>
+    <nd ref="258263100"/>
+    <nd ref="258263099"/>
+    <nd ref="258263102"/>
+    <nd ref="258263101"/>
+    <nd ref="258263104"/>
+    <nd ref="258263103"/>
+    <nd ref="258263106"/>
+    <nd ref="258263105"/>
+    <nd ref="258263108"/>
+    <nd ref="258263107"/>
+    <nd ref="258263110"/>
+    <nd ref="258263109"/>
+    <nd ref="258263024"/>
+    <nd ref="258263022"/>
+    <nd ref="258252701"/>
+    <nd ref="258263026"/>
+    <nd ref="258251563"/>
+    <nd ref="258251468"/>
+    <nd ref="258263025"/>
+    <nd ref="258263028"/>
+    <nd ref="258263027"/>
+    <nd ref="258263030"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="UMP-PL, ./UMP-Gdansk/src/inne.ulice.txt"/>
+  </way>
+  <way id="101784494" version="1" timestamp="2011-02-26T16:24:38Z" uid="6269" user="Mueck" changeset="7401408">
+    <nd ref="335970930"/>
+    <nd ref="30959885"/>
+    <nd ref="1132375148"/>
+    <nd ref="28782035"/>
+    <tag k="highway" v="primary_link"/>
+  </way>
+  <way id="101784494" version="2" timestamp="2011-08-07T17:54:15Z" uid="165061" user="keinname" changeset="8949999">
+    <nd ref="335970930"/>
+    <nd ref="30959885"/>
+    <nd ref="1132375148"/>
+    <nd ref="28782035"/>
+    <tag k="highway" v="primary_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="101784494" version="3" timestamp="2012-02-07T22:59:38Z" uid="165061" user="keinname" changeset="10618069">
+    <nd ref="335970930"/>
+    <nd ref="30959885"/>
+    <nd ref="1132375148"/>
+    <nd ref="28782035"/>
+    <tag k="highway" v="primary_link"/>
+    <tag k="lanes" v="1"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="101784494" version="4" timestamp="2012-03-21T16:03:39Z" uid="165061" user="mapper999" changeset="11053753">
+    <nd ref="335970930"/>
+    <nd ref="30959885"/>
+    <nd ref="1132375148"/>
+    <nd ref="28782035"/>
+    <tag k="highway" v="primary_link"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+</osm>

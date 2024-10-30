@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="16325057" version="3" timestamp="2010-03-27T22:51:30Z" uid="20587" user="balrog-kun" changeset="4250871">
+    <nd ref="24396381"/>
+    <nd ref="565733052"/>
+    <nd ref="167367841"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Clybourn Avenue"/>
+  </way>
+  <way id="16325060" version="3" timestamp="2010-03-27T22:51:30Z" uid="20587" user="balrog-kun" changeset="4250871">
+    <nd ref="167368217"/>
+    <nd ref="167368210"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="2"/>
+    <tag k="name" v="Sunland Boulevard"/>
+  </way>
+  <way id="16325060" version="4" timestamp="2010-09-15T00:15:14Z" uid="82317" user="AM909" changeset="5783281">
+    <nd ref="167368217"/>
+    <nd ref="167368210"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="bridge_name" v="Sunland Blvd OC"/>
+    <tag k="bridge_ref" v="5/LA/53-1114"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="is_in:state_code" v="CA"/>
+    <tag k="layer" v="2"/>
+    <tag k="milepost:county" v="33.68"/>
+    <tag k="name" v="Sunland Boulevard"/>
+    <tag k="note" v="Bridge ref pic from I-5 North"/>
+    <tag k="source:bridge" v="usgs_imagery;survey;image;CDOT"/>
+    <tag k="source_ref:bridge" v="AM909_DSCV3589"/>
+  </way>
+  <way id="16325060" version="5" timestamp="2011-07-03T21:26:34Z" uid="4951" user="PeterIto" changeset="8624233">
+    <nd ref="167368217"/>
+    <nd ref="167368210"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="bridge_name" v="Sunland Blvd OC"/>
+    <tag k="bridge_ref" v="5/LA/53-1114"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="is_in:state_code" v="CA"/>
+    <tag k="layer" v="1"/>
+    <tag k="milepost:county" v="33.68"/>
+    <tag k="name" v="Sunland Boulevard"/>
+    <tag k="note" v="Bridge ref pic from I-5 North"/>
+    <tag k="source:bridge" v="usgs_imagery;survey;image;CDOT"/>
+    <tag k="source_ref:bridge" v="AM909_DSCV3589"/>
+  </way>
+</osm>

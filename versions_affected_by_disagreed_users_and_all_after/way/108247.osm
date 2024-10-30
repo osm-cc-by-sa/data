@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="108247002" version="1" timestamp="2011-04-12T18:44:07Z" uid="9581" user="Lobelt" changeset="7845403">
+    <nd ref="927196600"/>
+    <nd ref="927196483"/>
+    <nd ref="927196517"/>
+    <nd ref="485230"/>
+    <nd ref="927196591"/>
+    <nd ref="485234"/>
+    <nd ref="927196444"/>
+    <nd ref="485236"/>
+    <nd ref="927196574"/>
+    <nd ref="485238"/>
+    <nd ref="485240"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="E 40"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="120"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="overtaking:hgv" v="no"/>
+    <tag k="ref" v="A 4"/>
+  </way>
+  <way id="108247002" version="2" timestamp="2011-08-21T12:21:09Z" uid="30077" user="ChristianW" changeset="9083518">
+    <nd ref="927196600"/>
+    <nd ref="927196483"/>
+    <nd ref="927196517"/>
+    <nd ref="485230"/>
+    <nd ref="927196591"/>
+    <nd ref="485234"/>
+    <nd ref="927196444"/>
+    <nd ref="485236"/>
+    <nd ref="927196574"/>
+    <nd ref="485238"/>
+    <nd ref="485240"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="E 40"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="120"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="overtaking:hgv" v="no"/>
+    <tag k="ref" v="A 4"/>
+    <tag k="source:lit" v="http://www.autobahn-bilder.de"/>
+  </way>
+  <way id="108247002" version="3" timestamp="2012-03-20T20:00:26Z" uid="131670" user="Ana Luisa" changeset="11044781"/>
+  <way id="108247485" version="1" timestamp="2011-04-12T18:48:55Z" uid="33382" user="de_muur" changeset="7845462">
+    <nd ref="267835868"/>
+    <nd ref="1215284076"/>
+    <nd ref="1215284183"/>
+    <nd ref="1242295576"/>
+    <nd ref="1242295577"/>
+    <tag k="highway" v="track"/>
+  </way>
+  <way id="108247485" version="2" timestamp="2012-03-06T19:50:46Z" uid="63107" user="brogo" changeset="10893761"/>
+  <way id="108247486" version="1" timestamp="2011-04-12T18:48:55Z" uid="33382" user="de_muur" changeset="7845462">
+    <nd ref="267835868"/>
+    <nd ref="1242295578"/>
+    <nd ref="478641649"/>
+    <nd ref="267836114"/>
+    <nd ref="267835837"/>
+    <nd ref="267836086"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Herrenstraße"/>
+    <tag k="ref" v="K 34"/>
+    <tag k="source:maxspeed" v="DE:urban"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="zone:traffic" v="DE:urban"/>
+  </way>
+  <way id="108247486" version="2" timestamp="2012-03-06T19:50:40Z" uid="63107" user="brogo" changeset="10893761"/>
+</osm>

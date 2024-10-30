@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="106106965" version="1" timestamp="2011-03-27T15:54:37Z" uid="33382" user="de_muur" changeset="7687614">
+    <nd ref="1221655211"/>
+    <nd ref="247942991"/>
+    <nd ref="288883813"/>
+    <nd ref="247943016"/>
+    <tag k="cycleway" v="track"/>
+    <tag k="highway" v="primary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Waller Heerstraße"/>
+    <tag k="ref" v="B 215"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="106106965" version="2" timestamp="2012-03-10T13:53:50Z" uid="57645" user="KartoGrapHiti" changeset="10931913">
+    <nd ref="1221655211"/>
+    <nd ref="247942991"/>
+    <nd ref="288883813"/>
+    <nd ref="247943016"/>
+    <tag k="highway" v="primary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Waller Heerstraße"/>
+    <tag k="ref" v="B 215"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="106106965" version="3" timestamp="2012-03-10T14:28:00Z" uid="57645" user="KartoGrapHiti" changeset="10932338"/>
+  <way id="106106967" version="1" timestamp="2011-03-27T15:54:37Z" uid="33382" user="de_muur" changeset="7687614">
+    <nd ref="48902297"/>
+    <nd ref="48902300"/>
+    <nd ref="31759926"/>
+    <tag k="highway" v="residential"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="106106967" version="2" timestamp="2011-04-26T20:30:53Z" uid="444863" user="kwitschi" changeset="7979396">
+    <nd ref="48902297"/>
+    <nd ref="48902300"/>
+    <nd ref="31759926"/>
+    <tag k="access" v="yes"/>
+    <tag k="alt_name" v="Alte Holtumer Straße"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="horse" v="yes"/>
+    <tag k="int_name" v="Alte Holtumer Straße"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="motor_vehicle" v="yes"/>
+    <tag k="name" v="Alte Holtumer Straße"/>
+    <tag k="surface" v="paved"/>
+  </way>
+</osm>

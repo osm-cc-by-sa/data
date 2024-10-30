@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="63619140" version="1" timestamp="2010-06-24T13:58:59Z" uid="24594" user="Raskat" changeset="5066362">
+    <nd ref="787229379"/>
+    <nd ref="787229380"/>
+    <nd ref="787229381"/>
+    <nd ref="787229382"/>
+    <nd ref="787229379"/>
+    <tag k="leisure" v="stadium"/>
+    <tag k="sport" v="football"/>
+  </way>
+  <way id="63619140" version="2" timestamp="2010-06-29T19:13:36Z" uid="74617" user="JohnSmith" changeset="5108182">
+    <nd ref="787229379"/>
+    <nd ref="787229380"/>
+    <nd ref="787229381"/>
+    <nd ref="787229382"/>
+    <nd ref="787229379"/>
+    <tag k="fixme" v="sport=football is ambiguous, see http://wiki.osm.org/wiki/Football for more details"/>
+    <tag k="leisure" v="stadium"/>
+    <tag k="sport" v="football"/>
+  </way>
+  <way id="63619140" version="3" timestamp="2010-07-21T08:49:18Z" uid="24594" user="Raskat" changeset="5277002">
+    <nd ref="787229379"/>
+    <nd ref="787229380"/>
+    <nd ref="787229381"/>
+    <nd ref="787229382"/>
+    <nd ref="787229379"/>
+    <tag k="leisure" v="stadium"/>
+    <tag k="sport" v="soccer"/>
+  </way>
+  <way id="63619156" version="3" timestamp="2010-10-14T21:26:01Z" uid="49111" user="Markus B" changeset="6043362">
+    <nd ref="27134175"/>
+    <nd ref="948842392"/>
+    <nd ref="948842611"/>
+    <nd ref="871447664"/>
+    <nd ref="871447669"/>
+    <nd ref="787229600"/>
+    <nd ref="787229601"/>
+    <nd ref="787229602"/>
+    <tag k="highway" v="service"/>
+  </way>
+</osm>

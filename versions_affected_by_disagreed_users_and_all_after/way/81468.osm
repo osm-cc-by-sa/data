@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="81468022" version="1" timestamp="2010-10-15T05:18:19Z" uid="4467" user="Rosscoe" changeset="6046243">
+    <nd ref="949400386"/>
+    <nd ref="949400407"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="path"/>
+    <tag k="layer" v="1"/>
+  </way>
+  <way id="81468403" version="1" timestamp="2010-10-15T06:06:18Z" uid="4467" user="Rosscoe" changeset="6046373">
+    <nd ref="949451565"/>
+    <nd ref="949451677"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Epsom Road"/>
+    <tag k="source" v="yahoo"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="81468404" version="1" timestamp="2010-10-15T06:06:19Z" uid="4467" user="Rosscoe" changeset="6046373">
+    <nd ref="949451617"/>
+    <nd ref="493879009"/>
+    <nd ref="493879010"/>
+    <nd ref="493879011"/>
+    <nd ref="947948644"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Calwell Street"/>
+  </way>
+  <way id="81468405" version="1" timestamp="2010-10-15T06:06:19Z" uid="4467" user="Rosscoe" changeset="6046373">
+    <nd ref="949451677"/>
+    <nd ref="67823322"/>
+    <nd ref="253760846"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Epsom Road"/>
+    <tag k="source" v="yahoo"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="81468406" version="1" timestamp="2010-10-15T06:06:19Z" uid="4467" user="Rosscoe" changeset="6046373">
+    <nd ref="86675137"/>
+    <nd ref="949451625"/>
+    <nd ref="949451663"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Eastwood Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="81468406" version="2" timestamp="2010-10-26T03:11:28Z" uid="4467" user="Rosscoe" changeset="6178825">
+    <nd ref="86675137"/>
+    <nd ref="949451625"/>
+    <nd ref="949451663"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Eastwood Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="81468407" version="1" timestamp="2010-10-15T06:06:19Z" uid="4467" user="Rosscoe" changeset="6046373">
+    <nd ref="949451663"/>
+    <nd ref="86675192"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Eastwood Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="81468407" version="2" timestamp="2010-10-26T03:11:20Z" uid="4467" user="Rosscoe" changeset="6178825">
+    <nd ref="949451663"/>
+    <nd ref="86675192"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Eastwood Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+</osm>

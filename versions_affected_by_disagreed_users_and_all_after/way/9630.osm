@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="9630647" version="3" timestamp="2008-07-15T01:40:42Z" uid="6975" user="ulfl" changeset="496348">
+    <nd ref="8767447"/>
+    <nd ref="8767449"/>
+    <nd ref="8767451"/>
+    <nd ref="8767453"/>
+    <nd ref="8767455"/>
+    <nd ref="8767457"/>
+    <nd ref="24912891"/>
+    <nd ref="24912892"/>
+    <nd ref="8767459"/>
+    <nd ref="8767462"/>
+    <nd ref="8767465"/>
+    <nd ref="8767497"/>
+    <nd ref="8767499"/>
+    <nd ref="8767470"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="maxspeed" v="112"/>
+    <tag k="oneway" v="true"/>
+    <tag k="osmarender:renderRef" v="no"/>
+    <tag k="ref" v="A38"/>
+  </way>
+  <way id="9630647" version="4" timestamp="2008-12-28T22:44:03Z" uid="3937" user="southglos" changeset="661036">
+    <nd ref="8767447"/>
+    <nd ref="8767449"/>
+    <nd ref="8767451"/>
+    <nd ref="8767453"/>
+    <nd ref="8767455"/>
+    <nd ref="8767457"/>
+    <nd ref="24912891"/>
+    <nd ref="24912892"/>
+    <nd ref="8767459"/>
+    <nd ref="8767462"/>
+    <nd ref="8767465"/>
+    <nd ref="8767497"/>
+    <nd ref="8767499"/>
+    <nd ref="8767470"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="maxspeed" v="70mph"/>
+    <tag k="oneway" v="true"/>
+    <tag k="osmarender:renderRef" v="no"/>
+    <tag k="ref" v="A38"/>
+  </way>
+  <way id="9630647" version="5" timestamp="2009-02-09T00:39:18Z" uid="3937" user="southglos" changeset="300340">
+    <nd ref="8767447"/>
+    <nd ref="8767449"/>
+    <nd ref="8767451"/>
+    <nd ref="8767453"/>
+    <nd ref="343591547"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="maxspeed" v="70mph"/>
+    <tag k="oneway" v="true"/>
+    <tag k="osmarender:renderRef" v="no"/>
+    <tag k="ref" v="A38"/>
+  </way>
+  <way id="9630647" version="6" timestamp="2011-03-12T05:26:44Z" uid="8235" user="chriscf" changeset="7529644">
+    <nd ref="8767447"/>
+    <nd ref="8767449"/>
+    <nd ref="8767451"/>
+    <nd ref="8767453"/>
+    <nd ref="343591547"/>
+    <tag k="FIXME:nsl" v="inferred dual-carriageway NSL - remove this tag once verified; if this is a Special Road, remove the source:maxspeed tag and add motorroad=yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="oneway" v="true"/>
+    <tag k="osmarender:renderRef" v="no"/>
+    <tag k="ref" v="A38"/>
+    <tag k="source:maxspeed" v="UK:nsl_dual"/>
+  </way>
+  <way id="9630647" version="7" timestamp="2011-09-01T01:53:32Z" uid="207745" user="NE2" changeset="9181205">
+    <nd ref="8767447"/>
+    <nd ref="8767449"/>
+    <nd ref="8767451"/>
+    <nd ref="8767453"/>
+    <nd ref="343591547"/>
+    <tag k="FIXME:nsl" v="inferred dual-carriageway NSL - remove this tag once verified; if this is a Special Road, remove the source:maxspeed tag and add motorroad=yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="oneway" v="true"/>
+    <tag k="ref" v="A38"/>
+    <tag k="source:maxspeed" v="UK:nsl_dual"/>
+  </way>
+  <way id="9630647" version="8" timestamp="2011-10-19T07:10:07Z" uid="4951" user="PeterIto" changeset="9597101">
+    <nd ref="8767447"/>
+    <nd ref="8767449"/>
+    <nd ref="8767451"/>
+    <nd ref="8767453"/>
+    <nd ref="343591547"/>
+    <tag k="FIXME:nsl" v="inferred dual-carriageway NSL - remove this tag once verified; if this is a Special Road, remove the source:maxspeed tag and add motorroad=yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="oneway" v="true"/>
+    <tag k="ref" v="A38"/>
+    <tag k="source:maxspeed" v="UK:nsl_dual"/>
+  </way>
+</osm>

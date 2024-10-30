@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="90171086" version="2" timestamp="2011-03-12T18:41:40Z" uid="6269" user="Mueck" changeset="7536709">
+    <nd ref="14795187"/>
+    <nd ref="1045400157"/>
+    <nd ref="1198886278"/>
+    <nd ref="1045400209"/>
+    <nd ref="1198886275"/>
+    <nd ref="1198886227"/>
+    <nd ref="1198886299"/>
+    <nd ref="1198886185"/>
+    <nd ref="1045400301"/>
+    <nd ref="1198886236"/>
+    <nd ref="1198886324"/>
+    <nd ref="1045400294"/>
+    <nd ref="1198886302"/>
+    <nd ref="1198886256"/>
+    <nd ref="14852025"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Hans-Thoma-Straße"/>
+    <tag k="note" v="im SHP des NVK: II"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="90171086" version="3" timestamp="2011-07-25T14:25:40Z" uid="493999" user="BastiaanH" changeset="8826680">
+    <nd ref="14795187"/>
+    <nd ref="1045400157"/>
+    <nd ref="1198886278"/>
+    <nd ref="1045400209"/>
+    <nd ref="1198886275"/>
+    <nd ref="1198886227"/>
+    <nd ref="1198886299"/>
+    <nd ref="1198886185"/>
+    <nd ref="1045400301"/>
+    <nd ref="1198886236"/>
+    <nd ref="1198886324"/>
+    <nd ref="1045400294"/>
+    <nd ref="1198886302"/>
+    <nd ref="1198886256"/>
+    <nd ref="14852025"/>
+    <tag k="cycleway" v="shared_lane"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Hans-Thoma-Straße"/>
+    <tag k="note" v="im SHP des NVK: II"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="90171086" version="4" timestamp="2012-02-22T22:43:05Z" uid="165061" user="keinname" changeset="10763567">
+    <nd ref="14795187"/>
+    <nd ref="1045400157"/>
+    <nd ref="1198886278"/>
+    <nd ref="1045400209"/>
+    <tag k="cycleway" v="shared_lane"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Hans-Thoma-Straße"/>
+    <tag k="note" v="im SHP des NVK: II"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="90171090" version="2" timestamp="2011-03-12T18:41:40Z" uid="6269" user="Mueck" changeset="7536709">
+    <nd ref="21493239"/>
+    <nd ref="1198886184"/>
+    <nd ref="1198886170"/>
+    <nd ref="1045400343"/>
+    <nd ref="1198886182"/>
+    <nd ref="1045400209"/>
+    <tag k="highway" v="secondary_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="90171090" version="3" timestamp="2011-08-01T02:26:07Z" uid="493999" user="BastiaanH" changeset="8886786">
+    <nd ref="21493239"/>
+    <nd ref="1198886184"/>
+    <nd ref="1198886170"/>
+    <nd ref="1045400343"/>
+    <nd ref="1198886182"/>
+    <nd ref="1045400209"/>
+    <tag k="cycleway" v="lane"/>
+    <tag k="highway" v="secondary_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="90171090" version="4" timestamp="2012-02-22T22:43:12Z" uid="165061" user="keinname" changeset="10763567">
+    <nd ref="21493239"/>
+    <nd ref="1198886184"/>
+    <nd ref="1198886170"/>
+    <nd ref="1045400343"/>
+    <nd ref="1198886182"/>
+    <nd ref="1045400209"/>
+    <tag k="cycleway" v="lane"/>
+    <tag k="highway" v="secondary_link"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+</osm>

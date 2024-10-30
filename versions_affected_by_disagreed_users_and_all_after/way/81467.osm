@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="81467176" version="1" timestamp="2010-10-15T04:36:30Z" uid="4467" user="Rosscoe" changeset="6046159">
+    <nd ref="949368775"/>
+    <nd ref="949368771"/>
+    <nd ref="949368772"/>
+    <nd ref="949368773"/>
+    <nd ref="949368775"/>
+    <tag k="name" v="Quest Mooney Valley"/>
+    <tag k="source" v="knowledge;nearmap"/>
+    <tag k="tourism" v="motel"/>
+  </way>
+  <way id="81467357" version="1" timestamp="2010-10-15T04:39:29Z" uid="4467" user="Rosscoe" changeset="6046168">
+    <nd ref="809515390"/>
+    <nd ref="809514997"/>
+    <nd ref="809514969"/>
+    <nd ref="809515522"/>
+    <nd ref="809515107"/>
+    <tag k="highway" v="primary"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Maribyrnong Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="38"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="81467489" version="1" timestamp="2010-10-15T04:56:55Z" uid="4467" user="Rosscoe" changeset="6046207">
+    <nd ref="288068476"/>
+    <nd ref="282629917"/>
+    <nd ref="282631862"/>
+    <nd ref="282629935"/>
+    <nd ref="282631874"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="North Street"/>
+    <tag k="source" v="yahoo"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="81467489" version="2" timestamp="2010-10-26T01:56:38Z" uid="4467" user="Rosscoe" changeset="6178718">
+    <nd ref="288068476"/>
+    <nd ref="282629917"/>
+    <nd ref="282631862"/>
+    <nd ref="282629935"/>
+    <nd ref="282631874"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="North Street"/>
+    <tag k="source" v="yahoo"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="81467490" version="1" timestamp="2010-10-15T04:56:55Z" uid="4467" user="Rosscoe" changeset="6046207">
+    <nd ref="282630509"/>
+    <nd ref="65610677"/>
+    <tag k="highway" v="path"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="paved"/>
+  </way>
+</osm>

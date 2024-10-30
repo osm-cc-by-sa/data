@@ -1,0 +1,918 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="118166817" version="1" timestamp="2011-06-18T12:55:29Z" uid="7617" user="Franc" changeset="8473039">
+    <nd ref="665707020"/>
+    <nd ref="665707016"/>
+    <nd ref="665707015"/>
+    <nd ref="665707017"/>
+    <nd ref="665707010"/>
+    <nd ref="665707009"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="118166817" version="2" timestamp="2012-02-01T01:53:36Z" uid="54784" user="Tom Hollander" changeset="10555431">
+    <nd ref="665707020"/>
+    <nd ref="665707016"/>
+    <nd ref="665707015"/>
+    <nd ref="665707017"/>
+    <nd ref="665707010"/>
+    <nd ref="665707009"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="MR1"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="118166818" version="1" timestamp="2011-06-18T12:55:29Z" uid="7617" user="Franc" changeset="8473039">
+    <nd ref="17392936"/>
+    <nd ref="665707000"/>
+    <nd ref="30477943"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="118166818" version="2" timestamp="2012-02-01T02:06:12Z" uid="54784" user="Tom Hollander" changeset="10555431">
+    <nd ref="17392936"/>
+    <nd ref="665707000"/>
+    <nd ref="30477943"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="MR1"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="118166818" version="3" timestamp="2012-02-02T08:04:12Z" uid="7523" user="inas" changeset="10565177">
+    <nd ref="17392936"/>
+    <nd ref="665707000"/>
+    <nd ref="30477943"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="network" v="MR"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="1"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="118166819" version="1" timestamp="2011-06-18T12:55:29Z" uid="7617" user="Franc" changeset="8473039">
+    <nd ref="17392924"/>
+    <nd ref="17392923"/>
+    <nd ref="665707024"/>
+    <nd ref="17392922"/>
+    <nd ref="251722672"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="118166819" version="2" timestamp="2012-02-01T01:53:37Z" uid="54784" user="Tom Hollander" changeset="10555431">
+    <nd ref="17392924"/>
+    <nd ref="17392923"/>
+    <nd ref="665707024"/>
+    <nd ref="17392922"/>
+    <nd ref="251722672"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="MR1"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="118166819" version="3" timestamp="2012-02-02T08:04:18Z" uid="7523" user="inas" changeset="10565177">
+    <nd ref="17392924"/>
+    <nd ref="17392923"/>
+    <nd ref="665707024"/>
+    <nd ref="17392922"/>
+    <nd ref="251722672"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="network" v="MR"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="1"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="118166820" version="1" timestamp="2011-06-18T12:55:29Z" uid="7617" user="Franc" changeset="8473039">
+    <nd ref="1329584862"/>
+    <nd ref="17392948"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Kissing Point Road"/>
+    <tag k="source:name" v="local knowledge"/>
+  </way>
+  <way id="118166821" version="1" timestamp="2011-06-18T12:55:30Z" uid="7617" user="Franc" changeset="8473039">
+    <nd ref="35724597"/>
+    <nd ref="1183971874"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Rohini Street"/>
+    <tag k="source:name" v="local knowledge"/>
+  </way>
+  <way id="118166822" version="1" timestamp="2011-06-18T12:55:30Z" uid="7617" user="Franc" changeset="8473039">
+    <nd ref="251722672"/>
+    <nd ref="665707069"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Station Street"/>
+  </way>
+  <way id="118166823" version="1" timestamp="2011-06-18T12:55:30Z" uid="7617" user="Franc" changeset="8473039">
+    <nd ref="665707057"/>
+    <nd ref="17392917"/>
+    <nd ref="665707033"/>
+    <nd ref="665707036"/>
+    <nd ref="665707025"/>
+    <nd ref="17392916"/>
+    <nd ref="665707031"/>
+    <nd ref="17392915"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="118166823" version="2" timestamp="2012-02-01T01:53:37Z" uid="54784" user="Tom Hollander" changeset="10555431">
+    <nd ref="665707057"/>
+    <nd ref="17392917"/>
+    <nd ref="665707033"/>
+    <nd ref="665707036"/>
+    <nd ref="665707025"/>
+    <nd ref="17392916"/>
+    <nd ref="665707031"/>
+    <nd ref="17392915"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="MR1"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="118166823" version="3" timestamp="2012-02-02T08:04:29Z" uid="7523" user="inas" changeset="10565177">
+    <nd ref="665707057"/>
+    <nd ref="17392917"/>
+    <nd ref="665707033"/>
+    <nd ref="665707036"/>
+    <nd ref="665707025"/>
+    <nd ref="17392916"/>
+    <nd ref="665707031"/>
+    <nd ref="17392915"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="network" v="MR"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="1"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="118166824" version="1" timestamp="2011-06-18T12:55:30Z" uid="7617" user="Franc" changeset="8473039">
+    <nd ref="17392947"/>
+    <nd ref="35724597"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="6"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="118166824" version="2" timestamp="2012-02-02T08:04:08Z" uid="7523" user="inas" changeset="10565177">
+    <nd ref="17392947"/>
+    <nd ref="35724597"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="6"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="network" v="MR"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="1"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="118166825" version="1" timestamp="2011-06-18T12:55:30Z" uid="7617" user="Franc" changeset="8473039">
+    <nd ref="665707100"/>
+    <nd ref="665706999"/>
+    <nd ref="665707002"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="118166825" version="2" timestamp="2012-02-01T01:53:38Z" uid="54784" user="Tom Hollander" changeset="10555431">
+    <nd ref="665707100"/>
+    <nd ref="665706999"/>
+    <nd ref="665707002"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="MR1"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="118166826" version="1" timestamp="2011-06-18T12:55:31Z" uid="7617" user="Franc" changeset="8473039">
+    <nd ref="665707058"/>
+    <nd ref="665707061"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="118166826" version="2" timestamp="2012-02-01T01:53:38Z" uid="54784" user="Tom Hollander" changeset="10555431">
+    <nd ref="665707058"/>
+    <nd ref="665707061"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="MR1"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="118166827" version="1" timestamp="2011-06-18T12:55:31Z" uid="7617" user="Franc" changeset="8473039">
+    <nd ref="251722672"/>
+    <nd ref="665707067"/>
+    <nd ref="17392921"/>
+    <nd ref="665707066"/>
+    <nd ref="17392920"/>
+    <nd ref="665707060"/>
+    <nd ref="17392919"/>
+    <nd ref="665707062"/>
+    <nd ref="665707057"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="118166827" version="2" timestamp="2012-02-01T01:53:39Z" uid="54784" user="Tom Hollander" changeset="10555431">
+    <nd ref="251722672"/>
+    <nd ref="665707067"/>
+    <nd ref="17392921"/>
+    <nd ref="665707066"/>
+    <nd ref="17392920"/>
+    <nd ref="665707060"/>
+    <nd ref="17392919"/>
+    <nd ref="665707062"/>
+    <nd ref="665707057"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="MR1"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="118166827" version="3" timestamp="2012-02-02T08:04:30Z" uid="7523" user="inas" changeset="10565177">
+    <nd ref="251722672"/>
+    <nd ref="665707067"/>
+    <nd ref="17392921"/>
+    <nd ref="665707066"/>
+    <nd ref="17392920"/>
+    <nd ref="665707060"/>
+    <nd ref="17392919"/>
+    <nd ref="665707062"/>
+    <nd ref="665707057"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="network" v="MR"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="1"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="118166828" version="1" timestamp="2011-06-18T12:55:31Z" uid="7617" user="Franc" changeset="8473039">
+    <nd ref="17392948"/>
+    <nd ref="35724589"/>
+    <nd ref="29111886"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="6"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="118166828" version="2" timestamp="2012-02-01T02:06:12Z" uid="54784" user="Tom Hollander" changeset="10555431">
+    <nd ref="17392948"/>
+    <nd ref="35724589"/>
+    <nd ref="29111886"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="6"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="MR1"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="118166828" version="3" timestamp="2012-02-02T08:04:11Z" uid="7523" user="inas" changeset="10565177">
+    <nd ref="17392948"/>
+    <nd ref="35724589"/>
+    <nd ref="29111886"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="6"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="network" v="MR"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="1"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="118166829" version="1" timestamp="2011-06-18T12:55:31Z" uid="7617" user="Franc" changeset="8473039">
+    <nd ref="17392936"/>
+    <nd ref="665707004"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Bobbin Head Road"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="118166830" version="1" timestamp="2011-06-18T12:55:32Z" uid="7617" user="Franc" changeset="8473039">
+    <nd ref="665707030"/>
+    <nd ref="665707032"/>
+    <nd ref="665707026"/>
+    <nd ref="665707027"/>
+    <nd ref="665707035"/>
+    <nd ref="665707034"/>
+    <nd ref="665707038"/>
+    <nd ref="665707058"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="118166830" version="2" timestamp="2012-02-01T01:53:39Z" uid="54784" user="Tom Hollander" changeset="10555431">
+    <nd ref="665707030"/>
+    <nd ref="665707032"/>
+    <nd ref="665707026"/>
+    <nd ref="665707027"/>
+    <nd ref="665707035"/>
+    <nd ref="665707034"/>
+    <nd ref="665707038"/>
+    <nd ref="665707058"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="MR1"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="118166831" version="1" timestamp="2011-06-18T12:55:32Z" uid="7617" user="Franc" changeset="8473039">
+    <nd ref="17392932"/>
+    <nd ref="26391507"/>
+    <nd ref="26391491"/>
+    <nd ref="26391492"/>
+    <nd ref="251723613"/>
+    <nd ref="314816742"/>
+    <nd ref="247474324"/>
+    <nd ref="247474309"/>
+    <nd ref="26391494"/>
+    <nd ref="313676256"/>
+    <nd ref="247474258"/>
+    <nd ref="248417315"/>
+    <nd ref="21401338"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Telegraph Road"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:name" v="local knowledge"/>
+  </way>
+  <way id="118166836" version="1" timestamp="2011-06-18T12:55:32Z" uid="7617" user="Franc" changeset="8473039">
+    <nd ref="17392915"/>
+    <nd ref="1329584870"/>
+    <nd ref="17392914"/>
+    <nd ref="665707028"/>
+    <nd ref="1329584858"/>
+    <nd ref="245929254"/>
+    <nd ref="245929255"/>
+    <nd ref="245929411"/>
+    <nd ref="245929256"/>
+    <nd ref="665706993"/>
+    <nd ref="665706992"/>
+    <nd ref="665706989"/>
+    <nd ref="245929257"/>
+    <nd ref="665724955"/>
+    <nd ref="245929258"/>
+    <nd ref="245929259"/>
+    <nd ref="665724958"/>
+    <nd ref="17392910"/>
+    <nd ref="17392909"/>
+    <nd ref="1283909316"/>
+    <nd ref="264195472"/>
+    <nd ref="109707713"/>
+    <nd ref="17392908"/>
+    <nd ref="109704524"/>
+    <nd ref="665725073"/>
+    <nd ref="31429752"/>
+    <nd ref="29419452"/>
+    <nd ref="145476463"/>
+    <nd ref="29419449"/>
+    <nd ref="17392906"/>
+    <nd ref="29419447"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="118166836" version="2" timestamp="2011-06-18T13:26:37Z" uid="7617" user="Franc" changeset="8473322">
+    <nd ref="17392915"/>
+    <nd ref="1329584870"/>
+    <nd ref="17392914"/>
+    <nd ref="665707028"/>
+    <nd ref="1329584858"/>
+    <nd ref="245929254"/>
+    <nd ref="245929255"/>
+    <nd ref="245929411"/>
+    <nd ref="245929256"/>
+    <nd ref="665706993"/>
+    <nd ref="665706992"/>
+    <nd ref="665706989"/>
+    <nd ref="245929257"/>
+    <nd ref="665724955"/>
+    <nd ref="245929258"/>
+    <nd ref="245929259"/>
+    <nd ref="665724958"/>
+    <nd ref="17392910"/>
+    <nd ref="17392909"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="118166836" version="3" timestamp="2012-01-31T06:16:46Z" uid="54784" user="Tom Hollander" changeset="10546288">
+    <nd ref="17392915"/>
+    <nd ref="1329584870"/>
+    <nd ref="17392914"/>
+    <nd ref="665707028"/>
+    <nd ref="1329584858"/>
+    <nd ref="245929254"/>
+    <nd ref="245929255"/>
+    <nd ref="245929411"/>
+    <nd ref="245929256"/>
+    <nd ref="665706993"/>
+    <nd ref="665706992"/>
+    <nd ref="665706989"/>
+    <nd ref="245929257"/>
+    <nd ref="665724955"/>
+    <nd ref="245929258"/>
+    <nd ref="245929259"/>
+    <nd ref="665724958"/>
+    <nd ref="17392910"/>
+    <nd ref="17392909"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="MR1"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="118166836" version="4" timestamp="2012-02-02T08:04:05Z" uid="7523" user="inas" changeset="10565177">
+    <nd ref="17392915"/>
+    <nd ref="1329584870"/>
+    <nd ref="17392914"/>
+    <nd ref="665707028"/>
+    <nd ref="1329584858"/>
+    <nd ref="245929254"/>
+    <nd ref="245929255"/>
+    <nd ref="245929411"/>
+    <nd ref="245929256"/>
+    <nd ref="665706993"/>
+    <nd ref="665706992"/>
+    <nd ref="665706989"/>
+    <nd ref="245929257"/>
+    <nd ref="665724955"/>
+    <nd ref="245929258"/>
+    <nd ref="245929259"/>
+    <nd ref="665724958"/>
+    <nd ref="17392910"/>
+    <nd ref="17392909"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="network" v="MR"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="1"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="118166839" version="1" timestamp="2011-06-18T12:55:33Z" uid="7617" user="Franc" changeset="8473039">
+    <nd ref="665707058"/>
+    <nd ref="665707057"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Bloomsbury Avenue"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="118166840" version="1" timestamp="2011-06-18T12:55:34Z" uid="7617" user="Franc" changeset="8473039">
+    <nd ref="1183971877"/>
+    <nd ref="1329584868"/>
+    <nd ref="1183971843"/>
+    <nd ref="1183971845"/>
+    <nd ref="1183971841"/>
+    <nd ref="1183971874"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="118166840" version="2" timestamp="2012-02-01T02:06:12Z" uid="54784" user="Tom Hollander" changeset="10555431">
+    <nd ref="1183971877"/>
+    <nd ref="1329584868"/>
+    <nd ref="1183971843"/>
+    <nd ref="1183971845"/>
+    <nd ref="1183971841"/>
+    <nd ref="1183971874"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="MR1"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="118166841" version="1" timestamp="2011-06-18T12:55:34Z" uid="7617" user="Franc" changeset="8473039">
+    <nd ref="30477943"/>
+    <nd ref="1183945145"/>
+    <nd ref="1183945155"/>
+    <nd ref="26391489"/>
+    <nd ref="17392933"/>
+    <nd ref="313680522"/>
+    <nd ref="17392932"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="118166841" version="2" timestamp="2012-02-01T01:53:39Z" uid="54784" user="Tom Hollander" changeset="10555431">
+    <nd ref="30477943"/>
+    <nd ref="1183945145"/>
+    <nd ref="1183945155"/>
+    <nd ref="26391489"/>
+    <nd ref="17392933"/>
+    <nd ref="313680522"/>
+    <nd ref="17392932"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="MR1"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="118166841" version="3" timestamp="2012-02-02T08:04:25Z" uid="7523" user="inas" changeset="10565177">
+    <nd ref="30477943"/>
+    <nd ref="1183945145"/>
+    <nd ref="1183945155"/>
+    <nd ref="26391489"/>
+    <nd ref="17392933"/>
+    <nd ref="313680522"/>
+    <nd ref="17392932"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="network" v="MR"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="1"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="118166842" version="1" timestamp="2011-06-18T12:55:34Z" uid="7617" user="Franc" changeset="8473039">
+    <nd ref="665707014"/>
+    <nd ref="665707021"/>
+    <nd ref="665707023"/>
+    <nd ref="665707022"/>
+    <nd ref="665707020"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="118166842" version="2" timestamp="2012-02-01T01:53:40Z" uid="54784" user="Tom Hollander" changeset="10555431">
+    <nd ref="665707014"/>
+    <nd ref="665707021"/>
+    <nd ref="665707023"/>
+    <nd ref="665707022"/>
+    <nd ref="665707020"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="MR1"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="118166843" version="1" timestamp="2011-06-18T12:55:35Z" uid="7617" user="Franc" changeset="8473039">
+    <nd ref="17392946"/>
+    <nd ref="1183971820"/>
+    <nd ref="1183971893"/>
+    <nd ref="566599592"/>
+    <nd ref="1183971818"/>
+    <nd ref="17392945"/>
+    <nd ref="1183971896"/>
+    <nd ref="1183971829"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="6"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="118166843" version="2" timestamp="2012-02-01T02:06:13Z" uid="54784" user="Tom Hollander" changeset="10555431">
+    <nd ref="17392946"/>
+    <nd ref="1183971820"/>
+    <nd ref="1183971893"/>
+    <nd ref="566599592"/>
+    <nd ref="1183971818"/>
+    <nd ref="17392945"/>
+    <nd ref="1183971896"/>
+    <nd ref="1183971829"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="6"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="MR1"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="118166843" version="3" timestamp="2012-02-02T08:04:29Z" uid="7523" user="inas" changeset="10565177">
+    <nd ref="17392946"/>
+    <nd ref="1183971820"/>
+    <nd ref="1183971893"/>
+    <nd ref="566599592"/>
+    <nd ref="1183971818"/>
+    <nd ref="17392945"/>
+    <nd ref="1183971896"/>
+    <nd ref="1183971829"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="6"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="network" v="MR"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="1"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="118166844" version="1" timestamp="2011-06-18T12:55:35Z" uid="7617" user="Franc" changeset="8473039">
+    <nd ref="1183971839"/>
+    <nd ref="1183971846"/>
+    <nd ref="1329584862"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="118166844" version="2" timestamp="2012-02-01T02:06:13Z" uid="54784" user="Tom Hollander" changeset="10555431">
+    <nd ref="1183971839"/>
+    <nd ref="1183971846"/>
+    <nd ref="1329584862"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="MR1"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="118166845" version="1" timestamp="2011-06-18T12:55:35Z" uid="7617" user="Franc" changeset="8473039">
+    <nd ref="665707004"/>
+    <nd ref="665707117"/>
+    <nd ref="665707116"/>
+    <nd ref="665707106"/>
+    <nd ref="665707105"/>
+    <nd ref="665707104"/>
+    <nd ref="665707112"/>
+    <nd ref="665707113"/>
+    <nd ref="1329584851"/>
+    <nd ref="665707111"/>
+    <nd ref="665707110"/>
+    <nd ref="1183971837"/>
+    <nd ref="1183971838"/>
+    <nd ref="1183971834"/>
+    <nd ref="1183971835"/>
+    <nd ref="1183971877"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="118166845" version="2" timestamp="2012-02-01T02:06:14Z" uid="54784" user="Tom Hollander" changeset="10555431">
+    <nd ref="665707004"/>
+    <nd ref="665707117"/>
+    <nd ref="665707116"/>
+    <nd ref="665707106"/>
+    <nd ref="665707105"/>
+    <nd ref="665707104"/>
+    <nd ref="665707112"/>
+    <nd ref="665707113"/>
+    <nd ref="1329584851"/>
+    <nd ref="665707111"/>
+    <nd ref="665707110"/>
+    <nd ref="1183971837"/>
+    <nd ref="1183971838"/>
+    <nd ref="1183971834"/>
+    <nd ref="1183971835"/>
+    <nd ref="1183971877"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="MR1"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="118166846" version="1" timestamp="2011-06-18T12:55:35Z" uid="7617" user="Franc" changeset="8473039">
+    <nd ref="665707030"/>
+    <nd ref="17392915"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Bridge Street"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="118166847" version="1" timestamp="2011-06-18T12:55:35Z" uid="7617" user="Franc" changeset="8473039">
+    <nd ref="1329584862"/>
+    <nd ref="1183971854"/>
+    <nd ref="1183971832"/>
+    <nd ref="1183971852"/>
+    <nd ref="1183971850"/>
+    <nd ref="1183971849"/>
+    <nd ref="1183971851"/>
+    <nd ref="1183971859"/>
+    <nd ref="665707107"/>
+    <nd ref="1183971857"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="118166847" version="2" timestamp="2012-02-01T02:06:14Z" uid="54784" user="Tom Hollander" changeset="10555431">
+    <nd ref="1329584862"/>
+    <nd ref="1183971854"/>
+    <nd ref="1183971832"/>
+    <nd ref="1183971852"/>
+    <nd ref="1183971850"/>
+    <nd ref="1183971849"/>
+    <nd ref="1183971851"/>
+    <nd ref="1183971859"/>
+    <nd ref="665707107"/>
+    <nd ref="1183971857"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="MR1"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="118166848" version="1" timestamp="2011-06-18T12:55:36Z" uid="7617" user="Franc" changeset="8473039">
+    <nd ref="17392946"/>
+    <nd ref="243950997"/>
+    <nd ref="243950973"/>
+    <nd ref="1135648211"/>
+    <nd ref="243950972"/>
+    <nd ref="127529956"/>
+    <nd ref="127530005"/>
+    <nd ref="26391528"/>
+    <nd ref="243949968"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Turramurra Avenue"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="118166849" version="1" timestamp="2011-06-18T12:55:36Z" uid="7617" user="Franc" changeset="8473039">
+    <nd ref="665707020"/>
+    <nd ref="17392924"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Livingstone Avenue"/>
+  </way>
+  <way id="118166850" version="1" timestamp="2011-06-18T12:55:36Z" uid="7617" user="Franc" changeset="8473039">
+    <nd ref="1183971842"/>
+    <nd ref="1183971839"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="118166850" version="2" timestamp="2012-02-01T02:06:15Z" uid="54784" user="Tom Hollander" changeset="10555431">
+    <nd ref="1183971842"/>
+    <nd ref="1183971839"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="MR1"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="118166851" version="1" timestamp="2011-06-18T12:55:37Z" uid="7617" user="Franc" changeset="8473039">
+    <nd ref="1183971874"/>
+    <nd ref="1183971842"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="118166852" version="1" timestamp="2011-06-18T12:55:37Z" uid="7617" user="Franc" changeset="8473039">
+    <nd ref="665707002"/>
+    <nd ref="30477943"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Beechworth Road"/>
+  </way>
+  <way id="118166853" version="1" timestamp="2011-06-18T12:55:37Z" uid="7617" user="Franc" changeset="8473039">
+    <nd ref="17392932"/>
+    <nd ref="665707085"/>
+    <nd ref="17392931"/>
+    <nd ref="17392930"/>
+    <nd ref="17392929"/>
+    <nd ref="665707077"/>
+    <nd ref="675435589"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="118166853" version="2" timestamp="2012-02-01T01:53:40Z" uid="54784" user="Tom Hollander" changeset="10555431">
+    <nd ref="17392932"/>
+    <nd ref="665707085"/>
+    <nd ref="17392931"/>
+    <nd ref="17392930"/>
+    <nd ref="17392929"/>
+    <nd ref="665707077"/>
+    <nd ref="675435589"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="MR1"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="118166853" version="3" timestamp="2012-02-02T08:04:24Z" uid="7523" user="inas" changeset="10565177">
+    <nd ref="17392932"/>
+    <nd ref="665707085"/>
+    <nd ref="17392931"/>
+    <nd ref="17392930"/>
+    <nd ref="17392929"/>
+    <nd ref="665707077"/>
+    <nd ref="675435589"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="network" v="MR"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="1"/>
+    <tag k="source" v="survey"/>
+  </way>
+</osm>

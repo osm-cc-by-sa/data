@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="36677899" version="1" timestamp="2009-06-20T05:24:25Z" uid="43863" user="Rundling" changeset="1571027">
+    <nd ref="426419758"/>
+    <nd ref="292160807"/>
+    <tag k="highway" v="footway"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="36677899" version="2" timestamp="2009-09-20T20:04:14Z" uid="43815" user="gauron" changeset="2551332"/>
+  <way id="36677900" version="1" timestamp="2009-06-20T05:24:25Z" uid="43863" user="Rundling" changeset="1571027">
+    <nd ref="426419761"/>
+    <nd ref="426419758"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="footway"/>
+    <tag k="layer" v="1"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="36677901" version="1" timestamp="2009-06-20T05:24:25Z" uid="43863" user="Rundling" changeset="1571027">
+    <nd ref="426419765"/>
+    <nd ref="426419763"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="footway"/>
+    <tag k="layer" v="1"/>
+  </way>
+  <way id="36677901" version="3" timestamp="2010-05-21T08:21:34Z" uid="43815" user="gauron" changeset="4763689">
+    <nd ref="426419765"/>
+    <nd ref="742228193"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="track"/>
+    <tag k="layer" v="1"/>
+    <tag k="surface" v="dirt"/>
+  </way>
+  <way id="36677902" version="1" timestamp="2009-06-20T05:24:25Z" uid="43863" user="Rundling" changeset="1571027">
+    <nd ref="426419763"/>
+    <nd ref="410691125"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="36677902" version="3" timestamp="2009-07-06T06:32:45Z" uid="43815" user="gauron" changeset="1746276">
+    <nd ref="426419763"/>
+    <nd ref="410691125"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="footway"/>
+    <tag k="surface" v="dirt"/>
+  </way>
+  <way id="36677902" version="4" timestamp="2009-07-06T06:33:10Z" uid="43815" user="gauron" changeset="1746276">
+    <nd ref="435098288"/>
+    <nd ref="435098291"/>
+    <nd ref="426419763"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="footway"/>
+    <tag k="surface" v="dirt"/>
+  </way>
+  <way id="36677902" version="5" timestamp="2009-07-06T06:33:14Z" uid="43815" user="gauron" changeset="1746276">
+    <nd ref="435098288"/>
+    <nd ref="435098291"/>
+    <nd ref="426419763"/>
+    <tag k="highway" v="track"/>
+    <tag k="surface" v="dirt"/>
+  </way>
+  <way id="36677902" version="6" timestamp="2009-08-24T13:00:34Z" uid="43815" user="gauron" changeset="2244019">
+    <nd ref="435098288"/>
+    <nd ref="435098291"/>
+    <nd ref="426419763"/>
+    <tag k="highway" v="track"/>
+    <tag k="surface" v="dirt"/>
+    <tag k="tracktype" v="grade5"/>
+  </way>
+  <way id="36677902" version="7" timestamp="2010-05-21T08:21:35Z" uid="43815" user="gauron" changeset="4763689">
+    <nd ref="742228193"/>
+    <nd ref="426419763"/>
+    <nd ref="742228194"/>
+    <nd ref="435098291"/>
+    <nd ref="435098288"/>
+    <tag k="highway" v="track"/>
+    <tag k="surface" v="dirt"/>
+    <tag k="tracktype" v="grade5"/>
+  </way>
+  <way id="36677902" version="8" timestamp="2010-12-01T20:01:57Z" uid="43815" user="gauron" changeset="6507802">
+    <nd ref="742228193"/>
+    <nd ref="426419763"/>
+    <nd ref="742228194"/>
+    <nd ref="1014953355"/>
+    <nd ref="435098291"/>
+    <nd ref="1014953324"/>
+    <nd ref="435098288"/>
+    <tag k="highway" v="track"/>
+    <tag k="surface" v="dirt"/>
+    <tag k="tracktype" v="grade5"/>
+  </way>
+</osm>

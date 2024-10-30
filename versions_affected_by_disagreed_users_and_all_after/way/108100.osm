@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="108100548" version="1" timestamp="2011-04-11T12:04:43Z" uid="4467" user="Rosscoe" changeset="7832328">
+    <nd ref="1240852816"/>
+    <nd ref="320490814"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="John Field Drive"/>
+  </way>
+  <way id="108100548" version="2" timestamp="2012-01-21T05:28:15Z" uid="11111" user="melb_guy" changeset="10452588"/>
+  <way id="108100549" version="1" timestamp="2011-04-11T12:04:43Z" uid="4467" user="Rosscoe" changeset="7832328">
+    <nd ref="1227830997"/>
+    <nd ref="1227830998"/>
+    <nd ref="1227830996"/>
+    <nd ref="1240852838"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="108100549" version="2" timestamp="2011-07-15T20:58:31Z" uid="32810" user="Yoda" changeset="8734746">
+    <nd ref="1227830997"/>
+    <nd ref="1227830998"/>
+    <nd ref="1363067032"/>
+    <nd ref="1227830996"/>
+    <nd ref="1240852838"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="108100549" version="3" timestamp="2012-01-18T06:18:05Z" uid="11111" user="melb_guy" changeset="10424448">
+    <nd ref="1227830997"/>
+    <nd ref="1595867941"/>
+    <nd ref="1227830998"/>
+    <nd ref="1363067032"/>
+    <nd ref="1227830996"/>
+    <nd ref="1240852838"/>
+    <tag k="highway" v="tertiary_link"/>
+    <tag k="lanes" v="1"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="108100550" version="1" timestamp="2011-04-11T12:04:44Z" uid="4467" user="Rosscoe" changeset="7832328">
+    <nd ref="1240852830"/>
+    <nd ref="1240852816"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="John Field Drive"/>
+  </way>
+  <way id="108100550" version="2" timestamp="2012-01-21T05:28:16Z" uid="11111" user="melb_guy" changeset="10452588"/>
+</osm>

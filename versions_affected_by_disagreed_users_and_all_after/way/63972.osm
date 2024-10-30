@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="63972408" version="2" timestamp="2010-07-25T14:01:16Z" uid="4467" user="Rosscoe" changeset="5312110">
+    <nd ref="475516456"/>
+    <nd ref="789568375"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="path"/>
+    <tag k="layer" v="1"/>
+    <tag k="surface" v="concrete"/>
+  </way>
+  <way id="63972408" version="3" timestamp="2010-08-28T13:47:41Z" uid="232912" user="Jack Kirby" changeset="5616234">
+    <nd ref="475516456"/>
+    <nd ref="789568375"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="path"/>
+    <tag k="motorcar" v="no"/>
+    <tag k="motorcycle" v="no"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="surface" v="concrete"/>
+  </way>
+  <way id="63972408" version="4" timestamp="2010-09-04T11:31:12Z" uid="12434" user="nm7s9" changeset="5677794"/>
+  <way id="63972409" version="2" timestamp="2010-07-25T14:01:18Z" uid="4467" user="Rosscoe" changeset="5312110">
+    <nd ref="789568389"/>
+    <nd ref="789568423"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="path"/>
+    <tag k="layer" v="1"/>
+    <tag k="surface" v="concrete"/>
+  </way>
+  <way id="63972409" version="3" timestamp="2010-09-04T11:54:40Z" uid="12434" user="nm7s9" changeset="5678038">
+    <nd ref="789568389"/>
+    <nd ref="789568423"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="bridge_number" v="2018"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="path"/>
+    <tag k="layer" v="1"/>
+    <tag k="surface" v="concrete"/>
+  </way>
+  <way id="63972478" version="2" timestamp="2010-07-08T17:42:11Z" uid="74617" user="JohnSmith" changeset="5167338">
+    <nd ref="357010134"/>
+    <nd ref="789578146"/>
+    <nd ref="789578149"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Zig Zag Road"/>
+  </way>
+  <way id="63972478" version="3" timestamp="2012-01-20T10:37:59Z" uid="147510" user="woodpeck_fixbot" changeset="10443754">
+    <nd ref="357010134"/>
+    <nd ref="789578146"/>
+    <nd ref="789578149"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Zig Zag Road"/>
+  </way>
+  <way id="63972489" version="2" timestamp="2011-04-19T20:48:45Z" uid="9581" user="Lobelt" changeset="7910930">
+    <nd ref="270729496"/>
+    <nd ref="270729497"/>
+    <nd ref="270729498"/>
+    <nd ref="270729499"/>
+    <nd ref="270729500"/>
+    <nd ref="270729501"/>
+    <nd ref="270729502"/>
+    <nd ref="270729503"/>
+    <nd ref="270729504"/>
+    <nd ref="270729505"/>
+    <nd ref="270729506"/>
+    <nd ref="270729507"/>
+    <nd ref="270729508"/>
+    <nd ref="270729509"/>
+    <nd ref="270729510"/>
+    <nd ref="270729511"/>
+    <nd ref="270729512"/>
+    <nd ref="270729513"/>
+    <nd ref="270729514"/>
+    <nd ref="270729515"/>
+    <nd ref="270729516"/>
+    <nd ref="270729517"/>
+    <nd ref="270729518"/>
+    <nd ref="270729519"/>
+    <nd ref="729742742"/>
+    <nd ref="729742736"/>
+    <tag k="cables" v="6"/>
+    <tag k="frequency" v="50"/>
+    <tag k="operator" v="EON_Thüringen"/>
+    <tag k="power" v="line"/>
+    <tag k="voltage" v="110000"/>
+    <tag k="wires" v="single"/>
+  </way>
+  <way id="63972489" version="3" timestamp="2012-02-14T08:09:58Z" uid="125832" user="tijuca" changeset="10680470"/>
+  <way id="63972491" version="2" timestamp="2011-05-04T10:30:51Z" uid="9581" user="Lobelt" changeset="8047615">
+    <nd ref="789581753"/>
+    <nd ref="789581775"/>
+    <nd ref="789581786"/>
+    <nd ref="789581793"/>
+    <nd ref="789581804"/>
+    <nd ref="789581812"/>
+    <nd ref="789581819"/>
+    <nd ref="789581839"/>
+    <nd ref="789581850"/>
+    <nd ref="789581753"/>
+    <tag k="barrier" v="fence"/>
+    <tag k="frequency" v="50"/>
+    <tag k="name" v="Umspannwerk Oberröppisch"/>
+    <tag k="operator" v="EON_TEAG"/>
+    <tag k="power" v="station"/>
+    <tag k="voltage" v="110000"/>
+  </way>
+</osm>

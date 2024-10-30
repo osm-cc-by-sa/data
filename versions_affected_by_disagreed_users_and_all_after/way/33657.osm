@@ -1,0 +1,800 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="33657106" version="2" timestamp="2011-02-20T10:54:08Z" uid="4467" user="Rosscoe" changeset="7340691">
+    <nd ref="385035081"/>
+    <nd ref="385035082"/>
+    <nd ref="385035083"/>
+    <nd ref="385035084"/>
+    <nd ref="385035085"/>
+    <nd ref="385035081"/>
+    <tag k="amenity" v="parking"/>
+  </way>
+  <way id="33657415" version="1" timestamp="2009-04-26T01:03:59Z" uid="26515" user="Simon Ward" changeset="965284">
+    <nd ref="385035133"/>
+    <nd ref="385035134"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Rugby-Birmingham-Stafford Line"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="npe;survey"/>
+  </way>
+  <way id="33657415" version="2" timestamp="2011-10-29T18:13:41Z" uid="458747" user="The Islander" changeset="9686985">
+    <nd ref="385035133"/>
+    <nd ref="385035134"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Rugby-Birmingham-Stafford Line"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="npe;survey"/>
+  </way>
+  <way id="33657415" version="3" timestamp="2011-10-30T17:27:02Z" uid="42429" user="FK270673" changeset="9695955">
+    <nd ref="385035133"/>
+    <nd ref="385035134"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="frequency" v="50"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Rugby-Birmingham-Stafford Line"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="npe;survey"/>
+    <tag k="voltage" v="25000"/>
+  </way>
+  <way id="33657417" version="1" timestamp="2009-04-26T01:03:59Z" uid="26515" user="Simon Ward" changeset="965284">
+    <nd ref="385035134"/>
+    <nd ref="290236057"/>
+    <nd ref="290236055"/>
+    <nd ref="377095673"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Rugby-Birmingham-Stafford Line"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="npe"/>
+  </way>
+  <way id="33657417" version="2" timestamp="2011-08-21T15:55:58Z" uid="9065" user="brianboru" changeset="9085620">
+    <nd ref="385035134"/>
+    <nd ref="290236057"/>
+    <nd ref="1407209965"/>
+    <nd ref="290236055"/>
+    <nd ref="377095673"/>
+    <tag k="name" v="Rugby-Birmingham-Stafford Line"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="npe"/>
+  </way>
+  <way id="33657417" version="3" timestamp="2011-10-29T18:13:51Z" uid="458747" user="The Islander" changeset="9686985">
+    <nd ref="385035134"/>
+    <nd ref="290236057"/>
+    <nd ref="1407209965"/>
+    <nd ref="290236055"/>
+    <nd ref="377095673"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="name" v="Rugby-Birmingham-Stafford Line"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="npe"/>
+  </way>
+  <way id="33657417" version="4" timestamp="2011-10-30T17:27:32Z" uid="42429" user="FK270673" changeset="9695955">
+    <nd ref="385035134"/>
+    <nd ref="290236057"/>
+    <nd ref="1407209965"/>
+    <nd ref="290236055"/>
+    <nd ref="377095673"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="frequency" v="50"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="name" v="Rugby-Birmingham-Stafford Line"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="npe"/>
+    <tag k="voltage" v="25000"/>
+  </way>
+  <way id="33657417" version="5" timestamp="2012-01-31T13:13:24Z" uid="9065" user="brianboru" changeset="10549158"/>
+  <way id="33657748" version="3" timestamp="2010-07-08T19:40:16Z" uid="74617" user="JohnSmith" changeset="5168730">
+    <nd ref="605128092"/>
+    <nd ref="605128506"/>
+    <nd ref="605128511"/>
+    <nd ref="605128514"/>
+    <nd ref="605128517"/>
+    <nd ref="605128522"/>
+    <nd ref="605128525"/>
+    <nd ref="385035163"/>
+    <nd ref="30882889"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Pecks Road"/>
+  </way>
+  <way id="33657748" version="4" timestamp="2012-01-18T20:10:23Z" uid="147510" user="woodpeck_fixbot" changeset="10429293">
+    <nd ref="605128092"/>
+    <nd ref="605128506"/>
+    <nd ref="605128511"/>
+    <nd ref="605128514"/>
+    <nd ref="605128517"/>
+    <nd ref="605128522"/>
+    <nd ref="605128525"/>
+    <nd ref="385035163"/>
+    <nd ref="30882889"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Pecks Road"/>
+  </way>
+  <way id="33657750" version="7" timestamp="2010-07-08T19:29:26Z" uid="74617" user="JohnSmith" changeset="5168730">
+    <nd ref="385035141"/>
+    <nd ref="385035175"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Pecks Road"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="33657750" version="8" timestamp="2012-01-18T20:10:26Z" uid="147510" user="woodpeck_fixbot" changeset="10429293">
+    <nd ref="385035141"/>
+    <nd ref="385035175"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Pecks Road"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="33657760" version="2" timestamp="2010-07-08T19:28:31Z" uid="74617" user="JohnSmith" changeset="5168730">
+    <nd ref="385035178"/>
+    <nd ref="385035180"/>
+    <nd ref="385035181"/>
+    <nd ref="385035182"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="33657760" version="3" timestamp="2012-01-18T20:10:27Z" uid="147510" user="woodpeck_fixbot" changeset="10429293">
+    <nd ref="385035178"/>
+    <nd ref="385035180"/>
+    <nd ref="385035181"/>
+    <nd ref="385035182"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="33657762" version="2" timestamp="2010-07-08T19:42:31Z" uid="74617" user="JohnSmith" changeset="5168730">
+    <nd ref="385035189"/>
+    <nd ref="385035182"/>
+    <nd ref="385035190"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="33657762" version="3" timestamp="2012-01-18T20:10:31Z" uid="147510" user="woodpeck_fixbot" changeset="10429293">
+    <nd ref="385035189"/>
+    <nd ref="385035182"/>
+    <nd ref="385035190"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="33657767" version="7" timestamp="2011-05-08T09:13:07Z" uid="9581" user="Lobelt" changeset="8080437">
+    <nd ref="27360622"/>
+    <nd ref="27360623"/>
+    <nd ref="27360624"/>
+    <nd ref="27360625"/>
+    <nd ref="674096328"/>
+    <nd ref="27360626"/>
+    <nd ref="27360627"/>
+    <nd ref="1276831944"/>
+    <nd ref="1276831853"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="120"/>
+    <tag k="motorroad" v="yes"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="B 41"/>
+  </way>
+  <way id="33657767" version="8" timestamp="2011-12-21T15:24:26Z" uid="76351" user="mightym" changeset="10172573"/>
+  <way id="33657772" version="2" timestamp="2011-02-20T10:54:08Z" uid="4467" user="Rosscoe" changeset="7340691">
+    <nd ref="385035235"/>
+    <nd ref="385035236"/>
+    <nd ref="385035237"/>
+    <nd ref="385035238"/>
+    <nd ref="385035235"/>
+    <tag k="amenity" v="parking"/>
+  </way>
+  <way id="33657773" version="2" timestamp="2011-02-20T10:54:08Z" uid="4467" user="Rosscoe" changeset="7340691">
+    <nd ref="385035239"/>
+    <nd ref="1163110180"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="33657774" version="3" timestamp="2010-07-08T19:32:08Z" uid="74617" user="JohnSmith" changeset="5168730">
+    <nd ref="309589202"/>
+    <nd ref="385035241"/>
+    <nd ref="585523730"/>
+    <nd ref="385035242"/>
+    <nd ref="585523737"/>
+    <nd ref="385035243"/>
+    <nd ref="385035244"/>
+    <nd ref="385035245"/>
+    <nd ref="385035246"/>
+    <nd ref="385035247"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="33657774" version="4" timestamp="2012-01-18T20:10:32Z" uid="147510" user="woodpeck_fixbot" changeset="10429293">
+    <nd ref="309589202"/>
+    <nd ref="385035241"/>
+    <nd ref="585523730"/>
+    <nd ref="385035242"/>
+    <nd ref="585523737"/>
+    <nd ref="385035243"/>
+    <nd ref="385035244"/>
+    <nd ref="385035245"/>
+    <nd ref="385035246"/>
+    <nd ref="385035247"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="33657777" version="1" timestamp="2009-04-26T01:07:25Z" uid="26515" user="Simon Ward" changeset="965360">
+    <nd ref="245805105"/>
+    <nd ref="370703243"/>
+    <nd ref="370703239"/>
+    <nd ref="271391387"/>
+    <tag k="created_by" v="Potlatch 0.10b"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Oldbury Road"/>
+    <tag k="ref" v="B4166"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="33657777" version="2" timestamp="2010-12-26T01:04:24Z" uid="105474" user="Miked29" changeset="6765050">
+    <nd ref="245805105"/>
+    <nd ref="1064828693"/>
+    <nd ref="1064828836"/>
+    <nd ref="1064828730"/>
+    <nd ref="370703243"/>
+    <nd ref="370703239"/>
+    <nd ref="271391387"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Oldbury Road"/>
+    <tag k="ref" v="B4166"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="33657777" version="3" timestamp="2011-04-02T07:46:44Z" uid="121999" user="MaryEliz" changeset="7741598">
+    <nd ref="245805105"/>
+    <nd ref="1064828693"/>
+    <nd ref="1064828836"/>
+    <nd ref="1064828730"/>
+    <nd ref="370703243"/>
+    <nd ref="370703239"/>
+    <nd ref="271391387"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Oldbury Road"/>
+    <tag k="not:name" v="West Bromwich Street"/>
+    <tag k="ref" v="B4166"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="33657777" version="4" timestamp="2011-10-16T20:04:37Z" uid="735" user="blackadder" changeset="9576531">
+    <nd ref="245805105"/>
+    <nd ref="1064828693"/>
+    <nd ref="1064828836"/>
+    <nd ref="1064828730"/>
+    <nd ref="370703243"/>
+    <nd ref="1469880580"/>
+    <nd ref="370703239"/>
+    <nd ref="271391387"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Oldbury Road"/>
+    <tag k="not:name" v="West Bromwich Street"/>
+    <tag k="ref" v="B4166"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="33657777" version="5" timestamp="2011-10-17T09:20:48Z" uid="735" user="blackadder" changeset="9580032">
+    <nd ref="245805105"/>
+    <nd ref="1064828693"/>
+    <nd ref="1064828836"/>
+    <nd ref="1064828730"/>
+    <nd ref="370703243"/>
+    <nd ref="1469880580"/>
+    <nd ref="370703239"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Oldbury Road"/>
+    <tag k="not:name" v="West Bromwich Street"/>
+    <tag k="ref" v="B4166"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="33657777" version="6" timestamp="2011-11-05T21:14:12Z" uid="105474" user="Miked29" changeset="9750638">
+    <nd ref="245805105"/>
+    <nd ref="1064828693"/>
+    <nd ref="1064828836"/>
+    <nd ref="1064828730"/>
+    <nd ref="370703243"/>
+    <nd ref="1469880580"/>
+    <nd ref="370703239"/>
+    <tag k="gritting" v="priority_1"/>
+    <tag k="gritting_operator" v="Sandwell MBC"/>
+    <tag k="gritting_route_ref" v="3"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="name" v="Oldbury Road"/>
+    <tag k="not:name" v="West Bromwich Street"/>
+    <tag k="ref" v="B4166"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="33657777" version="7" timestamp="2011-12-09T16:11:54Z" uid="9065" user="brianboru" changeset="10074138">
+    <nd ref="245805105"/>
+    <nd ref="1538331262"/>
+    <nd ref="1064828693"/>
+    <nd ref="1064828836"/>
+    <nd ref="1064828730"/>
+    <nd ref="370703243"/>
+    <nd ref="1469880580"/>
+    <nd ref="370703239"/>
+    <tag k="gritting" v="priority_1"/>
+    <tag k="gritting_operator" v="Sandwell MBC"/>
+    <tag k="gritting_route_ref" v="3"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="name" v="Oldbury Road"/>
+    <tag k="not:name" v="West Bromwich Street"/>
+    <tag k="ref" v="B4166"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="33657777" version="8" timestamp="2012-01-31T13:20:49Z" uid="9065" user="brianboru" changeset="10549213"/>
+  <way id="33657869" version="1" timestamp="2009-04-26T01:14:37Z" uid="26515" user="Simon Ward" changeset="965545">
+    <nd ref="385015662"/>
+    <nd ref="385035947"/>
+    <nd ref="385015658"/>
+    <nd ref="385015659"/>
+    <nd ref="385035946"/>
+    <nd ref="385015660"/>
+    <nd ref="385035944"/>
+    <nd ref="245805110"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Vernon Street"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="33657869" version="2" timestamp="2009-04-26T01:22:43Z" uid="26515" user="Simon Ward" changeset="965738">
+    <nd ref="385015662"/>
+    <nd ref="385035947"/>
+    <nd ref="385015658"/>
+    <nd ref="385015659"/>
+    <nd ref="385035946"/>
+    <nd ref="385015660"/>
+    <nd ref="385035944"/>
+    <nd ref="245805110"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed:mph" v="20"/>
+    <tag k="name" v="Vernon Street"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="33657869" version="3" timestamp="2011-05-03T22:32:48Z" uid="4951" user="PeterIto" changeset="8044537">
+    <nd ref="385015662"/>
+    <nd ref="385035947"/>
+    <nd ref="385015658"/>
+    <nd ref="385015659"/>
+    <nd ref="385035946"/>
+    <nd ref="385015660"/>
+    <nd ref="385035944"/>
+    <nd ref="245805110"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="name" v="Vernon Street"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="33657869" version="4" timestamp="2012-02-27T14:59:21Z" uid="9065" user="brianboru" changeset="10809298"/>
+  <way id="33657870" version="1" timestamp="2009-04-26T01:14:37Z" uid="26515" user="Simon Ward" changeset="965545">
+    <nd ref="385035949"/>
+    <nd ref="385035950"/>
+    <tag k="FIXME" v="unsurveyed"/>
+    <tag k="highway" v="footway"/>
+    <tag k="name" v="Grenville Place"/>
+  </way>
+  <way id="33657870" version="2" timestamp="2009-04-26T01:18:04Z" uid="26515" user="Simon Ward" changeset="965644">
+    <nd ref="385035949"/>
+    <nd ref="385035950"/>
+    <tag k="highway" v="footway"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Grenville Place"/>
+    <tag k="source" v="extrapolation"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="33657870" version="3" timestamp="2009-04-26T01:19:18Z" uid="26515" user="Simon Ward" changeset="965677">
+    <nd ref="385035949"/>
+    <nd ref="385035950"/>
+    <nd ref="385036288"/>
+    <tag k="FIXME" v="unsurveyed;incomplete"/>
+    <tag k="highway" v="footway"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Grenville Place"/>
+    <tag k="source" v="extrapolation"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="33657870" version="4" timestamp="2012-02-27T14:59:20Z" uid="9065" user="brianboru" changeset="10809298"/>
+  <way id="33657871" version="1" timestamp="2009-04-26T01:14:37Z" uid="26515" user="Simon Ward" changeset="965545">
+    <nd ref="385035952"/>
+    <nd ref="385035953"/>
+    <tag k="FIXME" v="unsurveyed"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Whitgreave Court"/>
+    <tag k="noexit" v="yes"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="33657871" version="2" timestamp="2009-04-26T01:14:57Z" uid="26515" user="Simon Ward" changeset="965557">
+    <nd ref="385035952"/>
+    <nd ref="385035953"/>
+    <tag k="FIXME" v="unsurveyed"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Whitgreave Court"/>
+    <tag k="noexit" v="yes"/>
+    <tag k="postal_code" v="B70"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="33657871" version="3" timestamp="2012-02-27T14:59:21Z" uid="9065" user="brianboru" changeset="10809298"/>
+  <way id="33657930" version="1" timestamp="2009-04-26T01:22:04Z" uid="26515" user="Simon Ward" changeset="965736">
+    <nd ref="385036337"/>
+    <nd ref="385036338"/>
+    <nd ref="385036339"/>
+    <tag k="highway" v="footway"/>
+    <tag k="source" v="extrapolation"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="33657930" version="2" timestamp="2012-02-27T14:59:21Z" uid="9065" user="brianboru" changeset="10809298"/>
+  <way id="33657960" version="2" timestamp="2010-07-08T19:37:50Z" uid="74617" user="JohnSmith" changeset="5168730">
+    <nd ref="385035245"/>
+    <nd ref="385036943"/>
+    <nd ref="385036944"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="33657960" version="3" timestamp="2012-01-18T20:10:35Z" uid="147510" user="woodpeck_fixbot" changeset="10429293">
+    <nd ref="385035245"/>
+    <nd ref="385036943"/>
+    <nd ref="385036944"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="33657961" version="2" timestamp="2010-07-08T19:41:46Z" uid="74617" user="JohnSmith" changeset="5168730">
+    <nd ref="385036944"/>
+    <nd ref="385036945"/>
+    <nd ref="385036946"/>
+    <nd ref="385036947"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="33657961" version="3" timestamp="2012-01-18T20:10:38Z" uid="147510" user="woodpeck_fixbot" changeset="10429293">
+    <nd ref="385036944"/>
+    <nd ref="385036945"/>
+    <nd ref="385036946"/>
+    <nd ref="385036947"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="33657963" version="2" timestamp="2010-07-08T19:32:06Z" uid="74617" user="JohnSmith" changeset="5168730">
+    <nd ref="385036954"/>
+    <nd ref="385036947"/>
+    <nd ref="385036955"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="33657963" version="3" timestamp="2012-01-18T20:10:39Z" uid="147510" user="woodpeck_fixbot" changeset="10429293">
+    <nd ref="385036954"/>
+    <nd ref="385036947"/>
+    <nd ref="385036955"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="33657964" version="2" timestamp="2010-07-08T19:33:31Z" uid="74617" user="JohnSmith" changeset="5168730">
+    <nd ref="385036944"/>
+    <nd ref="385036956"/>
+    <nd ref="385036957"/>
+    <nd ref="385036958"/>
+    <nd ref="385036959"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="33657964" version="3" timestamp="2012-01-18T20:10:40Z" uid="147510" user="woodpeck_fixbot" changeset="10429293">
+    <nd ref="385036944"/>
+    <nd ref="385036956"/>
+    <nd ref="385036957"/>
+    <nd ref="385036958"/>
+    <nd ref="385036959"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="33657966" version="2" timestamp="2010-07-08T19:22:37Z" uid="74617" user="JohnSmith" changeset="5168730">
+    <nd ref="385036976"/>
+    <nd ref="385036959"/>
+    <nd ref="385036977"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="33657966" version="3" timestamp="2012-01-18T20:10:42Z" uid="147510" user="woodpeck_fixbot" changeset="10429293">
+    <nd ref="385036976"/>
+    <nd ref="385036959"/>
+    <nd ref="385036977"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="33657969" version="2" timestamp="2010-07-08T19:34:34Z" uid="74617" user="JohnSmith" changeset="5168730">
+    <nd ref="385035242"/>
+    <nd ref="385036986"/>
+    <nd ref="385036987"/>
+    <nd ref="385036988"/>
+    <nd ref="385036989"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="33657969" version="3" timestamp="2012-01-18T20:10:43Z" uid="147510" user="woodpeck_fixbot" changeset="10429293">
+    <nd ref="385035242"/>
+    <nd ref="385036986"/>
+    <nd ref="385036987"/>
+    <nd ref="385036988"/>
+    <nd ref="385036989"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="33657970" version="2" timestamp="2010-07-08T19:42:52Z" uid="74617" user="JohnSmith" changeset="5168730">
+    <nd ref="385036990"/>
+    <nd ref="385036989"/>
+    <nd ref="385036991"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="33657970" version="3" timestamp="2012-01-18T20:10:44Z" uid="147510" user="woodpeck_fixbot" changeset="10429293">
+    <nd ref="385036990"/>
+    <nd ref="385036989"/>
+    <nd ref="385036991"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="33657972" version="2" timestamp="2010-07-08T19:24:51Z" uid="74617" user="JohnSmith" changeset="5168730">
+    <nd ref="385035247"/>
+    <nd ref="385036994"/>
+    <nd ref="385036995"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="33657972" version="3" timestamp="2012-01-18T20:10:45Z" uid="147510" user="woodpeck_fixbot" changeset="10429293">
+    <nd ref="385035247"/>
+    <nd ref="385036994"/>
+    <nd ref="385036995"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="33657974" version="2" timestamp="2010-07-08T19:39:55Z" uid="74617" user="JohnSmith" changeset="5168730">
+    <nd ref="385036998"/>
+    <nd ref="385036995"/>
+    <nd ref="385036999"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="33657974" version="3" timestamp="2012-01-18T20:10:47Z" uid="147510" user="woodpeck_fixbot" changeset="10429293">
+    <nd ref="385036998"/>
+    <nd ref="385036995"/>
+    <nd ref="385036999"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="33657987" version="4" timestamp="2010-05-03T08:41:31Z" uid="4467" user="Rosscoe" changeset="4592736">
+    <nd ref="385037084"/>
+    <nd ref="585523380"/>
+    <nd ref="385037247"/>
+    <nd ref="718488654"/>
+    <nd ref="585523366"/>
+    <nd ref="385037085"/>
+    <nd ref="385037086"/>
+    <nd ref="718488636"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="33657987" version="5" timestamp="2010-07-08T19:28:25Z" uid="74617" user="JohnSmith" changeset="5168730">
+    <nd ref="385037084"/>
+    <nd ref="585523380"/>
+    <nd ref="385037247"/>
+    <nd ref="718488654"/>
+    <nd ref="585523366"/>
+    <nd ref="385037085"/>
+    <nd ref="385037086"/>
+    <nd ref="718488636"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="33657987" version="6" timestamp="2012-01-18T20:10:48Z" uid="147510" user="woodpeck_fixbot" changeset="10429293">
+    <nd ref="385037084"/>
+    <nd ref="585523380"/>
+    <nd ref="385037247"/>
+    <nd ref="718488654"/>
+    <nd ref="585523366"/>
+    <nd ref="385037085"/>
+    <nd ref="385037086"/>
+    <nd ref="718488636"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="33657989" version="3" timestamp="2010-07-08T19:35:55Z" uid="74617" user="JohnSmith" changeset="5168730">
+    <nd ref="385037247"/>
+    <nd ref="585527313"/>
+    <nd ref="585527140"/>
+    <nd ref="385037251"/>
+    <nd ref="385037252"/>
+    <nd ref="385037253"/>
+    <nd ref="385037254"/>
+    <nd ref="585527323"/>
+    <nd ref="385037255"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="33657989" version="4" timestamp="2012-01-18T20:10:51Z" uid="147510" user="woodpeck_fixbot" changeset="10429293">
+    <nd ref="385037247"/>
+    <nd ref="585527313"/>
+    <nd ref="585527140"/>
+    <nd ref="385037251"/>
+    <nd ref="385037252"/>
+    <nd ref="385037253"/>
+    <nd ref="385037254"/>
+    <nd ref="585527323"/>
+    <nd ref="385037255"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="33657996" version="1" timestamp="2009-04-26T01:38:21Z" uid="26515" user="Simon Ward" changeset="966094">
+    <nd ref="245805112"/>
+    <nd ref="385015650"/>
+    <nd ref="385015568"/>
+    <nd ref="385015632"/>
+    <nd ref="385015569"/>
+    <nd ref="385015570"/>
+    <nd ref="385015633"/>
+    <nd ref="385015571"/>
+    <nd ref="385015572"/>
+    <nd ref="385015573"/>
+    <nd ref="385015574"/>
+    <nd ref="385015714"/>
+    <nd ref="385015717"/>
+    <nd ref="385015715"/>
+    <nd ref="385015575"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Whitehall Road"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="33657996" version="2" timestamp="2009-04-26T01:42:05Z" uid="26515" user="Simon Ward" changeset="966186">
+    <nd ref="245805112"/>
+    <nd ref="385015650"/>
+    <nd ref="385015568"/>
+    <nd ref="385037735"/>
+    <nd ref="385015632"/>
+    <nd ref="385015569"/>
+    <nd ref="385015570"/>
+    <nd ref="385015633"/>
+    <nd ref="385015571"/>
+    <nd ref="385015572"/>
+    <nd ref="385015573"/>
+    <nd ref="385015574"/>
+    <nd ref="385015714"/>
+    <nd ref="385015717"/>
+    <nd ref="385015715"/>
+    <nd ref="385015575"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Whitehall Road"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="33657996" version="3" timestamp="2009-04-26T02:17:00Z" uid="26515" user="Simon Ward" changeset="966930">
+    <nd ref="245805112"/>
+    <nd ref="385015650"/>
+    <nd ref="385015568"/>
+    <nd ref="385037735"/>
+    <nd ref="385015632"/>
+    <nd ref="385015569"/>
+    <nd ref="385015570"/>
+    <nd ref="385015633"/>
+    <nd ref="385015571"/>
+    <nd ref="385015572"/>
+    <nd ref="385015573"/>
+    <nd ref="385015574"/>
+    <nd ref="385040160"/>
+    <nd ref="385015714"/>
+    <nd ref="385015717"/>
+    <nd ref="385015715"/>
+    <nd ref="385015575"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Whitehall Road"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="33657996" version="4" timestamp="2009-06-30T14:54:40Z" uid="121664" user="fingerpuppet" changeset="1692441">
+    <nd ref="245805112"/>
+    <nd ref="385015650"/>
+    <nd ref="385015568"/>
+    <nd ref="385037735"/>
+    <nd ref="385015632"/>
+    <nd ref="385015569"/>
+    <nd ref="385015570"/>
+    <nd ref="385015633"/>
+    <nd ref="385015571"/>
+    <nd ref="385015572"/>
+    <nd ref="385015573"/>
+    <nd ref="385015574"/>
+    <nd ref="385040160"/>
+    <nd ref="385015714"/>
+    <nd ref="385015717"/>
+    <nd ref="385015715"/>
+    <nd ref="385015575"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Whitehall Road"/>
+    <tag k="ref" v="B4166"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="33657996" version="5" timestamp="2011-11-05T21:14:13Z" uid="105474" user="Miked29" changeset="9750638">
+    <nd ref="245805112"/>
+    <nd ref="385015650"/>
+    <nd ref="385015568"/>
+    <nd ref="385037735"/>
+    <nd ref="385015632"/>
+    <nd ref="385015569"/>
+    <nd ref="385015570"/>
+    <nd ref="385015633"/>
+    <nd ref="385015571"/>
+    <nd ref="385015572"/>
+    <nd ref="385015573"/>
+    <nd ref="385015574"/>
+    <nd ref="385040160"/>
+    <nd ref="385015714"/>
+    <nd ref="385015717"/>
+    <nd ref="385015715"/>
+    <nd ref="385015575"/>
+    <tag k="gritting" v="priority_1"/>
+    <tag k="gritting_operator" v="Sandwell MBC"/>
+    <tag k="gritting_route_ref" v="3"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="name" v="Whitehall Road"/>
+    <tag k="ref" v="B4166"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="33657996" version="6" timestamp="2011-11-05T21:21:49Z" uid="105474" user="Miked29" changeset="9750703">
+    <nd ref="245805112"/>
+    <nd ref="385015650"/>
+    <nd ref="385015568"/>
+    <nd ref="385037735"/>
+    <nd ref="385015632"/>
+    <nd ref="385015569"/>
+    <nd ref="385015570"/>
+    <nd ref="385015633"/>
+    <nd ref="385015571"/>
+    <nd ref="385015572"/>
+    <nd ref="385015573"/>
+    <nd ref="385015574"/>
+    <nd ref="385040160"/>
+    <nd ref="385015714"/>
+    <nd ref="385015717"/>
+    <nd ref="385015715"/>
+    <nd ref="385015575"/>
+    <tag k="gritting" v="priority_1"/>
+    <tag k="gritting_operator" v="Sandwell_MBC"/>
+    <tag k="gritting_route_ref" v="3"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="name" v="Whitehall Road"/>
+    <tag k="ref" v="B4166"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="33657996" version="7" timestamp="2012-01-31T13:34:54Z" uid="9065" user="brianboru" changeset="10549334"/>
+</osm>

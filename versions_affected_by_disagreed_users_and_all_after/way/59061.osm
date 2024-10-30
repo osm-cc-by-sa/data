@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="59061060" version="2" timestamp="2010-07-08T16:55:41Z" uid="74617" user="JohnSmith" changeset="5167338">
+    <nd ref="732088759"/>
+    <nd ref="732088790"/>
+    <nd ref="732088796"/>
+    <nd ref="732088800"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="59061060" version="3" timestamp="2011-02-07T11:11:29Z" uid="4467" user="Rosscoe" changeset="7214726">
+    <nd ref="732088759"/>
+    <nd ref="732088790"/>
+    <nd ref="732088796"/>
+    <nd ref="732088800"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="59061060" version="4" timestamp="2012-01-20T07:53:47Z" uid="147510" user="woodpeck_fixbot" changeset="10443754">
+    <nd ref="732088759"/>
+    <nd ref="732088790"/>
+    <nd ref="732088796"/>
+    <nd ref="732088800"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="59061851" version="1" timestamp="2010-05-13T12:41:03Z" uid="43863" user="Rundling" changeset="4685681">
+    <nd ref="732095164"/>
+    <nd ref="732095182"/>
+    <nd ref="732095179"/>
+    <tag k="highway" v="service"/>
+    <tag k="motorcar" v="no"/>
+    <tag k="surface" v="gravel"/>
+  </way>
+  <way id="59061851" version="2" timestamp="2010-06-07T21:09:33Z" uid="43863" user="Rundling" changeset="4932625">
+    <nd ref="766900202"/>
+    <nd ref="732095164"/>
+    <nd ref="732095182"/>
+    <nd ref="732095179"/>
+    <tag k="highway" v="service"/>
+    <tag k="motorcar" v="no"/>
+    <tag k="surface" v="gravel"/>
+  </way>
+  <way id="59061852" version="1" timestamp="2010-05-13T12:41:04Z" uid="43863" user="Rundling" changeset="4685681">
+    <nd ref="732095152"/>
+    <nd ref="732095173"/>
+    <nd ref="732095168"/>
+    <tag k="access" v="yes"/>
+    <tag k="highway" v="track"/>
+    <tag k="motorcar" v="no"/>
+    <tag k="motorcycle" v="no"/>
+    <tag k="surface" v="ground"/>
+    <tag k="tracktype" v="grade3"/>
+    <tag k="width" v="1,5"/>
+  </way>
+  <way id="59061854" version="1" timestamp="2010-05-13T12:41:04Z" uid="43863" user="Rundling" changeset="4685681">
+    <nd ref="732095176"/>
+    <nd ref="732095182"/>
+    <nd ref="732095186"/>
+    <tag k="highway" v="service"/>
+    <tag k="motorcar" v="no"/>
+    <tag k="surface" v="gravel"/>
+  </way>
+  <way id="59061854" version="2" timestamp="2010-06-07T21:09:33Z" uid="43863" user="Rundling" changeset="4932625">
+    <nd ref="732095176"/>
+    <nd ref="732095182"/>
+    <nd ref="732095186"/>
+    <nd ref="766900200"/>
+    <tag k="highway" v="service"/>
+    <tag k="motorcar" v="no"/>
+    <tag k="surface" v="gravel"/>
+  </way>
+</osm>

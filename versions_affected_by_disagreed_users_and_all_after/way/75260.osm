@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="75260085" version="3" timestamp="2011-01-27T03:04:43Z" uid="4467" user="Rosscoe" changeset="7099969">
+    <nd ref="888758909"/>
+    <nd ref="888758912"/>
+    <nd ref="888758917"/>
+    <nd ref="888758925"/>
+    <tag k="highway" v="primary_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="75260086" version="3" timestamp="2011-01-27T03:04:47Z" uid="4467" user="Rosscoe" changeset="7099969">
+    <nd ref="888758937"/>
+    <nd ref="888758954"/>
+    <nd ref="888758967"/>
+    <tag k="highway" v="primary_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="75260092" version="2" timestamp="2011-01-27T03:04:45Z" uid="4467" user="Rosscoe" changeset="7099969">
+    <nd ref="888759086"/>
+    <nd ref="888759088"/>
+    <nd ref="833676871"/>
+    <nd ref="253476770"/>
+    <nd ref="888758937"/>
+    <nd ref="888759116"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="40"/>
+    <tag k="name" v="Sir Reginald Ansett Drive"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="75260093" version="3" timestamp="2011-01-27T03:04:45Z" uid="4467" user="Rosscoe" changeset="7099969">
+    <nd ref="888759116"/>
+    <nd ref="888759129"/>
+    <nd ref="888759126"/>
+    <nd ref="1122956128"/>
+    <nd ref="888759124"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="75260095" version="2" timestamp="2011-01-27T03:04:46Z" uid="4467" user="Rosscoe" changeset="7099969">
+    <nd ref="888759124"/>
+    <nd ref="1122956117"/>
+    <nd ref="888759172"/>
+    <nd ref="888759179"/>
+    <nd ref="888759184"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="West Beach Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="yahoo"/>
+    <tag k="source:name" v="photo"/>
+  </way>
+</osm>

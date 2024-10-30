@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="22477090" version="4" timestamp="2008-09-24T20:38:32Z" uid="30201" user="rrankin" changeset="691374">
+    <nd ref="241500012"/>
+    <nd ref="163186023"/>
+    <nd ref="241525992"/>
+    <nd ref="163186025"/>
+    <tag k="created_by" v="Potlatch 0.6c"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Elva Street"/>
+  </way>
+  <way id="22477090" version="5" timestamp="2009-04-24T23:58:03Z" uid="7617" user="Franc" changeset="935084">
+    <nd ref="241500012"/>
+    <nd ref="163186023"/>
+    <nd ref="241525992"/>
+    <tag k="created_by" v="Potlatch 0.6c"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Elva Street"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="22477090" version="6" timestamp="2010-01-05T12:47:26Z" uid="30201" user="rrankin" changeset="3544973"/>
+  <way id="22477497" version="5" timestamp="2010-07-08T02:38:45Z" uid="74617" user="JohnSmith" changeset="5163091">
+    <nd ref="200082223"/>
+    <nd ref="241201494"/>
+    <nd ref="241201495"/>
+    <nd ref="241201496"/>
+    <nd ref="241201497"/>
+    <nd ref="241521621"/>
+    <nd ref="241201498"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Beresford Road"/>
+  </way>
+  <way id="22477497" version="6" timestamp="2012-01-15T22:08:12Z" uid="147510" user="woodpeck_fixbot" changeset="10402983">
+    <nd ref="200082223"/>
+    <nd ref="241201494"/>
+    <nd ref="241201495"/>
+    <nd ref="241201496"/>
+    <nd ref="241201497"/>
+    <nd ref="241521621"/>
+    <nd ref="241201498"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Beresford Road"/>
+  </way>
+  <way id="22477952" version="7" timestamp="2010-01-05T12:47:15Z" uid="30201" user="rrankin" changeset="3544973">
+    <nd ref="241202323"/>
+    <nd ref="605335912"/>
+    <nd ref="605335907"/>
+    <nd ref="241502148"/>
+    <nd ref="241501869"/>
+    <nd ref="605335746"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rochester Street"/>
+  </way>
+  <way id="22477952" version="8" timestamp="2010-02-15T13:38:51Z" uid="7617" user="Franc" changeset="3883208">
+    <nd ref="241202323"/>
+    <nd ref="605335912"/>
+    <nd ref="605335907"/>
+    <nd ref="241502148"/>
+    <nd ref="639650751"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rochester Street"/>
+    <tag k="restriction" v="school_zone"/>
+  </way>
+  <way id="22477952" version="9" timestamp="2010-07-08T02:33:16Z" uid="74617" user="JohnSmith" changeset="5163091">
+    <nd ref="241202323"/>
+    <nd ref="605335912"/>
+    <nd ref="605335907"/>
+    <nd ref="241502148"/>
+    <nd ref="639650751"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Rochester Street"/>
+    <tag k="restriction" v="school_zone"/>
+  </way>
+  <way id="22477952" version="10" timestamp="2012-01-15T22:08:14Z" uid="147510" user="woodpeck_fixbot" changeset="10402983">
+    <nd ref="241202323"/>
+    <nd ref="605335912"/>
+    <nd ref="605335907"/>
+    <nd ref="241502148"/>
+    <nd ref="639650751"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rochester Street"/>
+    <tag k="restriction" v="school_zone"/>
+  </way>
+  <way id="22477952" version="11" timestamp="2012-02-15T20:08:03Z" uid="7523" user="inas" changeset="10695906">
+    <nd ref="241202323"/>
+    <nd ref="241502148"/>
+    <nd ref="639650751"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rochester Street"/>
+    <tag k="restriction" v="school_zone"/>
+  </way>
+</osm>

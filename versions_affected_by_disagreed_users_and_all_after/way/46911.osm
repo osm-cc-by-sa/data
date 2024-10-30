@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="46911740" version="1" timestamp="2009-12-24T10:27:36Z" uid="30201" user="rrankin" changeset="3440994">
+    <nd ref="598872776"/>
+    <nd ref="85618372"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="Eastern Avenue"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="46911741" version="1" timestamp="2009-12-24T10:27:36Z" uid="30201" user="rrankin" changeset="3440994">
+    <nd ref="592652918"/>
+    <nd ref="598872789"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="steps"/>
+  </way>
+  <way id="46911891" version="2" timestamp="2010-07-08T17:50:50Z" uid="74617" user="JohnSmith" changeset="5167338">
+    <nd ref="598877400"/>
+    <nd ref="598877401"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Vermont Avenue"/>
+  </way>
+  <way id="46911891" version="3" timestamp="2012-01-19T18:09:48Z" uid="147510" user="woodpeck_fixbot" changeset="10438353">
+    <nd ref="598877400"/>
+    <nd ref="598877401"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Vermont Avenue"/>
+  </way>
+</osm>

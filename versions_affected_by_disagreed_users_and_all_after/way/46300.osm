@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="46300588" version="2" timestamp="2010-07-09T07:33:32Z" uid="74617" user="JohnSmith" changeset="5171412">
+    <nd ref="591401444"/>
+    <nd ref="591401445"/>
+    <nd ref="591401446"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="46300588" version="3" timestamp="2011-01-16T13:27:47Z" uid="90768" user="Gyaos" changeset="6987400">
+    <nd ref="591401444"/>
+    <nd ref="591401445"/>
+    <nd ref="591401446"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Biala Street"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="46300588" version="4" timestamp="2012-01-19T15:20:24Z" uid="147510" user="woodpeck_fixbot" changeset="10436041">
+    <nd ref="591401444"/>
+    <nd ref="591401445"/>
+    <nd ref="591401446"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Biala Street"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="46300607" version="3" timestamp="2011-03-15T09:19:18Z" uid="4467" user="Rosscoe" changeset="7564365">
+    <nd ref="1202808057"/>
+    <nd ref="591339695"/>
+    <tag k="highway" v="service"/>
+    <tag k="layer" v="-1"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="46300637" version="2" timestamp="2011-03-15T09:19:15Z" uid="4467" user="Rosscoe" changeset="7564365">
+    <nd ref="591340548"/>
+    <nd ref="1202808056"/>
+    <tag k="highway" v="service"/>
+    <tag k="layer" v="-1"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="46300819" version="3" timestamp="2011-03-15T09:19:15Z" uid="4467" user="Rosscoe" changeset="7564365">
+    <nd ref="364861229"/>
+    <nd ref="591401833"/>
+    <tag k="highway" v="service"/>
+    <tag k="layer" v="1"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="46300852" version="4" timestamp="2011-03-15T09:19:17Z" uid="4467" user="Rosscoe" changeset="7564365">
+    <nd ref="591401962"/>
+    <nd ref="364861230"/>
+    <tag k="highway" v="service"/>
+    <tag k="layer" v="1"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+</osm>

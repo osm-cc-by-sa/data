@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="49975191" version="1" timestamp="2010-02-10T11:00:25Z" uid="115477" user="wowik" changeset="3839120">
+    <nd ref="634884801"/>
+    <nd ref="634884800"/>
+    <tag k="highway" v="service"/>
+    <tag k="living_street" v="yes"/>
+  </way>
+  <way id="49975191" version="2" timestamp="2011-12-31T16:16:31Z" uid="490617" user="samson" changeset="10256294">
+    <nd ref="1571468529"/>
+    <nd ref="1571468523"/>
+    <nd ref="1571468526"/>
+    <nd ref="634884801"/>
+    <nd ref="634884800"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="49975191" version="3" timestamp="2011-12-31T19:57:27Z" uid="490617" user="samson" changeset="10257833">
+    <nd ref="1571468529"/>
+    <nd ref="1571468523"/>
+    <nd ref="1571936289"/>
+    <nd ref="1571468526"/>
+    <nd ref="634884801"/>
+    <nd ref="634884800"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="49975191" version="4" timestamp="2012-03-15T22:34:10Z" uid="336354" user="esaulenka" changeset="10993761"/>
+  <way id="49975529" version="2" timestamp="2010-07-05T01:42:27Z" uid="30201" user="rrankin" changeset="5138476">
+    <nd ref="634886429"/>
+    <nd ref="634886425"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="footway"/>
+    <tag k="layer" v="1"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="surface" v="concrete"/>
+  </way>
+  <way id="49975540" version="2" timestamp="2010-06-04T20:16:52Z" uid="6269" user="Mueck" changeset="4903022">
+    <nd ref="634887680"/>
+    <nd ref="634887683"/>
+    <nd ref="634887685"/>
+    <tag k="highway" v="track"/>
+    <tag k="smoothness" v="horrible"/>
+    <tag k="surface" v="grass"/>
+    <tag k="tracktype" v="grade5"/>
+  </way>
+</osm>

@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="59268009" version="3" timestamp="2010-05-18T04:07:07Z" uid="4467" user="Rosscoe" changeset="4735134">
+    <nd ref="347258831"/>
+    <nd ref="347258832"/>
+    <nd ref="347258833"/>
+    <nd ref="734943914"/>
+    <nd ref="347257900"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Nicklaus Drive"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="59268225" version="2" timestamp="2010-05-18T04:07:08Z" uid="4467" user="Rosscoe" changeset="4735134">
+    <nd ref="734944890"/>
+    <nd ref="347258834"/>
+    <nd ref="734943914"/>
+    <nd ref="734943803"/>
+    <nd ref="734943812"/>
+    <nd ref="734943821"/>
+    <nd ref="125244869"/>
+    <nd ref="125244871"/>
+    <nd ref="734941043"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Morris Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="59268225" version="3" timestamp="2010-06-01T15:34:47Z" uid="79475" user="AlexOnTheBus" changeset="4875562">
+    <nd ref="734944890"/>
+    <nd ref="347258834"/>
+    <nd ref="734943914"/>
+    <nd ref="734943803"/>
+    <nd ref="734943812"/>
+    <nd ref="734943821"/>
+    <nd ref="125244869"/>
+    <nd ref="125244871"/>
+    <nd ref="734941043"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Morris Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="59268225" version="4" timestamp="2010-10-20T09:09:51Z" uid="320632" user="Zulu99" changeset="6109443">
+    <nd ref="734944890"/>
+    <nd ref="347258834"/>
+    <nd ref="734943914"/>
+    <nd ref="734943803"/>
+    <nd ref="734943812"/>
+    <nd ref="734943821"/>
+    <nd ref="957899482"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Morris Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="59268640" version="4" timestamp="2011-01-31T18:00:35Z" uid="23543" user="jkjk" changeset="7147187">
+    <nd ref="346708838"/>
+    <nd ref="1129616756"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="طريق القصيم المدينة السريع" v="undefined"/>
+  </way>
+  <way id="59268640" version="5" timestamp="2011-09-06T06:00:49Z" uid="84523" user="HeikkiL" changeset="9224290">
+    <nd ref="1129616756"/>
+    <nd ref="346708838"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+</osm>

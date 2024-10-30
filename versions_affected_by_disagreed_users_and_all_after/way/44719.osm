@@ -1,0 +1,1972 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="44719063" version="4" timestamp="2010-08-01T13:58:21Z" uid="9581" user="Lobelt" changeset="5371151">
+    <nd ref="293605549"/>
+    <nd ref="567357543"/>
+    <nd ref="567357555"/>
+    <nd ref="841979231"/>
+    <nd ref="567357557"/>
+    <tag k="highway" v="secondary_link"/>
+    <tag k="name" v="55"/>
+    <tag k="ref" v="55"/>
+  </way>
+  <way id="44719063" version="5" timestamp="2012-03-25T16:19:19Z" uid="544370" user="atari_matari" changeset="11096767"/>
+  <way id="44719069" version="2" timestamp="2010-07-06T18:35:46Z" uid="74617" user="JohnSmith" changeset="5152225">
+    <nd ref="363488913"/>
+    <nd ref="567357919"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="attribution" v="Based on Australian Bureau of Statistics data"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="source" v="ABS_2006"/>
+  </way>
+  <way id="44719069" version="3" timestamp="2010-08-13T15:27:19Z" uid="62457" user="cybercrypt" changeset="5482983">
+    <nd ref="363488913"/>
+    <nd ref="858689530"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="attribution" v="Based on Australian Bureau of Statistics data"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="source" v="ABS_2006"/>
+  </way>
+  <way id="44719069" version="4" timestamp="2012-01-01T05:38:56Z" uid="571600" user="MJames" changeset="10259268">
+    <nd ref="363488913"/>
+    <nd ref="858689382"/>
+    <nd ref="363488916"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="attribution" v="Based on Australian Bureau of Statistics data"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="source" v="ABS_2006"/>
+  </way>
+  <way id="44719069" version="5" timestamp="2012-02-08T01:57:21Z" uid="147510" user="woodpeck_fixbot" changeset="10618932">
+    <nd ref="363488913"/>
+    <nd ref="858689382"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="attribution" v="Based on Australian Bureau of Statistics data"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="source" v="ABS_2006"/>
+  </way>
+  <way id="44719123" version="2" timestamp="2010-03-22T07:34:55Z" uid="20587" user="balrog-kun" changeset="4199043">
+    <nd ref="47256019"/>
+    <nd ref="47256021"/>
+    <nd ref="47256024"/>
+    <nd ref="47256028"/>
+    <nd ref="47256032"/>
+    <nd ref="47256035"/>
+    <nd ref="47256040"/>
+    <nd ref="47256046"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Northeast 51st Circle"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Clark, WA"/>
+    <tag k="tiger:name_base" v="51st"/>
+    <tag k="tiger:name_direction_prefix" v="NE"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="158360032:158363039"/>
+    <tag k="tiger:zip_left" v="98682"/>
+    <tag k="tiger:zip_right" v="98682"/>
+  </way>
+  <way id="44719123" version="3" timestamp="2011-05-11T20:47:27Z" uid="362111" user="Mele Sax-Barnett" changeset="8116423">
+    <nd ref="47256019"/>
+    <nd ref="1280697128"/>
+    <nd ref="47256021"/>
+    <nd ref="1280697139"/>
+    <nd ref="47256024"/>
+    <tag k="CCGIS:localid" v="95150"/>
+    <tag k="CCGIS:reviewed" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="name" v="Northeast 51st Circle"/>
+    <tag k="name_base" v="51st"/>
+    <tag k="name_direction_prefix" v="Northeast"/>
+    <tag k="name_type" v="Circle"/>
+    <tag k="zip_left" v="98682"/>
+    <tag k="zip_right" v="98682"/>
+  </way>
+  <way id="44719123" version="4" timestamp="2011-06-13T08:27:17Z" uid="92286" user="Paul Johnson" changeset="8423011">
+    <nd ref="47256019"/>
+    <nd ref="1280697128"/>
+    <nd ref="47256021"/>
+    <nd ref="1280697139"/>
+    <nd ref="47256024"/>
+    <tag k="CCGIS:localid" v="95150"/>
+    <tag k="CCGIS:reviewed" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="name" v="Northeast 51st Circle"/>
+    <tag k="name_base" v="51st"/>
+    <tag k="name_direction_prefix" v="Northeast"/>
+    <tag k="name_type" v="Circle"/>
+    <tag k="zip_left" v="98682"/>
+    <tag k="zip_right" v="98682"/>
+  </way>
+  <way id="44719123" version="5" timestamp="2011-06-21T18:58:45Z" uid="362111" user="Mele Sax-Barnett" changeset="8507384">
+    <nd ref="47256019"/>
+    <nd ref="1280697128"/>
+    <nd ref="47256021"/>
+    <nd ref="1280697139"/>
+    <nd ref="47256024"/>
+    <tag k="CCGIS:bicycle" v="designated"/>
+    <tag k="CCGIS:localid" v="95150"/>
+    <tag k="CCGIS:reviewed" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="name" v="Northeast 51st Circle"/>
+    <tag k="name_base" v="51st"/>
+    <tag k="name_direction_prefix" v="Northeast"/>
+    <tag k="name_type" v="Circle"/>
+    <tag k="zip_left" v="98682"/>
+    <tag k="zip_right" v="98682"/>
+  </way>
+  <way id="44719123" version="6" timestamp="2011-12-10T02:13:09Z" uid="372357" user="PJ Houser" changeset="10078060">
+    <nd ref="47256019"/>
+    <nd ref="1280697128"/>
+    <nd ref="47256021"/>
+    <nd ref="1280697139"/>
+    <nd ref="47256024"/>
+    <tag k="CCGIS:bicycle" v="designated"/>
+    <tag k="CCGIS:localid" v="95150"/>
+    <tag k="CCGIS:reviewed" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="name" v="Northeast 51st Circle"/>
+    <tag k="zip_left" v="98682"/>
+    <tag k="zip_right" v="98682"/>
+  </way>
+  <way id="44719123" version="7" timestamp="2011-12-10T02:28:15Z" uid="372357" user="PJ Houser" changeset="10078089">
+    <nd ref="47256019"/>
+    <nd ref="1280697128"/>
+    <nd ref="47256021"/>
+    <nd ref="1280697139"/>
+    <nd ref="47256024"/>
+    <tag k="CCGIS:bicycle" v="designated"/>
+    <tag k="CCGIS:localid" v="95150"/>
+    <tag k="CCGIS:reviewed" v="no"/>
+    <tag k="bicycle" v="designated"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="name" v="Northeast 51st Circle"/>
+    <tag k="zip_left" v="98682"/>
+    <tag k="zip_right" v="98682"/>
+  </way>
+  <way id="44719466" version="2" timestamp="2010-11-25T10:24:49Z" uid="4467" user="Rosscoe" changeset="6453398">
+    <nd ref="567361340"/>
+    <nd ref="567361341"/>
+    <nd ref="567361342"/>
+    <nd ref="567361343"/>
+    <nd ref="567361344"/>
+    <nd ref="567361345"/>
+    <nd ref="567361346"/>
+    <nd ref="567361347"/>
+    <nd ref="567361348"/>
+    <nd ref="567361349"/>
+    <nd ref="567361350"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Carlsen Way"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="44719467" version="2" timestamp="2010-11-25T10:06:05Z" uid="4467" user="Rosscoe" changeset="6453280">
+    <nd ref="567361351"/>
+    <nd ref="567361341"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Caddy Court"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="44719468" version="2" timestamp="2010-11-25T10:06:05Z" uid="4467" user="Rosscoe" changeset="6453280">
+    <nd ref="567361352"/>
+    <nd ref="567361342"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Raeburn Court"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="44719469" version="2" timestamp="2010-11-25T10:06:04Z" uid="4467" user="Rosscoe" changeset="6453280">
+    <nd ref="567361353"/>
+    <nd ref="567361343"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Page Court"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="44719470" version="2" timestamp="2010-11-25T10:24:45Z" uid="4467" user="Rosscoe" changeset="6453398">
+    <nd ref="567361354"/>
+    <nd ref="567361355"/>
+    <nd ref="567361356"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Ellers Court"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="44719471" version="2" timestamp="2011-03-23T06:17:07Z" uid="4467" user="Rosscoe" changeset="7643647">
+    <nd ref="567361357"/>
+    <nd ref="567361358"/>
+    <nd ref="567361359"/>
+    <nd ref="1214429893"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="44719472" version="2" timestamp="2011-03-23T06:10:55Z" uid="4467" user="Rosscoe" changeset="7643627">
+    <nd ref="567361361"/>
+    <nd ref="1214428416"/>
+    <nd ref="567361362"/>
+    <nd ref="567361363"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Morse Court"/>
+  </way>
+  <way id="44719473" version="2" timestamp="2010-11-25T10:24:44Z" uid="4467" user="Rosscoe" changeset="6453398">
+    <nd ref="567361364"/>
+    <nd ref="567361365"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Williams Court"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="44719474" version="2" timestamp="2010-11-25T10:24:41Z" uid="4467" user="Rosscoe" changeset="6453398">
+    <nd ref="567361366"/>
+    <nd ref="567361367"/>
+    <nd ref="567361368"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Peterson Court"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="44719475" version="2" timestamp="2010-11-25T10:24:50Z" uid="4467" user="Rosscoe" changeset="6453398">
+    <nd ref="567361369"/>
+    <nd ref="567361370"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Schultz Court"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="44719476" version="2" timestamp="2010-11-25T10:24:45Z" uid="4467" user="Rosscoe" changeset="6453398">
+    <nd ref="567361371"/>
+    <nd ref="567361372"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Harwood Way"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="44719478" version="2" timestamp="2010-11-25T10:24:38Z" uid="4467" user="Rosscoe" changeset="6453398">
+    <nd ref="567361365"/>
+    <nd ref="567361374"/>
+    <nd ref="567361368"/>
+    <nd ref="567361350"/>
+    <nd ref="567361370"/>
+    <nd ref="567361340"/>
+    <nd ref="567361356"/>
+    <nd ref="567361375"/>
+    <nd ref="567361376"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="O&apos;Keefe Road"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="44719479" version="2" timestamp="2010-09-16T12:49:45Z" uid="4467" user="Rosscoe" changeset="5795333">
+    <nd ref="567361365"/>
+    <nd ref="567361377"/>
+    <nd ref="567361378"/>
+    <nd ref="567361380"/>
+    <nd ref="567361381"/>
+    <nd ref="567361360"/>
+    <nd ref="567361382"/>
+    <nd ref="567361383"/>
+    <nd ref="567361374"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Frinderstein Way"/>
+    <tag k="source" v="GPS"/>
+  </way>
+  <way id="44719479" version="3" timestamp="2010-11-25T10:24:46Z" uid="4467" user="Rosscoe" changeset="6453398">
+    <nd ref="567361365"/>
+    <nd ref="567361377"/>
+    <nd ref="567361378"/>
+    <nd ref="567361380"/>
+    <nd ref="567361381"/>
+    <nd ref="567361360"/>
+    <nd ref="567361382"/>
+    <nd ref="567361383"/>
+    <nd ref="567361374"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Frinderstein Way"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="44719480" version="2" timestamp="2010-09-06T11:22:54Z" uid="4467" user="Rosscoe" changeset="5697018">
+    <nd ref="567361384"/>
+    <nd ref="567361385"/>
+    <nd ref="567361386"/>
+    <nd ref="567361387"/>
+    <nd ref="567361388"/>
+    <nd ref="567361389"/>
+    <nd ref="567361390"/>
+    <nd ref="567361391"/>
+    <nd ref="111159464"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="44719480" version="3" timestamp="2010-09-07T07:32:28Z" uid="4467" user="Rosscoe" changeset="5705130">
+    <nd ref="287776881"/>
+    <nd ref="567361385"/>
+    <nd ref="567361386"/>
+    <nd ref="567361387"/>
+    <nd ref="567361388"/>
+    <nd ref="567361389"/>
+    <nd ref="567361390"/>
+    <nd ref="567361391"/>
+    <nd ref="111159464"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="44719482" version="3" timestamp="2010-11-25T10:24:47Z" uid="4467" user="Rosscoe" changeset="6453398">
+    <nd ref="567361394"/>
+    <nd ref="567361395"/>
+    <nd ref="567361396"/>
+    <nd ref="567361371"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Crane Circle"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="44719483" version="3" timestamp="2010-11-25T10:24:43Z" uid="4467" user="Rosscoe" changeset="6453398">
+    <nd ref="567361397"/>
+    <nd ref="567361398"/>
+    <nd ref="567361399"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Macroy Street"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="44719484" version="2" timestamp="2010-11-25T10:24:39Z" uid="4467" user="Rosscoe" changeset="6453398">
+    <nd ref="567361400"/>
+    <nd ref="567361398"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="44719580" version="1" timestamp="2009-11-20T12:52:02Z" uid="74617" user="JohnSmith" changeset="3168138">
+    <nd ref="359419207"/>
+    <nd ref="360578666"/>
+    <nd ref="360578663"/>
+    <nd ref="360578659"/>
+    <nd ref="360578656"/>
+    <nd ref="360578652"/>
+    <nd ref="360578648"/>
+    <nd ref="360578645"/>
+    <nd ref="360578641"/>
+    <nd ref="360578638"/>
+    <nd ref="360578634"/>
+    <nd ref="360578630"/>
+    <nd ref="360578627"/>
+    <nd ref="360578623"/>
+    <nd ref="360578620"/>
+    <nd ref="360578616"/>
+    <nd ref="360578613"/>
+    <nd ref="360578609"/>
+    <nd ref="360578606"/>
+    <nd ref="363107336"/>
+    <nd ref="363107337"/>
+    <nd ref="363107338"/>
+    <nd ref="363107339"/>
+    <nd ref="363107341"/>
+    <nd ref="363107342"/>
+    <nd ref="363107343"/>
+    <nd ref="363107344"/>
+    <nd ref="363107345"/>
+    <nd ref="363107347"/>
+    <nd ref="363107348"/>
+    <nd ref="363107349"/>
+    <nd ref="363107351"/>
+    <nd ref="363107352"/>
+    <nd ref="363107353"/>
+    <nd ref="363107355"/>
+    <nd ref="363107356"/>
+    <nd ref="363107357"/>
+    <nd ref="363107358"/>
+    <nd ref="363107359"/>
+    <nd ref="363107361"/>
+    <nd ref="363107362"/>
+    <nd ref="363107363"/>
+    <nd ref="363107364"/>
+    <nd ref="363107365"/>
+    <nd ref="363107366"/>
+    <nd ref="363107368"/>
+    <nd ref="363107369"/>
+    <nd ref="363107370"/>
+    <nd ref="363107371"/>
+    <nd ref="363107372"/>
+    <nd ref="363107373"/>
+    <nd ref="363107374"/>
+    <nd ref="363107376"/>
+    <nd ref="363107377"/>
+    <nd ref="363107378"/>
+    <nd ref="363107379"/>
+    <nd ref="363107380"/>
+    <nd ref="363107382"/>
+    <nd ref="363107383"/>
+    <nd ref="363107384"/>
+    <nd ref="363107385"/>
+    <nd ref="363107386"/>
+    <nd ref="363107387"/>
+    <nd ref="363107389"/>
+    <nd ref="363107390"/>
+    <nd ref="363107391"/>
+    <nd ref="363107392"/>
+    <nd ref="363107393"/>
+    <nd ref="363107394"/>
+    <nd ref="363107396"/>
+    <nd ref="363107397"/>
+    <nd ref="363107398"/>
+    <nd ref="363107399"/>
+    <nd ref="363107400"/>
+    <nd ref="363107401"/>
+    <nd ref="363107403"/>
+    <nd ref="363107404"/>
+    <nd ref="363107405"/>
+    <nd ref="363107406"/>
+    <nd ref="363107407"/>
+    <nd ref="363107408"/>
+    <nd ref="363107410"/>
+    <nd ref="363107411"/>
+    <nd ref="363107412"/>
+    <nd ref="363107413"/>
+    <nd ref="363107415"/>
+    <nd ref="363107416"/>
+    <nd ref="363107417"/>
+    <nd ref="363107418"/>
+    <nd ref="363107419"/>
+    <nd ref="363107420"/>
+    <nd ref="363107421"/>
+    <nd ref="363107422"/>
+    <nd ref="363107424"/>
+    <nd ref="363107425"/>
+    <nd ref="363107427"/>
+    <nd ref="363107428"/>
+    <nd ref="363107429"/>
+    <nd ref="415558033"/>
+    <nd ref="363107430"/>
+    <nd ref="363107431"/>
+    <nd ref="363107432"/>
+    <nd ref="363107434"/>
+    <nd ref="363107435"/>
+    <nd ref="363107436"/>
+    <nd ref="363709065"/>
+    <nd ref="415558034"/>
+    <nd ref="363709067"/>
+    <nd ref="416521483"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="attribution" v="Based on Australian Bureau of Statistics data"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="ABS_2006"/>
+  </way>
+  <way id="44719580" version="2" timestamp="2009-11-20T13:08:04Z" uid="74617" user="JohnSmith" changeset="3168226">
+    <nd ref="359419207"/>
+    <nd ref="360578666"/>
+    <nd ref="360578663"/>
+    <nd ref="360578659"/>
+    <nd ref="360578656"/>
+    <nd ref="360578652"/>
+    <nd ref="360578648"/>
+    <nd ref="360578645"/>
+    <nd ref="360578641"/>
+    <nd ref="360578638"/>
+    <nd ref="360578634"/>
+    <nd ref="360578630"/>
+    <nd ref="360578627"/>
+    <nd ref="360578623"/>
+    <nd ref="360578620"/>
+    <nd ref="360578616"/>
+    <nd ref="360578613"/>
+    <nd ref="360578609"/>
+    <nd ref="360578606"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="attribution" v="Based on Australian Bureau of Statistics data"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="ABS_2006"/>
+  </way>
+  <way id="44719581" version="1" timestamp="2009-11-20T12:52:03Z" uid="74617" user="JohnSmith" changeset="3168138">
+    <nd ref="359419018"/>
+    <nd ref="359419022"/>
+    <nd ref="359419027"/>
+    <nd ref="359419029"/>
+    <nd ref="359419034"/>
+    <nd ref="359419035"/>
+    <nd ref="359419037"/>
+    <nd ref="359419038"/>
+    <nd ref="359419041"/>
+    <nd ref="359419048"/>
+    <nd ref="359419051"/>
+    <nd ref="359419054"/>
+    <nd ref="359419058"/>
+    <nd ref="359419062"/>
+    <nd ref="359419065"/>
+    <nd ref="359419075"/>
+    <nd ref="359419079"/>
+    <nd ref="359419082"/>
+    <nd ref="359419085"/>
+    <nd ref="359419088"/>
+    <nd ref="359419092"/>
+    <nd ref="359419098"/>
+    <nd ref="359419102"/>
+    <nd ref="359419105"/>
+    <nd ref="359419107"/>
+    <nd ref="359419109"/>
+    <nd ref="359419114"/>
+    <nd ref="359419116"/>
+    <nd ref="359419118"/>
+    <nd ref="359419121"/>
+    <nd ref="359419125"/>
+    <nd ref="359419129"/>
+    <nd ref="359419134"/>
+    <nd ref="359419140"/>
+    <nd ref="359419147"/>
+    <nd ref="359419151"/>
+    <nd ref="359419155"/>
+    <nd ref="359419159"/>
+    <nd ref="359419164"/>
+    <nd ref="359419171"/>
+    <nd ref="359419175"/>
+    <nd ref="359419180"/>
+    <nd ref="359419183"/>
+    <nd ref="359419190"/>
+    <nd ref="359419194"/>
+    <nd ref="359419196"/>
+    <nd ref="359419200"/>
+    <nd ref="359419202"/>
+    <nd ref="359419205"/>
+    <nd ref="359419207"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="attribution" v="Based on Australian Bureau of Statistics data"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="ABS_2006"/>
+  </way>
+  <way id="44719581" version="2" timestamp="2011-02-12T21:52:13Z" uid="20949" user="Ebenezer" changeset="7269898">
+    <nd ref="359419018"/>
+    <nd ref="359419022"/>
+    <nd ref="359419027"/>
+    <nd ref="359419029"/>
+    <nd ref="359419034"/>
+    <nd ref="359419035"/>
+    <nd ref="359419037"/>
+    <nd ref="359419038"/>
+    <nd ref="359419041"/>
+    <nd ref="359419048"/>
+    <nd ref="359419051"/>
+    <nd ref="359419054"/>
+    <nd ref="359419058"/>
+    <nd ref="1149674463"/>
+    <nd ref="359419062"/>
+    <nd ref="359419065"/>
+    <nd ref="359419075"/>
+    <nd ref="359419079"/>
+    <nd ref="359419082"/>
+    <nd ref="359419085"/>
+    <nd ref="359419088"/>
+    <nd ref="359419092"/>
+    <nd ref="359419098"/>
+    <nd ref="359419102"/>
+    <nd ref="359419105"/>
+    <nd ref="359419107"/>
+    <nd ref="359419109"/>
+    <nd ref="359419114"/>
+    <nd ref="359419116"/>
+    <nd ref="359419118"/>
+    <nd ref="359419121"/>
+    <nd ref="359419125"/>
+    <nd ref="359419129"/>
+    <nd ref="359419134"/>
+    <nd ref="359419140"/>
+    <nd ref="359419147"/>
+    <nd ref="359419151"/>
+    <nd ref="359419155"/>
+    <nd ref="359419159"/>
+    <nd ref="359419164"/>
+    <nd ref="359419171"/>
+    <nd ref="359419175"/>
+    <nd ref="359419180"/>
+    <nd ref="359419183"/>
+    <nd ref="359419190"/>
+    <nd ref="359419194"/>
+    <nd ref="359419196"/>
+    <nd ref="359419200"/>
+    <nd ref="359419202"/>
+    <nd ref="359419205"/>
+    <nd ref="359419207"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="attribution" v="Based on Australian Bureau of Statistics data"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="ABS_2006"/>
+  </way>
+  <way id="44719581" version="3" timestamp="2011-03-04T23:27:40Z" uid="20949" user="Ebenezer" changeset="7459179">
+    <nd ref="359419018"/>
+    <nd ref="359419022"/>
+    <nd ref="359419027"/>
+    <nd ref="359419029"/>
+    <nd ref="359419034"/>
+    <nd ref="359419035"/>
+    <nd ref="1186570332"/>
+    <nd ref="359419037"/>
+    <nd ref="359419038"/>
+    <nd ref="359419041"/>
+    <nd ref="359419048"/>
+    <nd ref="359419051"/>
+    <nd ref="359419054"/>
+    <nd ref="359419058"/>
+    <nd ref="1149674463"/>
+    <nd ref="359419062"/>
+    <nd ref="359419065"/>
+    <nd ref="359419075"/>
+    <nd ref="359419079"/>
+    <nd ref="359419082"/>
+    <nd ref="359419085"/>
+    <nd ref="359419088"/>
+    <nd ref="359419092"/>
+    <nd ref="359419098"/>
+    <nd ref="359419102"/>
+    <nd ref="359419105"/>
+    <nd ref="359419107"/>
+    <nd ref="359419109"/>
+    <nd ref="359419114"/>
+    <nd ref="359419116"/>
+    <nd ref="359419118"/>
+    <nd ref="359419121"/>
+    <nd ref="359419125"/>
+    <nd ref="359419129"/>
+    <nd ref="359419134"/>
+    <nd ref="359419140"/>
+    <nd ref="359419147"/>
+    <nd ref="359419151"/>
+    <nd ref="359419155"/>
+    <nd ref="359419159"/>
+    <nd ref="359419164"/>
+    <nd ref="359419171"/>
+    <nd ref="359419175"/>
+    <nd ref="359419180"/>
+    <nd ref="359419183"/>
+    <nd ref="359419190"/>
+    <nd ref="359419194"/>
+    <nd ref="359419196"/>
+    <nd ref="359419200"/>
+    <nd ref="359419202"/>
+    <nd ref="359419205"/>
+    <nd ref="359419207"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="attribution" v="Based on Australian Bureau of Statistics data"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="ABS_2006"/>
+  </way>
+  <way id="44719581" version="4" timestamp="2012-02-08T08:17:35Z" uid="147510" user="woodpeck_fixbot" changeset="10621235">
+    <nd ref="359419022"/>
+    <nd ref="359419027"/>
+    <nd ref="359419029"/>
+    <nd ref="359419034"/>
+    <nd ref="359419035"/>
+    <nd ref="1186570332"/>
+    <nd ref="359419037"/>
+    <nd ref="359419038"/>
+    <nd ref="359419041"/>
+    <nd ref="359419048"/>
+    <nd ref="359419051"/>
+    <nd ref="359419054"/>
+    <nd ref="359419058"/>
+    <nd ref="1149674463"/>
+    <nd ref="359419062"/>
+    <nd ref="359419065"/>
+    <nd ref="359419075"/>
+    <nd ref="359419079"/>
+    <nd ref="359419082"/>
+    <nd ref="359419085"/>
+    <nd ref="359419088"/>
+    <nd ref="359419092"/>
+    <nd ref="359419098"/>
+    <nd ref="359419102"/>
+    <nd ref="359419105"/>
+    <nd ref="359419107"/>
+    <nd ref="359419109"/>
+    <nd ref="359419114"/>
+    <nd ref="359419116"/>
+    <nd ref="359419118"/>
+    <nd ref="359419121"/>
+    <nd ref="359419125"/>
+    <nd ref="359419129"/>
+    <nd ref="359419134"/>
+    <nd ref="359419140"/>
+    <nd ref="359419147"/>
+    <nd ref="359419151"/>
+    <nd ref="359419155"/>
+    <nd ref="359419159"/>
+    <nd ref="359419164"/>
+    <nd ref="359419171"/>
+    <nd ref="359419175"/>
+    <nd ref="359419180"/>
+    <nd ref="359419183"/>
+    <nd ref="359419190"/>
+    <nd ref="359419194"/>
+    <nd ref="359419196"/>
+    <nd ref="359419200"/>
+    <nd ref="359419202"/>
+    <nd ref="359419205"/>
+    <nd ref="359419207"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="attribution" v="Based on Australian Bureau of Statistics data"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="ABS_2006"/>
+  </way>
+  <way id="44719613" version="2" timestamp="2010-02-15T20:38:37Z" uid="49111" user="Markus B" changeset="3886679">
+    <nd ref="485196331"/>
+    <nd ref="485196333"/>
+    <nd ref="323113998"/>
+    <nd ref="455043943"/>
+    <nd ref="485196334"/>
+    <nd ref="455043945"/>
+    <nd ref="455043946"/>
+    <nd ref="455043948"/>
+    <tag k="highway" v="track"/>
+    <tag k="tracktype" v="grade3"/>
+  </way>
+  <way id="44719613" version="3" timestamp="2010-10-14T18:03:13Z" uid="87723" user="Shiega" changeset="6041513">
+    <nd ref="485196331"/>
+    <nd ref="485196333"/>
+    <nd ref="323113998"/>
+    <nd ref="455043943"/>
+    <nd ref="485196334"/>
+    <nd ref="455043945"/>
+    <nd ref="455043946"/>
+    <nd ref="455043948"/>
+    <tag k="highway" v="track"/>
+    <tag k="tracktype" v="grade2"/>
+  </way>
+  <way id="44719638" version="1" timestamp="2009-11-20T12:57:51Z" uid="55964" user="Evan Sebire" changeset="3168169">
+    <nd ref="105061811"/>
+    <nd ref="567362680"/>
+    <nd ref="567362683"/>
+    <nd ref="567362688"/>
+    <nd ref="567362691"/>
+    <nd ref="567362694"/>
+    <nd ref="567362699"/>
+    <nd ref="567362702"/>
+    <nd ref="567362704"/>
+    <nd ref="567362705"/>
+    <nd ref="567362706"/>
+    <nd ref="567362707"/>
+    <nd ref="567362708"/>
+    <nd ref="567362709"/>
+    <nd ref="567362710"/>
+    <nd ref="567362711"/>
+    <nd ref="567362712"/>
+    <nd ref="567362713"/>
+    <nd ref="567362714"/>
+    <nd ref="567362715"/>
+    <nd ref="567362716"/>
+    <nd ref="567362717"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Villanova Court"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="44719638" version="2" timestamp="2010-07-09T05:00:11Z" uid="74617" user="JohnSmith" changeset="5170986">
+    <nd ref="105061811"/>
+    <nd ref="567362680"/>
+    <nd ref="567362683"/>
+    <nd ref="567362688"/>
+    <nd ref="567362691"/>
+    <nd ref="567362694"/>
+    <nd ref="567362699"/>
+    <nd ref="567362702"/>
+    <nd ref="567362704"/>
+    <nd ref="567362705"/>
+    <nd ref="567362706"/>
+    <nd ref="567362707"/>
+    <nd ref="567362708"/>
+    <nd ref="567362709"/>
+    <nd ref="567362710"/>
+    <nd ref="567362711"/>
+    <nd ref="567362712"/>
+    <nd ref="567362713"/>
+    <nd ref="567362714"/>
+    <nd ref="567362715"/>
+    <nd ref="567362716"/>
+    <nd ref="567362717"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Villanova Court"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="44719638" version="3" timestamp="2012-01-19T09:42:44Z" uid="147510" user="woodpeck_fixbot" changeset="10434386">
+    <nd ref="105061811"/>
+    <nd ref="567362680"/>
+    <nd ref="567362683"/>
+    <nd ref="567362688"/>
+    <nd ref="567362691"/>
+    <nd ref="567362694"/>
+    <nd ref="567362699"/>
+    <nd ref="567362702"/>
+    <nd ref="567362704"/>
+    <nd ref="567362705"/>
+    <nd ref="567362706"/>
+    <nd ref="567362707"/>
+    <nd ref="567362708"/>
+    <nd ref="567362709"/>
+    <nd ref="567362710"/>
+    <nd ref="567362711"/>
+    <nd ref="567362712"/>
+    <nd ref="567362713"/>
+    <nd ref="567362714"/>
+    <nd ref="567362715"/>
+    <nd ref="567362716"/>
+    <nd ref="567362717"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Villanova Court"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="44719639" version="1" timestamp="2009-11-20T12:57:54Z" uid="55964" user="Evan Sebire" changeset="3168169">
+    <nd ref="567362718"/>
+    <nd ref="567362719"/>
+    <nd ref="567362720"/>
+    <nd ref="567362721"/>
+    <nd ref="567362722"/>
+    <nd ref="567362723"/>
+    <nd ref="567362724"/>
+    <nd ref="567362725"/>
+    <nd ref="567362726"/>
+    <nd ref="567362728"/>
+    <nd ref="567362731"/>
+    <nd ref="567362734"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Iolanthe Close"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="44719639" version="2" timestamp="2010-07-09T05:06:54Z" uid="74617" user="JohnSmith" changeset="5170986">
+    <nd ref="567362718"/>
+    <nd ref="567362719"/>
+    <nd ref="567362720"/>
+    <nd ref="567362721"/>
+    <nd ref="567362722"/>
+    <nd ref="567362723"/>
+    <nd ref="567362724"/>
+    <nd ref="567362725"/>
+    <nd ref="567362726"/>
+    <nd ref="567362728"/>
+    <nd ref="567362731"/>
+    <nd ref="567362734"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Iolanthe Close"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="44719639" version="3" timestamp="2012-01-19T09:42:47Z" uid="147510" user="woodpeck_fixbot" changeset="10434386">
+    <nd ref="567362718"/>
+    <nd ref="567362719"/>
+    <nd ref="567362720"/>
+    <nd ref="567362721"/>
+    <nd ref="567362722"/>
+    <nd ref="567362723"/>
+    <nd ref="567362724"/>
+    <nd ref="567362725"/>
+    <nd ref="567362726"/>
+    <nd ref="567362728"/>
+    <nd ref="567362731"/>
+    <nd ref="567362734"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Iolanthe Close"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="44719640" version="1" timestamp="2009-11-20T12:57:56Z" uid="55964" user="Evan Sebire" changeset="3168169">
+    <nd ref="567362740"/>
+    <nd ref="567362743"/>
+    <nd ref="567362746"/>
+    <nd ref="567362748"/>
+    <nd ref="567362751"/>
+    <nd ref="567362754"/>
+    <nd ref="567362760"/>
+    <nd ref="567362763"/>
+    <nd ref="567362764"/>
+    <nd ref="567362767"/>
+    <nd ref="567362740"/>
+    <tag k="natural" v="water"/>
+  </way>
+  <way id="44719642" version="1" timestamp="2009-11-20T12:58:04Z" uid="55964" user="Evan Sebire" changeset="3168169">
+    <nd ref="567362712"/>
+    <nd ref="567362806"/>
+    <nd ref="567362807"/>
+    <nd ref="567362808"/>
+    <nd ref="567362809"/>
+    <tag k="highway" v="path"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="trail_visibility" v="good"/>
+  </way>
+  <way id="44719643" version="1" timestamp="2009-11-20T12:58:14Z" uid="55964" user="Evan Sebire" changeset="3168169">
+    <nd ref="567362812"/>
+    <nd ref="567362816"/>
+    <nd ref="567362819"/>
+    <nd ref="567362823"/>
+    <nd ref="567362826"/>
+    <nd ref="567362829"/>
+    <nd ref="567362832"/>
+    <nd ref="567362833"/>
+    <nd ref="567362839"/>
+    <nd ref="567362842"/>
+    <nd ref="567362844"/>
+    <nd ref="567362848"/>
+    <nd ref="567362850"/>
+    <nd ref="567362851"/>
+    <nd ref="567362854"/>
+    <nd ref="567362857"/>
+    <nd ref="567362859"/>
+    <nd ref="567362862"/>
+    <nd ref="567362865"/>
+    <nd ref="567362868"/>
+    <nd ref="567362871"/>
+    <nd ref="567362872"/>
+    <nd ref="567362874"/>
+    <nd ref="567362877"/>
+    <nd ref="567362882"/>
+    <nd ref="567362888"/>
+    <nd ref="567362889"/>
+    <nd ref="567362890"/>
+    <nd ref="567362893"/>
+    <nd ref="567362896"/>
+    <nd ref="567362898"/>
+    <nd ref="567362811"/>
+    <nd ref="567362902"/>
+    <nd ref="567362809"/>
+    <tag k="highway" v="path"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="trail_visibility" v="good"/>
+  </way>
+  <way id="44719645" version="1" timestamp="2009-11-20T12:58:19Z" uid="55964" user="Evan Sebire" changeset="3168169">
+    <nd ref="567362850"/>
+    <nd ref="567362912"/>
+    <nd ref="567362914"/>
+    <nd ref="567362915"/>
+    <nd ref="567362918"/>
+    <nd ref="567362921"/>
+    <nd ref="567362924"/>
+    <nd ref="567362926"/>
+    <nd ref="567362929"/>
+    <nd ref="567362931"/>
+    <nd ref="567362936"/>
+    <nd ref="567362938"/>
+    <nd ref="567362942"/>
+    <nd ref="567362944"/>
+    <nd ref="567362948"/>
+    <nd ref="567362950"/>
+    <tag k="highway" v="path"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="trail_visibility" v="good"/>
+  </way>
+  <way id="44719647" version="1" timestamp="2009-11-20T12:58:24Z" uid="55964" user="Evan Sebire" changeset="3168169">
+    <nd ref="567362918"/>
+    <nd ref="567362957"/>
+    <nd ref="567362960"/>
+    <nd ref="567362962"/>
+    <nd ref="567362963"/>
+    <nd ref="567362964"/>
+    <nd ref="567362965"/>
+    <nd ref="567362968"/>
+    <nd ref="567362971"/>
+    <nd ref="567362975"/>
+    <nd ref="567362978"/>
+    <nd ref="567362981"/>
+    <nd ref="567362983"/>
+    <nd ref="567362987"/>
+    <nd ref="567362992"/>
+    <nd ref="567362995"/>
+    <nd ref="567362998"/>
+    <nd ref="567363001"/>
+    <nd ref="567363002"/>
+    <nd ref="567363005"/>
+    <nd ref="567363007"/>
+    <nd ref="567363011"/>
+    <nd ref="567363014"/>
+    <nd ref="567363017"/>
+    <nd ref="567363020"/>
+    <nd ref="567363021"/>
+    <nd ref="567363028"/>
+    <tag k="highway" v="path"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="trail_visibility" v="good"/>
+  </way>
+  <way id="44719648" version="1" timestamp="2009-11-20T12:58:25Z" uid="55964" user="Evan Sebire" changeset="3168169">
+    <nd ref="567362957"/>
+    <nd ref="567362914"/>
+    <tag k="highway" v="path"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="trail_visibility" v="good"/>
+  </way>
+  <way id="44719650" version="1" timestamp="2009-11-20T12:58:27Z" uid="55964" user="Evan Sebire" changeset="3168169">
+    <nd ref="567363028"/>
+    <nd ref="567363040"/>
+    <nd ref="567363042"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="path"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="trail_visibility" v="good"/>
+  </way>
+  <way id="44719650" version="2" timestamp="2010-07-25T22:55:16Z" uid="4467" user="Rosscoe" changeset="5317371">
+    <nd ref="567363028"/>
+    <nd ref="567363040"/>
+    <nd ref="567363042"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="path"/>
+    <tag k="layer" v="1"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="trail_visibility" v="good"/>
+  </way>
+  <way id="44719651" version="1" timestamp="2009-11-20T12:58:27Z" uid="55964" user="Evan Sebire" changeset="3168169">
+    <nd ref="567363042"/>
+    <nd ref="567363047"/>
+    <nd ref="567363048"/>
+    <nd ref="567363049"/>
+    <nd ref="567363050"/>
+    <nd ref="567362877"/>
+    <tag k="highway" v="path"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="trail_visibility" v="good"/>
+  </way>
+  <way id="44719652" version="1" timestamp="2009-11-20T12:58:28Z" uid="55964" user="Evan Sebire" changeset="3168169">
+    <nd ref="567362844"/>
+    <nd ref="567363051"/>
+    <tag k="highway" v="path"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="trail_visibility" v="good"/>
+  </way>
+  <way id="44719653" version="1" timestamp="2009-11-20T12:58:30Z" uid="55964" user="Evan Sebire" changeset="3168169">
+    <nd ref="567363051"/>
+    <nd ref="567363058"/>
+    <nd ref="567363059"/>
+    <nd ref="567363060"/>
+    <nd ref="567363061"/>
+    <nd ref="567363062"/>
+    <nd ref="567363063"/>
+    <nd ref="567363064"/>
+    <tag k="highway" v="service"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="44719654" version="1" timestamp="2009-11-20T12:58:34Z" uid="55964" user="Evan Sebire" changeset="3168169">
+    <nd ref="567362844"/>
+    <nd ref="567363065"/>
+    <nd ref="567363066"/>
+    <nd ref="567363067"/>
+    <nd ref="567363068"/>
+    <nd ref="567363069"/>
+    <nd ref="567363070"/>
+    <nd ref="567363071"/>
+    <nd ref="567363072"/>
+    <nd ref="567363073"/>
+    <nd ref="567363074"/>
+    <nd ref="567363075"/>
+    <nd ref="567363076"/>
+    <nd ref="567363077"/>
+    <nd ref="567363078"/>
+    <nd ref="567363079"/>
+    <nd ref="567362865"/>
+    <tag k="highway" v="path"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="trail_visibility" v="good"/>
+  </way>
+  <way id="44719655" version="1" timestamp="2009-11-20T12:58:35Z" uid="55964" user="Evan Sebire" changeset="3168169">
+    <nd ref="567363079"/>
+    <nd ref="567363086"/>
+    <nd ref="567363089"/>
+    <tag k="highway" v="path"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="trail_visibility" v="good"/>
+  </way>
+  <way id="44719658" version="1" timestamp="2009-11-20T12:58:37Z" uid="55964" user="Evan Sebire" changeset="3168169">
+    <nd ref="567363095"/>
+    <nd ref="567363096"/>
+    <nd ref="567363098"/>
+    <nd ref="567363101"/>
+    <nd ref="567363105"/>
+    <nd ref="567363114"/>
+    <nd ref="567363116"/>
+    <nd ref="567363117"/>
+    <nd ref="567363118"/>
+    <nd ref="567363119"/>
+    <nd ref="567363120"/>
+    <nd ref="567363121"/>
+    <nd ref="567363122"/>
+    <nd ref="567363123"/>
+    <nd ref="567363095"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="44719659" version="1" timestamp="2009-11-20T12:58:39Z" uid="55964" user="Evan Sebire" changeset="3168169">
+    <nd ref="567363125"/>
+    <nd ref="567363126"/>
+    <nd ref="567363127"/>
+    <nd ref="567363128"/>
+    <nd ref="567363129"/>
+    <nd ref="567363130"/>
+    <nd ref="567363131"/>
+    <nd ref="567363125"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="44719660" version="1" timestamp="2009-11-20T12:58:42Z" uid="55964" user="Evan Sebire" changeset="3168169">
+    <nd ref="567363132"/>
+    <nd ref="567363133"/>
+    <nd ref="567363134"/>
+    <nd ref="567363135"/>
+    <nd ref="567363136"/>
+    <nd ref="567363137"/>
+    <nd ref="567363138"/>
+    <nd ref="567363139"/>
+    <nd ref="567363140"/>
+    <nd ref="567363141"/>
+    <nd ref="567363132"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="44719661" version="1" timestamp="2009-11-20T12:58:43Z" uid="55964" user="Evan Sebire" changeset="3168169">
+    <nd ref="105061807"/>
+    <nd ref="567363142"/>
+    <nd ref="567363144"/>
+    <nd ref="567363148"/>
+    <nd ref="567363151"/>
+    <nd ref="567363089"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Yeoman Court"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="44719661" version="2" timestamp="2010-07-09T05:00:50Z" uid="74617" user="JohnSmith" changeset="5170986">
+    <nd ref="105061807"/>
+    <nd ref="567363142"/>
+    <nd ref="567363144"/>
+    <nd ref="567363148"/>
+    <nd ref="567363151"/>
+    <nd ref="567363089"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Yeoman Court"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="44719661" version="3" timestamp="2012-01-19T09:42:50Z" uid="147510" user="woodpeck_fixbot" changeset="10434386">
+    <nd ref="105061807"/>
+    <nd ref="567363142"/>
+    <nd ref="567363144"/>
+    <nd ref="567363148"/>
+    <nd ref="567363151"/>
+    <nd ref="567363089"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Yeoman Court"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="44719662" version="1" timestamp="2009-11-20T12:58:45Z" uid="7617" user="Franc" changeset="3168173">
+    <nd ref="413755870"/>
+    <nd ref="567363200"/>
+    <nd ref="413755867"/>
+    <nd ref="567363192"/>
+    <nd ref="567363195"/>
+    <nd ref="567363199"/>
+    <nd ref="413755868"/>
+    <nd ref="413755869"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="44719662" version="2" timestamp="2009-11-20T20:57:20Z" uid="7617" user="Franc" changeset="3171708">
+    <nd ref="413755870"/>
+    <nd ref="567363200"/>
+    <nd ref="413755867"/>
+    <nd ref="567363192"/>
+    <nd ref="567363195"/>
+    <nd ref="567554223"/>
+    <nd ref="567554225"/>
+    <nd ref="567363199"/>
+    <nd ref="413755868"/>
+    <nd ref="413755869"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="44719663" version="1" timestamp="2009-11-20T12:58:45Z" uid="7617" user="Franc" changeset="3168173">
+    <nd ref="567363146"/>
+    <nd ref="567363147"/>
+    <nd ref="567363152"/>
+    <nd ref="567363154"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="44719664" version="1" timestamp="2009-11-20T12:58:45Z" uid="7617" user="Franc" changeset="3168173">
+    <nd ref="413755866"/>
+    <nd ref="567363173"/>
+    <nd ref="413755870"/>
+    <nd ref="567363175"/>
+    <nd ref="567363178"/>
+    <nd ref="567363179"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="44719665" version="1" timestamp="2009-11-20T12:58:45Z" uid="7617" user="Franc" changeset="3168173">
+    <nd ref="567363158"/>
+    <nd ref="567363161"/>
+    <nd ref="567363163"/>
+    <nd ref="567363164"/>
+    <nd ref="567363165"/>
+    <nd ref="567363167"/>
+    <nd ref="567363168"/>
+    <nd ref="567363169"/>
+    <nd ref="567363172"/>
+    <nd ref="567363199"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="44719665" version="2" timestamp="2009-11-20T20:57:20Z" uid="7617" user="Franc" changeset="3171708">
+    <nd ref="567363158"/>
+    <nd ref="567363161"/>
+    <nd ref="567554172"/>
+    <nd ref="567363163"/>
+    <nd ref="567363164"/>
+    <nd ref="567363165"/>
+    <nd ref="567363167"/>
+    <nd ref="567363168"/>
+    <nd ref="567363169"/>
+    <nd ref="567363172"/>
+    <nd ref="567363199"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="44719667" version="1" timestamp="2009-11-20T12:58:48Z" uid="55964" user="Evan Sebire" changeset="3168169">
+    <nd ref="567362942"/>
+    <nd ref="567363166"/>
+    <nd ref="567363171"/>
+    <nd ref="567363176"/>
+    <nd ref="567363180"/>
+    <nd ref="567363187"/>
+    <nd ref="567363191"/>
+    <nd ref="567363197"/>
+    <nd ref="567363201"/>
+    <nd ref="567363204"/>
+    <nd ref="567363206"/>
+    <nd ref="567363209"/>
+    <nd ref="567363211"/>
+    <nd ref="567363212"/>
+    <nd ref="567363213"/>
+    <nd ref="567363214"/>
+    <nd ref="567363217"/>
+    <nd ref="567363223"/>
+    <nd ref="567363228"/>
+    <nd ref="567363235"/>
+    <nd ref="567363237"/>
+    <tag k="highway" v="path"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="trail_visibility" v="good"/>
+  </way>
+  <way id="44719671" version="1" timestamp="2009-11-20T12:58:50Z" uid="55964" user="Evan Sebire" changeset="3168169">
+    <nd ref="567363197"/>
+    <nd ref="567363249"/>
+    <nd ref="567363253"/>
+    <nd ref="567363257"/>
+    <nd ref="567363262"/>
+    <nd ref="567363267"/>
+    <nd ref="567363272"/>
+    <nd ref="567363278"/>
+    <nd ref="567363282"/>
+    <nd ref="567363283"/>
+    <nd ref="567363284"/>
+    <nd ref="567363285"/>
+    <nd ref="567363223"/>
+    <tag k="highway" v="path"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="trail_visibility" v="good"/>
+  </way>
+  <way id="44719671" version="2" timestamp="2011-04-04T02:38:19Z" uid="95583" user="Geodes" changeset="7760612">
+    <nd ref="567363197"/>
+    <nd ref="567363249"/>
+    <nd ref="567363253"/>
+    <nd ref="567363257"/>
+    <nd ref="567363262"/>
+    <nd ref="567363267"/>
+    <nd ref="1231785989"/>
+    <nd ref="567363272"/>
+    <nd ref="567363278"/>
+    <nd ref="567363282"/>
+    <nd ref="567363283"/>
+    <nd ref="567363284"/>
+    <nd ref="567363285"/>
+    <nd ref="567363223"/>
+    <tag k="highway" v="path"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="trail_visibility" v="good"/>
+  </way>
+  <way id="44719680" version="1" timestamp="2009-11-20T12:58:55Z" uid="55964" user="Evan Sebire" changeset="3168169">
+    <nd ref="567363212"/>
+    <nd ref="567363286"/>
+    <nd ref="567363287"/>
+    <nd ref="567363288"/>
+    <nd ref="567363237"/>
+    <nd ref="567363289"/>
+    <nd ref="567363291"/>
+    <nd ref="567363293"/>
+    <nd ref="567363298"/>
+    <nd ref="567363304"/>
+    <nd ref="567363306"/>
+    <nd ref="567363307"/>
+    <nd ref="567363308"/>
+    <nd ref="567363312"/>
+    <nd ref="567363313"/>
+    <nd ref="567363315"/>
+    <nd ref="567362811"/>
+    <tag k="highway" v="path"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="trail_visibility" v="good"/>
+  </way>
+  <way id="44719680" version="2" timestamp="2011-04-04T02:38:19Z" uid="95583" user="Geodes" changeset="7760612">
+    <nd ref="567363212"/>
+    <nd ref="1231785995"/>
+    <nd ref="567363286"/>
+    <nd ref="567363287"/>
+    <nd ref="567363288"/>
+    <nd ref="567363237"/>
+    <nd ref="567363289"/>
+    <nd ref="567363291"/>
+    <nd ref="567363293"/>
+    <nd ref="567363298"/>
+    <nd ref="567363304"/>
+    <nd ref="567363306"/>
+    <nd ref="567363307"/>
+    <nd ref="567363308"/>
+    <nd ref="567363312"/>
+    <nd ref="567363313"/>
+    <nd ref="567363315"/>
+    <nd ref="567362811"/>
+    <tag k="highway" v="path"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="trail_visibility" v="good"/>
+  </way>
+  <way id="44719681" version="1" timestamp="2009-11-20T12:58:56Z" uid="55964" user="Evan Sebire" changeset="3168169">
+    <nd ref="567363212"/>
+    <nd ref="567363316"/>
+    <nd ref="567363317"/>
+    <nd ref="567363318"/>
+    <tag k="highway" v="path"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="trail_visibility" v="good"/>
+  </way>
+  <way id="44719682" version="1" timestamp="2009-11-20T12:58:57Z" uid="55964" user="Evan Sebire" changeset="3168169">
+    <nd ref="567363317"/>
+    <nd ref="567363319"/>
+    <nd ref="567363320"/>
+    <nd ref="567363321"/>
+    <nd ref="567363322"/>
+    <nd ref="567363323"/>
+    <nd ref="567363324"/>
+    <tag k="highway" v="path"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="trail_visibility" v="good"/>
+  </way>
+  <way id="44719684" version="1" timestamp="2009-11-20T12:58:57Z" uid="55964" user="Evan Sebire" changeset="3168169">
+    <nd ref="567363318"/>
+    <nd ref="321684851"/>
+    <tag k="highway" v="track"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="44719686" version="1" timestamp="2009-11-20T12:58:58Z" uid="55964" user="Evan Sebire" changeset="3168169">
+    <nd ref="567363318"/>
+    <nd ref="321684845"/>
+    <tag k="highway" v="track"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="44719687" version="1" timestamp="2009-11-20T12:59:00Z" uid="55964" user="Evan Sebire" changeset="3168169">
+    <nd ref="567363304"/>
+    <nd ref="567363326"/>
+    <nd ref="567363327"/>
+    <nd ref="567363328"/>
+    <nd ref="567363329"/>
+    <nd ref="567363330"/>
+    <nd ref="567363331"/>
+    <nd ref="567363332"/>
+    <nd ref="567363333"/>
+    <nd ref="567363334"/>
+    <nd ref="567363335"/>
+    <tag k="highway" v="path"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="trail_visibility" v="good"/>
+  </way>
+  <way id="44719688" version="1" timestamp="2009-11-20T12:59:01Z" uid="55964" user="Evan Sebire" changeset="3168169">
+    <nd ref="567363291"/>
+    <nd ref="567363336"/>
+    <nd ref="567363337"/>
+    <nd ref="567363338"/>
+    <nd ref="321685517"/>
+    <tag k="highway" v="path"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="trail_visibility" v="good"/>
+  </way>
+  <way id="44719689" version="1" timestamp="2009-11-20T12:59:04Z" uid="55964" user="Evan Sebire" changeset="3168169">
+    <nd ref="321685627"/>
+    <nd ref="567363339"/>
+    <nd ref="567363340"/>
+    <nd ref="567363341"/>
+    <nd ref="567363335"/>
+    <nd ref="567363342"/>
+    <nd ref="567363343"/>
+    <nd ref="567363344"/>
+    <nd ref="567363345"/>
+    <nd ref="567363346"/>
+    <nd ref="567363347"/>
+    <nd ref="567363348"/>
+    <tag k="highway" v="track"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="tracktype" v="grade1"/>
+  </way>
+  <way id="44719690" version="1" timestamp="2009-11-20T12:59:06Z" uid="55964" user="Evan Sebire" changeset="3168169">
+    <nd ref="567363005"/>
+    <nd ref="567363349"/>
+    <nd ref="567363350"/>
+    <nd ref="567363351"/>
+    <nd ref="567363352"/>
+    <nd ref="567363272"/>
+    <tag k="highway" v="path"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="trail_visibility" v="good"/>
+  </way>
+  <way id="44719691" version="1" timestamp="2009-11-20T12:59:06Z" uid="55964" user="Evan Sebire" changeset="3168169">
+    <nd ref="567363278"/>
+    <nd ref="567363353"/>
+    <tag k="highway" v="path"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="trail_visibility" v="good"/>
+  </way>
+  <way id="44719692" version="1" timestamp="2009-11-20T12:59:09Z" uid="55964" user="Evan Sebire" changeset="3168169">
+    <nd ref="567363360"/>
+    <nd ref="567363365"/>
+    <nd ref="567363366"/>
+    <nd ref="567363367"/>
+    <nd ref="567363368"/>
+    <nd ref="567363284"/>
+    <tag k="highway" v="path"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="trail_visibility" v="good"/>
+  </way>
+  <way id="44719693" version="1" timestamp="2009-11-20T12:59:10Z" uid="55964" user="Evan Sebire" changeset="3168169">
+    <nd ref="567363235"/>
+    <nd ref="567363369"/>
+    <nd ref="567363370"/>
+    <nd ref="567363284"/>
+    <tag k="highway" v="path"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="trail_visibility" v="good"/>
+  </way>
+  <way id="44719694" version="1" timestamp="2009-11-20T12:59:13Z" uid="55964" user="Evan Sebire" changeset="3168169">
+    <nd ref="567363315"/>
+    <nd ref="567363371"/>
+    <nd ref="567363372"/>
+    <nd ref="567363373"/>
+    <nd ref="567363374"/>
+    <nd ref="567363375"/>
+    <nd ref="567363376"/>
+    <nd ref="567363377"/>
+    <nd ref="567363378"/>
+    <nd ref="567363379"/>
+    <nd ref="567363364"/>
+    <nd ref="567363363"/>
+    <nd ref="567363362"/>
+    <nd ref="567363361"/>
+    <nd ref="567363360"/>
+    <nd ref="567363359"/>
+    <nd ref="567363358"/>
+    <nd ref="567363357"/>
+    <nd ref="567363356"/>
+    <nd ref="567363355"/>
+    <nd ref="567363354"/>
+    <nd ref="567363289"/>
+    <tag k="highway" v="path"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="trail_visibility" v="good"/>
+  </way>
+  <way id="44719695" version="1" timestamp="2009-11-20T12:59:15Z" uid="55964" user="Evan Sebire" changeset="3168169">
+    <nd ref="567363376"/>
+    <nd ref="567363380"/>
+    <nd ref="567363381"/>
+    <nd ref="567363382"/>
+    <nd ref="567363384"/>
+    <nd ref="567363386"/>
+    <nd ref="567363389"/>
+    <nd ref="567363392"/>
+    <nd ref="567363353"/>
+    <tag k="highway" v="path"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="trail_visibility" v="good"/>
+  </way>
+  <way id="44719696" version="1" timestamp="2009-11-20T12:59:16Z" uid="55964" user="Evan Sebire" changeset="3168169">
+    <nd ref="567362882"/>
+    <nd ref="567363399"/>
+    <nd ref="567363400"/>
+    <nd ref="567362728"/>
+    <tag k="highway" v="path"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="trail_visibility" v="good"/>
+  </way>
+  <way id="44719697" version="1" timestamp="2009-11-20T12:59:18Z" uid="55964" user="Evan Sebire" changeset="3168169">
+    <nd ref="567363411"/>
+    <nd ref="567363414"/>
+    <nd ref="567363415"/>
+    <nd ref="567363416"/>
+    <nd ref="567363411"/>
+    <tag k="building" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="44719698" version="1" timestamp="2009-11-20T12:59:20Z" uid="55964" user="Evan Sebire" changeset="3168169">
+    <nd ref="567363422"/>
+    <nd ref="567363426"/>
+    <nd ref="567363429"/>
+    <nd ref="567363432"/>
+    <nd ref="567363433"/>
+    <nd ref="567363436"/>
+    <nd ref="567363439"/>
+    <nd ref="567363442"/>
+    <nd ref="567363445"/>
+    <nd ref="567363451"/>
+    <nd ref="567363452"/>
+    <nd ref="567363422"/>
+    <tag k="building" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="44719699" version="1" timestamp="2009-11-20T12:59:22Z" uid="55964" user="Evan Sebire" changeset="3168169">
+    <nd ref="567363458"/>
+    <nd ref="567363461"/>
+    <nd ref="567363464"/>
+    <nd ref="567363467"/>
+    <nd ref="567363469"/>
+    <nd ref="567363473"/>
+    <nd ref="567363476"/>
+    <nd ref="567363479"/>
+    <nd ref="567363458"/>
+    <tag k="building" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="44719700" version="1" timestamp="2009-11-20T12:59:24Z" uid="55964" user="Evan Sebire" changeset="3168169">
+    <nd ref="567363486"/>
+    <nd ref="567363489"/>
+    <nd ref="567363492"/>
+    <nd ref="567363495"/>
+    <nd ref="567363498"/>
+    <nd ref="567363501"/>
+    <nd ref="567363503"/>
+    <nd ref="567363504"/>
+    <nd ref="567363505"/>
+    <nd ref="567363486"/>
+    <tag k="building" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="44719701" version="1" timestamp="2009-11-20T12:59:26Z" uid="55964" user="Evan Sebire" changeset="3168169">
+    <nd ref="567363506"/>
+    <nd ref="567363507"/>
+    <nd ref="567363508"/>
+    <nd ref="567363509"/>
+    <nd ref="567363510"/>
+    <nd ref="567363511"/>
+    <nd ref="567363506"/>
+    <tag k="building" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="44719702" version="1" timestamp="2009-11-20T12:59:26Z" uid="55964" user="Evan Sebire" changeset="3168169">
+    <nd ref="567363051"/>
+    <nd ref="567363052"/>
+    <nd ref="567363053"/>
+    <nd ref="567363054"/>
+    <nd ref="567363055"/>
+    <nd ref="567363057"/>
+    <tag k="highway" v="service"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="44719702" version="2" timestamp="2009-11-20T13:24:36Z" uid="55964" user="Evan Sebire" changeset="3168337">
+    <nd ref="567363051"/>
+    <nd ref="567363052"/>
+    <nd ref="567363053"/>
+    <nd ref="567363054"/>
+    <nd ref="567363055"/>
+    <nd ref="567363057"/>
+    <nd ref="567375955"/>
+    <nd ref="567375956"/>
+    <nd ref="567375944"/>
+    <nd ref="567375957"/>
+    <nd ref="567375958"/>
+    <nd ref="567375959"/>
+    <nd ref="567375960"/>
+    <tag k="highway" v="path"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="44719950" version="1" timestamp="2009-11-20T13:08:03Z" uid="74617" user="JohnSmith" changeset="3168226">
+    <nd ref="360578606"/>
+    <nd ref="363107336"/>
+    <nd ref="363107337"/>
+    <nd ref="363107338"/>
+    <nd ref="363107339"/>
+    <nd ref="363107341"/>
+    <nd ref="363107342"/>
+    <nd ref="363107343"/>
+    <nd ref="363107344"/>
+    <nd ref="363107345"/>
+    <nd ref="363107347"/>
+    <nd ref="363107348"/>
+    <nd ref="363107349"/>
+    <nd ref="363107351"/>
+    <nd ref="363107352"/>
+    <nd ref="363107353"/>
+    <nd ref="363107355"/>
+    <nd ref="363107356"/>
+    <nd ref="363107357"/>
+    <nd ref="363107358"/>
+    <nd ref="363107359"/>
+    <nd ref="363107361"/>
+    <nd ref="363107362"/>
+    <nd ref="363107363"/>
+    <nd ref="363107364"/>
+    <nd ref="363107365"/>
+    <nd ref="363107366"/>
+    <nd ref="363107368"/>
+    <nd ref="363107369"/>
+    <nd ref="363107370"/>
+    <nd ref="363107371"/>
+    <nd ref="363107372"/>
+    <nd ref="363107373"/>
+    <nd ref="363107374"/>
+    <nd ref="363107376"/>
+    <nd ref="363107377"/>
+    <nd ref="363107378"/>
+    <nd ref="363107379"/>
+    <nd ref="363107380"/>
+    <nd ref="363107382"/>
+    <nd ref="363107383"/>
+    <nd ref="363107384"/>
+    <nd ref="363107385"/>
+    <nd ref="363107386"/>
+    <nd ref="363107387"/>
+    <nd ref="363107389"/>
+    <nd ref="363107390"/>
+    <nd ref="363107391"/>
+    <nd ref="363107392"/>
+    <nd ref="363107393"/>
+    <nd ref="363107394"/>
+    <nd ref="363107396"/>
+    <nd ref="363107397"/>
+    <nd ref="363107398"/>
+    <nd ref="363107399"/>
+    <nd ref="363107400"/>
+    <nd ref="363107401"/>
+    <nd ref="363107403"/>
+    <nd ref="363107404"/>
+    <nd ref="363107405"/>
+    <nd ref="363107406"/>
+    <nd ref="363107407"/>
+    <nd ref="363107408"/>
+    <nd ref="363107410"/>
+    <nd ref="363107411"/>
+    <nd ref="363107412"/>
+    <nd ref="363107413"/>
+    <nd ref="363107415"/>
+    <nd ref="363107416"/>
+    <nd ref="363107417"/>
+    <nd ref="363107418"/>
+    <nd ref="363107419"/>
+    <nd ref="363107420"/>
+    <nd ref="363107421"/>
+    <nd ref="363107422"/>
+    <nd ref="363107424"/>
+    <nd ref="363107425"/>
+    <nd ref="363107427"/>
+    <nd ref="363107428"/>
+    <nd ref="363107429"/>
+    <nd ref="415558033"/>
+    <nd ref="363107430"/>
+    <nd ref="363107431"/>
+    <nd ref="363107432"/>
+    <nd ref="363107434"/>
+    <nd ref="363107435"/>
+    <nd ref="363107436"/>
+    <nd ref="363709065"/>
+    <nd ref="415558034"/>
+    <nd ref="363709067"/>
+    <nd ref="416521483"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="attribution" v="Based on Australian Bureau of Statistics data"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="ABS_2006"/>
+  </way>
+  <way id="44719950" version="2" timestamp="2009-11-20T13:17:59Z" uid="74617" user="JohnSmith" changeset="3168296">
+    <nd ref="360578606"/>
+    <nd ref="363107336"/>
+    <nd ref="363107337"/>
+    <nd ref="363107338"/>
+    <nd ref="363107339"/>
+    <nd ref="363107341"/>
+    <nd ref="363107342"/>
+    <nd ref="363107343"/>
+    <nd ref="363107344"/>
+    <nd ref="363107345"/>
+    <nd ref="363107347"/>
+    <nd ref="363107348"/>
+    <nd ref="363107349"/>
+    <nd ref="363107351"/>
+    <nd ref="363107352"/>
+    <nd ref="363107353"/>
+    <nd ref="363107355"/>
+    <nd ref="363107356"/>
+    <nd ref="363107357"/>
+    <nd ref="363107358"/>
+    <nd ref="363107359"/>
+    <nd ref="363107361"/>
+    <nd ref="363107362"/>
+    <nd ref="363107363"/>
+    <nd ref="363107364"/>
+    <nd ref="363107365"/>
+    <nd ref="363107366"/>
+    <nd ref="363107368"/>
+    <nd ref="363107369"/>
+    <nd ref="363107370"/>
+    <nd ref="363107371"/>
+    <nd ref="363107372"/>
+    <nd ref="363107373"/>
+    <nd ref="363107374"/>
+    <nd ref="363107376"/>
+    <nd ref="363107377"/>
+    <nd ref="363107378"/>
+    <nd ref="363107379"/>
+    <nd ref="363107380"/>
+    <nd ref="363107382"/>
+    <nd ref="363107383"/>
+    <nd ref="363107384"/>
+    <nd ref="363107385"/>
+    <nd ref="363107386"/>
+    <nd ref="363107387"/>
+    <nd ref="363107389"/>
+    <nd ref="363107390"/>
+    <nd ref="363107391"/>
+    <nd ref="363107392"/>
+    <nd ref="363107393"/>
+    <nd ref="363107394"/>
+    <nd ref="363107396"/>
+    <nd ref="363107397"/>
+    <nd ref="363107398"/>
+    <nd ref="363107399"/>
+    <nd ref="363107400"/>
+    <nd ref="363107401"/>
+    <nd ref="363107403"/>
+    <nd ref="363107404"/>
+    <nd ref="363107405"/>
+    <nd ref="363107406"/>
+    <nd ref="363107407"/>
+    <nd ref="363107408"/>
+    <nd ref="363107410"/>
+    <nd ref="363107411"/>
+    <nd ref="363107412"/>
+    <nd ref="363107413"/>
+    <nd ref="363107415"/>
+    <nd ref="363107416"/>
+    <nd ref="363107417"/>
+    <nd ref="363107418"/>
+    <nd ref="363107419"/>
+    <nd ref="363107420"/>
+    <nd ref="363107421"/>
+    <nd ref="363107422"/>
+    <nd ref="363107424"/>
+    <nd ref="363107425"/>
+    <nd ref="363107427"/>
+    <nd ref="363107428"/>
+    <nd ref="363107429"/>
+    <nd ref="415558033"/>
+    <nd ref="363107430"/>
+    <nd ref="363107431"/>
+    <nd ref="363107432"/>
+    <nd ref="363107434"/>
+    <nd ref="363107435"/>
+    <nd ref="363107436"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="attribution" v="Based on Australian Bureau of Statistics data"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="ABS_2006"/>
+  </way>
+  <way id="44719950" version="3" timestamp="2010-07-25T09:47:19Z" uid="20949" user="Ebenezer" changeset="5310206">
+    <nd ref="360578606"/>
+    <nd ref="363107336"/>
+    <nd ref="363107337"/>
+    <nd ref="363107338"/>
+    <nd ref="363107339"/>
+    <nd ref="363107341"/>
+    <nd ref="363107342"/>
+    <nd ref="363107343"/>
+    <nd ref="363107344"/>
+    <nd ref="363107345"/>
+    <nd ref="363107347"/>
+    <nd ref="363107348"/>
+    <nd ref="363107349"/>
+    <nd ref="363107351"/>
+    <nd ref="363107352"/>
+    <nd ref="363107353"/>
+    <nd ref="363107355"/>
+    <nd ref="363107356"/>
+    <nd ref="363107357"/>
+    <nd ref="363107358"/>
+    <nd ref="363107359"/>
+    <nd ref="363107361"/>
+    <nd ref="363107362"/>
+    <nd ref="363107363"/>
+    <nd ref="363107364"/>
+    <nd ref="363107365"/>
+    <nd ref="363107366"/>
+    <nd ref="363107368"/>
+    <nd ref="363107369"/>
+    <nd ref="363107370"/>
+    <nd ref="363107371"/>
+    <nd ref="363107372"/>
+    <nd ref="363107373"/>
+    <nd ref="363107374"/>
+    <nd ref="363107376"/>
+    <nd ref="363107377"/>
+    <nd ref="363107378"/>
+    <nd ref="832443207"/>
+    <nd ref="363107379"/>
+    <nd ref="363107380"/>
+    <nd ref="363107382"/>
+    <nd ref="363107383"/>
+    <nd ref="363107384"/>
+    <nd ref="363107385"/>
+    <nd ref="363107386"/>
+    <nd ref="363107387"/>
+    <nd ref="363107389"/>
+    <nd ref="363107390"/>
+    <nd ref="363107391"/>
+    <nd ref="363107392"/>
+    <nd ref="363107393"/>
+    <nd ref="363107394"/>
+    <nd ref="363107396"/>
+    <nd ref="363107397"/>
+    <nd ref="363107398"/>
+    <nd ref="363107399"/>
+    <nd ref="363107400"/>
+    <nd ref="363107401"/>
+    <nd ref="363107403"/>
+    <nd ref="363107404"/>
+    <nd ref="363107405"/>
+    <nd ref="363107406"/>
+    <nd ref="363107407"/>
+    <nd ref="363107408"/>
+    <nd ref="363107410"/>
+    <nd ref="363107411"/>
+    <nd ref="363107412"/>
+    <nd ref="363107413"/>
+    <nd ref="363107415"/>
+    <nd ref="363107416"/>
+    <nd ref="363107417"/>
+    <nd ref="363107418"/>
+    <nd ref="363107419"/>
+    <nd ref="363107420"/>
+    <nd ref="363107421"/>
+    <nd ref="363107422"/>
+    <nd ref="363107424"/>
+    <nd ref="363107425"/>
+    <nd ref="363107427"/>
+    <nd ref="363107428"/>
+    <nd ref="363107429"/>
+    <nd ref="415558033"/>
+    <nd ref="363107430"/>
+    <nd ref="363107431"/>
+    <nd ref="363107432"/>
+    <nd ref="363107434"/>
+    <nd ref="363107435"/>
+    <nd ref="363107436"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="attribution" v="Based on Australian Bureau of Statistics data"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="ABS_2006"/>
+  </way>
+  <way id="44719950" version="4" timestamp="2011-03-13T20:24:39Z" uid="20949" user="Ebenezer" changeset="7549906">
+    <nd ref="360578606"/>
+    <nd ref="363107336"/>
+    <nd ref="363107337"/>
+    <nd ref="363107338"/>
+    <nd ref="363107339"/>
+    <nd ref="363107341"/>
+    <nd ref="363107342"/>
+    <nd ref="363107343"/>
+    <nd ref="363107344"/>
+    <nd ref="363107345"/>
+    <nd ref="363107347"/>
+    <nd ref="363107348"/>
+    <nd ref="363107349"/>
+    <nd ref="363107351"/>
+    <nd ref="363107352"/>
+    <nd ref="363107353"/>
+    <nd ref="363107355"/>
+    <nd ref="363107356"/>
+    <nd ref="363107357"/>
+    <nd ref="363107358"/>
+    <nd ref="363107359"/>
+    <nd ref="363107361"/>
+    <nd ref="363107362"/>
+    <nd ref="363107363"/>
+    <nd ref="363107364"/>
+    <nd ref="363107365"/>
+    <nd ref="363107366"/>
+    <nd ref="363107368"/>
+    <nd ref="363107369"/>
+    <nd ref="363107370"/>
+    <nd ref="363107371"/>
+    <nd ref="363107372"/>
+    <nd ref="363107373"/>
+    <nd ref="363107374"/>
+    <nd ref="363107376"/>
+    <nd ref="363107377"/>
+    <nd ref="832443207"/>
+    <nd ref="363107379"/>
+    <nd ref="363107380"/>
+    <nd ref="363107382"/>
+    <nd ref="363107383"/>
+    <nd ref="363107384"/>
+    <nd ref="363107385"/>
+    <nd ref="363107386"/>
+    <nd ref="363107387"/>
+    <nd ref="363107389"/>
+    <nd ref="363107390"/>
+    <nd ref="363107391"/>
+    <nd ref="363107392"/>
+    <nd ref="363107393"/>
+    <nd ref="363107394"/>
+    <nd ref="363107396"/>
+    <nd ref="363107397"/>
+    <nd ref="363107398"/>
+    <nd ref="1200689682"/>
+    <nd ref="363107399"/>
+    <nd ref="363107400"/>
+    <nd ref="363107401"/>
+    <nd ref="363107403"/>
+    <nd ref="363107404"/>
+    <nd ref="363107405"/>
+    <nd ref="363107406"/>
+    <nd ref="363107407"/>
+    <nd ref="363107408"/>
+    <nd ref="363107410"/>
+    <nd ref="363107411"/>
+    <nd ref="363107412"/>
+    <nd ref="363107413"/>
+    <nd ref="363107415"/>
+    <nd ref="363107416"/>
+    <nd ref="363107417"/>
+    <nd ref="363107418"/>
+    <nd ref="363107419"/>
+    <nd ref="363107420"/>
+    <nd ref="363107421"/>
+    <nd ref="363107422"/>
+    <nd ref="363107424"/>
+    <nd ref="363107425"/>
+    <nd ref="363107427"/>
+    <nd ref="363107428"/>
+    <nd ref="363107429"/>
+    <nd ref="415558033"/>
+    <nd ref="363107430"/>
+    <nd ref="363107431"/>
+    <nd ref="363107432"/>
+    <nd ref="363107434"/>
+    <nd ref="363107435"/>
+    <nd ref="363107436"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="attribution" v="Based on Australian Bureau of Statistics data"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="ABS_2006"/>
+  </way>
+</osm>

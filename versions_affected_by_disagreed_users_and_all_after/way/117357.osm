@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="117357368" version="1" timestamp="2011-06-12T13:05:46Z" uid="30632" user="antblant" changeset="8415179">
+    <nd ref="254060580"/>
+    <nd ref="254067467"/>
+    <nd ref="254067463"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Śląska"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="117357369" version="1" timestamp="2011-06-12T13:05:47Z" uid="30632" user="antblant" changeset="8415179">
+    <nd ref="254067509"/>
+    <nd ref="254066564"/>
+    <tag k="cycleway" v="opposite_lane"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Generała Ludomiła Rayskiego"/>
+    <tag k="old_name" v="Kronprinzenstraße"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="UMP-PL, ./UMP-Szczecin/src/SZCZECIN.ulice.txt"/>
+  </way>
+</osm>

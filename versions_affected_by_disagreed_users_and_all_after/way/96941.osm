@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="96941142" version="1" timestamp="2011-01-27T13:50:09Z" uid="43863" user="Rundling" changeset="7103780">
+    <nd ref="1123394401"/>
+    <nd ref="1123394396"/>
+    <nd ref="1123394388"/>
+    <nd ref="1123394400"/>
+    <nd ref="1123394395"/>
+    <tag k="access" v="agricultural"/>
+    <tag k="highway" v="track"/>
+    <tag k="surface" v="ground"/>
+    <tag k="tracktype" v="grade3"/>
+  </way>
+  <way id="96941150" version="1" timestamp="2011-01-27T13:50:29Z" uid="4467" user="Rosscoe" changeset="7103785">
+    <nd ref="1123394465"/>
+    <nd ref="1123394467"/>
+    <nd ref="1123394487"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="96941151" version="1" timestamp="2011-01-27T13:50:29Z" uid="4467" user="Rosscoe" changeset="7103785">
+    <nd ref="703055594"/>
+    <nd ref="1123394465"/>
+    <nd ref="1123394484"/>
+    <nd ref="1123394511"/>
+    <nd ref="1123394463"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Perseverance Boulevard"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="96941152" version="1" timestamp="2011-01-27T13:50:30Z" uid="4467" user="Rosscoe" changeset="7103785">
+    <nd ref="1123394506"/>
+    <nd ref="1123394509"/>
+    <nd ref="1123394512"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="96941153" version="1" timestamp="2011-01-27T13:50:30Z" uid="4467" user="Rosscoe" changeset="7103785">
+    <nd ref="540080011"/>
+    <nd ref="188774794"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+  </way>
+</osm>

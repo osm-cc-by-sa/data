@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="72166501" version="1" timestamp="2010-08-13T03:46:35Z" uid="4467" user="Rosscoe" changeset="5478477">
+    <nd ref="452498695"/>
+    <nd ref="857961745"/>
+    <nd ref="857961808"/>
+    <nd ref="857961749"/>
+    <nd ref="857961764"/>
+    <nd ref="857961740"/>
+    <nd ref="857961758"/>
+    <nd ref="857961755"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Lake Road"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="72166501" version="2" timestamp="2010-10-06T23:08:25Z" uid="79475" user="AlexOnTheBus" changeset="5974318">
+    <nd ref="452498695"/>
+    <nd ref="857961745"/>
+    <nd ref="857961808"/>
+    <nd ref="857961749"/>
+    <nd ref="857961764"/>
+    <nd ref="857961740"/>
+    <nd ref="857961758"/>
+    <nd ref="857961755"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Lake Road"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="72166502" version="1" timestamp="2010-08-13T03:46:36Z" uid="4467" user="Rosscoe" changeset="5478477">
+    <nd ref="452498694"/>
+    <nd ref="857961736"/>
+    <nd ref="857961763"/>
+    <nd ref="287289516"/>
+    <nd ref="857961743"/>
+    <nd ref="25943183"/>
+    <nd ref="857961744"/>
+    <nd ref="25943184"/>
+    <nd ref="25943185"/>
+    <tag k="abutters" v="residential"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Cowper Street"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="72166502" version="2" timestamp="2010-10-06T23:08:11Z" uid="79475" user="AlexOnTheBus" changeset="5974318">
+    <nd ref="452498694"/>
+    <nd ref="857961736"/>
+    <nd ref="857961763"/>
+    <nd ref="287289516"/>
+    <nd ref="857961743"/>
+    <nd ref="25943183"/>
+    <nd ref="857961744"/>
+    <nd ref="25943184"/>
+    <nd ref="25943185"/>
+    <tag k="abutters" v="residential"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Cowper Street"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="72166820" version="2" timestamp="2011-01-06T14:58:44Z" uid="4467" user="Rosscoe" changeset="6883292">
+    <nd ref="1085861342"/>
+    <nd ref="857985403"/>
+    <nd ref="1085861314"/>
+    <nd ref="1085861311"/>
+    <nd ref="1085861309"/>
+    <nd ref="1085861306"/>
+    <nd ref="1085861312"/>
+    <nd ref="1085861342"/>
+    <tag k="power" v="station"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="station" v="substation"/>
+  </way>
+  <way id="72166820" version="3" timestamp="2011-01-06T14:59:15Z" uid="4467" user="Rosscoe" changeset="6883298">
+    <nd ref="1085861342"/>
+    <nd ref="857985403"/>
+    <nd ref="1085861314"/>
+    <nd ref="1085861311"/>
+    <nd ref="1085861309"/>
+    <nd ref="1085861306"/>
+    <nd ref="1085861312"/>
+    <nd ref="1085861342"/>
+    <tag k="power" v="sub_station"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+</osm>

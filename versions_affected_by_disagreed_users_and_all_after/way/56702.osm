@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="56702220" version="1" timestamp="2010-04-27T22:18:26Z" uid="4467" user="Rosscoe" changeset="4545588">
+    <nd ref="359686359"/>
+    <nd ref="667730695"/>
+    <nd ref="667730696"/>
+    <nd ref="248636910"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="Toodyay Road"/>
+    <tag k="ref" v="S50"/>
+  </way>
+  <way id="56702220" version="2" timestamp="2010-06-26T07:44:58Z" uid="294850" user="Q4004" changeset="5078941">
+    <nd ref="359686359"/>
+    <nd ref="667730695"/>
+    <nd ref="667730696"/>
+    <nd ref="248636910"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Toodyay Road"/>
+  </way>
+  <way id="56702220" version="3" timestamp="2010-07-09T21:42:05Z" uid="74617" user="JohnSmith" changeset="5176956">
+    <nd ref="359686359"/>
+    <nd ref="667730695"/>
+    <nd ref="667730696"/>
+    <nd ref="248636910"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Toodyay Road"/>
+  </way>
+  <way id="56702220" version="4" timestamp="2011-10-06T16:17:27Z" uid="142807" user="SDavies" changeset="9486813">
+    <nd ref="1456937418"/>
+    <nd ref="1456954308"/>
+    <nd ref="1456954306"/>
+    <nd ref="1456954299"/>
+    <nd ref="667730695"/>
+    <nd ref="1456954298"/>
+    <tag k="highway" v="service"/>
+  </way>
+</osm>

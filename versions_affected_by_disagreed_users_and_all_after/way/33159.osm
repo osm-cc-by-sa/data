@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="33159605" version="1" timestamp="2009-04-14T02:26:59Z" uid="18775" user="drlizau" changeset="510610">
+    <nd ref="375091043"/>
+    <nd ref="375091099"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="33159605" version="2" timestamp="2009-08-05T07:15:25Z" uid="153378" user="katoshin" changeset="2042643"/>
+  <way id="33159608" version="1" timestamp="2009-04-14T02:27:00Z" uid="18775" user="drlizau" changeset="510610">
+    <nd ref="375091198"/>
+    <nd ref="375091216"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Hartley Street"/>
+  </way>
+  <way id="33159608" version="2" timestamp="2011-03-13T04:52:32Z" uid="67896" user="mrpulley" changeset="7540677">
+    <nd ref="375091198"/>
+    <nd ref="375091216"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Hartley Street"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="33159609" version="1" timestamp="2009-04-14T02:27:01Z" uid="18775" user="drlizau" changeset="510610">
+    <nd ref="375091275"/>
+    <nd ref="373927920"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="River Park Road"/>
+  </way>
+  <way id="33159609" version="2" timestamp="2009-12-14T13:32:51Z" uid="67896" user="mrpulley" changeset="3371598">
+    <nd ref="375091275"/>
+    <nd ref="590113593"/>
+    <nd ref="373927920"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="River Park Road"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="33159609" version="3" timestamp="2011-03-13T04:52:32Z" uid="67896" user="mrpulley" changeset="7540677">
+    <nd ref="375091275"/>
+    <nd ref="1199666529"/>
+    <nd ref="590113593"/>
+    <nd ref="373927920"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="River Park Road"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+</osm>

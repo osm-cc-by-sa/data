@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="65884138" version="1" timestamp="2010-07-05T01:42:12Z" uid="30201" user="rrankin" changeset="5138476">
+    <nd ref="362883096"/>
+    <nd ref="362497539"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="attribution" v="Based on Australian Bureau of Statistics data"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="layer" v="-1"/>
+    <tag k="source" v="ABS_2006"/>
+    <tag k="waterway" v="stream"/>
+  </way>
+  <way id="65884140" version="1" timestamp="2010-07-05T01:42:13Z" uid="30201" user="rrankin" changeset="5138476">
+    <nd ref="801605815"/>
+    <nd ref="600399659"/>
+    <nd ref="600399660"/>
+    <nd ref="801605817"/>
+    <nd ref="801605827"/>
+    <tag k="highway" v="service"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="65884140" version="2" timestamp="2011-06-17T13:37:01Z" uid="47167" user="MCH" changeset="8464854">
+    <nd ref="801605815"/>
+    <nd ref="600399659"/>
+    <nd ref="600399660"/>
+    <nd ref="801605817"/>
+    <tag k="highway" v="service"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="65884141" version="1" timestamp="2010-07-05T01:42:13Z" uid="30201" user="rrankin" changeset="5138476">
+    <nd ref="50574124"/>
+    <nd ref="600399659"/>
+    <nd ref="50574122"/>
+    <nd ref="600399675"/>
+    <nd ref="600399676"/>
+    <nd ref="600399664"/>
+    <nd ref="600399666"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="Jane Street"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+</osm>

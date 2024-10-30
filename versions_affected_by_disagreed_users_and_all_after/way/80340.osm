@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="80340823" version="1" timestamp="2010-10-04T12:11:50Z" uid="7617" user="Franc" changeset="5952984">
+    <nd ref="937615384"/>
+    <nd ref="937615364"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="80340823" version="2" timestamp="2011-04-25T05:58:41Z" uid="7617" user="Franc" changeset="7959352">
+    <nd ref="937615384"/>
+    <nd ref="937615364"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Melinga Place"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="80340824" version="1" timestamp="2010-10-04T12:11:50Z" uid="7617" user="Franc" changeset="5952984">
+    <nd ref="937615388"/>
+    <nd ref="937615354"/>
+    <nd ref="265508172"/>
+    <tag k="highway" v="footway"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="80340825" version="1" timestamp="2010-10-04T12:11:50Z" uid="7617" user="Franc" changeset="5952984">
+    <nd ref="937615377"/>
+    <nd ref="937615394"/>
+    <nd ref="937615359"/>
+    <nd ref="937615356"/>
+    <nd ref="937615379"/>
+    <nd ref="937615372"/>
+    <nd ref="937615389"/>
+    <nd ref="937615386"/>
+    <nd ref="937615377"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="80340826" version="1" timestamp="2010-10-04T12:11:50Z" uid="7617" user="Franc" changeset="5952984">
+    <nd ref="937615389"/>
+    <nd ref="265482532"/>
+    <nd ref="265508112"/>
+    <nd ref="265482571"/>
+    <nd ref="265482585"/>
+    <nd ref="265482604"/>
+    <nd ref="265482453"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Thompson Road"/>
+    <tag k="source" v="yahoo"/>
+  </way>
+  <way id="80340826" version="2" timestamp="2010-11-30T01:19:09Z" uid="377279" user="Warrigal" changeset="6491189">
+    <nd ref="937615389"/>
+    <nd ref="265482532"/>
+    <nd ref="265508112"/>
+    <nd ref="265482571"/>
+    <nd ref="265482585"/>
+    <nd ref="265482604"/>
+    <nd ref="265482453"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Tompson Road"/>
+    <tag k="source" v="yahoo"/>
+  </way>
+  <way id="80340826" version="3" timestamp="2011-09-19T21:49:41Z" uid="74275" user="behemoth14" changeset="9347183">
+    <nd ref="265482453"/>
+    <nd ref="265482604"/>
+    <nd ref="265482585"/>
+    <nd ref="265482571"/>
+    <nd ref="265508112"/>
+    <nd ref="265482532"/>
+    <nd ref="937615389"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Tompson Road"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="source" v="yahoo"/>
+  </way>
+</osm>

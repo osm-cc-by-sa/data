@@ -1,0 +1,535 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="38836099" version="5" timestamp="2009-09-22T16:21:10Z" uid="9581" user="Lobelt" changeset="2573305">
+    <nd ref="461069393"/>
+    <nd ref="505386809"/>
+    <nd ref="470280210"/>
+    <tag k="highway" v="track"/>
+    <tag k="tracktype" v="grade3"/>
+  </way>
+  <way id="38836099" version="6" timestamp="2009-09-29T10:51:39Z" uid="154459" user="vonLausitzOelpen" changeset="2675540">
+    <nd ref="461069393"/>
+    <nd ref="505386812"/>
+    <tag k="highway" v="track"/>
+    <tag k="tracktype" v="grade3"/>
+  </way>
+  <way id="38836099" version="7" timestamp="2012-01-27T11:01:13Z" uid="154459" user="vonLausitzOelpen" changeset="10511173">
+    <nd ref="1607389456"/>
+    <nd ref="505386812"/>
+    <tag k="highway" v="track"/>
+    <tag k="tracktype" v="grade3"/>
+  </way>
+  <way id="38836197" version="2" timestamp="2009-08-12T19:34:52Z" uid="9581" user="Lobelt" changeset="2123112">
+    <nd ref="290302939"/>
+    <nd ref="48802535"/>
+    <nd ref="462692502"/>
+    <nd ref="462692503"/>
+    <nd ref="48802539"/>
+    <nd ref="330172952"/>
+    <nd ref="48802541"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="primary"/>
+    <tag k="ref" v="B 85"/>
+  </way>
+  <way id="38836197" version="3" timestamp="2009-09-23T17:59:59Z" uid="9581" user="Lobelt" changeset="2598341">
+    <nd ref="290302939"/>
+    <nd ref="48802535"/>
+    <nd ref="462692502"/>
+    <nd ref="462692503"/>
+    <nd ref="48802539"/>
+    <nd ref="506304203"/>
+    <nd ref="330172952"/>
+    <nd ref="48802541"/>
+    <tag k="highway" v="primary"/>
+    <tag k="ref" v="B 85"/>
+  </way>
+  <way id="38836197" version="4" timestamp="2010-07-23T20:17:22Z" uid="192395" user="BBO" changeset="5298562">
+    <nd ref="290302939"/>
+    <nd ref="48802535"/>
+    <tag k="highway" v="primary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="ref" v="B 85"/>
+    <tag k="source:maxspeed" v="DE:urban"/>
+  </way>
+  <way id="38836197" version="5" timestamp="2010-09-13T16:35:30Z" uid="104779" user="ABRob" changeset="5768179">
+    <nd ref="290302939"/>
+    <nd ref="48802535"/>
+    <tag k="highway" v="primary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="ref" v="B 85"/>
+    <tag k="source:maxspeed" v="DE:urban"/>
+    <tag k="zone:traffic" v="DE:urban"/>
+  </way>
+  <way id="38836197" version="6" timestamp="2012-03-03T20:34:10Z" uid="192395" user="BBO" changeset="10861939"/>
+  <way id="38836314" version="4" timestamp="2010-04-06T14:39:13Z" uid="20587" user="balrog-kun" changeset="4342997">
+    <nd ref="461072729"/>
+    <nd ref="120841125"/>
+    <nd ref="120627569"/>
+    <nd ref="120841123"/>
+    <nd ref="120841121"/>
+    <nd ref="120841117"/>
+    <nd ref="120841114"/>
+    <nd ref="120627553"/>
+    <nd ref="120841111"/>
+    <nd ref="120841108"/>
+    <nd ref="120841105"/>
+    <nd ref="120841100"/>
+    <nd ref="120841096"/>
+    <nd ref="120841090"/>
+    <nd ref="120841086"/>
+    <nd ref="120841083"/>
+    <nd ref="120841081"/>
+    <nd ref="120841076"/>
+    <nd ref="120630837"/>
+    <nd ref="120841072"/>
+    <nd ref="120841068"/>
+    <nd ref="120665244"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="West 103rd Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="10"/>
+    <tag k="tiger:cfcc" v="A17"/>
+    <tag k="tiger:county" v="Johnson, KS"/>
+    <tag k="tiger:name_base" v="103rd"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070812"/>
+    <tag k="tiger:tlid" v="91317309:91317617:91351889"/>
+  </way>
+  <way id="38836314" version="5" timestamp="2010-08-31T06:23:44Z" uid="262151" user="ToeBee" changeset="5642488">
+    <nd ref="461072729"/>
+    <nd ref="120841125"/>
+    <nd ref="120627569"/>
+    <nd ref="120841123"/>
+    <nd ref="120841121"/>
+    <nd ref="120841117"/>
+    <nd ref="120841114"/>
+    <nd ref="120627553"/>
+    <nd ref="120841111"/>
+    <nd ref="120841108"/>
+    <nd ref="120841105"/>
+    <nd ref="120841100"/>
+    <nd ref="120841096"/>
+    <nd ref="120841090"/>
+    <nd ref="120841086"/>
+    <nd ref="120841083"/>
+    <nd ref="120841081"/>
+    <nd ref="120841076"/>
+    <nd ref="120630837"/>
+    <nd ref="120841072"/>
+    <nd ref="120841068"/>
+    <nd ref="120665244"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="name" v="West 103rd Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="10"/>
+    <tag k="tiger:cfcc" v="A17"/>
+    <tag k="tiger:county" v="Johnson, KS"/>
+    <tag k="tiger:name_base" v="103rd"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070812"/>
+    <tag k="tiger:tlid" v="91317309:91317617:91351889"/>
+  </way>
+  <way id="38836314" version="6" timestamp="2010-11-07T05:16:59Z" uid="213956" user="route56" changeset="6308302">
+    <nd ref="461072729"/>
+    <nd ref="120841125"/>
+    <nd ref="120627569"/>
+    <nd ref="120841123"/>
+    <nd ref="120841121"/>
+    <nd ref="120841117"/>
+    <nd ref="120841114"/>
+    <nd ref="120627553"/>
+    <nd ref="120841111"/>
+    <nd ref="120841108"/>
+    <nd ref="120841105"/>
+    <nd ref="120841100"/>
+    <nd ref="120841096"/>
+    <nd ref="120841090"/>
+    <nd ref="120841086"/>
+    <nd ref="120841083"/>
+    <nd ref="120841081"/>
+    <nd ref="120841076"/>
+    <nd ref="120630837"/>
+    <nd ref="120841072"/>
+    <nd ref="120841068"/>
+    <nd ref="120665244"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="K-10"/>
+    <tag k="tiger:county" v="Johnson, KS"/>
+  </way>
+  <way id="38836314" version="7" timestamp="2011-03-05T22:50:26Z" uid="262151" user="ToeBee" changeset="7468641">
+    <nd ref="461072729"/>
+    <nd ref="120841125"/>
+    <nd ref="120627569"/>
+    <nd ref="120841123"/>
+    <nd ref="120841121"/>
+    <nd ref="120841117"/>
+    <nd ref="120841114"/>
+    <nd ref="120627553"/>
+    <nd ref="120841111"/>
+    <nd ref="120841108"/>
+    <nd ref="120841105"/>
+    <nd ref="120841100"/>
+    <nd ref="120841096"/>
+    <nd ref="120841090"/>
+    <nd ref="120841086"/>
+    <nd ref="120841083"/>
+    <nd ref="120841081"/>
+    <nd ref="120841076"/>
+    <nd ref="120630837"/>
+    <nd ref="120841068"/>
+    <nd ref="120665244"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="K-10"/>
+    <tag k="tiger:county" v="Johnson, KS"/>
+  </way>
+  <way id="38836314" version="8" timestamp="2011-06-16T06:19:08Z" uid="213956" user="route56" changeset="8453198">
+    <nd ref="461072729"/>
+    <nd ref="120841125"/>
+    <nd ref="120627569"/>
+    <nd ref="120841123"/>
+    <nd ref="120841121"/>
+    <nd ref="120841117"/>
+    <nd ref="120841114"/>
+    <nd ref="120627553"/>
+    <nd ref="120841111"/>
+    <nd ref="120841108"/>
+    <nd ref="120841105"/>
+    <nd ref="120841100"/>
+    <nd ref="120841096"/>
+    <nd ref="120841090"/>
+    <nd ref="120841086"/>
+    <nd ref="120841083"/>
+    <nd ref="120841081"/>
+    <nd ref="120841076"/>
+    <nd ref="120630837"/>
+    <nd ref="120841068"/>
+    <nd ref="120665244"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="loc_ref" v="K-10"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="KS 10"/>
+    <tag k="tiger:county" v="Johnson, KS"/>
+    <tag k="tiger:reviewed" v="yes"/>
+  </way>
+  <way id="38836314" version="9" timestamp="2011-06-20T12:57:53Z" uid="473471" user="NE3" changeset="8494203">
+    <nd ref="461072729"/>
+    <nd ref="120841125"/>
+    <nd ref="120627569"/>
+    <nd ref="120841123"/>
+    <nd ref="120841121"/>
+    <nd ref="120841117"/>
+    <nd ref="120841114"/>
+    <nd ref="120627553"/>
+    <nd ref="120841111"/>
+    <nd ref="120841108"/>
+    <nd ref="120841105"/>
+    <nd ref="120841100"/>
+    <nd ref="120841096"/>
+    <nd ref="120841090"/>
+    <nd ref="120841086"/>
+    <nd ref="120841083"/>
+    <nd ref="120841081"/>
+    <nd ref="120841076"/>
+    <nd ref="120630837"/>
+    <nd ref="120841068"/>
+    <nd ref="120665244"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="loc_ref" v="K-10"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="KS 10"/>
+    <tag k="tiger:county" v="Johnson, KS"/>
+    <tag k="tiger:reviewed" v="yes"/>
+  </way>
+  <way id="38836337" version="5" timestamp="2010-04-06T14:39:13Z" uid="20587" user="balrog-kun" changeset="4342997">
+    <nd ref="120841130"/>
+    <nd ref="461072729"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="West 103rd Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="10"/>
+    <tag k="tiger:cfcc" v="A17"/>
+    <tag k="tiger:county" v="Johnson, KS"/>
+    <tag k="tiger:name_base" v="103rd"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="yes"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070812"/>
+    <tag k="tiger:tlid" v="91317309:91317617:91351889"/>
+  </way>
+  <way id="38836337" version="6" timestamp="2010-11-07T05:17:02Z" uid="213956" user="route56" changeset="6308302">
+    <nd ref="120841130"/>
+    <nd ref="461072729"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="layer" v="1"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="K-10"/>
+    <tag k="tiger:county" v="Johnson, KS"/>
+  </way>
+  <way id="38836337" version="7" timestamp="2011-06-16T06:20:13Z" uid="213956" user="route56" changeset="8453198">
+    <nd ref="120841130"/>
+    <nd ref="461072729"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="layer" v="1"/>
+    <tag k="loc_ref" v="K-10"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="KS 10"/>
+    <tag k="tiger:county" v="Johnson, KS"/>
+    <tag k="tiger:reviewed" v="yes"/>
+  </way>
+  <way id="38836337" version="8" timestamp="2011-06-20T12:58:36Z" uid="473471" user="NE3" changeset="8494203">
+    <nd ref="120841130"/>
+    <nd ref="461072729"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="loc_ref" v="K-10"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="KS 10"/>
+    <tag k="tiger:county" v="Johnson, KS"/>
+    <tag k="tiger:reviewed" v="yes"/>
+  </way>
+  <way id="38836485" version="4" timestamp="2010-03-28T14:52:40Z" uid="6975" user="ulfl" changeset="4257614">
+    <nd ref="559636592"/>
+    <nd ref="559636591"/>
+    <nd ref="676755131"/>
+    <nd ref="559636590"/>
+    <nd ref="676755129"/>
+    <nd ref="559636588"/>
+    <nd ref="676755130"/>
+    <nd ref="559636586"/>
+    <nd ref="676755123"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Sontheimer Straße"/>
+  </way>
+  <way id="38836485" version="5" timestamp="2010-03-28T15:16:49Z" uid="6975" user="ulfl" changeset="4257862">
+    <nd ref="559636592"/>
+    <nd ref="559636591"/>
+    <nd ref="676755131"/>
+    <nd ref="559636590"/>
+    <nd ref="676755129"/>
+    <nd ref="559636588"/>
+    <nd ref="676755130"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Sontheimer Straße"/>
+  </way>
+  <way id="38836485" version="6" timestamp="2011-04-13T12:46:53Z" uid="359695" user="geomehr" changeset="7851518">
+    <nd ref="559636592"/>
+    <nd ref="559636591"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Sontheimer Straße"/>
+  </way>
+  <way id="38836485" version="7" timestamp="2012-01-24T16:18:16Z" uid="41431" user="Rosty" changeset="10485877"/>
+  <way id="38836588" version="4" timestamp="2010-04-06T14:39:13Z" uid="20587" user="balrog-kun" changeset="4342997">
+    <nd ref="461077363"/>
+    <nd ref="461077369"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="South Ridgeview Road"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="38836588" version="5" timestamp="2012-03-15T22:53:26Z" uid="213956" user="route56" changeset="10993901">
+    <nd ref="461077363"/>
+    <nd ref="461077369"/>
+    <tag k="HFCS" v="Minor Arterial (urban)"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="South Ridgeview Road"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="38836591" version="4" timestamp="2010-04-06T14:39:13Z" uid="20587" user="balrog-kun" changeset="4342997">
+    <nd ref="461077369"/>
+    <nd ref="305495833"/>
+    <nd ref="305495832"/>
+    <nd ref="305495830"/>
+    <nd ref="305495829"/>
+    <nd ref="305495823"/>
+    <nd ref="305495820"/>
+    <nd ref="305495817"/>
+    <nd ref="602738729"/>
+    <nd ref="305495812"/>
+    <nd ref="602738731"/>
+    <nd ref="305495809"/>
+    <nd ref="305495806"/>
+    <nd ref="305495803"/>
+    <nd ref="305495799"/>
+    <nd ref="305495796"/>
+    <nd ref="602802026"/>
+    <nd ref="305537919"/>
+    <nd ref="305316636"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="South Ridgeview Road"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="38836591" version="5" timestamp="2010-05-09T05:16:49Z" uid="55958" user="elyk" changeset="4644825">
+    <nd ref="461077369"/>
+    <nd ref="305495833"/>
+    <nd ref="305495832"/>
+    <nd ref="305495830"/>
+    <nd ref="305495829"/>
+    <nd ref="305495823"/>
+    <nd ref="305495820"/>
+    <nd ref="726966697"/>
+    <nd ref="305495817"/>
+    <nd ref="602738729"/>
+    <nd ref="305495812"/>
+    <nd ref="602738731"/>
+    <nd ref="305495809"/>
+    <nd ref="305495806"/>
+    <nd ref="305495803"/>
+    <nd ref="305495799"/>
+    <nd ref="305495796"/>
+    <nd ref="602802026"/>
+    <nd ref="305537919"/>
+    <nd ref="305316636"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="South Ridgeview Road"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="38836591" version="6" timestamp="2011-05-01T07:55:57Z" uid="262151" user="ToeBee" changeset="8018435">
+    <nd ref="461077369"/>
+    <nd ref="305495833"/>
+    <nd ref="1268463200"/>
+    <nd ref="1268463034"/>
+    <nd ref="305495832"/>
+    <nd ref="305495830"/>
+    <nd ref="305495829"/>
+    <nd ref="1268463292"/>
+    <nd ref="305495823"/>
+    <nd ref="305495820"/>
+    <nd ref="726966697"/>
+    <nd ref="305495817"/>
+    <nd ref="602738729"/>
+    <nd ref="305495812"/>
+    <nd ref="602738731"/>
+    <nd ref="305495809"/>
+    <nd ref="305495806"/>
+    <nd ref="305495803"/>
+    <nd ref="305495799"/>
+    <nd ref="305495796"/>
+    <nd ref="602802026"/>
+    <nd ref="305537919"/>
+    <nd ref="305316636"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="South Ridgeview Road"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="38836591" version="7" timestamp="2012-03-15T22:53:27Z" uid="213956" user="route56" changeset="10993901">
+    <nd ref="461077369"/>
+    <nd ref="305495833"/>
+    <nd ref="1268463200"/>
+    <nd ref="1268463034"/>
+    <nd ref="305495832"/>
+    <nd ref="305495830"/>
+    <nd ref="305495829"/>
+    <nd ref="1268463292"/>
+    <nd ref="305495823"/>
+    <nd ref="305495820"/>
+    <nd ref="726966697"/>
+    <nd ref="305495817"/>
+    <nd ref="602738729"/>
+    <nd ref="305495812"/>
+    <nd ref="602738731"/>
+    <nd ref="305495809"/>
+    <nd ref="305495806"/>
+    <nd ref="305495803"/>
+    <nd ref="305495799"/>
+    <nd ref="305495796"/>
+    <nd ref="602802026"/>
+    <nd ref="305537919"/>
+    <nd ref="305316636"/>
+    <tag k="HFCS" v="Minor Arterial (urban)"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="South Ridgeview Road"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="38836594" version="3" timestamp="2010-04-06T14:39:14Z" uid="20587" user="balrog-kun" changeset="4342997">
+    <nd ref="461077473"/>
+    <nd ref="461074376"/>
+    <nd ref="305495836"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="South Ridgeview Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Johnson, KS"/>
+    <tag k="tiger:name_base" v="Ridgeview"/>
+    <tag k="tiger:name_direction_prefix" v="S"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070812"/>
+    <tag k="tiger:tlid" v="91352228:91352229:91302092:91335191:91269390:91269393:91269394:91310441:91317454:91302084"/>
+  </way>
+  <way id="38836594" version="4" timestamp="2012-03-15T22:53:29Z" uid="213956" user="route56" changeset="10993901">
+    <nd ref="461077473"/>
+    <nd ref="461074376"/>
+    <nd ref="305495836"/>
+    <tag k="HFCS" v="Minor Arterial (urban)"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="South Ridgeview Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Johnson, KS"/>
+    <tag k="tiger:name_base" v="Ridgeview"/>
+    <tag k="tiger:name_direction_prefix" v="S"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070812"/>
+    <tag k="tiger:tlid" v="91352228:91352229:91302092:91335191:91269390:91269393:91269394:91310441:91317454:91302084"/>
+  </way>
+  <way id="38836602" version="3" timestamp="2010-04-06T14:39:14Z" uid="20587" user="balrog-kun" changeset="4342997">
+    <nd ref="461077470"/>
+    <nd ref="461077473"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="South Ridgeview Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Johnson, KS"/>
+    <tag k="tiger:name_base" v="Ridgeview"/>
+    <tag k="tiger:name_direction_prefix" v="S"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070812"/>
+    <tag k="tiger:tlid" v="91352228:91352229:91302092:91335191:91269390:91269393:91269394:91310441:91317454:91302084"/>
+  </way>
+  <way id="38836602" version="4" timestamp="2012-03-15T22:53:25Z" uid="213956" user="route56" changeset="10993901">
+    <nd ref="461077470"/>
+    <nd ref="461077473"/>
+    <tag k="HFCS" v="Minor Arterial (urban)"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="South Ridgeview Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Johnson, KS"/>
+    <tag k="tiger:name_base" v="Ridgeview"/>
+    <tag k="tiger:name_direction_prefix" v="S"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070812"/>
+    <tag k="tiger:tlid" v="91352228:91352229:91302092:91335191:91269390:91269393:91269394:91310441:91317454:91302084"/>
+  </way>
+</osm>

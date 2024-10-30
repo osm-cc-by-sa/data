@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="102974093" version="1" timestamp="2011-03-06T12:52:18Z" uid="171838" user="argrath" changeset="7472773">
+    <nd ref="563661771"/>
+    <nd ref="563661752"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="102974093" version="2" timestamp="2011-06-05T17:40:07Z" uid="371232" user="mahbo" changeset="8351831">
+    <nd ref="563661771"/>
+    <nd ref="563661752"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="102974111" version="1" timestamp="2011-03-06T12:52:22Z" uid="171838" user="argrath" changeset="7472773">
+    <nd ref="1189173879"/>
+    <nd ref="1189173885"/>
+    <nd ref="1189173887"/>
+    <nd ref="1189173889"/>
+    <nd ref="1189173879"/>
+    <tag k="building" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="102974297" version="1" timestamp="2011-03-06T12:53:11Z" uid="6269" user="Mueck" changeset="7472786">
+    <nd ref="1023998299"/>
+    <nd ref="1024076385"/>
+    <nd ref="1024076722"/>
+    <nd ref="1024076700"/>
+    <nd ref="1024076482"/>
+    <nd ref="1024076383"/>
+    <nd ref="1024076652"/>
+    <nd ref="1189174476"/>
+    <nd ref="1024076434"/>
+    <nd ref="1024076654"/>
+    <nd ref="1189174498"/>
+    <nd ref="1024076380"/>
+    <tag k="railway" v="rail"/>
+  </way>
+  <way id="102974297" version="2" timestamp="2011-03-06T13:52:47Z" uid="6269" user="Mueck" changeset="7472786">
+    <nd ref="1023998299"/>
+    <nd ref="1189254936"/>
+    <nd ref="1189254958"/>
+    <nd ref="1024076385"/>
+    <nd ref="1189255024"/>
+    <nd ref="1189255009"/>
+    <nd ref="1024076700"/>
+    <nd ref="1189255007"/>
+    <nd ref="1024076482"/>
+    <nd ref="1024076383"/>
+    <nd ref="1189254933"/>
+    <nd ref="1024076652"/>
+    <nd ref="1189174476"/>
+    <nd ref="1024076434"/>
+    <nd ref="1024076654"/>
+    <nd ref="1189174498"/>
+    <nd ref="1024076380"/>
+    <tag k="railway" v="rail"/>
+  </way>
+  <way id="102974297" version="3" timestamp="2011-03-06T15:50:53Z" uid="6269" user="Mueck" changeset="7474574">
+    <nd ref="1023998299"/>
+    <nd ref="1189254936"/>
+    <nd ref="1189254958"/>
+    <nd ref="1024076385"/>
+    <nd ref="1189255024"/>
+    <nd ref="1189255009"/>
+    <nd ref="1024076700"/>
+    <tag k="electrified" v="no"/>
+    <tag k="embankment" v="yes"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="layer" v="1"/>
+    <tag k="operator" v="DB Netz"/>
+    <tag k="railway" v="rail"/>
+    <tag k="service" v="yard"/>
+    <tag k="tracks" v="1"/>
+    <tag k="workrules" v="EBO"/>
+  </way>
+</osm>

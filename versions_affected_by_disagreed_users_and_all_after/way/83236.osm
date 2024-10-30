@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="83236268" version="1" timestamp="2010-10-29T07:37:58Z" uid="33382" user="de_muur" changeset="6215150">
+    <nd ref="968499212"/>
+    <nd ref="684525790"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="E 22"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="120"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A 1"/>
+  </way>
+  <way id="83236268" version="2" timestamp="2010-11-28T13:30:47Z" uid="30077" user="ChristianW" changeset="6478100">
+    <nd ref="968499212"/>
+    <nd ref="684525790"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="E 22"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="120"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A 1"/>
+    <tag k="reg_name" v="Hansalinie"/>
+  </way>
+  <way id="83236268" version="3" timestamp="2010-11-29T16:32:34Z" uid="30077" user="ChristianW" changeset="6487695">
+    <nd ref="968499212"/>
+    <nd ref="684525790"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="E 22"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="120"/>
+    <tag k="note:name" v="Der reg_name, sowie ggf. der loc_name sind dem zugehörigen Wikipediaartikel entnommen."/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A 1"/>
+    <tag k="reg_name" v="Hansalinie"/>
+  </way>
+  <way id="83236268" version="4" timestamp="2011-08-14T12:56:30Z" uid="30077" user="ChristianW" changeset="9015645">
+    <nd ref="968499212"/>
+    <nd ref="684525790"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="E 22"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="120"/>
+    <tag k="note:name" v="Der reg_name, sowie ggf. der loc_name sind dem zugehörigen Wikipediaartikel entnommen."/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A 1"/>
+    <tag k="reg_name" v="Hansalinie"/>
+    <tag k="source:lit" v="http://www.autobahn-bilder.de"/>
+  </way>
+  <way id="83236268" version="5" timestamp="2012-01-13T00:45:59Z" uid="45882" user="smarties" changeset="10375018"/>
+  <way id="83236373" version="1" timestamp="2010-10-29T07:38:26Z" uid="4467" user="Rosscoe" changeset="6215154">
+    <nd ref="968499231"/>
+    <nd ref="968499233"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="83236374" version="1" timestamp="2010-10-29T07:38:26Z" uid="4467" user="Rosscoe" changeset="6215154">
+    <nd ref="968499232"/>
+    <nd ref="968499229"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+</osm>

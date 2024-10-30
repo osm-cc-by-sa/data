@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="55693283" version="3" timestamp="2010-08-26T16:05:50Z" uid="164966" user="linuss1" changeset="5600344">
+    <nd ref="699799933"/>
+    <nd ref="699799942"/>
+    <nd ref="880753969"/>
+    <nd ref="699799944"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Adlerweg"/>
+  </way>
+  <way id="55693283" version="4" timestamp="2012-01-19T14:13:26Z" uid="38735" user="GPS-Wolf" changeset="10437633"/>
+  <way id="55693284" version="5" timestamp="2010-08-26T16:05:51Z" uid="164966" user="linuss1" changeset="5600344"/>
+  <way id="55693310" version="1" timestamp="2010-04-17T15:25:54Z" uid="4467" user="Rosscoe" changeset="4448783">
+    <nd ref="620208725"/>
+    <nd ref="620208726"/>
+    <nd ref="620208728"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Anaconda Drive"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="55693310" version="2" timestamp="2010-07-09T06:58:08Z" uid="74617" user="JohnSmith" changeset="5171447">
+    <nd ref="620208725"/>
+    <nd ref="620208726"/>
+    <nd ref="620208728"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Anaconda Drive"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="55693310" version="3" timestamp="2011-04-05T02:50:00Z" uid="4467" user="Rosscoe" changeset="7771132">
+    <nd ref="620208725"/>
+    <nd ref="620208726"/>
+    <nd ref="620208728"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Anaconda Drive"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+  </way>
+</osm>

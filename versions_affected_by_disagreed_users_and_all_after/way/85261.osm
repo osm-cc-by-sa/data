@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="85261291" version="3" timestamp="2011-03-18T15:16:22Z" uid="4467" user="Rosscoe" changeset="7596265">
+    <nd ref="1207409953"/>
+    <nd ref="355182126"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="attribution" v="Based on Australian Bureau of Statistics data"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="source" v="ABS_2006"/>
+  </way>
+  <way id="85261326" version="2" timestamp="2011-03-18T15:17:43Z" uid="4467" user="Rosscoe" changeset="7596265">
+    <nd ref="370238822"/>
+    <nd ref="370238796"/>
+    <nd ref="370238821"/>
+    <nd ref="988683128"/>
+    <nd ref="170393640"/>
+    <nd ref="1207409853"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Bennett Street"/>
+  </way>
+  <way id="85261332" version="3" timestamp="2011-03-18T15:42:31Z" uid="4467" user="Rosscoe" changeset="7596453">
+    <nd ref="988683217"/>
+    <nd ref="1149142368"/>
+    <nd ref="1149141590"/>
+    <nd ref="988683204"/>
+    <nd ref="1149142610"/>
+    <nd ref="672130831"/>
+    <nd ref="775973476"/>
+    <nd ref="370239433"/>
+    <nd ref="672130746"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Stewart Street"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="85261342" version="3" timestamp="2011-03-18T15:40:15Z" uid="4467" user="Rosscoe" changeset="7596453">
+    <nd ref="370239450"/>
+    <nd ref="370239451"/>
+    <nd ref="1149142142"/>
+    <nd ref="370239452"/>
+    <nd ref="1149141578"/>
+    <nd ref="370239453"/>
+    <nd ref="143581046"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Tilbrook Cresent"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+  </way>
+</osm>

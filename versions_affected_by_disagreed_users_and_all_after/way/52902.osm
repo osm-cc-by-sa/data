@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="52902739" version="1" timestamp="2010-03-20T15:49:26Z" uid="74617" user="JohnSmith" changeset="4181237">
+    <nd ref="124796804"/>
+    <nd ref="124794924"/>
+    <nd ref="670515431"/>
+    <nd ref="124794925"/>
+    <nd ref="670515427"/>
+    <nd ref="124794926"/>
+    <nd ref="124794928"/>
+    <nd ref="124793022"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="Dayboro Road"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="52902740" version="1" timestamp="2010-03-20T15:49:26Z" uid="74617" user="JohnSmith" changeset="4181237">
+    <nd ref="271540140"/>
+    <nd ref="670515427"/>
+    <nd ref="124794357"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="52902740" version="2" timestamp="2010-08-23T03:02:55Z" uid="14505" user="David Dean" changeset="5567405">
+    <nd ref="271540140"/>
+    <nd ref="670515427"/>
+    <nd ref="124794357"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="River Street"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="52902975" version="1" timestamp="2010-03-20T15:54:12Z" uid="74617" user="JohnSmith" changeset="4181282">
+    <nd ref="670515429"/>
+    <nd ref="670519822"/>
+    <nd ref="670519823"/>
+    <nd ref="670519825"/>
+    <nd ref="670519826"/>
+    <tag k="highway" v="service"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+</osm>

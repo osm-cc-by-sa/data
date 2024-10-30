@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="20400294" version="5" timestamp="2010-07-06T10:01:48Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="106524699"/>
+    <nd ref="217389141"/>
+    <nd ref="217389148"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Birubi Street"/>
+  </way>
+  <way id="20400294" version="6" timestamp="2012-01-15T21:12:12Z" uid="147510" user="woodpeck_fixbot" changeset="10402983">
+    <nd ref="106524699"/>
+    <nd ref="217389141"/>
+    <nd ref="217389148"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Birubi Street"/>
+  </way>
+  <way id="20400691" version="5" timestamp="2010-07-06T10:02:51Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="217387380"/>
+    <nd ref="106538303"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Thomas Street"/>
+  </way>
+  <way id="20400691" version="6" timestamp="2012-01-15T21:12:13Z" uid="147510" user="woodpeck_fixbot" changeset="10402983">
+    <nd ref="217387380"/>
+    <nd ref="106538303"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Thomas Street"/>
+  </way>
+</osm>

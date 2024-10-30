@@ -1,0 +1,840 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="43836018" version="2" timestamp="2011-02-11T15:58:38Z" uid="4467" user="Rosscoe" changeset="7256478">
+    <nd ref="556146751"/>
+    <nd ref="556147167"/>
+    <nd ref="556147183"/>
+    <nd ref="556124768"/>
+    <tag k="railway" v="rail"/>
+  </way>
+  <way id="43836018" version="3" timestamp="2011-04-03T01:27:21Z" uid="84644" user="Ash Kyd" changeset="7749681">
+    <nd ref="556146751"/>
+    <nd ref="556147167"/>
+    <nd ref="556147183"/>
+    <nd ref="556124768"/>
+    <tag k="railway" v="rail"/>
+    <tag k="service" v="yard"/>
+  </way>
+  <way id="43836022" version="4" timestamp="2010-03-22T08:41:11Z" uid="74617" user="JohnSmith" changeset="4200136">
+    <nd ref="556147698"/>
+    <nd ref="556147710"/>
+    <nd ref="556149302"/>
+    <nd ref="556149320"/>
+    <nd ref="556149341"/>
+    <nd ref="556149359"/>
+    <tag k="note" v="I&apos;m adding service=yard to differentiate these in the database from mainline rails."/>
+    <tag k="railway" v="rail"/>
+    <tag k="service" v="yard"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="43836064" version="2" timestamp="2010-04-08T02:11:16Z" uid="23543" user="jkjk" changeset="4360623">
+    <nd ref="556149517"/>
+    <nd ref="160027255"/>
+    <nd ref="160027263"/>
+    <nd ref="160027272"/>
+    <nd ref="160027279"/>
+    <nd ref="160027284"/>
+    <nd ref="160027293"/>
+    <nd ref="160027301"/>
+    <nd ref="160027308"/>
+    <nd ref="160027318"/>
+    <nd ref="160027325"/>
+    <nd ref="160027333"/>
+    <nd ref="160027339"/>
+    <nd ref="160027344"/>
+    <nd ref="160027357"/>
+    <nd ref="160027364"/>
+    <nd ref="247150618"/>
+    <nd ref="160027372"/>
+    <nd ref="160027381"/>
+    <nd ref="160027387"/>
+    <nd ref="688188676"/>
+    <nd ref="160027393"/>
+    <nd ref="160027401"/>
+    <nd ref="160027410"/>
+    <nd ref="160027415"/>
+    <nd ref="160027423"/>
+    <nd ref="160027433"/>
+    <nd ref="160027438"/>
+    <nd ref="160027448"/>
+    <nd ref="160027456"/>
+    <nd ref="160027467"/>
+    <nd ref="160027469"/>
+    <nd ref="160027471"/>
+    <nd ref="160027477"/>
+    <nd ref="160027489"/>
+    <nd ref="160027497"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="ref" v="513016"/>
+    <tag k="source_ref" v="www.ssc.sk"/>
+  </way>
+  <way id="43836064" version="3" timestamp="2010-04-29T16:05:08Z" uid="52833" user="Lukar" changeset="4559034">
+    <nd ref="556149517"/>
+    <nd ref="160027255"/>
+    <nd ref="160027263"/>
+    <nd ref="160027272"/>
+    <nd ref="160027279"/>
+    <nd ref="160027284"/>
+    <nd ref="160027293"/>
+    <nd ref="160027301"/>
+    <nd ref="160027308"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="ref" v="513016"/>
+    <tag k="source_ref" v="www.ssc.sk"/>
+  </way>
+  <way id="43836064" version="4" timestamp="2010-07-18T22:59:59Z" uid="1994" user="didoa" changeset="5256403">
+    <nd ref="556149517"/>
+    <nd ref="160027255"/>
+    <nd ref="160027263"/>
+    <nd ref="160027272"/>
+    <nd ref="160027279"/>
+    <nd ref="160027284"/>
+    <nd ref="160027293"/>
+    <nd ref="160027301"/>
+    <nd ref="160027308"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="ref" v="513016"/>
+    <tag k="source:ref" v="www.ssc.sk"/>
+  </way>
+  <way id="43836150" version="3" timestamp="2010-03-22T08:41:10Z" uid="74617" user="JohnSmith" changeset="4200136">
+    <nd ref="556154917"/>
+    <nd ref="556154925"/>
+    <nd ref="556154941"/>
+    <nd ref="556154957"/>
+    <nd ref="556154972"/>
+    <nd ref="556154986"/>
+    <nd ref="556117682"/>
+    <tag k="note" v="I&apos;m adding service=yard to differentiate these in the database from mainline rails."/>
+    <tag k="railway" v="rail"/>
+    <tag k="service" v="yard"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="43836840" version="2" timestamp="2010-01-20T15:39:29Z" uid="171838" user="argrath" changeset="3667712">
+    <nd ref="556163496"/>
+    <nd ref="556163494"/>
+    <nd ref="244110813"/>
+    <nd ref="244104430"/>
+    <nd ref="556163394"/>
+    <nd ref="556163412"/>
+    <nd ref="556163452"/>
+    <nd ref="556163425"/>
+    <nd ref="556163427"/>
+    <nd ref="556163429"/>
+    <nd ref="556163431"/>
+    <nd ref="556163444"/>
+    <nd ref="556163446"/>
+    <nd ref="556163448"/>
+    <nd ref="556163515"/>
+    <nd ref="556163517"/>
+    <nd ref="556163518"/>
+    <nd ref="556163520"/>
+    <nd ref="556163522"/>
+    <nd ref="556163524"/>
+    <nd ref="556163454"/>
+    <nd ref="556163501"/>
+    <nd ref="556163503"/>
+    <nd ref="556163505"/>
+    <nd ref="556163496"/>
+    <tag k="note" v="old_coastline"/>
+    <tag k="source" v="PGS"/>
+  </way>
+  <way id="43836840" version="3" timestamp="2010-01-30T21:04:37Z" uid="171838" user="argrath" changeset="3754777"/>
+  <way id="43836841" version="2" timestamp="2010-01-20T15:39:24Z" uid="171838" user="argrath" changeset="3667712">
+    <nd ref="244109650"/>
+    <nd ref="244103737"/>
+    <nd ref="556163487"/>
+    <nd ref="556163486"/>
+    <nd ref="556163488"/>
+    <nd ref="244108868"/>
+    <nd ref="556163489"/>
+    <nd ref="556163490"/>
+    <nd ref="244102709"/>
+    <nd ref="556163491"/>
+    <nd ref="556163492"/>
+    <nd ref="556163493"/>
+    <nd ref="244108166"/>
+    <nd ref="556163468"/>
+    <nd ref="556163470"/>
+    <nd ref="244114495"/>
+    <nd ref="556163472"/>
+    <nd ref="556163474"/>
+    <nd ref="556163475"/>
+    <nd ref="244107488"/>
+    <nd ref="556163477"/>
+    <nd ref="556163480"/>
+    <nd ref="244113655"/>
+    <nd ref="556163482"/>
+    <nd ref="244105801"/>
+    <nd ref="244111399"/>
+    <nd ref="244105048"/>
+    <nd ref="556163457"/>
+    <nd ref="556163459"/>
+    <nd ref="556163462"/>
+    <nd ref="556163464"/>
+    <nd ref="556163466"/>
+    <nd ref="556163363"/>
+    <nd ref="556163365"/>
+    <nd ref="556163367"/>
+    <nd ref="556163370"/>
+    <nd ref="556163372"/>
+    <nd ref="556163374"/>
+    <nd ref="556163376"/>
+    <nd ref="556163379"/>
+    <nd ref="556163381"/>
+    <nd ref="556163331"/>
+    <nd ref="556163333"/>
+    <nd ref="556163335"/>
+    <nd ref="556163337"/>
+    <nd ref="556163339"/>
+    <nd ref="556163341"/>
+    <nd ref="556163343"/>
+    <nd ref="556163345"/>
+    <nd ref="556163349"/>
+    <nd ref="556163351"/>
+    <nd ref="556163352"/>
+    <nd ref="556163354"/>
+    <nd ref="244104413"/>
+    <tag k="note" v="old_coastline"/>
+    <tag k="source" v="MLIT, Japan"/>
+  </way>
+  <way id="43836841" version="3" timestamp="2011-09-25T00:58:02Z" uid="146930" user="Tom_G3X" changeset="9388917"/>
+  <way id="43836842" version="3" timestamp="2010-01-20T15:40:18Z" uid="171838" user="argrath" changeset="3667712">
+    <nd ref="556163456"/>
+    <nd ref="244104344"/>
+    <nd ref="556307535"/>
+    <nd ref="556307539"/>
+    <nd ref="556307526"/>
+    <nd ref="556307533"/>
+    <nd ref="556307541"/>
+    <nd ref="556307544"/>
+    <nd ref="556307547"/>
+    <nd ref="556307550"/>
+    <nd ref="556307554"/>
+    <nd ref="556307555"/>
+    <nd ref="556307558"/>
+    <nd ref="556307559"/>
+    <nd ref="556307562"/>
+    <nd ref="556307564"/>
+    <nd ref="556163456"/>
+    <tag k="note" v="old_coastline"/>
+    <tag k="source" v="PGS"/>
+  </way>
+  <way id="43836842" version="4" timestamp="2010-01-30T21:04:37Z" uid="171838" user="argrath" changeset="3754777"/>
+  <way id="43836843" version="2" timestamp="2010-01-20T15:39:24Z" uid="171838" user="argrath" changeset="3667712">
+    <nd ref="244104413"/>
+    <nd ref="244103644"/>
+    <nd ref="244109212"/>
+    <nd ref="556163356"/>
+    <nd ref="244103099"/>
+    <nd ref="244108601"/>
+    <nd ref="244102430"/>
+    <nd ref="556163358"/>
+    <nd ref="244107895"/>
+    <nd ref="556163360"/>
+    <nd ref="556163362"/>
+    <nd ref="244114228"/>
+    <nd ref="244107247"/>
+    <nd ref="244112684"/>
+    <nd ref="244106538"/>
+    <nd ref="244111971"/>
+    <nd ref="556163347"/>
+    <nd ref="556163317"/>
+    <nd ref="244105721"/>
+    <nd ref="556163319"/>
+    <nd ref="244111288"/>
+    <nd ref="556163323"/>
+    <nd ref="556163322"/>
+    <nd ref="556163321"/>
+    <nd ref="556163324"/>
+    <nd ref="556163325"/>
+    <nd ref="556163326"/>
+    <nd ref="244104318"/>
+    <nd ref="244110654"/>
+    <nd ref="556163328"/>
+    <tag k="note" v="old_coastline"/>
+    <tag k="source" v="PGS"/>
+  </way>
+  <way id="43836843" version="3" timestamp="2011-09-25T00:58:02Z" uid="146930" user="Tom_G3X" changeset="9388917"/>
+  <way id="43836844" version="2" timestamp="2010-01-20T15:39:21Z" uid="171838" user="argrath" changeset="3667712">
+    <nd ref="244113739"/>
+    <nd ref="244102983"/>
+    <nd ref="244109365"/>
+    <nd ref="244102398"/>
+    <nd ref="244108616"/>
+    <nd ref="244102823"/>
+    <nd ref="244110536"/>
+    <nd ref="244104898"/>
+    <nd ref="244109688"/>
+    <nd ref="244104202"/>
+    <nd ref="244106094"/>
+    <nd ref="244112383"/>
+    <nd ref="244106185"/>
+    <nd ref="244113970"/>
+    <nd ref="244106971"/>
+    <nd ref="244112465"/>
+    <nd ref="244107732"/>
+    <nd ref="244108652"/>
+    <nd ref="244102435"/>
+    <nd ref="244109471"/>
+    <nd ref="244103147"/>
+    <nd ref="244108941"/>
+    <nd ref="244104207"/>
+    <nd ref="244109770"/>
+    <nd ref="244104971"/>
+    <nd ref="244110445"/>
+    <nd ref="244111559"/>
+    <nd ref="244105420"/>
+    <nd ref="244112426"/>
+    <nd ref="244105866"/>
+    <nd ref="244113924"/>
+    <tag k="note" v="old_coastline"/>
+    <tag k="source" v="PGS"/>
+  </way>
+  <way id="43836844" version="3" timestamp="2010-04-22T08:30:14Z" uid="35930" user="Show-ichi" changeset="4493443"/>
+  <way id="43836850" version="3" timestamp="2010-03-28T11:11:26Z" uid="20587" user="balrog-kun" changeset="4254597">
+    <nd ref="556164237"/>
+    <nd ref="556164893"/>
+    <nd ref="556164249"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="North Mount Vernon Avenue"/>
+    <tag k="name_1" v="Historic Route 66"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="San Bernardino, CA"/>
+    <tag k="tiger:name_base" v="Mount Vernon"/>
+    <tag k="tiger:name_base_1" v="Historic Route 66"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="144652383:144652387:144652417:144652420:144652421:144652423:144652424:144652425:144652972:144652973:144652978:144652980:144652982:144652985:144653011:144653013:144653015:144653017:144653020:144653023:144652427:144653101:144653104:144653109:144653112:14465"/>
+    <tag k="tiger:zip_left" v="92411"/>
+    <tag k="tiger:zip_right" v="92411"/>
+  </way>
+  <way id="43836850" version="4" timestamp="2010-06-19T09:00:12Z" uid="194231" user="Chris Bell in California" changeset="5021903">
+    <nd ref="556164237"/>
+    <nd ref="556164893"/>
+    <nd ref="556164249"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="North Mount Vernon Avenue"/>
+    <tag k="name_1" v="Historic Route 66"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="San Bernardino, CA"/>
+    <tag k="tiger:name_base" v="Mount Vernon"/>
+    <tag k="tiger:name_base_1" v="Historic Route 66"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="144652383:144652387:144652417:144652420:144652421:144652423:144652424:144652425:144652972:144652973:144652978:144652980:144652982:144652985:144653011:144653013:144653015:144653017:144653020:144653023:144652427:144653101:144653104:144653109:144653112:14465"/>
+    <tag k="tiger:zip_left" v="92411"/>
+    <tag k="tiger:zip_right" v="92411"/>
+  </way>
+  <way id="43836850" version="5" timestamp="2011-03-15T19:56:46Z" uid="207745" user="NE2" changeset="7569348"/>
+  <way id="43836853" version="2" timestamp="2010-03-28T11:11:26Z" uid="20587" user="balrog-kun" changeset="4254597">
+    <nd ref="556164249"/>
+    <nd ref="54569966"/>
+    <nd ref="54858845"/>
+    <nd ref="54858847"/>
+    <nd ref="54828579"/>
+    <nd ref="54809752"/>
+    <nd ref="54690705"/>
+    <nd ref="54651117"/>
+    <nd ref="54814826"/>
+    <nd ref="54522854"/>
+    <nd ref="54858854"/>
+    <nd ref="54858856"/>
+    <nd ref="54608121"/>
+    <nd ref="54812352"/>
+    <nd ref="54858860"/>
+    <nd ref="54858861"/>
+    <nd ref="54572142"/>
+    <nd ref="54858864"/>
+    <nd ref="54692131"/>
+    <nd ref="299199674"/>
+    <nd ref="54537468"/>
+    <nd ref="54687550"/>
+    <nd ref="54858868"/>
+    <nd ref="54609605"/>
+    <nd ref="54773221"/>
+    <nd ref="54833091"/>
+    <nd ref="54616742"/>
+    <nd ref="54858871"/>
+    <nd ref="54699860"/>
+    <nd ref="299199922"/>
+    <nd ref="54657785"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="North Mount Vernon Avenue"/>
+    <tag k="name_1" v="Historic Route 66"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="San Bernardino, CA"/>
+    <tag k="tiger:name_base" v="Mount Vernon"/>
+    <tag k="tiger:name_base_1" v="Historic Route 66"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="144652383:144652387:144652417:144652420:144652421:144652423:144652424:144652425:144652972:144652973:144652978:144652980:144652982:144652985:144653011:144653013:144653015:144653017:144653020:144653023:144652427:144653101:144653104:144653109:144653112:14465"/>
+    <tag k="tiger:zip_left" v="92411"/>
+    <tag k="tiger:zip_right" v="92411"/>
+  </way>
+  <way id="43836853" version="3" timestamp="2010-05-08T06:31:30Z" uid="42429" user="FK270673" changeset="4635974">
+    <nd ref="556164249"/>
+    <nd ref="54569966"/>
+    <nd ref="54858845"/>
+    <nd ref="54858847"/>
+    <nd ref="54828579"/>
+    <nd ref="54809752"/>
+    <nd ref="54690705"/>
+    <nd ref="54651117"/>
+    <nd ref="54814826"/>
+    <nd ref="54522854"/>
+    <nd ref="54858854"/>
+    <nd ref="54858856"/>
+    <nd ref="54608121"/>
+    <nd ref="54812352"/>
+    <nd ref="54858860"/>
+    <nd ref="54858861"/>
+    <nd ref="54572142"/>
+    <nd ref="54858864"/>
+    <nd ref="54692131"/>
+    <nd ref="299199674"/>
+    <nd ref="54537468"/>
+    <nd ref="54687550"/>
+    <nd ref="54858868"/>
+    <nd ref="54609605"/>
+    <nd ref="54773221"/>
+    <nd ref="54833091"/>
+    <nd ref="54616742"/>
+    <nd ref="54858871"/>
+    <nd ref="54699860"/>
+    <nd ref="299199922"/>
+    <nd ref="54657785"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="North Mount Vernon Avenue"/>
+    <tag k="name_1" v="Historic Route 66"/>
+    <tag k="old_ref" v="US 66"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="San Bernardino, CA"/>
+    <tag k="tiger:name_base" v="Mount Vernon"/>
+    <tag k="tiger:name_base_1" v="Historic Route 66"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="144652383:144652387:144652417:144652420:144652421:144652423:144652424:144652425:144652972:144652973:144652978:144652980:144652982:144652985:144653011:144653013:144653015:144653017:144653020:144653023:144652427:144653101:144653104:144653109:144653112:14465"/>
+    <tag k="tiger:zip_left" v="92411"/>
+    <tag k="tiger:zip_right" v="92411"/>
+  </way>
+  <way id="43836853" version="4" timestamp="2010-08-06T14:58:59Z" uid="103253" user="gormur" changeset="5417627">
+    <nd ref="556164249"/>
+    <nd ref="54569966"/>
+    <nd ref="54858845"/>
+    <nd ref="54858847"/>
+    <nd ref="54828579"/>
+    <nd ref="54809752"/>
+    <nd ref="54690705"/>
+    <nd ref="54651117"/>
+    <nd ref="54814826"/>
+    <nd ref="54522854"/>
+    <nd ref="54858854"/>
+    <nd ref="54858856"/>
+    <nd ref="54608121"/>
+    <nd ref="54812352"/>
+    <nd ref="54858860"/>
+    <nd ref="54858861"/>
+    <nd ref="54572142"/>
+    <nd ref="54858864"/>
+    <nd ref="54692131"/>
+    <nd ref="299199674"/>
+    <nd ref="54537468"/>
+    <nd ref="54687550"/>
+    <nd ref="54858868"/>
+    <nd ref="54609605"/>
+    <nd ref="54773221"/>
+    <nd ref="54833091"/>
+    <nd ref="54616742"/>
+    <nd ref="54858871"/>
+    <nd ref="54699860"/>
+    <nd ref="299199922"/>
+    <nd ref="847823210"/>
+    <nd ref="54657785"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="North Mount Vernon Avenue"/>
+    <tag k="name_1" v="Historic Route 66"/>
+    <tag k="old_ref" v="US 66"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="San Bernardino, CA"/>
+    <tag k="tiger:name_base" v="Mount Vernon"/>
+    <tag k="tiger:name_base_1" v="Historic Route 66"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="144652383:144652387:144652417:144652420:144652421:144652423:144652424:144652425:144652972:144652973:144652978:144652980:144652982:144652985:144653011:144653013:144653015:144653017:144653020:144653023:144652427:144653101:144653104:144653109:144653112:14465"/>
+    <tag k="tiger:zip_left" v="92411"/>
+    <tag k="tiger:zip_right" v="92411"/>
+  </way>
+  <way id="43836853" version="5" timestamp="2011-03-15T19:55:54Z" uid="207745" user="NE2" changeset="7569348">
+    <nd ref="556164249"/>
+    <nd ref="54569966"/>
+    <nd ref="54858845"/>
+    <nd ref="54858847"/>
+    <nd ref="54828579"/>
+    <nd ref="54809752"/>
+    <nd ref="54690705"/>
+    <nd ref="54651117"/>
+    <nd ref="54814826"/>
+    <nd ref="54522854"/>
+    <nd ref="54858854"/>
+    <nd ref="54858856"/>
+    <nd ref="54608121"/>
+    <nd ref="54812352"/>
+    <nd ref="54858860"/>
+    <nd ref="54858861"/>
+    <nd ref="54572142"/>
+    <nd ref="54858864"/>
+    <nd ref="54692131"/>
+    <nd ref="299199674"/>
+    <nd ref="54537468"/>
+    <nd ref="54687550"/>
+    <nd ref="54858868"/>
+    <nd ref="54609605"/>
+    <nd ref="54773221"/>
+    <nd ref="54833091"/>
+    <nd ref="54616742"/>
+    <nd ref="54858871"/>
+    <nd ref="54699860"/>
+    <nd ref="299199922"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="North Mount Vernon Avenue"/>
+    <tag k="name_1" v="Historic Route 66"/>
+    <tag k="old_ref" v="US 66"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="San Bernardino, CA"/>
+    <tag k="tiger:name_base" v="Mount Vernon"/>
+    <tag k="tiger:name_base_1" v="Historic Route 66"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="144652383:144652387:144652417:144652420:144652421:144652423:144652424:144652425:144652972:144652973:144652978:144652980:144652982:144652985:144653011:144653013:144653015:144653017:144653020:144653023:144652427:144653101:144653104:144653109:144653112:14465"/>
+    <tag k="tiger:zip_left" v="92411"/>
+    <tag k="tiger:zip_right" v="92411"/>
+  </way>
+  <way id="43836853" version="6" timestamp="2011-03-16T08:27:36Z" uid="207745" user="NE2" changeset="7573254">
+    <nd ref="556164249"/>
+    <nd ref="54569966"/>
+    <nd ref="54858845"/>
+    <nd ref="54858847"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="North Mount Vernon Avenue"/>
+    <tag k="old_ref" v="US 91;US 395"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="San Bernardino, CA"/>
+    <tag k="tiger:name_base" v="Mount Vernon"/>
+    <tag k="tiger:name_base_1" v="Historic Route 66"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="144652383:144652387:144652417:144652420:144652421:144652423:144652424:144652425:144652972:144652973:144652978:144652980:144652982:144652985:144653011:144653013:144653015:144653017:144653020:144653023:144652427:144653101:144653104:144653109:144653112:14465"/>
+    <tag k="tiger:zip_left" v="92411"/>
+    <tag k="tiger:zip_right" v="92411"/>
+  </way>
+  <way id="43836853" version="7" timestamp="2011-06-26T23:39:44Z" uid="351693" user="ctr112280" changeset="8557505">
+    <nd ref="556164249"/>
+    <nd ref="54569966"/>
+    <nd ref="54858845"/>
+    <nd ref="54858847"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="North Mount Vernon Avenue"/>
+    <tag k="old_ref" v="US 91;US 395"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="San Bernardino, CA"/>
+    <tag k="tiger:name_base" v="Mount Vernon"/>
+    <tag k="tiger:name_base_1" v="Historic Route 66"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="144652383:144652387:144652417:144652420:144652421:144652423:144652424:144652425:144652972:144652973:144652978:144652980:144652982:144652985:144653011:144653013:144653015:144653017:144653020:144653023:144652427:144653101:144653104:144653109:144653112:14465"/>
+    <tag k="tiger:zip_left" v="92411"/>
+    <tag k="tiger:zip_right" v="92411"/>
+  </way>
+  <way id="43836894" version="2" timestamp="2010-03-28T11:11:29Z" uid="20587" user="balrog-kun" changeset="4254597">
+    <nd ref="54929418"/>
+    <nd ref="54929420"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="West Rialto Avenue"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="San Bernardino, CA"/>
+    <tag k="tiger:name_base" v="Rialto"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="144688442:144645070:144645071:144645078:144687755"/>
+    <tag k="tiger:zip_left" v="92376"/>
+    <tag k="tiger:zip_right" v="92376"/>
+  </way>
+  <way id="43836894" version="3" timestamp="2010-06-18T19:59:51Z" uid="194231" user="Chris Bell in California" changeset="5019043">
+    <nd ref="54929418"/>
+    <nd ref="54929420"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="West Rialto Avenue"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="San Bernardino, CA"/>
+    <tag k="tiger:name_base" v="Rialto"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="144688442:144645070:144645071:144645078:144687755"/>
+    <tag k="tiger:zip_left" v="92376"/>
+    <tag k="tiger:zip_right" v="92376"/>
+  </way>
+  <way id="43836895" version="5" timestamp="2010-03-28T11:11:29Z" uid="20587" user="balrog-kun" changeset="4254597">
+    <nd ref="54929420"/>
+    <nd ref="54682338"/>
+    <nd ref="54929424"/>
+    <nd ref="54563172"/>
+    <nd ref="54929428"/>
+    <nd ref="54929430"/>
+    <nd ref="54929433"/>
+    <nd ref="54929434"/>
+    <nd ref="54661551"/>
+    <nd ref="559837200"/>
+    <nd ref="54636891"/>
+    <nd ref="54542844"/>
+    <nd ref="559837116"/>
+    <nd ref="54715391"/>
+    <nd ref="54675910"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="West Rialto Avenue"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="San Bernardino, CA"/>
+    <tag k="tiger:name_base" v="Rialto"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="144688442:144645070:144645071:144645078:144687755"/>
+    <tag k="tiger:zip_left" v="92376"/>
+    <tag k="tiger:zip_right" v="92376"/>
+  </way>
+  <way id="43836895" version="6" timestamp="2010-06-18T19:59:25Z" uid="194231" user="Chris Bell in California" changeset="5019043">
+    <nd ref="54929420"/>
+    <nd ref="54682338"/>
+    <nd ref="54929424"/>
+    <nd ref="54563172"/>
+    <nd ref="54929428"/>
+    <nd ref="54929430"/>
+    <nd ref="54929433"/>
+    <nd ref="54631608"/>
+    <nd ref="54661551"/>
+    <nd ref="559837200"/>
+    <nd ref="54636891"/>
+    <nd ref="54542844"/>
+    <nd ref="559837116"/>
+    <nd ref="54715391"/>
+    <nd ref="54675910"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="West Rialto Avenue"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="San Bernardino, CA"/>
+    <tag k="tiger:name_base" v="Rialto"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="144688442:144645070:144645071:144645078:144687755"/>
+    <tag k="tiger:zip_left" v="92376"/>
+    <tag k="tiger:zip_right" v="92376"/>
+  </way>
+  <way id="43836895" version="7" timestamp="2010-06-19T04:58:44Z" uid="194231" user="Chris Bell in California" changeset="5020922">
+    <nd ref="54929420"/>
+    <nd ref="54682338"/>
+    <nd ref="54929424"/>
+    <nd ref="54563172"/>
+    <nd ref="54929428"/>
+    <nd ref="54929430"/>
+    <nd ref="775936615"/>
+    <nd ref="54929433"/>
+    <nd ref="54631608"/>
+    <nd ref="54661551"/>
+    <nd ref="559837200"/>
+    <nd ref="54636891"/>
+    <nd ref="54542844"/>
+    <nd ref="559837116"/>
+    <nd ref="54715391"/>
+    <nd ref="54675910"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="West Rialto Avenue"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="San Bernardino, CA"/>
+    <tag k="tiger:name_base" v="Rialto"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="144688442:144645070:144645071:144645078:144687755"/>
+    <tag k="tiger:zip_left" v="92376"/>
+    <tag k="tiger:zip_right" v="92376"/>
+  </way>
+  <way id="43836899" version="2" timestamp="2011-03-04T11:15:02Z" uid="4467" user="Rosscoe" changeset="7453475">
+    <nd ref="556169712"/>
+    <nd ref="556170520"/>
+    <nd ref="556170532"/>
+    <nd ref="556170546"/>
+    <nd ref="556170552"/>
+    <nd ref="556170563"/>
+    <nd ref="556170575"/>
+    <nd ref="556170586"/>
+    <nd ref="556170597"/>
+    <nd ref="556170609"/>
+    <nd ref="556170619"/>
+    <nd ref="1185706252"/>
+    <nd ref="1185706246"/>
+    <nd ref="1185706244"/>
+    <nd ref="1185706238"/>
+    <nd ref="1185706260"/>
+    <nd ref="1185706241"/>
+    <nd ref="1185706249"/>
+    <nd ref="1185706264"/>
+    <tag k="railway" v="rail"/>
+  </way>
+  <way id="43836905" version="2" timestamp="2010-03-28T11:11:30Z" uid="20587" user="balrog-kun" changeset="4254597">
+    <nd ref="556171151"/>
+    <nd ref="54929418"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="West Rialto Avenue"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="San Bernardino, CA"/>
+    <tag k="tiger:name_base" v="Rialto"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="144688442:144645070:144645071:144645078:144687755"/>
+    <tag k="tiger:zip_left" v="92376"/>
+    <tag k="tiger:zip_right" v="92376"/>
+  </way>
+  <way id="43836912" version="2" timestamp="2011-03-04T11:15:03Z" uid="4467" user="Rosscoe" changeset="7453475">
+    <nd ref="556170532"/>
+    <nd ref="556171524"/>
+    <nd ref="556171541"/>
+    <nd ref="556171560"/>
+    <nd ref="556171577"/>
+    <nd ref="1185706262"/>
+    <nd ref="1185706255"/>
+    <nd ref="1185706250"/>
+    <nd ref="1185706248"/>
+    <nd ref="1185706240"/>
+    <nd ref="1185706263"/>
+    <nd ref="1185706256"/>
+    <nd ref="1185706245"/>
+    <nd ref="1185706239"/>
+    <nd ref="1185706261"/>
+    <nd ref="1185706254"/>
+    <nd ref="1185706237"/>
+    <nd ref="1185706257"/>
+    <nd ref="1185706251"/>
+    <nd ref="1185706243"/>
+    <nd ref="1185706259"/>
+    <nd ref="1185706253"/>
+    <nd ref="1185706236"/>
+    <nd ref="1185706247"/>
+    <tag k="railway" v="rail"/>
+  </way>
+  <way id="43836913" version="2" timestamp="2010-03-28T11:11:30Z" uid="20587" user="balrog-kun" changeset="4254597">
+    <nd ref="556171227"/>
+    <nd ref="556171151"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="West Rialto Avenue"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="San Bernardino, CA"/>
+    <tag k="tiger:name_base" v="Rialto"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="144688442:144645070:144645071:144645078:144687755"/>
+    <tag k="tiger:zip_left" v="92376"/>
+    <tag k="tiger:zip_right" v="92376"/>
+  </way>
+  <way id="43836913" version="3" timestamp="2010-06-19T04:57:44Z" uid="194231" user="Chris Bell in California" changeset="5020922">
+    <nd ref="556171227"/>
+    <nd ref="556171151"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="West Rialto Avenue"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="San Bernardino, CA"/>
+    <tag k="tiger:name_base" v="Rialto"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="144688442:144645070:144645071:144645078:144687755"/>
+    <tag k="tiger:zip_left" v="92376"/>
+    <tag k="tiger:zip_right" v="92376"/>
+  </way>
+  <way id="43836980" version="3" timestamp="2010-03-28T11:11:30Z" uid="20587" user="balrog-kun" changeset="4254597">
+    <nd ref="54690819"/>
+    <nd ref="556177837"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="North Roberds Avenue"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="San Bernardino, CA"/>
+    <tag k="tiger:name_base" v="Roberds"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="144653085:144653088"/>
+    <tag k="tiger:zip_left" v="92411"/>
+    <tag k="tiger:zip_right" v="92411"/>
+  </way>
+  <way id="43836980" version="4" timestamp="2012-02-01T07:05:56Z" uid="82317" user="AM909" changeset="10556298">
+    <nd ref="54690819"/>
+    <nd ref="556177837"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Roberds Avenue"/>
+    <tag k="name:prefix" v="North"/>
+    <tag k="source" v="bing_imagery_0.06m_200706"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="San Bernardino, CA"/>
+    <tag k="tiger:name_base" v="Roberds"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="144653085:144653088"/>
+    <tag k="tiger:zip_left" v="92411"/>
+    <tag k="tiger:zip_right" v="92411"/>
+  </way>
+</osm>

@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="71745110" version="1" timestamp="2010-08-10T11:18:27Z" uid="6269" user="Mueck" changeset="5452945">
+    <nd ref="21493233"/>
+    <nd ref="21493234"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Passagehof"/>
+  </way>
+  <way id="71745110" version="2" timestamp="2010-08-10T11:18:56Z" uid="6269" user="Mueck" changeset="5452945">
+    <nd ref="21493234"/>
+    <nd ref="21493233"/>
+    <tag k="cycleway" v="opposite"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Passagehof"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="71745110" version="3" timestamp="2010-08-10T17:27:43Z" uid="6269" user="Mueck" changeset="5455904">
+    <nd ref="21493234"/>
+    <nd ref="21493233"/>
+    <tag k="cycleway" v="opposite"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxheight" v="3.5"/>
+    <tag k="name" v="Passagehof"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="71745110" version="4" timestamp="2010-12-17T21:14:07Z" uid="29717" user="eumiro" changeset="6690563">
+    <nd ref="21493234"/>
+    <nd ref="1043753106"/>
+    <nd ref="21493233"/>
+    <tag k="cycleway" v="opposite"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxheight" v="3.5"/>
+    <tag k="name" v="Passagehof"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="71745110" version="5" timestamp="2011-03-25T00:47:27Z" uid="6269" user="Mueck" changeset="7661499">
+    <nd ref="21493234"/>
+    <nd ref="1216891096"/>
+    <nd ref="1043753106"/>
+    <nd ref="1216891135"/>
+    <nd ref="21493233"/>
+    <tag k="cycleway" v="opposite"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxheight" v="3.5"/>
+    <tag k="name" v="Passagehof"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="71745110" version="6" timestamp="2011-10-08T13:05:31Z" uid="118352" user="kamarc" changeset="9502399">
+    <nd ref="21493234"/>
+    <nd ref="1216891096"/>
+    <nd ref="1043753106"/>
+    <nd ref="1216891135"/>
+    <nd ref="21493233"/>
+    <tag k="highway" v="living_street"/>
+    <tag k="maxheight" v="3.5"/>
+    <tag k="name" v="Passagehof"/>
+  </way>
+  <way id="71745110" version="7" timestamp="2011-10-10T18:39:11Z" uid="118352" user="kamarc" changeset="9524377">
+    <nd ref="21493234"/>
+    <nd ref="1216891096"/>
+    <tag k="cycleway" v="opposite"/>
+    <tag k="highway" v="living_street"/>
+    <tag k="maxheight" v="3.5"/>
+    <tag k="name" v="Passagehof"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+</osm>

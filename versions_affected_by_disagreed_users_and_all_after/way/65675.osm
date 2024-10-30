@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="65675773" version="1" timestamp="2010-07-04T14:57:10Z" uid="43967" user="railsnail" changeset="5133415">
+    <nd ref="410636978"/>
+    <nd ref="410636979"/>
+    <tag k="highway" v="track"/>
+  </way>
+  <way id="65675773" version="2" timestamp="2010-07-04T14:58:44Z" uid="43967" user="railsnail" changeset="5133415">
+    <nd ref="410636978"/>
+    <nd ref="410636979"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="track"/>
+    <tag k="layer" v="1"/>
+  </way>
+  <way id="65675851" version="1" timestamp="2010-07-04T14:57:44Z" uid="8619" user="cetest" changeset="5133579">
+    <nd ref="45145598"/>
+    <nd ref="45146535"/>
+    <nd ref="45147047"/>
+    <nd ref="45147050"/>
+    <tag k="AND:importance_level" v="5"/>
+    <tag k="AND_nosr_r" v="15155881"/>
+    <tag k="highway" v="cycleway"/>
+  </way>
+  <way id="65675851" version="2" timestamp="2010-11-28T21:59:33Z" uid="36080" user="polderrunner" changeset="6482549">
+    <nd ref="45147050"/>
+    <nd ref="45147047"/>
+    <nd ref="45146535"/>
+    <nd ref="45145598"/>
+    <tag k="AND:importance_level" v="5"/>
+    <tag k="AND_nosr_r" v="15155881"/>
+    <tag k="highway" v="cycleway"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="65675851" version="3" timestamp="2012-02-22T22:14:00Z" uid="476789" user="CeesW" changeset="10763972"/>
+</osm>

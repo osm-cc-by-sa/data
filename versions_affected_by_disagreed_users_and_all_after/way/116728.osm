@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="116728969" version="1" timestamp="2011-06-07T16:54:41Z" uid="33382" user="de_muur" changeset="8371854">
+    <nd ref="1315241479"/>
+    <nd ref="458848315"/>
+    <nd ref="458848316"/>
+    <nd ref="614872499"/>
+    <nd ref="1191390476"/>
+    <nd ref="1191390493"/>
+    <nd ref="458848317"/>
+    <nd ref="458848319"/>
+    <nd ref="614872500"/>
+    <nd ref="614872501"/>
+    <nd ref="614872503"/>
+    <nd ref="458848320"/>
+    <nd ref="614872504"/>
+    <nd ref="614872507"/>
+    <nd ref="458848325"/>
+    <nd ref="1191499294"/>
+    <nd ref="614872508"/>
+    <nd ref="1073077596"/>
+    <tag k="highway" v="track"/>
+    <tag k="surface" v="unpaved"/>
+    <tag k="tracktype" v="grade2"/>
+    <tag k="width" v="2"/>
+  </way>
+  <way id="116728970" version="1" timestamp="2011-06-07T16:54:41Z" uid="33382" user="de_muur" changeset="8371854">
+    <nd ref="1315241482"/>
+    <nd ref="1073934837"/>
+    <tag k="highway" v="track"/>
+    <tag k="surface" v="unpaved"/>
+    <tag k="tracktype" v="grade3"/>
+  </way>
+  <way id="116728971" version="1" timestamp="2011-06-07T16:54:42Z" uid="33382" user="de_muur" changeset="8371854">
+    <nd ref="1315241479"/>
+    <nd ref="1315241485"/>
+    <nd ref="1315241474"/>
+    <nd ref="1315241477"/>
+    <nd ref="1315241472"/>
+    <nd ref="1315241476"/>
+    <nd ref="1315241482"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="cycleway"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="116728971" version="2" timestamp="2011-07-18T07:42:04Z" uid="55462" user="Lübeck" changeset="8755210">
+    <nd ref="1315241479"/>
+    <nd ref="1315241485"/>
+    <nd ref="1315241474"/>
+    <nd ref="1315241477"/>
+    <nd ref="1315241472"/>
+    <nd ref="1315241476"/>
+    <nd ref="1315241482"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="path"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="116728972" version="1" timestamp="2011-06-07T16:54:42Z" uid="33382" user="de_muur" changeset="8371854">
+    <nd ref="1073934837"/>
+    <nd ref="1073935263"/>
+    <nd ref="1073935794"/>
+    <nd ref="1073935653"/>
+    <nd ref="1073935068"/>
+    <nd ref="21722179"/>
+    <tag k="highway" v="residential"/>
+  </way>
+</osm>

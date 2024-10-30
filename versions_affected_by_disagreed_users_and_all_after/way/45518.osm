@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="45518023" version="1" timestamp="2009-12-03T22:46:25Z" uid="30632" user="antblant" changeset="3284776">
+    <nd ref="580069360"/>
+    <nd ref="580069364"/>
+    <nd ref="580069368"/>
+    <nd ref="580069371"/>
+    <nd ref="580069360"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="soccer"/>
+  </way>
+  <way id="45518024" version="1" timestamp="2009-12-03T22:46:26Z" uid="30632" user="antblant" changeset="3284776">
+    <nd ref="285978891"/>
+    <nd ref="580069373"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="45518025" version="1" timestamp="2009-12-03T22:46:26Z" uid="30632" user="antblant" changeset="3284776">
+    <nd ref="580069373"/>
+    <nd ref="580069372"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="45518034" version="2" timestamp="2010-06-29T19:14:17Z" uid="74617" user="JohnSmith" changeset="5108182">
+    <nd ref="580069508"/>
+    <nd ref="580069509"/>
+    <nd ref="580069514"/>
+    <nd ref="580069516"/>
+    <nd ref="580069508"/>
+    <tag k="building" v="yes"/>
+    <tag k="fixme" v="sport=football is ambiguous, see http://wiki.osm.org/wiki/Football for more details"/>
+    <tag k="name" v="Indoor Practice Facility"/>
+    <tag k="sport" v="football"/>
+  </way>
+  <way id="45518762" version="4" timestamp="2010-06-02T00:53:07Z" uid="4467" user="Rosscoe" changeset="4879901">
+    <nd ref="580079537"/>
+    <nd ref="685051939"/>
+    <nd ref="685051940"/>
+    <nd ref="580079535"/>
+    <nd ref="580079536"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Ethel Creek Street"/>
+    <tag k="source" v="GPS"/>
+  </way>
+  <way id="45518763" version="3" timestamp="2010-06-01T08:22:40Z" uid="4467" user="Rosscoe" changeset="4872615">
+    <nd ref="303892603"/>
+    <nd ref="685051941"/>
+    <nd ref="580079534"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Carney Street"/>
+  </way>
+  <way id="45518763" version="4" timestamp="2011-05-14T12:41:52Z" uid="111508" user="HomerT51" changeset="8140459">
+    <nd ref="303892603"/>
+    <nd ref="685051941"/>
+    <nd ref="580079534"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Carney Street"/>
+  </way>
+</osm>

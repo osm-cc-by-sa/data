@@ -1,0 +1,909 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="52960082" version="2" timestamp="2010-07-26T02:00:41Z" uid="4467" user="Rosscoe" changeset="5317851">
+    <nd ref="671051879"/>
+    <nd ref="671051883"/>
+    <nd ref="671051888"/>
+    <tag k="highway" v="primary_link"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="52960094" version="2" timestamp="2010-07-26T02:00:09Z" uid="4467" user="Rosscoe" changeset="5317851">
+    <nd ref="671052452"/>
+    <nd ref="671052455"/>
+    <nd ref="671052456"/>
+    <nd ref="671052458"/>
+    <tag k="highway" v="primary_link"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="52960147" version="1" timestamp="2010-03-21T01:29:41Z" uid="137033" user="lubomir" changeset="4186726">
+    <nd ref="671053523"/>
+    <nd ref="671053525"/>
+    <nd ref="671053526"/>
+    <nd ref="671053520"/>
+    <nd ref="671053521"/>
+    <nd ref="671053522"/>
+    <nd ref="671053527"/>
+    <nd ref="671053523"/>
+    <tag k="landuse" v="grass"/>
+  </way>
+  <way id="52960229" version="2" timestamp="2010-07-07T08:23:00Z" uid="74617" user="JohnSmith" changeset="5156250">
+    <nd ref="671054526"/>
+    <nd ref="671054527"/>
+    <nd ref="150543726"/>
+    <nd ref="307366638"/>
+    <nd ref="307366656"/>
+    <nd ref="150543725"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Spigl Street"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="52960229" version="3" timestamp="2011-12-21T12:21:30Z" uid="12434" user="nm7s9" changeset="10171033">
+    <nd ref="671054526"/>
+    <nd ref="671054527"/>
+    <nd ref="150543726"/>
+    <nd ref="307366638"/>
+    <nd ref="307366656"/>
+    <nd ref="1557078093"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Spigl Street"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="52960229" version="4" timestamp="2012-01-20T04:22:46Z" uid="147510" user="woodpeck_fixbot" changeset="10442986">
+    <nd ref="671054526"/>
+    <nd ref="671054527"/>
+    <nd ref="150543726"/>
+    <nd ref="307366638"/>
+    <nd ref="307366656"/>
+    <nd ref="1557078093"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="1"/>
+    <tag k="name" v="Spigl Street"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="52960230" version="2" timestamp="2010-07-07T08:26:27Z" uid="74617" user="JohnSmith" changeset="5156250">
+    <nd ref="150543725"/>
+    <nd ref="150543724"/>
+    <nd ref="150543723"/>
+    <nd ref="150543722"/>
+    <nd ref="150543718"/>
+    <nd ref="150543721"/>
+    <nd ref="150543720"/>
+    <nd ref="93736110"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Spigl Street"/>
+  </way>
+  <way id="52960230" version="3" timestamp="2011-12-21T12:21:30Z" uid="12434" user="nm7s9" changeset="10171033"/>
+  <way id="52960499" version="1" timestamp="2010-03-21T01:47:48Z" uid="7617" user="Franc" changeset="4186778">
+    <nd ref="671058377"/>
+    <nd ref="671058425"/>
+    <nd ref="671058436"/>
+    <nd ref="671058434"/>
+    <nd ref="671058435"/>
+    <nd ref="671058405"/>
+    <nd ref="671058406"/>
+    <nd ref="671058407"/>
+    <nd ref="671058408"/>
+    <nd ref="671058409"/>
+    <nd ref="671058410"/>
+    <nd ref="671058379"/>
+    <nd ref="671058375"/>
+    <nd ref="671058377"/>
+    <tag k="landuse" v="recreation_ground"/>
+  </way>
+  <way id="52960500" version="1" timestamp="2010-03-21T01:47:48Z" uid="7617" user="Franc" changeset="4186778">
+    <nd ref="671058396"/>
+    <nd ref="671058427"/>
+    <nd ref="671058426"/>
+    <nd ref="671058429"/>
+    <nd ref="671058428"/>
+    <nd ref="671058398"/>
+    <nd ref="671058397"/>
+    <nd ref="671058395"/>
+    <nd ref="671058396"/>
+    <tag k="amenity" v="parking"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="52960501" version="1" timestamp="2010-03-21T01:47:48Z" uid="7617" user="Franc" changeset="4186778">
+    <nd ref="671058399"/>
+    <nd ref="671058400"/>
+    <tag k="highway" v="service"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="52960502" version="1" timestamp="2010-03-21T01:47:48Z" uid="7617" user="Franc" changeset="4186778">
+    <nd ref="671058383"/>
+    <nd ref="671058384"/>
+    <nd ref="671058385"/>
+    <nd ref="671058380"/>
+    <nd ref="671058381"/>
+    <nd ref="671058382"/>
+    <nd ref="671058383"/>
+    <tag k="amenity" v="parking"/>
+    <tag k="capacity" v="14"/>
+    <tag k="capacity:disabled" v="1"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="52960503" version="1" timestamp="2010-03-21T01:47:48Z" uid="7617" user="Franc" changeset="4186778">
+    <nd ref="671058378"/>
+    <nd ref="671058386"/>
+    <nd ref="671058388"/>
+    <tag k="highway" v="service"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="52960504" version="1" timestamp="2010-03-21T01:47:48Z" uid="7617" user="Franc" changeset="4186778">
+    <nd ref="671058390"/>
+    <nd ref="671058389"/>
+    <nd ref="671058391"/>
+    <nd ref="671058394"/>
+    <nd ref="671058393"/>
+    <nd ref="671058392"/>
+    <nd ref="671058411"/>
+    <nd ref="671058376"/>
+    <nd ref="671058390"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="52960505" version="1" timestamp="2010-03-21T01:47:48Z" uid="7617" user="Franc" changeset="4186778">
+    <nd ref="671058418"/>
+    <nd ref="671058416"/>
+    <nd ref="671058415"/>
+    <nd ref="671058414"/>
+    <nd ref="671058413"/>
+    <nd ref="671058412"/>
+    <nd ref="671058421"/>
+    <nd ref="671058422"/>
+    <nd ref="671058417"/>
+    <nd ref="671058419"/>
+    <nd ref="671058418"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="52960852" version="1" timestamp="2010-03-21T02:05:56Z" uid="9719" user="dvaey" changeset="4186842">
+    <nd ref="671062474"/>
+    <nd ref="671062475"/>
+    <nd ref="671062476"/>
+    <nd ref="671062477"/>
+    <nd ref="671062479"/>
+    <nd ref="671062480"/>
+    <nd ref="671062481"/>
+    <nd ref="671062482"/>
+    <nd ref="671062483"/>
+    <nd ref="671062484"/>
+    <nd ref="671062485"/>
+    <tag k="railway" v="platform"/>
+  </way>
+  <way id="52960852" version="2" timestamp="2011-06-27T12:26:15Z" uid="37744" user="David Leonard" changeset="8561582">
+    <nd ref="671062474"/>
+    <nd ref="671062475"/>
+    <nd ref="671062476"/>
+    <nd ref="671062477"/>
+    <nd ref="671062479"/>
+    <nd ref="671062480"/>
+    <nd ref="671062481"/>
+    <nd ref="671062482"/>
+    <nd ref="671062483"/>
+    <nd ref="671062484"/>
+    <nd ref="671062485"/>
+    <tag k="name" v="1"/>
+    <tag k="railway" v="platform"/>
+  </way>
+  <way id="52960853" version="1" timestamp="2010-03-21T02:05:57Z" uid="9719" user="dvaey" changeset="4186842">
+    <nd ref="671062486"/>
+    <nd ref="671062487"/>
+    <nd ref="671062488"/>
+    <nd ref="671062489"/>
+    <nd ref="671062490"/>
+    <nd ref="671062493"/>
+    <nd ref="671062494"/>
+    <nd ref="671062495"/>
+    <nd ref="671062496"/>
+    <nd ref="671062497"/>
+    <tag k="railway" v="platform"/>
+  </way>
+  <way id="52960853" version="2" timestamp="2011-06-27T12:26:16Z" uid="37744" user="David Leonard" changeset="8561582">
+    <nd ref="671062486"/>
+    <nd ref="671062487"/>
+    <nd ref="671062488"/>
+    <nd ref="671062489"/>
+    <nd ref="671062490"/>
+    <nd ref="671062493"/>
+    <nd ref="671062494"/>
+    <nd ref="671062495"/>
+    <nd ref="671062496"/>
+    <nd ref="671062497"/>
+    <tag k="name" v="2"/>
+    <tag k="railway" v="platform"/>
+  </way>
+  <way id="52960854" version="1" timestamp="2010-03-21T02:05:57Z" uid="9719" user="dvaey" changeset="4186842">
+    <nd ref="671062493"/>
+    <nd ref="671062499"/>
+    <nd ref="671062500"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="52960855" version="1" timestamp="2010-03-21T02:05:58Z" uid="9719" user="dvaey" changeset="4186842">
+    <nd ref="671062500"/>
+    <nd ref="671062502"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="footway"/>
+    <tag k="layer" v="1"/>
+  </way>
+  <way id="52960856" version="1" timestamp="2010-03-21T02:05:58Z" uid="9719" user="dvaey" changeset="4186842">
+    <nd ref="671062502"/>
+    <nd ref="671062503"/>
+    <nd ref="671062480"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="52960859" version="1" timestamp="2010-03-21T02:06:11Z" uid="9719" user="dvaey" changeset="4186842">
+    <nd ref="671062518"/>
+    <nd ref="671062520"/>
+    <nd ref="671062521"/>
+    <nd ref="671062523"/>
+    <nd ref="671062524"/>
+    <nd ref="671062525"/>
+    <nd ref="671062526"/>
+    <nd ref="671062527"/>
+    <nd ref="671062528"/>
+    <nd ref="671062529"/>
+    <nd ref="671062530"/>
+    <nd ref="671062532"/>
+    <nd ref="671062534"/>
+    <nd ref="671062535"/>
+    <nd ref="671062537"/>
+    <nd ref="671062538"/>
+    <nd ref="671062539"/>
+    <nd ref="671062540"/>
+    <nd ref="671062541"/>
+    <nd ref="671062543"/>
+    <nd ref="671062545"/>
+    <nd ref="671062546"/>
+    <nd ref="671062547"/>
+    <nd ref="671062548"/>
+    <nd ref="671062549"/>
+    <nd ref="671062550"/>
+    <nd ref="671062551"/>
+    <nd ref="671062553"/>
+    <nd ref="671062554"/>
+    <nd ref="671062555"/>
+    <nd ref="671062557"/>
+    <nd ref="671062558"/>
+    <nd ref="671062559"/>
+    <nd ref="671062560"/>
+    <nd ref="671062561"/>
+    <nd ref="671062562"/>
+    <nd ref="671062563"/>
+    <nd ref="671062564"/>
+    <nd ref="671062565"/>
+    <nd ref="671062566"/>
+    <nd ref="671062568"/>
+    <nd ref="671062569"/>
+    <nd ref="671062570"/>
+    <nd ref="671062571"/>
+    <nd ref="671062572"/>
+    <nd ref="671062573"/>
+    <nd ref="671062576"/>
+    <nd ref="671062577"/>
+    <nd ref="671062578"/>
+    <nd ref="671062579"/>
+    <nd ref="671062580"/>
+    <nd ref="671062581"/>
+    <nd ref="671062583"/>
+    <nd ref="671062584"/>
+    <nd ref="671062585"/>
+    <nd ref="671062586"/>
+    <nd ref="671062588"/>
+    <nd ref="671062591"/>
+    <nd ref="671062595"/>
+    <nd ref="671062611"/>
+    <nd ref="671062612"/>
+    <nd ref="671062613"/>
+    <nd ref="671062614"/>
+    <nd ref="671062616"/>
+    <nd ref="671062618"/>
+    <nd ref="671062619"/>
+    <nd ref="671062620"/>
+    <nd ref="671062621"/>
+    <nd ref="671062622"/>
+    <nd ref="671062623"/>
+    <nd ref="671062624"/>
+    <nd ref="671062625"/>
+    <nd ref="671062627"/>
+    <nd ref="671062628"/>
+    <nd ref="671062630"/>
+    <nd ref="671062631"/>
+    <nd ref="671062632"/>
+    <nd ref="671062633"/>
+    <nd ref="671062634"/>
+    <nd ref="671062635"/>
+    <nd ref="671062636"/>
+    <nd ref="671062637"/>
+    <nd ref="671062639"/>
+    <nd ref="671062640"/>
+    <nd ref="671062641"/>
+    <nd ref="671062642"/>
+    <nd ref="671062643"/>
+    <nd ref="671062644"/>
+    <nd ref="671062645"/>
+    <nd ref="671062647"/>
+    <tag k="railway" v="rail"/>
+  </way>
+  <way id="52960859" version="2" timestamp="2010-05-27T09:55:15Z" uid="74617" user="JohnSmith" changeset="4820562">
+    <nd ref="671062518"/>
+    <nd ref="671062520"/>
+    <nd ref="671062521"/>
+    <nd ref="671062523"/>
+    <nd ref="671062524"/>
+    <nd ref="671062525"/>
+    <nd ref="671062526"/>
+    <nd ref="671062527"/>
+    <nd ref="671062528"/>
+    <nd ref="671062529"/>
+    <nd ref="671062530"/>
+    <nd ref="671062532"/>
+    <nd ref="671062534"/>
+    <nd ref="671062535"/>
+    <nd ref="671062537"/>
+    <nd ref="671062538"/>
+    <nd ref="671062539"/>
+    <nd ref="671062540"/>
+    <nd ref="671062541"/>
+    <nd ref="671062543"/>
+    <nd ref="671062545"/>
+    <nd ref="671062546"/>
+    <nd ref="671062547"/>
+    <nd ref="671062548"/>
+    <nd ref="671062549"/>
+    <nd ref="671062550"/>
+    <nd ref="671062551"/>
+    <nd ref="671062553"/>
+    <nd ref="671062554"/>
+    <nd ref="671062555"/>
+    <nd ref="671062557"/>
+    <nd ref="671062558"/>
+    <nd ref="671062559"/>
+    <nd ref="671062560"/>
+    <nd ref="671062561"/>
+    <nd ref="671062562"/>
+    <nd ref="671062563"/>
+    <nd ref="671062564"/>
+    <nd ref="671062565"/>
+    <nd ref="671062566"/>
+    <nd ref="671062568"/>
+    <nd ref="671062569"/>
+    <nd ref="671062570"/>
+    <nd ref="671062571"/>
+    <nd ref="671062572"/>
+    <nd ref="671062573"/>
+    <nd ref="671062576"/>
+    <nd ref="671062577"/>
+    <nd ref="671062578"/>
+    <nd ref="671062579"/>
+    <nd ref="671062580"/>
+    <nd ref="671062581"/>
+    <nd ref="671062583"/>
+    <nd ref="671062584"/>
+    <nd ref="671062585"/>
+    <nd ref="671062586"/>
+    <nd ref="671062588"/>
+    <nd ref="671062591"/>
+    <nd ref="671062595"/>
+    <nd ref="671062611"/>
+    <nd ref="671062612"/>
+    <nd ref="671062613"/>
+    <nd ref="671062614"/>
+    <nd ref="671062616"/>
+    <nd ref="671062618"/>
+    <nd ref="671062619"/>
+    <nd ref="671062620"/>
+    <nd ref="671062621"/>
+    <nd ref="671062622"/>
+    <nd ref="671062623"/>
+    <nd ref="671062624"/>
+    <nd ref="671062625"/>
+    <nd ref="671062627"/>
+    <nd ref="671062628"/>
+    <nd ref="671062630"/>
+    <nd ref="671062631"/>
+    <nd ref="671062632"/>
+    <nd ref="671062633"/>
+    <nd ref="671062634"/>
+    <nd ref="671062635"/>
+    <nd ref="671062636"/>
+    <nd ref="671062637"/>
+    <nd ref="671062639"/>
+    <nd ref="671062640"/>
+    <nd ref="671062641"/>
+    <nd ref="671062642"/>
+    <nd ref="671062643"/>
+    <nd ref="671062644"/>
+    <tag k="railway" v="rail"/>
+  </way>
+  <way id="52960859" version="3" timestamp="2010-05-31T03:11:59Z" uid="74617" user="JohnSmith" changeset="4859196">
+    <nd ref="671062518"/>
+    <nd ref="671062520"/>
+    <nd ref="671062521"/>
+    <nd ref="671062523"/>
+    <nd ref="671062524"/>
+    <nd ref="671062525"/>
+    <nd ref="671062526"/>
+    <nd ref="671062527"/>
+    <nd ref="671062528"/>
+    <nd ref="671062529"/>
+    <nd ref="671062530"/>
+    <nd ref="671062532"/>
+    <nd ref="671062534"/>
+    <nd ref="671062535"/>
+    <nd ref="671062537"/>
+    <nd ref="671062538"/>
+    <nd ref="671062539"/>
+    <nd ref="671062540"/>
+    <nd ref="671062541"/>
+    <nd ref="671062543"/>
+    <nd ref="671062545"/>
+    <nd ref="671062546"/>
+    <nd ref="671062547"/>
+    <nd ref="671062548"/>
+    <nd ref="671062549"/>
+    <nd ref="671062550"/>
+    <nd ref="671062551"/>
+    <nd ref="671062553"/>
+    <nd ref="671062554"/>
+    <nd ref="671062555"/>
+    <nd ref="671062557"/>
+    <nd ref="671062558"/>
+    <nd ref="671062559"/>
+    <nd ref="671062560"/>
+    <nd ref="671062561"/>
+    <nd ref="671062562"/>
+    <nd ref="671062563"/>
+    <nd ref="671062564"/>
+    <nd ref="671062565"/>
+    <nd ref="671062566"/>
+    <nd ref="671062568"/>
+    <nd ref="671062569"/>
+    <nd ref="671062570"/>
+    <nd ref="671062571"/>
+    <nd ref="671062572"/>
+    <nd ref="671062573"/>
+    <nd ref="671062576"/>
+    <nd ref="671062577"/>
+    <nd ref="671062578"/>
+    <nd ref="671062579"/>
+    <nd ref="671062580"/>
+    <nd ref="671062581"/>
+    <nd ref="671062584"/>
+    <nd ref="671062586"/>
+    <nd ref="671062591"/>
+    <nd ref="671062595"/>
+    <nd ref="671062612"/>
+    <nd ref="671062613"/>
+    <nd ref="671062620"/>
+    <nd ref="671062621"/>
+    <nd ref="671062623"/>
+    <nd ref="671062625"/>
+    <nd ref="671062627"/>
+    <nd ref="671062628"/>
+    <nd ref="671062630"/>
+    <nd ref="671062631"/>
+    <nd ref="671062632"/>
+    <nd ref="671062633"/>
+    <nd ref="671062634"/>
+    <nd ref="671062635"/>
+    <nd ref="671062636"/>
+    <nd ref="671062637"/>
+    <nd ref="671062639"/>
+    <nd ref="671062640"/>
+    <nd ref="671062641"/>
+    <nd ref="671062642"/>
+    <nd ref="760159337"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="52960859" version="4" timestamp="2010-05-31T03:36:35Z" uid="74617" user="JohnSmith" changeset="4859196">
+    <nd ref="760161612"/>
+    <nd ref="760161627"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="52960860" version="1" timestamp="2010-03-21T02:06:21Z" uid="9719" user="dvaey" changeset="4186842">
+    <nd ref="671062672"/>
+    <nd ref="671062673"/>
+    <nd ref="671062674"/>
+    <nd ref="671062675"/>
+    <nd ref="671062676"/>
+    <nd ref="671062677"/>
+    <nd ref="671062678"/>
+    <nd ref="671062679"/>
+    <nd ref="671062680"/>
+    <nd ref="671062681"/>
+    <nd ref="671062682"/>
+    <nd ref="671062683"/>
+    <nd ref="671062684"/>
+    <nd ref="671062685"/>
+    <nd ref="671062686"/>
+    <nd ref="671062688"/>
+    <nd ref="671062689"/>
+    <nd ref="671062690"/>
+    <nd ref="671062691"/>
+    <nd ref="671062692"/>
+    <nd ref="671062693"/>
+    <nd ref="671062694"/>
+    <nd ref="671062696"/>
+    <nd ref="671062698"/>
+    <nd ref="671062699"/>
+    <nd ref="671062700"/>
+    <nd ref="671062701"/>
+    <nd ref="671062702"/>
+    <nd ref="671062703"/>
+    <nd ref="671062704"/>
+    <nd ref="671062705"/>
+    <nd ref="671062706"/>
+    <nd ref="671062707"/>
+    <nd ref="671062708"/>
+    <nd ref="671062709"/>
+    <nd ref="671062711"/>
+    <nd ref="671062712"/>
+    <nd ref="671062713"/>
+    <nd ref="671062714"/>
+    <nd ref="671062715"/>
+    <nd ref="671062716"/>
+    <nd ref="671062717"/>
+    <nd ref="671062718"/>
+    <nd ref="671062720"/>
+    <nd ref="671062721"/>
+    <nd ref="671062722"/>
+    <nd ref="671062723"/>
+    <nd ref="671062724"/>
+    <nd ref="671062725"/>
+    <nd ref="671062726"/>
+    <nd ref="671062727"/>
+    <nd ref="671062729"/>
+    <nd ref="671062730"/>
+    <nd ref="671062731"/>
+    <tag k="railway" v="rail"/>
+  </way>
+  <way id="52960860" version="2" timestamp="2010-05-31T03:12:01Z" uid="74617" user="JohnSmith" changeset="4859196"/>
+  <way id="52960861" version="1" timestamp="2010-03-21T02:06:34Z" uid="9719" user="dvaey" changeset="4186842">
+    <nd ref="671062814"/>
+    <nd ref="671062815"/>
+    <nd ref="671062816"/>
+    <nd ref="671062817"/>
+    <nd ref="671062819"/>
+    <nd ref="671062820"/>
+    <nd ref="671062821"/>
+    <nd ref="671062822"/>
+    <nd ref="671062823"/>
+    <nd ref="671062824"/>
+    <nd ref="671062825"/>
+    <nd ref="671062826"/>
+    <nd ref="671062827"/>
+    <nd ref="671062828"/>
+    <nd ref="671062829"/>
+    <nd ref="671062830"/>
+    <nd ref="671062831"/>
+    <nd ref="671062832"/>
+    <nd ref="671062834"/>
+    <nd ref="671062835"/>
+    <nd ref="671062836"/>
+    <nd ref="671062837"/>
+    <nd ref="671062838"/>
+    <nd ref="671062839"/>
+    <nd ref="671062840"/>
+    <nd ref="671062841"/>
+    <nd ref="671062842"/>
+    <nd ref="671062843"/>
+    <nd ref="671062844"/>
+    <nd ref="671062845"/>
+    <nd ref="671062846"/>
+    <nd ref="671062847"/>
+    <nd ref="671062849"/>
+    <nd ref="671062850"/>
+    <nd ref="671062851"/>
+    <nd ref="671062852"/>
+    <nd ref="671062702"/>
+    <tag k="railway" v="rail"/>
+  </way>
+  <way id="52960861" version="2" timestamp="2010-05-16T02:08:49Z" uid="74617" user="JohnSmith" changeset="4711890">
+    <nd ref="671062814"/>
+    <nd ref="671062815"/>
+    <nd ref="671062816"/>
+    <nd ref="671062817"/>
+    <nd ref="735989110"/>
+    <nd ref="671062819"/>
+    <nd ref="671062820"/>
+    <nd ref="671062821"/>
+    <nd ref="671062822"/>
+    <nd ref="671062823"/>
+    <nd ref="671062824"/>
+    <nd ref="671062825"/>
+    <nd ref="671062826"/>
+    <nd ref="671062827"/>
+    <nd ref="671062828"/>
+    <nd ref="671062829"/>
+    <nd ref="671062830"/>
+    <nd ref="671062831"/>
+    <nd ref="671062832"/>
+    <nd ref="671062834"/>
+    <nd ref="671062835"/>
+    <nd ref="671062836"/>
+    <nd ref="671062837"/>
+    <nd ref="671062838"/>
+    <nd ref="671062839"/>
+    <nd ref="671062840"/>
+    <nd ref="671062841"/>
+    <nd ref="671062842"/>
+    <nd ref="671062843"/>
+    <nd ref="671062844"/>
+    <nd ref="671062845"/>
+    <nd ref="671062846"/>
+    <nd ref="671062847"/>
+    <nd ref="671062849"/>
+    <nd ref="671062850"/>
+    <nd ref="671062851"/>
+    <nd ref="671062852"/>
+    <nd ref="671062702"/>
+    <tag k="railway" v="rail"/>
+  </way>
+  <way id="52960861" version="3" timestamp="2010-05-31T03:36:35Z" uid="74617" user="JohnSmith" changeset="4859196">
+    <nd ref="671062814"/>
+    <nd ref="671062815"/>
+    <nd ref="671062816"/>
+    <nd ref="671062817"/>
+    <nd ref="735989110"/>
+    <nd ref="671062819"/>
+    <nd ref="671062820"/>
+    <nd ref="671062821"/>
+    <nd ref="671062822"/>
+    <nd ref="671062823"/>
+    <nd ref="671062824"/>
+    <nd ref="671062825"/>
+    <nd ref="671062826"/>
+    <nd ref="671062827"/>
+    <nd ref="671062828"/>
+    <nd ref="671062829"/>
+    <nd ref="671062830"/>
+    <nd ref="671062831"/>
+    <nd ref="671062832"/>
+    <nd ref="671062834"/>
+    <nd ref="671062835"/>
+    <nd ref="671062836"/>
+    <nd ref="671062837"/>
+    <nd ref="671062838"/>
+    <nd ref="671062839"/>
+    <nd ref="671062840"/>
+    <nd ref="671062841"/>
+    <nd ref="671062842"/>
+    <nd ref="671062843"/>
+    <nd ref="671062844"/>
+    <nd ref="671062845"/>
+    <nd ref="671062846"/>
+    <nd ref="671062847"/>
+    <nd ref="671062849"/>
+    <nd ref="671062850"/>
+    <nd ref="671062851"/>
+    <nd ref="671062852"/>
+    <nd ref="671062702"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="52960861" version="4" timestamp="2011-08-04T08:45:33Z" uid="22094" user="Chadzopkyo" changeset="8917544">
+    <nd ref="1385793026"/>
+    <nd ref="1385793029"/>
+    <nd ref="1385793030"/>
+    <nd ref="1385793031"/>
+    <nd ref="1385793032"/>
+    <nd ref="1385793033"/>
+    <nd ref="1385793039"/>
+    <nd ref="1385793041"/>
+    <nd ref="1385793043"/>
+    <nd ref="1385793045"/>
+    <nd ref="1385793047"/>
+    <nd ref="1385793048"/>
+    <nd ref="1385793049"/>
+    <nd ref="1385793050"/>
+    <nd ref="1385793051"/>
+    <nd ref="1385793052"/>
+    <nd ref="1385793053"/>
+    <nd ref="1385793060"/>
+    <nd ref="1385793062"/>
+    <nd ref="1385793064"/>
+    <nd ref="671062814"/>
+    <nd ref="671062815"/>
+    <nd ref="671062816"/>
+    <nd ref="671062817"/>
+    <nd ref="735989110"/>
+    <nd ref="671062819"/>
+    <nd ref="671062820"/>
+    <nd ref="671062821"/>
+    <nd ref="671062822"/>
+    <nd ref="671062823"/>
+    <nd ref="671062824"/>
+    <nd ref="671062825"/>
+    <nd ref="671062826"/>
+    <nd ref="671062827"/>
+    <nd ref="671062828"/>
+    <tag k="railway" v="disused"/>
+    <tag k="service" v="spur"/>
+    <tag k="source" v="Bing maps;survey"/>
+  </way>
+  <way id="52960887" version="1" timestamp="2010-03-21T02:09:11Z" uid="9719" user="dvaey" changeset="4186842">
+    <nd ref="309626816"/>
+    <nd ref="671062761"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="52960921" version="2" timestamp="2010-03-28T11:54:21Z" uid="20587" user="balrog-kun" changeset="4254597">
+    <nd ref="65573159"/>
+    <nd ref="276835538"/>
+    <nd ref="273370339"/>
+    <nd ref="276835539"/>
+    <nd ref="65582690"/>
+    <nd ref="276835537"/>
+    <nd ref="273369532"/>
+    <nd ref="273369533"/>
+    <nd ref="65429446"/>
+    <nd ref="65565444"/>
+    <nd ref="65582692"/>
+    <nd ref="65582693"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Deodara Drive"/>
+    <tag k="name_1" v="Deodora Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Santa Clara, CA"/>
+    <tag k="tiger:name_base" v="Deodara"/>
+    <tag k="tiger:name_base_1" v="Deodora"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:name_type_1" v="Dr"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="123015415:122935887"/>
+  </way>
+  <way id="52960961" version="3" timestamp="2010-06-22T13:49:53Z" uid="4467" user="Rosscoe" changeset="5051335">
+    <nd ref="671064979"/>
+    <nd ref="671064841"/>
+    <nd ref="203540564"/>
+    <nd ref="296115358"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="52960961" version="4" timestamp="2010-07-06T17:25:15Z" uid="74617" user="JohnSmith" changeset="5152225">
+    <nd ref="671064979"/>
+    <nd ref="671064841"/>
+    <nd ref="203540564"/>
+    <nd ref="296115358"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="52960961" version="5" timestamp="2012-01-20T04:22:48Z" uid="147510" user="woodpeck_fixbot" changeset="10442986">
+    <nd ref="671064979"/>
+    <nd ref="671064841"/>
+    <nd ref="203540564"/>
+    <nd ref="296115358"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="52960962" version="2" timestamp="2010-06-22T13:54:01Z" uid="4467" user="Rosscoe" changeset="5051335">
+    <nd ref="671064978"/>
+    <nd ref="671064979"/>
+    <nd ref="671064981"/>
+    <nd ref="671064982"/>
+    <nd ref="671064983"/>
+    <nd ref="671064984"/>
+    <nd ref="671064985"/>
+    <nd ref="671064986"/>
+    <nd ref="671064987"/>
+    <nd ref="671064988"/>
+    <nd ref="781822024"/>
+    <nd ref="671064990"/>
+    <nd ref="671064991"/>
+    <nd ref="671064992"/>
+    <nd ref="671064994"/>
+    <nd ref="671064995"/>
+    <nd ref="671064997"/>
+    <nd ref="671064978"/>
+    <tag k="highway" v="residential"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="52960962" version="3" timestamp="2010-07-06T17:31:18Z" uid="74617" user="JohnSmith" changeset="5152225">
+    <nd ref="671064978"/>
+    <nd ref="671064979"/>
+    <nd ref="671064981"/>
+    <nd ref="671064982"/>
+    <nd ref="671064983"/>
+    <nd ref="671064984"/>
+    <nd ref="671064985"/>
+    <nd ref="671064986"/>
+    <nd ref="671064987"/>
+    <nd ref="671064988"/>
+    <nd ref="781822024"/>
+    <nd ref="671064990"/>
+    <nd ref="671064991"/>
+    <nd ref="671064992"/>
+    <nd ref="671064994"/>
+    <nd ref="671064995"/>
+    <nd ref="671064997"/>
+    <nd ref="671064978"/>
+    <tag k="highway" v="residential"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="52960962" version="4" timestamp="2012-01-20T04:22:49Z" uid="147510" user="woodpeck_fixbot" changeset="10442986">
+    <nd ref="671064978"/>
+    <nd ref="671064979"/>
+    <nd ref="671064981"/>
+    <nd ref="671064982"/>
+    <nd ref="671064983"/>
+    <nd ref="671064984"/>
+    <nd ref="671064985"/>
+    <nd ref="671064986"/>
+    <nd ref="671064987"/>
+    <nd ref="671064988"/>
+    <nd ref="781822024"/>
+    <nd ref="671064990"/>
+    <nd ref="671064991"/>
+    <nd ref="671064992"/>
+    <nd ref="671064994"/>
+    <nd ref="671064995"/>
+    <nd ref="671064997"/>
+    <nd ref="671064978"/>
+    <tag k="highway" v="residential"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="52960963" version="1" timestamp="2010-03-21T02:16:31Z" uid="137033" user="lubomir" changeset="4186873">
+    <nd ref="671039558"/>
+    <nd ref="671039559"/>
+    <nd ref="671039560"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="52960964" version="1" timestamp="2010-03-21T02:16:32Z" uid="137033" user="lubomir" changeset="4186873">
+    <nd ref="671065142"/>
+    <nd ref="671065143"/>
+    <nd ref="671065144"/>
+    <nd ref="671065145"/>
+    <nd ref="671065142"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="52960974" version="2" timestamp="2010-06-22T13:50:57Z" uid="4467" user="Rosscoe" changeset="5051335">
+    <nd ref="671065353"/>
+    <nd ref="671065354"/>
+    <nd ref="671064984"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="52960974" version="3" timestamp="2010-07-06T17:32:33Z" uid="74617" user="JohnSmith" changeset="5152225">
+    <nd ref="671065353"/>
+    <nd ref="671065354"/>
+    <nd ref="671064984"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="52960974" version="4" timestamp="2012-01-20T04:22:51Z" uid="147510" user="woodpeck_fixbot" changeset="10442986">
+    <nd ref="671065353"/>
+    <nd ref="671065354"/>
+    <nd ref="671064984"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+</osm>

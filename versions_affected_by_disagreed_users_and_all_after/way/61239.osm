@@ -1,0 +1,2455 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="61239286" version="1" timestamp="2010-06-05T23:29:39Z" uid="4467" user="Rosscoe" changeset="4913458">
+    <nd ref="765371584"/>
+    <nd ref="282153133"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="61239286" version="2" timestamp="2010-07-09T08:07:17Z" uid="74617" user="JohnSmith" changeset="5171412">
+    <nd ref="765371584"/>
+    <nd ref="282153133"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="61239354" version="1" timestamp="2010-06-05T23:29:41Z" uid="4467" user="Rosscoe" changeset="4913458">
+    <nd ref="765372056"/>
+    <nd ref="282152757"/>
+    <nd ref="282152758"/>
+    <nd ref="178503931"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Figtree Drive"/>
+  </way>
+  <way id="61239354" version="2" timestamp="2010-07-09T07:57:04Z" uid="74617" user="JohnSmith" changeset="5171412">
+    <nd ref="765372056"/>
+    <nd ref="282152757"/>
+    <nd ref="282152758"/>
+    <nd ref="178503931"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Figtree Drive"/>
+  </way>
+  <way id="61239354" version="3" timestamp="2010-11-15T03:19:20Z" uid="294850" user="Q4004" changeset="6374711">
+    <nd ref="765372056"/>
+    <nd ref="282152757"/>
+    <nd ref="282152758"/>
+    <nd ref="178503931"/>
+    <nd ref="989698895"/>
+    <nd ref="989698896"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Figtree Drive"/>
+  </way>
+  <way id="61239423" version="1" timestamp="2010-06-05T23:29:53Z" uid="4467" user="Rosscoe" changeset="4913458">
+    <nd ref="765372233"/>
+    <nd ref="765372470"/>
+    <nd ref="765372056"/>
+    <nd ref="765371705"/>
+    <nd ref="765371584"/>
+    <nd ref="765372136"/>
+    <nd ref="765371868"/>
+    <nd ref="765371630"/>
+    <nd ref="765372233"/>
+    <tag k="highway" v="residential"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="61239423" version="2" timestamp="2010-07-09T08:07:26Z" uid="74617" user="JohnSmith" changeset="5171412">
+    <nd ref="765372233"/>
+    <nd ref="765372470"/>
+    <nd ref="765372056"/>
+    <nd ref="765371705"/>
+    <nd ref="765371584"/>
+    <nd ref="765372136"/>
+    <nd ref="765371868"/>
+    <nd ref="765371630"/>
+    <nd ref="765372233"/>
+    <tag k="highway" v="residential"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="61239423" version="3" timestamp="2011-10-16T06:34:35Z" uid="346429" user="Bluey" changeset="9569285">
+    <nd ref="765372233"/>
+    <nd ref="765372470"/>
+    <nd ref="765372056"/>
+    <nd ref="765371705"/>
+    <nd ref="765371584"/>
+    <nd ref="765372136"/>
+    <nd ref="765371868"/>
+    <nd ref="765371630"/>
+    <nd ref="765372233"/>
+    <tag k="highway" v="residential"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Figtree Drive"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="61239436" version="1" timestamp="2010-06-05T23:32:24Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="318495986"/>
+    <nd ref="765373913"/>
+    <nd ref="765373825"/>
+    <nd ref="765372781"/>
+    <nd ref="765373239"/>
+    <nd ref="765373546"/>
+    <nd ref="765373750"/>
+    <nd ref="765372839"/>
+    <nd ref="765373159"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="61239436" version="2" timestamp="2010-06-06T03:31:41Z" uid="20587" user="balrog-kun" changeset="4914136">
+    <nd ref="318495986"/>
+    <nd ref="765373913"/>
+    <nd ref="765373825"/>
+    <nd ref="765372781"/>
+    <nd ref="765402561"/>
+    <nd ref="765373239"/>
+    <nd ref="765373546"/>
+    <nd ref="765373750"/>
+    <nd ref="765372839"/>
+    <nd ref="765373159"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="lanes" v="2"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="61239437" version="1" timestamp="2010-06-05T23:32:24Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373837"/>
+    <nd ref="765372945"/>
+    <nd ref="765373256"/>
+    <nd ref="765373695"/>
+    <nd ref="765373969"/>
+    <nd ref="765373083"/>
+    <nd ref="765373386"/>
+    <nd ref="765373294"/>
+    <nd ref="765373601"/>
+    <nd ref="765372665"/>
+    <nd ref="765372893"/>
+    <nd ref="765373561"/>
+    <tag k="cycleway" v="track"/>
+    <tag k="highway" v="cycleway"/>
+  </way>
+  <way id="61239437" version="2" timestamp="2010-06-06T03:31:59Z" uid="20587" user="balrog-kun" changeset="4914136">
+    <nd ref="765373837"/>
+    <nd ref="765372945"/>
+    <nd ref="765373256"/>
+    <nd ref="765373695"/>
+    <nd ref="765373969"/>
+    <nd ref="765373083"/>
+    <nd ref="765373386"/>
+    <nd ref="765373294"/>
+    <nd ref="765373601"/>
+    <nd ref="765372665"/>
+    <nd ref="765372893"/>
+    <nd ref="765373561"/>
+    <nd ref="765402296"/>
+    <nd ref="765402696"/>
+    <tag k="cycleway" v="track"/>
+    <tag k="highway" v="cycleway"/>
+  </way>
+  <way id="61239438" version="1" timestamp="2010-06-05T23:32:24Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="280378133"/>
+    <nd ref="765372845"/>
+    <nd ref="765373689"/>
+    <nd ref="765373872"/>
+    <nd ref="765373668"/>
+    <nd ref="765372984"/>
+    <nd ref="765373795"/>
+    <nd ref="765372666"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239439" version="1" timestamp="2010-06-05T23:32:24Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373656"/>
+    <nd ref="254021467"/>
+    <nd ref="765373871"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239440" version="1" timestamp="2010-06-05T23:32:24Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765372918"/>
+    <nd ref="765372826"/>
+    <nd ref="765373146"/>
+    <nd ref="765373588"/>
+    <tag k="barrier" v="wall"/>
+  </way>
+  <way id="61239441" version="1" timestamp="2010-06-05T23:32:25Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765372890"/>
+    <nd ref="765373431"/>
+    <nd ref="765373725"/>
+    <nd ref="765372795"/>
+    <nd ref="765372890"/>
+    <tag k="barrier" v="fence"/>
+    <tag k="leisure" v="pitch"/>
+  </way>
+  <way id="61239442" version="1" timestamp="2010-06-05T23:32:25Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765372820"/>
+    <nd ref="295167080"/>
+    <nd ref="765372885"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="61239442" version="2" timestamp="2010-12-01T16:47:56Z" uid="88909" user="miko101" changeset="6505736">
+    <nd ref="765372820"/>
+    <nd ref="295167080"/>
+    <nd ref="765372885"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="61239443" version="1" timestamp="2010-06-05T23:32:25Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373418"/>
+    <nd ref="765373107"/>
+    <nd ref="765373826"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="61239444" version="1" timestamp="2010-06-05T23:32:25Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373430"/>
+    <nd ref="765372783"/>
+    <nd ref="765373108"/>
+    <nd ref="765373548"/>
+    <nd ref="765373828"/>
+    <nd ref="765372929"/>
+    <nd ref="765372990"/>
+    <nd ref="765373430"/>
+    <tag k="man_made" v="wastewater_plant"/>
+  </way>
+  <way id="61239444" version="2" timestamp="2010-06-06T03:31:51Z" uid="20587" user="balrog-kun" changeset="4914136">
+    <nd ref="765373430"/>
+    <nd ref="765372783"/>
+    <nd ref="765373108"/>
+    <nd ref="765373548"/>
+    <nd ref="765373828"/>
+    <nd ref="765372929"/>
+    <nd ref="765372990"/>
+    <nd ref="765373430"/>
+    <tag k="landuse" v="industrial"/>
+    <tag k="man_made" v="wastewater_plant"/>
+  </way>
+  <way id="61239445" version="1" timestamp="2010-06-05T23:32:25Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765372874"/>
+    <nd ref="765372773"/>
+    <nd ref="765373098"/>
+    <nd ref="765373539"/>
+    <nd ref="765373818"/>
+    <nd ref="765372922"/>
+    <nd ref="765373232"/>
+    <nd ref="765373050"/>
+    <nd ref="765373356"/>
+    <nd ref="765373776"/>
+    <nd ref="765372727"/>
+    <nd ref="765373188"/>
+    <nd ref="765373495"/>
+    <nd ref="765373901"/>
+    <nd ref="765372873"/>
+    <nd ref="765372763"/>
+    <nd ref="765373088"/>
+    <tag k="barrier" v="fence"/>
+  </way>
+  <way id="61239446" version="1" timestamp="2010-06-05T23:32:25Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373306"/>
+    <nd ref="765373705"/>
+    <nd ref="765373180"/>
+    <nd ref="765373362"/>
+    <nd ref="765373894"/>
+    <nd ref="765373009"/>
+    <nd ref="765373337"/>
+    <nd ref="765373613"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239447" version="1" timestamp="2010-06-05T23:32:25Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373615"/>
+    <nd ref="765373881"/>
+    <nd ref="765373603"/>
+    <nd ref="765372668"/>
+    <nd ref="765372986"/>
+    <nd ref="765373437"/>
+    <nd ref="765373730"/>
+    <nd ref="765373339"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="61239448" version="1" timestamp="2010-06-05T23:32:25Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765372844"/>
+    <nd ref="765373861"/>
+    <nd ref="765373076"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239449" version="1" timestamp="2010-06-05T23:32:25Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765372977"/>
+    <nd ref="246818670"/>
+    <nd ref="765373520"/>
+    <nd ref="765373274"/>
+    <nd ref="270290734"/>
+    <nd ref="260845842"/>
+    <nd ref="259568210"/>
+    <nd ref="765373657"/>
+    <nd ref="260845846"/>
+    <nd ref="765373942"/>
+    <nd ref="246818672"/>
+    <nd ref="765373671"/>
+    <nd ref="246818674"/>
+    <nd ref="765373662"/>
+    <nd ref="765372767"/>
+    <nd ref="246818675"/>
+    <nd ref="765372934"/>
+    <nd ref="254021308"/>
+    <nd ref="765373377"/>
+    <nd ref="765373690"/>
+    <nd ref="254021311"/>
+    <nd ref="254021313"/>
+    <nd ref="765373252"/>
+    <nd ref="765372943"/>
+    <nd ref="765373877"/>
+    <nd ref="246818677"/>
+    <nd ref="246818679"/>
+    <tag k="cycleway" v="track"/>
+    <tag k="highway" v="cycleway"/>
+  </way>
+  <way id="61239449" version="2" timestamp="2011-08-31T23:33:20Z" uid="508862" user="KeiDii" changeset="9180964">
+    <nd ref="765372977"/>
+    <nd ref="246818670"/>
+    <nd ref="765373520"/>
+    <nd ref="765373274"/>
+    <nd ref="270290734"/>
+    <nd ref="260845842"/>
+    <nd ref="257443358"/>
+    <nd ref="260845846"/>
+    <nd ref="765373942"/>
+    <nd ref="246818672"/>
+    <nd ref="765373671"/>
+    <nd ref="246818674"/>
+    <nd ref="765373662"/>
+    <nd ref="765372767"/>
+    <nd ref="246818675"/>
+    <nd ref="765372934"/>
+    <nd ref="254021308"/>
+    <nd ref="765373377"/>
+    <nd ref="765373690"/>
+    <nd ref="254021311"/>
+    <nd ref="254021313"/>
+    <nd ref="765373252"/>
+    <nd ref="765372943"/>
+    <nd ref="765373877"/>
+    <nd ref="246818679"/>
+    <tag k="cycleway" v="track"/>
+    <tag k="highway" v="cycleway"/>
+  </way>
+  <way id="61239450" version="1" timestamp="2010-06-05T23:32:25Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373336"/>
+    <nd ref="765373782"/>
+    <nd ref="765373559"/>
+    <nd ref="765373031"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239451" version="1" timestamp="2010-06-05T23:32:25Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373138"/>
+    <nd ref="765372737"/>
+    <nd ref="765373066"/>
+    <nd ref="765373506"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="61239452" version="1" timestamp="2010-06-05T23:32:26Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373366"/>
+    <nd ref="765373062"/>
+    <tag k="highway" v="track"/>
+  </way>
+  <way id="61239452" version="2" timestamp="2010-06-06T03:31:39Z" uid="20587" user="balrog-kun" changeset="4914136">
+    <nd ref="765373366"/>
+    <nd ref="765402510"/>
+    <nd ref="765373062"/>
+    <tag k="highway" v="track"/>
+  </way>
+  <way id="61239453" version="1" timestamp="2010-06-05T23:32:26Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373403"/>
+    <nd ref="765373811"/>
+    <nd ref="765373013"/>
+    <nd ref="765372915"/>
+    <nd ref="765372688"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239454" version="1" timestamp="2010-06-05T23:32:26Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373804"/>
+    <nd ref="765373620"/>
+    <nd ref="765373523"/>
+    <nd ref="765373553"/>
+    <nd ref="765373831"/>
+    <nd ref="765372935"/>
+    <nd ref="765373247"/>
+    <nd ref="765373691"/>
+    <nd ref="765373961"/>
+    <nd ref="765373078"/>
+    <nd ref="765373378"/>
+    <nd ref="765373287"/>
+    <nd ref="765373804"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="61239455" version="1" timestamp="2010-06-05T23:32:26Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765372923"/>
+    <nd ref="765373085"/>
+    <nd ref="765373388"/>
+    <nd ref="765373295"/>
+    <nd ref="765373602"/>
+    <nd ref="765372667"/>
+    <nd ref="765372985"/>
+    <nd ref="765373436"/>
+    <nd ref="765373728"/>
+    <nd ref="765372798"/>
+    <nd ref="765373120"/>
+    <nd ref="765372714"/>
+    <tag k="highway" v="track"/>
+  </way>
+  <way id="61239456" version="1" timestamp="2010-06-05T23:32:26Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373722"/>
+    <nd ref="765373423"/>
+    <nd ref="765373428"/>
+    <nd ref="765372789"/>
+    <nd ref="765373246"/>
+    <nd ref="765373473"/>
+    <nd ref="765373753"/>
+    <nd ref="765373445"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="61239457" version="1" timestamp="2010-06-05T23:32:27Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="254021430"/>
+    <nd ref="765372735"/>
+    <nd ref="765373248"/>
+    <nd ref="280378067"/>
+    <nd ref="254021432"/>
+    <nd ref="264204194"/>
+    <nd ref="254021434"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxheight" v="3.5"/>
+    <tag k="name" v="Gościniec"/>
+  </way>
+  <way id="61239458" version="1" timestamp="2010-06-05T23:32:27Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373061"/>
+    <nd ref="765372972"/>
+    <nd ref="765373283"/>
+    <tag k="barrier" v="wall"/>
+  </way>
+  <way id="61239459" version="1" timestamp="2010-06-05T23:32:27Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765372676"/>
+    <nd ref="765372804"/>
+    <nd ref="765373802"/>
+    <nd ref="765372998"/>
+    <nd ref="765373882"/>
+    <nd ref="765373698"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239460" version="1" timestamp="2010-06-05T23:32:27Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765372758"/>
+    <nd ref="765373301"/>
+    <nd ref="765373610"/>
+    <nd ref="765373514"/>
+    <nd ref="765373792"/>
+    <nd ref="765372891"/>
+    <nd ref="765373707"/>
+    <nd ref="765373119"/>
+    <nd ref="765373433"/>
+    <nd ref="765373835"/>
+    <nd ref="765372796"/>
+    <nd ref="280378164"/>
+    <tag k="highway" v="track"/>
+  </way>
+  <way id="61239460" version="2" timestamp="2011-01-23T20:12:45Z" uid="277387" user="rogal" changeset="7066663">
+    <nd ref="1117514231"/>
+    <nd ref="765372758"/>
+    <nd ref="765373301"/>
+    <nd ref="765373610"/>
+    <nd ref="765373514"/>
+    <nd ref="765373792"/>
+    <nd ref="765372891"/>
+    <nd ref="765373707"/>
+    <nd ref="765373119"/>
+    <nd ref="765373433"/>
+    <nd ref="765373835"/>
+    <nd ref="765372796"/>
+    <nd ref="280378164"/>
+    <tag k="highway" v="track"/>
+  </way>
+  <way id="61239461" version="1" timestamp="2010-06-05T23:32:28Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373124"/>
+    <nd ref="765372672"/>
+    <nd ref="257447818"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="61239462" version="1" timestamp="2010-06-05T23:32:28Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765372657"/>
+    <nd ref="765372737"/>
+    <nd ref="765373219"/>
+    <nd ref="765373526"/>
+    <nd ref="765373938"/>
+    <nd ref="765372910"/>
+    <nd ref="765373008"/>
+    <nd ref="765373456"/>
+    <nd ref="765372683"/>
+    <tag k="barrier" v="fence"/>
+  </way>
+  <way id="61239463" version="1" timestamp="2010-06-05T23:32:28Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373765"/>
+    <nd ref="765373569"/>
+    <tag k="highway" v="steps"/>
+  </way>
+  <way id="61239464" version="1" timestamp="2010-06-05T23:32:28Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373698"/>
+    <nd ref="765373390"/>
+    <nd ref="765373488"/>
+    <nd ref="765372863"/>
+    <nd ref="765373573"/>
+    <nd ref="765373979"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239465" version="1" timestamp="2010-06-05T23:32:28Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="257446041"/>
+    <nd ref="765373217"/>
+    <nd ref="765373664"/>
+    <nd ref="765373937"/>
+    <nd ref="765373048"/>
+    <nd ref="765373355"/>
+    <nd ref="765372883"/>
+    <nd ref="765373775"/>
+    <nd ref="765373241"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="61239465" version="2" timestamp="2011-01-12T22:26:14Z" uid="392955" user="FiligranFifak" changeset="6952540">
+    <nd ref="257446041"/>
+    <nd ref="765373217"/>
+    <nd ref="765373664"/>
+    <nd ref="765373937"/>
+    <nd ref="765373048"/>
+    <nd ref="765373355"/>
+    <nd ref="765372883"/>
+    <nd ref="765373775"/>
+    <nd ref="765373241"/>
+    <nd ref="257443348"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="61239466" version="1" timestamp="2010-06-05T23:32:28Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373040"/>
+    <nd ref="765373475"/>
+    <nd ref="765373891"/>
+    <nd ref="765372866"/>
+    <nd ref="765372759"/>
+    <nd ref="765373086"/>
+    <nd ref="765373449"/>
+    <nd ref="765372844"/>
+    <nd ref="765373656"/>
+    <nd ref="765373929"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239467" version="1" timestamp="2010-06-05T23:32:28Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373684"/>
+    <nd ref="765372842"/>
+    <nd ref="765373160"/>
+    <nd ref="765373607"/>
+    <nd ref="765373684"/>
+    <tag k="building" v="service"/>
+  </way>
+  <way id="61239468" version="1" timestamp="2010-06-05T23:32:28Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373751"/>
+    <nd ref="765373522"/>
+    <nd ref="765372925"/>
+    <nd ref="765373800"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239469" version="1" timestamp="2010-06-05T23:32:28Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765372901"/>
+    <nd ref="765373899"/>
+    <nd ref="765373493"/>
+    <nd ref="765373318"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239469" version="2" timestamp="2011-01-14T22:14:08Z" uid="392955" user="FiligranFifak" changeset="6972067">
+    <nd ref="765372901"/>
+    <nd ref="765373899"/>
+    <nd ref="765373493"/>
+    <nd ref="765373318"/>
+    <nd ref="1103926824"/>
+    <nd ref="1103926823"/>
+    <nd ref="1103926819"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239470" version="1" timestamp="2010-06-05T23:32:28Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373809"/>
+    <nd ref="765373401"/>
+    <nd ref="765373094"/>
+    <nd ref="254021400"/>
+    <nd ref="254021402"/>
+    <nd ref="254021404"/>
+    <nd ref="254021406"/>
+    <nd ref="254021408"/>
+    <nd ref="765373532"/>
+    <nd ref="765373809"/>
+    <tag k="natural" v="water"/>
+  </way>
+  <way id="61239471" version="1" timestamp="2010-06-05T23:32:28Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765372906"/>
+    <nd ref="765372813"/>
+    <nd ref="765373134"/>
+    <nd ref="765373577"/>
+    <nd ref="765373849"/>
+    <nd ref="765373764"/>
+    <nd ref="765372906"/>
+    <tag k="amenity" v="parking"/>
+  </way>
+  <way id="61239472" version="1" timestamp="2010-06-05T23:32:28Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373954"/>
+    <nd ref="765373868"/>
+    <nd ref="765372838"/>
+    <nd ref="765373290"/>
+    <nd ref="765373597"/>
+    <nd ref="765372661"/>
+    <nd ref="765372978"/>
+    <nd ref="765372696"/>
+    <nd ref="765373020"/>
+    <nd ref="765373467"/>
+    <nd ref="765372835"/>
+    <nd ref="765373155"/>
+    <nd ref="765373057"/>
+    <tag k="highway" v="track"/>
+  </way>
+  <way id="61239472" version="2" timestamp="2011-10-25T21:16:52Z" uid="392955" user="FiligranFifak" changeset="9656205">
+    <nd ref="765373954"/>
+    <nd ref="765373868"/>
+    <nd ref="765372838"/>
+    <nd ref="765373290"/>
+    <nd ref="765373597"/>
+    <nd ref="765372661"/>
+    <nd ref="765372978"/>
+    <tag k="highway" v="track"/>
+  </way>
+  <way id="61239473" version="1" timestamp="2010-06-05T23:32:28Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373641"/>
+    <nd ref="765372791"/>
+    <nd ref="765373115"/>
+    <nd ref="765372709"/>
+    <nd ref="765373034"/>
+    <nd ref="765373483"/>
+    <nd ref="765373759"/>
+    <nd ref="765372856"/>
+    <nd ref="765373881"/>
+    <nd ref="765373730"/>
+    <nd ref="765373641"/>
+    <tag k="amenity" v="parking"/>
+  </way>
+  <way id="61239474" version="1" timestamp="2010-06-05T23:32:28Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373218"/>
+    <nd ref="765373137"/>
+    <nd ref="765373455"/>
+    <nd ref="765373852"/>
+    <nd ref="765372817"/>
+    <nd ref="765372911"/>
+    <nd ref="765373268"/>
+    <nd ref="765373571"/>
+    <nd ref="765373978"/>
+    <nd ref="765372955"/>
+    <tag k="highway" v="track"/>
+  </way>
+  <way id="61239475" version="1" timestamp="2010-06-05T23:32:29Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765372776"/>
+    <nd ref="765373102"/>
+    <nd ref="765372978"/>
+    <tag k="highway" v="track"/>
+  </way>
+  <way id="61239476" version="1" timestamp="2010-06-05T23:32:29Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373604"/>
+    <nd ref="765372710"/>
+    <nd ref="765373658"/>
+    <nd ref="765373129"/>
+    <nd ref="765373572"/>
+    <nd ref="765373845"/>
+    <tag k="highway" v="crossing"/>
+  </way>
+  <way id="61239476" version="2" timestamp="2010-06-06T03:31:46Z" uid="20587" user="balrog-kun" changeset="4914136">
+    <nd ref="765373604"/>
+    <nd ref="765372710"/>
+    <nd ref="765373658"/>
+    <nd ref="765373129"/>
+    <nd ref="765373572"/>
+    <nd ref="765403407"/>
+    <nd ref="765373845"/>
+    <tag k="highway" v="crossing"/>
+  </way>
+  <way id="61239477" version="1" timestamp="2010-06-05T23:32:29Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373178"/>
+    <nd ref="765373909"/>
+    <nd ref="765373815"/>
+    <nd ref="765372770"/>
+    <nd ref="765373228"/>
+    <nd ref="765373535"/>
+    <nd ref="765373949"/>
+    <nd ref="765373521"/>
+    <tag k="barrier" v="fence"/>
+  </way>
+  <way id="61239478" version="1" timestamp="2010-06-05T23:32:29Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="318495844"/>
+    <nd ref="765372793"/>
+    <nd ref="765373250"/>
+    <nd ref="318495848"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="61239479" version="1" timestamp="2010-06-05T23:32:29Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373639"/>
+    <nd ref="765372786"/>
+    <nd ref="765373049"/>
+    <nd ref="765373243"/>
+    <nd ref="765373549"/>
+    <nd ref="765373956"/>
+    <nd ref="765372930"/>
+    <nd ref="765373375"/>
+    <nd ref="765373639"/>
+    <tag k="natural" v="scrub"/>
+  </way>
+  <way id="61239480" version="1" timestamp="2010-06-05T23:32:29Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373402"/>
+    <nd ref="765373899"/>
+    <nd ref="765372959"/>
+    <nd ref="765373982"/>
+    <nd ref="765373044"/>
+    <nd ref="765372951"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239481" version="1" timestamp="2010-06-05T23:32:29Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373676"/>
+    <nd ref="765372747"/>
+    <nd ref="765373073"/>
+    <nd ref="765373513"/>
+    <nd ref="765373676"/>
+    <tag k="building" v="service"/>
+  </way>
+  <way id="61239482" version="1" timestamp="2010-06-05T23:32:29Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765372938"/>
+    <nd ref="765373421"/>
+    <nd ref="246818786"/>
+    <nd ref="246818796"/>
+    <nd ref="765372830"/>
+    <nd ref="246818801"/>
+    <tag k="cycleway" v="track"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="cycleway"/>
+  </way>
+  <way id="61239483" version="1" timestamp="2010-06-05T23:32:29Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765372966"/>
+    <nd ref="765373277"/>
+    <nd ref="765373708"/>
+    <nd ref="765373853"/>
+    <nd ref="765373444"/>
+    <nd ref="765373399"/>
+    <nd ref="765373537"/>
+    <nd ref="280378092"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="61239484" version="1" timestamp="2010-06-05T23:32:30Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="257446041"/>
+    <nd ref="765373016"/>
+    <nd ref="257446043"/>
+    <nd ref="32333982"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="61239485" version="1" timestamp="2010-06-05T23:32:30Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373555"/>
+    <nd ref="248988928"/>
+    <nd ref="765373648"/>
+    <nd ref="765373163"/>
+    <nd ref="765373477"/>
+    <nd ref="254021529"/>
+    <nd ref="765373875"/>
+    <nd ref="765372848"/>
+    <nd ref="765373801"/>
+    <nd ref="254021528"/>
+    <nd ref="254021526"/>
+    <nd ref="254021523"/>
+    <nd ref="254021520"/>
+    <nd ref="765373883"/>
+    <nd ref="765372940"/>
+    <nd ref="254021513"/>
+    <nd ref="765373580"/>
+    <nd ref="765373276"/>
+    <nd ref="254021510"/>
+    <nd ref="765373011"/>
+    <nd ref="765373142"/>
+    <nd ref="765372821"/>
+    <nd ref="765373742"/>
+    <nd ref="765373461"/>
+    <nd ref="254021508"/>
+    <nd ref="765372687"/>
+    <nd ref="765373628"/>
+    <nd ref="254021506"/>
+    <tag k="cycleway" v="track"/>
+    <tag k="highway" v="cycleway"/>
+  </way>
+  <way id="61239486" version="1" timestamp="2010-06-05T23:32:30Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765372778"/>
+    <nd ref="765373324"/>
+    <nd ref="765373749"/>
+    <nd ref="765372697"/>
+    <nd ref="765373158"/>
+    <nd ref="765373469"/>
+    <nd ref="765373866"/>
+    <nd ref="765372836"/>
+    <nd ref="765372778"/>
+    <tag k="landuse" v="reservoir"/>
+  </way>
+  <way id="61239487" version="1" timestamp="2010-06-05T23:32:30Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373310"/>
+    <nd ref="765373005"/>
+    <nd ref="765373889"/>
+    <nd ref="765373621"/>
+    <nd ref="765373481"/>
+    <nd ref="765373255"/>
+    <nd ref="765372706"/>
+    <tag k="access" v="no"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="61239488" version="1" timestamp="2010-06-05T23:32:30Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373097"/>
+    <nd ref="765373068"/>
+    <nd ref="765372740"/>
+    <nd ref="765372658"/>
+    <nd ref="765372975"/>
+    <nd ref="765373424"/>
+    <nd ref="765373717"/>
+    <nd ref="765372790"/>
+    <nd ref="765373114"/>
+    <nd ref="765372708"/>
+    <nd ref="765373032"/>
+    <nd ref="765373482"/>
+    <nd ref="765373758"/>
+    <nd ref="765373025"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239489" version="1" timestamp="2010-06-05T23:32:30Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373282"/>
+    <nd ref="765373060"/>
+    <nd ref="765373502"/>
+    <nd ref="765373783"/>
+    <nd ref="765372880"/>
+    <nd ref="765373198"/>
+    <nd ref="765373093"/>
+    <nd ref="765373405"/>
+    <nd ref="765373813"/>
+    <nd ref="765372768"/>
+    <nd ref="765373225"/>
+    <nd ref="765373534"/>
+    <nd ref="765373946"/>
+    <nd ref="765372917"/>
+    <nd ref="765373869"/>
+    <nd ref="765372840"/>
+    <nd ref="765373599"/>
+    <nd ref="765372662"/>
+    <nd ref="765372982"/>
+    <nd ref="765373428"/>
+    <tag k="highway" v="track"/>
+  </way>
+  <way id="61239489" version="2" timestamp="2010-06-06T03:31:40Z" uid="20587" user="balrog-kun" changeset="4914136">
+    <nd ref="765373282"/>
+    <nd ref="765373060"/>
+    <nd ref="765373502"/>
+    <nd ref="765373783"/>
+    <nd ref="765372880"/>
+    <nd ref="765373198"/>
+    <nd ref="765373093"/>
+    <nd ref="765373405"/>
+    <nd ref="765373813"/>
+    <nd ref="765372768"/>
+    <nd ref="765373225"/>
+    <nd ref="765373534"/>
+    <nd ref="765373946"/>
+    <nd ref="765372917"/>
+    <nd ref="765373869"/>
+    <nd ref="765372840"/>
+    <nd ref="765373599"/>
+    <nd ref="765372662"/>
+    <nd ref="765372982"/>
+    <nd ref="765373428"/>
+    <tag k="highway" v="track"/>
+  </way>
+  <way id="61239490" version="1" timestamp="2010-06-05T23:32:30Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373525"/>
+    <nd ref="765372682"/>
+    <nd ref="765373007"/>
+    <nd ref="765372871"/>
+    <nd ref="765373406"/>
+    <nd ref="765373738"/>
+    <nd ref="765372815"/>
+    <nd ref="765373136"/>
+    <nd ref="765372736"/>
+    <nd ref="765373064"/>
+    <nd ref="765373505"/>
+    <nd ref="765373785"/>
+    <nd ref="765373525"/>
+    <tag k="building" v="service"/>
+  </way>
+  <way id="61239491" version="1" timestamp="2010-06-05T23:32:30Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765372692"/>
+    <nd ref="765373226"/>
+    <nd ref="765373674"/>
+    <nd ref="765373947"/>
+    <nd ref="765373600"/>
+    <nd ref="765373870"/>
+    <nd ref="765372692"/>
+    <tag k="building" v="service"/>
+  </way>
+  <way id="61239491" version="2" timestamp="2010-06-20T03:22:55Z" uid="20587" user="balrog-kun" changeset="5029412">
+    <nd ref="765372692"/>
+    <nd ref="765373226"/>
+    <nd ref="765373674"/>
+    <nd ref="765373947"/>
+    <nd ref="765373600"/>
+    <nd ref="765373870"/>
+    <nd ref="765372692"/>
+    <tag k="building" v="service"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="name" v="Pompownia główna"/>
+  </way>
+  <way id="61239492" version="1" timestamp="2010-06-05T23:32:30Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373248"/>
+    <nd ref="765373554"/>
+    <nd ref="765373962"/>
+    <nd ref="765372937"/>
+    <nd ref="765372837"/>
+    <nd ref="765373157"/>
+    <nd ref="765373595"/>
+    <nd ref="765373865"/>
+    <nd ref="765372976"/>
+    <nd ref="765373288"/>
+    <nd ref="765373719"/>
+    <nd ref="765372659"/>
+    <nd ref="765373457"/>
+    <nd ref="765373739"/>
+    <nd ref="765372819"/>
+    <nd ref="765373139"/>
+    <nd ref="765373583"/>
+    <nd ref="765373854"/>
+    <tag k="highway" v="track"/>
+  </way>
+  <way id="61239493" version="1" timestamp="2010-06-05T23:32:30Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373748"/>
+    <nd ref="765373680"/>
+    <nd ref="765372732"/>
+    <nd ref="765373152"/>
+    <nd ref="765373593"/>
+    <nd ref="765373788"/>
+    <nd ref="765372739"/>
+    <nd ref="765373991"/>
+    <nd ref="765372967"/>
+    <nd ref="765373413"/>
+    <nd ref="765372698"/>
+    <nd ref="765373709"/>
+    <nd ref="765373322"/>
+    <nd ref="765373404"/>
+    <nd ref="765373540"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239494" version="1" timestamp="2010-06-05T23:32:31Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373434"/>
+    <nd ref="765373516"/>
+    <nd ref="765373422"/>
+    <nd ref="765373716"/>
+    <nd ref="765372788"/>
+    <nd ref="765373113"/>
+    <nd ref="765373552"/>
+    <nd ref="765373799"/>
+    <nd ref="765373752"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239495" version="1" timestamp="2010-06-05T23:32:31Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373918"/>
+    <nd ref="765372924"/>
+    <nd ref="765373331"/>
+    <nd ref="765373643"/>
+    <nd ref="765373673"/>
+    <nd ref="765373833"/>
+    <nd ref="765372939"/>
+    <nd ref="765373249"/>
+    <nd ref="765373692"/>
+    <nd ref="765373963"/>
+    <nd ref="765373867"/>
+    <nd ref="765373796"/>
+    <nd ref="765373096"/>
+    <tag k="highway" v="cycleway"/>
+  </way>
+  <way id="61239496" version="1" timestamp="2010-06-05T23:32:31Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373208"/>
+    <nd ref="765373381"/>
+    <nd ref="765373693"/>
+    <nd ref="765373298"/>
+    <nd ref="765373606"/>
+    <nd ref="765372671"/>
+    <nd ref="765372988"/>
+    <nd ref="765373933"/>
+    <nd ref="765372810"/>
+    <nd ref="765373130"/>
+    <nd ref="765373574"/>
+    <nd ref="765373847"/>
+    <nd ref="765372999"/>
+    <nd ref="765373939"/>
+    <nd ref="765372912"/>
+    <nd ref="765373357"/>
+    <nd ref="765373977"/>
+    <nd ref="765372951"/>
+    <nd ref="765373311"/>
+    <nd ref="765373622"/>
+    <nd ref="765372681"/>
+    <nd ref="765373006"/>
+    <nd ref="765372901"/>
+    <nd ref="765373402"/>
+    <nd ref="765373128"/>
+    <nd ref="765373446"/>
+    <nd ref="765373844"/>
+    <nd ref="765372805"/>
+    <nd ref="765373264"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239498" version="1" timestamp="2010-06-05T23:32:31Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373974"/>
+    <nd ref="765373629"/>
+    <nd ref="765373898"/>
+    <nd ref="765373012"/>
+    <nd ref="765373315"/>
+    <nd ref="765373743"/>
+    <tag k="highway" v="primary"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="61239499" version="1" timestamp="2010-06-05T23:32:31Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373652"/>
+    <nd ref="765373558"/>
+    <nd ref="765373836"/>
+    <nd ref="765372944"/>
+    <nd ref="765373254"/>
+    <nd ref="765373694"/>
+    <nd ref="765373968"/>
+    <nd ref="765373082"/>
+    <nd ref="765373385"/>
+    <nd ref="765372780"/>
+    <nd ref="765373105"/>
+    <nd ref="765373545"/>
+    <nd ref="765373823"/>
+    <nd ref="765372924"/>
+    <nd ref="765373237"/>
+    <nd ref="765373075"/>
+    <nd ref="765373500"/>
+    <nd ref="765373781"/>
+    <nd ref="765372878"/>
+    <nd ref="765373195"/>
+    <tag k="foot" v="track"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239499" version="2" timestamp="2011-01-23T20:12:48Z" uid="277387" user="rogal" changeset="7066663">
+    <nd ref="765373652"/>
+    <nd ref="765373558"/>
+    <nd ref="765373836"/>
+    <nd ref="765372944"/>
+    <nd ref="765373254"/>
+    <nd ref="765373694"/>
+    <nd ref="765373968"/>
+    <nd ref="765373082"/>
+    <nd ref="765373385"/>
+    <nd ref="765372780"/>
+    <nd ref="765373105"/>
+    <nd ref="765373545"/>
+    <nd ref="765373823"/>
+    <nd ref="765372924"/>
+    <nd ref="765373237"/>
+    <nd ref="765373075"/>
+    <nd ref="765373500"/>
+    <nd ref="765373781"/>
+    <nd ref="765372878"/>
+    <nd ref="765373195"/>
+    <nd ref="1117514210"/>
+    <tag k="foot" v="track"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239500" version="1" timestamp="2010-06-05T23:32:31Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765372885"/>
+    <nd ref="765373435"/>
+    <nd ref="248988879"/>
+    <nd ref="279233124"/>
+    <nd ref="273582868"/>
+    <nd ref="29167813"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="wikipedia" v="pl:Węzeł Bora-Komorowskiego"/>
+  </way>
+  <way id="61239501" version="1" timestamp="2010-06-05T23:32:32Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765372672"/>
+    <nd ref="765373609"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="61239501" version="2" timestamp="2011-01-23T20:12:47Z" uid="277387" user="rogal" changeset="7066663">
+    <nd ref="765372672"/>
+    <nd ref="1117514212"/>
+    <nd ref="1117514209"/>
+    <nd ref="765373609"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="61239502" version="1" timestamp="2010-06-05T23:32:32Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373805"/>
+    <nd ref="765372762"/>
+    <nd ref="765372674"/>
+    <nd ref="765372996"/>
+    <nd ref="765373447"/>
+    <tag k="highway" v="track"/>
+  </way>
+  <way id="61239503" version="1" timestamp="2010-06-05T23:32:32Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373069"/>
+    <nd ref="765373372"/>
+    <nd ref="765373789"/>
+    <nd ref="765372742"/>
+    <nd ref="765373527"/>
+    <nd ref="765373806"/>
+    <nd ref="765372911"/>
+    <tag k="highway" v="track"/>
+  </way>
+  <way id="61239504" version="1" timestamp="2010-06-05T23:32:32Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373752"/>
+    <nd ref="765372703"/>
+    <nd ref="765373696"/>
+    <nd ref="765373970"/>
+    <nd ref="765373084"/>
+    <nd ref="765373387"/>
+    <nd ref="765373799"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239505" version="1" timestamp="2010-06-05T23:32:32Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373804"/>
+    <nd ref="765373509"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="61239506" version="1" timestamp="2010-06-05T23:32:32Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373202"/>
+    <nd ref="765373917"/>
+    <nd ref="765372664"/>
+    <nd ref="765373724"/>
+    <nd ref="765373202"/>
+    <tag k="building" v="service"/>
+  </way>
+  <way id="61239507" version="1" timestamp="2010-06-05T23:32:32Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373821"/>
+    <nd ref="765373533"/>
+    <nd ref="765373810"/>
+    <nd ref="295167080"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="61239507" version="2" timestamp="2010-12-01T16:47:55Z" uid="88909" user="miko101" changeset="6505736">
+    <nd ref="765373821"/>
+    <nd ref="765373533"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="layer" v="1"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="61239507" version="3" timestamp="2011-05-26T22:16:09Z" uid="88909" user="miko101" changeset="8257935">
+    <nd ref="765373797"/>
+    <nd ref="765373821"/>
+    <nd ref="765373533"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="layer" v="1"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="61239508" version="1" timestamp="2010-06-05T23:32:32Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373191"/>
+    <nd ref="254021410"/>
+    <nd ref="765372684"/>
+    <nd ref="765373679"/>
+    <nd ref="765373951"/>
+    <nd ref="254021412"/>
+    <nd ref="765373067"/>
+    <nd ref="765373370"/>
+    <nd ref="765373787"/>
+    <nd ref="765372738"/>
+    <nd ref="765373200"/>
+    <nd ref="765373507"/>
+    <nd ref="765373412"/>
+    <nd ref="765373191"/>
+    <tag k="natural" v="water"/>
+  </way>
+  <way id="61239509" version="1" timestamp="2010-06-05T23:32:32Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765372900"/>
+    <nd ref="765373444"/>
+    <nd ref="765372921"/>
+    <nd ref="765372804"/>
+    <nd ref="765373390"/>
+    <nd ref="765373576"/>
+    <nd ref="765373343"/>
+    <nd ref="765373037"/>
+    <nd ref="765372949"/>
+    <nd ref="765373540"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239510" version="1" timestamp="2010-06-05T23:32:32Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373006"/>
+    <nd ref="765373429"/>
+    <nd ref="765373723"/>
+    <nd ref="765373915"/>
+    <nd ref="765373028"/>
+    <nd ref="765373333"/>
+    <nd ref="765372941"/>
+    <nd ref="765373252"/>
+    <nd ref="765372949"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239511" version="1" timestamp="2010-06-05T23:32:32Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373238"/>
+    <nd ref="254021504"/>
+    <nd ref="765373470"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239512" version="1" timestamp="2010-06-05T23:32:32Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373601"/>
+    <nd ref="765373803"/>
+    <nd ref="765372677"/>
+    <nd ref="765373131"/>
+    <nd ref="765373451"/>
+    <nd ref="765373340"/>
+    <nd ref="248988914"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239513" version="1" timestamp="2010-06-05T23:32:32Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="280377895"/>
+    <nd ref="765373965"/>
+    <nd ref="254021424"/>
+    <tag k="highway" v="track"/>
+  </way>
+  <way id="61239514" version="1" timestamp="2010-06-05T23:32:33Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373731"/>
+    <nd ref="765373476"/>
+    <nd ref="765373754"/>
+    <nd ref="765372847"/>
+    <nd ref="765373162"/>
+    <nd ref="765373604"/>
+    <nd ref="765373874"/>
+    <nd ref="765372675"/>
+    <nd ref="765372903"/>
+    <tag k="cycleway" v="track"/>
+    <tag k="highway" v="cycleway"/>
+  </way>
+  <way id="61239514" version="2" timestamp="2010-06-06T03:31:50Z" uid="20587" user="balrog-kun" changeset="4914136">
+    <nd ref="765373731"/>
+    <nd ref="765373476"/>
+    <nd ref="765373754"/>
+    <nd ref="765372847"/>
+    <nd ref="765373162"/>
+    <nd ref="765373604"/>
+    <nd ref="765373874"/>
+    <nd ref="765372675"/>
+    <nd ref="765372903"/>
+    <nd ref="765402377"/>
+    <tag k="cycleway" v="track"/>
+    <tag k="highway" v="cycleway"/>
+  </way>
+  <way id="61239515" version="1" timestamp="2010-06-05T23:32:33Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373501"/>
+    <nd ref="765373117"/>
+    <nd ref="765373427"/>
+    <nd ref="318495829"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="61239516" version="1" timestamp="2010-06-05T23:32:33Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373182"/>
+    <nd ref="765373626"/>
+    <nd ref="765373896"/>
+    <nd ref="765373542"/>
+    <nd ref="765373819"/>
+    <tag k="highway" v="primary"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="61239517" version="1" timestamp="2010-06-05T23:32:33Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373659"/>
+    <nd ref="765373932"/>
+    <nd ref="765372809"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="61239518" version="1" timestamp="2010-06-05T23:32:33Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373888"/>
+    <nd ref="765372864"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="61239519" version="1" timestamp="2010-06-05T23:32:33Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373383"/>
+    <nd ref="765372854"/>
+    <nd ref="765373300"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239519" version="2" timestamp="2011-01-23T20:12:47Z" uid="277387" user="rogal" changeset="7066663">
+    <nd ref="765373383"/>
+    <nd ref="765372854"/>
+    <nd ref="765373300"/>
+    <nd ref="1117514209"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239520" version="1" timestamp="2010-06-05T23:32:33Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="280378127"/>
+    <nd ref="765373329"/>
+    <nd ref="765373640"/>
+    <nd ref="765372702"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239521" version="1" timestamp="2010-06-05T23:32:33Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765372882"/>
+    <nd ref="765373419"/>
+    <nd ref="765373713"/>
+    <nd ref="765372782"/>
+    <nd ref="765373106"/>
+    <nd ref="765373547"/>
+    <nd ref="765373827"/>
+    <nd ref="765372926"/>
+    <nd ref="765373240"/>
+    <nd ref="765372852"/>
+    <nd ref="765373165"/>
+    <tag k="highway" v="track"/>
+  </way>
+  <way id="61239522" version="1" timestamp="2010-06-05T23:32:33Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373647"/>
+    <nd ref="765373921"/>
+    <nd ref="765373033"/>
+    <nd ref="765373338"/>
+    <nd ref="765372952"/>
+    <nd ref="765373265"/>
+    <nd ref="765373700"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="61239523" version="1" timestamp="2010-06-05T23:32:33Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373213"/>
+    <nd ref="765373658"/>
+    <tag k="highway" v="crossing"/>
+  </way>
+  <way id="61239524" version="1" timestamp="2010-06-05T23:32:33Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373952"/>
+    <nd ref="765373153"/>
+    <nd ref="765373594"/>
+    <nd ref="765373862"/>
+    <nd ref="765373952"/>
+    <tag k="building" v="church"/>
+    <tag k="name" v="Kaplica, kolegium Pijarów"/>
+  </way>
+  <way id="61239525" version="1" timestamp="2010-06-05T23:32:33Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373823"/>
+    <nd ref="765373289"/>
+    <nd ref="765373596"/>
+    <nd ref="765372749"/>
+    <nd ref="765373201"/>
+    <nd ref="765373511"/>
+    <nd ref="765373912"/>
+    <nd ref="765372887"/>
+    <nd ref="765373840"/>
+    <nd ref="765372799"/>
+    <nd ref="765373259"/>
+    <nd ref="765373560"/>
+    <nd ref="765373973"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239526" version="1" timestamp="2010-06-05T23:32:34Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="276207173"/>
+    <nd ref="765372992"/>
+    <nd ref="276207174"/>
+    <nd ref="276207175"/>
+    <nd ref="276207176"/>
+    <nd ref="765372870"/>
+    <nd ref="765373183"/>
+    <nd ref="276207177"/>
+    <nd ref="765373627"/>
+    <nd ref="765373897"/>
+    <nd ref="765373010"/>
+    <nd ref="765373314"/>
+    <nd ref="765373216"/>
+    <nd ref="765373524"/>
+    <nd ref="765373935"/>
+    <nd ref="765372907"/>
+    <nd ref="765373351"/>
+    <nd ref="765373661"/>
+    <nd ref="765372721"/>
+    <nd ref="765373043"/>
+    <nd ref="765373993"/>
+    <nd ref="765372969"/>
+    <nd ref="765373415"/>
+    <nd ref="765373711"/>
+    <nd ref="765372775"/>
+    <nd ref="765373101"/>
+    <nd ref="765373543"/>
+    <nd ref="765373820"/>
+    <nd ref="765373741"/>
+    <nd ref="765372686"/>
+    <nd ref="765373141"/>
+    <nd ref="765373459"/>
+    <nd ref="276207173"/>
+    <tag k="natural" v="scrub"/>
+  </way>
+  <way id="61239527" version="1" timestamp="2010-06-05T23:32:34Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373677"/>
+    <nd ref="765372828"/>
+    <nd ref="765373284"/>
+    <nd ref="765373590"/>
+    <nd ref="765372655"/>
+    <nd ref="765372973"/>
+    <nd ref="765373677"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="61239527" version="2" timestamp="2011-09-20T01:45:41Z" uid="475943" user="sir-mapalot" changeset="9347794">
+    <nd ref="765373677"/>
+    <nd ref="765372828"/>
+    <nd ref="765373284"/>
+    <nd ref="765373590"/>
+    <nd ref="765372655"/>
+    <nd ref="765372973"/>
+    <nd ref="765373677"/>
+    <tag k="amenity" v="public_building"/>
+    <tag k="building" v="residential"/>
+    <tag k="name" v="Dom Pomocy Społecznej"/>
+  </way>
+  <way id="61239528" version="1" timestamp="2010-06-05T23:32:34Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373058"/>
+    <nd ref="765372823"/>
+    <nd ref="765372760"/>
+    <nd ref="765373001"/>
+    <nd ref="765373803"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239529" version="1" timestamp="2010-06-05T23:32:34Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="276210094"/>
+    <nd ref="765372734"/>
+    <nd ref="765373194"/>
+    <nd ref="765373499"/>
+    <nd ref="765373904"/>
+    <nd ref="765372876"/>
+    <nd ref="765373832"/>
+    <nd ref="765372792"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239529" version="2" timestamp="2011-10-25T21:26:11Z" uid="392955" user="FiligranFifak" changeset="9656205">
+    <nd ref="276210094"/>
+    <nd ref="765372734"/>
+    <nd ref="765373194"/>
+    <nd ref="765373499"/>
+    <nd ref="765373904"/>
+    <nd ref="765372876"/>
+    <nd ref="765373832"/>
+    <nd ref="765372792"/>
+    <tag k="highway" v="path"/>
+  </way>
+  <way id="61239530" version="1" timestamp="2010-06-05T23:32:34Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373487"/>
+    <nd ref="765373175"/>
+    <nd ref="765373215"/>
+    <nd ref="765373615"/>
+    <nd ref="765373609"/>
+    <nd ref="765373339"/>
+    <nd ref="765373888"/>
+    <nd ref="765373523"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="61239531" version="1" timestamp="2010-06-05T23:32:34Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373305"/>
+    <nd ref="765373211"/>
+    <nd ref="765373522"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239531" version="2" timestamp="2011-08-05T21:27:41Z" uid="392955" user="FiligranFifak" changeset="8933006">
+    <nd ref="398758331"/>
+    <nd ref="765373211"/>
+    <nd ref="765373522"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239532" version="1" timestamp="2010-06-05T23:32:34Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765372912"/>
+    <nd ref="765373212"/>
+    <nd ref="765373267"/>
+    <nd ref="765373930"/>
+    <nd ref="765373450"/>
+    <nd ref="765373544"/>
+    <nd ref="765372816"/>
+    <nd ref="765373274"/>
+    <nd ref="765372725"/>
+    <nd ref="765373187"/>
+    <nd ref="765373407"/>
+    <nd ref="765372899"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239532" version="2" timestamp="2011-08-31T23:33:19Z" uid="508862" user="KeiDii" changeset="9180964">
+    <nd ref="765372912"/>
+    <nd ref="765373212"/>
+    <nd ref="765373267"/>
+    <nd ref="765373930"/>
+    <nd ref="765373450"/>
+    <nd ref="765373544"/>
+    <nd ref="765372816"/>
+    <nd ref="765373274"/>
+    <nd ref="765372725"/>
+    <nd ref="765373187"/>
+    <nd ref="765373407"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239533" version="1" timestamp="2010-06-05T23:32:34Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373515"/>
+    <nd ref="765373793"/>
+    <nd ref="765372892"/>
+    <nd ref="765373204"/>
+    <nd ref="765373646"/>
+    <nd ref="765373918"/>
+    <nd ref="765373829"/>
+    <nd ref="765372787"/>
+    <nd ref="765373244"/>
+    <nd ref="765373550"/>
+    <nd ref="765373957"/>
+    <nd ref="765372931"/>
+    <nd ref="765373376"/>
+    <nd ref="765373687"/>
+    <nd ref="765373302"/>
+    <nd ref="765373611"/>
+    <nd ref="765372673"/>
+    <nd ref="765372993"/>
+    <nd ref="765373442"/>
+    <nd ref="765373735"/>
+    <nd ref="765372802"/>
+    <tag k="cycleway" v="track"/>
+    <tag k="highway" v="cycleway"/>
+  </way>
+  <way id="61239534" version="1" timestamp="2010-06-05T23:32:35Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="280378043"/>
+    <nd ref="765372771"/>
+    <nd ref="765373230"/>
+    <nd ref="765372694"/>
+    <nd ref="765373464"/>
+    <nd ref="765373148"/>
+    <nd ref="765372859"/>
+    <nd ref="765373170"/>
+    <nd ref="765373079"/>
+    <nd ref="765373380"/>
+    <nd ref="765373796"/>
+    <nd ref="765373973"/>
+    <nd ref="765373207"/>
+    <nd ref="765372669"/>
+    <nd ref="765373122"/>
+    <nd ref="765373439"/>
+    <nd ref="765373349"/>
+    <nd ref="765373767"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239534" version="2" timestamp="2011-01-23T20:12:47Z" uid="277387" user="rogal" changeset="7066663">
+    <nd ref="280378043"/>
+    <nd ref="765372771"/>
+    <nd ref="765373230"/>
+    <nd ref="765372694"/>
+    <nd ref="765373464"/>
+    <nd ref="1117514210"/>
+    <nd ref="765373148"/>
+    <nd ref="765372859"/>
+    <nd ref="765373170"/>
+    <nd ref="765373079"/>
+    <nd ref="765373380"/>
+    <nd ref="765373796"/>
+    <nd ref="765373973"/>
+    <nd ref="765373207"/>
+    <nd ref="765372669"/>
+    <nd ref="765373122"/>
+    <nd ref="765373439"/>
+    <nd ref="765373349"/>
+    <nd ref="765373767"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239535" version="1" timestamp="2010-06-05T23:32:35Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765372921"/>
+    <nd ref="765373176"/>
+    <nd ref="765373975"/>
+    <nd ref="765373087"/>
+    <nd ref="765373393"/>
+    <nd ref="765372761"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239536" version="1" timestamp="2010-06-05T23:32:35Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765372810"/>
+    <nd ref="765373168"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239536" version="2" timestamp="2011-01-14T22:14:07Z" uid="392955" user="FiligranFifak" changeset="6972067">
+    <nd ref="765372810"/>
+    <nd ref="1103926808"/>
+    <nd ref="1103926823"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239537" version="1" timestamp="2010-06-05T23:32:35Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765372694"/>
+    <nd ref="765373233"/>
+    <nd ref="765373541"/>
+    <nd ref="765373953"/>
+    <nd ref="765372923"/>
+    <nd ref="765373371"/>
+    <nd ref="765373681"/>
+    <nd ref="765373584"/>
+    <nd ref="765373855"/>
+    <nd ref="765372968"/>
+    <nd ref="765373279"/>
+    <nd ref="765373710"/>
+    <nd ref="765373992"/>
+    <nd ref="765373100"/>
+    <nd ref="765373414"/>
+    <nd ref="765373025"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239538" version="1" timestamp="2010-06-05T23:32:35Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373304"/>
+    <nd ref="765373512"/>
+    <nd ref="765373916"/>
+    <nd ref="765372889"/>
+    <nd ref="765373334"/>
+    <nd ref="765373645"/>
+    <nd ref="765372705"/>
+    <nd ref="765373029"/>
+    <nd ref="765372927"/>
+    <nd ref="765373242"/>
+    <nd ref="765373685"/>
+    <nd ref="765373955"/>
+    <nd ref="765373074"/>
+    <nd ref="765373373"/>
+    <nd ref="765373791"/>
+    <nd ref="765372745"/>
+    <nd ref="765372898"/>
+    <nd ref="765373209"/>
+    <nd ref="765373651"/>
+    <nd ref="765373926"/>
+    <nd ref="765373036"/>
+    <nd ref="765373342"/>
+    <nd ref="765373763"/>
+    <tag k="highway" v="track"/>
+  </way>
+  <way id="61239539" version="1" timestamp="2010-06-05T23:32:35Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373625"/>
+    <nd ref="765373181"/>
+    <nd ref="765372868"/>
+    <nd ref="765373769"/>
+    <nd ref="765373632"/>
+    <nd ref="765372732"/>
+    <nd ref="765373778"/>
+    <tag k="access" v="no"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="61239540" version="1" timestamp="2010-06-05T23:32:35Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373634"/>
+    <nd ref="765373238"/>
+    <tag k="highway" v="steps"/>
+  </way>
+  <way id="61239541" version="1" timestamp="2010-06-05T23:32:35Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765372725"/>
+    <nd ref="765373156"/>
+    <nd ref="765373468"/>
+    <nd ref="765372977"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239542" version="1" timestamp="2010-06-05T23:32:35Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373147"/>
+    <nd ref="765372693"/>
+    <nd ref="765373112"/>
+    <nd ref="765373768"/>
+    <nd ref="765372719"/>
+    <nd ref="765373887"/>
+    <nd ref="765372862"/>
+    <nd ref="765373308"/>
+    <nd ref="765373767"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239543" version="1" timestamp="2010-06-05T23:32:35Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373480"/>
+    <nd ref="765373383"/>
+    <nd ref="765372671"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239544" version="1" timestamp="2010-06-05T23:32:35Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765372942"/>
+    <nd ref="765373745"/>
+    <nd ref="765373166"/>
+    <nd ref="765372757"/>
+    <nd ref="765373081"/>
+    <nd ref="765373519"/>
+  </way>
+  <way id="61239544" version="2" timestamp="2011-02-22T12:31:08Z" uid="20587" user="balrog-kun" changeset="7362943">
+    <nd ref="765372942"/>
+    <nd ref="765373745"/>
+    <nd ref="765373166"/>
+    <nd ref="765372757"/>
+    <nd ref="765373081"/>
+    <nd ref="765373519"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="61239545" version="1" timestamp="2010-06-05T23:32:35Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373178"/>
+    <nd ref="765372953"/>
+    <nd ref="765373397"/>
+    <nd ref="765373701"/>
+    <nd ref="765373210"/>
+    <nd ref="765373578"/>
+    <nd ref="765373614"/>
+    <nd ref="765373880"/>
+    <nd ref="765372997"/>
+    <nd ref="765373178"/>
+    <tag k="building" v="service"/>
+  </way>
+  <way id="61239546" version="1" timestamp="2010-06-05T23:32:36Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373392"/>
+    <nd ref="765373441"/>
+    <nd ref="765373734"/>
+    <nd ref="765372801"/>
+    <nd ref="765373126"/>
+    <nd ref="765373565"/>
+    <nd ref="765373843"/>
+    <nd ref="765373490"/>
+    <tag k="highway" v="track"/>
+  </way>
+  <way id="61239547" version="1" timestamp="2010-06-05T23:32:36Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765372710"/>
+    <nd ref="765373169"/>
+    <nd ref="765373389"/>
+    <nd ref="765372858"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239547" version="2" timestamp="2010-06-06T03:31:36Z" uid="20587" user="balrog-kun" changeset="4914136">
+    <nd ref="765372710"/>
+    <nd ref="765373169"/>
+    <nd ref="765373389"/>
+    <nd ref="765372858"/>
+    <nd ref="765400990"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239548" version="1" timestamp="2010-06-05T23:32:36Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765372915"/>
+    <nd ref="765372814"/>
+    <nd ref="765373046"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239549" version="1" timestamp="2010-06-05T23:32:36Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373448"/>
+    <nd ref="765373346"/>
+    <nd ref="765373655"/>
+    <nd ref="765372807"/>
+    <nd ref="765373448"/>
+    <tag k="leisure" v="pitch"/>
+  </way>
+  <way id="61239550" version="1" timestamp="2010-06-05T23:32:36Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373797"/>
+    <nd ref="765373821"/>
+    <nd ref="765373416"/>
+    <nd ref="765373498"/>
+    <nd ref="99349996"/>
+    <nd ref="318495797"/>
+    <nd ref="318495796"/>
+    <nd ref="99350002"/>
+    <nd ref="318495766"/>
+    <nd ref="99350008"/>
+    <nd ref="318495764"/>
+    <nd ref="318495762"/>
+    <nd ref="99350011"/>
+    <nd ref="99350014"/>
+    <nd ref="318495769"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="2"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="61239550" version="2" timestamp="2010-10-14T18:18:28Z" uid="88909" user="miko101" changeset="6041655">
+    <nd ref="765373797"/>
+    <nd ref="765373821"/>
+    <nd ref="765373416"/>
+    <nd ref="765373498"/>
+    <nd ref="99349996"/>
+    <nd ref="318495797"/>
+    <nd ref="318495796"/>
+    <nd ref="99350002"/>
+    <nd ref="318495766"/>
+    <nd ref="99350008"/>
+    <nd ref="318495764"/>
+    <nd ref="318495762"/>
+    <nd ref="99350011"/>
+    <nd ref="99350014"/>
+    <nd ref="318495769"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="layer" v="2"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="61239550" version="3" timestamp="2011-05-26T22:16:09Z" uid="88909" user="miko101" changeset="8257935"/>
+  <way id="61239551" version="1" timestamp="2010-06-05T23:32:36Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373210"/>
+    <nd ref="765372962"/>
+    <nd ref="765373406"/>
+    <nd ref="765372871"/>
+    <nd ref="765373272"/>
+    <nd ref="765373654"/>
+    <nd ref="765373928"/>
+    <nd ref="765373578"/>
+    <nd ref="765373210"/>
+    <tag k="building" v="service"/>
+  </way>
+  <way id="61239552" version="1" timestamp="2010-06-05T23:32:36Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373778"/>
+    <nd ref="765373361"/>
+    <nd ref="765373054"/>
+    <nd ref="765373593"/>
+    <nd ref="765372875"/>
+    <nd ref="765373458"/>
+    <nd ref="765373140"/>
+    <nd ref="307665972"/>
+    <tag k="access" v="no"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="61239553" version="1" timestamp="2010-06-05T23:32:36Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765372885"/>
+    <nd ref="765373727"/>
+    <nd ref="765372797"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="61239554" version="1" timestamp="2010-06-05T23:32:37Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="318496175"/>
+    <nd ref="765373944"/>
+  </way>
+  <way id="61239554" version="2" timestamp="2011-11-24T20:09:08Z" uid="98542" user="wajak" changeset="9936991">
+    <nd ref="246818754"/>
+    <nd ref="280378056"/>
+    <nd ref="318496175"/>
+    <nd ref="765373944"/>
+    <nd ref="765372824"/>
+    <nd ref="765373280"/>
+    <nd ref="254021365"/>
+    <nd ref="765372905"/>
+    <nd ref="765372897"/>
+    <nd ref="254021367"/>
+    <nd ref="765373925"/>
+    <nd ref="765373841"/>
+    <nd ref="765372800"/>
+    <nd ref="765373262"/>
+    <nd ref="254021369"/>
+    <nd ref="259570179"/>
+    <nd ref="259570180"/>
+    <nd ref="765372881"/>
+    <nd ref="765373199"/>
+    <nd ref="254021371"/>
+    <nd ref="259568209"/>
+    <nd ref="765373686"/>
+    <nd ref="765373503"/>
+    <nd ref="765372928"/>
+    <nd ref="254021373"/>
+    <tag k="highway" v="cycleway"/>
+  </way>
+  <way id="61239555" version="1" timestamp="2010-06-05T23:32:37Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="282697896"/>
+    <nd ref="280378068"/>
+    <nd ref="246818768"/>
+    <nd ref="318496172"/>
+    <nd ref="254021434"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxheight" v="3.5"/>
+    <tag k="name" v="Gwintowa"/>
+  </way>
+  <way id="61239556" version="1" timestamp="2010-06-05T23:32:37Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373095"/>
+    <nd ref="765373017"/>
+    <nd ref="765373319"/>
+    <nd ref="765373814"/>
+    <nd ref="765373095"/>
+    <tag k="building" v="service"/>
+  </way>
+  <way id="61239556" version="2" timestamp="2010-06-20T03:22:58Z" uid="20587" user="balrog-kun" changeset="5029412">
+    <nd ref="765373095"/>
+    <nd ref="765373017"/>
+    <nd ref="765373319"/>
+    <nd ref="765373814"/>
+    <nd ref="765373095"/>
+    <tag k="building" v="service"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="name" v="Pompownia mała"/>
+  </way>
+  <way id="61239557" version="1" timestamp="2010-06-05T23:32:37Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373703"/>
+    <nd ref="765373624"/>
+    <nd ref="765373892"/>
+    <nd ref="765373536"/>
+    <nd ref="765373816"/>
+    <nd ref="765372920"/>
+    <nd ref="765373229"/>
+    <nd ref="765373678"/>
+    <nd ref="765373950"/>
+    <nd ref="765373065"/>
+    <nd ref="765373369"/>
+    <nd ref="765373275"/>
+    <nd ref="765373579"/>
+    <nd ref="765373987"/>
+    <nd ref="765372963"/>
+    <nd ref="765373409"/>
+    <nd ref="765373707"/>
+    <tag k="highway" v="track"/>
+  </way>
+  <way id="61239558" version="1" timestamp="2010-06-05T23:32:37Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765372711"/>
+    <nd ref="765373260"/>
+    <nd ref="765373484"/>
+    <nd ref="765372948"/>
+    <nd ref="765372849"/>
+    <nd ref="765373164"/>
+    <nd ref="765372711"/>
+    <tag k="amenity" v="parking"/>
+  </way>
+  <way id="61239559" version="1" timestamp="2010-06-05T23:32:37Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765372862"/>
+    <nd ref="765372785"/>
+    <nd ref="765372680"/>
+    <nd ref="765373003"/>
+    <nd ref="765373394"/>
+    <nd ref="765373308"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239560" version="1" timestamp="2010-06-05T23:32:37Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373070"/>
+    <nd ref="765372979"/>
+    <nd ref="765373751"/>
+    <nd ref="765372896"/>
+    <nd ref="765373208"/>
+    <nd ref="765373649"/>
+    <nd ref="765373923"/>
+    <nd ref="765373811"/>
+    <nd ref="765373562"/>
+    <nd ref="765373772"/>
+    <nd ref="765373760"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239560" version="2" timestamp="2011-08-05T21:27:41Z" uid="392955" user="FiligranFifak" changeset="8933006">
+    <nd ref="765373760"/>
+    <nd ref="765373772"/>
+    <nd ref="765373562"/>
+    <nd ref="765373811"/>
+    <nd ref="765373923"/>
+    <nd ref="765373649"/>
+    <nd ref="765373208"/>
+    <nd ref="765372896"/>
+    <nd ref="765373751"/>
+    <nd ref="765372979"/>
+    <nd ref="765373070"/>
+    <nd ref="1387874709"/>
+    <nd ref="1387874710"/>
+    <nd ref="1387874711"/>
+    <nd ref="398776800"/>
+    <nd ref="1387874713"/>
+    <nd ref="1387874715"/>
+    <nd ref="1387874716"/>
+    <nd ref="1387874719"/>
+    <nd ref="1387874722"/>
+    <nd ref="1387874725"/>
+    <nd ref="1387874728"/>
+    <nd ref="344554051"/>
+    <nd ref="1254402164"/>
+    <nd ref="1254402178"/>
+    <nd ref="1254402177"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239561" version="1" timestamp="2010-06-05T23:32:37Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373622"/>
+    <nd ref="765372767"/>
+    <nd ref="765373224"/>
+    <nd ref="765372690"/>
+    <nd ref="765373936"/>
+    <nd ref="765372909"/>
+    <nd ref="765373354"/>
+    <nd ref="765373663"/>
+    <nd ref="765372841"/>
+    <nd ref="765373850"/>
+    <nd ref="765373492"/>
+    <nd ref="765373774"/>
+    <nd ref="765373197"/>
+    <nd ref="765373635"/>
+    <nd ref="765373906"/>
+    <nd ref="765373021"/>
+    <nd ref="765373824"/>
+    <nd ref="765372698"/>
+    <nd ref="765373145"/>
+    <nd ref="765373858"/>
+    <nd ref="765372825"/>
+    <nd ref="765373281"/>
+    <nd ref="765373587"/>
+    <nd ref="765373995"/>
+    <nd ref="765372971"/>
+    <nd ref="765373255"/>
+    <nd ref="765373914"/>
+    <nd ref="765372888"/>
+    <nd ref="765373644"/>
+    <nd ref="765372704"/>
+    <nd ref="765373027"/>
+    <nd ref="765373478"/>
+    <nd ref="765373755"/>
+    <nd ref="765372776"/>
+    <nd ref="765373683"/>
+    <nd ref="765373438"/>
+    <nd ref="765373040"/>
+    <nd ref="765373347"/>
+    <nd ref="765372792"/>
+    <nd ref="765372954"/>
+    <nd ref="765373266"/>
+    <nd ref="765373794"/>
+    <nd ref="765373076"/>
+    <nd ref="765373871"/>
+    <nd ref="765373205"/>
+    <nd ref="765373111"/>
+    <nd ref="765373420"/>
+    <nd ref="280377820"/>
+    <nd ref="765373551"/>
+    <nd ref="765373958"/>
+    <nd ref="765372932"/>
+    <nd ref="765373878"/>
+    <nd ref="765372855"/>
+    <nd ref="765373303"/>
+    <nd ref="765373612"/>
+    <nd ref="765373613"/>
+    <nd ref="765373879"/>
+    <nd ref="765372995"/>
+    <nd ref="765373304"/>
+    <nd ref="765373729"/>
+    <nd ref="765373320"/>
+    <nd ref="765372666"/>
+    <nd ref="765373745"/>
+    <nd ref="765372693"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239561" version="2" timestamp="2011-08-31T23:33:23Z" uid="508862" user="KeiDii" changeset="9180964">
+    <nd ref="765373622"/>
+    <nd ref="765372767"/>
+    <nd ref="765373224"/>
+    <nd ref="765372690"/>
+    <nd ref="765373936"/>
+    <nd ref="765372909"/>
+    <nd ref="765373354"/>
+    <nd ref="765373663"/>
+    <nd ref="765372841"/>
+    <nd ref="765373850"/>
+    <nd ref="765373492"/>
+    <nd ref="765373774"/>
+    <nd ref="765373197"/>
+    <nd ref="765373635"/>
+    <nd ref="765373906"/>
+    <nd ref="765373021"/>
+    <nd ref="765373824"/>
+    <nd ref="765372698"/>
+    <nd ref="765373145"/>
+    <nd ref="765372825"/>
+    <nd ref="765373281"/>
+    <nd ref="765373587"/>
+    <nd ref="765373995"/>
+    <nd ref="765372971"/>
+    <nd ref="765373255"/>
+    <nd ref="765373914"/>
+    <nd ref="765372888"/>
+    <nd ref="765373644"/>
+    <nd ref="765372704"/>
+    <nd ref="765373027"/>
+    <nd ref="765373478"/>
+    <nd ref="765373755"/>
+    <nd ref="765372776"/>
+    <nd ref="765373683"/>
+    <nd ref="765373438"/>
+    <nd ref="765373040"/>
+    <nd ref="765373347"/>
+    <nd ref="765372792"/>
+    <nd ref="765372954"/>
+    <nd ref="765373266"/>
+    <nd ref="765373794"/>
+    <nd ref="765373076"/>
+    <nd ref="765373871"/>
+    <nd ref="765373205"/>
+    <nd ref="765373111"/>
+    <nd ref="765373420"/>
+    <nd ref="280377820"/>
+    <nd ref="765373551"/>
+    <nd ref="765373958"/>
+    <nd ref="765372932"/>
+    <nd ref="765373878"/>
+    <nd ref="765372855"/>
+    <nd ref="765373303"/>
+    <nd ref="765373612"/>
+    <nd ref="765373613"/>
+    <nd ref="765373879"/>
+    <nd ref="765372995"/>
+    <nd ref="765373304"/>
+    <nd ref="765373729"/>
+    <nd ref="765373320"/>
+    <nd ref="765372666"/>
+    <nd ref="765373745"/>
+    <nd ref="765372693"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239562" version="1" timestamp="2010-06-05T23:32:37Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373039"/>
+    <nd ref="765373570"/>
+    <nd ref="765373179"/>
+    <nd ref="765373766"/>
+    <nd ref="765372865"/>
+    <nd ref="765373623"/>
+    <nd ref="765373800"/>
+    <nd ref="765373890"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239562" version="2" timestamp="2011-01-23T20:12:45Z" uid="277387" user="rogal" changeset="7066663">
+    <nd ref="1117514212"/>
+    <nd ref="765373039"/>
+    <nd ref="765373570"/>
+    <nd ref="765373179"/>
+    <nd ref="765373766"/>
+    <nd ref="765372865"/>
+    <nd ref="765373623"/>
+    <nd ref="765373800"/>
+    <nd ref="765373890"/>
+    <nd ref="1117514211"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239563" version="1" timestamp="2010-06-05T23:32:38Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373239"/>
+    <nd ref="765373297"/>
+    <nd ref="765373605"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="61239564" version="1" timestamp="2010-06-05T23:32:38Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373773"/>
+    <nd ref="765373454"/>
+    <nd ref="765373983"/>
+    <nd ref="765372960"/>
+    <nd ref="765373905"/>
+    <nd ref="765372879"/>
+    <nd ref="765373325"/>
+    <nd ref="765373634"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239565" version="1" timestamp="2010-06-05T23:32:38Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373772"/>
+    <nd ref="765373945"/>
+    <nd ref="765373046"/>
+    <nd ref="765373184"/>
+    <nd ref="765373491"/>
+    <nd ref="765373104"/>
+    <nd ref="765373417"/>
+    <nd ref="765373822"/>
+    <nd ref="765372777"/>
+    <nd ref="765373235"/>
+    <nd ref="765373544"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239565" version="2" timestamp="2011-11-12T20:33:39Z" uid="392955" user="FiligranFifak" changeset="9808225">
+    <nd ref="765373772"/>
+    <nd ref="765373945"/>
+    <nd ref="765373046"/>
+    <nd ref="1500582202"/>
+    <nd ref="765373184"/>
+    <nd ref="765373491"/>
+    <nd ref="765373104"/>
+    <nd ref="765373417"/>
+    <nd ref="765373822"/>
+    <nd ref="765372777"/>
+    <nd ref="765373235"/>
+    <nd ref="765373544"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239566" version="1" timestamp="2010-06-05T23:32:38Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="280377957"/>
+    <nd ref="765373464"/>
+    <nd ref="765373518"/>
+    <nd ref="765373132"/>
+    <nd ref="765373453"/>
+    <nd ref="765373848"/>
+    <nd ref="765372811"/>
+    <nd ref="765373270"/>
+    <nd ref="765373575"/>
+    <nd ref="765373981"/>
+    <nd ref="765372958"/>
+    <nd ref="765372861"/>
+    <nd ref="765373173"/>
+    <nd ref="765373618"/>
+    <nd ref="765373885"/>
+    <nd ref="765373002"/>
+    <nd ref="765373307"/>
+    <nd ref="765373737"/>
+    <nd ref="765372679"/>
+    <nd ref="765373667"/>
+    <nd ref="765373941"/>
+    <nd ref="765373052"/>
+    <nd ref="765373359"/>
+    <nd ref="254021492"/>
+    <tag k="cycleway" v="track"/>
+    <tag k="highway" v="cycleway"/>
+  </way>
+  <way id="61239567" version="1" timestamp="2010-06-05T23:32:38Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373013"/>
+    <nd ref="260845840"/>
+    <nd ref="765373945"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="61239568" version="1" timestamp="2010-06-05T23:32:38Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373221"/>
+    <nd ref="765373529"/>
+    <nd ref="765373348"/>
+    <nd ref="765373657"/>
+    <nd ref="765373267"/>
+    <nd ref="257443350"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Ludwika van Beethovena"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="61239568" version="2" timestamp="2011-08-31T23:33:17Z" uid="508862" user="KeiDii" changeset="9180964">
+    <nd ref="765373221"/>
+    <nd ref="765373529"/>
+    <nd ref="765373348"/>
+    <nd ref="765373267"/>
+    <nd ref="257443350"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Ludwika van Beethovena"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="61239569" version="1" timestamp="2010-06-05T23:32:38Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765372701"/>
+    <nd ref="765373830"/>
+    <nd ref="765372933"/>
+    <nd ref="765373245"/>
+    <nd ref="765373688"/>
+    <nd ref="765373959"/>
+    <nd ref="765372701"/>
+    <tag k="building" v="service"/>
+  </way>
+  <way id="61239570" version="1" timestamp="2010-06-05T23:32:38Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373739"/>
+    <nd ref="765372729"/>
+    <nd ref="765373980"/>
+    <nd ref="765372956"/>
+    <nd ref="765373400"/>
+    <nd ref="765373704"/>
+    <nd ref="765372765"/>
+    <nd ref="765373090"/>
+    <nd ref="765373530"/>
+    <nd ref="765373808"/>
+    <nd ref="765373747"/>
+    <nd ref="765373465"/>
+    <nd ref="765372831"/>
+    <nd ref="765373150"/>
+    <tag k="highway" v="track"/>
+  </way>
+  <way id="61239570" version="2" timestamp="2011-01-23T20:12:46Z" uid="277387" user="rogal" changeset="7066663">
+    <nd ref="765373739"/>
+    <nd ref="765372729"/>
+    <nd ref="765373980"/>
+    <nd ref="765372956"/>
+    <nd ref="765373400"/>
+    <nd ref="765373704"/>
+    <nd ref="765372765"/>
+    <nd ref="765373090"/>
+    <nd ref="765373530"/>
+    <nd ref="765373808"/>
+    <nd ref="765373747"/>
+    <nd ref="765373465"/>
+    <nd ref="765372831"/>
+    <nd ref="765373150"/>
+    <nd ref="280378046"/>
+    <tag k="highway" v="track"/>
+  </way>
+  <way id="61239571" version="1" timestamp="2010-06-05T23:32:39Z" uid="20587" user="balrog-kun" changeset="4913470">
+    <nd ref="765373135"/>
+    <nd ref="765372888"/>
+    <nd ref="765373332"/>
+    <nd ref="765372803"/>
+    <nd ref="765373127"/>
+    <nd ref="765373566"/>
+    <tag k="access" v="no"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="61239571" version="2" timestamp="2011-08-31T23:33:22Z" uid="508862" user="KeiDii" changeset="9180964">
+    <nd ref="765373135"/>
+    <nd ref="765372888"/>
+    <nd ref="765373332"/>
+    <nd ref="765372803"/>
+    <nd ref="765373566"/>
+    <tag k="access" v="no"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="61239657" version="1" timestamp="2010-06-05T23:44:26Z" uid="7617" user="Franc" changeset="4913498">
+    <nd ref="251267991"/>
+    <nd ref="251267992"/>
+    <nd ref="765376463"/>
+    <nd ref="251267993"/>
+    <nd ref="251268006"/>
+    <nd ref="251268005"/>
+    <nd ref="251267991"/>
+    <tag k="leisure" v="park"/>
+    <tag k="name" v="South Maroubra Village Green"/>
+    <tag k="source" v="yahoo_imagery"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="61239658" version="1" timestamp="2010-06-05T23:44:26Z" uid="7617" user="Franc" changeset="4913498">
+    <nd ref="765376465"/>
+    <nd ref="765376455"/>
+    <nd ref="765376456"/>
+    <nd ref="31483711"/>
+    <tag k="highway" v="footway"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="61239659" version="1" timestamp="2010-06-05T23:44:26Z" uid="7617" user="Franc" changeset="4913498">
+    <nd ref="765376478"/>
+    <nd ref="32481788"/>
+    <tag k="cycleway" v="lane"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lcn" v="yes"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Banks Avenue"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="61239660" version="1" timestamp="2010-06-05T23:44:26Z" uid="7617" user="Franc" changeset="4913498">
+    <nd ref="765376484"/>
+    <nd ref="765376483"/>
+    <nd ref="765376504"/>
+    <nd ref="765376503"/>
+    <nd ref="765376486"/>
+    <nd ref="765376485"/>
+    <nd ref="765376484"/>
+    <tag k="leisure" v="playground"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="61239661" version="1" timestamp="2010-06-05T23:44:26Z" uid="7617" user="Franc" changeset="4913498">
+    <nd ref="765376501"/>
+    <nd ref="765376498"/>
+    <nd ref="765376499"/>
+    <nd ref="765376500"/>
+    <nd ref="765376507"/>
+    <nd ref="765376508"/>
+    <nd ref="765376509"/>
+    <nd ref="765376505"/>
+    <nd ref="765376492"/>
+    <nd ref="765376493"/>
+    <nd ref="765376494"/>
+    <nd ref="765376495"/>
+    <nd ref="765376496"/>
+    <nd ref="765376487"/>
+    <nd ref="765376488"/>
+    <nd ref="765376489"/>
+    <nd ref="765376490"/>
+    <nd ref="765376497"/>
+    <nd ref="765376501"/>
+    <tag k="leisure" v="playground"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="61239662" version="1" timestamp="2010-06-05T23:44:26Z" uid="7617" user="Franc" changeset="4913498">
+    <nd ref="765376527"/>
+    <nd ref="765376555"/>
+    <nd ref="765376556"/>
+    <nd ref="765376557"/>
+    <nd ref="765376558"/>
+    <nd ref="765376559"/>
+    <nd ref="765376560"/>
+    <nd ref="765376561"/>
+    <nd ref="765376562"/>
+    <nd ref="765376545"/>
+    <nd ref="765376546"/>
+    <nd ref="765376547"/>
+    <nd ref="765376538"/>
+    <nd ref="765376539"/>
+    <nd ref="765376540"/>
+    <nd ref="765376541"/>
+    <nd ref="765376528"/>
+    <nd ref="765376529"/>
+    <nd ref="765376530"/>
+    <nd ref="765376531"/>
+    <nd ref="765376532"/>
+    <nd ref="765376527"/>
+    <tag k="leisure" v="park"/>
+    <tag k="name" v="Haig Park"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="61239663" version="1" timestamp="2010-06-05T23:44:27Z" uid="7617" user="Franc" changeset="4913498">
+    <nd ref="31487546"/>
+    <nd ref="765376520"/>
+    <nd ref="765376521"/>
+    <nd ref="765376522"/>
+    <nd ref="765376523"/>
+    <nd ref="765376524"/>
+    <nd ref="765376525"/>
+    <nd ref="765376526"/>
+    <nd ref="765376548"/>
+    <nd ref="765376549"/>
+    <nd ref="765376550"/>
+    <nd ref="765376563"/>
+    <nd ref="765376551"/>
+    <nd ref="765376552"/>
+    <nd ref="765376553"/>
+    <nd ref="765376554"/>
+    <nd ref="765376543"/>
+    <nd ref="765376544"/>
+    <nd ref="765376534"/>
+    <nd ref="765376535"/>
+    <nd ref="765376536"/>
+    <nd ref="765376537"/>
+    <nd ref="765376520"/>
+    <tag k="fixme:sign:no" v="2010-06-05"/>
+    <tag k="highway" v="service"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="61239663" version="2" timestamp="2011-01-13T12:30:26Z" uid="7617" user="Franc" changeset="6956684">
+    <nd ref="31487546"/>
+    <nd ref="765376520"/>
+    <nd ref="765376521"/>
+    <nd ref="765376522"/>
+    <nd ref="765376523"/>
+    <nd ref="765376524"/>
+    <nd ref="765376525"/>
+    <nd ref="765376526"/>
+    <nd ref="765376548"/>
+    <nd ref="765376549"/>
+    <nd ref="765376550"/>
+    <nd ref="765376563"/>
+    <nd ref="765376551"/>
+    <nd ref="765376552"/>
+    <nd ref="765376553"/>
+    <nd ref="765376554"/>
+    <nd ref="765376543"/>
+    <nd ref="765376544"/>
+    <nd ref="765376534"/>
+    <nd ref="765376535"/>
+    <nd ref="765376536"/>
+    <nd ref="765376537"/>
+    <nd ref="765376520"/>
+    <tag k="fixme:sign:no" v="2011-11-02"/>
+    <tag k="highway" v="service"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="61239664" version="1" timestamp="2010-06-05T23:44:27Z" uid="7617" user="Franc" changeset="4913498">
+    <nd ref="31439792"/>
+    <nd ref="765376563"/>
+    <tag k="highway" v="footway"/>
+    <tag k="source" v="extraploation"/>
+  </way>
+  <way id="61239665" version="1" timestamp="2010-06-05T23:44:27Z" uid="7617" user="Franc" changeset="4913498">
+    <nd ref="31487514"/>
+    <nd ref="600874504"/>
+    <tag k="cycleway" v="lane"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lcn" v="yes"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:(Mo-Fr 08:00-09:30,14:30-16:00)" v="40"/>
+    <tag k="name" v="Banks Avenue"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="restriction" v="school_zone"/>
+  </way>
+  <way id="61239665" version="2" timestamp="2011-12-13T22:58:43Z" uid="349913" user="Peter W34" changeset="10112055">
+    <nd ref="31487514"/>
+    <nd ref="600874504"/>
+    <tag k="cycleway" v="lane"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lcn" v="yes"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:restriction" v="40"/>
+    <tag k="name" v="Banks Avenue"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="restriction" v="school_zone"/>
+    <tag k="restriction_hours" v="Mo-Fr 08:00-09:30;14:30-16:00"/>
+  </way>
+</osm>

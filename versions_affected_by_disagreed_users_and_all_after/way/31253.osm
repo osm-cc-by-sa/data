@@ -1,0 +1,880 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="31253047" version="4" timestamp="2010-03-28T01:03:27Z" uid="20587" user="balrog-kun" changeset="4250871">
+    <nd ref="57846272"/>
+    <nd ref="57846276"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Bancroft Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Contra Costa, CA"/>
+    <tag k="tiger:name_base" v="Bancroft"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="192056221:192073099:192056878:192113437"/>
+    <tag k="tiger:zip_left" v="94598"/>
+  </way>
+  <way id="31253048" version="5" timestamp="2010-03-28T01:03:27Z" uid="20587" user="balrog-kun" changeset="4250871">
+    <nd ref="57846276"/>
+    <nd ref="57846278"/>
+    <nd ref="57846280"/>
+    <nd ref="57808541"/>
+    <nd ref="57846283"/>
+    <nd ref="57846285"/>
+    <nd ref="57846287"/>
+    <nd ref="57834413"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Bancroft Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Contra Costa, CA"/>
+    <tag k="tiger:name_base" v="Bancroft"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="192056221:192073099:192056878:192113437"/>
+    <tag k="tiger:zip_left" v="94598"/>
+  </way>
+  <way id="31253109" version="2" timestamp="2011-04-21T00:46:58Z" uid="4467" user="Rosscoe" changeset="7921438">
+    <nd ref="347471489"/>
+    <nd ref="347471491"/>
+    <nd ref="347471492"/>
+    <nd ref="347471493"/>
+    <nd ref="347471494"/>
+    <nd ref="347471496"/>
+    <nd ref="347471497"/>
+    <nd ref="347471498"/>
+    <nd ref="347471499"/>
+    <nd ref="347471500"/>
+    <nd ref="347471501"/>
+    <nd ref="347471502"/>
+    <nd ref="347471504"/>
+    <nd ref="347471489"/>
+    <tag k="leisure" v="park"/>
+    <tag k="name" v="Arch Gibson Reserve"/>
+  </way>
+  <way id="31253125" version="3" timestamp="2011-04-21T00:47:03Z" uid="4467" user="Rosscoe" changeset="7921438">
+    <nd ref="347472058"/>
+    <nd ref="347472059"/>
+    <nd ref="347472061"/>
+    <nd ref="347472062"/>
+    <nd ref="347472058"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="name" v="Kingsbury Bowling Club"/>
+    <tag k="sport" v="bowls"/>
+  </way>
+  <way id="31253137" version="3" timestamp="2011-04-21T00:47:18Z" uid="4467" user="Rosscoe" changeset="7921438">
+    <nd ref="347472411"/>
+    <nd ref="347472413"/>
+    <nd ref="347472414"/>
+    <nd ref="347472415"/>
+    <nd ref="347472411"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="31253142" version="3" timestamp="2010-07-09T04:05:25Z" uid="74617" user="JohnSmith" changeset="5170825">
+    <nd ref="275242657"/>
+    <nd ref="347472689"/>
+    <nd ref="347472691"/>
+    <nd ref="347472693"/>
+    <nd ref="347472696"/>
+    <nd ref="347472698"/>
+    <nd ref="347472700"/>
+    <nd ref="347472702"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="31253142" version="4" timestamp="2011-04-21T00:47:34Z" uid="4467" user="Rosscoe" changeset="7921438">
+    <nd ref="275242657"/>
+    <nd ref="347472689"/>
+    <nd ref="347472691"/>
+    <nd ref="347472693"/>
+    <nd ref="347472696"/>
+    <nd ref="347472698"/>
+    <nd ref="347472700"/>
+    <nd ref="347472702"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="31253142" version="5" timestamp="2012-01-06T03:13:51Z" uid="211804" user="KenS" changeset="10307638">
+    <nd ref="275242657"/>
+    <nd ref="347472689"/>
+    <nd ref="347472691"/>
+    <nd ref="347472693"/>
+    <nd ref="347472696"/>
+    <nd ref="347472698"/>
+    <nd ref="347472700"/>
+    <nd ref="347472702"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="service" v="driveway"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="31253142" version="6" timestamp="2012-01-18T07:17:37Z" uid="147510" user="woodpeck_fixbot" changeset="10424702">
+    <nd ref="275242657"/>
+    <nd ref="347472689"/>
+    <nd ref="347472691"/>
+    <nd ref="347472693"/>
+    <nd ref="347472696"/>
+    <nd ref="347472698"/>
+    <nd ref="347472700"/>
+    <nd ref="347472702"/>
+    <tag k="highway" v="service"/>
+    <tag k="service" v="driveway"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="31253242" version="6" timestamp="2010-07-09T04:09:07Z" uid="74617" user="JohnSmith" changeset="5170825">
+    <nd ref="338163157"/>
+    <nd ref="347473619"/>
+    <nd ref="322511253"/>
+    <nd ref="347473570"/>
+    <nd ref="347473571"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="McMahon Road"/>
+    <tag k="source" v="Yahoo"/>
+    <tag k="source:name" v="Collins 1936"/>
+  </way>
+  <way id="31253242" version="7" timestamp="2012-01-18T07:17:39Z" uid="147510" user="woodpeck_fixbot" changeset="10424702">
+    <nd ref="338163157"/>
+    <nd ref="347473619"/>
+    <nd ref="322511253"/>
+    <nd ref="347473570"/>
+    <nd ref="347473571"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="McMahon Road"/>
+    <tag k="source" v="Yahoo"/>
+    <tag k="source:name" v="Collins 1936"/>
+  </way>
+  <way id="31253249" version="4" timestamp="2010-07-09T04:01:26Z" uid="74617" user="JohnSmith" changeset="5170825">
+    <nd ref="611615356"/>
+    <nd ref="611615377"/>
+    <nd ref="611615378"/>
+    <nd ref="347473616"/>
+    <nd ref="347473617"/>
+    <nd ref="347473618"/>
+    <nd ref="347473619"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Clements Grove"/>
+    <tag k="source" v="Yahoo"/>
+    <tag k="source:name" v="Collins 1936"/>
+  </way>
+  <way id="31253249" version="5" timestamp="2012-01-18T07:17:40Z" uid="147510" user="woodpeck_fixbot" changeset="10424702">
+    <nd ref="611615356"/>
+    <nd ref="611615377"/>
+    <nd ref="611615378"/>
+    <nd ref="347473616"/>
+    <nd ref="347473617"/>
+    <nd ref="347473618"/>
+    <nd ref="347473619"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Clements Grove"/>
+    <tag k="source" v="Yahoo"/>
+    <tag k="source:name" v="Collins 1936"/>
+  </way>
+  <way id="31253257" version="3" timestamp="2010-07-08T16:19:20Z" uid="74617" user="JohnSmith" changeset="5167338">
+    <nd ref="347473645"/>
+    <nd ref="347473646"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Dora Street"/>
+    <tag k="source" v="GPS"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="31253257" version="4" timestamp="2012-01-18T07:17:41Z" uid="147510" user="woodpeck_fixbot" changeset="10424702">
+    <nd ref="347473645"/>
+    <nd ref="347473646"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Dora Street"/>
+    <tag k="source" v="GPS"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="31253263" version="3" timestamp="2010-07-09T04:08:11Z" uid="74617" user="JohnSmith" changeset="5170825">
+    <nd ref="347473720"/>
+    <nd ref="347473725"/>
+    <nd ref="347473726"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Box Street"/>
+  </way>
+  <way id="31253263" version="4" timestamp="2012-01-18T07:17:43Z" uid="147510" user="woodpeck_fixbot" changeset="10424702">
+    <nd ref="347473720"/>
+    <nd ref="347473725"/>
+    <nd ref="347473726"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Box Street"/>
+  </way>
+  <way id="31253267" version="4" timestamp="2010-07-08T16:20:16Z" uid="74617" user="JohnSmith" changeset="5167338">
+    <nd ref="130020069"/>
+    <nd ref="130020072"/>
+    <nd ref="130020066"/>
+    <nd ref="347285994"/>
+    <nd ref="130020062"/>
+    <nd ref="448163145"/>
+    <nd ref="130020073"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Summer Street East"/>
+  </way>
+  <way id="31253267" version="5" timestamp="2012-01-18T07:17:44Z" uid="147510" user="woodpeck_fixbot" changeset="10424702">
+    <nd ref="130020069"/>
+    <nd ref="130020072"/>
+    <nd ref="130020066"/>
+    <nd ref="347285994"/>
+    <nd ref="130020062"/>
+    <nd ref="448163145"/>
+    <nd ref="130020073"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Summer Street East"/>
+  </way>
+  <way id="31253318" version="3" timestamp="2010-07-08T16:20:08Z" uid="74617" user="JohnSmith" changeset="5167338">
+    <nd ref="347474273"/>
+    <nd ref="347474274"/>
+    <nd ref="347474275"/>
+    <nd ref="347474276"/>
+    <nd ref="347474277"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Richard Laffan Place"/>
+    <tag k="source" v="GPS"/>
+  </way>
+  <way id="31253318" version="4" timestamp="2012-01-18T07:17:45Z" uid="147510" user="woodpeck_fixbot" changeset="10424702">
+    <nd ref="347474273"/>
+    <nd ref="347474274"/>
+    <nd ref="347474275"/>
+    <nd ref="347474276"/>
+    <nd ref="347474277"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Richard Laffan Place"/>
+    <tag k="source" v="GPS"/>
+  </way>
+  <way id="31253331" version="4" timestamp="2010-07-08T16:22:18Z" uid="74617" user="JohnSmith" changeset="5167338">
+    <nd ref="347474305"/>
+    <nd ref="347474321"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Thomas Brosnan Way"/>
+    <tag k="source" v="GPS"/>
+  </way>
+  <way id="31253331" version="5" timestamp="2012-01-18T07:17:47Z" uid="147510" user="woodpeck_fixbot" changeset="10424702">
+    <nd ref="347474305"/>
+    <nd ref="347474321"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Thomas Brosnan Way"/>
+    <tag k="source" v="GPS"/>
+  </way>
+  <way id="31253358" version="3" timestamp="2010-07-08T16:20:58Z" uid="74617" user="JohnSmith" changeset="5167338">
+    <nd ref="293101852"/>
+    <nd ref="347474477"/>
+    <nd ref="347474478"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Sean O&apos;Dougherty Place"/>
+    <tag k="source" v="GPS"/>
+  </way>
+  <way id="31253358" version="4" timestamp="2012-01-18T07:17:47Z" uid="147510" user="woodpeck_fixbot" changeset="10424702">
+    <nd ref="293101852"/>
+    <nd ref="347474477"/>
+    <nd ref="347474478"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Sean O&apos;Dougherty Place"/>
+    <tag k="source" v="GPS"/>
+  </way>
+  <way id="31253386" version="3" timestamp="2010-07-08T16:21:06Z" uid="74617" user="JohnSmith" changeset="5167338">
+    <nd ref="347474558"/>
+    <nd ref="347474696"/>
+    <nd ref="347474697"/>
+    <nd ref="347474698"/>
+    <nd ref="347474699"/>
+    <nd ref="347474700"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Angela Place"/>
+    <tag k="source" v="GPS"/>
+  </way>
+  <way id="31253386" version="4" timestamp="2012-01-18T07:17:49Z" uid="147510" user="woodpeck_fixbot" changeset="10424702">
+    <nd ref="347474558"/>
+    <nd ref="347474696"/>
+    <nd ref="347474697"/>
+    <nd ref="347474698"/>
+    <nd ref="347474699"/>
+    <nd ref="347474700"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Angela Place"/>
+    <tag k="source" v="GPS"/>
+  </way>
+  <way id="31253408" version="3" timestamp="2010-07-08T16:20:15Z" uid="74617" user="JohnSmith" changeset="5167338">
+    <nd ref="293101773"/>
+    <nd ref="347474736"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Edward Martin Avenue"/>
+    <tag k="source" v="GPS"/>
+  </way>
+  <way id="31253408" version="4" timestamp="2012-01-18T07:17:50Z" uid="147510" user="woodpeck_fixbot" changeset="10424702">
+    <nd ref="293101773"/>
+    <nd ref="347474736"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Edward Martin Avenue"/>
+    <tag k="source" v="GPS"/>
+  </way>
+  <way id="31253422" version="3" timestamp="2010-03-27T08:29:35Z" uid="115684" user="jVviJ11dNx" changeset="4244389">
+    <nd ref="675560615"/>
+    <nd ref="644281132"/>
+    <nd ref="644281128"/>
+    <nd ref="644281117"/>
+    <nd ref="644281114"/>
+    <nd ref="644281111"/>
+    <nd ref="644281108"/>
+    <nd ref="644281105"/>
+    <nd ref="674488003"/>
+    <nd ref="644281101"/>
+    <nd ref="644281098"/>
+    <nd ref="675560685"/>
+    <nd ref="674488045"/>
+    <nd ref="675560690"/>
+    <nd ref="675560693"/>
+    <nd ref="675560692"/>
+    <nd ref="675560704"/>
+    <nd ref="347475111"/>
+    <nd ref="347475010"/>
+    <nd ref="347475012"/>
+    <nd ref="347475014"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="31253433" version="3" timestamp="2010-03-25T23:16:50Z" uid="115684" user="jVviJ11dNx" changeset="4234059">
+    <nd ref="674488094"/>
+    <nd ref="640588501"/>
+    <nd ref="347475103"/>
+    <nd ref="347475104"/>
+    <nd ref="347475010"/>
+    <nd ref="347475113"/>
+    <nd ref="644625932"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="31253441" version="3" timestamp="2010-03-25T23:16:51Z" uid="115684" user="jVviJ11dNx" changeset="4234059">
+    <nd ref="347475276"/>
+    <nd ref="347475185"/>
+    <nd ref="347475186"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="31253571" version="10" timestamp="2011-01-01T12:00:44Z" uid="18775" user="drlizau" changeset="6826830">
+    <nd ref="347480912"/>
+    <nd ref="348223267"/>
+    <nd ref="347480914"/>
+    <nd ref="347480915"/>
+    <nd ref="347480916"/>
+    <nd ref="347480917"/>
+    <nd ref="347480918"/>
+    <nd ref="347480919"/>
+    <nd ref="347480920"/>
+    <nd ref="347480921"/>
+    <nd ref="347480922"/>
+    <nd ref="347480923"/>
+    <nd ref="347480924"/>
+    <nd ref="347480925"/>
+    <nd ref="347480926"/>
+    <nd ref="347480927"/>
+    <nd ref="347480928"/>
+    <nd ref="347480929"/>
+    <nd ref="347480930"/>
+    <nd ref="347480931"/>
+    <nd ref="347480932"/>
+    <nd ref="347480933"/>
+    <nd ref="347480934"/>
+    <nd ref="347480935"/>
+    <nd ref="347480936"/>
+    <nd ref="347480937"/>
+    <nd ref="347480938"/>
+    <nd ref="347480939"/>
+    <nd ref="347480941"/>
+    <nd ref="347480942"/>
+    <nd ref="347480943"/>
+    <nd ref="347480945"/>
+    <nd ref="347480946"/>
+    <nd ref="347480947"/>
+    <nd ref="347480948"/>
+    <nd ref="347480950"/>
+    <nd ref="347480951"/>
+    <nd ref="347480952"/>
+    <nd ref="347480954"/>
+    <nd ref="347480731"/>
+    <nd ref="347480732"/>
+    <nd ref="347480733"/>
+    <nd ref="347480735"/>
+    <nd ref="347480736"/>
+    <nd ref="347480737"/>
+    <nd ref="347480738"/>
+    <nd ref="347480740"/>
+    <nd ref="347480741"/>
+    <nd ref="347480742"/>
+    <nd ref="347480743"/>
+    <nd ref="347480744"/>
+    <nd ref="347480745"/>
+    <nd ref="347480746"/>
+    <nd ref="347480747"/>
+    <nd ref="347480748"/>
+    <nd ref="347480749"/>
+    <nd ref="347480750"/>
+    <nd ref="347480751"/>
+    <nd ref="347480752"/>
+    <nd ref="347480753"/>
+    <nd ref="347480754"/>
+    <nd ref="347480756"/>
+    <nd ref="347480757"/>
+    <nd ref="347480758"/>
+    <nd ref="347480759"/>
+    <nd ref="347480760"/>
+    <nd ref="347480761"/>
+    <nd ref="347480762"/>
+    <nd ref="347480201"/>
+    <nd ref="347480202"/>
+    <nd ref="347480203"/>
+    <nd ref="347480204"/>
+    <nd ref="347480205"/>
+    <nd ref="347480206"/>
+    <nd ref="347480207"/>
+    <nd ref="347480208"/>
+    <nd ref="347480209"/>
+    <nd ref="347480210"/>
+    <nd ref="347480212"/>
+    <nd ref="347480213"/>
+    <nd ref="347480214"/>
+    <nd ref="347480215"/>
+    <nd ref="347480216"/>
+    <nd ref="347480217"/>
+    <nd ref="347480218"/>
+    <nd ref="347480219"/>
+    <nd ref="347480220"/>
+    <nd ref="347479686"/>
+    <nd ref="347479687"/>
+    <nd ref="347479688"/>
+    <nd ref="347479689"/>
+    <nd ref="347479690"/>
+    <nd ref="347479691"/>
+    <nd ref="347479692"/>
+    <nd ref="347479693"/>
+    <nd ref="347479694"/>
+    <nd ref="347479695"/>
+    <nd ref="347479696"/>
+    <nd ref="347479697"/>
+    <nd ref="347479698"/>
+    <nd ref="347479700"/>
+    <nd ref="347479701"/>
+    <nd ref="347479702"/>
+    <nd ref="347479703"/>
+    <nd ref="347479704"/>
+    <nd ref="347479705"/>
+    <nd ref="347479706"/>
+    <nd ref="347479707"/>
+    <nd ref="347479708"/>
+    <nd ref="347479709"/>
+    <nd ref="347479710"/>
+    <nd ref="347479712"/>
+    <nd ref="347479713"/>
+    <nd ref="347479714"/>
+    <nd ref="347479715"/>
+    <nd ref="347479716"/>
+    <nd ref="347479717"/>
+    <nd ref="347479718"/>
+    <nd ref="347479719"/>
+    <nd ref="347479721"/>
+    <nd ref="347479723"/>
+    <nd ref="347479725"/>
+    <nd ref="347479180"/>
+    <nd ref="347479181"/>
+    <nd ref="347479182"/>
+    <nd ref="347479183"/>
+    <nd ref="347479184"/>
+    <nd ref="347479185"/>
+    <nd ref="347479186"/>
+    <nd ref="347479187"/>
+    <nd ref="347479188"/>
+    <nd ref="347479189"/>
+    <nd ref="347479190"/>
+    <nd ref="347479191"/>
+    <nd ref="347479192"/>
+    <nd ref="347479193"/>
+    <nd ref="347479194"/>
+    <nd ref="347479195"/>
+    <nd ref="347479196"/>
+    <nd ref="347479197"/>
+    <nd ref="347479198"/>
+    <nd ref="347479199"/>
+    <nd ref="347479200"/>
+    <nd ref="347479201"/>
+    <nd ref="347479202"/>
+    <nd ref="347479203"/>
+    <nd ref="347479204"/>
+    <nd ref="347479205"/>
+    <nd ref="347479206"/>
+    <nd ref="347479207"/>
+    <nd ref="347479208"/>
+    <nd ref="347479209"/>
+    <nd ref="347479210"/>
+    <nd ref="347479211"/>
+    <nd ref="347479212"/>
+    <nd ref="347479213"/>
+    <nd ref="347479214"/>
+    <nd ref="347479215"/>
+    <nd ref="347478888"/>
+    <nd ref="347478889"/>
+    <nd ref="347478890"/>
+    <nd ref="347478891"/>
+    <nd ref="347478892"/>
+    <nd ref="347478893"/>
+    <nd ref="347478894"/>
+    <nd ref="347478895"/>
+    <nd ref="347478896"/>
+    <nd ref="347478897"/>
+    <nd ref="347478898"/>
+    <nd ref="347478899"/>
+    <nd ref="347478900"/>
+    <nd ref="347478901"/>
+    <nd ref="347478902"/>
+    <nd ref="347478903"/>
+    <nd ref="347478904"/>
+    <nd ref="347478905"/>
+    <nd ref="347478906"/>
+    <nd ref="347478907"/>
+    <nd ref="347478908"/>
+    <nd ref="347478909"/>
+    <nd ref="347478910"/>
+    <nd ref="347478911"/>
+    <nd ref="347478912"/>
+    <nd ref="347478913"/>
+    <nd ref="347478148"/>
+    <nd ref="347478149"/>
+    <nd ref="347478151"/>
+    <nd ref="347478152"/>
+    <nd ref="347478153"/>
+    <nd ref="347478154"/>
+    <nd ref="347478156"/>
+    <nd ref="347478158"/>
+    <nd ref="347478161"/>
+    <nd ref="347478162"/>
+    <nd ref="347478163"/>
+    <nd ref="347478164"/>
+    <nd ref="347478165"/>
+    <nd ref="347478167"/>
+    <nd ref="347478168"/>
+    <nd ref="347478170"/>
+    <nd ref="347478171"/>
+    <nd ref="347478172"/>
+    <nd ref="347477343"/>
+    <nd ref="347477344"/>
+    <nd ref="347477345"/>
+    <nd ref="347477347"/>
+    <nd ref="347477348"/>
+    <nd ref="347477349"/>
+    <tag k="highway" v="secondary"/>
+  </way>
+  <way id="31253571" version="11" timestamp="2011-01-03T04:27:58Z" uid="18775" user="drlizau" changeset="6846089">
+    <nd ref="347480912"/>
+    <nd ref="348223267"/>
+    <nd ref="347480914"/>
+    <nd ref="347480915"/>
+    <nd ref="347480916"/>
+    <nd ref="347480917"/>
+    <nd ref="347480918"/>
+    <nd ref="347480919"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Barrata Street"/>
+  </way>
+  <way id="31253734" version="2" timestamp="2010-01-29T16:08:03Z" uid="20587" user="balrog-kun" changeset="3744272">
+    <nd ref="347479495"/>
+    <nd ref="622424067"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="pedestrian"/>
+  </way>
+  <way id="31253750" version="2" timestamp="2010-01-29T16:08:02Z" uid="20587" user="balrog-kun" changeset="3744272">
+    <nd ref="347479785"/>
+    <nd ref="347479866"/>
+    <nd ref="347479867"/>
+    <nd ref="347479868"/>
+    <nd ref="347479869"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Calle de Gregorio Vacas"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="31253750" version="3" timestamp="2012-01-31T12:29:14Z" uid="475943" user="sir-mapalot" changeset="10548782">
+    <nd ref="347479785"/>
+    <nd ref="347479866"/>
+    <nd ref="1613001568"/>
+    <nd ref="1613001566"/>
+    <nd ref="347479867"/>
+    <nd ref="347479868"/>
+    <nd ref="1613001559"/>
+    <nd ref="347479869"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Calle de Gregorio Vacas"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="31253772" version="13" timestamp="2010-03-28T01:03:28Z" uid="20587" user="balrog-kun" changeset="4250871">
+    <nd ref="625740267"/>
+    <nd ref="625740352"/>
+    <nd ref="625740367"/>
+    <nd ref="625740373"/>
+    <nd ref="625740374"/>
+    <nd ref="625740376"/>
+    <nd ref="625740381"/>
+    <nd ref="625740384"/>
+    <nd ref="625740387"/>
+    <nd ref="625740390"/>
+    <nd ref="625740246"/>
+    <nd ref="625740392"/>
+    <nd ref="625740394"/>
+    <nd ref="625740232"/>
+    <nd ref="625740396"/>
+    <nd ref="625740397"/>
+    <nd ref="625740399"/>
+    <nd ref="625740402"/>
+    <nd ref="625740404"/>
+    <nd ref="625740407"/>
+    <nd ref="625740411"/>
+    <nd ref="625740415"/>
+    <nd ref="625740417"/>
+    <nd ref="625740155"/>
+    <nd ref="625740421"/>
+    <nd ref="625740424"/>
+    <nd ref="625740427"/>
+    <nd ref="625740430"/>
+    <nd ref="625740434"/>
+    <nd ref="625740436"/>
+    <nd ref="625740437"/>
+    <nd ref="625738422"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Ygnacio Valley Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Contra Costa, CA"/>
+    <tag k="tiger:name_base" v="Ygnacio Valley"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="192061745:192059271:192059240:192059039:192059049:192058598:192058600:192073573:192086646:192112155:192102490:192097353:192073558:192073571:192073565:192059348:192073567:192073569:192050060:192050055"/>
+    <tag k="tiger:zip_left" v="94598"/>
+  </way>
+  <way id="31253813" version="3" timestamp="2011-01-01T10:51:39Z" uid="18775" user="drlizau" changeset="6826559">
+    <nd ref="1076692282"/>
+    <nd ref="347480987"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Carne Street"/>
+  </way>
+  <way id="31253813" version="4" timestamp="2011-01-01T11:03:55Z" uid="18775" user="drlizau" changeset="6826662">
+    <nd ref="1076692282"/>
+    <nd ref="1076710616"/>
+    <nd ref="347480987"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Carne Street"/>
+  </way>
+  <way id="31253813" version="5" timestamp="2011-01-01T12:01:09Z" uid="18775" user="drlizau" changeset="6826830">
+    <nd ref="1076692282"/>
+    <nd ref="1076710616"/>
+    <nd ref="347480987"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Carne Street"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="31253813" version="6" timestamp="2011-01-01T20:58:46Z" uid="18775" user="drlizau" changeset="6832339">
+    <nd ref="1076692282"/>
+    <nd ref="1076710616"/>
+    <nd ref="347480987"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Carne Street"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="31253813" version="7" timestamp="2011-01-01T21:33:10Z" uid="18775" user="drlizau" changeset="6832697">
+    <nd ref="1076692282"/>
+    <nd ref="1076710616"/>
+    <nd ref="347480987"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Carne Street"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="31253851" version="4" timestamp="2010-03-28T01:03:28Z" uid="20587" user="balrog-kun" changeset="4250871">
+    <nd ref="57872246"/>
+    <nd ref="347481306"/>
+    <nd ref="57897595"/>
+    <nd ref="57847642"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Jamie Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Contra Costa, CA"/>
+    <tag k="tiger:name_base" v="Jamie"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="192113000"/>
+    <tag k="tiger:zip_left" v="94518"/>
+    <tag k="tiger:zip_right" v="94518"/>
+  </way>
+  <way id="31253863" version="2" timestamp="2010-03-28T01:03:28Z" uid="20587" user="balrog-kun" changeset="4250871">
+    <nd ref="57860104"/>
+    <nd ref="57810016"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Crowe Place"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Contra Costa, CA"/>
+    <tag k="tiger:name_base" v="Crowe"/>
+    <tag k="tiger:name_type" v="Pl"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="192112974"/>
+    <tag k="tiger:zip_left" v="94518"/>
+    <tag k="tiger:zip_right" v="94518"/>
+  </way>
+  <way id="31253896" version="5" timestamp="2011-03-14T00:11:39Z" uid="49111" user="Markus B" changeset="7552080">
+    <nd ref="347481900"/>
+    <nd ref="347482618"/>
+    <nd ref="347482312"/>
+    <tag k="aeroway" v="runway"/>
+  </way>
+  <way id="31253920" version="5" timestamp="2011-03-14T00:11:36Z" uid="49111" user="Markus B" changeset="7552080">
+    <nd ref="347482618"/>
+    <nd ref="347482896"/>
+    <nd ref="347482807"/>
+    <nd ref="347482619"/>
+    <nd ref="347482620"/>
+    <nd ref="347482621"/>
+    <nd ref="347482311"/>
+    <tag k="aeroway" v="taxiway"/>
+  </way>
+  <way id="31253967" version="2" timestamp="2010-03-28T01:03:29Z" uid="20587" user="balrog-kun" changeset="4250871">
+    <nd ref="122901956"/>
+    <nd ref="122901958"/>
+    <nd ref="122901960"/>
+    <nd ref="295408334"/>
+    <nd ref="295408335"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="cycleway" v="lane"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="37"/>
+    <tag k="name" v="Golden Lantern Street"/>
+    <tag k="name_1" v="St of the Golden Lantern"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Orange, CA"/>
+    <tag k="tiger:name_base" v="Golden Lantern"/>
+    <tag k="tiger:name_base_1" v="St of the Golden Lantern"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="144398394:144398395:144073138:144073139:144073141:144073143:144073447:144073452:144073456:144073161:144073383:144122491"/>
+    <tag k="tiger:zip_left" v="92629"/>
+    <tag k="tiger:zip_right" v="92629"/>
+  </way>
+  <way id="31253967" version="3" timestamp="2010-04-05T12:35:18Z" uid="20587" user="balrog-kun" changeset="4332433">
+    <nd ref="122901956"/>
+    <nd ref="122901958"/>
+    <nd ref="122901960"/>
+    <nd ref="295408334"/>
+    <nd ref="295408335"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="cycleway" v="lane"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="37"/>
+    <tag k="name" v="Golden Lantern Street"/>
+    <tag k="name_1" v="Street of the Golden Lantern"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Orange, CA"/>
+    <tag k="tiger:name_base" v="Golden Lantern"/>
+    <tag k="tiger:name_base_1" v="St of the Golden Lantern"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="144398394:144398395:144073138:144073139:144073141:144073143:144073447:144073452:144073456:144073161:144073383:144122491"/>
+    <tag k="tiger:zip_left" v="92629"/>
+    <tag k="tiger:zip_right" v="92629"/>
+  </way>
+  <way id="31253967" version="4" timestamp="2010-06-26T11:02:42Z" uid="82317" user="AM909" changeset="5080103">
+    <nd ref="122901956"/>
+    <nd ref="791006139"/>
+    <nd ref="122901958"/>
+    <nd ref="791006262"/>
+    <nd ref="122901960"/>
+    <nd ref="791006061"/>
+    <nd ref="295408334"/>
+    <nd ref="295408335"/>
+    <tag k="cycleway" v="lane"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lanes" v="5"/>
+    <tag k="maxspeed" v="37"/>
+    <tag k="name" v="Golden Lantern Street"/>
+    <tag k="official_name" v="Street of the Golden Lantern"/>
+    <tag k="source:cycleway" v="usgs_imagery_2007"/>
+    <tag k="source:lanes" v="usgs_imagery_2007"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Orange, CA"/>
+    <tag k="tiger:name_base" v="Golden Lantern"/>
+    <tag k="tiger:name_base_1" v="St of the Golden Lantern"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="144398394:144398395:144073138:144073139:144073141:144073143:144073447:144073452:144073456:144073161:144073383:144122491"/>
+    <tag k="tiger:zip_left" v="92629"/>
+    <tag k="tiger:zip_right" v="92629"/>
+  </way>
+  <way id="31253967" version="5" timestamp="2010-06-27T05:21:34Z" uid="82317" user="AM909" changeset="5086491">
+    <nd ref="122901956"/>
+    <nd ref="791006139"/>
+    <nd ref="122901958"/>
+    <nd ref="791006262"/>
+    <nd ref="122901960"/>
+    <nd ref="791006061"/>
+    <nd ref="295408334"/>
+    <nd ref="792212816"/>
+    <nd ref="295408335"/>
+    <tag k="bicycle" v="designated"/>
+    <tag k="cycleway" v="lane"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="name" v="Golden Lantern Street"/>
+    <tag k="official_name" v="Street of the Golden Lantern"/>
+    <tag k="source" v="usgs_imagery_2007;survey;image"/>
+    <tag k="source:bicycle" v="survey;image"/>
+    <tag k="source:cycleway" v="usgs_imagery_2007"/>
+    <tag k="source:lanes" v="usgs_imagery_2007"/>
+    <tag k="source:maxspeed" v="survey;image"/>
+    <tag k="source_ref" v="AM909_DSCU6950"/>
+    <tag k="source_ref:bicycle" v="AM909_DSCU6951"/>
+    <tag k="source_ref:maxspeed" v="AM909_DSCU6951"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Orange, CA"/>
+    <tag k="tiger:name_base" v="Golden Lantern"/>
+    <tag k="tiger:name_base_1" v="St of the Golden Lantern"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="144398394:144398395:144073138:144073139:144073141:144073143:144073447:144073452:144073456:144073161:144073383:144122491"/>
+    <tag k="tiger:zip_left" v="92629"/>
+    <tag k="tiger:zip_right" v="92629"/>
+  </way>
+</osm>

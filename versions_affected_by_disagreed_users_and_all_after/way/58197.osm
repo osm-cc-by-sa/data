@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="58197925" version="1" timestamp="2010-05-05T01:33:27Z" uid="4467" user="Rosscoe" changeset="4609499">
+    <nd ref="271841547"/>
+    <nd ref="721742366"/>
+    <nd ref="721742371"/>
+    <nd ref="271841548"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Myrtle Road"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="58197925" version="2" timestamp="2010-07-09T18:17:21Z" uid="74617" user="JohnSmith" changeset="5175333">
+    <nd ref="271841547"/>
+    <nd ref="721742366"/>
+    <nd ref="721742371"/>
+    <nd ref="271841548"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Myrtle Road"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="58197953" version="1" timestamp="2010-05-05T01:40:15Z" uid="4467" user="Rosscoe" changeset="4609507">
+    <nd ref="711327637"/>
+    <nd ref="721743237"/>
+    <nd ref="721743235"/>
+    <nd ref="721743238"/>
+    <nd ref="271898289"/>
+    <nd ref="721743232"/>
+    <nd ref="721743233"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="58197953" version="2" timestamp="2010-07-09T07:02:50Z" uid="74617" user="JohnSmith" changeset="5171412">
+    <nd ref="711327637"/>
+    <nd ref="721743237"/>
+    <nd ref="721743235"/>
+    <nd ref="721743238"/>
+    <nd ref="271898289"/>
+    <nd ref="721743232"/>
+    <nd ref="721743233"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="58197954" version="1" timestamp="2010-05-05T01:40:15Z" uid="4467" user="Rosscoe" changeset="4609507">
+    <nd ref="721743235"/>
+    <nd ref="721743225"/>
+    <nd ref="721743239"/>
+    <tag k="highway" v="primary_link"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="58197955" version="1" timestamp="2010-05-05T01:40:15Z" uid="4467" user="Rosscoe" changeset="4609507">
+    <nd ref="31788626"/>
+    <nd ref="721743240"/>
+    <nd ref="721743231"/>
+    <tag k="highway" v="primary_link"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+</osm>

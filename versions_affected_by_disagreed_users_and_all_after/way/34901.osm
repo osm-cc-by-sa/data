@@ -1,0 +1,788 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="34901116" version="2" timestamp="2010-04-03T16:49:59Z" uid="20587" user="balrog-kun" changeset="4312936">
+    <nd ref="409397358"/>
+    <nd ref="409397360"/>
+    <nd ref="409397361"/>
+    <tag k="highway" v="residential"/>
+    <tag k="layer" v="0"/>
+    <tag k="name" v="S.Osage Drive"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="34901728" version="2" timestamp="2010-03-28T02:06:48Z" uid="20587" user="balrog-kun" changeset="4250871">
+    <nd ref="123279008"/>
+    <nd ref="405400622"/>
+    <nd ref="405400620"/>
+    <nd ref="123279006"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="State Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Los Angeles, CA"/>
+    <tag k="tiger:name_base" v="State"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="141730318:141730319:141730322:141730323:141730331:141730334:141730342:141730346:141820028"/>
+  </way>
+  <way id="34901729" version="3" timestamp="2010-03-28T02:06:48Z" uid="20587" user="balrog-kun" changeset="4250871">
+    <nd ref="123018390"/>
+    <nd ref="123018392"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="West Temple Avenue"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Los Angeles, CA"/>
+    <tag k="tiger:name_base" v="Temple"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="141771748:142250983:142250984:141728275:141728298:141728300:141728306:141779250:141730325:141730328:142252610:142252619:142252620:142252601:142252602:141730379:141730381:141729352:141806914"/>
+    <tag k="tiger:zip_left" v="91768"/>
+    <tag k="tiger:zip_right" v="91768"/>
+  </way>
+  <way id="34901748" version="2" timestamp="2010-06-29T19:17:27Z" uid="74617" user="JohnSmith" changeset="5108182">
+    <nd ref="409397882"/>
+    <nd ref="409397883"/>
+    <nd ref="409397884"/>
+    <nd ref="409397885"/>
+    <nd ref="409397882"/>
+    <tag k="fixme" v="sport=football is ambiguous, see http://wiki.osm.org/wiki/Football for more details"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="football"/>
+  </way>
+  <way id="34901748" version="3" timestamp="2011-06-13T01:07:43Z" uid="33757" user="Minh Nguyen" changeset="8421387">
+    <nd ref="409397882"/>
+    <nd ref="409397883"/>
+    <nd ref="409397884"/>
+    <nd ref="409397885"/>
+    <nd ref="409397882"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="american_football"/>
+  </way>
+  <way id="34901773" version="2" timestamp="2010-07-06T09:49:17Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="409401917"/>
+    <nd ref="409401916"/>
+    <nd ref="409402177"/>
+    <nd ref="409401918"/>
+    <nd ref="409401797"/>
+    <nd ref="387154677"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Macarthur Avenue"/>
+  </way>
+  <way id="34901773" version="3" timestamp="2011-01-07T11:39:00Z" uid="22094" user="Chadzopkyo" changeset="6891690">
+    <nd ref="409401917"/>
+    <nd ref="409401916"/>
+    <nd ref="1088133531"/>
+    <nd ref="1088133568"/>
+    <nd ref="1088133543"/>
+    <nd ref="409402177"/>
+    <nd ref="409401918"/>
+    <nd ref="409401797"/>
+    <nd ref="387154677"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Macarthur Avenue"/>
+  </way>
+  <way id="34901773" version="4" timestamp="2012-01-18T21:42:23Z" uid="147510" user="woodpeck_fixbot" changeset="10431441">
+    <nd ref="409401917"/>
+    <nd ref="409401916"/>
+    <nd ref="1088133531"/>
+    <nd ref="1088133568"/>
+    <nd ref="1088133543"/>
+    <nd ref="409402177"/>
+    <nd ref="409401918"/>
+    <nd ref="409401797"/>
+    <nd ref="387154677"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Macarthur Avenue"/>
+  </way>
+  <way id="34901776" version="2" timestamp="2010-07-06T09:51:29Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="409401920"/>
+    <nd ref="409401931"/>
+    <nd ref="409401924"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Macarthur Avenue"/>
+  </way>
+  <way id="34901776" version="3" timestamp="2011-01-07T11:39:01Z" uid="22094" user="Chadzopkyo" changeset="6891690">
+    <nd ref="409401920"/>
+    <nd ref="1088133567"/>
+    <nd ref="409401931"/>
+    <nd ref="409401924"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Macarthur Avenue"/>
+  </way>
+  <way id="34901776" version="4" timestamp="2012-01-18T21:42:25Z" uid="147510" user="woodpeck_fixbot" changeset="10431441">
+    <nd ref="409401920"/>
+    <nd ref="1088133567"/>
+    <nd ref="409401931"/>
+    <nd ref="409401924"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Macarthur Avenue"/>
+  </way>
+  <way id="34901781" version="3" timestamp="2010-07-06T09:52:45Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="405340293"/>
+    <nd ref="775834586"/>
+    <nd ref="775834587"/>
+    <nd ref="244672408"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Fison Avenue West"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="34901781" version="4" timestamp="2012-01-18T21:42:26Z" uid="147510" user="woodpeck_fixbot" changeset="10431441">
+    <nd ref="405340293"/>
+    <nd ref="775834586"/>
+    <nd ref="775834587"/>
+    <nd ref="244672408"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Fison Avenue West"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="34901782" version="2" timestamp="2010-07-06T09:50:40Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="387154676"/>
+    <nd ref="409401792"/>
+    <nd ref="409401933"/>
+    <nd ref="409401937"/>
+    <nd ref="409401935"/>
+    <nd ref="409401929"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Macarthur Avenue"/>
+  </way>
+  <way id="34901782" version="3" timestamp="2011-01-07T11:39:05Z" uid="22094" user="Chadzopkyo" changeset="6891690">
+    <nd ref="387154676"/>
+    <nd ref="409401792"/>
+    <nd ref="409401933"/>
+    <nd ref="409401937"/>
+    <nd ref="1088133559"/>
+    <nd ref="1088133524"/>
+    <nd ref="409401935"/>
+    <nd ref="1088133552"/>
+    <nd ref="409401929"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Macarthur Avenue"/>
+  </way>
+  <way id="34901782" version="4" timestamp="2012-01-18T21:42:27Z" uid="147510" user="woodpeck_fixbot" changeset="10431441">
+    <nd ref="387154676"/>
+    <nd ref="409401792"/>
+    <nd ref="409401933"/>
+    <nd ref="409401937"/>
+    <nd ref="1088133559"/>
+    <nd ref="1088133524"/>
+    <nd ref="409401935"/>
+    <nd ref="1088133552"/>
+    <nd ref="409401929"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Macarthur Avenue"/>
+  </way>
+  <way id="34901783" version="2" timestamp="2010-07-06T09:47:43Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="409401944"/>
+    <nd ref="409401939"/>
+    <nd ref="409401941"/>
+    <nd ref="387154627"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Barcham Street"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="34901783" version="3" timestamp="2012-01-18T21:42:28Z" uid="147510" user="woodpeck_fixbot" changeset="10431441">
+    <nd ref="409401944"/>
+    <nd ref="409401939"/>
+    <nd ref="409401941"/>
+    <nd ref="387154627"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Barcham Street"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="34901787" version="2" timestamp="2010-07-25T23:28:26Z" uid="4467" user="Rosscoe" changeset="5317533">
+    <nd ref="409401881"/>
+    <nd ref="409401883"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="footway"/>
+    <tag k="layer" v="1"/>
+  </way>
+  <way id="34901792" version="2" timestamp="2010-07-06T09:52:29Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="409401928"/>
+    <nd ref="409402179"/>
+    <nd ref="409401926"/>
+    <nd ref="409401917"/>
+    <nd ref="409401929"/>
+    <nd ref="409401922"/>
+    <nd ref="409402178"/>
+    <nd ref="409401920"/>
+    <nd ref="409401928"/>
+    <tag k="highway" v="residential"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Macarthur Avenue"/>
+  </way>
+  <way id="34901792" version="3" timestamp="2011-01-07T11:39:03Z" uid="22094" user="Chadzopkyo" changeset="6891690">
+    <nd ref="409401928"/>
+    <nd ref="409402179"/>
+    <nd ref="1088133563"/>
+    <nd ref="409401926"/>
+    <nd ref="409401917"/>
+    <nd ref="409401929"/>
+    <nd ref="409401922"/>
+    <nd ref="1088133526"/>
+    <nd ref="409402178"/>
+    <nd ref="409401920"/>
+    <nd ref="409401928"/>
+    <tag k="highway" v="residential"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Macarthur Avenue"/>
+  </way>
+  <way id="34901792" version="4" timestamp="2012-01-18T21:42:29Z" uid="147510" user="woodpeck_fixbot" changeset="10431441">
+    <nd ref="409401928"/>
+    <nd ref="409402179"/>
+    <nd ref="1088133563"/>
+    <nd ref="409401926"/>
+    <nd ref="409401917"/>
+    <nd ref="409401929"/>
+    <nd ref="409401922"/>
+    <nd ref="1088133526"/>
+    <nd ref="409402178"/>
+    <nd ref="409401920"/>
+    <nd ref="409401928"/>
+    <tag k="highway" v="residential"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="name" v="Macarthur Avenue"/>
+  </way>
+  <way id="34901796" version="2" timestamp="2010-07-06T09:51:08Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="387154627"/>
+    <nd ref="409401946"/>
+    <nd ref="409401943"/>
+    <nd ref="409401944"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Barcham Street"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="34901796" version="3" timestamp="2012-01-18T21:42:30Z" uid="147510" user="woodpeck_fixbot" changeset="10431441">
+    <nd ref="387154627"/>
+    <nd ref="409401946"/>
+    <nd ref="409401943"/>
+    <nd ref="409401944"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Barcham Street"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="34901801" version="2" timestamp="2010-07-06T09:47:39Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="409401957"/>
+    <nd ref="244493880"/>
+    <nd ref="409401952"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Cullen Avenue West"/>
+  </way>
+  <way id="34901801" version="3" timestamp="2012-01-18T21:42:33Z" uid="147510" user="woodpeck_fixbot" changeset="10431441">
+    <nd ref="409401957"/>
+    <nd ref="244493880"/>
+    <nd ref="409401952"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Cullen Avenue West"/>
+  </way>
+  <way id="34901809" version="2" timestamp="2010-07-06T09:51:37Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="244494004"/>
+    <nd ref="409401957"/>
+    <nd ref="409401955"/>
+    <nd ref="409401950"/>
+    <nd ref="409401954"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Cullen Avenue West"/>
+  </way>
+  <way id="34901809" version="3" timestamp="2012-01-18T21:42:34Z" uid="147510" user="woodpeck_fixbot" changeset="10431441">
+    <nd ref="244494004"/>
+    <nd ref="409401957"/>
+    <nd ref="409401955"/>
+    <nd ref="409401950"/>
+    <nd ref="409401954"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Cullen Avenue West"/>
+  </way>
+  <way id="34901811" version="2" timestamp="2010-07-06T09:52:19Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="405340309"/>
+    <nd ref="409402008"/>
+    <nd ref="409402006"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Industry Court"/>
+  </way>
+  <way id="34901811" version="3" timestamp="2012-01-18T21:42:36Z" uid="147510" user="woodpeck_fixbot" changeset="10431441">
+    <nd ref="405340309"/>
+    <nd ref="409402008"/>
+    <nd ref="409402006"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Industry Court"/>
+  </way>
+  <way id="34901815" version="3" timestamp="2010-07-06T09:50:54Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="409402006"/>
+    <nd ref="409401980"/>
+    <nd ref="775834628"/>
+    <nd ref="409401978"/>
+    <nd ref="409401976"/>
+    <nd ref="775834629"/>
+    <nd ref="409401975"/>
+    <nd ref="775834630"/>
+    <nd ref="775834631"/>
+    <nd ref="409402005"/>
+    <nd ref="409402006"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Industry Court"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="34901815" version="4" timestamp="2012-01-18T21:42:38Z" uid="147510" user="woodpeck_fixbot" changeset="10431441">
+    <nd ref="409402006"/>
+    <nd ref="409401980"/>
+    <nd ref="775834628"/>
+    <nd ref="409401978"/>
+    <nd ref="409401976"/>
+    <nd ref="775834629"/>
+    <nd ref="409401975"/>
+    <nd ref="775834630"/>
+    <nd ref="775834631"/>
+    <nd ref="409402005"/>
+    <nd ref="409402006"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Industry Court"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="34901816" version="2" timestamp="2010-07-06T09:51:49Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="244708471"/>
+    <nd ref="409401919"/>
+    <nd ref="409401928"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Macarthur Avenue"/>
+  </way>
+  <way id="34901816" version="3" timestamp="2011-01-07T11:39:01Z" uid="22094" user="Chadzopkyo" changeset="6891690">
+    <nd ref="244708471"/>
+    <nd ref="409401919"/>
+    <nd ref="1088133529"/>
+    <nd ref="409401928"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Macarthur Avenue"/>
+  </way>
+  <way id="34901816" version="4" timestamp="2012-01-18T21:42:40Z" uid="147510" user="woodpeck_fixbot" changeset="10431441">
+    <nd ref="244708471"/>
+    <nd ref="409401919"/>
+    <nd ref="1088133529"/>
+    <nd ref="409401928"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Macarthur Avenue"/>
+  </way>
+  <way id="34901819" version="2" timestamp="2010-07-06T09:50:22Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="409402087"/>
+    <nd ref="409402089"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Kenyon Street"/>
+  </way>
+  <way id="34901819" version="3" timestamp="2012-01-18T21:42:43Z" uid="147510" user="woodpeck_fixbot" changeset="10431441">
+    <nd ref="409402087"/>
+    <nd ref="409402089"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Kenyon Street"/>
+  </way>
+  <way id="34901820" version="2" timestamp="2010-07-06T09:50:08Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="323142115"/>
+    <nd ref="409402085"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Violet Street"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="34901820" version="3" timestamp="2012-01-18T21:42:44Z" uid="147510" user="woodpeck_fixbot" changeset="10431441">
+    <nd ref="323142115"/>
+    <nd ref="409402085"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Violet Street"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="34901821" version="2" timestamp="2010-07-06T09:53:03Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="409401950"/>
+    <nd ref="244493884"/>
+    <nd ref="409401948"/>
+    <nd ref="409401952"/>
+    <nd ref="244704062"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Cullen Avenue West"/>
+  </way>
+  <way id="34901821" version="3" timestamp="2012-01-18T21:42:46Z" uid="147510" user="woodpeck_fixbot" changeset="10431441">
+    <nd ref="409401950"/>
+    <nd ref="244493884"/>
+    <nd ref="409401948"/>
+    <nd ref="409401952"/>
+    <nd ref="244704062"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Cullen Avenue West"/>
+  </way>
+  <way id="34901826" version="2" timestamp="2010-07-06T09:51:36Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="409401790"/>
+    <nd ref="409401787"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Macarthur Avenue"/>
+  </way>
+  <way id="34901826" version="3" timestamp="2012-01-18T21:42:48Z" uid="147510" user="woodpeck_fixbot" changeset="10431441">
+    <nd ref="409401790"/>
+    <nd ref="409401787"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Macarthur Avenue"/>
+  </way>
+  <way id="34901829" version="2" timestamp="2010-07-06T09:52:08Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="409402104"/>
+    <nd ref="409402108"/>
+    <nd ref="387155047"/>
+    <nd ref="387155045"/>
+    <nd ref="387155043"/>
+    <nd ref="244710090"/>
+    <nd ref="244710091"/>
+    <nd ref="244710093"/>
+    <nd ref="387154639"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Macarthur Avenue"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="34901829" version="3" timestamp="2011-01-07T11:39:09Z" uid="22094" user="Chadzopkyo" changeset="6891690"/>
+  <way id="34901830" version="2" timestamp="2010-07-06T09:49:52Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="409402110"/>
+    <nd ref="409402111"/>
+    <nd ref="409402117"/>
+    <nd ref="409402115"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Macarthur Avenue"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="34901830" version="3" timestamp="2011-01-07T11:39:09Z" uid="22094" user="Chadzopkyo" changeset="6891690"/>
+  <way id="34901831" version="2" timestamp="2010-07-06T09:52:54Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="409402110"/>
+    <nd ref="409402104"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Macarthur Avenue"/>
+  </way>
+  <way id="34901831" version="3" timestamp="2011-01-07T11:39:09Z" uid="22094" user="Chadzopkyo" changeset="6891690"/>
+  <way id="34901832" version="2" timestamp="2010-07-06T09:48:04Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="409402115"/>
+    <nd ref="409402119"/>
+    <nd ref="409402113"/>
+    <nd ref="409402110"/>
+    <tag k="cycleway" v="lane"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Macarthur Avenue"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="34901832" version="3" timestamp="2011-01-07T11:39:09Z" uid="22094" user="Chadzopkyo" changeset="6891690"/>
+  <way id="34901833" version="2" timestamp="2010-07-06T09:51:49Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="409402121"/>
+    <nd ref="409402123"/>
+    <nd ref="387155048"/>
+    <nd ref="409401790"/>
+    <nd ref="244494736"/>
+    <nd ref="244494739"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Macarthur Avenue"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="34901833" version="3" timestamp="2011-01-07T11:39:09Z" uid="22094" user="Chadzopkyo" changeset="6891690"/>
+  <way id="34901834" version="2" timestamp="2010-07-06T09:49:08Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="409402121"/>
+    <nd ref="387154682"/>
+    <nd ref="244708468"/>
+    <nd ref="409402115"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Macarthur Avenue"/>
+  </way>
+  <way id="34901834" version="3" timestamp="2011-01-07T11:39:09Z" uid="22094" user="Chadzopkyo" changeset="6891690"/>
+  <way id="34901836" version="2" timestamp="2010-07-06T09:52:19Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="387154627"/>
+    <nd ref="387154628"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Barcham Street"/>
+  </way>
+  <way id="34901836" version="3" timestamp="2012-01-18T21:42:48Z" uid="147510" user="woodpeck_fixbot" changeset="10431441">
+    <nd ref="387154627"/>
+    <nd ref="387154628"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Barcham Street"/>
+  </way>
+  <way id="34901837" version="3" timestamp="2010-07-06T09:50:06Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="409402172"/>
+    <nd ref="409402174"/>
+    <nd ref="409402176"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Ferrett Street"/>
+  </way>
+  <way id="34901837" version="4" timestamp="2012-01-18T21:42:50Z" uid="147510" user="woodpeck_fixbot" changeset="10431441">
+    <nd ref="409402172"/>
+    <nd ref="409402174"/>
+    <nd ref="409402176"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Ferrett Street"/>
+  </way>
+  <way id="34901838" version="2" timestamp="2010-07-06T09:53:03Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="409402180"/>
+    <nd ref="409402181"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Cullen Avenue West"/>
+    <tag k="surface" v="gravel"/>
+  </way>
+  <way id="34901838" version="3" timestamp="2012-01-18T21:42:51Z" uid="147510" user="woodpeck_fixbot" changeset="10431441">
+    <nd ref="409402180"/>
+    <nd ref="409402181"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Cullen Avenue West"/>
+    <tag k="surface" v="gravel"/>
+  </way>
+  <way id="34901839" version="2" timestamp="2010-07-06T09:51:06Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="409402181"/>
+    <nd ref="244494004"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Cullen Avenue West"/>
+  </way>
+  <way id="34901839" version="3" timestamp="2012-01-18T21:42:52Z" uid="147510" user="woodpeck_fixbot" changeset="10431441">
+    <nd ref="409402181"/>
+    <nd ref="244494004"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Cullen Avenue West"/>
+  </way>
+  <way id="34901840" version="2" timestamp="2010-07-06T09:51:56Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="409402182"/>
+    <nd ref="244492968"/>
+    <nd ref="244494002"/>
+    <nd ref="244494003"/>
+    <nd ref="244704062"/>
+    <nd ref="244493878"/>
+    <nd ref="244494004"/>
+    <nd ref="244494007"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Theodore Street"/>
+  </way>
+  <way id="34901840" version="3" timestamp="2012-01-18T21:42:53Z" uid="147510" user="woodpeck_fixbot" changeset="10431441">
+    <nd ref="409402182"/>
+    <nd ref="244492968"/>
+    <nd ref="244494002"/>
+    <nd ref="244494003"/>
+    <nd ref="244704062"/>
+    <nd ref="244493878"/>
+    <nd ref="244494004"/>
+    <nd ref="244494007"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Theodore Street"/>
+  </way>
+  <way id="34901881" version="3" timestamp="2010-03-28T02:06:48Z" uid="20587" user="balrog-kun" changeset="4250871">
+    <nd ref="409409051"/>
+    <nd ref="123018380"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="West Temple Avenue"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Los Angeles, CA"/>
+    <tag k="tiger:name_base" v="Temple"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="141771748:142250983:142250984:141728275:141728298:141728300:141728306:141779250:141730325:141730328:142252610:142252619:142252620:142252601:142252602:141730379:141730381:141729352:141806914"/>
+    <tag k="tiger:zip_left" v="91768"/>
+    <tag k="tiger:zip_right" v="91768"/>
+  </way>
+  <way id="34901882" version="4" timestamp="2010-03-28T02:06:48Z" uid="20587" user="balrog-kun" changeset="4250871">
+    <nd ref="123018380"/>
+    <nd ref="123018382"/>
+    <nd ref="123018384"/>
+    <nd ref="409397670"/>
+    <nd ref="122825518"/>
+    <nd ref="526388059"/>
+    <nd ref="409397674"/>
+    <nd ref="335619942"/>
+    <nd ref="409397673"/>
+    <nd ref="123018390"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="West Temple Avenue"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Los Angeles, CA"/>
+    <tag k="tiger:name_base" v="Temple"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="141771748:142250983:142250984:141728275:141728298:141728300:141728306:141779250:141730325:141730328:142252610:142252619:142252620:142252601:142252602:141730379:141730381:141729352:141806914"/>
+    <tag k="tiger:zip_left" v="91768"/>
+    <tag k="tiger:zip_right" v="91768"/>
+  </way>
+  <way id="34901883" version="4" timestamp="2010-03-28T02:06:49Z" uid="20587" user="balrog-kun" changeset="4250871">
+    <nd ref="641382298"/>
+    <nd ref="641382299"/>
+    <nd ref="409409057"/>
+    <nd ref="409409056"/>
+    <nd ref="409409054"/>
+    <tag k="FIXME" v="Survey me"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Kellogg Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Los Angeles, CA"/>
+    <tag k="tiger:name_base" v="Kellogg"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="141728283:141728284"/>
+  </way>
+  <way id="34901884" version="3" timestamp="2010-03-28T02:06:49Z" uid="20587" user="balrog-kun" changeset="4250871">
+    <nd ref="409409063"/>
+    <nd ref="409409070"/>
+    <nd ref="409409072"/>
+    <nd ref="409409073"/>
+    <nd ref="409409075"/>
+    <tag k="FIXME" v="Survey me"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Kellogg Drive"/>
+  </way>
+  <way id="34901997" version="3" timestamp="2010-03-28T02:06:49Z" uid="20587" user="balrog-kun" changeset="4250871">
+    <nd ref="409439501"/>
+    <nd ref="91073102"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Seabright Avenue"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Santa Cruz, CA"/>
+    <tag k="tiger:name_base" v="Seabright"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="125506877:125506432:125507012:125507014:125507028:125507016:125507030:125507063:125507065:125507067:125507068:125507032:125507080:125507087:125507089:125507078:125507091:125508770:125508774:125507092"/>
+    <tag k="tiger:zip_left" v="95062"/>
+    <tag k="tiger:zip_right" v="95062"/>
+  </way>
+  <way id="34901998" version="4" timestamp="2010-03-28T02:06:49Z" uid="20587" user="balrog-kun" changeset="4250871">
+    <nd ref="409439499"/>
+    <nd ref="91056950"/>
+    <tag k="cycleway" v="lane"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="Soquel Avenue"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Santa Cruz, CA"/>
+    <tag k="tiger:name_base" v="Soquel"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="125507853:125507857:125526059:125507566:125507321:125507328:125535273:125535274:125527125:125507607:125507275:125507274:125518866:125507333:125507335:125526744:125507260:125507005:125507006:125507008:125506901:125506904:125506905:125506985:125506986:12550"/>
+    <tag k="tiger:zip_left" v="95062"/>
+    <tag k="tiger:zip_right" v="95062"/>
+  </way>
+  <way id="34901998" version="5" timestamp="2010-07-18T06:02:56Z" uid="123633" user="stevea" changeset="5248085">
+    <nd ref="409439499"/>
+    <nd ref="822484327"/>
+    <nd ref="91056950"/>
+    <tag k="cycleway" v="lane"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="Soquel Avenue"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Santa Cruz, CA"/>
+    <tag k="tiger:name_base" v="Soquel"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="125507853:125507857:125526059:125507566:125507321:125507328:125535273:125535274:125527125:125507607:125507275:125507274:125518866:125507333:125507335:125526744:125507260:125507005:125507006:125507008:125506901:125506904:125506905:125506985:125506986:12550"/>
+    <tag k="tiger:zip_left" v="95062"/>
+    <tag k="tiger:zip_right" v="95062"/>
+  </way>
+  <way id="34901998" version="6" timestamp="2011-11-10T20:45:09Z" uid="123633" user="stevea" changeset="9792139">
+    <nd ref="409439499"/>
+    <nd ref="822484327"/>
+    <nd ref="1497744734"/>
+    <nd ref="1497744745"/>
+    <tag k="cycleway" v="lane"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="Soquel Avenue"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Santa Cruz, CA"/>
+    <tag k="tiger:name_base" v="Soquel"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="125507853:125507857:125526059:125507566:125507321:125507328:125535273:125535274:125527125:125507607:125507275:125507274:125518866:125507333:125507335:125526744:125507260:125507005:125507006:125507008:125506901:125506904:125506905:125506985:125506986:12550"/>
+    <tag k="tiger:zip_left" v="95062"/>
+    <tag k="tiger:zip_right" v="95062"/>
+  </way>
+  <way id="34901998" version="7" timestamp="2011-12-18T23:05:28Z" uid="123633" user="stevea" changeset="10151842">
+    <nd ref="409439499"/>
+    <nd ref="822484327"/>
+    <nd ref="1497744734"/>
+    <nd ref="1552985383"/>
+    <nd ref="1497744745"/>
+    <tag k="cycleway" v="lane"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="Soquel Avenue"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Santa Cruz, CA"/>
+    <tag k="tiger:name_base" v="Soquel"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="125507853:125507857:125526059:125507566:125507321:125507328:125535273:125535274:125527125:125507607:125507275:125507274:125518866:125507333:125507335:125526744:125507260:125507005:125507006:125507008:125506901:125506904:125506905:125506985:125506986:12550"/>
+    <tag k="tiger:zip_left" v="95062"/>
+    <tag k="tiger:zip_right" v="95062"/>
+  </way>
+</osm>

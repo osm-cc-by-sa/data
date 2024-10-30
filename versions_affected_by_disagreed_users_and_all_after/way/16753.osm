@@ -1,0 +1,194 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="16753023" version="4" timestamp="2010-02-03T01:15:11Z" uid="30201" user="rrankin" changeset="3780262">
+    <nd ref="627205192"/>
+    <nd ref="52985219"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Oxford Street"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="16753027" version="7" timestamp="2010-05-21T07:48:26Z" uid="4467" user="Rosscoe" changeset="4763531">
+    <nd ref="173186772"/>
+    <nd ref="742212191"/>
+    <nd ref="52985219"/>
+    <nd ref="742212141"/>
+    <nd ref="173186795"/>
+    <nd ref="173186814"/>
+    <nd ref="742212159"/>
+    <nd ref="52984180"/>
+    <nd ref="742212296"/>
+    <nd ref="173186772"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="16753029" version="2" timestamp="2010-05-21T07:49:08Z" uid="4467" user="Rosscoe" changeset="4763531">
+    <nd ref="173186795"/>
+    <nd ref="742212385"/>
+    <nd ref="742212093"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Chester Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="16753029" version="3" timestamp="2010-07-08T00:21:45Z" uid="74617" user="JohnSmith" changeset="5162525">
+    <nd ref="173186795"/>
+    <nd ref="742212385"/>
+    <nd ref="742212093"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Chester Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="16753029" version="4" timestamp="2012-01-15T16:24:58Z" uid="147510" user="woodpeck_fixbot" changeset="10398186">
+    <nd ref="173186795"/>
+    <nd ref="742212385"/>
+    <nd ref="742212093"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Chester Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="16753033" version="2" timestamp="2010-07-08T00:27:39Z" uid="74617" user="JohnSmith" changeset="5162525">
+    <nd ref="172981424"/>
+    <nd ref="173186772"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Chester Street"/>
+  </way>
+  <way id="16753033" version="3" timestamp="2012-01-15T16:25:00Z" uid="147510" user="woodpeck_fixbot" changeset="10398186">
+    <nd ref="172981424"/>
+    <nd ref="173186772"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Chester Street"/>
+  </way>
+  <way id="16753230" version="1" timestamp="2007-12-16T14:07:18Z" uid="8931" user="bluepup" changeset="328723">
+    <nd ref="25263871"/>
+    <nd ref="173188239"/>
+    <nd ref="173188243"/>
+    <nd ref="173188245"/>
+    <nd ref="173188251"/>
+    <nd ref="173188257"/>
+    <nd ref="173188260"/>
+    <nd ref="173188265"/>
+    <nd ref="173188269"/>
+    <nd ref="173188270"/>
+    <nd ref="173188277"/>
+    <nd ref="173188291"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="motorway_link"/>
+  </way>
+  <way id="16753230" version="2" timestamp="2008-01-01T15:58:03Z" uid="18141" user="Hobby Navigator" changeset="502498">
+    <nd ref="25263871"/>
+    <nd ref="173188239"/>
+    <nd ref="173188243"/>
+    <nd ref="173188245"/>
+    <nd ref="173188251"/>
+    <nd ref="173188257"/>
+    <nd ref="173188260"/>
+    <nd ref="201402784"/>
+    <nd ref="173188265"/>
+    <nd ref="173188269"/>
+    <nd ref="173188270"/>
+    <nd ref="173188277"/>
+    <nd ref="173188291"/>
+    <nd ref="201402793"/>
+    <nd ref="201402794"/>
+    <nd ref="201402761"/>
+    <tag k="created_by" v="Potlatch 0.6"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="16753230" version="3" timestamp="2008-03-06T18:38:56Z" uid="18141" user="Hobby Navigator" changeset="276932">
+    <nd ref="25263871"/>
+    <nd ref="173188239"/>
+    <nd ref="173188243"/>
+    <nd ref="173188245"/>
+    <nd ref="173188251"/>
+    <nd ref="173188257"/>
+    <nd ref="173188260"/>
+    <nd ref="173188265"/>
+    <nd ref="173188269"/>
+    <nd ref="173188270"/>
+    <nd ref="173188277"/>
+    <nd ref="173188291"/>
+    <nd ref="201402761"/>
+    <tag k="created_by" v="Potlatch 0.6"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="16753230" version="4" timestamp="2008-08-22T20:53:11Z" uid="36894" user="rab" changeset="370014">
+    <nd ref="290264681"/>
+    <nd ref="173188260"/>
+    <nd ref="173188257"/>
+    <nd ref="173188251"/>
+    <nd ref="173188245"/>
+    <nd ref="173188243"/>
+    <nd ref="173188239"/>
+    <nd ref="25263871"/>
+    <tag k="created_by" v="Potlatch 0.6"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="-1"/>
+  </way>
+  <way id="16753230" version="5" timestamp="2008-08-31T11:42:26Z" uid="61570" user="pundak" changeset="469844">
+    <nd ref="290264681"/>
+    <nd ref="173188260"/>
+    <nd ref="173188257"/>
+    <nd ref="173188251"/>
+    <nd ref="173188245"/>
+    <nd ref="173188243"/>
+    <nd ref="173188239"/>
+    <nd ref="25263871"/>
+    <tag k="created_by" v="Potlatch 0.10b"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="16753230" version="6" timestamp="2011-05-21T15:05:24Z" uid="36894" user="rab" changeset="8207454">
+    <nd ref="290264681"/>
+    <nd ref="1295035217"/>
+    <nd ref="1295035077"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="16753230" version="7" timestamp="2011-07-17T15:46:57Z" uid="487279" user="Lokalfuerst" changeset="8749042">
+    <nd ref="290264681"/>
+    <nd ref="1295035217"/>
+    <nd ref="1295035077"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="int_ref" v="E41"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="16753230" version="8" timestamp="2011-07-23T17:34:43Z" uid="487279" user="Lokalfuerst" changeset="8807941">
+    <nd ref="290264681"/>
+    <nd ref="1295035217"/>
+    <nd ref="1295035077"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="int_ref" v="E41"/>
+    <tag k="maxspeed " v="60"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="16753230" version="9" timestamp="2011-07-25T12:36:08Z" uid="487279" user="Lokalfuerst" changeset="8825816">
+    <nd ref="290264681"/>
+    <nd ref="1295035217"/>
+    <nd ref="1295035077"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="int_ref" v="E41"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="16753230" version="10" timestamp="2011-07-25T12:37:06Z" uid="487279" user="Lokalfuerst" changeset="8825825">
+    <nd ref="290264681"/>
+    <nd ref="1373732663"/>
+    <nd ref="1295035217"/>
+    <nd ref="1373732664"/>
+    <nd ref="1295035077"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="int_ref" v="E41"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="16753230" version="11" timestamp="2012-03-18T14:50:31Z" uid="418724" user="wintersportler" changeset="11019735"/>
+</osm>

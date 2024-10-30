@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="31818313" version="1" timestamp="2009-03-06T11:59:46Z" uid="55964" user="Evan Sebire" changeset="745883">
+    <nd ref="356263151"/>
+    <nd ref="356143373"/>
+    <nd ref="356143381"/>
+    <tag k="created_by" v="Merkaartor 0.13"/>
+    <tag k="highway" v="track"/>
+  </way>
+  <way id="31818492" version="7" timestamp="2010-07-08T16:39:46Z" uid="74617" user="JohnSmith" changeset="5167338">
+    <nd ref="314848209"/>
+    <nd ref="469136496"/>
+    <nd ref="356263227"/>
+    <nd ref="469136494"/>
+    <nd ref="356263228"/>
+    <nd ref="356263229"/>
+    <nd ref="356263230"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Vista Parade"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="31818492" version="8" timestamp="2012-01-18T10:04:37Z" uid="147510" user="woodpeck_fixbot" changeset="10425524">
+    <nd ref="314848209"/>
+    <nd ref="469136496"/>
+    <nd ref="356263227"/>
+    <nd ref="469136494"/>
+    <nd ref="356263228"/>
+    <nd ref="356263229"/>
+    <nd ref="356263230"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Vista Parade"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+</osm>

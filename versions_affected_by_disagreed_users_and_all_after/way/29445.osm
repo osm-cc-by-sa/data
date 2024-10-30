@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="29445058" version="2" timestamp="2009-12-13T07:29:07Z" uid="4467" user="Rosscoe" changeset="3360683">
+    <nd ref="321569909"/>
+    <nd ref="321569910"/>
+    <nd ref="321569911"/>
+    <nd ref="321569912"/>
+    <nd ref="321569914"/>
+    <nd ref="321569903"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Leith Avenue"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="source:name" v="MMBW"/>
+  </way>
+  <way id="29445058" version="3" timestamp="2010-07-08T19:48:30Z" uid="74617" user="JohnSmith" changeset="5168730">
+    <nd ref="321569909"/>
+    <nd ref="321569910"/>
+    <nd ref="321569911"/>
+    <nd ref="321569912"/>
+    <nd ref="321569914"/>
+    <nd ref="321569903"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Leith Avenue"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="source:name" v="MMBW"/>
+  </way>
+  <way id="29445058" version="4" timestamp="2010-10-29T05:44:49Z" uid="4467" user="Rosscoe" changeset="6214505">
+    <nd ref="321569909"/>
+    <nd ref="321569910"/>
+    <nd ref="321569911"/>
+    <nd ref="321569912"/>
+    <nd ref="321569914"/>
+    <nd ref="321569903"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Leith Avenue"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+    <tag k="source:name" v="MMBW"/>
+  </way>
+  <way id="29445058" version="5" timestamp="2012-01-18T01:53:50Z" uid="147510" user="woodpeck_fixbot" changeset="10423581">
+    <nd ref="321569909"/>
+    <nd ref="321569910"/>
+    <nd ref="321569911"/>
+    <nd ref="321569912"/>
+    <nd ref="321569914"/>
+    <nd ref="321569903"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Leith Avenue"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+    <tag k="source:name" v="MMBW"/>
+  </way>
+  <way id="29445135" version="2" timestamp="2010-05-27T13:06:40Z" uid="4467" user="Rosscoe" changeset="4821822">
+    <nd ref="309592265"/>
+    <nd ref="309592404"/>
+    <nd ref="309592405"/>
+    <nd ref="309592407"/>
+    <nd ref="309592408"/>
+    <nd ref="309592409"/>
+    <nd ref="309592394"/>
+    <nd ref="309592313"/>
+    <nd ref="309592392"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="cycleway" v="track"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="cycleway"/>
+  </way>
+</osm>

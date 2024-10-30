@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="20573156" version="5" timestamp="2008-05-27T23:36:43Z" uid="17602" user="B10xyz" changeset="540690">
+    <nd ref="34630847"/>
+    <nd ref="220859001"/>
+    <nd ref="220859004"/>
+    <nd ref="220859007"/>
+    <tag k="created_by" v="Potlatch 0.9a"/>
+    <tag k="highway" v="primary"/>
+  </way>
+  <way id="20573156" version="6" timestamp="2008-07-16T00:06:07Z" uid="16038" user="krysst" changeset="503872"/>
+  <way id="20573262" version="4" timestamp="2008-07-06T10:36:41Z" uid="6975" user="ulfl" changeset="407266">
+    <nd ref="220861811"/>
+    <nd ref="220861815"/>
+    <nd ref="220861818"/>
+    <nd ref="220861820"/>
+    <nd ref="220861811"/>
+    <tag k="man_made" v="power_hydro"/>
+    <tag k="power" v="generator"/>
+    <tag k="power_source" v="hydro"/>
+  </way>
+  <way id="20573262" version="5" timestamp="2008-07-06T19:25:54Z" uid="6975" user="ulfl" changeset="415781">
+    <nd ref="220861811"/>
+    <nd ref="220861815"/>
+    <nd ref="220861818"/>
+    <nd ref="220861820"/>
+    <nd ref="220861811"/>
+    <tag k="power" v="generator"/>
+    <tag k="power_source" v="hydro"/>
+  </way>
+  <way id="20573262" version="6" timestamp="2009-11-20T07:31:07Z" uid="111950" user="apache" changeset="3166279">
+    <nd ref="220861811"/>
+    <nd ref="220861815"/>
+    <nd ref="220861818"/>
+    <nd ref="220861820"/>
+    <nd ref="220861811"/>
+    <tag k="power" v="generator"/>
+    <tag k="power_source" v="hydro"/>
+  </way>
+  <way id="20573262" version="7" timestamp="2011-06-04T01:33:57Z" uid="297482" user="don-vip" changeset="8335522">
+    <nd ref="220861811"/>
+    <nd ref="220861815"/>
+    <nd ref="220861818"/>
+    <nd ref="220861820"/>
+    <nd ref="220861811"/>
+    <tag k="generator:source" v="hydro"/>
+    <tag k="power" v="generator"/>
+  </way>
+</osm>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="44850578" version="2" timestamp="2010-06-29T20:48:09Z" uid="74617" user="JohnSmith" changeset="5109183">
+    <nd ref="568590714"/>
+    <nd ref="568590720"/>
+    <nd ref="568590727"/>
+    <nd ref="568590731"/>
+    <nd ref="568590714"/>
+    <tag k="fixme" v="sport=rugby is ambiguous, see http://wiki.osm.org/wiki/Tag:sport%3Drugby for more details"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="rugby"/>
+  </way>
+  <way id="44850578" version="3" timestamp="2010-11-29T20:00:31Z" uid="354722" user="Quandray" changeset="6489290">
+    <nd ref="568590714"/>
+    <nd ref="568590720"/>
+    <nd ref="568590727"/>
+    <nd ref="568590731"/>
+    <nd ref="568590714"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="rugby_union"/>
+  </way>
+  <way id="44850621" version="2" timestamp="2010-03-20T23:36:51Z" uid="30632" user="antblant" changeset="4186155">
+    <nd ref="568591450"/>
+    <nd ref="568591394"/>
+    <tag k="addr:city" v="Nowe Skalmierzyce"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="Kaliska"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 18:45:18 09/30/09 (UMP-Kalisz/src/inne.drogi.txt)"/>
+  </way>
+  <way id="44850632" version="2" timestamp="2010-03-20T23:36:51Z" uid="30632" user="antblant" changeset="4186155">
+    <nd ref="568591394"/>
+    <nd ref="528535586"/>
+    <tag k="addr:city" v="Nowe Skalmierzyce"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="Kaliska"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 18:45:18 09/30/09 (UMP-Kalisz/src/inne.drogi.txt)"/>
+  </way>
+  <way id="44850632" version="3" timestamp="2010-12-12T14:38:08Z" uid="296398" user="dangi" changeset="6636556">
+    <nd ref="568591394"/>
+    <nd ref="1035735369"/>
+    <nd ref="528535586"/>
+    <tag k="addr:city" v="Nowe Skalmierzyce"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="Kaliska"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 18:45:18 09/30/09 (UMP-Kalisz/src/inne.drogi.txt)"/>
+  </way>
+</osm>

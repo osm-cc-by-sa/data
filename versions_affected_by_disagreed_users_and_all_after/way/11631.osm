@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="11631706" version="2" timestamp="2008-08-24T03:20:42Z" uid="61114" user="Trav" changeset="395958">
+    <nd ref="103870921"/>
+    <nd ref="31029467"/>
+    <tag k="abutters" v="residential"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Tryon Lane"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="yahoo_imagery"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="11631706" version="3" timestamp="2009-03-09T05:32:23Z" uid="61114" user="Trav" changeset="766045">
+    <nd ref="103870921"/>
+    <nd ref="31029467"/>
+    <tag k="abutters" v="residential"/>
+    <tag k="created_by" v="Merkaartor 0.13"/>
+    <tag k="cycleway" v="opposite_lane"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Tryon Lane"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="yahoo_imagery"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="11631706" version="4" timestamp="2009-12-04T05:16:42Z" uid="30201" user="rrankin" changeset="3285963">
+    <nd ref="103870921"/>
+    <nd ref="31029467"/>
+    <tag k="cycleway" v="opposite_lane"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Tryon Lane"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="yahoo_imagery"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="11631710" version="2" timestamp="2009-12-04T05:16:44Z" uid="30201" user="rrankin" changeset="3285963">
+    <nd ref="103870945"/>
+    <nd ref="103870974"/>
+    <nd ref="103870994"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Erskine Street"/>
+    <tag k="source" v="yahoo_imagery"/>
+    <tag k="source:name" v="historical"/>
+  </way>
+  <way id="11631710" version="3" timestamp="2010-07-08T00:23:27Z" uid="74617" user="JohnSmith" changeset="5162525">
+    <nd ref="103870945"/>
+    <nd ref="103870974"/>
+    <nd ref="103870994"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Erskine Street"/>
+    <tag k="source" v="yahoo_imagery"/>
+    <tag k="source:name" v="historical"/>
+  </way>
+  <way id="11631710" version="4" timestamp="2012-01-15T10:47:12Z" uid="147510" user="woodpeck_fixbot" changeset="10396281">
+    <nd ref="103870945"/>
+    <nd ref="103870974"/>
+    <nd ref="103870994"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Erskine Street"/>
+    <tag k="source" v="yahoo_imagery"/>
+    <tag k="source:name" v="historical"/>
+  </way>
+  <way id="11631715" version="8" timestamp="2009-03-16T10:50:17Z" uid="61114" user="Trav" changeset="820645">
+    <nd ref="103871022"/>
+    <nd ref="359494042"/>
+    <nd ref="315259472"/>
+    <nd ref="315259882"/>
+    <nd ref="315259883"/>
+    <nd ref="315259884"/>
+    <nd ref="315259600"/>
+    <nd ref="315259996"/>
+    <nd ref="103871022"/>
+    <tag k="created_by" v="Merkaartor 0.13"/>
+    <tag k="leisure" v="park"/>
+    <tag k="name" v="Chatswood Park"/>
+    <tag k="source" v="yahoo_imagery"/>
+    <tag k="source:name" v="historical"/>
+  </way>
+</osm>

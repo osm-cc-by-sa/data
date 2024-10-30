@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="59778273" version="2" timestamp="2010-07-08T17:33:37Z" uid="74617" user="JohnSmith" changeset="5167338">
+    <nd ref="741999889"/>
+    <nd ref="741999911"/>
+    <nd ref="741999912"/>
+    <nd ref="741991113"/>
+    <nd ref="741999913"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="59778273" version="3" timestamp="2012-01-20T08:18:15Z" uid="147510" user="woodpeck_fixbot" changeset="10443754">
+    <nd ref="741999889"/>
+    <nd ref="741999911"/>
+    <nd ref="741999912"/>
+    <nd ref="741991113"/>
+    <nd ref="741999913"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="59778663" version="1" timestamp="2010-05-21T05:30:30Z" uid="244897" user="M526244" changeset="4762913">
+    <nd ref="95661418"/>
+    <nd ref="316459520"/>
+    <nd ref="316459618"/>
+    <nd ref="316459616"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Stapylton Road"/>
+  </way>
+  <way id="59778663" version="2" timestamp="2011-09-30T08:15:29Z" uid="22094" user="Chadzopkyo" changeset="9433232">
+    <nd ref="95661418"/>
+    <nd ref="316459520"/>
+    <nd ref="1449351292"/>
+    <nd ref="316459618"/>
+    <nd ref="316459616"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Stapylton Road"/>
+    <tag k="source" v="GPS"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="59778664" version="1" timestamp="2010-05-21T05:30:30Z" uid="244897" user="M526244" changeset="4762913">
+    <nd ref="150421520"/>
+    <nd ref="87722543"/>
+    <tag k="highway" v="primary"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="59778909" version="3" timestamp="2010-07-26T02:20:20Z" uid="4467" user="Rosscoe" changeset="5317875">
+    <nd ref="742006195"/>
+    <nd ref="742006196"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="layer" v="1"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="59778909" version="4" timestamp="2011-03-18T04:03:46Z" uid="78837" user="modellerau" changeset="7591880">
+    <nd ref="742006195"/>
+    <nd ref="742006196"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Paces Lane"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+</osm>

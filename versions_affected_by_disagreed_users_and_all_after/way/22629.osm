@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="22629193" version="9" timestamp="2010-01-26T02:33:18Z" uid="30201" user="rrankin" changeset="3716457">
+    <nd ref="60282117"/>
+    <nd ref="60282195"/>
+    <nd ref="242696327"/>
+    <nd ref="242697741"/>
+    <nd ref="620345068"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="The Boulevarde"/>
+  </way>
+  <way id="22629193" version="10" timestamp="2010-02-01T13:48:04Z" uid="7617" user="Franc" changeset="3767712">
+    <nd ref="60282117"/>
+    <nd ref="60282195"/>
+    <nd ref="625581239"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="The Boulevarde"/>
+    <tag k="restriction" v="school_zone"/>
+  </way>
+  <way id="22629193" version="11" timestamp="2010-07-08T02:11:25Z" uid="74617" user="JohnSmith" changeset="5162525">
+    <nd ref="60282117"/>
+    <nd ref="60282195"/>
+    <nd ref="625581239"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="The Boulevarde"/>
+    <tag k="restriction" v="school_zone"/>
+  </way>
+  <way id="22629193" version="12" timestamp="2012-01-15T22:33:06Z" uid="147510" user="woodpeck_fixbot" changeset="10402983">
+    <nd ref="60282117"/>
+    <nd ref="60282195"/>
+    <nd ref="625581239"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="The Boulevarde"/>
+    <tag k="restriction" v="school_zone"/>
+  </way>
+  <way id="22629579" version="5" timestamp="2010-02-01T13:48:03Z" uid="7617" user="Franc" changeset="3767712">
+    <nd ref="242696327"/>
+    <nd ref="625581233"/>
+    <nd ref="625581237"/>
+    <nd ref="625581235"/>
+    <nd ref="242697044"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Alice Street"/>
+    <tag k="restriction" v="school_zone"/>
+  </way>
+  <way id="22629579" version="6" timestamp="2010-07-08T02:06:48Z" uid="74617" user="JohnSmith" changeset="5162525">
+    <nd ref="242696327"/>
+    <nd ref="625581233"/>
+    <nd ref="625581237"/>
+    <nd ref="625581235"/>
+    <nd ref="242697044"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Alice Street"/>
+    <tag k="restriction" v="school_zone"/>
+  </way>
+  <way id="22629579" version="7" timestamp="2012-01-15T22:33:07Z" uid="147510" user="woodpeck_fixbot" changeset="10402983">
+    <nd ref="242696327"/>
+    <nd ref="625581233"/>
+    <nd ref="625581237"/>
+    <nd ref="625581235"/>
+    <nd ref="242697044"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Alice Street"/>
+    <tag k="restriction" v="school_zone"/>
+  </way>
+  <way id="22629926" version="2" timestamp="2010-07-08T02:09:54Z" uid="74617" user="JohnSmith" changeset="5162525">
+    <nd ref="242697043"/>
+    <nd ref="242697044"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Samuel Street"/>
+  </way>
+  <way id="22629926" version="3" timestamp="2012-01-15T22:33:09Z" uid="147510" user="woodpeck_fixbot" changeset="10402983">
+    <nd ref="242697043"/>
+    <nd ref="242697044"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Samuel Street"/>
+  </way>
+</osm>

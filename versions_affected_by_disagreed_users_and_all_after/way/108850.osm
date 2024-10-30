@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="108850224" version="1" timestamp="2011-04-17T04:43:14Z" uid="7617" user="Franc" changeset="7883801">
+    <nd ref="1247879958"/>
+    <nd ref="311886474"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Clissold Street"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="108850225" version="1" timestamp="2011-04-17T04:43:15Z" uid="7617" user="Franc" changeset="7883801">
+    <nd ref="1247879953"/>
+    <nd ref="1247879956"/>
+    <nd ref="1247879955"/>
+    <nd ref="1247879952"/>
+    <nd ref="1247879949"/>
+    <nd ref="677420793"/>
+    <tag k="highway" v="service"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="108850226" version="1" timestamp="2011-04-17T04:43:15Z" uid="7617" user="Franc" changeset="7883801">
+    <nd ref="678470470"/>
+    <nd ref="20973467"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="is_in" v="Australia, NSW, New South Wales, Katoomba"/>
+    <tag k="name" v="Katoomba Street"/>
+    <tag k="note" v="Katoomba&apos;s high street"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="108850227" version="1" timestamp="2011-04-17T04:43:15Z" uid="7617" user="Franc" changeset="7883801">
+    <nd ref="1247879954"/>
+    <nd ref="20973513"/>
+    <nd ref="20973526"/>
+    <nd ref="20973528"/>
+    <nd ref="20973530"/>
+    <nd ref="678470470"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="is_in" v="Australia, NSW, New South Wales, Katoomba"/>
+    <tag k="name" v="Katoomba Street"/>
+    <tag k="note" v="Katoomba&apos;s high street"/>
+    <tag k="restriction" v="school_zone"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="108850227" version="2" timestamp="2011-10-15T12:59:50Z" uid="35673" user="gzin" changeset="9563300">
+    <nd ref="1247879954"/>
+    <nd ref="20973513"/>
+    <nd ref="20973526"/>
+    <nd ref="1468144995"/>
+    <nd ref="20973528"/>
+    <nd ref="20973530"/>
+    <nd ref="678470470"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="is_in" v="Australia, NSW, New South Wales, Katoomba"/>
+    <tag k="name" v="Katoomba Street"/>
+    <tag k="note" v="Katoomba&apos;s high street"/>
+    <tag k="restriction" v="school_zone"/>
+    <tag k="source" v="survey"/>
+  </way>
+</osm>

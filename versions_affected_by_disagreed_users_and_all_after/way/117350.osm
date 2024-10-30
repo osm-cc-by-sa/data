@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="117350607" version="1" timestamp="2011-06-12T12:03:39Z" uid="30201" user="rrankin" changeset="8414483">
+    <nd ref="244130511"/>
+    <nd ref="244130512"/>
+    <nd ref="244130514"/>
+    <nd ref="266899528"/>
+    <nd ref="244130504"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxspeed" v="25"/>
+    <tag k="name" v="Waterfront Drive"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="117350608" version="1" timestamp="2011-06-12T12:03:40Z" uid="30201" user="rrankin" changeset="8414483">
+    <nd ref="244130511"/>
+    <nd ref="1321652018"/>
+    <nd ref="1321651958"/>
+    <nd ref="1321652003"/>
+    <nd ref="1321651969"/>
+    <nd ref="1321652009"/>
+    <nd ref="1321651986"/>
+    <nd ref="1321652029"/>
+    <nd ref="1321651995"/>
+    <nd ref="1321651965"/>
+    <nd ref="1321651974"/>
+    <nd ref="1321652015"/>
+    <nd ref="1321651978"/>
+    <tag k="foot" v="no"/>
+    <tag k="highway" v="cycleway"/>
+    <tag k="lcn" v="yes"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="surface" v="concrete"/>
+  </way>
+  <way id="117350608" version="2" timestamp="2011-06-29T14:24:53Z" uid="18713" user="Diego" changeset="8581486"/>
+  <way id="117350609" version="1" timestamp="2011-06-12T12:03:40Z" uid="30201" user="rrankin" changeset="8414483">
+    <nd ref="1321651978"/>
+    <nd ref="1321651999"/>
+    <nd ref="1321651968"/>
+    <nd ref="571374690"/>
+    <nd ref="1321652011"/>
+    <nd ref="244130509"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="footway"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="117350609" version="2" timestamp="2011-06-29T14:24:52Z" uid="18713" user="Diego" changeset="8581486">
+    <nd ref="1321651978"/>
+    <nd ref="1321651999"/>
+    <nd ref="1321651968"/>
+    <nd ref="571374690"/>
+    <nd ref="1321652011"/>
+    <nd ref="244130509"/>
+    <tag k="bicycle" v="designated"/>
+    <tag k="foot" v="designated"/>
+    <tag k="highway" v="path"/>
+    <tag k="segregated" v="yes"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="117350609" version="3" timestamp="2011-09-10T22:55:04Z" uid="20949" user="Ebenezer" changeset="9266738">
+    <nd ref="1321651978"/>
+    <nd ref="1321651999"/>
+    <nd ref="1321651968"/>
+    <nd ref="571374690"/>
+    <nd ref="1321652011"/>
+    <nd ref="244130509"/>
+    <tag k="bicycle" v="designated"/>
+    <tag k="foot" v="designated"/>
+    <tag k="highway" v="path"/>
+    <tag k="lcn" v="yes"/>
+    <tag k="segregated" v="yes"/>
+    <tag k="surface" v="paved"/>
+  </way>
+</osm>

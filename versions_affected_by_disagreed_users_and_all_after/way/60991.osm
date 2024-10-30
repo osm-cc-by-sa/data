@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="60991211" version="3" timestamp="2010-08-04T17:41:30Z" uid="9581" user="Lobelt" changeset="5401263">
+    <nd ref="266411415"/>
+    <nd ref="266411429"/>
+    <tag k="cables" v="6"/>
+    <tag k="frequency" v="50"/>
+    <tag k="name" v="055"/>
+    <tag k="note" v="nord:schwarz;süd:gelb"/>
+    <tag k="operator" v="EON_Netz"/>
+    <tag k="power" v="line"/>
+    <tag k="ref" v="055"/>
+    <tag k="voltage" v="110000"/>
+    <tag k="wires" v="single"/>
+  </way>
+  <way id="60991399" version="2" timestamp="2011-02-14T23:32:30Z" uid="6269" user="Mueck" changeset="7290890">
+    <nd ref="763527529"/>
+    <nd ref="1153718774"/>
+    <nd ref="763527530"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="footway"/>
+    <tag k="layer" v="1"/>
+  </way>
+  <way id="60991400" version="2" timestamp="2010-11-06T17:06:57Z" uid="6269" user="Mueck" changeset="6304139">
+    <nd ref="763527530"/>
+    <nd ref="763527531"/>
+    <nd ref="763527528"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="cycleway"/>
+    <tag k="layer" v="1"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="60991400" version="3" timestamp="2011-02-07T18:16:59Z" uid="163673" user="Free_Jan" changeset="7218940">
+    <nd ref="763527530"/>
+    <nd ref="1141070650"/>
+    <nd ref="763527531"/>
+    <nd ref="763527528"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="cycleway"/>
+    <tag k="layer" v="1"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="60991400" version="4" timestamp="2011-02-14T23:32:30Z" uid="6269" user="Mueck" changeset="7290890">
+    <nd ref="763527530"/>
+    <nd ref="1141070650"/>
+    <nd ref="763527531"/>
+    <nd ref="1153718470"/>
+    <nd ref="763527528"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="cycleway"/>
+    <tag k="layer" v="1"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+</osm>

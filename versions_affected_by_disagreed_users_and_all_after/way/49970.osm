@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="49970804" version="1" timestamp="2010-02-10T10:25:39Z" uid="43967" user="railsnail" changeset="3838967">
+    <nd ref="634874116"/>
+    <nd ref="496096425"/>
+    <nd ref="496096428"/>
+    <nd ref="496096442"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="cycleway"/>
+  </way>
+  <way id="49970806" version="1" timestamp="2010-02-10T10:25:39Z" uid="43967" user="railsnail" changeset="3838967">
+    <nd ref="634874115"/>
+    <nd ref="634874116"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="cycleway"/>
+  </way>
+  <way id="49970806" version="2" timestamp="2011-10-13T17:29:36Z" uid="90188" user="hypersciocco" changeset="9549137">
+    <nd ref="634874115"/>
+    <nd ref="634874116"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="cycleway"/>
+    <tag k="layer" v="1"/>
+  </way>
+  <way id="49970965" version="2" timestamp="2010-06-01T06:10:34Z" uid="4467" user="Rosscoe" changeset="4871953">
+    <nd ref="361344295"/>
+    <nd ref="361344297"/>
+    <nd ref="361344298"/>
+    <nd ref="361344300"/>
+    <nd ref="361344628"/>
+    <nd ref="361344302"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Dorrien Avenue"/>
+  </way>
+  <way id="49970965" version="3" timestamp="2010-07-09T06:10:41Z" uid="74617" user="JohnSmith" changeset="5171134">
+    <nd ref="361344295"/>
+    <nd ref="361344297"/>
+    <nd ref="361344298"/>
+    <nd ref="361344300"/>
+    <nd ref="361344628"/>
+    <nd ref="361344302"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Dorrien Avenue"/>
+  </way>
+  <way id="49970965" version="4" timestamp="2012-01-20T01:14:37Z" uid="147510" user="woodpeck_fixbot" changeset="10442677">
+    <nd ref="361344295"/>
+    <nd ref="361344297"/>
+    <nd ref="361344298"/>
+    <nd ref="361344300"/>
+    <nd ref="361344628"/>
+    <nd ref="361344302"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Dorrien Avenue"/>
+  </way>
+</osm>

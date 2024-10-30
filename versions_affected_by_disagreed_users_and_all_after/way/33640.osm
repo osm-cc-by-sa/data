@@ -1,0 +1,605 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="33640025" version="4" timestamp="2009-05-21T15:24:17Z" uid="43863" user="Rundling" changeset="1277527">
+    <nd ref="354410508"/>
+    <nd ref="384842136"/>
+    <nd ref="384842137"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Grabauer Straße"/>
+  </way>
+  <way id="33640025" version="5" timestamp="2009-08-17T19:37:58Z" uid="159540" user="lug-balista" changeset="2182401">
+    <nd ref="354410508"/>
+    <nd ref="384842136"/>
+    <nd ref="384842137"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Grabauer Straße"/>
+    <tag k="noexit" v="yes"/>
+  </way>
+  <way id="33640166" version="5" timestamp="2010-03-28T01:49:13Z" uid="20587" user="balrog-kun" changeset="4250871">
+    <nd ref="90600559"/>
+    <nd ref="90600561"/>
+    <nd ref="90600563"/>
+    <nd ref="90600565"/>
+    <nd ref="90600567"/>
+    <nd ref="90600569"/>
+    <nd ref="90600571"/>
+    <nd ref="90600573"/>
+    <nd ref="90600576"/>
+    <nd ref="90600578"/>
+    <nd ref="90600580"/>
+    <nd ref="90600582"/>
+    <nd ref="90600584"/>
+    <nd ref="90600587"/>
+    <nd ref="90600589"/>
+    <nd ref="90600592"/>
+    <nd ref="90600594"/>
+    <nd ref="90600595"/>
+    <nd ref="90600600"/>
+    <nd ref="90600602"/>
+    <nd ref="90600605"/>
+    <nd ref="90600607"/>
+    <nd ref="90600608"/>
+    <nd ref="90600611"/>
+    <nd ref="90600614"/>
+    <nd ref="90600616"/>
+    <nd ref="429660092"/>
+    <nd ref="90600618"/>
+    <nd ref="90600621"/>
+    <nd ref="90600625"/>
+    <nd ref="90600627"/>
+    <nd ref="90600628"/>
+    <nd ref="90600631"/>
+    <nd ref="90600633"/>
+    <nd ref="90600635"/>
+    <nd ref="90600636"/>
+    <nd ref="90600638"/>
+    <nd ref="90600641"/>
+    <nd ref="90600643"/>
+    <nd ref="90600644"/>
+    <nd ref="90600646"/>
+    <nd ref="90600647"/>
+    <nd ref="90600649"/>
+    <nd ref="90600653"/>
+    <nd ref="90600655"/>
+    <nd ref="90600658"/>
+    <nd ref="90600660"/>
+    <nd ref="90600662"/>
+    <nd ref="90600665"/>
+    <nd ref="90600667"/>
+    <nd ref="90508375"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="Victory Highway"/>
+    <tag k="name_1" v="River Road"/>
+    <tag k="name_2" v="State Highway 160"/>
+    <tag k="ref" v="CA 160"/>
+    <tag k="tiger:cfcc" v="A31"/>
+    <tag k="tiger:county" v="Sacramento, CA"/>
+    <tag k="tiger:name_base" v="Victory"/>
+    <tag k="tiger:name_base_1" v="River"/>
+    <tag k="tiger:name_base_2" v="State Highway 160"/>
+    <tag k="tiger:name_type" v="Hwy"/>
+    <tag k="tiger:name_type_1" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="133350574:133365856:133350610:133446393:133402887:133352068:133352071:133395793:133352031"/>
+    <tag k="tiger:zip_left" v="95832"/>
+    <tag k="tiger:zip_right" v="95832"/>
+  </way>
+  <way id="33640166" version="6" timestamp="2011-06-29T01:22:47Z" uid="473471" user="NE3" changeset="8576933">
+    <nd ref="90600559"/>
+    <nd ref="90600561"/>
+    <nd ref="90600563"/>
+    <nd ref="90600565"/>
+    <nd ref="90600567"/>
+    <nd ref="90600569"/>
+    <nd ref="90600571"/>
+    <nd ref="90600573"/>
+    <nd ref="90600576"/>
+    <nd ref="90600578"/>
+    <nd ref="90600580"/>
+    <nd ref="90600582"/>
+    <nd ref="90600584"/>
+    <nd ref="90600587"/>
+    <nd ref="90600589"/>
+    <nd ref="90600592"/>
+    <nd ref="90600594"/>
+    <nd ref="90600595"/>
+    <nd ref="90600600"/>
+    <nd ref="90600602"/>
+    <nd ref="90600605"/>
+    <nd ref="90600607"/>
+    <nd ref="90600608"/>
+    <nd ref="90600611"/>
+    <nd ref="90600614"/>
+    <nd ref="90600616"/>
+    <nd ref="429660092"/>
+    <nd ref="90600618"/>
+    <nd ref="90600621"/>
+    <nd ref="90600625"/>
+    <nd ref="90600627"/>
+    <nd ref="90600628"/>
+    <nd ref="90600631"/>
+    <nd ref="90600633"/>
+    <nd ref="90600635"/>
+    <nd ref="90600636"/>
+    <nd ref="90600638"/>
+    <nd ref="90600641"/>
+    <nd ref="90600643"/>
+    <nd ref="90600644"/>
+    <nd ref="90600646"/>
+    <nd ref="90600647"/>
+    <nd ref="90600649"/>
+    <nd ref="90600653"/>
+    <nd ref="90600655"/>
+    <nd ref="90600658"/>
+    <nd ref="90600660"/>
+    <nd ref="90600662"/>
+    <nd ref="90600665"/>
+    <nd ref="90600667"/>
+    <nd ref="90508375"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Victory Highway"/>
+    <tag k="name_1" v="River Road"/>
+    <tag k="name_2" v="State Highway 160"/>
+    <tag k="ref" v="CA 160"/>
+    <tag k="tiger:cfcc" v="A31"/>
+    <tag k="tiger:county" v="Sacramento, CA"/>
+    <tag k="tiger:name_base" v="Victory"/>
+    <tag k="tiger:name_base_1" v="River"/>
+    <tag k="tiger:name_base_2" v="State Highway 160"/>
+    <tag k="tiger:name_type" v="Hwy"/>
+    <tag k="tiger:name_type_1" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="133350574:133365856:133350610:133446393:133402887:133352068:133352071:133395793:133352031"/>
+    <tag k="tiger:zip_left" v="95832"/>
+    <tag k="tiger:zip_right" v="95832"/>
+  </way>
+  <way id="33640166" version="7" timestamp="2011-08-07T11:52:50Z" uid="207745" user="NE2" changeset="8945765">
+    <nd ref="90600559"/>
+    <nd ref="90600561"/>
+    <nd ref="90600563"/>
+    <nd ref="90600565"/>
+    <nd ref="90600567"/>
+    <nd ref="90600569"/>
+    <nd ref="90600571"/>
+    <nd ref="90600573"/>
+    <nd ref="90600576"/>
+    <nd ref="90600578"/>
+    <nd ref="90600580"/>
+    <nd ref="90600582"/>
+    <nd ref="90600584"/>
+    <nd ref="90600587"/>
+    <nd ref="90600589"/>
+    <nd ref="90600592"/>
+    <nd ref="90600594"/>
+    <nd ref="90600595"/>
+    <nd ref="90600600"/>
+    <nd ref="90600602"/>
+    <nd ref="90600605"/>
+    <nd ref="90600607"/>
+    <nd ref="90600608"/>
+    <nd ref="90600611"/>
+    <nd ref="90600614"/>
+    <nd ref="90600616"/>
+    <nd ref="429660092"/>
+    <nd ref="90600618"/>
+    <nd ref="90600621"/>
+    <nd ref="90600625"/>
+    <nd ref="90600627"/>
+    <nd ref="90600628"/>
+    <nd ref="90600631"/>
+    <nd ref="90600633"/>
+    <nd ref="90600635"/>
+    <nd ref="90600636"/>
+    <nd ref="90600638"/>
+    <nd ref="90600641"/>
+    <nd ref="90600643"/>
+    <nd ref="90600644"/>
+    <nd ref="90600646"/>
+    <nd ref="90600647"/>
+    <nd ref="90600649"/>
+    <nd ref="90600653"/>
+    <nd ref="90600655"/>
+    <nd ref="90600658"/>
+    <nd ref="90600660"/>
+    <nd ref="90600662"/>
+    <nd ref="90600665"/>
+    <nd ref="90600667"/>
+    <nd ref="90508375"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Victory Highway"/>
+    <tag k="name_1" v="River Road"/>
+    <tag k="ref" v="CA 160"/>
+    <tag k="tiger:cfcc" v="A31"/>
+    <tag k="tiger:county" v="Sacramento, CA"/>
+    <tag k="tiger:name_base" v="Victory"/>
+    <tag k="tiger:name_base_1" v="River"/>
+    <tag k="tiger:name_base_2" v="State Highway 160"/>
+    <tag k="tiger:name_type" v="Hwy"/>
+    <tag k="tiger:name_type_1" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="133350574:133365856:133350610:133446393:133402887:133352068:133352071:133395793:133352031"/>
+    <tag k="tiger:zip_left" v="95832"/>
+    <tag k="tiger:zip_right" v="95832"/>
+  </way>
+  <way id="33640225" version="4" timestamp="2010-03-28T01:49:14Z" uid="20587" user="balrog-kun" changeset="4250871">
+    <nd ref="90508375"/>
+    <nd ref="90600669"/>
+    <nd ref="90600671"/>
+    <nd ref="90600673"/>
+    <nd ref="90600675"/>
+    <nd ref="90600678"/>
+    <nd ref="90600680"/>
+    <nd ref="90600683"/>
+    <nd ref="90600685"/>
+    <nd ref="90600687"/>
+    <nd ref="90600690"/>
+    <nd ref="90600692"/>
+    <nd ref="90600698"/>
+    <nd ref="90600700"/>
+    <nd ref="90600702"/>
+    <nd ref="90600704"/>
+    <nd ref="90600713"/>
+    <nd ref="90600714"/>
+    <nd ref="429660211"/>
+    <nd ref="90600715"/>
+    <nd ref="90600716"/>
+    <nd ref="90600717"/>
+    <nd ref="90600718"/>
+    <nd ref="90600719"/>
+    <nd ref="90600720"/>
+    <nd ref="90600723"/>
+    <nd ref="90600724"/>
+    <nd ref="90600725"/>
+    <nd ref="90600729"/>
+    <nd ref="90600731"/>
+    <nd ref="90600734"/>
+    <nd ref="90600736"/>
+    <nd ref="90600738"/>
+    <nd ref="90600740"/>
+    <nd ref="90600742"/>
+    <nd ref="90600745"/>
+    <nd ref="90600747"/>
+    <nd ref="90600749"/>
+    <nd ref="90600751"/>
+    <nd ref="90600762"/>
+    <nd ref="90600764"/>
+    <nd ref="90600766"/>
+    <nd ref="90600768"/>
+    <nd ref="429660219"/>
+    <nd ref="90600770"/>
+    <nd ref="90600772"/>
+    <nd ref="90600778"/>
+    <nd ref="90600781"/>
+    <nd ref="90600783"/>
+    <nd ref="90600786"/>
+    <nd ref="90600788"/>
+    <nd ref="90600790"/>
+    <nd ref="90600791"/>
+    <nd ref="90600793"/>
+    <nd ref="90600794"/>
+    <nd ref="90600798"/>
+    <nd ref="90600801"/>
+    <nd ref="90600804"/>
+    <nd ref="90600806"/>
+    <nd ref="90600808"/>
+    <nd ref="90600810"/>
+    <nd ref="90600812"/>
+    <nd ref="90600815"/>
+    <nd ref="90600817"/>
+    <nd ref="90600819"/>
+    <nd ref="90600821"/>
+    <nd ref="90600823"/>
+    <nd ref="90600825"/>
+    <nd ref="90600826"/>
+    <nd ref="90600829"/>
+    <nd ref="90600833"/>
+    <nd ref="90600835"/>
+    <nd ref="90600836"/>
+    <nd ref="90600837"/>
+    <nd ref="90600839"/>
+    <nd ref="90600841"/>
+    <nd ref="90600843"/>
+    <nd ref="90600846"/>
+    <nd ref="90306827"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="Victory Highway"/>
+    <tag k="name_1" v="River Road"/>
+    <tag k="name_2" v="State Highway 160"/>
+    <tag k="ref" v="CA 160"/>
+    <tag k="tiger:cfcc" v="A31"/>
+    <tag k="tiger:county" v="Sacramento, CA"/>
+    <tag k="tiger:name_base" v="Victory"/>
+    <tag k="tiger:name_base_1" v="River"/>
+    <tag k="tiger:name_base_2" v="State Highway 160"/>
+    <tag k="tiger:name_type" v="Hwy"/>
+    <tag k="tiger:name_type_1" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="133350574:133365856:133350610:133446393:133402887:133352068:133352071:133395793:133352031"/>
+    <tag k="tiger:zip_left" v="95832"/>
+    <tag k="tiger:zip_right" v="95832"/>
+  </way>
+  <way id="33640225" version="5" timestamp="2011-06-29T01:20:29Z" uid="473471" user="NE3" changeset="8576933">
+    <nd ref="90508375"/>
+    <nd ref="90600669"/>
+    <nd ref="90600671"/>
+    <nd ref="90600673"/>
+    <nd ref="90600675"/>
+    <nd ref="90600678"/>
+    <nd ref="90600680"/>
+    <nd ref="90600683"/>
+    <nd ref="90600685"/>
+    <nd ref="90600687"/>
+    <nd ref="90600690"/>
+    <nd ref="90600692"/>
+    <nd ref="90600698"/>
+    <nd ref="90600700"/>
+    <nd ref="90600702"/>
+    <nd ref="90600704"/>
+    <nd ref="90600713"/>
+    <nd ref="90600714"/>
+    <nd ref="429660211"/>
+    <nd ref="90600715"/>
+    <nd ref="90600716"/>
+    <nd ref="90600717"/>
+    <nd ref="90600718"/>
+    <nd ref="90600719"/>
+    <nd ref="90600720"/>
+    <nd ref="90600723"/>
+    <nd ref="90600724"/>
+    <nd ref="90600725"/>
+    <nd ref="90600729"/>
+    <nd ref="90600731"/>
+    <nd ref="90600734"/>
+    <nd ref="90600736"/>
+    <nd ref="90600738"/>
+    <nd ref="90600740"/>
+    <nd ref="90600742"/>
+    <nd ref="90600745"/>
+    <nd ref="90600747"/>
+    <nd ref="90600749"/>
+    <nd ref="90600751"/>
+    <nd ref="90600762"/>
+    <nd ref="90600764"/>
+    <nd ref="90600766"/>
+    <nd ref="90600768"/>
+    <nd ref="429660219"/>
+    <nd ref="90600770"/>
+    <nd ref="90600772"/>
+    <nd ref="90600778"/>
+    <nd ref="90600781"/>
+    <nd ref="90600783"/>
+    <nd ref="90600786"/>
+    <nd ref="90600788"/>
+    <nd ref="90600790"/>
+    <nd ref="90600791"/>
+    <nd ref="90600793"/>
+    <nd ref="90600794"/>
+    <nd ref="90600798"/>
+    <nd ref="90600801"/>
+    <nd ref="90600804"/>
+    <nd ref="90600806"/>
+    <nd ref="90600808"/>
+    <nd ref="90600810"/>
+    <nd ref="90600812"/>
+    <nd ref="90600815"/>
+    <nd ref="90600817"/>
+    <nd ref="90600819"/>
+    <nd ref="90600821"/>
+    <nd ref="90600823"/>
+    <nd ref="90600825"/>
+    <nd ref="90600826"/>
+    <nd ref="90600829"/>
+    <nd ref="90600833"/>
+    <nd ref="90600835"/>
+    <nd ref="90600836"/>
+    <nd ref="90600837"/>
+    <nd ref="90600839"/>
+    <nd ref="90600841"/>
+    <nd ref="90600843"/>
+    <nd ref="90600846"/>
+    <nd ref="90306827"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Victory Highway"/>
+    <tag k="name_1" v="River Road"/>
+    <tag k="name_2" v="State Highway 160"/>
+    <tag k="ref" v="CA 160"/>
+    <tag k="tiger:cfcc" v="A31"/>
+    <tag k="tiger:county" v="Sacramento, CA"/>
+    <tag k="tiger:name_base" v="Victory"/>
+    <tag k="tiger:name_base_1" v="River"/>
+    <tag k="tiger:name_base_2" v="State Highway 160"/>
+    <tag k="tiger:name_type" v="Hwy"/>
+    <tag k="tiger:name_type_1" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="133350574:133365856:133350610:133446393:133402887:133352068:133352071:133395793:133352031"/>
+    <tag k="tiger:zip_left" v="95832"/>
+    <tag k="tiger:zip_right" v="95832"/>
+  </way>
+  <way id="33640225" version="6" timestamp="2011-08-07T11:52:51Z" uid="207745" user="NE2" changeset="8945765">
+    <nd ref="90508375"/>
+    <nd ref="90600669"/>
+    <nd ref="90600671"/>
+    <nd ref="90600673"/>
+    <nd ref="90600675"/>
+    <nd ref="90600678"/>
+    <nd ref="90600680"/>
+    <nd ref="90600683"/>
+    <nd ref="90600685"/>
+    <nd ref="90600687"/>
+    <nd ref="90600690"/>
+    <nd ref="90600692"/>
+    <nd ref="90600698"/>
+    <nd ref="90600700"/>
+    <nd ref="90600702"/>
+    <nd ref="90600704"/>
+    <nd ref="90600713"/>
+    <nd ref="90600714"/>
+    <nd ref="429660211"/>
+    <nd ref="90600715"/>
+    <nd ref="90600716"/>
+    <nd ref="90600717"/>
+    <nd ref="90600718"/>
+    <nd ref="90600719"/>
+    <nd ref="90600720"/>
+    <nd ref="90600723"/>
+    <nd ref="90600724"/>
+    <nd ref="90600725"/>
+    <nd ref="90600729"/>
+    <nd ref="90600731"/>
+    <nd ref="90600734"/>
+    <nd ref="90600736"/>
+    <nd ref="90600738"/>
+    <nd ref="90600740"/>
+    <nd ref="90600742"/>
+    <nd ref="90600745"/>
+    <nd ref="90600747"/>
+    <nd ref="90600749"/>
+    <nd ref="90600751"/>
+    <nd ref="90600762"/>
+    <nd ref="90600764"/>
+    <nd ref="90600766"/>
+    <nd ref="90600768"/>
+    <nd ref="429660219"/>
+    <nd ref="90600770"/>
+    <nd ref="90600772"/>
+    <nd ref="90600778"/>
+    <nd ref="90600781"/>
+    <nd ref="90600783"/>
+    <nd ref="90600786"/>
+    <nd ref="90600788"/>
+    <nd ref="90600790"/>
+    <nd ref="90600791"/>
+    <nd ref="90600793"/>
+    <nd ref="90600794"/>
+    <nd ref="90600798"/>
+    <nd ref="90600801"/>
+    <nd ref="90600804"/>
+    <nd ref="90600806"/>
+    <nd ref="90600808"/>
+    <nd ref="90600810"/>
+    <nd ref="90600812"/>
+    <nd ref="90600815"/>
+    <nd ref="90600817"/>
+    <nd ref="90600819"/>
+    <nd ref="90600821"/>
+    <nd ref="90600823"/>
+    <nd ref="90600825"/>
+    <nd ref="90600826"/>
+    <nd ref="90600829"/>
+    <nd ref="90600833"/>
+    <nd ref="90600835"/>
+    <nd ref="90600836"/>
+    <nd ref="90600837"/>
+    <nd ref="90600839"/>
+    <nd ref="90600841"/>
+    <nd ref="90600843"/>
+    <nd ref="90600846"/>
+    <nd ref="90306827"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Victory Highway"/>
+    <tag k="name_1" v="River Road"/>
+    <tag k="ref" v="CA 160"/>
+    <tag k="tiger:cfcc" v="A31"/>
+    <tag k="tiger:county" v="Sacramento, CA"/>
+    <tag k="tiger:name_base" v="Victory"/>
+    <tag k="tiger:name_base_1" v="River"/>
+    <tag k="tiger:name_base_2" v="State Highway 160"/>
+    <tag k="tiger:name_type" v="Hwy"/>
+    <tag k="tiger:name_type_1" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="133350574:133365856:133350610:133446393:133402887:133352068:133352071:133395793:133352031"/>
+    <tag k="tiger:zip_left" v="95832"/>
+    <tag k="tiger:zip_right" v="95832"/>
+  </way>
+  <way id="33640463" version="6" timestamp="2009-10-28T07:22:01Z" uid="36809" user="pfoten_weg_!_" changeset="2971189">
+    <nd ref="384845744"/>
+    <nd ref="384845752"/>
+    <nd ref="384845753"/>
+    <nd ref="384845755"/>
+    <nd ref="384845756"/>
+    <nd ref="384845757"/>
+    <nd ref="384845758"/>
+    <nd ref="384845759"/>
+    <nd ref="384845760"/>
+    <nd ref="384845761"/>
+    <nd ref="384845762"/>
+    <nd ref="384845763"/>
+    <nd ref="384845764"/>
+    <nd ref="384845765"/>
+    <nd ref="384845766"/>
+    <nd ref="262639610"/>
+    <tag k="highway" v="track"/>
+    <tag k="tracktype" v="grade2"/>
+  </way>
+  <way id="33640475" version="3" timestamp="2009-08-19T15:04:53Z" uid="74617" user="JohnSmith" changeset="2202217"/>
+  <way id="33640845" version="4" timestamp="2009-09-30T13:45:35Z" uid="36809" user="pfoten_weg_!_" changeset="2688655">
+    <nd ref="59932091"/>
+    <nd ref="384852500"/>
+    <nd ref="384852502"/>
+    <nd ref="384852505"/>
+    <nd ref="384852508"/>
+    <nd ref="384852510"/>
+    <nd ref="384852513"/>
+    <tag k="highway" v="track"/>
+    <tag k="tracktype" v="grade3"/>
+  </way>
+  <way id="33640845" version="5" timestamp="2009-10-31T09:43:44Z" uid="94149" user="markusri" changeset="2995828">
+    <nd ref="59932091"/>
+    <nd ref="384852500"/>
+    <nd ref="384852502"/>
+    <nd ref="384852505"/>
+    <nd ref="384852508"/>
+    <nd ref="384852510"/>
+    <nd ref="548095609"/>
+    <nd ref="384852513"/>
+    <tag k="highway" v="track"/>
+    <tag k="tracktype" v="grade3"/>
+  </way>
+  <way id="33640972" version="3" timestamp="2009-09-30T13:53:34Z" uid="36809" user="pfoten_weg_!_" changeset="2688655">
+    <nd ref="384852513"/>
+    <nd ref="384853069"/>
+    <nd ref="384853070"/>
+    <nd ref="384853071"/>
+    <nd ref="384853072"/>
+    <nd ref="384853073"/>
+    <nd ref="384853074"/>
+    <nd ref="384853075"/>
+    <nd ref="384853076"/>
+    <nd ref="384851151"/>
+    <tag k="highway" v="track"/>
+    <tag k="surface" v="dirt"/>
+    <tag k="tracktype" v="grade5"/>
+  </way>
+  <way id="33640972" version="4" timestamp="2009-10-31T09:43:35Z" uid="94149" user="markusri" changeset="2995828">
+    <nd ref="384852513"/>
+    <nd ref="384853069"/>
+    <nd ref="384853070"/>
+    <nd ref="384853071"/>
+    <nd ref="384853072"/>
+    <nd ref="548095423"/>
+    <nd ref="384853073"/>
+    <nd ref="384853074"/>
+    <nd ref="384853075"/>
+    <nd ref="384853076"/>
+    <nd ref="384851151"/>
+    <tag k="highway" v="track"/>
+    <tag k="surface" v="dirt"/>
+    <tag k="tracktype" v="grade5"/>
+  </way>
+</osm>

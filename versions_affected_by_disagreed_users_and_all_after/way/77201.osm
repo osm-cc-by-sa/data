@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="77201339" version="1" timestamp="2010-09-12T17:42:47Z" uid="9581" user="Lobelt" changeset="5762212">
+    <nd ref="908836948"/>
+    <nd ref="21280313"/>
+    <nd ref="21280376"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="ref" v="L 600"/>
+  </way>
+  <way id="77201339" version="2" timestamp="2011-03-07T00:15:11Z" uid="165061" user="keinname" changeset="7479948">
+    <nd ref="908836948"/>
+    <nd ref="21280313"/>
+    <nd ref="21280376"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="ref" v="L 600"/>
+    <tag k="source:maxspeed" v="DE:urban"/>
+    <tag k="zone:maxspeed" v="DE:urban"/>
+    <tag k="zone:traffic" v="DE:urban"/>
+  </way>
+  <way id="77201343" version="1" timestamp="2010-09-12T17:42:47Z" uid="9581" user="Lobelt" changeset="5762212">
+    <nd ref="59662374"/>
+    <nd ref="59662375"/>
+    <nd ref="59662376"/>
+    <nd ref="59662377"/>
+    <nd ref="59655839"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="note" v="Abstufung 01/2010"/>
+  </way>
+  <way id="77201343" version="2" timestamp="2010-09-16T08:54:09Z" uid="142422" user="BIGTH" changeset="5793381">
+    <nd ref="59662374"/>
+    <nd ref="59662375"/>
+    <nd ref="59662376"/>
+    <nd ref="59662377"/>
+    <nd ref="59655839"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="note" v="Abstufung 01/2010"/>
+  </way>
+  <way id="77201343" version="3" timestamp="2012-01-16T15:25:47Z" uid="165061" user="keinname" changeset="10408871">
+    <nd ref="59662374"/>
+    <nd ref="59662375"/>
+    <nd ref="59662376"/>
+    <nd ref="59662377"/>
+    <nd ref="59655839"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="note" v="Abstufung 01/2010"/>
+  </way>
+</osm>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="82301603" version="1" timestamp="2010-10-20T18:33:17Z" uid="96874" user="Quedel" changeset="6118586">
+    <nd ref="316678880"/>
+    <nd ref="303820194"/>
+    <tag k="highway" v="service"/>
+    <tag k="layer" v="0"/>
+    <tag k="name" v="Bahnhofsplatz"/>
+    <tag k="parking:lane:left" v="no_parking"/>
+    <tag k="service" v="driveway"/>
+    <tag k="surface" v="cobblestone"/>
+  </way>
+  <way id="82301603" version="2" timestamp="2011-11-10T13:54:16Z" uid="490470" user="59rbc" changeset="9788948"/>
+  <way id="82301604" version="1" timestamp="2010-10-20T18:33:17Z" uid="96874" user="Quedel" changeset="6118586">
+    <nd ref="316678879"/>
+    <nd ref="316678880"/>
+    <tag k="highway" v="service"/>
+    <tag k="layer" v="0"/>
+    <tag k="name" v="Bahnhofsplatz"/>
+    <tag k="parking:condition:left" v="custumers"/>
+    <tag k="parking:condition:left:taxi" v="yes"/>
+    <tag k="parking:lane:left" v="inline"/>
+    <tag k="parking:lane:right" v="no_parking"/>
+    <tag k="service" v="driveway"/>
+    <tag k="surface" v="cobblestone"/>
+  </way>
+  <way id="82301604" version="2" timestamp="2010-11-19T17:51:54Z" uid="96069" user="theophrastos" changeset="6408855">
+    <nd ref="316678879"/>
+    <nd ref="316678880"/>
+    <tag k="highway" v="service"/>
+    <tag k="layer" v="0"/>
+    <tag k="name" v="Bahnhofsplatz"/>
+    <tag k="parking:condition:left" v="customers"/>
+    <tag k="parking:condition:left:taxi" v="yes"/>
+    <tag k="parking:lane:left" v="inline"/>
+    <tag k="parking:lane:right" v="no_parking"/>
+    <tag k="service" v="driveway"/>
+    <tag k="surface" v="cobblestone"/>
+  </way>
+  <way id="82301604" version="3" timestamp="2011-11-10T13:54:16Z" uid="490470" user="59rbc" changeset="9788948"/>
+</osm>

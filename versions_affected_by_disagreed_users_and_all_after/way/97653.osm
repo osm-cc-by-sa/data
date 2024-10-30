@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="97653329" version="1" timestamp="2011-02-01T04:08:50Z" uid="30201" user="rrankin" changeset="7151522">
+    <nd ref="99625747"/>
+    <nd ref="99625750"/>
+    <tag k="highway" v="primary"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Victoria Road"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="97653329" version="2" timestamp="2012-02-02T02:14:42Z" uid="54784" user="Tom Hollander" changeset="10564163">
+    <nd ref="99625747"/>
+    <nd ref="99625750"/>
+    <tag k="highway" v="primary"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Victoria Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="SH40"/>
+  </way>
+  <way id="97653330" version="1" timestamp="2011-02-01T04:08:50Z" uid="30201" user="rrankin" changeset="7151522">
+    <nd ref="34355389"/>
+    <nd ref="581287047"/>
+    <nd ref="34355390"/>
+    <nd ref="581290788"/>
+    <nd ref="34355391"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lcn" v="yes"/>
+    <tag k="name" v="Henley Marine Drive"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="97653330" version="2" timestamp="2011-02-11T15:25:31Z" uid="7617" user="Franc" changeset="7256224">
+    <nd ref="34355389"/>
+    <nd ref="581287047"/>
+    <nd ref="34355390"/>
+    <nd ref="581290788"/>
+    <nd ref="1147406377"/>
+    <nd ref="34355391"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lcn" v="yes"/>
+    <tag k="name" v="Henley Marine Drive"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="97653330" version="3" timestamp="2012-02-27T09:09:51Z" uid="7523" user="inas" changeset="10806607">
+    <nd ref="34355389"/>
+    <nd ref="34355390"/>
+    <nd ref="581290788"/>
+    <nd ref="1147406377"/>
+    <nd ref="34355391"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lcn" v="yes"/>
+    <tag k="name" v="Henley Marine Drive"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="97653331" version="1" timestamp="2011-02-01T04:08:50Z" uid="30201" user="rrankin" changeset="7151522">
+    <nd ref="12224432"/>
+    <nd ref="8919755"/>
+    <tag k="highway" v="residential"/>
+    <tag k="image" v="80n:dsc04296.jpg"/>
+    <tag k="lcn" v="yes"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Wolseley Street"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="97653331" version="2" timestamp="2011-12-01T20:15:41Z" uid="20949" user="Ebenezer" changeset="10011595">
+    <nd ref="12224432"/>
+    <nd ref="8919755"/>
+    <tag k="highway" v="residential"/>
+    <tag k="image" v="80n:dsc04296.jpg"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="survey"/>
+    <tag k="name" v="Wolseley Street"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="97653751" version="1" timestamp="2011-02-01T04:12:23Z" uid="4467" user="Rosscoe" changeset="7151531">
+    <nd ref="60072393"/>
+    <nd ref="26705395"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Murray Farm Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="97653751" version="2" timestamp="2012-03-13T04:47:38Z" uid="7523" user="inas" changeset="10962949"/>
+</osm>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="8871185" version="2" timestamp="2008-07-06T00:59:21Z" uid="6975" user="ulfl" changeset="404092">
+    <nd ref="64568300"/>
+    <nd ref="64568312"/>
+    <nd ref="64568313"/>
+    <nd ref="35176950"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Wallingatan"/>
+  </way>
+  <way id="8871185" version="3" timestamp="2009-08-24T21:01:15Z" uid="113813" user="AndersAndersson" changeset="2250216">
+    <nd ref="64568300"/>
+    <nd ref="64568312"/>
+    <nd ref="64568313"/>
+    <nd ref="473199071"/>
+    <nd ref="35176950"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Wallingatan"/>
+  </way>
+  <way id="8871185" version="4" timestamp="2010-06-30T13:25:10Z" uid="113813" user="AndersAndersson" changeset="5113505">
+    <nd ref="64568300"/>
+    <nd ref="64568312"/>
+    <nd ref="64568313"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Wallingatan"/>
+  </way>
+  <way id="8871185" version="5" timestamp="2011-06-08T15:29:35Z" uid="158153" user="jetthe" changeset="8380615">
+    <nd ref="64568313"/>
+    <nd ref="64568312"/>
+    <nd ref="64568300"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Wallingatan"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="8871186" version="3" timestamp="2008-07-06T00:59:26Z" uid="6975" user="ulfl" changeset="404092">
+    <nd ref="61673323"/>
+    <nd ref="64568313"/>
+    <nd ref="64568316"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Trädgårdsgatan"/>
+  </way>
+  <way id="8871186" version="4" timestamp="2010-06-30T13:25:07Z" uid="113813" user="AndersAndersson" changeset="5113505">
+    <nd ref="61673323"/>
+    <nd ref="64568313"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Trädgårdsgatan"/>
+    <tag k="parking:lane:right" v="inline"/>
+  </way>
+</osm>

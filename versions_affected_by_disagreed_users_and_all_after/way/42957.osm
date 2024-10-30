@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="42957182" version="1" timestamp="2009-10-21T20:40:07Z" uid="30632" user="antblant" changeset="2916799">
+    <nd ref="412985109"/>
+    <nd ref="538071196"/>
+    <tag k="power" v="line"/>
+    <tag k="voltage" v="110000"/>
+  </way>
+  <way id="42957183" version="1" timestamp="2009-10-21T20:40:07Z" uid="30632" user="antblant" changeset="2916799">
+    <nd ref="538071202"/>
+    <nd ref="538071214"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="42957184" version="1" timestamp="2009-10-21T20:40:07Z" uid="30632" user="antblant" changeset="2916799">
+    <nd ref="538071178"/>
+    <nd ref="538071180"/>
+    <nd ref="538071182"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="42957184" version="2" timestamp="2012-02-26T17:01:07Z" uid="603523" user="diverpl" changeset="10800474">
+    <nd ref="538071178"/>
+    <nd ref="538071182"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="42957185" version="1" timestamp="2009-10-21T20:40:07Z" uid="30632" user="antblant" changeset="2916799">
+    <nd ref="491203597"/>
+    <nd ref="538071166"/>
+    <tag k="construction" v="cycleway"/>
+    <tag k="highway" v="construction"/>
+  </way>
+  <way id="42957185" version="2" timestamp="2009-12-07T23:23:39Z" uid="30632" user="antblant" changeset="3320860">
+    <nd ref="491203597"/>
+    <nd ref="583038591"/>
+    <tag k="cycleway" v="track"/>
+    <tag k="highway" v="cycleway"/>
+  </way>
+  <way id="42957186" version="1" timestamp="2009-10-21T20:40:07Z" uid="30632" user="antblant" changeset="2916799">
+    <nd ref="538071218"/>
+    <nd ref="538071234"/>
+    <nd ref="538071236"/>
+    <nd ref="538071244"/>
+    <nd ref="538071218"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="71-066"/>
+    <tag k="addr:street" v="Kordeckiego"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Uniwersytet Szczeciński - Dom Studenta nr 3"/>
+  </way>
+  <way id="42957186" version="2" timestamp="2010-03-22T11:54:54Z" uid="20587" user="balrog-kun" changeset="4201514"/>
+  <way id="42957187" version="1" timestamp="2009-10-21T20:40:07Z" uid="30632" user="antblant" changeset="2916799">
+    <nd ref="538071250"/>
+    <nd ref="538071251"/>
+    <nd ref="538071252"/>
+    <nd ref="538071253"/>
+    <nd ref="538071250"/>
+    <tag k="landuse" v="construction"/>
+    <tag k="name" v="Turzyn"/>
+    <tag k="shop" v="mall"/>
+    <tag k="website" v="http://www.turzyn.pl/"/>
+  </way>
+  <way id="42957187" version="2" timestamp="2011-06-20T07:21:24Z" uid="473784" user="antblant" changeset="8491601">
+    <nd ref="538071250"/>
+    <nd ref="538071251"/>
+    <nd ref="538071252"/>
+    <nd ref="538071253"/>
+    <nd ref="538071250"/>
+    <tag k="building" v="yes"/>
+    <tag k="fixme" v="yes"/>
+    <tag k="name" v="Turzyn"/>
+    <tag k="shop" v="mall"/>
+    <tag k="website" v="http://www.turzyn.pl/"/>
+  </way>
+  <way id="42957187" version="3" timestamp="2012-01-29T13:59:24Z" uid="583354" user="Michal Z" changeset="10530243"/>
+  <way id="42957191" version="2" timestamp="2010-03-28T11:05:26Z" uid="20587" user="balrog-kun" changeset="4254597">
+    <nd ref="91047823"/>
+    <nd ref="91106954"/>
+    <nd ref="91106955"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Farmer Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Santa Cruz, CA"/>
+    <tag k="tiger:name_base" v="Farmer"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="125503355:125503357:125503361"/>
+    <tag k="tiger:zip_left" v="95018"/>
+    <tag k="tiger:zip_right" v="95018"/>
+  </way>
+</osm>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="40322006" version="1" timestamp="2009-09-06T19:35:04Z" uid="6975" user="ulfl" changeset="2395832">
+    <nd ref="486580130"/>
+    <nd ref="486580131"/>
+    <nd ref="272471498"/>
+    <tag k="highway" v="service"/>
+    <tag k="service" v="parking_aisle"/>
+  </way>
+  <way id="40322006" version="2" timestamp="2011-07-31T17:05:34Z" uid="13257" user="rolandm" changeset="8882937">
+    <nd ref="486580131"/>
+    <nd ref="1380512810"/>
+    <nd ref="1380512808"/>
+    <nd ref="1380512806"/>
+    <nd ref="1380512805"/>
+    <nd ref="1380512807"/>
+    <nd ref="1380512809"/>
+    <nd ref="486580130"/>
+    <nd ref="486580131"/>
+    <nd ref="272471498"/>
+    <tag k="highway" v="service"/>
+    <tag k="service" v="parking_aisle"/>
+  </way>
+  <way id="40322006" version="3" timestamp="2012-01-05T13:13:59Z" uid="96069" user="theophrastos" changeset="10300701"/>
+  <way id="40322459" version="2" timestamp="2010-01-09T22:35:53Z" uid="23543" user="jkjk" changeset="3583040">
+    <nd ref="486600757"/>
+    <nd ref="486600759"/>
+    <nd ref="486600761"/>
+    <nd ref="486600763"/>
+    <nd ref="486600765"/>
+    <tag k="highway" v="track"/>
+    <tag k="surface" v="gravel"/>
+    <tag k="tracktype" v="grade2"/>
+  </way>
+  <way id="40322802" version="3" timestamp="2010-07-11T18:52:17Z" uid="6269" user="Mueck" changeset="5193075">
+    <nd ref="263420477"/>
+    <nd ref="486606515"/>
+    <nd ref="486606536"/>
+    <nd ref="486606554"/>
+    <nd ref="486606577"/>
+    <nd ref="486606591"/>
+    <nd ref="486606602"/>
+    <nd ref="486606612"/>
+    <tag k="highway" v="track"/>
+  </way>
+  <way id="40322802" version="4" timestamp="2010-07-11T20:38:01Z" uid="6269" user="Mueck" changeset="5193753">
+    <nd ref="263420106"/>
+    <nd ref="263420477"/>
+    <nd ref="486606515"/>
+    <nd ref="486606536"/>
+    <nd ref="486606554"/>
+    <nd ref="486606577"/>
+    <nd ref="486606591"/>
+    <nd ref="486606602"/>
+    <nd ref="486606612"/>
+    <tag k="highway" v="track"/>
+    <tag k="note" v="mäßig genau, sollte durch genauere Geometrie ersetzt werden"/>
+    <tag k="tracktype" v="grade1"/>
+  </way>
+  <way id="40322802" version="5" timestamp="2010-07-11T20:38:10Z" uid="6269" user="Mueck" changeset="5193753">
+    <nd ref="263420106"/>
+    <nd ref="263420477"/>
+    <nd ref="486606515"/>
+    <nd ref="486606536"/>
+    <nd ref="486606554"/>
+    <nd ref="486606577"/>
+    <nd ref="486606591"/>
+    <nd ref="486606602"/>
+    <nd ref="486606612"/>
+    <tag k="highway" v="track"/>
+    <tag k="tracktype" v="grade1"/>
+  </way>
+</osm>

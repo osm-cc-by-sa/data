@@ -1,0 +1,847 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="68195034" version="1" timestamp="2010-07-17T09:03:50Z" uid="4467" user="Rosscoe" changeset="5240660">
+    <nd ref="821589425"/>
+    <nd ref="51940725"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Mitchell Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S2"/>
+  </way>
+  <way id="68195036" version="1" timestamp="2010-07-17T09:03:51Z" uid="4467" user="Rosscoe" changeset="5240660">
+    <nd ref="314923042"/>
+    <nd ref="821589879"/>
+    <nd ref="561035829"/>
+    <nd ref="821589742"/>
+    <nd ref="561035830"/>
+    <nd ref="821589364"/>
+    <nd ref="561035827"/>
+    <nd ref="821589529"/>
+    <nd ref="314923045"/>
+    <nd ref="34647499"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Sutherland Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="68195036" version="2" timestamp="2012-01-09T18:12:45Z" uid="142807" user="SDavies" changeset="10344284">
+    <nd ref="314923042"/>
+    <nd ref="821589879"/>
+    <nd ref="561035829"/>
+    <nd ref="821589742"/>
+    <nd ref="561035830"/>
+    <nd ref="821589364"/>
+    <nd ref="561035827"/>
+    <nd ref="821589529"/>
+    <nd ref="314923045"/>
+    <nd ref="34647499"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="Sutherland Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="68195037" version="1" timestamp="2010-07-17T09:03:53Z" uid="4467" user="Rosscoe" changeset="5240660">
+    <nd ref="60826431"/>
+    <nd ref="60826435"/>
+    <nd ref="60826439"/>
+    <nd ref="60826382"/>
+    <nd ref="60826385"/>
+    <nd ref="572306061"/>
+    <nd ref="60826389"/>
+    <nd ref="60826397"/>
+    <nd ref="60826402"/>
+    <nd ref="60826407"/>
+    <nd ref="60826412"/>
+    <nd ref="60826416"/>
+    <nd ref="60826420"/>
+    <nd ref="60826423"/>
+    <nd ref="30763026"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="68195038" version="1" timestamp="2010-07-17T09:03:54Z" uid="4467" user="Rosscoe" changeset="5240660">
+    <nd ref="821589463"/>
+    <nd ref="821589611"/>
+    <nd ref="821589509"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="68195039" version="1" timestamp="2010-07-17T09:03:55Z" uid="4467" user="Rosscoe" changeset="5240660">
+    <nd ref="821589451"/>
+    <nd ref="30766768"/>
+    <nd ref="30766770"/>
+    <nd ref="60211802"/>
+    <nd ref="30766800"/>
+    <nd ref="32530248"/>
+    <nd ref="32837343"/>
+    <nd ref="31338005"/>
+    <nd ref="59717099"/>
+    <nd ref="31338007"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="6"/>
+    <tag k="name" v="Wellington Street"/>
+    <tag k="ref" v="S65"/>
+  </way>
+  <way id="68195039" version="2" timestamp="2010-10-04T00:05:46Z" uid="192584" user="ORYX" changeset="5949745">
+    <nd ref="821589451"/>
+    <nd ref="30766768"/>
+    <nd ref="30766770"/>
+    <nd ref="60211802"/>
+    <nd ref="30766800"/>
+    <nd ref="32530248"/>
+    <nd ref="937349395"/>
+    <nd ref="937349381"/>
+    <nd ref="937349387"/>
+    <nd ref="32837343"/>
+    <nd ref="31338005"/>
+    <nd ref="59717099"/>
+    <nd ref="31338007"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="Wellington Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S65"/>
+  </way>
+  <way id="68195039" version="3" timestamp="2010-10-20T11:52:50Z" uid="192584" user="ORYX" changeset="6111906">
+    <nd ref="821589451"/>
+    <nd ref="30766768"/>
+    <nd ref="30766770"/>
+    <nd ref="60211802"/>
+    <nd ref="30766800"/>
+    <nd ref="32530248"/>
+    <nd ref="937349395"/>
+    <nd ref="937349381"/>
+    <nd ref="937349387"/>
+    <nd ref="32837343"/>
+    <nd ref="958052388"/>
+    <nd ref="31338005"/>
+    <nd ref="59717099"/>
+    <nd ref="31338007"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="Wellington Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S65"/>
+  </way>
+  <way id="68195039" version="4" timestamp="2010-11-17T03:43:10Z" uid="294850" user="Q4004" changeset="6389979">
+    <nd ref="30766770"/>
+    <nd ref="60211802"/>
+    <nd ref="30766800"/>
+    <nd ref="32530248"/>
+    <nd ref="937349395"/>
+    <nd ref="937349381"/>
+    <nd ref="937349387"/>
+    <nd ref="32837343"/>
+    <nd ref="958052388"/>
+    <nd ref="31338005"/>
+    <nd ref="59717099"/>
+    <nd ref="31338007"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="Wellington Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S65"/>
+  </way>
+  <way id="68195039" version="5" timestamp="2011-01-27T01:28:18Z" uid="4467" user="Rosscoe" changeset="7099703">
+    <nd ref="30766770"/>
+    <nd ref="60211802"/>
+    <nd ref="30766800"/>
+    <nd ref="32530248"/>
+    <nd ref="937349395"/>
+    <nd ref="937349381"/>
+    <nd ref="937349387"/>
+    <nd ref="32837343"/>
+    <nd ref="958052388"/>
+    <nd ref="31338005"/>
+    <nd ref="59717099"/>
+    <nd ref="31338007"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="Wellington Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S65"/>
+  </way>
+  <way id="68195039" version="6" timestamp="2012-01-05T13:24:34Z" uid="142807" user="SDavies" changeset="10300844">
+    <nd ref="30766770"/>
+    <nd ref="60211802"/>
+    <nd ref="30766800"/>
+    <nd ref="32530248"/>
+    <nd ref="937349395"/>
+    <nd ref="937349381"/>
+    <nd ref="937349387"/>
+    <nd ref="32837343"/>
+    <nd ref="958052388"/>
+    <nd ref="31338005"/>
+    <nd ref="59717099"/>
+    <nd ref="31338007"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="Wellington Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S65"/>
+  </way>
+  <way id="68195039" version="7" timestamp="2012-02-08T17:52:25Z" uid="142807" user="SDavies" changeset="10626796">
+    <nd ref="30766770"/>
+    <nd ref="60211802"/>
+    <nd ref="30766800"/>
+    <nd ref="32530248"/>
+    <nd ref="937349395"/>
+    <nd ref="937349381"/>
+    <nd ref="937349387"/>
+    <nd ref="32837343"/>
+    <nd ref="958052388"/>
+    <nd ref="31338005"/>
+    <nd ref="59717099"/>
+    <nd ref="1624174755"/>
+    <nd ref="1624174760"/>
+    <nd ref="31338007"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="Wellington Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S65"/>
+  </way>
+  <way id="68195039" version="8" timestamp="2012-02-08T19:17:33Z" uid="142807" user="SDavies" changeset="10627647">
+    <nd ref="30766770"/>
+    <nd ref="60211802"/>
+    <nd ref="30766800"/>
+    <nd ref="32530248"/>
+    <nd ref="937349395"/>
+    <nd ref="937349381"/>
+    <nd ref="937349387"/>
+    <nd ref="32837343"/>
+    <nd ref="958052388"/>
+    <nd ref="31338005"/>
+    <nd ref="59717099"/>
+    <nd ref="1624174755"/>
+    <nd ref="1624174760"/>
+    <nd ref="1624291215"/>
+    <nd ref="31338007"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="Wellington Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S65"/>
+  </way>
+  <way id="68195040" version="1" timestamp="2010-07-17T09:04:00Z" uid="4467" user="Rosscoe" changeset="5240660">
+    <nd ref="821589623"/>
+    <nd ref="821589337"/>
+    <nd ref="821589433"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="68195041" version="1" timestamp="2010-07-17T09:04:00Z" uid="4467" user="Rosscoe" changeset="5240660">
+    <nd ref="60826544"/>
+    <nd ref="60826553"/>
+    <nd ref="821589396"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="68195042" version="1" timestamp="2010-07-17T09:04:02Z" uid="4467" user="Rosscoe" changeset="5240660">
+    <nd ref="821589391"/>
+    <nd ref="560674438"/>
+    <nd ref="52173126"/>
+    <nd ref="821589925"/>
+    <nd ref="60826509"/>
+    <nd ref="469344063"/>
+    <nd ref="555854364"/>
+    <nd ref="560674426"/>
+    <nd ref="821589463"/>
+    <nd ref="821589909"/>
+    <nd ref="31337998"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Wellington Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S65"/>
+  </way>
+  <way id="68195042" version="2" timestamp="2012-01-09T18:12:46Z" uid="142807" user="SDavies" changeset="10344284">
+    <nd ref="821589391"/>
+    <nd ref="560674438"/>
+    <nd ref="52173126"/>
+    <nd ref="821589925"/>
+    <nd ref="60826509"/>
+    <nd ref="469344063"/>
+    <nd ref="555854364"/>
+    <nd ref="560674426"/>
+    <nd ref="821589463"/>
+    <nd ref="821589909"/>
+    <nd ref="31337998"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="Wellington Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S65"/>
+  </way>
+  <way id="68195043" version="1" timestamp="2010-07-17T09:04:03Z" uid="4467" user="Rosscoe" changeset="5240660">
+    <nd ref="821589385"/>
+    <nd ref="30782372"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Mitchell Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S2"/>
+  </way>
+  <way id="68195044" version="1" timestamp="2010-07-17T09:04:05Z" uid="4467" user="Rosscoe" changeset="5240660">
+    <nd ref="821589489"/>
+    <nd ref="30763007"/>
+    <nd ref="821589425"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="Mitchell Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S2"/>
+  </way>
+  <way id="68195045" version="1" timestamp="2010-07-17T09:04:06Z" uid="4467" user="Rosscoe" changeset="5240660">
+    <nd ref="821589833"/>
+    <nd ref="31487079"/>
+    <nd ref="572306282"/>
+    <nd ref="60826362"/>
+    <nd ref="60826641"/>
+    <nd ref="579904798"/>
+    <nd ref="60826367"/>
+    <nd ref="579904797"/>
+    <nd ref="60826372"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Elder Street"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="68195045" version="2" timestamp="2012-01-31T22:00:31Z" uid="142807" user="SDavies" changeset="10554047">
+    <nd ref="821589833"/>
+    <nd ref="1613606537"/>
+    <nd ref="1613606557"/>
+    <nd ref="31487079"/>
+    <nd ref="572306282"/>
+    <nd ref="60826362"/>
+    <nd ref="60826641"/>
+    <nd ref="579904798"/>
+    <nd ref="60826367"/>
+    <nd ref="579904797"/>
+    <nd ref="60826372"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Elder Street"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="68195045" version="3" timestamp="2012-02-04T13:59:52Z" uid="142807" user="SDavies" changeset="10584409">
+    <nd ref="821589833"/>
+    <nd ref="1617729394"/>
+    <nd ref="1617729397"/>
+    <nd ref="1613606537"/>
+    <nd ref="1613606557"/>
+    <nd ref="31487079"/>
+    <nd ref="572306282"/>
+    <nd ref="60826362"/>
+    <nd ref="60826641"/>
+    <nd ref="579904798"/>
+    <nd ref="60826367"/>
+    <nd ref="579904797"/>
+    <nd ref="60826372"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Elder Street"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="68195046" version="1" timestamp="2010-07-17T09:04:07Z" uid="4467" user="Rosscoe" changeset="5240660">
+    <nd ref="34647499"/>
+    <nd ref="60826118"/>
+    <nd ref="60826509"/>
+    <nd ref="821589346"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Sutherland Street"/>
+  </way>
+  <way id="68195046" version="2" timestamp="2011-01-27T01:51:21Z" uid="4467" user="Rosscoe" changeset="7099791">
+    <nd ref="34647499"/>
+    <nd ref="1122876952"/>
+    <nd ref="60826118"/>
+    <nd ref="60826509"/>
+    <nd ref="821589346"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Sutherland Street"/>
+  </way>
+  <way id="68195046" version="3" timestamp="2012-01-09T18:12:46Z" uid="142807" user="SDavies" changeset="10344284">
+    <nd ref="34647499"/>
+    <nd ref="1122876952"/>
+    <nd ref="60826118"/>
+    <nd ref="60826509"/>
+    <nd ref="821589346"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="Sutherland Street"/>
+  </way>
+  <way id="68195048" version="1" timestamp="2010-07-17T09:04:08Z" uid="4467" user="Rosscoe" changeset="5240660">
+    <nd ref="821589330"/>
+    <nd ref="821589382"/>
+    <nd ref="59995679"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="layer" v="1"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="68195052" version="1" timestamp="2010-07-17T09:04:09Z" uid="4467" user="Rosscoe" changeset="5240660">
+    <nd ref="560674426"/>
+    <nd ref="560785554"/>
+    <nd ref="565823766"/>
+    <nd ref="579904850"/>
+    <nd ref="579904851"/>
+    <nd ref="579904852"/>
+    <nd ref="560674427"/>
+    <tag k="attribution" v="West Perth Business Map www.mineraldata.com.au"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="68195053" version="1" timestamp="2010-07-17T09:04:11Z" uid="4467" user="Rosscoe" changeset="5240660">
+    <nd ref="821589820"/>
+    <nd ref="310567448"/>
+    <nd ref="60826431"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Murray Street"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="68195057" version="1" timestamp="2010-07-17T09:04:12Z" uid="4467" user="Rosscoe" changeset="5240660">
+    <nd ref="821589864"/>
+    <nd ref="821589539"/>
+    <nd ref="821589512"/>
+    <nd ref="821589325"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Sutherland Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="68195061" version="1" timestamp="2010-07-17T09:04:13Z" uid="4467" user="Rosscoe" changeset="5240660">
+    <nd ref="821589719"/>
+    <nd ref="310567443"/>
+    <nd ref="821589503"/>
+    <nd ref="821589499"/>
+    <nd ref="821589557"/>
+    <nd ref="821589411"/>
+    <nd ref="821589346"/>
+    <nd ref="821589578"/>
+    <nd ref="821589472"/>
+    <nd ref="821589951"/>
+    <nd ref="821589391"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Wellington Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S65"/>
+  </way>
+  <way id="68195061" version="2" timestamp="2012-01-09T18:12:46Z" uid="142807" user="SDavies" changeset="10344284">
+    <nd ref="821589719"/>
+    <nd ref="310567443"/>
+    <nd ref="821589503"/>
+    <nd ref="821589499"/>
+    <nd ref="821589557"/>
+    <nd ref="821589411"/>
+    <nd ref="821589346"/>
+    <nd ref="821589578"/>
+    <nd ref="821589472"/>
+    <nd ref="821589951"/>
+    <nd ref="821589391"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="Wellington Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S65"/>
+  </way>
+  <way id="68195067" version="1" timestamp="2010-07-17T09:04:15Z" uid="4467" user="Rosscoe" changeset="5240660">
+    <nd ref="821589820"/>
+    <nd ref="821589405"/>
+    <nd ref="31487078"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Murray Street"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="68195069" version="1" timestamp="2010-07-17T09:04:17Z" uid="4467" user="Rosscoe" changeset="5240660">
+    <nd ref="821589451"/>
+    <nd ref="821589977"/>
+    <nd ref="821589779"/>
+    <nd ref="821589521"/>
+    <nd ref="439204558"/>
+    <nd ref="821589358"/>
+    <nd ref="821589833"/>
+    <nd ref="821589719"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Wellington Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S65"/>
+  </way>
+  <way id="68195069" version="2" timestamp="2011-01-27T01:28:17Z" uid="4467" user="Rosscoe" changeset="7099703">
+    <nd ref="1122846568"/>
+    <nd ref="1122846584"/>
+    <nd ref="1122846587"/>
+    <nd ref="1122846585"/>
+    <nd ref="821589977"/>
+    <nd ref="821589779"/>
+    <nd ref="821589521"/>
+    <nd ref="439204558"/>
+    <nd ref="821589358"/>
+    <nd ref="821589833"/>
+    <nd ref="821589719"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Wellington Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S65"/>
+  </way>
+  <way id="68195069" version="3" timestamp="2011-07-15T13:54:32Z" uid="462207" user="crislippi" changeset="8731547">
+    <nd ref="1122846568"/>
+    <nd ref="1362763310"/>
+    <nd ref="1122846584"/>
+    <nd ref="1122846587"/>
+    <nd ref="1122846585"/>
+    <nd ref="821589977"/>
+    <nd ref="821589779"/>
+    <nd ref="821589521"/>
+    <nd ref="439204558"/>
+    <nd ref="821589358"/>
+    <nd ref="821589833"/>
+    <nd ref="821589719"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Wellington Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S65"/>
+  </way>
+  <way id="68195069" version="4" timestamp="2012-01-05T13:31:34Z" uid="142807" user="SDavies" changeset="10300844">
+    <nd ref="1122846568"/>
+    <nd ref="1362763310"/>
+    <nd ref="1122846584"/>
+    <nd ref="1122846587"/>
+    <nd ref="1122846585"/>
+    <nd ref="821589977"/>
+    <nd ref="821589779"/>
+    <nd ref="821589521"/>
+    <nd ref="439204558"/>
+    <nd ref="821589358"/>
+    <nd ref="821589833"/>
+    <nd ref="821589719"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="Wellington Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S65"/>
+  </way>
+  <way id="68195069" version="5" timestamp="2012-01-25T20:46:24Z" uid="142807" user="SDavies" changeset="10497402">
+    <nd ref="1122846568"/>
+    <nd ref="1362763310"/>
+    <nd ref="1122846584"/>
+    <nd ref="1122846587"/>
+    <nd ref="1122846585"/>
+    <nd ref="821589977"/>
+    <nd ref="821589779"/>
+    <nd ref="821589521"/>
+    <nd ref="1605575002"/>
+    <nd ref="439204558"/>
+    <nd ref="821589358"/>
+    <nd ref="821589833"/>
+    <nd ref="821589719"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="Wellington Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S65"/>
+  </way>
+  <way id="68195069" version="6" timestamp="2012-01-25T20:59:52Z" uid="142807" user="SDavies" changeset="10497544">
+    <nd ref="1122846568"/>
+    <nd ref="1362763310"/>
+    <nd ref="1122846584"/>
+    <nd ref="1122846587"/>
+    <nd ref="1122846585"/>
+    <nd ref="821589977"/>
+    <nd ref="821589779"/>
+    <nd ref="821589521"/>
+    <nd ref="1605575002"/>
+    <nd ref="1605591767"/>
+    <nd ref="439204558"/>
+    <nd ref="821589358"/>
+    <nd ref="821589833"/>
+    <nd ref="821589719"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="Wellington Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S65"/>
+  </way>
+  <way id="68195069" version="7" timestamp="2012-01-31T22:00:32Z" uid="142807" user="SDavies" changeset="10554047">
+    <nd ref="1122846568"/>
+    <nd ref="1362763310"/>
+    <nd ref="1122846584"/>
+    <nd ref="1122846587"/>
+    <nd ref="1122846585"/>
+    <nd ref="821589977"/>
+    <nd ref="821589779"/>
+    <nd ref="821589521"/>
+    <nd ref="1605575002"/>
+    <nd ref="1605591767"/>
+    <nd ref="439204558"/>
+    <nd ref="821589358"/>
+    <nd ref="1613606524"/>
+    <nd ref="821589833"/>
+    <nd ref="821589719"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="Wellington Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S65"/>
+  </way>
+  <way id="68195069" version="8" timestamp="2012-02-05T10:28:19Z" uid="142807" user="SDavies" changeset="10592073">
+    <nd ref="1122846568"/>
+    <nd ref="1362763310"/>
+    <nd ref="1618734698"/>
+    <nd ref="1122846587"/>
+    <nd ref="1618734684"/>
+    <nd ref="821589977"/>
+    <nd ref="821589779"/>
+    <nd ref="821589521"/>
+    <nd ref="1605575002"/>
+    <nd ref="1605591767"/>
+    <nd ref="439204558"/>
+    <nd ref="821589358"/>
+    <nd ref="1613606524"/>
+    <nd ref="821589833"/>
+    <nd ref="821589719"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="Wellington Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S65"/>
+  </way>
+  <way id="68195070" version="1" timestamp="2010-07-17T09:04:18Z" uid="4467" user="Rosscoe" changeset="5240660">
+    <nd ref="821589354"/>
+    <nd ref="821589668"/>
+    <nd ref="561035828"/>
+    <nd ref="821589493"/>
+    <nd ref="561177046"/>
+    <nd ref="821589864"/>
+    <nd ref="314923042"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Sutherland Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="68195070" version="2" timestamp="2012-01-09T18:12:47Z" uid="142807" user="SDavies" changeset="10344284">
+    <nd ref="821589354"/>
+    <nd ref="821589668"/>
+    <nd ref="561035828"/>
+    <nd ref="821589493"/>
+    <nd ref="561177046"/>
+    <nd ref="821589864"/>
+    <nd ref="314923042"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="Sutherland Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="68195071" version="1" timestamp="2010-07-17T09:04:19Z" uid="4467" user="Rosscoe" changeset="5240660">
+    <nd ref="821589325"/>
+    <nd ref="561031742"/>
+    <nd ref="314923042"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Sutherland Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="68195072" version="1" timestamp="2010-07-17T09:04:21Z" uid="4467" user="Rosscoe" changeset="5240660">
+    <nd ref="30782371"/>
+    <nd ref="821589396"/>
+    <nd ref="821589385"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Mitchell Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S2"/>
+  </way>
+  <way id="68195873" version="1" timestamp="2010-07-17T09:23:44Z" uid="59758" user="rendle" changeset="5240803">
+    <nd ref="821624416"/>
+    <nd ref="821624430"/>
+    <nd ref="821624439"/>
+    <nd ref="821624444"/>
+    <nd ref="821624447"/>
+    <nd ref="821624468"/>
+    <nd ref="821624471"/>
+    <nd ref="821624477"/>
+    <nd ref="821624484"/>
+    <nd ref="821624494"/>
+    <nd ref="821624501"/>
+    <nd ref="821624507"/>
+  </way>
+  <way id="68195873" version="2" timestamp="2010-07-17T09:24:34Z" uid="59758" user="rendle" changeset="5240803">
+    <nd ref="821624416"/>
+    <nd ref="821624430"/>
+    <nd ref="821624439"/>
+    <nd ref="821624444"/>
+    <nd ref="821624447"/>
+  </way>
+  <way id="68195873" version="3" timestamp="2010-07-17T09:24:37Z" uid="59758" user="rendle" changeset="5240803"/>
+  <way id="68195875" version="1" timestamp="2010-07-17T09:23:47Z" uid="59758" user="rendle" changeset="5240803">
+    <nd ref="821624623"/>
+    <nd ref="821624629"/>
+    <nd ref="821624638"/>
+    <nd ref="821624644"/>
+    <nd ref="821624649"/>
+    <nd ref="821624654"/>
+    <nd ref="821624656"/>
+    <nd ref="821624658"/>
+    <nd ref="821624663"/>
+    <nd ref="821624674"/>
+    <nd ref="821624685"/>
+    <nd ref="821624693"/>
+  </way>
+  <way id="68195875" version="2" timestamp="2010-07-17T09:24:30Z" uid="59758" user="rendle" changeset="5240803">
+    <nd ref="821624623"/>
+    <nd ref="821624629"/>
+    <nd ref="821624638"/>
+    <nd ref="821624644"/>
+    <nd ref="821624649"/>
+  </way>
+  <way id="68195875" version="3" timestamp="2010-07-17T09:24:39Z" uid="59758" user="rendle" changeset="5240803"/>
+  <way id="68195917" version="1" timestamp="2010-07-17T09:24:30Z" uid="59758" user="rendle" changeset="5240803">
+    <nd ref="821624649"/>
+    <nd ref="821624654"/>
+    <nd ref="821624656"/>
+    <nd ref="821624658"/>
+    <nd ref="821624663"/>
+    <nd ref="821624674"/>
+    <nd ref="821624685"/>
+    <nd ref="821624693"/>
+  </way>
+  <way id="68195917" version="2" timestamp="2010-07-17T09:24:54Z" uid="59758" user="rendle" changeset="5240803"/>
+  <way id="68195918" version="1" timestamp="2010-07-17T09:24:34Z" uid="59758" user="rendle" changeset="5240803">
+    <nd ref="821624447"/>
+    <nd ref="821624468"/>
+    <nd ref="821624471"/>
+    <nd ref="821624477"/>
+    <nd ref="821624484"/>
+    <nd ref="821624494"/>
+    <nd ref="821624501"/>
+    <nd ref="821624507"/>
+  </way>
+  <way id="68195918" version="2" timestamp="2010-07-17T09:24:54Z" uid="59758" user="rendle" changeset="5240803">
+    <nd ref="821624693"/>
+    <nd ref="821624685"/>
+    <nd ref="821624674"/>
+    <nd ref="821624663"/>
+    <nd ref="821624658"/>
+    <nd ref="821624656"/>
+    <nd ref="821624654"/>
+    <nd ref="821624649"/>
+    <nd ref="821624447"/>
+    <nd ref="821624468"/>
+    <nd ref="821624471"/>
+    <nd ref="821624477"/>
+    <nd ref="821624484"/>
+    <nd ref="821624494"/>
+    <nd ref="821624501"/>
+    <nd ref="821624507"/>
+  </way>
+  <way id="68195918" version="3" timestamp="2010-07-17T10:59:12Z" uid="59758" user="rendle" changeset="5241496">
+    <nd ref="821624507"/>
+    <nd ref="821624693"/>
+    <nd ref="821624685"/>
+    <nd ref="821624674"/>
+    <nd ref="821624663"/>
+    <nd ref="821624658"/>
+    <nd ref="821624656"/>
+    <nd ref="821624654"/>
+    <nd ref="821624649"/>
+    <nd ref="821624447"/>
+    <nd ref="821624468"/>
+    <nd ref="821624471"/>
+    <nd ref="821624477"/>
+    <nd ref="821624484"/>
+    <nd ref="821624494"/>
+    <nd ref="821624507"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <way id="68195918" version="4" timestamp="2010-08-06T14:36:55Z" uid="42033" user="Tbj" changeset="5417441">
+    <nd ref="821624507"/>
+    <nd ref="821624693"/>
+    <nd ref="821624685"/>
+    <nd ref="821624674"/>
+    <nd ref="821624663"/>
+    <nd ref="821624658"/>
+    <nd ref="821624656"/>
+    <nd ref="821624654"/>
+    <nd ref="821624649"/>
+    <nd ref="821624447"/>
+    <nd ref="821662938"/>
+    <nd ref="821624471"/>
+    <nd ref="821624477"/>
+    <nd ref="821624484"/>
+    <nd ref="821624494"/>
+    <nd ref="821624507"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <way id="68195918" version="5" timestamp="2010-09-09T21:18:25Z" uid="59758" user="rendle" changeset="5736597">
+    <nd ref="821624507"/>
+    <nd ref="821624693"/>
+    <nd ref="821624685"/>
+    <nd ref="821624674"/>
+    <nd ref="821624663"/>
+    <nd ref="821624658"/>
+    <nd ref="821624656"/>
+    <nd ref="821624654"/>
+    <nd ref="821624649"/>
+    <nd ref="904542407"/>
+    <nd ref="904542409"/>
+    <nd ref="821624447"/>
+    <nd ref="821662938"/>
+    <nd ref="821624471"/>
+    <nd ref="821624477"/>
+    <nd ref="821624484"/>
+    <nd ref="821624494"/>
+    <nd ref="821624507"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <way id="68195918" version="6" timestamp="2012-01-11T17:39:53Z" uid="138772" user="lodde1949" changeset="10362519"/>
+  <way id="68195945" version="1" timestamp="2010-07-17T09:26:22Z" uid="59758" user="rendle" changeset="5240803">
+    <nd ref="821624693"/>
+    <nd ref="821624507"/>
+  </way>
+  <way id="68195945" version="2" timestamp="2010-07-17T09:35:18Z" uid="59758" user="rendle" changeset="5240803"/>
+  <way id="68195962" version="1" timestamp="2010-07-17T09:28:54Z" uid="59758" user="rendle" changeset="5240803">
+    <nd ref="821638159"/>
+    <nd ref="821638164"/>
+    <nd ref="821638166"/>
+    <nd ref="821638170"/>
+    <nd ref="821638176"/>
+    <nd ref="821638182"/>
+    <nd ref="821638189"/>
+    <nd ref="821638194"/>
+  </way>
+  <way id="68195962" version="2" timestamp="2010-07-17T09:29:17Z" uid="59758" user="rendle" changeset="5240803">
+    <nd ref="821638159"/>
+    <nd ref="821638164"/>
+  </way>
+  <way id="68195962" version="3" timestamp="2010-07-17T09:29:48Z" uid="59758" user="rendle" changeset="5240803">
+    <nd ref="821638958"/>
+    <nd ref="821638953"/>
+    <nd ref="821638951"/>
+    <nd ref="821638948"/>
+    <nd ref="821638945"/>
+    <nd ref="821638944"/>
+    <nd ref="821638941"/>
+    <nd ref="821638939"/>
+    <nd ref="821638159"/>
+    <nd ref="821638164"/>
+  </way>
+  <way id="68195962" version="4" timestamp="2010-07-17T09:30:57Z" uid="59758" user="rendle" changeset="5240803">
+    <nd ref="821638958"/>
+    <nd ref="821638953"/>
+    <nd ref="821638951"/>
+  </way>
+  <way id="68195962" version="5" timestamp="2010-07-17T09:32:18Z" uid="59758" user="rendle" changeset="5240803"/>
+  <way id="68195982" version="1" timestamp="2010-07-17T09:29:07Z" uid="59758" user="rendle" changeset="5240803">
+    <nd ref="821638939"/>
+    <nd ref="821638941"/>
+    <nd ref="821638944"/>
+    <nd ref="821638945"/>
+    <nd ref="821638948"/>
+    <nd ref="821638951"/>
+    <nd ref="821638953"/>
+    <nd ref="821638958"/>
+  </way>
+  <way id="68195982" version="2" timestamp="2010-07-17T09:29:48Z" uid="59758" user="rendle" changeset="5240803"/>
+</osm>

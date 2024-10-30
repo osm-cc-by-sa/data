@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="109179781" version="1" timestamp="2011-04-18T21:34:03Z" uid="107674" user="GeoCounter" changeset="7901866">
+    <nd ref="1250547719"/>
+    <nd ref="1250547728"/>
+    <nd ref="1250547731"/>
+    <nd ref="2472146"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="109179785" version="1" timestamp="2011-04-18T21:34:04Z" uid="107674" user="GeoCounter" changeset="7901866">
+    <nd ref="1250547719"/>
+    <nd ref="288528349"/>
+    <nd ref="2472146"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Waldstraße"/>
+    <tag k="ref" v="L 3405"/>
+  </way>
+  <way id="109179785" version="2" timestamp="2012-01-25T12:02:12Z" uid="65364" user="Harry99" changeset="10491291">
+    <nd ref="1250547719"/>
+    <nd ref="288528349"/>
+    <nd ref="2472146"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Waldstraße"/>
+    <tag k="ref" v="L 3405"/>
+    <tag k="source:maxspeed" v="DE:urban"/>
+  </way>
+</osm>

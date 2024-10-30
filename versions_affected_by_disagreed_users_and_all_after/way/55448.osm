@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="55448765" version="2" timestamp="2010-07-09T06:22:49Z" uid="74617" user="JohnSmith" changeset="5171134">
+    <nd ref="253474967"/>
+    <nd ref="369630894"/>
+    <nd ref="369631039"/>
+    <nd ref="369630895"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Miller Street"/>
+    <tag k="source:name" v="Gregory&apos;s 1949"/>
+  </way>
+  <way id="55448765" version="3" timestamp="2011-05-05T11:35:05Z" uid="21143" user="hryciuk" changeset="8056469">
+    <nd ref="253474967"/>
+    <nd ref="369630894"/>
+    <nd ref="369631039"/>
+    <nd ref="1272975241"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Miller Street"/>
+    <tag k="source:name" v="Gregory&apos;s 1949"/>
+  </way>
+  <way id="55448765" version="4" timestamp="2012-01-20T05:55:28Z" uid="147510" user="woodpeck_fixbot" changeset="10443281">
+    <nd ref="253474967"/>
+    <nd ref="369630894"/>
+    <nd ref="369631039"/>
+    <nd ref="1272975241"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Miller Street"/>
+    <tag k="source:name" v="Gregory&apos;s 1949"/>
+  </way>
+  <way id="55448940" version="2" timestamp="2010-07-25T08:06:00Z" uid="4467" user="Rosscoe" changeset="5309577">
+    <nd ref="696791371"/>
+    <nd ref="696791380"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Glenelg Tram"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="railway" v="tram"/>
+  </way>
+</osm>

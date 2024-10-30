@@ -1,0 +1,5722 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="48437020" version="14" timestamp="2010-11-28T02:42:47Z" uid="23543" user="jkjk" changeset="6474993"/>
+  <way id="48437230" version="2" timestamp="2010-07-09T05:03:16Z" uid="74617" user="JohnSmith" changeset="5170972">
+    <nd ref="233262639"/>
+    <nd ref="333901615"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Moor Street"/>
+  </way>
+  <way id="48437230" version="3" timestamp="2011-04-10T20:38:37Z" uid="4467" user="Rosscoe" changeset="7827395">
+    <nd ref="233262639"/>
+    <nd ref="333901615"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Moor Street"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="48437230" version="4" timestamp="2011-08-19T02:14:32Z" uid="201443" user="stevage" changeset="9061964">
+    <nd ref="233262639"/>
+    <nd ref="333901615"/>
+    <tag k="cycleway" v="lane"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Moor Street"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="48437230" version="5" timestamp="2012-01-19T22:00:21Z" uid="147510" user="woodpeck_fixbot" changeset="10440306">
+    <nd ref="233262639"/>
+    <nd ref="333901615"/>
+    <tag k="cycleway" v="lane"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Moor Street"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="48437231" version="2" timestamp="2010-07-09T04:55:10Z" uid="74617" user="JohnSmith" changeset="5170972">
+    <nd ref="615176084"/>
+    <nd ref="361282768"/>
+    <nd ref="233255340"/>
+    <nd ref="233255248"/>
+    <nd ref="233255225"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Gore Street"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="48437231" version="3" timestamp="2011-04-10T20:39:19Z" uid="4467" user="Rosscoe" changeset="7827395">
+    <nd ref="615176084"/>
+    <nd ref="361282768"/>
+    <nd ref="233255340"/>
+    <nd ref="233255248"/>
+    <nd ref="233255225"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Gore Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="48437231" version="4" timestamp="2012-01-19T22:00:25Z" uid="147510" user="woodpeck_fixbot" changeset="10440306">
+    <nd ref="615176084"/>
+    <nd ref="361282768"/>
+    <nd ref="233255340"/>
+    <nd ref="233255248"/>
+    <nd ref="233255225"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Gore Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="48437234" version="2" timestamp="2010-07-09T05:01:03Z" uid="74617" user="JohnSmith" changeset="5170972">
+    <nd ref="615176085"/>
+    <nd ref="615176087"/>
+    <nd ref="615176088"/>
+    <nd ref="615176089"/>
+    <nd ref="615176091"/>
+    <nd ref="615176093"/>
+    <nd ref="615176095"/>
+    <nd ref="615176097"/>
+    <nd ref="615176100"/>
+    <nd ref="615176084"/>
+    <nd ref="615176103"/>
+    <nd ref="615176105"/>
+    <nd ref="615176107"/>
+    <nd ref="615176108"/>
+    <nd ref="233262639"/>
+    <nd ref="615176110"/>
+    <nd ref="615176119"/>
+    <nd ref="615176128"/>
+    <nd ref="615176085"/>
+    <tag k="highway" v="residential"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="48437234" version="3" timestamp="2011-04-10T20:37:50Z" uid="4467" user="Rosscoe" changeset="7827395">
+    <nd ref="615176085"/>
+    <nd ref="615176087"/>
+    <nd ref="615176088"/>
+    <nd ref="615176089"/>
+    <nd ref="615176091"/>
+    <nd ref="615176093"/>
+    <nd ref="615176095"/>
+    <nd ref="615176097"/>
+    <nd ref="615176100"/>
+    <nd ref="615176084"/>
+    <nd ref="615176103"/>
+    <nd ref="615176105"/>
+    <nd ref="615176107"/>
+    <nd ref="615176108"/>
+    <nd ref="233262639"/>
+    <nd ref="615176110"/>
+    <nd ref="615176119"/>
+    <nd ref="615176128"/>
+    <nd ref="615176085"/>
+    <tag k="highway" v="residential"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="48437234" version="4" timestamp="2012-01-19T22:00:28Z" uid="147510" user="woodpeck_fixbot" changeset="10440306">
+    <nd ref="615176085"/>
+    <nd ref="615176087"/>
+    <nd ref="615176088"/>
+    <nd ref="615176089"/>
+    <nd ref="615176091"/>
+    <nd ref="615176093"/>
+    <nd ref="615176095"/>
+    <nd ref="615176097"/>
+    <nd ref="615176100"/>
+    <nd ref="615176084"/>
+    <nd ref="615176103"/>
+    <nd ref="615176105"/>
+    <nd ref="615176107"/>
+    <nd ref="615176108"/>
+    <nd ref="233262639"/>
+    <nd ref="615176110"/>
+    <nd ref="615176119"/>
+    <nd ref="615176128"/>
+    <nd ref="615176085"/>
+    <tag k="highway" v="residential"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="48437475" version="6" timestamp="2011-01-22T16:42:18Z" uid="4467" user="Rosscoe" changeset="7052148">
+    <nd ref="963209601"/>
+    <nd ref="963209563"/>
+    <nd ref="1010815221"/>
+    <nd ref="265080692"/>
+    <nd ref="1010814526"/>
+    <nd ref="1010813357"/>
+    <nd ref="1010815413"/>
+    <nd ref="1010813009"/>
+    <nd ref="1010814576"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Liverpool Street"/>
+    <tag k="ref" v="T27"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="48437475" version="7" timestamp="2011-04-17T20:51:58Z" uid="20949" user="Ebenezer" changeset="7891899">
+    <nd ref="963209601"/>
+    <nd ref="963209563"/>
+    <nd ref="1010815221"/>
+    <nd ref="265080692"/>
+    <nd ref="1010814526"/>
+    <nd ref="1010813357"/>
+    <nd ref="1010815413"/>
+    <nd ref="1010813009"/>
+    <nd ref="1249018121"/>
+    <nd ref="1249018122"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Liverpool Street"/>
+    <tag k="ref" v="T27"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="48437508" version="3" timestamp="2010-01-27T20:46:06Z" uid="8619" user="cetest" changeset="3731403">
+    <nd ref="615180430"/>
+    <nd ref="615180526"/>
+    <nd ref="615180527"/>
+    <nd ref="615180528"/>
+    <nd ref="615180529"/>
+    <nd ref="621455867"/>
+    <nd ref="621455858"/>
+    <nd ref="621455854"/>
+    <nd ref="621455857"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="source" v="GeoEye"/>
+  </way>
+  <way id="48437508" version="4" timestamp="2010-10-13T21:36:07Z" uid="294075" user="fenel" changeset="6034009">
+    <nd ref="615180430"/>
+    <nd ref="615180526"/>
+    <nd ref="615180527"/>
+    <nd ref="615180528"/>
+    <nd ref="615180529"/>
+    <nd ref="621455867"/>
+    <nd ref="621455858"/>
+    <nd ref="621455854"/>
+    <nd ref="621455857"/>
+    <tag k="Operational_status" v="closed"/>
+    <tag k="Operational_status_quality" v="confirmed"/>
+    <tag k="Practicability" v="heavy_truck_less_than_20mt"/>
+    <tag k="Surface" v="Dirt/Sand"/>
+    <tag k="SurfaceCondition" v="Rough_less_than_40kph"/>
+    <tag k="attribute_source_date" v="12/10/10"/>
+    <tag k="attribute_source_type" v="Mission De Terrain"/>
+    <tag k="geometry_source_date" v="12/10/10"/>
+    <tag k="geometry_source_type" v="Walking Papers Mission GPS"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Impasse Jeanty"/>
+    <tag k="source" v="CNIGS/GIS/DTM"/>
+  </way>
+  <way id="48437508" version="5" timestamp="2010-11-12T01:21:15Z" uid="98876" user="rsoden" changeset="6347888">
+    <nd ref="615180430"/>
+    <nd ref="615180526"/>
+    <nd ref="615180527"/>
+    <nd ref="615180528"/>
+    <nd ref="615180529"/>
+    <nd ref="621455867"/>
+    <nd ref="621455858"/>
+    <nd ref="621455854"/>
+    <nd ref="621455857"/>
+    <tag k="Practicability" v="heavy_truck_less_than_20mt"/>
+    <tag k="Surface" v="Dirt/Sand"/>
+    <tag k="SurfaceCondition" v="Rough_less_than_40kph"/>
+    <tag k="attribute_source_date" v="12/10/10"/>
+    <tag k="attribute_source_type" v="Mission De Terrain"/>
+    <tag k="geometry_source_date" v="12/10/10"/>
+    <tag k="geometry_source_type" v="Walking Papers Mission GPS"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Impasse Jeanty"/>
+    <tag k="operational_status" v="closed"/>
+    <tag k="operational_status_quality" v="confirmed"/>
+    <tag k="source" v="CNIGS/GIS/DTM"/>
+  </way>
+  <way id="48437508" version="6" timestamp="2010-11-12T22:42:24Z" uid="98876" user="rsoden" changeset="6354586">
+    <nd ref="615180430"/>
+    <nd ref="615180526"/>
+    <nd ref="615180527"/>
+    <nd ref="615180528"/>
+    <nd ref="615180529"/>
+    <nd ref="621455867"/>
+    <nd ref="621455858"/>
+    <nd ref="621455854"/>
+    <nd ref="621455857"/>
+    <tag k="Surface" v="Dirt/Sand"/>
+    <tag k="SurfaceCondition" v="Rough_less_than_40kph"/>
+    <tag k="attribute_source_date" v="12/10/10"/>
+    <tag k="attribute_source_type" v="Mission De Terrain"/>
+    <tag k="geometry_source_date" v="12/10/10"/>
+    <tag k="geometry_source_type" v="Walking Papers Mission GPS"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Impasse Jeanty"/>
+    <tag k="operational_status" v="closed"/>
+    <tag k="operational_status_quality" v="confirmed"/>
+    <tag k="practicability" v="heavy_truck_less_than_20mt"/>
+    <tag k="source" v="CNIGS/GIS/DTM"/>
+  </way>
+  <way id="48437508" version="7" timestamp="2010-11-13T14:20:00Z" uid="98876" user="rsoden" changeset="6358183">
+    <nd ref="615180430"/>
+    <nd ref="615180526"/>
+    <nd ref="615180527"/>
+    <nd ref="615180528"/>
+    <nd ref="615180529"/>
+    <nd ref="621455867"/>
+    <nd ref="621455858"/>
+    <nd ref="621455854"/>
+    <nd ref="621455857"/>
+    <tag k="attribute_source_date" v="12/10/10"/>
+    <tag k="attribute_source_type" v="Mission De Terrain"/>
+    <tag k="geometry_source_date" v="12/10/10"/>
+    <tag k="geometry_source_type" v="Walking Papers Mission GPS"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Impasse Jeanty"/>
+    <tag k="operational_status" v="closed"/>
+    <tag k="operational_status_quality" v="confirmed"/>
+    <tag k="practicability" v="heavy_truck_less_than_20mt"/>
+    <tag k="source" v="CNIGS/GIS/DTM"/>
+    <tag k="surface" v="Dirt/Sand"/>
+    <tag k="surface_condition" v="Rough_less_than_40kph"/>
+  </way>
+  <way id="48437549" version="3" timestamp="2010-01-27T20:46:06Z" uid="8619" user="cetest" changeset="3731403">
+    <nd ref="614017540"/>
+    <nd ref="615181448"/>
+    <nd ref="615181449"/>
+    <nd ref="615181457"/>
+    <nd ref="621455861"/>
+    <nd ref="615181460"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="path"/>
+    <tag k="source" v="GeoEye"/>
+  </way>
+  <way id="48437549" version="4" timestamp="2010-02-03T18:51:16Z" uid="55777" user="marcschneider" changeset="3785052">
+    <nd ref="614017540"/>
+    <nd ref="615181448"/>
+    <nd ref="615181449"/>
+    <nd ref="615181457"/>
+    <nd ref="621455861"/>
+    <nd ref="615181460"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="GeoEye"/>
+  </way>
+  <way id="48437549" version="5" timestamp="2010-10-13T21:36:36Z" uid="294075" user="fenel" changeset="6034009"/>
+  <way id="48437773" version="5" timestamp="2010-01-27T20:31:10Z" uid="8619" user="cetest" changeset="3731268">
+    <nd ref="614017571"/>
+    <nd ref="615186494"/>
+    <nd ref="615186496"/>
+    <nd ref="615190528"/>
+    <nd ref="615186498"/>
+    <nd ref="615186500"/>
+    <nd ref="615186502"/>
+    <nd ref="615187326"/>
+    <nd ref="615187327"/>
+    <nd ref="615187332"/>
+    <nd ref="615187336"/>
+    <nd ref="615187339"/>
+    <nd ref="615187344"/>
+    <nd ref="615187346"/>
+    <tag k="highway" v="track"/>
+    <tag k="source" v="GeoEye"/>
+  </way>
+  <way id="48437773" version="6" timestamp="2010-02-02T01:03:54Z" uid="85314" user="Samusz" changeset="3772946">
+    <nd ref="614017571"/>
+    <nd ref="615186494"/>
+    <nd ref="615186496"/>
+    <nd ref="626216838"/>
+    <nd ref="615190528"/>
+    <nd ref="615186498"/>
+    <nd ref="615186500"/>
+    <nd ref="615186502"/>
+    <nd ref="615187326"/>
+    <nd ref="615187327"/>
+    <nd ref="615187332"/>
+    <nd ref="615187336"/>
+    <nd ref="615187339"/>
+    <nd ref="615187344"/>
+    <nd ref="615187346"/>
+    <tag k="highway" v="track"/>
+    <tag k="source" v="GeoEye"/>
+  </way>
+  <way id="48437773" version="7" timestamp="2010-02-05T07:13:30Z" uid="55777" user="marcschneider" changeset="3795961">
+    <nd ref="614017571"/>
+    <nd ref="615186494"/>
+    <nd ref="615186496"/>
+    <nd ref="626216838"/>
+    <nd ref="615190528"/>
+    <nd ref="615186498"/>
+    <nd ref="615186500"/>
+    <nd ref="615186502"/>
+    <nd ref="615187326"/>
+    <nd ref="615187327"/>
+    <nd ref="615187332"/>
+    <nd ref="615187336"/>
+    <nd ref="615187339"/>
+    <nd ref="630349858"/>
+    <nd ref="615187344"/>
+    <tag k="highway" v="path"/>
+    <tag k="source" v="GeoEye"/>
+  </way>
+  <way id="48437773" version="8" timestamp="2010-02-05T10:55:13Z" uid="55777" user="marcschneider" changeset="3796844">
+    <nd ref="614017571"/>
+    <nd ref="615186494"/>
+    <nd ref="615186496"/>
+    <nd ref="626216838"/>
+    <nd ref="615190528"/>
+    <nd ref="615186498"/>
+    <nd ref="615186500"/>
+    <nd ref="615186502"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="GeoEye"/>
+  </way>
+  <way id="48437773" version="9" timestamp="2010-10-13T21:34:55Z" uid="294075" user="fenel" changeset="6034009">
+    <nd ref="614017571"/>
+    <nd ref="615186494"/>
+    <nd ref="615186496"/>
+    <nd ref="626216838"/>
+    <nd ref="615190528"/>
+    <nd ref="615186498"/>
+    <nd ref="615186500"/>
+    <nd ref="615186502"/>
+    <tag k="Operational_status" v="open"/>
+    <tag k="Operational_status_quality" v="confirmed"/>
+    <tag k="Practicability" v="heavy_truck_less_than_20mt"/>
+    <tag k="Surface" v="Dirt/Sand"/>
+    <tag k="SurfaceCondition" v="Rough_less_than_40kph"/>
+    <tag k="attribute_source_date" v="12/10/10"/>
+    <tag k="attribute_source_type" v="Mission De Terrain"/>
+    <tag k="geometry_source_date" v="12/10/10"/>
+    <tag k="geometry_source_type" v="Walking Papers Mission GPS"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Do Rigol"/>
+    <tag k="source" v="CNIGS/GIS/DTM"/>
+  </way>
+  <way id="48437773" version="10" timestamp="2010-11-12T22:08:42Z" uid="98876" user="rsoden" changeset="6354586">
+    <nd ref="614017571"/>
+    <nd ref="615186494"/>
+    <nd ref="615186496"/>
+    <nd ref="626216838"/>
+    <nd ref="615190528"/>
+    <nd ref="615186498"/>
+    <nd ref="615186500"/>
+    <nd ref="615186502"/>
+    <tag k="Practicability" v="heavy_truck_less_than_20mt"/>
+    <tag k="Surface" v="Dirt/Sand"/>
+    <tag k="SurfaceCondition" v="Rough_less_than_40kph"/>
+    <tag k="attribute_source_date" v="12/10/10"/>
+    <tag k="attribute_source_type" v="Mission De Terrain"/>
+    <tag k="geometry_source_date" v="12/10/10"/>
+    <tag k="geometry_source_type" v="Walking Papers Mission GPS"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Do Rigol"/>
+    <tag k="operational_status" v="open"/>
+    <tag k="operational_status_quality" v="confirmed"/>
+    <tag k="source" v="CNIGS/GIS/DTM"/>
+  </way>
+  <way id="48437773" version="11" timestamp="2010-11-12T23:17:44Z" uid="98876" user="rsoden" changeset="6354586">
+    <nd ref="614017571"/>
+    <nd ref="615186494"/>
+    <nd ref="615186496"/>
+    <nd ref="626216838"/>
+    <nd ref="615190528"/>
+    <nd ref="615186498"/>
+    <nd ref="615186500"/>
+    <nd ref="615186502"/>
+    <tag k="Surface" v="Dirt/Sand"/>
+    <tag k="SurfaceCondition" v="Rough_less_than_40kph"/>
+    <tag k="attribute_source_date" v="12/10/10"/>
+    <tag k="attribute_source_type" v="Mission De Terrain"/>
+    <tag k="geometry_source_date" v="12/10/10"/>
+    <tag k="geometry_source_type" v="Walking Papers Mission GPS"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Do Rigol"/>
+    <tag k="operational_status" v="open"/>
+    <tag k="operational_status_quality" v="confirmed"/>
+    <tag k="practicability" v="heavy_truck_less_than_20mt"/>
+    <tag k="source" v="CNIGS/GIS/DTM"/>
+  </way>
+  <way id="48437773" version="12" timestamp="2010-11-13T14:54:19Z" uid="98876" user="rsoden" changeset="6358183">
+    <nd ref="614017571"/>
+    <nd ref="615186494"/>
+    <nd ref="615186496"/>
+    <nd ref="626216838"/>
+    <nd ref="615190528"/>
+    <nd ref="615186498"/>
+    <nd ref="615186500"/>
+    <nd ref="615186502"/>
+    <tag k="attribute_source_date" v="12/10/10"/>
+    <tag k="attribute_source_type" v="Mission De Terrain"/>
+    <tag k="geometry_source_date" v="12/10/10"/>
+    <tag k="geometry_source_type" v="Walking Papers Mission GPS"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Do Rigol"/>
+    <tag k="operational_status" v="open"/>
+    <tag k="operational_status_quality" v="confirmed"/>
+    <tag k="practicability" v="heavy_truck_less_than_20mt"/>
+    <tag k="source" v="CNIGS/GIS/DTM"/>
+    <tag k="surface" v="Dirt/Sand"/>
+    <tag k="surface_condition" v="Rough_less_than_40kph"/>
+  </way>
+  <way id="48437854" version="3" timestamp="2010-01-27T20:31:12Z" uid="8619" user="cetest" changeset="3731268"/>
+  <way id="48437889" version="1" timestamp="2010-01-17T10:19:41Z" uid="8619" user="cetest" changeset="3639161">
+    <nd ref="615189207"/>
+    <nd ref="614084276"/>
+    <nd ref="613296687"/>
+    <nd ref="614550239"/>
+    <nd ref="375734835"/>
+    <nd ref="330901068"/>
+    <nd ref="615026946"/>
+    <nd ref="330901083"/>
+    <nd ref="330901085"/>
+    <nd ref="615189160"/>
+    <nd ref="330901110"/>
+    <nd ref="615189157"/>
+    <nd ref="615189159"/>
+    <nd ref="615189091"/>
+    <nd ref="615189080"/>
+    <nd ref="615189088"/>
+    <nd ref="613296042"/>
+    <nd ref="258605646"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437889" version="7" timestamp="2010-01-21T14:29:27Z" uid="8619" user="cetest" changeset="3674900">
+    <nd ref="615189207"/>
+    <nd ref="614084276"/>
+    <nd ref="616541821"/>
+    <nd ref="616541822"/>
+    <nd ref="613296687"/>
+    <nd ref="616695004"/>
+    <nd ref="616694998"/>
+    <nd ref="614550239"/>
+    <nd ref="616228239"/>
+    <nd ref="616228242"/>
+    <nd ref="375734835"/>
+    <nd ref="330901068"/>
+    <nd ref="615026946"/>
+    <nd ref="330901083"/>
+    <nd ref="330901085"/>
+    <nd ref="615189160"/>
+    <nd ref="330901110"/>
+    <nd ref="616221419"/>
+    <nd ref="615189157"/>
+    <nd ref="615189159"/>
+    <nd ref="615189091"/>
+    <nd ref="615189080"/>
+    <nd ref="617644216"/>
+    <nd ref="615189088"/>
+    <nd ref="613296042"/>
+    <nd ref="258605646"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437889" version="8" timestamp="2010-01-23T00:20:45Z" uid="33705" user="hermann_sl" changeset="3688511">
+    <nd ref="615189207"/>
+    <nd ref="614084276"/>
+    <nd ref="616541821"/>
+    <nd ref="616541822"/>
+    <nd ref="613296687"/>
+    <nd ref="616695004"/>
+    <nd ref="616694998"/>
+    <nd ref="614550239"/>
+    <nd ref="616228239"/>
+    <nd ref="616228242"/>
+    <nd ref="375734835"/>
+    <nd ref="330901068"/>
+    <nd ref="615026946"/>
+    <nd ref="330901083"/>
+    <nd ref="330901085"/>
+    <nd ref="618462110"/>
+    <nd ref="615189160"/>
+    <nd ref="330901110"/>
+    <nd ref="616221419"/>
+    <nd ref="615189157"/>
+    <nd ref="615189159"/>
+    <nd ref="615189091"/>
+    <nd ref="615189080"/>
+    <nd ref="617644216"/>
+    <nd ref="615189088"/>
+    <nd ref="613296042"/>
+    <nd ref="258605646"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437889" version="9" timestamp="2010-01-24T07:40:19Z" uid="77596" user="kam" changeset="3698234">
+    <nd ref="615189207"/>
+    <nd ref="614084276"/>
+    <nd ref="616541821"/>
+    <nd ref="619073132"/>
+    <nd ref="619073131"/>
+    <nd ref="613296687"/>
+    <nd ref="616695004"/>
+    <nd ref="616694998"/>
+    <nd ref="614550239"/>
+    <nd ref="616228239"/>
+    <nd ref="616228242"/>
+    <nd ref="375734835"/>
+    <nd ref="330901068"/>
+    <nd ref="615026946"/>
+    <nd ref="330901083"/>
+    <nd ref="330901085"/>
+    <nd ref="618462110"/>
+    <nd ref="615189160"/>
+    <nd ref="330901110"/>
+    <nd ref="616221419"/>
+    <nd ref="615189157"/>
+    <nd ref="615189159"/>
+    <nd ref="615189091"/>
+    <nd ref="615189080"/>
+    <nd ref="617644216"/>
+    <nd ref="615189088"/>
+    <nd ref="613296042"/>
+    <nd ref="258605646"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437889" version="10" timestamp="2010-01-24T07:49:00Z" uid="77596" user="kam" changeset="3698251">
+    <nd ref="615189207"/>
+    <nd ref="614084276"/>
+    <nd ref="616541821"/>
+    <nd ref="619073132"/>
+    <nd ref="619073131"/>
+    <nd ref="613296687"/>
+    <nd ref="616695004"/>
+    <nd ref="616694998"/>
+    <nd ref="614550239"/>
+    <nd ref="616228239"/>
+    <nd ref="616228242"/>
+    <nd ref="375734835"/>
+    <nd ref="330901068"/>
+    <nd ref="619073651"/>
+    <nd ref="615026946"/>
+    <nd ref="330901083"/>
+    <nd ref="330901085"/>
+    <nd ref="618462110"/>
+    <nd ref="615189160"/>
+    <nd ref="330901110"/>
+    <nd ref="619073650"/>
+    <nd ref="616221419"/>
+    <nd ref="615189157"/>
+    <nd ref="615189159"/>
+    <nd ref="615189091"/>
+    <nd ref="615189080"/>
+    <nd ref="617644216"/>
+    <nd ref="615189088"/>
+    <nd ref="613296042"/>
+    <nd ref="258605646"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437889" version="11" timestamp="2010-01-24T08:15:04Z" uid="77596" user="kam" changeset="3698316">
+    <nd ref="615189207"/>
+    <nd ref="614084276"/>
+    <nd ref="616541821"/>
+    <nd ref="619073132"/>
+    <nd ref="619073131"/>
+    <nd ref="613296687"/>
+    <nd ref="616695004"/>
+    <nd ref="614550239"/>
+    <nd ref="616694998"/>
+    <nd ref="619075922"/>
+    <nd ref="619075921"/>
+    <nd ref="616228239"/>
+    <nd ref="616228242"/>
+    <nd ref="375734835"/>
+    <nd ref="330901068"/>
+    <nd ref="619073651"/>
+    <nd ref="615026946"/>
+    <nd ref="330901083"/>
+    <nd ref="330901085"/>
+    <nd ref="618462110"/>
+    <nd ref="615189160"/>
+    <nd ref="330901110"/>
+    <nd ref="619073650"/>
+    <nd ref="616221419"/>
+    <nd ref="615189157"/>
+    <nd ref="615189159"/>
+    <nd ref="615189091"/>
+    <nd ref="615189080"/>
+    <nd ref="617644216"/>
+    <nd ref="615189088"/>
+    <nd ref="613296042"/>
+    <nd ref="258605646"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437889" version="12" timestamp="2010-01-25T14:09:26Z" uid="77596" user="kam" changeset="3711204">
+    <nd ref="615189207"/>
+    <nd ref="614084276"/>
+    <nd ref="616541821"/>
+    <nd ref="619073132"/>
+    <nd ref="619073131"/>
+    <nd ref="613296687"/>
+    <nd ref="616695004"/>
+    <nd ref="614550239"/>
+    <nd ref="616694998"/>
+    <nd ref="619075922"/>
+    <nd ref="619075921"/>
+    <nd ref="616228239"/>
+    <nd ref="616228242"/>
+    <nd ref="375734835"/>
+    <nd ref="619867923"/>
+    <nd ref="330901068"/>
+    <nd ref="619073651"/>
+    <nd ref="615026946"/>
+    <nd ref="330901083"/>
+    <nd ref="330901085"/>
+    <nd ref="618462110"/>
+    <nd ref="615189160"/>
+    <nd ref="330901110"/>
+    <nd ref="619073650"/>
+    <nd ref="616221419"/>
+    <nd ref="615189157"/>
+    <nd ref="615189159"/>
+    <nd ref="615189091"/>
+    <nd ref="615189080"/>
+    <nd ref="617644216"/>
+    <nd ref="615189088"/>
+    <nd ref="613296042"/>
+    <nd ref="258605646"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437889" version="13" timestamp="2010-01-25T14:14:19Z" uid="77596" user="kam" changeset="3711239">
+    <nd ref="615189207"/>
+    <nd ref="614084276"/>
+    <nd ref="616541821"/>
+    <nd ref="619073132"/>
+    <nd ref="619073131"/>
+    <nd ref="613296687"/>
+    <nd ref="616695004"/>
+    <nd ref="614550239"/>
+    <nd ref="616694998"/>
+    <nd ref="619075922"/>
+    <nd ref="619075921"/>
+    <nd ref="619869257"/>
+    <nd ref="616228239"/>
+    <nd ref="616228242"/>
+    <nd ref="375734835"/>
+    <nd ref="619867923"/>
+    <nd ref="330901068"/>
+    <nd ref="619073651"/>
+    <nd ref="615026946"/>
+    <nd ref="330901083"/>
+    <nd ref="330901085"/>
+    <nd ref="618462110"/>
+    <nd ref="615189160"/>
+    <nd ref="330901110"/>
+    <nd ref="619073650"/>
+    <nd ref="616221419"/>
+    <nd ref="615189157"/>
+    <nd ref="615189159"/>
+    <nd ref="615189091"/>
+    <nd ref="615189080"/>
+    <nd ref="617644216"/>
+    <nd ref="615189088"/>
+    <nd ref="613296042"/>
+    <nd ref="258605646"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437889" version="14" timestamp="2010-02-13T11:12:20Z" uid="107257" user="FrViPofm" changeset="3863540">
+    <nd ref="615189207"/>
+    <nd ref="614084276"/>
+    <nd ref="616541821"/>
+    <nd ref="619073132"/>
+    <nd ref="619073131"/>
+    <nd ref="613296687"/>
+    <nd ref="616695004"/>
+    <nd ref="614550239"/>
+    <nd ref="616694998"/>
+    <nd ref="619075922"/>
+    <nd ref="619075921"/>
+    <nd ref="619869257"/>
+    <nd ref="616228239"/>
+    <nd ref="616228242"/>
+    <nd ref="375734835"/>
+    <nd ref="619867923"/>
+    <nd ref="330901068"/>
+    <nd ref="619073651"/>
+    <nd ref="615026946"/>
+    <nd ref="330901083"/>
+    <nd ref="330901085"/>
+    <nd ref="618462110"/>
+    <nd ref="615189160"/>
+    <nd ref="330901110"/>
+    <nd ref="619073650"/>
+    <nd ref="616221419"/>
+    <nd ref="615189157"/>
+    <nd ref="615189159"/>
+    <nd ref="615189091"/>
+    <nd ref="615189080"/>
+    <nd ref="617644216"/>
+    <nd ref="615189088"/>
+    <nd ref="613296042"/>
+    <nd ref="616890604"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437889" version="15" timestamp="2010-02-13T12:46:57Z" uid="107257" user="FrViPofm" changeset="3864219">
+    <nd ref="615908940"/>
+    <nd ref="614084276"/>
+    <nd ref="616541821"/>
+    <nd ref="619073132"/>
+    <nd ref="619073131"/>
+    <nd ref="613296687"/>
+    <nd ref="616695004"/>
+    <nd ref="614550239"/>
+    <nd ref="616694998"/>
+    <nd ref="619075922"/>
+    <nd ref="619075921"/>
+    <nd ref="619869257"/>
+    <nd ref="616228239"/>
+    <nd ref="616228242"/>
+    <nd ref="375734835"/>
+    <nd ref="619867923"/>
+    <nd ref="330901068"/>
+    <nd ref="619073651"/>
+    <nd ref="615026946"/>
+    <nd ref="330901083"/>
+    <nd ref="330901085"/>
+    <nd ref="618462110"/>
+    <nd ref="615189160"/>
+    <nd ref="330901110"/>
+    <nd ref="619073650"/>
+    <nd ref="616221419"/>
+    <nd ref="615189157"/>
+    <nd ref="615189159"/>
+    <nd ref="615189091"/>
+    <nd ref="615189080"/>
+    <nd ref="617644216"/>
+    <nd ref="615189088"/>
+    <nd ref="613296042"/>
+    <nd ref="616890604"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437889" version="16" timestamp="2010-02-13T12:52:18Z" uid="107257" user="FrViPofm" changeset="3864219">
+    <nd ref="615908940"/>
+    <nd ref="614084276"/>
+    <nd ref="616541821"/>
+    <nd ref="619073132"/>
+    <nd ref="619073131"/>
+    <nd ref="613296687"/>
+    <nd ref="616695004"/>
+    <nd ref="638355909"/>
+    <nd ref="638355907"/>
+    <nd ref="638355908"/>
+    <nd ref="638355906"/>
+    <nd ref="615908923"/>
+    <nd ref="638355905"/>
+    <nd ref="638355904"/>
+    <nd ref="638355903"/>
+    <nd ref="619867923"/>
+    <nd ref="615908829"/>
+    <nd ref="638355902"/>
+    <nd ref="616888386"/>
+    <nd ref="615908827"/>
+    <nd ref="616888385"/>
+    <nd ref="638355901"/>
+    <nd ref="638355900"/>
+    <nd ref="616888384"/>
+    <nd ref="638355899"/>
+    <nd ref="638355898"/>
+    <nd ref="615908824"/>
+    <nd ref="616888383"/>
+    <nd ref="638355897"/>
+    <nd ref="615908814"/>
+    <nd ref="617644216"/>
+    <nd ref="638355896"/>
+    <nd ref="616888382"/>
+    <nd ref="616890604"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437889" version="17" timestamp="2010-02-13T12:53:05Z" uid="107257" user="FrViPofm" changeset="3864219">
+    <nd ref="615908940"/>
+    <nd ref="614084276"/>
+    <nd ref="616541821"/>
+    <nd ref="619073132"/>
+    <nd ref="619073131"/>
+    <nd ref="613296687"/>
+    <nd ref="616695004"/>
+    <nd ref="638355909"/>
+    <nd ref="638355907"/>
+    <nd ref="638355908"/>
+    <nd ref="638355906"/>
+    <nd ref="615908923"/>
+    <nd ref="638355905"/>
+    <nd ref="638355904"/>
+    <nd ref="638355903"/>
+    <nd ref="619867923"/>
+    <nd ref="615908829"/>
+    <nd ref="638355902"/>
+    <nd ref="616888386"/>
+    <nd ref="615908827"/>
+    <nd ref="616888385"/>
+    <nd ref="638355901"/>
+    <nd ref="638355900"/>
+    <nd ref="616888384"/>
+    <nd ref="638355899"/>
+    <nd ref="638355898"/>
+    <nd ref="615908824"/>
+    <nd ref="616888383"/>
+    <nd ref="638355897"/>
+    <nd ref="615908814"/>
+    <nd ref="617644216"/>
+    <nd ref="638355896"/>
+    <nd ref="616888382"/>
+    <nd ref="616890604"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437889" version="18" timestamp="2010-02-17T21:01:36Z" uid="36894" user="rab" changeset="3904480">
+    <nd ref="615908940"/>
+    <nd ref="614084276"/>
+    <nd ref="616541821"/>
+    <nd ref="619073132"/>
+    <nd ref="619073131"/>
+    <nd ref="613296687"/>
+    <nd ref="616695004"/>
+    <nd ref="638355909"/>
+    <nd ref="616694998"/>
+    <nd ref="619075922"/>
+    <nd ref="638355906"/>
+    <nd ref="619869257"/>
+    <nd ref="616228239"/>
+    <nd ref="638355904"/>
+    <nd ref="638355903"/>
+    <nd ref="619867923"/>
+    <nd ref="330901068"/>
+    <nd ref="619073651"/>
+    <nd ref="615026946"/>
+    <nd ref="330901083"/>
+    <nd ref="616888385"/>
+    <nd ref="618462110"/>
+    <nd ref="638355900"/>
+    <nd ref="330901110"/>
+    <nd ref="638355899"/>
+    <nd ref="638355898"/>
+    <nd ref="615908824"/>
+    <nd ref="616888383"/>
+    <nd ref="638355897"/>
+    <nd ref="615908814"/>
+    <nd ref="617644216"/>
+    <nd ref="638355896"/>
+    <nd ref="616888382"/>
+    <nd ref="616890604"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437889" version="19" timestamp="2010-09-29T17:15:17Z" uid="294075" user="fenel" changeset="5913472">
+    <nd ref="615908940"/>
+    <nd ref="614084276"/>
+    <nd ref="616541821"/>
+    <nd ref="619073132"/>
+    <nd ref="619073131"/>
+    <nd ref="613296687"/>
+    <nd ref="930385999"/>
+    <nd ref="616695004"/>
+    <nd ref="930386017"/>
+    <nd ref="638355909"/>
+    <nd ref="616694998"/>
+    <nd ref="619075922"/>
+    <nd ref="638355906"/>
+    <nd ref="619869257"/>
+    <nd ref="616228239"/>
+    <nd ref="638355904"/>
+    <nd ref="638355903"/>
+    <nd ref="619867923"/>
+    <nd ref="330901068"/>
+    <nd ref="619073651"/>
+    <nd ref="615026946"/>
+    <nd ref="330901083"/>
+    <nd ref="616888385"/>
+    <nd ref="618462110"/>
+    <nd ref="638355900"/>
+    <nd ref="330901110"/>
+    <nd ref="638355899"/>
+    <nd ref="638355898"/>
+    <nd ref="615908824"/>
+    <nd ref="616888383"/>
+    <nd ref="638355897"/>
+    <nd ref="615908814"/>
+    <nd ref="617644216"/>
+    <nd ref="638355896"/>
+    <nd ref="616888382"/>
+    <nd ref="616890604"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437889" version="20" timestamp="2010-09-30T17:22:18Z" uid="294075" user="fenel" changeset="5921747">
+    <nd ref="615908940"/>
+    <nd ref="614084276"/>
+    <nd ref="616541821"/>
+    <nd ref="619073132"/>
+    <nd ref="619073131"/>
+    <nd ref="613296687"/>
+    <nd ref="932023613"/>
+    <nd ref="616695004"/>
+    <nd ref="638355909"/>
+    <nd ref="616694998"/>
+    <nd ref="619075922"/>
+    <nd ref="638355906"/>
+    <nd ref="619869257"/>
+    <nd ref="932023575"/>
+    <nd ref="616228239"/>
+    <nd ref="638355904"/>
+    <nd ref="638355903"/>
+    <nd ref="619867923"/>
+    <nd ref="330901068"/>
+    <nd ref="619073651"/>
+    <nd ref="615026946"/>
+    <nd ref="330901083"/>
+    <nd ref="616888385"/>
+    <nd ref="618462110"/>
+    <nd ref="638355900"/>
+    <nd ref="330901110"/>
+    <nd ref="638355899"/>
+    <nd ref="638355898"/>
+    <nd ref="615908824"/>
+    <nd ref="616888383"/>
+    <nd ref="638355897"/>
+    <nd ref="615908814"/>
+    <nd ref="617644216"/>
+    <nd ref="638355896"/>
+    <nd ref="616888382"/>
+    <nd ref="616890604"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437889" version="21" timestamp="2010-09-30T17:23:23Z" uid="294075" user="fenel" changeset="5921747">
+    <nd ref="615908940"/>
+    <nd ref="614084276"/>
+    <nd ref="616541821"/>
+    <nd ref="619073132"/>
+    <nd ref="619073131"/>
+    <nd ref="613296687"/>
+    <nd ref="932023613"/>
+    <nd ref="616695004"/>
+    <nd ref="638355909"/>
+    <nd ref="616694998"/>
+    <nd ref="619075922"/>
+    <nd ref="638355906"/>
+    <nd ref="619869257"/>
+    <nd ref="932023575"/>
+    <nd ref="616228239"/>
+    <nd ref="638355904"/>
+    <nd ref="638355903"/>
+    <nd ref="619867923"/>
+    <nd ref="330901068"/>
+    <nd ref="619073651"/>
+    <nd ref="615026946"/>
+    <nd ref="330901083"/>
+    <nd ref="616888385"/>
+    <nd ref="618462110"/>
+    <nd ref="638355900"/>
+    <nd ref="330901110"/>
+    <nd ref="638355899"/>
+    <nd ref="638355898"/>
+    <nd ref="615908824"/>
+    <nd ref="616888383"/>
+    <nd ref="638355897"/>
+    <nd ref="615908814"/>
+    <nd ref="617644216"/>
+    <nd ref="638355896"/>
+    <nd ref="616888382"/>
+    <nd ref="616890604"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437889" version="22" timestamp="2010-09-30T17:24:05Z" uid="294075" user="fenel" changeset="5921747">
+    <nd ref="615908940"/>
+    <nd ref="614084276"/>
+    <nd ref="616541821"/>
+    <nd ref="619073132"/>
+    <nd ref="619073131"/>
+    <nd ref="613296687"/>
+    <nd ref="932023613"/>
+    <nd ref="616695004"/>
+    <nd ref="638355909"/>
+    <nd ref="616694998"/>
+    <nd ref="619075922"/>
+    <nd ref="638355906"/>
+    <nd ref="619869257"/>
+    <nd ref="932023575"/>
+    <nd ref="616228239"/>
+    <nd ref="638355904"/>
+    <nd ref="638355903"/>
+    <nd ref="619867923"/>
+    <nd ref="330901068"/>
+    <nd ref="619073651"/>
+    <nd ref="615026946"/>
+    <nd ref="330901083"/>
+    <nd ref="616888385"/>
+    <nd ref="618462110"/>
+    <nd ref="638355900"/>
+    <nd ref="330901110"/>
+    <nd ref="638355899"/>
+    <nd ref="638355898"/>
+    <nd ref="615908824"/>
+    <nd ref="616888383"/>
+    <nd ref="638355897"/>
+    <nd ref="615908814"/>
+    <nd ref="617644216"/>
+    <nd ref="638355896"/>
+    <nd ref="616888382"/>
+    <nd ref="616890604"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437889" version="23" timestamp="2010-09-30T17:24:54Z" uid="294075" user="fenel" changeset="5921747">
+    <nd ref="615908940"/>
+    <nd ref="614084276"/>
+    <nd ref="616541821"/>
+    <nd ref="619073132"/>
+    <nd ref="619073131"/>
+    <nd ref="613296687"/>
+    <nd ref="932023613"/>
+    <nd ref="616695004"/>
+    <nd ref="638355909"/>
+    <nd ref="616694998"/>
+    <nd ref="619075922"/>
+    <nd ref="638355906"/>
+    <nd ref="619869257"/>
+    <nd ref="932023575"/>
+    <nd ref="616228239"/>
+    <nd ref="638355904"/>
+    <nd ref="638355903"/>
+    <nd ref="619867923"/>
+    <nd ref="330901068"/>
+    <nd ref="619073651"/>
+    <nd ref="615026946"/>
+    <nd ref="330901083"/>
+    <nd ref="616888385"/>
+    <nd ref="618462110"/>
+    <nd ref="638355900"/>
+    <nd ref="330901110"/>
+    <nd ref="638355899"/>
+    <nd ref="638355898"/>
+    <nd ref="615908824"/>
+    <nd ref="616888383"/>
+    <nd ref="638355897"/>
+    <nd ref="615908814"/>
+    <nd ref="617644216"/>
+    <nd ref="638355896"/>
+    <nd ref="616888382"/>
+    <nd ref="616890604"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437889" version="24" timestamp="2010-09-30T17:25:46Z" uid="294075" user="fenel" changeset="5921747">
+    <nd ref="615908940"/>
+    <nd ref="614084276"/>
+    <nd ref="616541821"/>
+    <nd ref="619073132"/>
+    <nd ref="619073131"/>
+    <nd ref="613296687"/>
+    <nd ref="932023613"/>
+    <nd ref="616695004"/>
+    <nd ref="638355909"/>
+    <nd ref="616694998"/>
+    <nd ref="619075922"/>
+    <nd ref="638355906"/>
+    <nd ref="619869257"/>
+    <nd ref="932023575"/>
+    <nd ref="616228239"/>
+    <nd ref="638355904"/>
+    <nd ref="638355903"/>
+    <nd ref="619867923"/>
+    <nd ref="330901068"/>
+    <nd ref="619073651"/>
+    <nd ref="615026946"/>
+    <nd ref="330901083"/>
+    <nd ref="616888385"/>
+    <nd ref="618462110"/>
+    <nd ref="638355900"/>
+    <nd ref="330901110"/>
+    <nd ref="638355899"/>
+    <nd ref="638355898"/>
+    <nd ref="615908824"/>
+    <nd ref="616888383"/>
+    <nd ref="638355897"/>
+    <nd ref="615908814"/>
+    <nd ref="617644216"/>
+    <nd ref="638355896"/>
+    <nd ref="616888382"/>
+    <nd ref="616890604"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437889" version="25" timestamp="2010-09-30T17:26:44Z" uid="294075" user="fenel" changeset="5921747">
+    <nd ref="615908940"/>
+    <nd ref="614084276"/>
+    <nd ref="616541821"/>
+    <nd ref="619073132"/>
+    <nd ref="619073131"/>
+    <nd ref="613296687"/>
+    <nd ref="932023613"/>
+    <nd ref="616695004"/>
+    <nd ref="638355909"/>
+    <nd ref="616694998"/>
+    <nd ref="619075922"/>
+    <nd ref="638355906"/>
+    <nd ref="619869257"/>
+    <nd ref="932023575"/>
+    <nd ref="616228239"/>
+    <nd ref="638355904"/>
+    <nd ref="638355903"/>
+    <nd ref="619867923"/>
+    <nd ref="330901068"/>
+    <nd ref="619073651"/>
+    <nd ref="615026946"/>
+    <nd ref="330901083"/>
+    <nd ref="616888385"/>
+    <nd ref="618462110"/>
+    <nd ref="638355900"/>
+    <nd ref="330901110"/>
+    <nd ref="638355899"/>
+    <nd ref="638355898"/>
+    <nd ref="615908824"/>
+    <nd ref="616888383"/>
+    <nd ref="638355897"/>
+    <nd ref="615908814"/>
+    <nd ref="617644216"/>
+    <nd ref="638355896"/>
+    <nd ref="616888382"/>
+    <nd ref="616890604"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437889" version="26" timestamp="2010-09-30T17:27:40Z" uid="294075" user="fenel" changeset="5921747">
+    <nd ref="615908940"/>
+    <nd ref="614084276"/>
+    <nd ref="616541821"/>
+    <nd ref="619073132"/>
+    <nd ref="619073131"/>
+    <nd ref="613296687"/>
+    <nd ref="932023613"/>
+    <nd ref="616695004"/>
+    <nd ref="638355909"/>
+    <nd ref="616694998"/>
+    <nd ref="619075922"/>
+    <nd ref="638355906"/>
+    <nd ref="619869257"/>
+    <nd ref="932023575"/>
+    <nd ref="616228239"/>
+    <nd ref="638355904"/>
+    <nd ref="638355903"/>
+    <nd ref="619867923"/>
+    <nd ref="330901068"/>
+    <nd ref="619073651"/>
+    <nd ref="615026946"/>
+    <nd ref="330901083"/>
+    <nd ref="616888385"/>
+    <nd ref="618462110"/>
+    <nd ref="638355900"/>
+    <nd ref="330901110"/>
+    <nd ref="638355899"/>
+    <nd ref="638355898"/>
+    <nd ref="615908824"/>
+    <nd ref="616888383"/>
+    <nd ref="638355897"/>
+    <nd ref="615908814"/>
+    <nd ref="617644216"/>
+    <nd ref="638355896"/>
+    <nd ref="616888382"/>
+    <nd ref="616890604"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437889" version="27" timestamp="2010-09-30T17:28:36Z" uid="294075" user="fenel" changeset="5921747">
+    <nd ref="615908940"/>
+    <nd ref="614084276"/>
+    <nd ref="616541821"/>
+    <nd ref="619073132"/>
+    <nd ref="619073131"/>
+    <nd ref="613296687"/>
+    <nd ref="932023613"/>
+    <nd ref="616695004"/>
+    <nd ref="638355909"/>
+    <nd ref="616694998"/>
+    <nd ref="619075922"/>
+    <nd ref="638355906"/>
+    <nd ref="619869257"/>
+    <nd ref="932023575"/>
+    <nd ref="616228239"/>
+    <nd ref="638355904"/>
+    <nd ref="638355903"/>
+    <nd ref="619867923"/>
+    <nd ref="330901068"/>
+    <nd ref="619073651"/>
+    <nd ref="615026946"/>
+    <nd ref="330901083"/>
+    <nd ref="616888385"/>
+    <nd ref="618462110"/>
+    <nd ref="638355900"/>
+    <nd ref="330901110"/>
+    <nd ref="638355899"/>
+    <nd ref="638355898"/>
+    <nd ref="615908824"/>
+    <nd ref="616888383"/>
+    <nd ref="638355897"/>
+    <nd ref="615908814"/>
+    <nd ref="617644216"/>
+    <nd ref="638355896"/>
+    <nd ref="616888382"/>
+    <nd ref="616890604"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437889" version="28" timestamp="2010-09-30T17:30:07Z" uid="294075" user="fenel" changeset="5921747">
+    <nd ref="615908940"/>
+    <nd ref="614084276"/>
+    <nd ref="616541821"/>
+    <nd ref="619073132"/>
+    <nd ref="619073131"/>
+    <nd ref="613296687"/>
+    <nd ref="932023613"/>
+    <nd ref="616695004"/>
+    <nd ref="638355909"/>
+    <nd ref="616694998"/>
+    <nd ref="619075922"/>
+    <nd ref="638355906"/>
+    <nd ref="619869257"/>
+    <nd ref="932023575"/>
+    <nd ref="616228239"/>
+    <nd ref="638355904"/>
+    <nd ref="638355903"/>
+    <nd ref="619867923"/>
+    <nd ref="330901068"/>
+    <nd ref="619073651"/>
+    <nd ref="615026946"/>
+    <nd ref="330901083"/>
+    <nd ref="616888385"/>
+    <nd ref="618462110"/>
+    <nd ref="638355900"/>
+    <nd ref="330901110"/>
+    <nd ref="638355899"/>
+    <nd ref="638355898"/>
+    <nd ref="615908824"/>
+    <nd ref="616888383"/>
+    <nd ref="638355897"/>
+    <nd ref="615908814"/>
+    <nd ref="617644216"/>
+    <nd ref="638355896"/>
+    <nd ref="616888382"/>
+    <nd ref="616890604"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437889" version="29" timestamp="2010-09-30T17:31:18Z" uid="294075" user="fenel" changeset="5921747">
+    <nd ref="615908940"/>
+    <nd ref="614084276"/>
+    <nd ref="616541821"/>
+    <nd ref="619073132"/>
+    <nd ref="619073131"/>
+    <nd ref="613296687"/>
+    <nd ref="932023613"/>
+    <nd ref="616695004"/>
+    <nd ref="638355909"/>
+    <nd ref="616694998"/>
+    <nd ref="619075922"/>
+    <nd ref="638355906"/>
+    <nd ref="619869257"/>
+    <nd ref="932023575"/>
+    <nd ref="616228239"/>
+    <nd ref="638355904"/>
+    <nd ref="638355903"/>
+    <nd ref="619867923"/>
+    <nd ref="330901068"/>
+    <nd ref="619073651"/>
+    <nd ref="615026946"/>
+    <nd ref="330901083"/>
+    <nd ref="616888385"/>
+    <nd ref="618462110"/>
+    <nd ref="638355900"/>
+    <nd ref="330901110"/>
+    <nd ref="638355899"/>
+    <nd ref="638355898"/>
+    <nd ref="615908824"/>
+    <nd ref="616888383"/>
+    <nd ref="638355897"/>
+    <nd ref="615908814"/>
+    <nd ref="617644216"/>
+    <nd ref="638355896"/>
+    <nd ref="616888382"/>
+    <nd ref="616890604"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437889" version="30" timestamp="2010-09-30T17:32:45Z" uid="294075" user="fenel" changeset="5921747">
+    <nd ref="615908940"/>
+    <nd ref="614084276"/>
+    <nd ref="616541821"/>
+    <nd ref="619073132"/>
+    <nd ref="619073131"/>
+    <nd ref="613296687"/>
+    <nd ref="932023613"/>
+    <nd ref="616695004"/>
+    <nd ref="638355909"/>
+    <nd ref="616694998"/>
+    <nd ref="619075922"/>
+    <nd ref="638355906"/>
+    <nd ref="619869257"/>
+    <nd ref="932023575"/>
+    <nd ref="616228239"/>
+    <nd ref="638355904"/>
+    <nd ref="638355903"/>
+    <nd ref="619867923"/>
+    <nd ref="330901068"/>
+    <nd ref="619073651"/>
+    <nd ref="615026946"/>
+    <nd ref="330901083"/>
+    <nd ref="616888385"/>
+    <nd ref="618462110"/>
+    <nd ref="638355900"/>
+    <nd ref="330901110"/>
+    <nd ref="638355899"/>
+    <nd ref="638355898"/>
+    <nd ref="615908824"/>
+    <nd ref="616888383"/>
+    <nd ref="638355897"/>
+    <nd ref="615908814"/>
+    <nd ref="617644216"/>
+    <nd ref="638355896"/>
+    <nd ref="616888382"/>
+    <nd ref="616890604"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437889" version="31" timestamp="2010-09-30T17:34:24Z" uid="294075" user="fenel" changeset="5921747">
+    <nd ref="615908940"/>
+    <nd ref="614084276"/>
+    <nd ref="616541821"/>
+    <nd ref="619073132"/>
+    <nd ref="619073131"/>
+    <nd ref="613296687"/>
+    <nd ref="932023613"/>
+    <nd ref="616695004"/>
+    <nd ref="638355909"/>
+    <nd ref="616694998"/>
+    <nd ref="619075922"/>
+    <nd ref="638355906"/>
+    <nd ref="619869257"/>
+    <nd ref="932023575"/>
+    <nd ref="616228239"/>
+    <nd ref="638355904"/>
+    <nd ref="638355903"/>
+    <nd ref="619867923"/>
+    <nd ref="330901068"/>
+    <nd ref="619073651"/>
+    <nd ref="615026946"/>
+    <nd ref="330901083"/>
+    <nd ref="616888385"/>
+    <nd ref="618462110"/>
+    <nd ref="638355900"/>
+    <nd ref="330901110"/>
+    <nd ref="638355899"/>
+    <nd ref="638355898"/>
+    <nd ref="615908824"/>
+    <nd ref="616888383"/>
+    <nd ref="638355897"/>
+    <nd ref="615908814"/>
+    <nd ref="617644216"/>
+    <nd ref="638355896"/>
+    <nd ref="616888382"/>
+    <nd ref="616890604"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437889" version="32" timestamp="2010-09-30T17:36:23Z" uid="294075" user="fenel" changeset="5921747">
+    <nd ref="615908940"/>
+    <nd ref="614084276"/>
+    <nd ref="616541821"/>
+    <nd ref="619073132"/>
+    <nd ref="619073131"/>
+    <nd ref="613296687"/>
+    <nd ref="932023613"/>
+    <nd ref="616695004"/>
+    <nd ref="638355909"/>
+    <nd ref="616694998"/>
+    <nd ref="619075922"/>
+    <nd ref="638355906"/>
+    <nd ref="619869257"/>
+    <nd ref="932023575"/>
+    <nd ref="616228239"/>
+    <nd ref="638355904"/>
+    <nd ref="638355903"/>
+    <nd ref="619867923"/>
+    <nd ref="330901068"/>
+    <nd ref="619073651"/>
+    <nd ref="615026946"/>
+    <nd ref="330901083"/>
+    <nd ref="616888385"/>
+    <nd ref="618462110"/>
+    <nd ref="638355900"/>
+    <nd ref="330901110"/>
+    <nd ref="638355899"/>
+    <nd ref="638355898"/>
+    <nd ref="615908824"/>
+    <nd ref="616888383"/>
+    <nd ref="638355897"/>
+    <nd ref="615908814"/>
+    <nd ref="617644216"/>
+    <nd ref="638355896"/>
+    <nd ref="616888382"/>
+    <nd ref="616890604"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437889" version="33" timestamp="2010-09-30T17:38:12Z" uid="294075" user="fenel" changeset="5921747">
+    <nd ref="615908940"/>
+    <nd ref="614084276"/>
+    <nd ref="616541821"/>
+    <nd ref="619073132"/>
+    <nd ref="619073131"/>
+    <nd ref="613296687"/>
+    <nd ref="932023613"/>
+    <nd ref="616695004"/>
+    <nd ref="638355909"/>
+    <nd ref="616694998"/>
+    <nd ref="619075922"/>
+    <nd ref="638355906"/>
+    <nd ref="619869257"/>
+    <nd ref="932023575"/>
+    <nd ref="616228239"/>
+    <nd ref="638355904"/>
+    <nd ref="638355903"/>
+    <nd ref="619867923"/>
+    <nd ref="330901068"/>
+    <nd ref="619073651"/>
+    <nd ref="615026946"/>
+    <nd ref="330901083"/>
+    <nd ref="616888385"/>
+    <nd ref="618462110"/>
+    <nd ref="638355900"/>
+    <nd ref="330901110"/>
+    <nd ref="638355899"/>
+    <nd ref="638355898"/>
+    <nd ref="615908824"/>
+    <nd ref="616888383"/>
+    <nd ref="638355897"/>
+    <nd ref="615908814"/>
+    <nd ref="617644216"/>
+    <nd ref="638355896"/>
+    <nd ref="616888382"/>
+    <nd ref="616890604"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437889" version="34" timestamp="2010-09-30T20:27:15Z" uid="294075" user="fenel" changeset="5923312">
+    <nd ref="615908940"/>
+    <nd ref="614084276"/>
+    <nd ref="616541821"/>
+    <nd ref="619073132"/>
+    <nd ref="619073131"/>
+    <nd ref="613296687"/>
+    <nd ref="932023613"/>
+    <nd ref="616695004"/>
+    <nd ref="638355909"/>
+    <nd ref="616694998"/>
+    <nd ref="619075922"/>
+    <nd ref="638355906"/>
+    <nd ref="619869257"/>
+    <nd ref="932023575"/>
+    <nd ref="616228239"/>
+    <nd ref="638355904"/>
+    <nd ref="638355903"/>
+    <nd ref="619867923"/>
+    <nd ref="330901068"/>
+    <nd ref="619073651"/>
+    <nd ref="615026946"/>
+    <nd ref="330901083"/>
+    <nd ref="616888385"/>
+    <nd ref="618462110"/>
+    <nd ref="638355900"/>
+    <nd ref="330901110"/>
+    <nd ref="638355899"/>
+    <nd ref="638355898"/>
+    <nd ref="615908824"/>
+    <nd ref="616888383"/>
+    <nd ref="638355897"/>
+    <nd ref="615908814"/>
+    <nd ref="617644216"/>
+    <nd ref="638355896"/>
+    <nd ref="616888382"/>
+    <nd ref="616890604"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437889" version="35" timestamp="2010-09-30T20:30:40Z" uid="294075" user="fenel" changeset="5923312">
+    <nd ref="615908940"/>
+    <nd ref="614084276"/>
+    <nd ref="616541821"/>
+    <nd ref="619073132"/>
+    <nd ref="619073131"/>
+    <nd ref="613296687"/>
+    <nd ref="932023613"/>
+    <nd ref="616695004"/>
+    <nd ref="638355909"/>
+    <nd ref="616694998"/>
+    <nd ref="619075922"/>
+    <nd ref="638355906"/>
+    <nd ref="619869257"/>
+    <nd ref="932023575"/>
+    <nd ref="616228239"/>
+    <nd ref="638355904"/>
+    <nd ref="638355903"/>
+    <nd ref="619867923"/>
+    <nd ref="330901068"/>
+    <nd ref="619073651"/>
+    <nd ref="615026946"/>
+    <nd ref="330901083"/>
+    <nd ref="616888385"/>
+    <nd ref="618462110"/>
+    <nd ref="638355900"/>
+    <nd ref="330901110"/>
+    <nd ref="638355899"/>
+    <nd ref="638355898"/>
+    <nd ref="615908824"/>
+    <nd ref="616888383"/>
+    <nd ref="638355897"/>
+    <nd ref="615908814"/>
+    <nd ref="617644216"/>
+    <nd ref="638355896"/>
+    <nd ref="616888382"/>
+    <nd ref="616890604"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437889" version="36" timestamp="2010-09-30T20:36:02Z" uid="294075" user="fenel" changeset="5923312">
+    <nd ref="615908940"/>
+    <nd ref="614084276"/>
+    <nd ref="616541821"/>
+    <nd ref="619073132"/>
+    <nd ref="619073131"/>
+    <nd ref="613296687"/>
+    <nd ref="932023613"/>
+    <nd ref="616695004"/>
+    <nd ref="638355909"/>
+    <nd ref="616694998"/>
+    <nd ref="619075922"/>
+    <nd ref="638355906"/>
+    <nd ref="619869257"/>
+    <nd ref="932023575"/>
+    <nd ref="616228239"/>
+    <nd ref="638355904"/>
+    <nd ref="638355903"/>
+    <nd ref="619867923"/>
+    <nd ref="330901068"/>
+    <nd ref="619073651"/>
+    <nd ref="615026946"/>
+    <nd ref="330901083"/>
+    <nd ref="616888385"/>
+    <nd ref="618462110"/>
+    <nd ref="638355900"/>
+    <nd ref="330901110"/>
+    <nd ref="638355899"/>
+    <nd ref="638355898"/>
+    <nd ref="615908824"/>
+    <nd ref="616888383"/>
+    <nd ref="638355897"/>
+    <nd ref="615908814"/>
+    <nd ref="617644216"/>
+    <nd ref="638355896"/>
+    <nd ref="616888382"/>
+    <nd ref="616890604"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437889" version="37" timestamp="2010-10-29T22:31:38Z" uid="24440" user="jaakkoh" changeset="6223095">
+    <nd ref="615908940"/>
+    <nd ref="614084276"/>
+    <nd ref="616541821"/>
+    <nd ref="619073132"/>
+    <nd ref="619073131"/>
+    <nd ref="613296687"/>
+    <nd ref="932023613"/>
+    <nd ref="616695004"/>
+    <nd ref="638355909"/>
+    <nd ref="616694998"/>
+    <nd ref="619075922"/>
+    <nd ref="619869257"/>
+    <nd ref="932023575"/>
+    <nd ref="616228239"/>
+    <nd ref="638355904"/>
+    <nd ref="638355903"/>
+    <nd ref="619867923"/>
+    <nd ref="330901068"/>
+    <nd ref="619073651"/>
+    <nd ref="615026946"/>
+    <nd ref="330901083"/>
+    <nd ref="616888385"/>
+    <nd ref="618462110"/>
+    <nd ref="638355900"/>
+    <nd ref="330901110"/>
+    <nd ref="638355899"/>
+    <nd ref="638355898"/>
+    <nd ref="615908824"/>
+    <nd ref="616888383"/>
+    <nd ref="638355897"/>
+    <nd ref="615908814"/>
+    <nd ref="617644216"/>
+    <nd ref="638355896"/>
+    <nd ref="616888382"/>
+    <nd ref="616890604"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437889" version="38" timestamp="2011-01-03T15:18:17Z" uid="24440" user="jaakkoh" changeset="6850811">
+    <nd ref="615908940"/>
+    <nd ref="614084276"/>
+    <nd ref="616541821"/>
+    <nd ref="619073132"/>
+    <nd ref="619073131"/>
+    <nd ref="613296687"/>
+    <nd ref="932023613"/>
+    <nd ref="616695004"/>
+    <nd ref="638355909"/>
+    <nd ref="616694998"/>
+    <nd ref="619075922"/>
+    <nd ref="619869257"/>
+    <nd ref="932023575"/>
+    <nd ref="616228239"/>
+    <nd ref="638355904"/>
+    <nd ref="638355903"/>
+    <nd ref="619867923"/>
+    <nd ref="330901068"/>
+    <nd ref="619073651"/>
+    <nd ref="615026946"/>
+    <nd ref="330901083"/>
+    <nd ref="616888385"/>
+    <nd ref="618462110"/>
+    <nd ref="638355900"/>
+    <nd ref="330901110"/>
+    <nd ref="638355899"/>
+    <nd ref="638355898"/>
+    <nd ref="615908824"/>
+    <nd ref="616888383"/>
+    <nd ref="638355897"/>
+    <nd ref="615908814"/>
+    <nd ref="1080579350"/>
+    <nd ref="617644216"/>
+    <nd ref="638355896"/>
+    <nd ref="616888382"/>
+    <nd ref="616890604"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437889" version="39" timestamp="2011-01-07T16:21:06Z" uid="193314" user="mdroads" changeset="6894443">
+    <nd ref="615908940"/>
+    <nd ref="614084276"/>
+    <nd ref="616541821"/>
+    <nd ref="619073132"/>
+    <nd ref="619073131"/>
+    <nd ref="613296687"/>
+    <nd ref="932023613"/>
+    <nd ref="616695004"/>
+    <nd ref="638355909"/>
+    <nd ref="616694998"/>
+    <nd ref="619075922"/>
+    <nd ref="619869257"/>
+    <nd ref="932023575"/>
+    <nd ref="616228239"/>
+    <nd ref="638355904"/>
+    <nd ref="638355903"/>
+    <nd ref="619867923"/>
+    <nd ref="330901068"/>
+    <nd ref="619073651"/>
+    <nd ref="615026946"/>
+    <nd ref="330901083"/>
+    <nd ref="616888385"/>
+    <nd ref="618462110"/>
+    <nd ref="638355900"/>
+    <nd ref="330901110"/>
+    <nd ref="638355899"/>
+    <nd ref="638355898"/>
+    <nd ref="615908824"/>
+    <nd ref="616888383"/>
+    <nd ref="638355897"/>
+    <nd ref="615908814"/>
+    <nd ref="1080579350"/>
+    <nd ref="617644216"/>
+    <nd ref="638355896"/>
+    <nd ref="616888382"/>
+    <nd ref="616890604"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="ref" v="101"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437889" version="40" timestamp="2011-06-04T17:54:47Z" uid="398827" user="rlouino" changeset="8341272">
+    <nd ref="615908940"/>
+    <nd ref="614084276"/>
+    <nd ref="616541821"/>
+    <nd ref="619073132"/>
+    <nd ref="619073131"/>
+    <nd ref="613296687"/>
+    <nd ref="932023613"/>
+    <nd ref="616695004"/>
+    <nd ref="638355909"/>
+    <nd ref="616694998"/>
+    <nd ref="619075922"/>
+    <nd ref="619869257"/>
+    <nd ref="932023575"/>
+    <nd ref="616228239"/>
+    <nd ref="638355904"/>
+    <nd ref="638355903"/>
+    <nd ref="619867923"/>
+    <nd ref="330901068"/>
+    <nd ref="619073651"/>
+    <nd ref="615026946"/>
+    <nd ref="330901083"/>
+    <nd ref="616888385"/>
+    <nd ref="618462110"/>
+    <nd ref="638355900"/>
+    <nd ref="330901110"/>
+    <nd ref="638355899"/>
+    <nd ref="638355898"/>
+    <nd ref="615908824"/>
+    <nd ref="616888383"/>
+    <nd ref="638355897"/>
+    <nd ref="615908814"/>
+    <nd ref="1080579350"/>
+    <nd ref="617644216"/>
+    <nd ref="638355896"/>
+    <nd ref="616888382"/>
+    <nd ref="616890604"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="Auto Route de Delmas"/>
+    <tag k="ref" v="101"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437889" version="41" timestamp="2011-06-04T19:52:48Z" uid="398827" user="rlouino" changeset="8342428">
+    <nd ref="614084276"/>
+    <nd ref="616541821"/>
+    <nd ref="619073132"/>
+    <nd ref="619073131"/>
+    <nd ref="613296687"/>
+    <nd ref="932023613"/>
+    <nd ref="616695004"/>
+    <nd ref="638355909"/>
+    <nd ref="616694998"/>
+    <nd ref="619075922"/>
+    <nd ref="619869257"/>
+    <nd ref="932023575"/>
+    <nd ref="616228239"/>
+    <nd ref="638355904"/>
+    <nd ref="638355903"/>
+    <nd ref="619867923"/>
+    <nd ref="330901068"/>
+    <nd ref="619073651"/>
+    <nd ref="615026946"/>
+    <nd ref="330901083"/>
+    <nd ref="616888385"/>
+    <nd ref="618462110"/>
+    <nd ref="638355900"/>
+    <nd ref="330901110"/>
+    <nd ref="638355899"/>
+    <nd ref="638355898"/>
+    <nd ref="615908824"/>
+    <nd ref="616888383"/>
+    <nd ref="638355897"/>
+    <nd ref="615908814"/>
+    <nd ref="1080579350"/>
+    <nd ref="617644216"/>
+    <nd ref="638355896"/>
+    <nd ref="616888382"/>
+    <nd ref="616890604"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="Auto Route de Delmas"/>
+    <tag k="ref" v="101"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437889" version="42" timestamp="2011-06-04T20:23:00Z" uid="398827" user="rlouino" changeset="8342743">
+    <nd ref="614084276"/>
+    <nd ref="616541821"/>
+    <nd ref="619073132"/>
+    <nd ref="619073131"/>
+    <nd ref="613296687"/>
+    <nd ref="932023613"/>
+    <nd ref="616695004"/>
+    <nd ref="638355909"/>
+    <nd ref="616694998"/>
+    <nd ref="619075922"/>
+    <nd ref="619869257"/>
+    <nd ref="932023575"/>
+    <nd ref="616228239"/>
+    <nd ref="638355904"/>
+    <nd ref="638355903"/>
+    <nd ref="619867923"/>
+    <nd ref="330901068"/>
+    <nd ref="619073651"/>
+    <nd ref="615026946"/>
+    <nd ref="330901083"/>
+    <nd ref="616888385"/>
+    <nd ref="618462110"/>
+    <nd ref="638355900"/>
+    <nd ref="330901110"/>
+    <nd ref="638355899"/>
+    <nd ref="638355898"/>
+    <nd ref="615908824"/>
+    <nd ref="616888383"/>
+    <nd ref="638355897"/>
+    <nd ref="615908814"/>
+    <nd ref="1080579350"/>
+    <nd ref="617644216"/>
+    <nd ref="638355896"/>
+    <nd ref="616888382"/>
+    <nd ref="616890604"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Auto Route de Delmas"/>
+    <tag k="ref" v="101"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437889" version="43" timestamp="2011-06-05T17:33:57Z" uid="24440" user="jaakkoh" changeset="8351772">
+    <nd ref="619073997"/>
+    <nd ref="614084276"/>
+    <nd ref="1313276506"/>
+    <nd ref="616541821"/>
+    <nd ref="619073132"/>
+    <nd ref="619073131"/>
+    <nd ref="613296687"/>
+    <nd ref="932023613"/>
+    <nd ref="616695004"/>
+    <nd ref="638355909"/>
+    <nd ref="616694998"/>
+    <nd ref="619075922"/>
+    <nd ref="619869257"/>
+    <nd ref="932023575"/>
+    <nd ref="616228239"/>
+    <nd ref="638355904"/>
+    <nd ref="638355903"/>
+    <nd ref="619867923"/>
+    <nd ref="330901068"/>
+    <nd ref="619073651"/>
+    <nd ref="615026946"/>
+    <nd ref="330901083"/>
+    <nd ref="1313276542"/>
+    <nd ref="616888385"/>
+    <nd ref="1313276406"/>
+    <nd ref="618462110"/>
+    <nd ref="638355900"/>
+    <nd ref="330901110"/>
+    <nd ref="638355899"/>
+    <nd ref="638355898"/>
+    <nd ref="615908824"/>
+    <nd ref="616888383"/>
+    <nd ref="638355897"/>
+    <nd ref="615908814"/>
+    <nd ref="1080579350"/>
+    <nd ref="617644216"/>
+    <nd ref="638355896"/>
+    <nd ref="616888382"/>
+    <nd ref="616890604"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Auto Route de Delmas"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="101"/>
+    <tag k="source:geometry" v="GPS-adjusted Bing"/>
+  </way>
+  <way id="48437889" version="44" timestamp="2011-08-04T15:31:12Z" uid="36894" user="rab" changeset="8920571">
+    <nd ref="619073997"/>
+    <nd ref="614084276"/>
+    <nd ref="1313276506"/>
+    <nd ref="616541821"/>
+    <nd ref="619073132"/>
+    <nd ref="619073131"/>
+    <nd ref="613296687"/>
+    <nd ref="932023613"/>
+    <nd ref="616695004"/>
+    <nd ref="638355909"/>
+    <nd ref="616694998"/>
+    <nd ref="619075922"/>
+    <nd ref="619869257"/>
+    <nd ref="932023575"/>
+    <nd ref="616228239"/>
+    <nd ref="638355904"/>
+    <nd ref="638355903"/>
+    <nd ref="619867923"/>
+    <nd ref="330901068"/>
+    <nd ref="619073651"/>
+    <nd ref="615026946"/>
+    <nd ref="330901083"/>
+    <nd ref="1313276542"/>
+    <nd ref="616888385"/>
+    <nd ref="1313276406"/>
+    <nd ref="618462110"/>
+    <nd ref="638355900"/>
+    <nd ref="330901110"/>
+    <nd ref="638355899"/>
+    <nd ref="638355898"/>
+    <nd ref="615908824"/>
+    <nd ref="616888383"/>
+    <nd ref="638355897"/>
+    <nd ref="615908814"/>
+    <nd ref="617644216"/>
+    <nd ref="638355896"/>
+    <nd ref="616888382"/>
+    <nd ref="1386203793"/>
+    <nd ref="616890604"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Auto Route de Delmas"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="101"/>
+    <tag k="source:geometry" v="GPS-adjusted Bing"/>
+  </way>
+  <way id="48437889" version="45" timestamp="2011-09-04T04:03:17Z" uid="24440" user="jaakkoh" changeset="9205294">
+    <nd ref="619073997"/>
+    <nd ref="1422651361"/>
+    <nd ref="614084276"/>
+    <nd ref="1313276506"/>
+    <nd ref="616541821"/>
+    <nd ref="619073132"/>
+    <nd ref="619073131"/>
+    <nd ref="613296687"/>
+    <nd ref="932023613"/>
+    <nd ref="616695004"/>
+    <nd ref="638355909"/>
+    <nd ref="616694998"/>
+    <nd ref="619075922"/>
+    <nd ref="619869257"/>
+    <nd ref="932023575"/>
+    <nd ref="616228239"/>
+    <nd ref="638355904"/>
+    <nd ref="638355903"/>
+    <nd ref="619867923"/>
+    <nd ref="330901068"/>
+    <nd ref="619073651"/>
+    <nd ref="615026946"/>
+    <nd ref="330901083"/>
+    <nd ref="1313276542"/>
+    <nd ref="616888385"/>
+    <nd ref="1313276406"/>
+    <nd ref="618462110"/>
+    <nd ref="638355900"/>
+    <nd ref="330901110"/>
+    <nd ref="638355899"/>
+    <nd ref="638355898"/>
+    <nd ref="615908824"/>
+    <nd ref="616888383"/>
+    <nd ref="638355897"/>
+    <nd ref="615908814"/>
+    <nd ref="617644216"/>
+    <nd ref="638355896"/>
+    <nd ref="616888382"/>
+    <nd ref="1386203793"/>
+    <nd ref="616890604"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Auto Route de Delmas"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="101"/>
+    <tag k="source:geometry" v="GPS-adjusted Bing"/>
+  </way>
+  <way id="48437889" version="46" timestamp="2011-09-26T20:41:27Z" uid="231539" user="Xapitoun" changeset="9405789">
+    <nd ref="619073997"/>
+    <nd ref="1422651361"/>
+    <nd ref="614084276"/>
+    <nd ref="1313276506"/>
+    <nd ref="616541821"/>
+    <nd ref="619073132"/>
+    <nd ref="619073131"/>
+    <nd ref="613296687"/>
+    <nd ref="932023613"/>
+    <nd ref="616695004"/>
+    <nd ref="638355909"/>
+    <nd ref="616694998"/>
+    <nd ref="619075922"/>
+    <nd ref="619869257"/>
+    <nd ref="932023575"/>
+    <nd ref="616228239"/>
+    <nd ref="638355904"/>
+    <nd ref="638355903"/>
+    <nd ref="619867923"/>
+    <nd ref="330901068"/>
+    <nd ref="619073651"/>
+    <nd ref="615026946"/>
+    <nd ref="330901083"/>
+    <nd ref="1313276542"/>
+    <nd ref="616888385"/>
+    <nd ref="1313276406"/>
+    <nd ref="618462110"/>
+    <nd ref="638355900"/>
+    <nd ref="330901110"/>
+    <nd ref="638355899"/>
+    <nd ref="638355898"/>
+    <nd ref="615908824"/>
+    <nd ref="616888383"/>
+    <nd ref="638355897"/>
+    <nd ref="615908814"/>
+    <nd ref="617644216"/>
+    <nd ref="638355896"/>
+    <nd ref="616888382"/>
+    <nd ref="1386203793"/>
+    <nd ref="616890604"/>
+    <tag k="alt_name" v="Route de Delmas"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Autoroute de Delmas"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="101"/>
+    <tag k="source:geometry" v="GPS-adjusted Bing"/>
+  </way>
+  <way id="48437889" version="47" timestamp="2012-02-28T05:58:50Z" uid="24440" user="jaakkoh" changeset="10815896">
+    <nd ref="619073997"/>
+    <nd ref="1422651361"/>
+    <nd ref="614084276"/>
+    <nd ref="1313276506"/>
+    <nd ref="616541821"/>
+    <nd ref="619073132"/>
+    <nd ref="619073131"/>
+    <nd ref="613296687"/>
+    <nd ref="932023613"/>
+    <nd ref="616695004"/>
+    <nd ref="638355909"/>
+    <nd ref="616694998"/>
+    <nd ref="619075922"/>
+    <nd ref="619869257"/>
+    <nd ref="932023575"/>
+    <nd ref="616228239"/>
+    <nd ref="638355904"/>
+    <nd ref="638355903"/>
+    <nd ref="619867923"/>
+    <nd ref="330901068"/>
+    <nd ref="619073651"/>
+    <nd ref="615026946"/>
+    <nd ref="330901083"/>
+    <nd ref="1313276542"/>
+    <nd ref="616888385"/>
+    <nd ref="1313276406"/>
+    <nd ref="618462110"/>
+    <nd ref="638355900"/>
+    <nd ref="330901110"/>
+    <nd ref="638355899"/>
+    <nd ref="638355898"/>
+    <nd ref="615908824"/>
+    <nd ref="616888383"/>
+    <nd ref="638355897"/>
+    <nd ref="615908814"/>
+    <nd ref="617644216"/>
+    <nd ref="638355896"/>
+    <nd ref="616888382"/>
+    <nd ref="1386203793"/>
+    <nd ref="616890604"/>
+    <tag k="alt_name" v="Route de Delmas"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Autoroute de Delmas"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="101"/>
+    <tag k="source:geometry" v="GPS-adjusted Bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="48437889" version="48" timestamp="2012-03-24T00:52:45Z" uid="24440" user="jaakkoh" changeset="11080027">
+    <nd ref="619073997"/>
+    <nd ref="1422651361"/>
+    <nd ref="614084276"/>
+    <nd ref="1313276506"/>
+    <nd ref="616541821"/>
+    <nd ref="619073132"/>
+    <nd ref="619073131"/>
+    <nd ref="613296687"/>
+    <nd ref="932023613"/>
+    <nd ref="616695004"/>
+    <nd ref="638355909"/>
+    <nd ref="616694998"/>
+    <nd ref="619075922"/>
+    <nd ref="619869257"/>
+    <nd ref="932023575"/>
+    <nd ref="616228239"/>
+    <nd ref="638355904"/>
+    <nd ref="638355903"/>
+    <nd ref="619867923"/>
+    <nd ref="330901068"/>
+    <nd ref="619073651"/>
+    <nd ref="615026946"/>
+    <nd ref="330901083"/>
+    <nd ref="1313276542"/>
+    <nd ref="616888385"/>
+    <nd ref="1313276406"/>
+    <nd ref="618462110"/>
+    <nd ref="638355900"/>
+    <nd ref="330901110"/>
+    <nd ref="638355899"/>
+    <nd ref="638355898"/>
+    <nd ref="615908824"/>
+    <nd ref="616888383"/>
+    <nd ref="638355897"/>
+    <nd ref="615908814"/>
+    <nd ref="617644216"/>
+    <nd ref="638355896"/>
+    <nd ref="616888382"/>
+    <nd ref="1386203793"/>
+    <nd ref="616890604"/>
+    <tag k="alt_name" v="Route de Delmas"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Autoroute de Delmas"/>
+    <tag k="odbl" v="clean"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="101"/>
+    <tag k="source:geometry" v="GPS-adjusted Bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="48437889" version="49" timestamp="2012-03-29T08:17:04Z" uid="24440" user="jaakkoh" changeset="11134734">
+    <nd ref="619073997"/>
+    <nd ref="1422651361"/>
+    <nd ref="1313276506"/>
+    <nd ref="616541821"/>
+    <nd ref="619073132"/>
+    <nd ref="619073131"/>
+    <nd ref="613296687"/>
+    <nd ref="932023613"/>
+    <nd ref="616695004"/>
+    <nd ref="638355909"/>
+    <nd ref="616694998"/>
+    <nd ref="619075922"/>
+    <nd ref="619869257"/>
+    <nd ref="932023575"/>
+    <nd ref="616228239"/>
+    <nd ref="638355904"/>
+    <nd ref="638355903"/>
+    <nd ref="619867923"/>
+    <nd ref="330901068"/>
+    <nd ref="619073651"/>
+    <nd ref="615026946"/>
+    <nd ref="330901083"/>
+    <nd ref="1313276542"/>
+    <nd ref="616888385"/>
+    <nd ref="1313276406"/>
+    <nd ref="618462110"/>
+    <nd ref="638355900"/>
+    <nd ref="330901110"/>
+    <nd ref="638355899"/>
+    <nd ref="638355898"/>
+    <nd ref="615908824"/>
+    <nd ref="616888383"/>
+    <nd ref="638355897"/>
+    <nd ref="615908814"/>
+    <nd ref="617644216"/>
+    <nd ref="638355896"/>
+    <nd ref="616888382"/>
+    <nd ref="1386203793"/>
+    <nd ref="616890604"/>
+    <tag k="alt_name" v="Autoroute de Delmas"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="odbl" v="clean"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="101"/>
+    <tag k="source:geometry" v="GPS-adjusted Bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="48437891" version="1" timestamp="2010-01-17T10:19:41Z" uid="8619" user="cetest" changeset="3639161">
+    <nd ref="613021188"/>
+    <nd ref="615189216"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437891" version="3" timestamp="2010-10-29T21:43:12Z" uid="24440" user="jaakkoh" changeset="6222860">
+    <nd ref="613021188"/>
+    <nd ref="969198915"/>
+    <nd ref="619073997"/>
+    <nd ref="615189216"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437891" version="4" timestamp="2011-06-04T17:54:56Z" uid="398827" user="rlouino" changeset="8341272">
+    <nd ref="613021188"/>
+    <nd ref="969198915"/>
+    <nd ref="619073997"/>
+    <nd ref="615189216"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="Auto Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437891" version="5" timestamp="2011-06-04T19:52:55Z" uid="398827" user="rlouino" changeset="8342428">
+    <nd ref="613021188"/>
+    <nd ref="969198915"/>
+    <nd ref="619073997"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="Auto Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437891" version="6" timestamp="2011-06-04T20:23:52Z" uid="398827" user="rlouino" changeset="8342753">
+    <nd ref="613021188"/>
+    <nd ref="969198915"/>
+    <nd ref="619073997"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Auto Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437891" version="7" timestamp="2011-06-05T17:33:58Z" uid="24440" user="jaakkoh" changeset="8351772">
+    <nd ref="613021188"/>
+    <nd ref="619073997"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Auto Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437891" version="8" timestamp="2012-03-28T21:32:57Z" uid="24440" user="jaakkoh" changeset="11131610">
+    <nd ref="613021188"/>
+    <nd ref="619073997"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Auto Route de Delmas"/>
+    <tag k="odbl" v="clean"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437891" version="9" timestamp="2012-03-29T08:17:00Z" uid="24440" user="jaakkoh" changeset="11134734">
+    <nd ref="613021188"/>
+    <nd ref="619073997"/>
+    <tag k="alt_name" v="Autoroute de Delmas"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="odbl" v="clean"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Yahoo"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="48437892" version="1" timestamp="2010-01-17T10:19:41Z" uid="8619" user="cetest" changeset="3639161">
+    <nd ref="615189216"/>
+    <nd ref="615189207"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437892" version="2" timestamp="2010-02-13T12:47:00Z" uid="107257" user="FrViPofm" changeset="3864219">
+    <nd ref="615189216"/>
+    <nd ref="615908940"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437892" version="3" timestamp="2011-06-04T17:54:50Z" uid="398827" user="rlouino" changeset="8341272">
+    <nd ref="615189216"/>
+    <nd ref="615908940"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="Auto Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437892" version="4" timestamp="2011-06-04T19:52:58Z" uid="398827" user="rlouino" changeset="8342428"/>
+  <way id="48437893" version="1" timestamp="2010-01-17T10:19:42Z" uid="8619" user="cetest" changeset="3639161">
+    <nd ref="613993863"/>
+    <nd ref="613998938"/>
+    <nd ref="615189224"/>
+    <nd ref="615189227"/>
+    <nd ref="615189222"/>
+    <nd ref="331040954"/>
+    <nd ref="612810411"/>
+    <nd ref="330901229"/>
+    <nd ref="613996591"/>
+    <nd ref="613059331"/>
+    <nd ref="614226852"/>
+    <nd ref="613993561"/>
+    <nd ref="613314144"/>
+    <nd ref="614241055"/>
+    <nd ref="613698347"/>
+    <nd ref="613053802"/>
+    <nd ref="613615380"/>
+    <nd ref="330942237"/>
+    <nd ref="613616408"/>
+    <nd ref="614632594"/>
+    <nd ref="330901263"/>
+    <nd ref="613002942"/>
+    <nd ref="614643108"/>
+    <nd ref="613096017"/>
+    <nd ref="614643109"/>
+    <nd ref="613161504"/>
+    <nd ref="615189235"/>
+    <nd ref="615189238"/>
+    <nd ref="615189242"/>
+    <nd ref="330901277"/>
+    <nd ref="613183309"/>
+    <nd ref="330941931"/>
+    <nd ref="613618488"/>
+    <nd ref="613295194"/>
+    <nd ref="613294208"/>
+    <nd ref="613101966"/>
+    <nd ref="330901307"/>
+    <nd ref="330901304"/>
+    <nd ref="330874048"/>
+    <nd ref="330901296"/>
+    <nd ref="613295119"/>
+    <nd ref="614746781"/>
+    <nd ref="613190208"/>
+    <nd ref="614747992"/>
+    <nd ref="612815303"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437893" version="2" timestamp="2010-01-17T11:48:36Z" uid="40023" user="ALE!" changeset="3639878">
+    <nd ref="613993863"/>
+    <nd ref="613998938"/>
+    <nd ref="615189224"/>
+    <nd ref="615189227"/>
+    <nd ref="615189222"/>
+    <nd ref="331040954"/>
+    <nd ref="612810411"/>
+    <nd ref="330901229"/>
+    <nd ref="613996591"/>
+    <nd ref="613059331"/>
+    <nd ref="614226852"/>
+    <nd ref="613993561"/>
+    <nd ref="613314144"/>
+    <nd ref="614241055"/>
+    <nd ref="613698347"/>
+    <nd ref="613053802"/>
+    <nd ref="613615380"/>
+    <nd ref="330942237"/>
+    <nd ref="613616408"/>
+    <nd ref="614632594"/>
+    <nd ref="330901263"/>
+    <nd ref="613002942"/>
+    <nd ref="614643108"/>
+    <nd ref="613096017"/>
+    <nd ref="614643109"/>
+    <nd ref="613161504"/>
+    <nd ref="615189235"/>
+    <nd ref="615189238"/>
+    <nd ref="615189242"/>
+    <nd ref="330901277"/>
+    <nd ref="613183309"/>
+    <nd ref="330941931"/>
+    <nd ref="613618488"/>
+    <nd ref="613295194"/>
+    <nd ref="613294208"/>
+    <nd ref="615241558"/>
+    <nd ref="615241589"/>
+    <nd ref="613101966"/>
+    <nd ref="330901307"/>
+    <nd ref="330901304"/>
+    <nd ref="330874048"/>
+    <nd ref="330901296"/>
+    <nd ref="613295119"/>
+    <nd ref="614746781"/>
+    <nd ref="613190208"/>
+    <nd ref="614747992"/>
+    <nd ref="612815303"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437893" version="3" timestamp="2010-01-17T13:36:35Z" uid="77446" user="Flacus" changeset="3640953">
+    <nd ref="613993863"/>
+    <nd ref="613998938"/>
+    <nd ref="615189224"/>
+    <nd ref="615189227"/>
+    <nd ref="615189222"/>
+    <nd ref="331040954"/>
+    <nd ref="612810411"/>
+    <nd ref="330901229"/>
+    <nd ref="613996591"/>
+    <nd ref="613059331"/>
+    <nd ref="614226852"/>
+    <nd ref="613993561"/>
+    <nd ref="613314144"/>
+    <nd ref="614241055"/>
+    <nd ref="613698347"/>
+    <nd ref="613053802"/>
+    <nd ref="613615380"/>
+    <nd ref="330942237"/>
+    <nd ref="613616408"/>
+    <nd ref="614632594"/>
+    <nd ref="330901263"/>
+    <nd ref="613002942"/>
+    <nd ref="614643108"/>
+    <nd ref="613096017"/>
+    <nd ref="614643109"/>
+    <nd ref="613161504"/>
+    <nd ref="615189235"/>
+    <nd ref="615189238"/>
+    <nd ref="615189242"/>
+    <nd ref="330901277"/>
+    <nd ref="613183309"/>
+    <nd ref="330941931"/>
+    <nd ref="613618488"/>
+    <nd ref="613295194"/>
+    <nd ref="613294208"/>
+    <nd ref="615241558"/>
+    <nd ref="615241589"/>
+    <nd ref="613101966"/>
+    <nd ref="330901307"/>
+    <nd ref="330901304"/>
+    <nd ref="330874048"/>
+    <nd ref="330901296"/>
+    <nd ref="613295119"/>
+    <nd ref="614746781"/>
+    <nd ref="613190208"/>
+    <nd ref="614747992"/>
+    <nd ref="613190348"/>
+    <nd ref="612815303"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437893" version="4" timestamp="2010-01-17T21:45:23Z" uid="40023" user="ALE!" changeset="3646109">
+    <nd ref="613993863"/>
+    <nd ref="613998938"/>
+    <nd ref="615189224"/>
+    <nd ref="615189227"/>
+    <nd ref="615189222"/>
+    <nd ref="331040954"/>
+    <nd ref="612810411"/>
+    <nd ref="330901229"/>
+    <nd ref="613996591"/>
+    <nd ref="613059331"/>
+    <nd ref="614226852"/>
+    <nd ref="613993561"/>
+    <nd ref="613314144"/>
+    <nd ref="614241055"/>
+    <nd ref="613698347"/>
+    <nd ref="613053802"/>
+    <nd ref="613615380"/>
+    <nd ref="330942237"/>
+    <nd ref="613616408"/>
+    <nd ref="614632594"/>
+    <nd ref="330901263"/>
+    <nd ref="613002942"/>
+    <nd ref="614643108"/>
+    <nd ref="613096017"/>
+    <nd ref="614643109"/>
+    <nd ref="613161504"/>
+    <nd ref="615944313"/>
+    <nd ref="615189235"/>
+    <nd ref="615944292"/>
+    <nd ref="615189238"/>
+    <nd ref="615189242"/>
+    <nd ref="330901277"/>
+    <nd ref="613183309"/>
+    <nd ref="330941931"/>
+    <nd ref="613618488"/>
+    <nd ref="613295194"/>
+    <nd ref="613294208"/>
+    <nd ref="615241558"/>
+    <nd ref="615241589"/>
+    <nd ref="613101966"/>
+    <nd ref="330901307"/>
+    <nd ref="330901304"/>
+    <nd ref="330874048"/>
+    <nd ref="330901296"/>
+    <nd ref="613295119"/>
+    <nd ref="614746781"/>
+    <nd ref="613190208"/>
+    <nd ref="614747992"/>
+    <nd ref="613190348"/>
+    <nd ref="612815303"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437893" version="8" timestamp="2010-01-20T16:42:03Z" uid="23785" user="Simon Kokolakis" changeset="3668194">
+    <nd ref="613993863"/>
+    <nd ref="613998938"/>
+    <nd ref="615189224"/>
+    <nd ref="615189227"/>
+    <nd ref="615189222"/>
+    <nd ref="331040954"/>
+    <nd ref="612810411"/>
+    <nd ref="330901229"/>
+    <nd ref="613996591"/>
+    <nd ref="613059331"/>
+    <nd ref="614226852"/>
+    <nd ref="613993561"/>
+    <nd ref="613314144"/>
+    <nd ref="614241055"/>
+    <nd ref="613698347"/>
+    <nd ref="613053802"/>
+    <nd ref="613615380"/>
+    <nd ref="330942237"/>
+    <nd ref="613616408"/>
+    <nd ref="614632594"/>
+    <nd ref="330901263"/>
+    <nd ref="613002942"/>
+    <nd ref="614643108"/>
+    <nd ref="613096017"/>
+    <nd ref="614643109"/>
+    <nd ref="613161504"/>
+    <nd ref="615944313"/>
+    <nd ref="615189235"/>
+    <nd ref="615944292"/>
+    <nd ref="615189238"/>
+    <nd ref="616522753"/>
+    <nd ref="616522733"/>
+    <nd ref="615189242"/>
+    <nd ref="616522736"/>
+    <nd ref="330901277"/>
+    <nd ref="613183309"/>
+    <nd ref="330941931"/>
+    <nd ref="613618488"/>
+    <nd ref="613295194"/>
+    <nd ref="613294208"/>
+    <nd ref="615241558"/>
+    <nd ref="615241589"/>
+    <nd ref="613101966"/>
+    <nd ref="330901307"/>
+    <nd ref="330901304"/>
+    <nd ref="617219604"/>
+    <nd ref="330874048"/>
+    <nd ref="330901296"/>
+    <nd ref="613295119"/>
+    <nd ref="614746781"/>
+    <nd ref="613190208"/>
+    <nd ref="614747992"/>
+    <nd ref="613190348"/>
+    <nd ref="612815303"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437893" version="9" timestamp="2010-01-20T16:45:05Z" uid="23785" user="Simon Kokolakis" changeset="3668223">
+    <nd ref="613993863"/>
+    <nd ref="613998938"/>
+    <nd ref="615189224"/>
+    <nd ref="615189227"/>
+    <nd ref="615189222"/>
+    <nd ref="331040954"/>
+    <nd ref="612810411"/>
+    <nd ref="330901229"/>
+    <nd ref="613996591"/>
+    <nd ref="617220206"/>
+    <nd ref="613059331"/>
+    <nd ref="614226852"/>
+    <nd ref="613993561"/>
+    <nd ref="613314144"/>
+    <nd ref="614241055"/>
+    <nd ref="613698347"/>
+    <nd ref="613053802"/>
+    <nd ref="613615380"/>
+    <nd ref="330942237"/>
+    <nd ref="613616408"/>
+    <nd ref="614632594"/>
+    <nd ref="330901263"/>
+    <nd ref="613002942"/>
+    <nd ref="614643108"/>
+    <nd ref="613096017"/>
+    <nd ref="614643109"/>
+    <nd ref="613161504"/>
+    <nd ref="615944313"/>
+    <nd ref="615189235"/>
+    <nd ref="615944292"/>
+    <nd ref="615189238"/>
+    <nd ref="616522753"/>
+    <nd ref="616522733"/>
+    <nd ref="615189242"/>
+    <nd ref="616522736"/>
+    <nd ref="330901277"/>
+    <nd ref="613183309"/>
+    <nd ref="330941931"/>
+    <nd ref="613618488"/>
+    <nd ref="613295194"/>
+    <nd ref="613294208"/>
+    <nd ref="615241558"/>
+    <nd ref="615241589"/>
+    <nd ref="613101966"/>
+    <nd ref="330901307"/>
+    <nd ref="330901304"/>
+    <nd ref="617219604"/>
+    <nd ref="330874048"/>
+    <nd ref="330901296"/>
+    <nd ref="613295119"/>
+    <nd ref="614746781"/>
+    <nd ref="613190208"/>
+    <nd ref="614747992"/>
+    <nd ref="613190348"/>
+    <nd ref="612815303"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437893" version="10" timestamp="2010-01-21T15:33:21Z" uid="8619" user="cetest" changeset="3674900">
+    <nd ref="613993863"/>
+    <nd ref="613998938"/>
+    <nd ref="615189224"/>
+    <nd ref="615189227"/>
+    <nd ref="615189222"/>
+    <nd ref="331040954"/>
+    <nd ref="612810411"/>
+    <nd ref="330901229"/>
+    <nd ref="613996591"/>
+    <nd ref="617220206"/>
+    <nd ref="613059331"/>
+    <nd ref="614226852"/>
+    <nd ref="613993561"/>
+    <nd ref="613314144"/>
+    <nd ref="614241055"/>
+    <nd ref="613698347"/>
+    <nd ref="613053802"/>
+    <nd ref="613615380"/>
+    <nd ref="330942237"/>
+    <nd ref="617682639"/>
+    <nd ref="613616408"/>
+    <nd ref="614632594"/>
+    <nd ref="330901263"/>
+    <nd ref="613002942"/>
+    <nd ref="614643108"/>
+    <nd ref="613096017"/>
+    <nd ref="614643109"/>
+    <nd ref="613161504"/>
+    <nd ref="615944313"/>
+    <nd ref="615189235"/>
+    <nd ref="615944292"/>
+    <nd ref="615189238"/>
+    <nd ref="616522753"/>
+    <nd ref="616522733"/>
+    <nd ref="615189242"/>
+    <nd ref="616522736"/>
+    <nd ref="330901277"/>
+    <nd ref="613183309"/>
+    <nd ref="330941931"/>
+    <nd ref="613618488"/>
+    <nd ref="613295194"/>
+    <nd ref="613294208"/>
+    <nd ref="615241558"/>
+    <nd ref="615241589"/>
+    <nd ref="613101966"/>
+    <nd ref="330901307"/>
+    <nd ref="330901304"/>
+    <nd ref="617219604"/>
+    <nd ref="330874048"/>
+    <nd ref="330901296"/>
+    <nd ref="613295119"/>
+    <nd ref="614746781"/>
+    <nd ref="613190208"/>
+    <nd ref="614747992"/>
+    <nd ref="613190348"/>
+    <nd ref="612815303"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437893" version="11" timestamp="2010-01-21T19:15:14Z" uid="89943" user="Bengatzer" changeset="3676509">
+    <nd ref="613993863"/>
+    <nd ref="613998938"/>
+    <nd ref="615189224"/>
+    <nd ref="615189227"/>
+    <nd ref="615189222"/>
+    <nd ref="331040954"/>
+    <nd ref="612810411"/>
+    <nd ref="330901229"/>
+    <nd ref="613996591"/>
+    <nd ref="617800256"/>
+    <nd ref="617220206"/>
+    <nd ref="613059331"/>
+    <nd ref="614226852"/>
+    <nd ref="613993561"/>
+    <nd ref="613314144"/>
+    <nd ref="614241055"/>
+    <nd ref="613698347"/>
+    <nd ref="613053802"/>
+    <nd ref="613615380"/>
+    <nd ref="330942237"/>
+    <nd ref="617682639"/>
+    <nd ref="613616408"/>
+    <nd ref="614632594"/>
+    <nd ref="330901263"/>
+    <nd ref="613002942"/>
+    <nd ref="614643108"/>
+    <nd ref="613096017"/>
+    <nd ref="614643109"/>
+    <nd ref="613161504"/>
+    <nd ref="615944313"/>
+    <nd ref="615189235"/>
+    <nd ref="615944292"/>
+    <nd ref="615189238"/>
+    <nd ref="616522753"/>
+    <nd ref="616522733"/>
+    <nd ref="615189242"/>
+    <nd ref="616522736"/>
+    <nd ref="330901277"/>
+    <nd ref="613183309"/>
+    <nd ref="330941931"/>
+    <nd ref="613618488"/>
+    <nd ref="613295194"/>
+    <nd ref="613294208"/>
+    <nd ref="615241558"/>
+    <nd ref="615241589"/>
+    <nd ref="613101966"/>
+    <nd ref="330901307"/>
+    <nd ref="330901304"/>
+    <nd ref="617219604"/>
+    <nd ref="330874048"/>
+    <nd ref="330901296"/>
+    <nd ref="613295119"/>
+    <nd ref="614746781"/>
+    <nd ref="613190208"/>
+    <nd ref="614747992"/>
+    <nd ref="613190348"/>
+    <nd ref="612815303"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437893" version="12" timestamp="2010-01-21T21:02:29Z" uid="13944" user="bass" changeset="3678180">
+    <nd ref="613993863"/>
+    <nd ref="613998938"/>
+    <nd ref="617839295"/>
+    <nd ref="615189224"/>
+    <nd ref="615189227"/>
+    <nd ref="615189222"/>
+    <nd ref="331040954"/>
+    <nd ref="612810411"/>
+    <nd ref="330901229"/>
+    <nd ref="613996591"/>
+    <nd ref="617800256"/>
+    <nd ref="617220206"/>
+    <nd ref="613059331"/>
+    <nd ref="614226852"/>
+    <nd ref="613993561"/>
+    <nd ref="613314144"/>
+    <nd ref="614241055"/>
+    <nd ref="613698347"/>
+    <nd ref="613053802"/>
+    <nd ref="613615380"/>
+    <nd ref="330942237"/>
+    <nd ref="617682639"/>
+    <nd ref="613616408"/>
+    <nd ref="614632594"/>
+    <nd ref="330901263"/>
+    <nd ref="613002942"/>
+    <nd ref="614643108"/>
+    <nd ref="613096017"/>
+    <nd ref="614643109"/>
+    <nd ref="613161504"/>
+    <nd ref="615944313"/>
+    <nd ref="615189235"/>
+    <nd ref="615944292"/>
+    <nd ref="615189238"/>
+    <nd ref="616522753"/>
+    <nd ref="616522733"/>
+    <nd ref="615189242"/>
+    <nd ref="616522736"/>
+    <nd ref="330901277"/>
+    <nd ref="613183309"/>
+    <nd ref="330941931"/>
+    <nd ref="613618488"/>
+    <nd ref="613295194"/>
+    <nd ref="613294208"/>
+    <nd ref="615241558"/>
+    <nd ref="615241589"/>
+    <nd ref="613101966"/>
+    <nd ref="330901307"/>
+    <nd ref="330901304"/>
+    <nd ref="617219604"/>
+    <nd ref="330874048"/>
+    <nd ref="330901296"/>
+    <nd ref="613295119"/>
+    <nd ref="614746781"/>
+    <nd ref="613190208"/>
+    <nd ref="614747992"/>
+    <nd ref="613190348"/>
+    <nd ref="612815303"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437893" version="13" timestamp="2010-01-21T23:40:48Z" uid="5735" user="ColinMarquardt" changeset="3677436">
+    <nd ref="613993863"/>
+    <nd ref="613998938"/>
+    <nd ref="617839295"/>
+    <nd ref="615189224"/>
+    <nd ref="615189227"/>
+    <nd ref="615189222"/>
+    <nd ref="331040954"/>
+    <nd ref="612810411"/>
+    <nd ref="330901229"/>
+    <nd ref="613996591"/>
+    <nd ref="617800256"/>
+    <nd ref="617220206"/>
+    <nd ref="613059331"/>
+    <nd ref="614226852"/>
+    <nd ref="613993561"/>
+    <nd ref="617896169"/>
+    <nd ref="613314144"/>
+    <nd ref="614241055"/>
+    <nd ref="613698347"/>
+    <nd ref="613053802"/>
+    <nd ref="613615380"/>
+    <nd ref="330942237"/>
+    <nd ref="617682639"/>
+    <nd ref="613616408"/>
+    <nd ref="614632594"/>
+    <nd ref="330901263"/>
+    <nd ref="613002942"/>
+    <nd ref="614643108"/>
+    <nd ref="613096017"/>
+    <nd ref="614643109"/>
+    <nd ref="613161504"/>
+    <nd ref="615944313"/>
+    <nd ref="615189235"/>
+    <nd ref="615944292"/>
+    <nd ref="615189238"/>
+    <nd ref="616522753"/>
+    <nd ref="616522733"/>
+    <nd ref="615189242"/>
+    <nd ref="616522736"/>
+    <nd ref="330901277"/>
+    <nd ref="613183309"/>
+    <nd ref="330941931"/>
+    <nd ref="613618488"/>
+    <nd ref="613295194"/>
+    <nd ref="613294208"/>
+    <nd ref="615241558"/>
+    <nd ref="615241589"/>
+    <nd ref="613101966"/>
+    <nd ref="330901307"/>
+    <nd ref="330901304"/>
+    <nd ref="617219604"/>
+    <nd ref="330874048"/>
+    <nd ref="330901296"/>
+    <nd ref="613295119"/>
+    <nd ref="614746781"/>
+    <nd ref="613190208"/>
+    <nd ref="614747992"/>
+    <nd ref="613190348"/>
+    <nd ref="612815303"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437893" version="14" timestamp="2010-01-22T16:11:48Z" uid="1267" user="Mercator" changeset="3684516">
+    <nd ref="613993863"/>
+    <nd ref="613998938"/>
+    <nd ref="617839295"/>
+    <nd ref="615189224"/>
+    <nd ref="615189227"/>
+    <nd ref="615189222"/>
+    <nd ref="331040954"/>
+    <nd ref="612810411"/>
+    <nd ref="618190133"/>
+    <nd ref="330901229"/>
+    <nd ref="613996591"/>
+    <nd ref="617800256"/>
+    <nd ref="617220206"/>
+    <nd ref="613059331"/>
+    <nd ref="614226852"/>
+    <nd ref="613993561"/>
+    <nd ref="617896169"/>
+    <nd ref="613314144"/>
+    <nd ref="614241055"/>
+    <nd ref="613698347"/>
+    <nd ref="613053802"/>
+    <nd ref="613615380"/>
+    <nd ref="330942237"/>
+    <nd ref="617682639"/>
+    <nd ref="613616408"/>
+    <nd ref="614632594"/>
+    <nd ref="330901263"/>
+    <nd ref="613002942"/>
+    <nd ref="614643108"/>
+    <nd ref="613096017"/>
+    <nd ref="614643109"/>
+    <nd ref="613161504"/>
+    <nd ref="615944313"/>
+    <nd ref="615189235"/>
+    <nd ref="615944292"/>
+    <nd ref="615189238"/>
+    <nd ref="616522753"/>
+    <nd ref="616522733"/>
+    <nd ref="615189242"/>
+    <nd ref="616522736"/>
+    <nd ref="330901277"/>
+    <nd ref="613183309"/>
+    <nd ref="330941931"/>
+    <nd ref="613618488"/>
+    <nd ref="613295194"/>
+    <nd ref="613294208"/>
+    <nd ref="615241558"/>
+    <nd ref="615241589"/>
+    <nd ref="613101966"/>
+    <nd ref="330901307"/>
+    <nd ref="330901304"/>
+    <nd ref="617219604"/>
+    <nd ref="330874048"/>
+    <nd ref="330901296"/>
+    <nd ref="613295119"/>
+    <nd ref="614746781"/>
+    <nd ref="613190208"/>
+    <nd ref="614747992"/>
+    <nd ref="613190348"/>
+    <nd ref="612815303"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437893" version="15" timestamp="2010-01-22T16:16:36Z" uid="1267" user="Mercator" changeset="3684548">
+    <nd ref="613993863"/>
+    <nd ref="613998938"/>
+    <nd ref="617839295"/>
+    <nd ref="615189224"/>
+    <nd ref="615189227"/>
+    <nd ref="615189222"/>
+    <nd ref="331040954"/>
+    <nd ref="612810411"/>
+    <nd ref="618190133"/>
+    <nd ref="330901229"/>
+    <nd ref="613996591"/>
+    <nd ref="617800256"/>
+    <nd ref="618196532"/>
+    <nd ref="617220206"/>
+    <nd ref="613059331"/>
+    <nd ref="614226852"/>
+    <nd ref="613993561"/>
+    <nd ref="617896169"/>
+    <nd ref="613314144"/>
+    <nd ref="614241055"/>
+    <nd ref="613698347"/>
+    <nd ref="613053802"/>
+    <nd ref="613615380"/>
+    <nd ref="330942237"/>
+    <nd ref="617682639"/>
+    <nd ref="613616408"/>
+    <nd ref="614632594"/>
+    <nd ref="330901263"/>
+    <nd ref="613002942"/>
+    <nd ref="614643108"/>
+    <nd ref="613096017"/>
+    <nd ref="614643109"/>
+    <nd ref="613161504"/>
+    <nd ref="615944313"/>
+    <nd ref="615189235"/>
+    <nd ref="615944292"/>
+    <nd ref="615189238"/>
+    <nd ref="616522753"/>
+    <nd ref="616522733"/>
+    <nd ref="615189242"/>
+    <nd ref="616522736"/>
+    <nd ref="330901277"/>
+    <nd ref="613183309"/>
+    <nd ref="330941931"/>
+    <nd ref="613618488"/>
+    <nd ref="613295194"/>
+    <nd ref="613294208"/>
+    <nd ref="615241558"/>
+    <nd ref="615241589"/>
+    <nd ref="613101966"/>
+    <nd ref="330901307"/>
+    <nd ref="330901304"/>
+    <nd ref="617219604"/>
+    <nd ref="330874048"/>
+    <nd ref="330901296"/>
+    <nd ref="613295119"/>
+    <nd ref="614746781"/>
+    <nd ref="613190208"/>
+    <nd ref="614747992"/>
+    <nd ref="613190348"/>
+    <nd ref="612815303"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437893" version="16" timestamp="2010-01-23T23:56:55Z" uid="77596" user="kam" changeset="3697095">
+    <nd ref="613993863"/>
+    <nd ref="613998938"/>
+    <nd ref="617839295"/>
+    <nd ref="615189224"/>
+    <nd ref="615189227"/>
+    <nd ref="615189222"/>
+    <nd ref="331040954"/>
+    <nd ref="612810411"/>
+    <nd ref="618190133"/>
+    <nd ref="330901229"/>
+    <nd ref="613996591"/>
+    <nd ref="617800256"/>
+    <nd ref="618196532"/>
+    <nd ref="617220206"/>
+    <nd ref="613059331"/>
+    <nd ref="614226852"/>
+    <nd ref="613993561"/>
+    <nd ref="617896169"/>
+    <nd ref="613314144"/>
+    <nd ref="614241055"/>
+    <nd ref="613698347"/>
+    <nd ref="613053802"/>
+    <nd ref="613615380"/>
+    <nd ref="330942237"/>
+    <nd ref="617682639"/>
+    <nd ref="613616408"/>
+    <nd ref="614632594"/>
+    <nd ref="330901263"/>
+    <nd ref="613002942"/>
+    <nd ref="614643108"/>
+    <nd ref="613096017"/>
+    <nd ref="614643109"/>
+    <nd ref="613161504"/>
+    <nd ref="615944313"/>
+    <nd ref="615189235"/>
+    <nd ref="615944292"/>
+    <nd ref="615189238"/>
+    <nd ref="616522753"/>
+    <nd ref="616522733"/>
+    <nd ref="615189242"/>
+    <nd ref="616522736"/>
+    <nd ref="330901277"/>
+    <nd ref="613183309"/>
+    <nd ref="330941931"/>
+    <nd ref="613618488"/>
+    <nd ref="613295194"/>
+    <nd ref="613294208"/>
+    <nd ref="615241558"/>
+    <nd ref="618990953"/>
+    <nd ref="615241589"/>
+    <nd ref="618990952"/>
+    <nd ref="613101966"/>
+    <nd ref="330901307"/>
+    <nd ref="330901304"/>
+    <nd ref="617219604"/>
+    <nd ref="330874048"/>
+    <nd ref="330901296"/>
+    <nd ref="613295119"/>
+    <nd ref="614746781"/>
+    <nd ref="613190208"/>
+    <nd ref="614747992"/>
+    <nd ref="613190348"/>
+    <nd ref="612815303"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437893" version="17" timestamp="2010-01-26T13:17:22Z" uid="40023" user="ALE!" changeset="3719329">
+    <nd ref="613993863"/>
+    <nd ref="613998938"/>
+    <nd ref="617839295"/>
+    <nd ref="615189224"/>
+    <nd ref="615189227"/>
+    <nd ref="615189222"/>
+    <nd ref="331040954"/>
+    <nd ref="612810411"/>
+    <nd ref="620546469"/>
+    <nd ref="620546472"/>
+    <nd ref="620546475"/>
+    <nd ref="620546478"/>
+    <nd ref="618190133"/>
+    <nd ref="330901229"/>
+    <nd ref="613996591"/>
+    <nd ref="617800256"/>
+    <nd ref="618196532"/>
+    <nd ref="617220206"/>
+    <nd ref="613059331"/>
+    <nd ref="614226852"/>
+    <nd ref="613993561"/>
+    <nd ref="617896169"/>
+    <nd ref="613314144"/>
+    <nd ref="614241055"/>
+    <nd ref="613698347"/>
+    <nd ref="613053802"/>
+    <nd ref="613615380"/>
+    <nd ref="330942237"/>
+    <nd ref="617682639"/>
+    <nd ref="613616408"/>
+    <nd ref="614632594"/>
+    <nd ref="330901263"/>
+    <nd ref="613002942"/>
+    <nd ref="614643108"/>
+    <nd ref="613096017"/>
+    <nd ref="614643109"/>
+    <nd ref="613161504"/>
+    <nd ref="615944313"/>
+    <nd ref="615189235"/>
+    <nd ref="615944292"/>
+    <nd ref="615189238"/>
+    <nd ref="616522753"/>
+    <nd ref="616522733"/>
+    <nd ref="615189242"/>
+    <nd ref="616522736"/>
+    <nd ref="330901277"/>
+    <nd ref="613183309"/>
+    <nd ref="330941931"/>
+    <nd ref="613618488"/>
+    <nd ref="613295194"/>
+    <nd ref="613294208"/>
+    <nd ref="615241558"/>
+    <nd ref="618990953"/>
+    <nd ref="615241589"/>
+    <nd ref="618990952"/>
+    <nd ref="613101966"/>
+    <nd ref="330901307"/>
+    <nd ref="330901304"/>
+    <nd ref="617219604"/>
+    <nd ref="330874048"/>
+    <nd ref="330901296"/>
+    <nd ref="613295119"/>
+    <nd ref="614746781"/>
+    <nd ref="613190208"/>
+    <nd ref="614747992"/>
+    <nd ref="613190348"/>
+    <nd ref="612815303"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437893" version="18" timestamp="2010-01-26T13:25:45Z" uid="40023" user="ALE!" changeset="3719401">
+    <nd ref="613993863"/>
+    <nd ref="613998938"/>
+    <nd ref="617839295"/>
+    <nd ref="615189224"/>
+    <nd ref="615189227"/>
+    <nd ref="615189222"/>
+    <nd ref="331040954"/>
+    <nd ref="620557145"/>
+    <nd ref="612810411"/>
+    <nd ref="620546469"/>
+    <nd ref="620546472"/>
+    <nd ref="620546475"/>
+    <nd ref="620546478"/>
+    <nd ref="618190133"/>
+    <nd ref="330901229"/>
+    <nd ref="613996591"/>
+    <nd ref="617800256"/>
+    <nd ref="618196532"/>
+    <nd ref="617220206"/>
+    <nd ref="613059331"/>
+    <nd ref="614226852"/>
+    <nd ref="613993561"/>
+    <nd ref="617896169"/>
+    <nd ref="613314144"/>
+    <nd ref="614241055"/>
+    <nd ref="613698347"/>
+    <nd ref="613053802"/>
+    <nd ref="613615380"/>
+    <nd ref="330942237"/>
+    <nd ref="617682639"/>
+    <nd ref="613616408"/>
+    <nd ref="614632594"/>
+    <nd ref="330901263"/>
+    <nd ref="613002942"/>
+    <nd ref="614643108"/>
+    <nd ref="613096017"/>
+    <nd ref="614643109"/>
+    <nd ref="613161504"/>
+    <nd ref="615944313"/>
+    <nd ref="615189235"/>
+    <nd ref="615944292"/>
+    <nd ref="615189238"/>
+    <nd ref="616522753"/>
+    <nd ref="616522733"/>
+    <nd ref="615189242"/>
+    <nd ref="616522736"/>
+    <nd ref="330901277"/>
+    <nd ref="613183309"/>
+    <nd ref="330941931"/>
+    <nd ref="613618488"/>
+    <nd ref="613295194"/>
+    <nd ref="613294208"/>
+    <nd ref="615241558"/>
+    <nd ref="618990953"/>
+    <nd ref="615241589"/>
+    <nd ref="618990952"/>
+    <nd ref="613101966"/>
+    <nd ref="330901307"/>
+    <nd ref="330901304"/>
+    <nd ref="617219604"/>
+    <nd ref="330874048"/>
+    <nd ref="330901296"/>
+    <nd ref="613295119"/>
+    <nd ref="614746781"/>
+    <nd ref="613190208"/>
+    <nd ref="614747992"/>
+    <nd ref="613190348"/>
+    <nd ref="612815303"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437893" version="19" timestamp="2010-01-26T14:18:31Z" uid="40023" user="ALE!" changeset="3719795">
+    <nd ref="613993863"/>
+    <nd ref="613998938"/>
+    <nd ref="617839295"/>
+    <nd ref="615189224"/>
+    <nd ref="615189227"/>
+    <nd ref="615189222"/>
+    <nd ref="331040954"/>
+    <nd ref="620557145"/>
+    <nd ref="612810411"/>
+    <nd ref="620546469"/>
+    <nd ref="620546472"/>
+    <nd ref="620546475"/>
+    <nd ref="620546478"/>
+    <nd ref="618190133"/>
+    <nd ref="330901229"/>
+    <nd ref="613996591"/>
+    <nd ref="617800256"/>
+    <nd ref="618196532"/>
+    <nd ref="617220206"/>
+    <nd ref="613059331"/>
+    <nd ref="614226852"/>
+    <nd ref="613993561"/>
+    <nd ref="617896169"/>
+    <nd ref="613314144"/>
+    <nd ref="614241055"/>
+    <nd ref="613698347"/>
+    <nd ref="613053802"/>
+    <nd ref="613615380"/>
+    <nd ref="620628229"/>
+    <nd ref="620628218"/>
+    <nd ref="330942237"/>
+    <nd ref="617682639"/>
+    <nd ref="613616408"/>
+    <nd ref="614632594"/>
+    <nd ref="330901263"/>
+    <nd ref="613002942"/>
+    <nd ref="614643108"/>
+    <nd ref="613096017"/>
+    <nd ref="614643109"/>
+    <nd ref="613161504"/>
+    <nd ref="615944313"/>
+    <nd ref="615189235"/>
+    <nd ref="615944292"/>
+    <nd ref="615189238"/>
+    <nd ref="616522753"/>
+    <nd ref="616522733"/>
+    <nd ref="615189242"/>
+    <nd ref="616522736"/>
+    <nd ref="330901277"/>
+    <nd ref="613183309"/>
+    <nd ref="330941931"/>
+    <nd ref="613618488"/>
+    <nd ref="613295194"/>
+    <nd ref="613294208"/>
+    <nd ref="615241558"/>
+    <nd ref="618990953"/>
+    <nd ref="615241589"/>
+    <nd ref="618990952"/>
+    <nd ref="613101966"/>
+    <nd ref="330901307"/>
+    <nd ref="330901304"/>
+    <nd ref="617219604"/>
+    <nd ref="330874048"/>
+    <nd ref="330901296"/>
+    <nd ref="613295119"/>
+    <nd ref="614746781"/>
+    <nd ref="613190208"/>
+    <nd ref="614747992"/>
+    <nd ref="613190348"/>
+    <nd ref="612815303"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437893" version="20" timestamp="2010-01-26T14:21:36Z" uid="40023" user="ALE!" changeset="3719795">
+    <nd ref="613993863"/>
+    <nd ref="613998938"/>
+    <nd ref="617839295"/>
+    <nd ref="615189224"/>
+    <nd ref="615189227"/>
+    <nd ref="615189222"/>
+    <nd ref="331040954"/>
+    <nd ref="620557145"/>
+    <nd ref="612810411"/>
+    <nd ref="620546469"/>
+    <nd ref="620546472"/>
+    <nd ref="620546475"/>
+    <nd ref="620546478"/>
+    <nd ref="618190133"/>
+    <nd ref="330901229"/>
+    <nd ref="613996591"/>
+    <nd ref="617800256"/>
+    <nd ref="618196532"/>
+    <nd ref="617220206"/>
+    <nd ref="613059331"/>
+    <nd ref="614226852"/>
+    <nd ref="613993561"/>
+    <nd ref="617896169"/>
+    <nd ref="613314144"/>
+    <nd ref="614241055"/>
+    <nd ref="613698347"/>
+    <nd ref="613053802"/>
+    <nd ref="620633744"/>
+    <nd ref="613615380"/>
+    <nd ref="620628229"/>
+    <nd ref="620628218"/>
+    <nd ref="330942237"/>
+    <nd ref="617682639"/>
+    <nd ref="613616408"/>
+    <nd ref="614632594"/>
+    <nd ref="330901263"/>
+    <nd ref="613002942"/>
+    <nd ref="614643108"/>
+    <nd ref="613096017"/>
+    <nd ref="614643109"/>
+    <nd ref="613161504"/>
+    <nd ref="615944313"/>
+    <nd ref="615189235"/>
+    <nd ref="615944292"/>
+    <nd ref="615189238"/>
+    <nd ref="616522753"/>
+    <nd ref="616522733"/>
+    <nd ref="615189242"/>
+    <nd ref="616522736"/>
+    <nd ref="330901277"/>
+    <nd ref="613183309"/>
+    <nd ref="330941931"/>
+    <nd ref="613618488"/>
+    <nd ref="613295194"/>
+    <nd ref="613294208"/>
+    <nd ref="615241558"/>
+    <nd ref="618990953"/>
+    <nd ref="615241589"/>
+    <nd ref="618990952"/>
+    <nd ref="613101966"/>
+    <nd ref="330901307"/>
+    <nd ref="330901304"/>
+    <nd ref="617219604"/>
+    <nd ref="330874048"/>
+    <nd ref="330901296"/>
+    <nd ref="613295119"/>
+    <nd ref="614746781"/>
+    <nd ref="613190208"/>
+    <nd ref="614747992"/>
+    <nd ref="613190348"/>
+    <nd ref="612815303"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437893" version="21" timestamp="2010-01-26T14:24:41Z" uid="40023" user="ALE!" changeset="3719846">
+    <nd ref="613993863"/>
+    <nd ref="613998938"/>
+    <nd ref="617839295"/>
+    <nd ref="615189224"/>
+    <nd ref="615189227"/>
+    <nd ref="615189222"/>
+    <nd ref="331040954"/>
+    <nd ref="620557145"/>
+    <nd ref="612810411"/>
+    <nd ref="620546469"/>
+    <nd ref="620546472"/>
+    <nd ref="620546475"/>
+    <nd ref="620546478"/>
+    <nd ref="618190133"/>
+    <nd ref="330901229"/>
+    <nd ref="613996591"/>
+    <nd ref="617800256"/>
+    <nd ref="618196532"/>
+    <nd ref="617220206"/>
+    <nd ref="613059331"/>
+    <nd ref="614226852"/>
+    <nd ref="613993561"/>
+    <nd ref="617896169"/>
+    <nd ref="613314144"/>
+    <nd ref="614241055"/>
+    <nd ref="613698347"/>
+    <nd ref="613053802"/>
+    <nd ref="620633744"/>
+    <nd ref="613615380"/>
+    <nd ref="620628229"/>
+    <nd ref="620628218"/>
+    <nd ref="620637720"/>
+    <nd ref="330942237"/>
+    <nd ref="617682639"/>
+    <nd ref="613616408"/>
+    <nd ref="614632594"/>
+    <nd ref="330901263"/>
+    <nd ref="613002942"/>
+    <nd ref="614643108"/>
+    <nd ref="613096017"/>
+    <nd ref="614643109"/>
+    <nd ref="613161504"/>
+    <nd ref="615944313"/>
+    <nd ref="615189235"/>
+    <nd ref="615944292"/>
+    <nd ref="615189238"/>
+    <nd ref="616522753"/>
+    <nd ref="616522733"/>
+    <nd ref="615189242"/>
+    <nd ref="616522736"/>
+    <nd ref="330901277"/>
+    <nd ref="613183309"/>
+    <nd ref="330941931"/>
+    <nd ref="613618488"/>
+    <nd ref="613295194"/>
+    <nd ref="613294208"/>
+    <nd ref="615241558"/>
+    <nd ref="618990953"/>
+    <nd ref="615241589"/>
+    <nd ref="618990952"/>
+    <nd ref="613101966"/>
+    <nd ref="330901307"/>
+    <nd ref="330901304"/>
+    <nd ref="617219604"/>
+    <nd ref="330874048"/>
+    <nd ref="330901296"/>
+    <nd ref="613295119"/>
+    <nd ref="614746781"/>
+    <nd ref="613190208"/>
+    <nd ref="614747992"/>
+    <nd ref="613190348"/>
+    <nd ref="612815303"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437893" version="22" timestamp="2010-02-04T14:25:44Z" uid="6494" user="FranBoon" changeset="3790674">
+    <nd ref="613993863"/>
+    <nd ref="613998938"/>
+    <nd ref="617839295"/>
+    <nd ref="615189224"/>
+    <nd ref="615189227"/>
+    <nd ref="615189222"/>
+    <nd ref="331040954"/>
+    <nd ref="620557145"/>
+    <nd ref="612810411"/>
+    <nd ref="620546469"/>
+    <nd ref="620546472"/>
+    <nd ref="620546475"/>
+    <nd ref="620546478"/>
+    <nd ref="618190133"/>
+    <nd ref="330901229"/>
+    <nd ref="613996591"/>
+    <nd ref="617800256"/>
+    <nd ref="618196532"/>
+    <nd ref="617220206"/>
+    <nd ref="613059331"/>
+    <nd ref="614226852"/>
+    <nd ref="613993561"/>
+    <nd ref="617896169"/>
+    <nd ref="613314144"/>
+    <nd ref="614241055"/>
+    <nd ref="613698347"/>
+    <nd ref="613053802"/>
+    <nd ref="628972050"/>
+    <nd ref="620633744"/>
+    <nd ref="613615380"/>
+    <nd ref="620628229"/>
+    <nd ref="620628218"/>
+    <nd ref="620637720"/>
+    <nd ref="330942237"/>
+    <nd ref="617682639"/>
+    <nd ref="613616408"/>
+    <nd ref="614632594"/>
+    <nd ref="330901263"/>
+    <nd ref="613002942"/>
+    <nd ref="614643108"/>
+    <nd ref="613096017"/>
+    <nd ref="614643109"/>
+    <nd ref="613161504"/>
+    <nd ref="615944313"/>
+    <nd ref="615189235"/>
+    <nd ref="615944292"/>
+    <nd ref="615189238"/>
+    <nd ref="616522753"/>
+    <nd ref="616522733"/>
+    <nd ref="615189242"/>
+    <nd ref="616522736"/>
+    <nd ref="330901277"/>
+    <nd ref="613183309"/>
+    <nd ref="330941931"/>
+    <nd ref="613618488"/>
+    <nd ref="613295194"/>
+    <nd ref="613294208"/>
+    <nd ref="615241558"/>
+    <nd ref="618990953"/>
+    <nd ref="615241589"/>
+    <nd ref="618990952"/>
+    <nd ref="613101966"/>
+    <nd ref="330901307"/>
+    <nd ref="330901304"/>
+    <nd ref="617219604"/>
+    <nd ref="330874048"/>
+    <nd ref="330901296"/>
+    <nd ref="613295119"/>
+    <nd ref="614746781"/>
+    <nd ref="613190208"/>
+    <nd ref="614747992"/>
+    <nd ref="613190348"/>
+    <nd ref="612815303"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437893" version="23" timestamp="2010-02-07T10:50:05Z" uid="40023" user="ALE!" changeset="3812616">
+    <nd ref="613993863"/>
+    <nd ref="613998938"/>
+    <nd ref="617839295"/>
+    <nd ref="615189224"/>
+    <nd ref="615189227"/>
+    <nd ref="615189222"/>
+    <nd ref="331040954"/>
+    <nd ref="620557145"/>
+    <nd ref="612810411"/>
+    <nd ref="620546469"/>
+    <nd ref="620546472"/>
+    <nd ref="620546475"/>
+    <nd ref="620546478"/>
+    <nd ref="618190133"/>
+    <nd ref="330901229"/>
+    <nd ref="613996591"/>
+    <nd ref="617800256"/>
+    <nd ref="618196532"/>
+    <nd ref="617220206"/>
+    <nd ref="613059331"/>
+    <nd ref="614226852"/>
+    <nd ref="613993561"/>
+    <nd ref="617896169"/>
+    <nd ref="613314144"/>
+    <nd ref="614241055"/>
+    <nd ref="613698347"/>
+    <nd ref="613053802"/>
+    <nd ref="628972050"/>
+    <nd ref="620633744"/>
+    <nd ref="613615380"/>
+    <nd ref="620628229"/>
+    <nd ref="620628218"/>
+    <nd ref="620637720"/>
+    <nd ref="330942237"/>
+    <nd ref="617682639"/>
+    <nd ref="613616408"/>
+    <nd ref="614632594"/>
+    <nd ref="330901263"/>
+    <nd ref="613002942"/>
+    <nd ref="614643108"/>
+    <nd ref="613096017"/>
+    <nd ref="614643109"/>
+    <nd ref="613161504"/>
+    <nd ref="615944313"/>
+    <nd ref="615189235"/>
+    <nd ref="615944292"/>
+    <nd ref="615189238"/>
+    <nd ref="616522753"/>
+    <nd ref="616522733"/>
+    <nd ref="615189242"/>
+    <nd ref="616522736"/>
+    <nd ref="330901277"/>
+    <nd ref="632273339"/>
+    <nd ref="613183309"/>
+    <nd ref="330941931"/>
+    <nd ref="613618488"/>
+    <nd ref="613295194"/>
+    <nd ref="613294208"/>
+    <nd ref="615241558"/>
+    <nd ref="618990953"/>
+    <nd ref="615241589"/>
+    <nd ref="618990952"/>
+    <nd ref="613101966"/>
+    <nd ref="330901307"/>
+    <nd ref="330901304"/>
+    <nd ref="617219604"/>
+    <nd ref="330874048"/>
+    <nd ref="330901296"/>
+    <nd ref="613295119"/>
+    <nd ref="614746781"/>
+    <nd ref="613190208"/>
+    <nd ref="614747992"/>
+    <nd ref="613190348"/>
+    <nd ref="612815303"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437893" version="24" timestamp="2010-02-07T10:52:55Z" uid="40023" user="ALE!" changeset="3812616">
+    <nd ref="613993863"/>
+    <nd ref="613998938"/>
+    <nd ref="617839295"/>
+    <nd ref="615189224"/>
+    <nd ref="615189227"/>
+    <nd ref="615189222"/>
+    <nd ref="331040954"/>
+    <nd ref="620557145"/>
+    <nd ref="612810411"/>
+    <nd ref="620546469"/>
+    <nd ref="620546472"/>
+    <nd ref="620546475"/>
+    <nd ref="620546478"/>
+    <nd ref="618190133"/>
+    <nd ref="330901229"/>
+    <nd ref="613996591"/>
+    <nd ref="617800256"/>
+    <nd ref="618196532"/>
+    <nd ref="617220206"/>
+    <nd ref="613059331"/>
+    <nd ref="614226852"/>
+    <nd ref="613993561"/>
+    <nd ref="617896169"/>
+    <nd ref="613314144"/>
+    <nd ref="614241055"/>
+    <nd ref="613698347"/>
+    <nd ref="613053802"/>
+    <nd ref="628972050"/>
+    <nd ref="620633744"/>
+    <nd ref="613615380"/>
+    <nd ref="620628229"/>
+    <nd ref="620628218"/>
+    <nd ref="620637720"/>
+    <nd ref="330942237"/>
+    <nd ref="617682639"/>
+    <nd ref="613616408"/>
+    <nd ref="614632594"/>
+    <nd ref="330901263"/>
+    <nd ref="613002942"/>
+    <nd ref="614643108"/>
+    <nd ref="613096017"/>
+    <nd ref="614643109"/>
+    <nd ref="613161504"/>
+    <nd ref="615944313"/>
+    <nd ref="615189235"/>
+    <nd ref="615944292"/>
+    <nd ref="615189238"/>
+    <nd ref="616522753"/>
+    <nd ref="616522733"/>
+    <nd ref="615189242"/>
+    <nd ref="616522736"/>
+    <nd ref="632280055"/>
+    <nd ref="330901277"/>
+    <nd ref="632280058"/>
+    <nd ref="632273339"/>
+    <nd ref="613183309"/>
+    <nd ref="330941931"/>
+    <nd ref="613618488"/>
+    <nd ref="613295194"/>
+    <nd ref="613294208"/>
+    <nd ref="615241558"/>
+    <nd ref="618990953"/>
+    <nd ref="615241589"/>
+    <nd ref="618990952"/>
+    <nd ref="613101966"/>
+    <nd ref="330901307"/>
+    <nd ref="330901304"/>
+    <nd ref="617219604"/>
+    <nd ref="330874048"/>
+    <nd ref="330901296"/>
+    <nd ref="613295119"/>
+    <nd ref="614746781"/>
+    <nd ref="613190208"/>
+    <nd ref="614747992"/>
+    <nd ref="613190348"/>
+    <nd ref="612815303"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437893" version="25" timestamp="2010-02-07T21:09:34Z" uid="40023" user="ALE!" changeset="3819042">
+    <nd ref="613993863"/>
+    <nd ref="613998938"/>
+    <nd ref="617839295"/>
+    <nd ref="615189224"/>
+    <nd ref="615189227"/>
+    <nd ref="615189222"/>
+    <nd ref="331040954"/>
+    <nd ref="620557145"/>
+    <nd ref="612810411"/>
+    <nd ref="620546469"/>
+    <nd ref="620546472"/>
+    <nd ref="620546475"/>
+    <nd ref="620546478"/>
+    <nd ref="618190133"/>
+    <nd ref="330901229"/>
+    <nd ref="613996591"/>
+    <nd ref="617800256"/>
+    <nd ref="618196532"/>
+    <nd ref="617220206"/>
+    <nd ref="613059331"/>
+    <nd ref="614226852"/>
+    <nd ref="613993561"/>
+    <nd ref="617896169"/>
+    <nd ref="613314144"/>
+    <nd ref="614241055"/>
+    <nd ref="613698347"/>
+    <nd ref="613053802"/>
+    <nd ref="628972050"/>
+    <nd ref="620633744"/>
+    <nd ref="613615380"/>
+    <nd ref="620628229"/>
+    <nd ref="620628218"/>
+    <nd ref="620637720"/>
+    <nd ref="330942237"/>
+    <nd ref="617682639"/>
+    <nd ref="613616408"/>
+    <nd ref="614632594"/>
+    <nd ref="330901263"/>
+    <nd ref="613002942"/>
+    <nd ref="614643108"/>
+    <nd ref="613096017"/>
+    <nd ref="614643109"/>
+    <nd ref="613161504"/>
+    <nd ref="615944313"/>
+    <nd ref="615189235"/>
+    <nd ref="615944292"/>
+    <nd ref="615189238"/>
+    <nd ref="616522753"/>
+    <nd ref="616522733"/>
+    <nd ref="615189242"/>
+    <nd ref="616522736"/>
+    <nd ref="632280055"/>
+    <nd ref="330901277"/>
+    <nd ref="632280058"/>
+    <nd ref="632273339"/>
+    <nd ref="632848552"/>
+    <nd ref="613183309"/>
+    <nd ref="330941931"/>
+    <nd ref="613618488"/>
+    <nd ref="613295194"/>
+    <nd ref="613294208"/>
+    <nd ref="615241558"/>
+    <nd ref="618990953"/>
+    <nd ref="615241589"/>
+    <nd ref="618990952"/>
+    <nd ref="613101966"/>
+    <nd ref="330901307"/>
+    <nd ref="330901304"/>
+    <nd ref="617219604"/>
+    <nd ref="330874048"/>
+    <nd ref="330901296"/>
+    <nd ref="613295119"/>
+    <nd ref="614746781"/>
+    <nd ref="613190208"/>
+    <nd ref="614747992"/>
+    <nd ref="613190348"/>
+    <nd ref="612815303"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437893" version="26" timestamp="2010-02-20T14:30:17Z" uid="61898" user="Hans van Wijk" changeset="3923986">
+    <nd ref="613993863"/>
+    <nd ref="613998938"/>
+    <nd ref="617839295"/>
+    <nd ref="615189224"/>
+    <nd ref="615189227"/>
+    <nd ref="615189222"/>
+    <nd ref="331040954"/>
+    <nd ref="620557145"/>
+    <nd ref="612810411"/>
+    <nd ref="620546469"/>
+    <nd ref="620546472"/>
+    <nd ref="620546475"/>
+    <nd ref="620546478"/>
+    <nd ref="618190133"/>
+    <nd ref="330901229"/>
+    <nd ref="613996591"/>
+    <nd ref="617800256"/>
+    <nd ref="618196532"/>
+    <nd ref="617220206"/>
+    <nd ref="613059331"/>
+    <nd ref="614226852"/>
+    <nd ref="613993561"/>
+    <nd ref="617896169"/>
+    <nd ref="613314144"/>
+    <nd ref="614241055"/>
+    <nd ref="613698347"/>
+    <nd ref="613053802"/>
+    <nd ref="628972050"/>
+    <nd ref="620633744"/>
+    <nd ref="613615380"/>
+    <nd ref="620628229"/>
+    <nd ref="620628218"/>
+    <nd ref="620637720"/>
+    <nd ref="330942237"/>
+    <nd ref="617682639"/>
+    <nd ref="613616408"/>
+    <nd ref="614632594"/>
+    <nd ref="330901263"/>
+    <nd ref="613002942"/>
+    <nd ref="614643108"/>
+    <nd ref="613096017"/>
+    <nd ref="614643109"/>
+    <nd ref="613161504"/>
+    <nd ref="615944313"/>
+    <nd ref="615189235"/>
+    <nd ref="615944292"/>
+    <nd ref="615189238"/>
+    <nd ref="616522753"/>
+    <nd ref="616522733"/>
+    <nd ref="615189242"/>
+    <nd ref="616522736"/>
+    <nd ref="632280055"/>
+    <nd ref="330901277"/>
+    <nd ref="648200424"/>
+    <nd ref="632280058"/>
+    <nd ref="632273339"/>
+    <nd ref="632848552"/>
+    <nd ref="613183309"/>
+    <nd ref="330941931"/>
+    <nd ref="613618488"/>
+    <nd ref="613295194"/>
+    <nd ref="613294208"/>
+    <nd ref="615241558"/>
+    <nd ref="618990953"/>
+    <nd ref="615241589"/>
+    <nd ref="618990952"/>
+    <nd ref="613101966"/>
+    <nd ref="330901307"/>
+    <nd ref="330901304"/>
+    <nd ref="617219604"/>
+    <nd ref="330874048"/>
+    <nd ref="330901296"/>
+    <nd ref="613295119"/>
+    <nd ref="614746781"/>
+    <nd ref="613190208"/>
+    <nd ref="614747992"/>
+    <nd ref="613190348"/>
+    <nd ref="612815303"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437893" version="27" timestamp="2010-10-05T20:03:16Z" uid="294075" user="fenel" changeset="5964332">
+    <nd ref="613993863"/>
+    <nd ref="613998938"/>
+    <nd ref="617839295"/>
+    <nd ref="615189224"/>
+    <nd ref="615189227"/>
+    <nd ref="615189222"/>
+    <nd ref="331040954"/>
+    <nd ref="620557145"/>
+    <nd ref="612810411"/>
+    <nd ref="620546469"/>
+    <nd ref="620546472"/>
+    <nd ref="620546475"/>
+    <nd ref="620546478"/>
+    <nd ref="618190133"/>
+    <nd ref="330901229"/>
+    <nd ref="613996591"/>
+    <nd ref="617800256"/>
+    <nd ref="618196532"/>
+    <nd ref="617220206"/>
+    <nd ref="613059331"/>
+    <nd ref="614226852"/>
+    <nd ref="613993561"/>
+    <nd ref="617896169"/>
+    <nd ref="613314144"/>
+    <nd ref="614241055"/>
+    <nd ref="613698347"/>
+    <nd ref="613053802"/>
+    <nd ref="628972050"/>
+    <nd ref="620633744"/>
+    <nd ref="613615380"/>
+    <nd ref="620628229"/>
+    <nd ref="620628218"/>
+    <nd ref="620637720"/>
+    <nd ref="330942237"/>
+    <nd ref="617682639"/>
+    <nd ref="613616408"/>
+    <nd ref="614632594"/>
+    <nd ref="330901263"/>
+    <nd ref="613002942"/>
+    <nd ref="614643108"/>
+    <nd ref="613096017"/>
+    <nd ref="614643109"/>
+    <nd ref="613161504"/>
+    <nd ref="615944313"/>
+    <nd ref="615189235"/>
+    <nd ref="615944292"/>
+    <nd ref="615189238"/>
+    <nd ref="616522753"/>
+    <nd ref="938763426"/>
+    <nd ref="616522733"/>
+    <nd ref="615189242"/>
+    <nd ref="616522736"/>
+    <nd ref="632280055"/>
+    <nd ref="330901277"/>
+    <nd ref="648200424"/>
+    <nd ref="632280058"/>
+    <nd ref="632273339"/>
+    <nd ref="632848552"/>
+    <nd ref="613183309"/>
+    <nd ref="330941931"/>
+    <nd ref="613618488"/>
+    <nd ref="613295194"/>
+    <nd ref="613294208"/>
+    <nd ref="615241558"/>
+    <nd ref="618990953"/>
+    <nd ref="615241589"/>
+    <nd ref="618990952"/>
+    <nd ref="613101966"/>
+    <nd ref="330901307"/>
+    <nd ref="330901304"/>
+    <nd ref="617219604"/>
+    <nd ref="330874048"/>
+    <nd ref="330901296"/>
+    <nd ref="613295119"/>
+    <nd ref="614746781"/>
+    <nd ref="613190208"/>
+    <nd ref="614747992"/>
+    <nd ref="613190348"/>
+    <nd ref="612815303"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437893" version="28" timestamp="2010-10-07T20:03:43Z" uid="294075" user="fenel" changeset="5981111">
+    <nd ref="613993863"/>
+    <nd ref="613998938"/>
+    <nd ref="617839295"/>
+    <nd ref="615189224"/>
+    <nd ref="615189227"/>
+    <nd ref="615189222"/>
+    <nd ref="331040954"/>
+    <nd ref="620557145"/>
+    <nd ref="612810411"/>
+    <nd ref="620546469"/>
+    <nd ref="620546472"/>
+    <nd ref="620546475"/>
+    <nd ref="620546478"/>
+    <nd ref="618190133"/>
+    <nd ref="330901229"/>
+    <nd ref="613996591"/>
+    <nd ref="617800256"/>
+    <nd ref="618196532"/>
+    <nd ref="617220206"/>
+    <nd ref="613059331"/>
+    <nd ref="614226852"/>
+    <nd ref="613993561"/>
+    <nd ref="617896169"/>
+    <nd ref="613314144"/>
+    <nd ref="614241055"/>
+    <nd ref="613698347"/>
+    <nd ref="613053802"/>
+    <nd ref="628972050"/>
+    <nd ref="620633744"/>
+    <nd ref="613615380"/>
+    <nd ref="620628229"/>
+    <nd ref="620628218"/>
+    <nd ref="620637720"/>
+    <nd ref="330942237"/>
+    <nd ref="617682639"/>
+    <nd ref="613616408"/>
+    <nd ref="614632594"/>
+    <nd ref="330901263"/>
+    <nd ref="613002942"/>
+    <nd ref="614643108"/>
+    <nd ref="613096017"/>
+    <nd ref="614643109"/>
+    <nd ref="613161504"/>
+    <nd ref="615944313"/>
+    <nd ref="615189235"/>
+    <nd ref="615944292"/>
+    <nd ref="615189238"/>
+    <nd ref="616522753"/>
+    <nd ref="938763426"/>
+    <nd ref="616522733"/>
+    <nd ref="615189242"/>
+    <nd ref="616522736"/>
+    <nd ref="632280055"/>
+    <nd ref="330901277"/>
+    <nd ref="648200424"/>
+    <nd ref="632280058"/>
+    <nd ref="632273339"/>
+    <nd ref="632848552"/>
+    <nd ref="613183309"/>
+    <nd ref="330941931"/>
+    <nd ref="613618488"/>
+    <nd ref="613295194"/>
+    <nd ref="613294208"/>
+    <nd ref="615241558"/>
+    <nd ref="618990953"/>
+    <nd ref="615241589"/>
+    <nd ref="618990952"/>
+    <nd ref="613101966"/>
+    <nd ref="330901307"/>
+    <nd ref="330901304"/>
+    <nd ref="617219604"/>
+    <nd ref="330874048"/>
+    <nd ref="330901296"/>
+    <nd ref="613295119"/>
+    <nd ref="614746781"/>
+    <nd ref="613190208"/>
+    <nd ref="614747992"/>
+    <nd ref="613190348"/>
+    <nd ref="612815303"/>
+    <tag k="Operational_status" v="open"/>
+    <tag k="Operational_status_quality" v="confirmed"/>
+    <tag k="Practicability" v="truck_+_trailer_greater_than_20mt"/>
+    <tag k="Surface" v="Paved"/>
+    <tag k="SurfaceCondition" v="Smooth_greater_than_40kph"/>
+    <tag k="attribute_source_date" v="07/10/10"/>
+    <tag k="attribute_source_type" v="MIssion de Terrain"/>
+    <tag k="geometry_source_date" v="07/10/10"/>
+    <tag k="geometry_source_type" v="Walking Papers / Mission GPS"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="OIM/GIS/DTM"/>
+  </way>
+  <way id="48437893" version="29" timestamp="2010-10-22T21:57:27Z" uid="288072" user="Guensmork" changeset="6140737">
+    <nd ref="613993863"/>
+    <nd ref="613998938"/>
+    <nd ref="617839295"/>
+    <nd ref="615189224"/>
+    <nd ref="615189227"/>
+    <nd ref="615189222"/>
+    <nd ref="331040954"/>
+    <nd ref="620557145"/>
+    <nd ref="612810411"/>
+    <nd ref="620546469"/>
+    <nd ref="620546472"/>
+    <nd ref="620546475"/>
+    <nd ref="620546478"/>
+    <nd ref="960852796"/>
+    <nd ref="618190133"/>
+    <nd ref="960852808"/>
+    <nd ref="960852942"/>
+    <nd ref="960853084"/>
+    <nd ref="330901229"/>
+    <nd ref="613996591"/>
+    <nd ref="617800256"/>
+    <nd ref="618196532"/>
+    <nd ref="617220206"/>
+    <nd ref="613059331"/>
+    <nd ref="614226852"/>
+    <nd ref="613993561"/>
+    <nd ref="617896169"/>
+    <nd ref="613314144"/>
+    <nd ref="614241055"/>
+    <nd ref="613698347"/>
+    <nd ref="613053802"/>
+    <nd ref="628972050"/>
+    <nd ref="620633744"/>
+    <nd ref="613615380"/>
+    <nd ref="620628229"/>
+    <nd ref="620628218"/>
+    <nd ref="620637720"/>
+    <nd ref="330942237"/>
+    <nd ref="617682639"/>
+    <nd ref="613616408"/>
+    <nd ref="614632594"/>
+    <nd ref="330901263"/>
+    <nd ref="613002942"/>
+    <nd ref="614643108"/>
+    <nd ref="613096017"/>
+    <nd ref="614643109"/>
+    <nd ref="613161504"/>
+    <nd ref="615944313"/>
+    <nd ref="615189235"/>
+    <nd ref="615944292"/>
+    <nd ref="615189238"/>
+    <nd ref="616522753"/>
+    <nd ref="938763426"/>
+    <nd ref="616522733"/>
+    <nd ref="615189242"/>
+    <nd ref="616522736"/>
+    <nd ref="632280055"/>
+    <nd ref="330901277"/>
+    <nd ref="648200424"/>
+    <nd ref="632280058"/>
+    <nd ref="632273339"/>
+    <nd ref="632848552"/>
+    <nd ref="613183309"/>
+    <nd ref="330941931"/>
+    <nd ref="613618488"/>
+    <nd ref="613295194"/>
+    <nd ref="613294208"/>
+    <nd ref="615241558"/>
+    <nd ref="618990953"/>
+    <nd ref="615241589"/>
+    <nd ref="618990952"/>
+    <nd ref="613101966"/>
+    <nd ref="330901307"/>
+    <nd ref="330901304"/>
+    <nd ref="617219604"/>
+    <nd ref="330874048"/>
+    <nd ref="330901296"/>
+    <nd ref="613295119"/>
+    <nd ref="614746781"/>
+    <nd ref="613190208"/>
+    <nd ref="614747992"/>
+    <nd ref="613190348"/>
+    <nd ref="612815303"/>
+    <tag k="Operational_status" v="open"/>
+    <tag k="Operational_status_quality" v="confirmed"/>
+    <tag k="Practicability" v="truck_+_trailer_greater_than_20mt"/>
+    <tag k="Surface" v="Paved"/>
+    <tag k="SurfaceCondition" v="Smooth_greater_than_40kph"/>
+    <tag k="attribute_source_date" v="07/10/10"/>
+    <tag k="attribute_source_type" v="MIssion de Terrain"/>
+    <tag k="geometry_source_date" v="07/10/10"/>
+    <tag k="geometry_source_type" v="Walking Papers / Mission GPS"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="OIM/GIS/DTM"/>
+  </way>
+  <way id="48437893" version="30" timestamp="2010-11-12T00:58:28Z" uid="98876" user="rsoden" changeset="6347888">
+    <nd ref="613993863"/>
+    <nd ref="613998938"/>
+    <nd ref="617839295"/>
+    <nd ref="615189224"/>
+    <nd ref="615189227"/>
+    <nd ref="615189222"/>
+    <nd ref="331040954"/>
+    <nd ref="620557145"/>
+    <nd ref="612810411"/>
+    <nd ref="620546469"/>
+    <nd ref="620546472"/>
+    <nd ref="620546475"/>
+    <nd ref="620546478"/>
+    <nd ref="960852796"/>
+    <nd ref="618190133"/>
+    <nd ref="960852808"/>
+    <nd ref="960852942"/>
+    <nd ref="960853084"/>
+    <nd ref="330901229"/>
+    <nd ref="613996591"/>
+    <nd ref="617800256"/>
+    <nd ref="618196532"/>
+    <nd ref="617220206"/>
+    <nd ref="613059331"/>
+    <nd ref="614226852"/>
+    <nd ref="613993561"/>
+    <nd ref="617896169"/>
+    <nd ref="613314144"/>
+    <nd ref="614241055"/>
+    <nd ref="613698347"/>
+    <nd ref="613053802"/>
+    <nd ref="628972050"/>
+    <nd ref="620633744"/>
+    <nd ref="613615380"/>
+    <nd ref="620628229"/>
+    <nd ref="620628218"/>
+    <nd ref="620637720"/>
+    <nd ref="330942237"/>
+    <nd ref="617682639"/>
+    <nd ref="613616408"/>
+    <nd ref="614632594"/>
+    <nd ref="330901263"/>
+    <nd ref="613002942"/>
+    <nd ref="614643108"/>
+    <nd ref="613096017"/>
+    <nd ref="614643109"/>
+    <nd ref="613161504"/>
+    <nd ref="615944313"/>
+    <nd ref="615189235"/>
+    <nd ref="615944292"/>
+    <nd ref="615189238"/>
+    <nd ref="616522753"/>
+    <nd ref="938763426"/>
+    <nd ref="616522733"/>
+    <nd ref="615189242"/>
+    <nd ref="616522736"/>
+    <nd ref="632280055"/>
+    <nd ref="330901277"/>
+    <nd ref="648200424"/>
+    <nd ref="632280058"/>
+    <nd ref="632273339"/>
+    <nd ref="632848552"/>
+    <nd ref="613183309"/>
+    <nd ref="330941931"/>
+    <nd ref="613618488"/>
+    <nd ref="613295194"/>
+    <nd ref="613294208"/>
+    <nd ref="615241558"/>
+    <nd ref="618990953"/>
+    <nd ref="615241589"/>
+    <nd ref="618990952"/>
+    <nd ref="613101966"/>
+    <nd ref="330901307"/>
+    <nd ref="330901304"/>
+    <nd ref="617219604"/>
+    <nd ref="330874048"/>
+    <nd ref="330901296"/>
+    <nd ref="613295119"/>
+    <nd ref="614746781"/>
+    <nd ref="613190208"/>
+    <nd ref="614747992"/>
+    <nd ref="613190348"/>
+    <nd ref="612815303"/>
+    <tag k="Practicability" v="truck_+_trailer_greater_than_20mt"/>
+    <tag k="Surface" v="Paved"/>
+    <tag k="SurfaceCondition" v="Smooth_greater_than_40kph"/>
+    <tag k="attribute_source_date" v="07/10/10"/>
+    <tag k="attribute_source_type" v="MIssion de Terrain"/>
+    <tag k="geometry_source_date" v="07/10/10"/>
+    <tag k="geometry_source_type" v="Walking Papers / Mission GPS"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="operational_status" v="open"/>
+    <tag k="operational_status_quality" v="confirmed"/>
+    <tag k="source" v="OIM/GIS/DTM"/>
+  </way>
+  <way id="48437893" version="31" timestamp="2010-11-12T23:13:45Z" uid="98876" user="rsoden" changeset="6354586">
+    <nd ref="613993863"/>
+    <nd ref="613998938"/>
+    <nd ref="617839295"/>
+    <nd ref="615189224"/>
+    <nd ref="615189227"/>
+    <nd ref="615189222"/>
+    <nd ref="331040954"/>
+    <nd ref="620557145"/>
+    <nd ref="612810411"/>
+    <nd ref="620546469"/>
+    <nd ref="620546472"/>
+    <nd ref="620546475"/>
+    <nd ref="620546478"/>
+    <nd ref="960852796"/>
+    <nd ref="618190133"/>
+    <nd ref="960852808"/>
+    <nd ref="960852942"/>
+    <nd ref="960853084"/>
+    <nd ref="330901229"/>
+    <nd ref="613996591"/>
+    <nd ref="617800256"/>
+    <nd ref="618196532"/>
+    <nd ref="617220206"/>
+    <nd ref="613059331"/>
+    <nd ref="614226852"/>
+    <nd ref="613993561"/>
+    <nd ref="617896169"/>
+    <nd ref="613314144"/>
+    <nd ref="614241055"/>
+    <nd ref="613698347"/>
+    <nd ref="613053802"/>
+    <nd ref="628972050"/>
+    <nd ref="620633744"/>
+    <nd ref="613615380"/>
+    <nd ref="620628229"/>
+    <nd ref="620628218"/>
+    <nd ref="620637720"/>
+    <nd ref="330942237"/>
+    <nd ref="617682639"/>
+    <nd ref="613616408"/>
+    <nd ref="614632594"/>
+    <nd ref="330901263"/>
+    <nd ref="613002942"/>
+    <nd ref="614643108"/>
+    <nd ref="613096017"/>
+    <nd ref="614643109"/>
+    <nd ref="613161504"/>
+    <nd ref="615944313"/>
+    <nd ref="615189235"/>
+    <nd ref="615944292"/>
+    <nd ref="615189238"/>
+    <nd ref="616522753"/>
+    <nd ref="938763426"/>
+    <nd ref="616522733"/>
+    <nd ref="615189242"/>
+    <nd ref="616522736"/>
+    <nd ref="632280055"/>
+    <nd ref="330901277"/>
+    <nd ref="648200424"/>
+    <nd ref="632280058"/>
+    <nd ref="632273339"/>
+    <nd ref="632848552"/>
+    <nd ref="613183309"/>
+    <nd ref="330941931"/>
+    <nd ref="613618488"/>
+    <nd ref="613295194"/>
+    <nd ref="613294208"/>
+    <nd ref="615241558"/>
+    <nd ref="618990953"/>
+    <nd ref="615241589"/>
+    <nd ref="618990952"/>
+    <nd ref="613101966"/>
+    <nd ref="330901307"/>
+    <nd ref="330901304"/>
+    <nd ref="617219604"/>
+    <nd ref="330874048"/>
+    <nd ref="330901296"/>
+    <nd ref="613295119"/>
+    <nd ref="614746781"/>
+    <nd ref="613190208"/>
+    <nd ref="614747992"/>
+    <nd ref="613190348"/>
+    <nd ref="612815303"/>
+    <tag k="Surface" v="Paved"/>
+    <tag k="SurfaceCondition" v="Smooth_greater_than_40kph"/>
+    <tag k="attribute_source_date" v="07/10/10"/>
+    <tag k="attribute_source_type" v="MIssion de Terrain"/>
+    <tag k="geometry_source_date" v="07/10/10"/>
+    <tag k="geometry_source_type" v="Walking Papers / Mission GPS"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="operational_status" v="open"/>
+    <tag k="operational_status_quality" v="confirmed"/>
+    <tag k="practicability" v="truck_+_trailer_greater_than_20mt"/>
+    <tag k="source" v="OIM/GIS/DTM"/>
+  </way>
+  <way id="48437893" version="32" timestamp="2010-11-13T14:51:00Z" uid="98876" user="rsoden" changeset="6358183">
+    <nd ref="613993863"/>
+    <nd ref="613998938"/>
+    <nd ref="617839295"/>
+    <nd ref="615189224"/>
+    <nd ref="615189227"/>
+    <nd ref="615189222"/>
+    <nd ref="331040954"/>
+    <nd ref="620557145"/>
+    <nd ref="612810411"/>
+    <nd ref="620546469"/>
+    <nd ref="620546472"/>
+    <nd ref="620546475"/>
+    <nd ref="620546478"/>
+    <nd ref="960852796"/>
+    <nd ref="618190133"/>
+    <nd ref="960852808"/>
+    <nd ref="960852942"/>
+    <nd ref="960853084"/>
+    <nd ref="330901229"/>
+    <nd ref="613996591"/>
+    <nd ref="617800256"/>
+    <nd ref="618196532"/>
+    <nd ref="617220206"/>
+    <nd ref="613059331"/>
+    <nd ref="614226852"/>
+    <nd ref="613993561"/>
+    <nd ref="617896169"/>
+    <nd ref="613314144"/>
+    <nd ref="614241055"/>
+    <nd ref="613698347"/>
+    <nd ref="613053802"/>
+    <nd ref="628972050"/>
+    <nd ref="620633744"/>
+    <nd ref="613615380"/>
+    <nd ref="620628229"/>
+    <nd ref="620628218"/>
+    <nd ref="620637720"/>
+    <nd ref="330942237"/>
+    <nd ref="617682639"/>
+    <nd ref="613616408"/>
+    <nd ref="614632594"/>
+    <nd ref="330901263"/>
+    <nd ref="613002942"/>
+    <nd ref="614643108"/>
+    <nd ref="613096017"/>
+    <nd ref="614643109"/>
+    <nd ref="613161504"/>
+    <nd ref="615944313"/>
+    <nd ref="615189235"/>
+    <nd ref="615944292"/>
+    <nd ref="615189238"/>
+    <nd ref="616522753"/>
+    <nd ref="938763426"/>
+    <nd ref="616522733"/>
+    <nd ref="615189242"/>
+    <nd ref="616522736"/>
+    <nd ref="632280055"/>
+    <nd ref="330901277"/>
+    <nd ref="648200424"/>
+    <nd ref="632280058"/>
+    <nd ref="632273339"/>
+    <nd ref="632848552"/>
+    <nd ref="613183309"/>
+    <nd ref="330941931"/>
+    <nd ref="613618488"/>
+    <nd ref="613295194"/>
+    <nd ref="613294208"/>
+    <nd ref="615241558"/>
+    <nd ref="618990953"/>
+    <nd ref="615241589"/>
+    <nd ref="618990952"/>
+    <nd ref="613101966"/>
+    <nd ref="330901307"/>
+    <nd ref="330901304"/>
+    <nd ref="617219604"/>
+    <nd ref="330874048"/>
+    <nd ref="330901296"/>
+    <nd ref="613295119"/>
+    <nd ref="614746781"/>
+    <nd ref="613190208"/>
+    <nd ref="614747992"/>
+    <nd ref="613190348"/>
+    <nd ref="612815303"/>
+    <tag k="attribute_source_date" v="07/10/10"/>
+    <tag k="attribute_source_type" v="MIssion de Terrain"/>
+    <tag k="geometry_source_date" v="07/10/10"/>
+    <tag k="geometry_source_type" v="Walking Papers / Mission GPS"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="operational_status" v="open"/>
+    <tag k="operational_status_quality" v="confirmed"/>
+    <tag k="practicability" v="truck_+_trailer_greater_than_20mt"/>
+    <tag k="source" v="OIM/GIS/DTM"/>
+    <tag k="surface" v="Paved"/>
+    <tag k="surface_condition" v="Smooth_greater_than_40kph"/>
+  </way>
+  <way id="48437893" version="33" timestamp="2011-04-09T02:53:11Z" uid="24440" user="jaakkoh" changeset="7809531">
+    <nd ref="613993863"/>
+    <nd ref="613998938"/>
+    <nd ref="617839295"/>
+    <nd ref="615189224"/>
+    <nd ref="615189227"/>
+    <nd ref="615189222"/>
+    <nd ref="331040954"/>
+    <nd ref="620557145"/>
+    <nd ref="612810411"/>
+    <nd ref="620546469"/>
+    <nd ref="620546472"/>
+    <nd ref="620546475"/>
+    <nd ref="620546478"/>
+    <nd ref="960852796"/>
+    <nd ref="618190133"/>
+    <nd ref="960852808"/>
+    <nd ref="960852942"/>
+    <nd ref="960853084"/>
+    <nd ref="330901229"/>
+    <nd ref="613996591"/>
+    <nd ref="617800256"/>
+    <nd ref="618196532"/>
+    <nd ref="617220206"/>
+    <nd ref="613059331"/>
+    <nd ref="614226852"/>
+    <nd ref="613993561"/>
+    <nd ref="617896169"/>
+    <nd ref="613314144"/>
+    <nd ref="614241055"/>
+    <nd ref="613698347"/>
+    <nd ref="613053802"/>
+    <nd ref="628972050"/>
+    <nd ref="620633744"/>
+    <nd ref="613615380"/>
+    <nd ref="620628229"/>
+    <nd ref="620628218"/>
+    <nd ref="620637720"/>
+    <nd ref="330942237"/>
+    <nd ref="617682639"/>
+    <nd ref="613616408"/>
+    <nd ref="614632594"/>
+    <nd ref="330901263"/>
+    <nd ref="613002942"/>
+    <nd ref="614643108"/>
+    <nd ref="613096017"/>
+    <nd ref="614643109"/>
+    <nd ref="613161504"/>
+    <nd ref="615944313"/>
+    <nd ref="615189235"/>
+    <nd ref="615944292"/>
+    <nd ref="615189238"/>
+    <nd ref="616522753"/>
+    <nd ref="938763426"/>
+    <nd ref="616522733"/>
+    <nd ref="615189242"/>
+    <nd ref="616522736"/>
+    <nd ref="632280055"/>
+    <nd ref="330901277"/>
+    <nd ref="1237997632"/>
+    <nd ref="648200424"/>
+    <nd ref="632280058"/>
+    <nd ref="632273339"/>
+    <nd ref="632848552"/>
+    <nd ref="613183309"/>
+    <nd ref="330941931"/>
+    <nd ref="613618488"/>
+    <nd ref="613295194"/>
+    <nd ref="613294208"/>
+    <nd ref="615241558"/>
+    <nd ref="618990953"/>
+    <nd ref="615241589"/>
+    <nd ref="618990952"/>
+    <nd ref="613101966"/>
+    <nd ref="330901307"/>
+    <nd ref="330901304"/>
+    <nd ref="617219604"/>
+    <nd ref="330874048"/>
+    <nd ref="330901296"/>
+    <nd ref="613295119"/>
+    <nd ref="614746781"/>
+    <nd ref="613190208"/>
+    <nd ref="614747992"/>
+    <nd ref="613190348"/>
+    <nd ref="612815303"/>
+    <tag k="attribute_source_date" v="07/10/10"/>
+    <tag k="attribute_source_type" v="MIssion de Terrain"/>
+    <tag k="geometry_source_date" v="07/10/10"/>
+    <tag k="geometry_source_type" v="Walking Papers / Mission GPS"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="operational_status" v="open"/>
+    <tag k="operational_status_quality" v="confirmed"/>
+    <tag k="practicability" v="truck_+_trailer_greater_than_20mt"/>
+    <tag k="source" v="OIM/GIS/DTM"/>
+    <tag k="surface" v="Paved"/>
+    <tag k="surface_condition" v="Smooth_greater_than_40kph"/>
+  </way>
+  <way id="48437893" version="34" timestamp="2011-06-04T17:54:44Z" uid="398827" user="rlouino" changeset="8341272">
+    <nd ref="613993863"/>
+    <nd ref="613998938"/>
+    <nd ref="617839295"/>
+    <nd ref="615189224"/>
+    <nd ref="615189227"/>
+    <nd ref="615189222"/>
+    <nd ref="331040954"/>
+    <nd ref="620557145"/>
+    <nd ref="612810411"/>
+    <nd ref="620546469"/>
+    <nd ref="620546472"/>
+    <nd ref="620546475"/>
+    <nd ref="620546478"/>
+    <nd ref="960852796"/>
+    <nd ref="618190133"/>
+    <nd ref="960852808"/>
+    <nd ref="960852942"/>
+    <nd ref="960853084"/>
+    <nd ref="330901229"/>
+    <nd ref="613996591"/>
+    <nd ref="617800256"/>
+    <nd ref="618196532"/>
+    <nd ref="617220206"/>
+    <nd ref="613059331"/>
+    <nd ref="614226852"/>
+    <nd ref="613993561"/>
+    <nd ref="617896169"/>
+    <nd ref="613314144"/>
+    <nd ref="614241055"/>
+    <nd ref="613698347"/>
+    <nd ref="613053802"/>
+    <nd ref="628972050"/>
+    <nd ref="620633744"/>
+    <nd ref="613615380"/>
+    <nd ref="620628229"/>
+    <nd ref="620628218"/>
+    <nd ref="620637720"/>
+    <nd ref="330942237"/>
+    <nd ref="617682639"/>
+    <nd ref="613616408"/>
+    <nd ref="614632594"/>
+    <nd ref="330901263"/>
+    <nd ref="613002942"/>
+    <nd ref="614643108"/>
+    <nd ref="613096017"/>
+    <nd ref="614643109"/>
+    <nd ref="613161504"/>
+    <nd ref="615944313"/>
+    <nd ref="615189235"/>
+    <nd ref="615944292"/>
+    <nd ref="615189238"/>
+    <nd ref="616522753"/>
+    <nd ref="938763426"/>
+    <nd ref="616522733"/>
+    <nd ref="615189242"/>
+    <nd ref="616522736"/>
+    <nd ref="632280055"/>
+    <nd ref="330901277"/>
+    <nd ref="1237997632"/>
+    <nd ref="648200424"/>
+    <nd ref="632280058"/>
+    <nd ref="632273339"/>
+    <nd ref="632848552"/>
+    <nd ref="613183309"/>
+    <nd ref="330941931"/>
+    <nd ref="613618488"/>
+    <nd ref="613295194"/>
+    <nd ref="613294208"/>
+    <nd ref="615241558"/>
+    <nd ref="618990953"/>
+    <nd ref="615241589"/>
+    <nd ref="618990952"/>
+    <nd ref="613101966"/>
+    <nd ref="330901307"/>
+    <nd ref="330901304"/>
+    <nd ref="617219604"/>
+    <nd ref="330874048"/>
+    <nd ref="330901296"/>
+    <nd ref="613295119"/>
+    <nd ref="614746781"/>
+    <nd ref="613190208"/>
+    <nd ref="614747992"/>
+    <nd ref="613190348"/>
+    <nd ref="612815303"/>
+    <tag k="attribute_source_date" v="07/10/10"/>
+    <tag k="attribute_source_type" v="MIssion de Terrain"/>
+    <tag k="geometry_source_date" v="07/10/10"/>
+    <tag k="geometry_source_type" v="Walking Papers / Mission GPS"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="Auto Route de Delmas"/>
+    <tag k="operational_status" v="open"/>
+    <tag k="operational_status_quality" v="confirmed"/>
+    <tag k="practicability" v="truck_+_trailer_greater_than_20mt"/>
+    <tag k="source" v="OIM/GIS/DTM"/>
+    <tag k="surface" v="Paved"/>
+    <tag k="surface_condition" v="Smooth_greater_than_40kph"/>
+  </way>
+  <way id="48437893" version="35" timestamp="2011-06-04T20:28:42Z" uid="398827" user="rlouino" changeset="8342809">
+    <nd ref="613993863"/>
+    <nd ref="613998938"/>
+    <nd ref="617839295"/>
+    <nd ref="615189224"/>
+    <nd ref="615189227"/>
+    <nd ref="615189222"/>
+    <nd ref="331040954"/>
+    <nd ref="620557145"/>
+    <nd ref="612810411"/>
+    <nd ref="620546469"/>
+    <nd ref="620546472"/>
+    <nd ref="620546475"/>
+    <nd ref="620546478"/>
+    <nd ref="960852796"/>
+    <nd ref="618190133"/>
+    <nd ref="960852808"/>
+    <nd ref="960852942"/>
+    <nd ref="960853084"/>
+    <nd ref="330901229"/>
+    <nd ref="613996591"/>
+    <nd ref="617800256"/>
+    <nd ref="618196532"/>
+    <nd ref="617220206"/>
+    <nd ref="613059331"/>
+    <nd ref="614226852"/>
+    <nd ref="613993561"/>
+    <nd ref="617896169"/>
+    <nd ref="613314144"/>
+    <nd ref="614241055"/>
+    <nd ref="613698347"/>
+    <nd ref="613053802"/>
+    <nd ref="628972050"/>
+    <nd ref="620633744"/>
+    <nd ref="613615380"/>
+    <nd ref="620628229"/>
+    <nd ref="620628218"/>
+    <nd ref="620637720"/>
+    <nd ref="330942237"/>
+    <nd ref="617682639"/>
+    <nd ref="613616408"/>
+    <nd ref="614632594"/>
+    <nd ref="330901263"/>
+    <nd ref="613002942"/>
+    <nd ref="614643108"/>
+    <nd ref="613096017"/>
+    <nd ref="614643109"/>
+    <nd ref="613161504"/>
+    <nd ref="615944313"/>
+    <nd ref="615189235"/>
+    <nd ref="615944292"/>
+    <nd ref="615189238"/>
+    <nd ref="616522753"/>
+    <nd ref="938763426"/>
+    <nd ref="616522733"/>
+    <nd ref="615189242"/>
+    <nd ref="616522736"/>
+    <nd ref="632280055"/>
+    <nd ref="330901277"/>
+    <nd ref="1237997632"/>
+    <nd ref="648200424"/>
+    <nd ref="632280058"/>
+    <nd ref="632273339"/>
+    <nd ref="632848552"/>
+    <nd ref="613183309"/>
+    <nd ref="330941931"/>
+    <nd ref="613618488"/>
+    <nd ref="613295194"/>
+    <nd ref="613294208"/>
+    <nd ref="615241558"/>
+    <nd ref="618990953"/>
+    <nd ref="615241589"/>
+    <nd ref="618990952"/>
+    <nd ref="613101966"/>
+    <nd ref="330901307"/>
+    <nd ref="330901304"/>
+    <nd ref="617219604"/>
+    <nd ref="330874048"/>
+    <nd ref="330901296"/>
+    <nd ref="613295119"/>
+    <nd ref="614746781"/>
+    <nd ref="613190208"/>
+    <nd ref="614747992"/>
+    <nd ref="613190348"/>
+    <nd ref="612815303"/>
+    <tag k="attribute_source_date" v="07/10/10"/>
+    <tag k="attribute_source_type" v="MIssion de Terrain"/>
+    <tag k="geometry_source_date" v="07/10/10"/>
+    <tag k="geometry_source_type" v="Walking Papers / Mission GPS"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Auto Route de Delmas"/>
+    <tag k="operational_status" v="open"/>
+    <tag k="operational_status_quality" v="confirmed"/>
+    <tag k="practicability" v="truck_+_trailer_greater_than_20mt"/>
+    <tag k="source" v="OIM/GIS/DTM"/>
+    <tag k="surface" v="Paved"/>
+    <tag k="surface_condition" v="Smooth_greater_than_40kph"/>
+  </way>
+  <way id="48437893" version="36" timestamp="2011-06-05T17:33:59Z" uid="24440" user="jaakkoh" changeset="8351772">
+    <nd ref="613993863"/>
+    <nd ref="613998938"/>
+    <nd ref="617839295"/>
+    <nd ref="615189224"/>
+    <nd ref="615189227"/>
+    <nd ref="615189222"/>
+    <nd ref="331040954"/>
+    <nd ref="620557145"/>
+    <nd ref="612810411"/>
+    <nd ref="620546469"/>
+    <nd ref="620546472"/>
+    <nd ref="620546475"/>
+    <nd ref="620546478"/>
+    <nd ref="960852796"/>
+    <nd ref="618190133"/>
+    <nd ref="960852808"/>
+    <nd ref="960852942"/>
+    <nd ref="960853084"/>
+    <nd ref="330901229"/>
+    <nd ref="613996591"/>
+    <nd ref="617800256"/>
+    <nd ref="618196532"/>
+    <nd ref="617220206"/>
+    <nd ref="613059331"/>
+    <nd ref="614226852"/>
+    <nd ref="613993561"/>
+    <nd ref="617896169"/>
+    <nd ref="613314144"/>
+    <nd ref="614241055"/>
+    <nd ref="613698347"/>
+    <nd ref="613053802"/>
+    <nd ref="628972050"/>
+    <nd ref="620633744"/>
+    <nd ref="613615380"/>
+    <nd ref="620628229"/>
+    <nd ref="620628218"/>
+    <nd ref="620637720"/>
+    <nd ref="330942237"/>
+    <nd ref="617682639"/>
+    <nd ref="613616408"/>
+    <nd ref="614632594"/>
+    <nd ref="330901263"/>
+    <nd ref="613002942"/>
+    <nd ref="614643108"/>
+    <nd ref="613096017"/>
+    <nd ref="614643109"/>
+    <nd ref="613161504"/>
+    <nd ref="615944313"/>
+    <nd ref="615189235"/>
+    <nd ref="615944292"/>
+    <nd ref="615189238"/>
+    <nd ref="616522753"/>
+    <nd ref="938763426"/>
+    <nd ref="616522733"/>
+    <tag k="attribute_source_date" v="07/10/10"/>
+    <tag k="attribute_source_type" v="MIssion de Terrain"/>
+    <tag k="geometry_source_date" v="07/10/10"/>
+    <tag k="geometry_source_type" v="Walking Papers / Mission GPS"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Auto Route de Delmas"/>
+    <tag k="operational_status" v="open"/>
+    <tag k="operational_status_quality" v="confirmed"/>
+    <tag k="practicability" v="truck_+_trailer_greater_than_20mt"/>
+    <tag k="source" v="OIM/GIS/DTM"/>
+    <tag k="surface" v="Paved"/>
+    <tag k="surface_condition" v="Smooth_greater_than_40kph"/>
+  </way>
+  <way id="48437893" version="37" timestamp="2011-07-01T18:19:17Z" uid="36894" user="rab" changeset="8601757">
+    <nd ref="613993863"/>
+    <nd ref="613998938"/>
+    <nd ref="617839295"/>
+    <nd ref="615189224"/>
+    <nd ref="615189227"/>
+    <nd ref="615189222"/>
+    <nd ref="331040954"/>
+    <nd ref="620557145"/>
+    <nd ref="948178013"/>
+    <nd ref="612810411"/>
+    <nd ref="620546469"/>
+    <nd ref="620546472"/>
+    <nd ref="620546475"/>
+    <nd ref="620546478"/>
+    <nd ref="1346018229"/>
+    <nd ref="960852796"/>
+    <nd ref="618190133"/>
+    <nd ref="960852808"/>
+    <nd ref="960852942"/>
+    <nd ref="960853084"/>
+    <nd ref="330901229"/>
+    <nd ref="613996591"/>
+    <nd ref="617800256"/>
+    <nd ref="618196532"/>
+    <nd ref="617220206"/>
+    <nd ref="613059331"/>
+    <nd ref="614226852"/>
+    <nd ref="613993561"/>
+    <nd ref="617896169"/>
+    <nd ref="613314144"/>
+    <nd ref="614241055"/>
+    <nd ref="613698347"/>
+    <nd ref="613053802"/>
+    <nd ref="628972050"/>
+    <nd ref="620633744"/>
+    <nd ref="613615380"/>
+    <nd ref="620628229"/>
+    <nd ref="620628218"/>
+    <nd ref="620637720"/>
+    <nd ref="330942237"/>
+    <nd ref="617682639"/>
+    <nd ref="613616408"/>
+    <nd ref="614632594"/>
+    <nd ref="330901263"/>
+    <nd ref="613002942"/>
+    <nd ref="614643108"/>
+    <nd ref="613096017"/>
+    <nd ref="614643109"/>
+    <nd ref="613161504"/>
+    <nd ref="615944313"/>
+    <nd ref="615189235"/>
+    <nd ref="615944292"/>
+    <nd ref="615189238"/>
+    <nd ref="616522753"/>
+    <nd ref="938763426"/>
+    <nd ref="616522733"/>
+    <tag k="attribute_source_date" v="07/10/10"/>
+    <tag k="attribute_source_type" v="MIssion de Terrain"/>
+    <tag k="geometry_source_date" v="07/10/10"/>
+    <tag k="geometry_source_type" v="Walking Papers / Mission GPS"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Auto Route de Delmas"/>
+    <tag k="operational_status" v="open"/>
+    <tag k="operational_status_quality" v="confirmed"/>
+    <tag k="practicability" v="truck_+_trailer_greater_than_20mt"/>
+    <tag k="source" v="OIM/GIS/DTM"/>
+    <tag k="surface" v="Paved"/>
+    <tag k="surface_condition" v="Smooth_greater_than_40kph"/>
+  </way>
+  <way id="48437893" version="38" timestamp="2011-09-13T15:03:21Z" uid="441065" user="ALCE SamuelPaul" changeset="9290308">
+    <nd ref="613993863"/>
+    <nd ref="613998938"/>
+    <nd ref="617839295"/>
+    <nd ref="615189224"/>
+    <nd ref="615189227"/>
+    <nd ref="615189222"/>
+    <nd ref="331040954"/>
+    <tag k="attribute_source_date" v="07/10/10"/>
+    <tag k="attribute_source_type" v="MIssion de Terrain"/>
+    <tag k="geometry_source_date" v="07/10/10"/>
+    <tag k="geometry_source_type" v="Walking Papers / Mission GPS"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Auto Route de Delmas"/>
+    <tag k="operational_status" v="open"/>
+    <tag k="operational_status_quality" v="confirmed"/>
+    <tag k="practicability" v="truck_+_trailer_greater_than_20mt"/>
+    <tag k="source" v="OIM/GIS/DTM"/>
+    <tag k="surface" v="Paved"/>
+    <tag k="surface_condition" v="Smooth_greater_than_40kph"/>
+  </way>
+  <way id="48437893" version="39" timestamp="2011-12-13T02:28:54Z" uid="231539" user="Xapitoun" changeset="10104668">
+    <nd ref="613993863"/>
+    <nd ref="613998938"/>
+    <nd ref="617839295"/>
+    <nd ref="615189224"/>
+    <nd ref="615189227"/>
+    <nd ref="615189222"/>
+    <nd ref="331040954"/>
+    <tag k="attribute_source_date" v="07/10/10"/>
+    <tag k="attribute_source_type" v="MIssion de Terrain"/>
+    <tag k="geometry_source_date" v="07/10/10"/>
+    <tag k="geometry_source_type" v="Walking Papers / Mission GPS"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Autoroute de Delmas"/>
+    <tag k="operational_status" v="open"/>
+    <tag k="operational_status_quality" v="confirmed"/>
+    <tag k="practicability" v="truck_+_trailer_greater_than_20mt"/>
+    <tag k="source" v="OIM/GIS/DTM"/>
+    <tag k="surface" v="Paved"/>
+    <tag k="surface_condition" v="Smooth_greater_than_40kph"/>
+  </way>
+  <way id="48437893" version="40" timestamp="2012-03-28T19:31:25Z" uid="24440" user="jaakkoh" changeset="11130372"/>
+  <way id="48437895" version="1" timestamp="2010-01-17T10:19:42Z" uid="8619" user="cetest" changeset="3639161">
+    <nd ref="612815303"/>
+    <nd ref="612815315"/>
+    <nd ref="612815305"/>
+    <nd ref="612815306"/>
+    <nd ref="614496494"/>
+    <nd ref="612815424"/>
+    <nd ref="614551073"/>
+    <nd ref="612815308"/>
+    <tag k="haiti:code" v="AX"/>
+    <tag k="haiti:import_file" v="5.osm"/>
+    <tag k="haiti:nom" v="None"/>
+    <tag k="haiti:nom2" v="None"/>
+    <tag k="haiti:objectid" v="1018"/>
+    <tag k="haiti:source" v="CNIGS and CartONG"/>
+    <tag k="haiti:source_file" v="intersect8_polyid__5.shp"/>
+    <tag k="haiti:type" v="Autre Route"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Route de Delmas"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+  <way id="48437895" version="4" timestamp="2010-09-24T15:08:07Z" uid="294075" user="fenel" changeset="5863570">
+    <nd ref="612815303"/>
+    <nd ref="612815315"/>
+    <nd ref="617474318"/>
+    <nd ref="612815305"/>
+    <nd ref="612815306"/>
+    <nd ref="614496494"/>
+    <nd ref="612815424"/>
+    <nd ref="614551073"/>
+    <nd ref="612815308"/>
+    <tag k="Operational_status" v="open"/>
+    <tag k="Operational_status_quality" v="confirmed"/>
+    <tag k="Practicability" v="heavy_truck_less_than_20mt"/>
+    <tag k="Surface" v="Dirt/Sand"/>
+    <tag k="SurfaceCondition" v="Rough_less_than_40kph"/>
+    <tag k="attribute_source_date" v="20/09/10"/>
+    <tag k="attribute_source_type" v="Mission de Terrain"/>
+    <tag k="geometry_source_date" v="20/09/10"/>
+    <tag k="geometry_source_type" v="Walking papers/Mission GPS"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Delmas 41"/>
+    <tag k="source" v="CNIGS/OIM/FOCS"/>
+  </way>
+  <way id="48437895" version="5" timestamp="2010-11-12T01:20:48Z" uid="98876" user="rsoden" changeset="6347888">
+    <nd ref="612815303"/>
+    <nd ref="612815315"/>
+    <nd ref="617474318"/>
+    <nd ref="612815305"/>
+    <nd ref="612815306"/>
+    <nd ref="614496494"/>
+    <nd ref="612815424"/>
+    <nd ref="614551073"/>
+    <nd ref="612815308"/>
+    <tag k="Practicability" v="heavy_truck_less_than_20mt"/>
+    <tag k="Surface" v="Dirt/Sand"/>
+    <tag k="SurfaceCondition" v="Rough_less_than_40kph"/>
+    <tag k="attribute_source_date" v="20/09/10"/>
+    <tag k="attribute_source_type" v="Mission de Terrain"/>
+    <tag k="geometry_source_date" v="20/09/10"/>
+    <tag k="geometry_source_type" v="Walking papers/Mission GPS"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Delmas 41"/>
+    <tag k="operational_status" v="open"/>
+    <tag k="operational_status_quality" v="confirmed"/>
+    <tag k="source" v="CNIGS/OIM/FOCS"/>
+  </way>
+  <way id="48437895" version="6" timestamp="2010-11-12T22:31:34Z" uid="98876" user="rsoden" changeset="6354586">
+    <nd ref="612815303"/>
+    <nd ref="612815315"/>
+    <nd ref="617474318"/>
+    <nd ref="612815305"/>
+    <nd ref="612815306"/>
+    <nd ref="614496494"/>
+    <nd ref="612815424"/>
+    <nd ref="614551073"/>
+    <nd ref="612815308"/>
+    <tag k="Surface" v="Dirt/Sand"/>
+    <tag k="SurfaceCondition" v="Rough_less_than_40kph"/>
+    <tag k="attribute_source_date" v="20/09/10"/>
+    <tag k="attribute_source_type" v="Mission de Terrain"/>
+    <tag k="geometry_source_date" v="20/09/10"/>
+    <tag k="geometry_source_type" v="Walking papers/Mission GPS"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Delmas 41"/>
+    <tag k="operational_status" v="open"/>
+    <tag k="operational_status_quality" v="confirmed"/>
+    <tag k="practicability" v="heavy_truck_less_than_20mt"/>
+    <tag k="source" v="CNIGS/OIM/FOCS"/>
+  </way>
+  <way id="48437895" version="7" timestamp="2010-11-13T14:07:13Z" uid="98876" user="rsoden" changeset="6358183">
+    <nd ref="612815303"/>
+    <nd ref="612815315"/>
+    <nd ref="617474318"/>
+    <nd ref="612815305"/>
+    <nd ref="612815306"/>
+    <nd ref="614496494"/>
+    <nd ref="612815424"/>
+    <nd ref="614551073"/>
+    <nd ref="612815308"/>
+    <tag k="attribute_source_date" v="20/09/10"/>
+    <tag k="attribute_source_type" v="Mission de Terrain"/>
+    <tag k="geometry_source_date" v="20/09/10"/>
+    <tag k="geometry_source_type" v="Walking papers/Mission GPS"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Delmas 41"/>
+    <tag k="operational_status" v="open"/>
+    <tag k="operational_status_quality" v="confirmed"/>
+    <tag k="practicability" v="heavy_truck_less_than_20mt"/>
+    <tag k="source" v="CNIGS/OIM/FOCS"/>
+    <tag k="surface" v="Dirt/Sand"/>
+    <tag k="surface_condition" v="Rough_less_than_40kph"/>
+  </way>
+  <way id="48437895" version="8" timestamp="2011-04-02T23:14:58Z" uid="24440" user="jaakkoh" changeset="7749252">
+    <nd ref="612815303"/>
+    <nd ref="612815315"/>
+    <nd ref="617474318"/>
+    <nd ref="612815305"/>
+    <nd ref="612815306"/>
+    <nd ref="614496494"/>
+    <nd ref="612815424"/>
+    <nd ref="614551073"/>
+    <nd ref="612815308"/>
+    <tag k="attribute_source_date" v="20/09/10"/>
+    <tag k="attribute_source_type" v="Mission de Terrain"/>
+    <tag k="geometry_source_date" v="20/09/10"/>
+    <tag k="geometry_source_type" v="Walking papers/Mission GPS"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Delmas 41"/>
+    <tag k="operational_status" v="open"/>
+    <tag k="operational_status_quality" v="confirmed"/>
+    <tag k="practicability" v="heavy_truck_less_than_20mt"/>
+    <tag k="source" v="CNIGS/OIM/FOCS"/>
+    <tag k="surface" v="Dirt/Sand"/>
+    <tag k="surface_condition" v="Rough_less_than_40kph"/>
+  </way>
+  <way id="48437895" version="9" timestamp="2011-06-05T17:33:58Z" uid="24440" user="jaakkoh" changeset="8351772">
+    <nd ref="612815303"/>
+    <nd ref="1313276543"/>
+    <nd ref="612815315"/>
+    <nd ref="617474318"/>
+    <nd ref="612815305"/>
+    <nd ref="612815306"/>
+    <nd ref="614496494"/>
+    <nd ref="612815424"/>
+    <nd ref="614551073"/>
+    <nd ref="612815308"/>
+    <tag k="attribute_source_date" v="20/09/10"/>
+    <tag k="attribute_source_type" v="Mission de Terrain"/>
+    <tag k="geometry_source_date" v="20/09/10"/>
+    <tag k="geometry_source_type" v="Walking papers/Mission GPS"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Delmas 41"/>
+    <tag k="operational_status" v="open"/>
+    <tag k="operational_status_quality" v="confirmed"/>
+    <tag k="practicability" v="heavy_truck_less_than_20mt"/>
+    <tag k="source" v="CNIGS/OIM/FOCS"/>
+    <tag k="surface" v="Dirt/Sand"/>
+    <tag k="surface_condition" v="Rough_less_than_40kph"/>
+  </way>
+  <way id="48437895" version="10" timestamp="2012-03-29T08:18:23Z" uid="24440" user="jaakkoh" changeset="11134734"/>
+</osm>

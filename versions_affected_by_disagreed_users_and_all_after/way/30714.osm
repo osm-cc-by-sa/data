@@ -1,0 +1,920 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="30714052" version="2" timestamp="2009-02-07T17:06:38Z" uid="6975" user="ulfl" changeset="238208">
+    <nd ref="339686120"/>
+    <nd ref="339686118"/>
+    <tag k="highway" v="track"/>
+    <tag k="tracktype" v="grade1"/>
+  </way>
+  <way id="30714052" version="3" timestamp="2009-02-10T20:21:43Z" uid="68883" user="jik" changeset="335000">
+    <nd ref="339686120"/>
+    <nd ref="339686118"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="30714054" version="2" timestamp="2009-02-07T17:06:38Z" uid="6975" user="ulfl" changeset="238208">
+    <nd ref="339686118"/>
+    <nd ref="339686122"/>
+    <nd ref="339686125"/>
+    <nd ref="339686126"/>
+    <nd ref="339686128"/>
+    <nd ref="339686130"/>
+    <nd ref="339686133"/>
+    <nd ref="339686134"/>
+    <nd ref="339686135"/>
+    <nd ref="339686137"/>
+    <tag k="highway" v="track"/>
+    <tag k="kct_green" v="major"/>
+    <tag k="source" v="gps; cuzk:km"/>
+    <tag k="tracktype" v="grade1"/>
+  </way>
+  <way id="30714054" version="5" timestamp="2009-02-10T20:20:49Z" uid="68883" user="jik" changeset="335000">
+    <nd ref="339686118"/>
+    <nd ref="339686122"/>
+    <nd ref="339686125"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="highway" v="track"/>
+    <tag k="kct_green" v="major"/>
+    <tag k="source" v="gps; cuzk:km"/>
+    <tag k="tracktype" v="grade1"/>
+  </way>
+  <way id="30714054" version="6" timestamp="2009-02-10T20:21:20Z" uid="68883" user="jik" changeset="335000">
+    <nd ref="339686118"/>
+    <nd ref="339686122"/>
+    <nd ref="339686125"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="highway" v="service"/>
+    <tag k="kct_green" v="major"/>
+    <tag k="source" v="gps; cuzk:km"/>
+  </way>
+  <way id="30714054" version="7" timestamp="2009-10-03T17:22:25Z" uid="68883" user="jik" changeset="2727023">
+    <nd ref="339686118"/>
+    <nd ref="339686122"/>
+    <nd ref="519155303"/>
+    <nd ref="339686125"/>
+    <tag k="highway" v="service"/>
+    <tag k="kct_green" v="major"/>
+    <tag k="source" v="gps; cuzk:km"/>
+  </way>
+  <way id="30714054" version="8" timestamp="2010-01-03T01:34:31Z" uid="17615" user="Petr Dlouhý" changeset="3524890">
+    <nd ref="339686118"/>
+    <nd ref="339686122"/>
+    <nd ref="519155303"/>
+    <nd ref="339686125"/>
+    <tag k="highway" v="service"/>
+    <tag k="source" v="gps; cuzk:km"/>
+  </way>
+  <way id="30714118" version="2" timestamp="2009-04-02T14:05:00Z" uid="20587" user="balrog-kun" changeset="58274"/>
+  <way id="30714147" version="3" timestamp="2009-12-09T21:16:15Z" uid="200463" user="harmagedon" changeset="3336909">
+    <nd ref="267166105"/>
+    <nd ref="253559223"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="ref" v="S 165"/>
+  </way>
+  <way id="30714148" version="4" timestamp="2009-12-09T21:16:15Z" uid="200463" user="harmagedon" changeset="3336909">
+    <nd ref="253559223"/>
+    <nd ref="438115594"/>
+    <nd ref="267166355"/>
+    <nd ref="438115595"/>
+    <nd ref="253559225"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="ref" v="S 165"/>
+  </way>
+  <way id="30714151" version="3" timestamp="2009-12-09T21:16:16Z" uid="200463" user="harmagedon" changeset="3336909">
+    <nd ref="267165659"/>
+    <nd ref="267165660"/>
+    <nd ref="253559215"/>
+    <nd ref="267165661"/>
+    <nd ref="253559217"/>
+    <nd ref="253559219"/>
+    <nd ref="253559221"/>
+    <nd ref="267166105"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="ref" v="S 165"/>
+  </way>
+  <way id="30714151" version="4" timestamp="2010-05-29T19:11:46Z" uid="174775" user="mr-malcom" changeset="4845641">
+    <nd ref="267165659"/>
+    <nd ref="267165660"/>
+    <nd ref="253559215"/>
+    <nd ref="267165661"/>
+    <nd ref="757252307"/>
+    <nd ref="253559217"/>
+    <nd ref="253559219"/>
+    <nd ref="253559221"/>
+    <nd ref="267166105"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="ref" v="S 165"/>
+  </way>
+  <way id="30714306" version="2" timestamp="2009-06-10T06:20:19Z" uid="20587" user="balrog-kun" changeset="1474195">
+    <nd ref="65128328"/>
+    <nd ref="65128324"/>
+    <nd ref="65128321"/>
+    <nd ref="65128316"/>
+    <nd ref="65128310"/>
+    <nd ref="65128306"/>
+    <nd ref="65128304"/>
+    <nd ref="65128299"/>
+    <nd ref="34092107"/>
+    <tag k="created_by" v="Merkaartor 0.12"/>
+    <tag k="highway" v="primary"/>
+    <tag k="int_ref" v="E 75"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="1"/>
+  </way>
+  <way id="30714306" version="3" timestamp="2010-01-03T13:04:32Z" uid="86504" user="Thomas8122" changeset="3527606">
+    <nd ref="65128328"/>
+    <nd ref="65128324"/>
+    <nd ref="65128321"/>
+    <nd ref="65128316"/>
+    <nd ref="65128310"/>
+    <nd ref="65128306"/>
+    <nd ref="65128304"/>
+    <nd ref="65128299"/>
+    <nd ref="34092107"/>
+    <tag k="highway" v="primary"/>
+    <tag k="int_ref" v="E 75"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="1"/>
+  </way>
+  <way id="30714306" version="4" timestamp="2010-01-03T21:44:37Z" uid="86504" user="Thomas8122" changeset="3532983">
+    <nd ref="65128328"/>
+    <nd ref="65128324"/>
+    <nd ref="65128321"/>
+    <nd ref="65128316"/>
+    <nd ref="65128310"/>
+    <nd ref="65128306"/>
+    <nd ref="65128304"/>
+    <nd ref="65128299"/>
+    <nd ref="603943829"/>
+    <nd ref="34092107"/>
+    <tag k="highway" v="primary"/>
+    <tag k="int_ref" v="E 75"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="1"/>
+  </way>
+  <way id="30714306" version="5" timestamp="2010-01-03T21:46:17Z" uid="86504" user="Thomas8122" changeset="3532983">
+    <nd ref="65128328"/>
+    <nd ref="65128324"/>
+    <nd ref="65128321"/>
+    <nd ref="65128316"/>
+    <nd ref="65128310"/>
+    <nd ref="65128306"/>
+    <nd ref="603944639"/>
+    <nd ref="65128304"/>
+    <nd ref="65128299"/>
+    <nd ref="603943829"/>
+    <nd ref="34092107"/>
+    <tag k="highway" v="primary"/>
+    <tag k="int_ref" v="E 75"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="1"/>
+  </way>
+  <way id="30714306" version="6" timestamp="2010-01-03T21:46:59Z" uid="86504" user="Thomas8122" changeset="3532983">
+    <nd ref="65128328"/>
+    <nd ref="65128324"/>
+    <nd ref="65128321"/>
+    <nd ref="65128316"/>
+    <nd ref="65128310"/>
+    <nd ref="65128306"/>
+    <nd ref="603944639"/>
+    <nd ref="65128304"/>
+    <nd ref="603944856"/>
+    <nd ref="65128299"/>
+    <nd ref="603943829"/>
+    <nd ref="34092107"/>
+    <tag k="highway" v="primary"/>
+    <tag k="int_ref" v="E 75"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="1"/>
+  </way>
+  <way id="30714306" version="7" timestamp="2010-01-03T21:48:20Z" uid="86504" user="Thomas8122" changeset="3532983">
+    <nd ref="65128328"/>
+    <nd ref="65128324"/>
+    <nd ref="65128321"/>
+    <nd ref="65128316"/>
+    <nd ref="65128310"/>
+    <nd ref="65128306"/>
+    <nd ref="603944639"/>
+    <nd ref="65128304"/>
+    <nd ref="603944856"/>
+    <nd ref="65128299"/>
+    <nd ref="603945113"/>
+    <nd ref="603943829"/>
+    <nd ref="34092107"/>
+    <tag k="highway" v="primary"/>
+    <tag k="int_ref" v="E 75"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="1"/>
+  </way>
+  <way id="30714306" version="8" timestamp="2010-07-28T20:47:47Z" uid="91056" user="Yarl" changeset="5342047">
+    <nd ref="65128328"/>
+    <nd ref="65128324"/>
+    <nd ref="65128321"/>
+    <nd ref="65128316"/>
+    <nd ref="65128310"/>
+    <nd ref="65128306"/>
+    <nd ref="603944639"/>
+    <nd ref="65128304"/>
+    <nd ref="603944856"/>
+    <nd ref="65128299"/>
+    <nd ref="603945113"/>
+    <nd ref="603943829"/>
+    <nd ref="34092107"/>
+    <nd ref="603945505"/>
+    <nd ref="604977962"/>
+    <nd ref="604978235"/>
+    <nd ref="34092097"/>
+    <tag k="highway" v="primary"/>
+    <tag k="int_ref" v="E 75"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="1"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="30714306" version="9" timestamp="2010-12-16T16:31:02Z" uid="163896" user="Zbigniew Czernik" changeset="6678240">
+    <nd ref="65128328"/>
+    <nd ref="65128324"/>
+    <nd ref="65128321"/>
+    <nd ref="65128316"/>
+    <nd ref="65128310"/>
+    <nd ref="65128306"/>
+    <nd ref="603944639"/>
+    <nd ref="65128304"/>
+    <nd ref="603944856"/>
+    <nd ref="65128299"/>
+    <nd ref="1041319908"/>
+    <nd ref="603945113"/>
+    <nd ref="603943829"/>
+    <nd ref="34092107"/>
+    <nd ref="603945505"/>
+    <tag k="highway" v="primary"/>
+    <tag k="int_ref" v="E 75"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="1"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="30714306" version="10" timestamp="2011-08-20T21:30:03Z" uid="230707" user="stanton" changeset="9078584">
+    <nd ref="65128328"/>
+    <nd ref="65128324"/>
+    <nd ref="65128321"/>
+    <nd ref="65128316"/>
+    <nd ref="65128310"/>
+    <nd ref="65128306"/>
+    <nd ref="603944639"/>
+    <nd ref="65128304"/>
+    <nd ref="603944856"/>
+    <nd ref="65128299"/>
+    <nd ref="1041319908"/>
+    <nd ref="603945113"/>
+    <nd ref="603943829"/>
+    <nd ref="1406377432"/>
+    <nd ref="1406377471"/>
+    <nd ref="34092107"/>
+    <nd ref="603945505"/>
+    <tag k="highway" v="primary"/>
+    <tag k="int_ref" v="E 75"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="1"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="30714314" version="29" timestamp="2009-06-10T06:20:17Z" uid="20587" user="balrog-kun" changeset="1474195">
+    <nd ref="321857754"/>
+    <nd ref="339696767"/>
+    <nd ref="418127769"/>
+    <nd ref="339696770"/>
+    <nd ref="418127770"/>
+    <nd ref="339696772"/>
+    <nd ref="411573081"/>
+    <nd ref="339696773"/>
+    <nd ref="339696775"/>
+    <nd ref="418038674"/>
+    <nd ref="418038638"/>
+    <nd ref="339696776"/>
+    <nd ref="339696778"/>
+    <nd ref="339696780"/>
+    <nd ref="339696782"/>
+    <nd ref="409010940"/>
+    <nd ref="339696783"/>
+    <nd ref="339696786"/>
+    <nd ref="339696788"/>
+    <nd ref="339696789"/>
+    <nd ref="418127771"/>
+    <nd ref="339696792"/>
+    <nd ref="339696794"/>
+    <nd ref="339696797"/>
+    <nd ref="339696798"/>
+    <nd ref="339696800"/>
+    <nd ref="339696806"/>
+    <nd ref="339696807"/>
+    <nd ref="339696809"/>
+    <nd ref="339696811"/>
+    <nd ref="339696813"/>
+    <nd ref="339696814"/>
+    <nd ref="339696816"/>
+    <nd ref="339696818"/>
+    <nd ref="351141969"/>
+    <nd ref="351141973"/>
+    <nd ref="351141971"/>
+    <nd ref="339696820"/>
+    <nd ref="339696822"/>
+    <nd ref="339696824"/>
+    <nd ref="339696827"/>
+    <nd ref="339696831"/>
+    <nd ref="339696839"/>
+    <nd ref="339696845"/>
+    <nd ref="339696849"/>
+    <nd ref="339696854"/>
+    <nd ref="339696859"/>
+    <nd ref="339696865"/>
+    <nd ref="339696868"/>
+    <nd ref="339696871"/>
+    <nd ref="339696874"/>
+    <nd ref="339696875"/>
+    <nd ref="339696879"/>
+    <nd ref="339696881"/>
+    <nd ref="339696884"/>
+    <nd ref="339696886"/>
+    <nd ref="339696889"/>
+    <nd ref="339696891"/>
+    <nd ref="339696897"/>
+    <nd ref="339696899"/>
+    <nd ref="339696902"/>
+    <nd ref="339696906"/>
+    <nd ref="339696908"/>
+    <nd ref="351136942"/>
+    <nd ref="339696911"/>
+    <nd ref="339696921"/>
+    <nd ref="339696925"/>
+    <nd ref="339696930"/>
+    <nd ref="339696935"/>
+    <nd ref="339696939"/>
+    <nd ref="339696946"/>
+    <nd ref="339696948"/>
+    <nd ref="339696952"/>
+    <nd ref="339696954"/>
+    <nd ref="339696958"/>
+    <nd ref="339696960"/>
+    <nd ref="339696967"/>
+    <nd ref="339696970"/>
+    <nd ref="339696973"/>
+    <nd ref="339696977"/>
+    <nd ref="339696980"/>
+    <nd ref="339696982"/>
+    <nd ref="339696985"/>
+    <nd ref="339696989"/>
+    <nd ref="339696991"/>
+    <nd ref="339696994"/>
+    <nd ref="339696996"/>
+    <nd ref="339697000"/>
+    <nd ref="339697004"/>
+    <nd ref="339697010"/>
+    <nd ref="339697013"/>
+    <nd ref="339697017"/>
+    <nd ref="339697020"/>
+    <nd ref="339697025"/>
+    <nd ref="393435586"/>
+    <nd ref="393433657"/>
+    <nd ref="393445237"/>
+    <nd ref="392676752"/>
+    <nd ref="392676396"/>
+    <tag k="highway" v="primary"/>
+    <tag k="int_ref" v="E 75"/>
+    <tag k="name" v="Aleja Wojska Polskiego"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="30714314" version="30" timestamp="2009-08-18T18:28:03Z" uid="157655" user="sep" changeset="2193325">
+    <nd ref="321857754"/>
+    <nd ref="339696767"/>
+    <nd ref="418127769"/>
+    <nd ref="339696770"/>
+    <nd ref="418127770"/>
+    <nd ref="339696772"/>
+    <nd ref="411573081"/>
+    <nd ref="339696773"/>
+    <nd ref="339696775"/>
+    <nd ref="418038674"/>
+    <nd ref="418038638"/>
+    <nd ref="339696776"/>
+    <nd ref="339696778"/>
+    <nd ref="339696780"/>
+    <nd ref="339696782"/>
+    <nd ref="409010940"/>
+    <nd ref="339696783"/>
+    <nd ref="339696786"/>
+    <nd ref="339696788"/>
+    <nd ref="339696789"/>
+    <nd ref="418127771"/>
+    <nd ref="339696792"/>
+    <nd ref="470511956"/>
+    <nd ref="339696794"/>
+    <nd ref="339696797"/>
+    <nd ref="339696798"/>
+    <nd ref="339696800"/>
+    <nd ref="339696806"/>
+    <nd ref="339696807"/>
+    <nd ref="339696809"/>
+    <nd ref="339696811"/>
+    <nd ref="339696813"/>
+    <nd ref="339696814"/>
+    <nd ref="339696816"/>
+    <nd ref="339696818"/>
+    <nd ref="351141969"/>
+    <nd ref="351141973"/>
+    <nd ref="351141971"/>
+    <nd ref="339696820"/>
+    <nd ref="339696822"/>
+    <nd ref="339696824"/>
+    <nd ref="339696827"/>
+    <nd ref="339696831"/>
+    <nd ref="339696839"/>
+    <nd ref="339696845"/>
+    <nd ref="339696849"/>
+    <nd ref="339696854"/>
+    <nd ref="339696859"/>
+    <nd ref="339696865"/>
+    <nd ref="339696868"/>
+    <nd ref="339696871"/>
+    <nd ref="339696874"/>
+    <nd ref="339696875"/>
+    <nd ref="339696879"/>
+    <nd ref="339696881"/>
+    <nd ref="339696884"/>
+    <nd ref="339696886"/>
+    <nd ref="339696889"/>
+    <nd ref="339696891"/>
+    <nd ref="339696897"/>
+    <nd ref="339696899"/>
+    <nd ref="339696902"/>
+    <nd ref="339696906"/>
+    <nd ref="339696908"/>
+    <nd ref="351136942"/>
+    <nd ref="339696911"/>
+    <nd ref="339696921"/>
+    <nd ref="339696925"/>
+    <nd ref="339696930"/>
+    <nd ref="339696935"/>
+    <nd ref="339696939"/>
+    <nd ref="339696946"/>
+    <nd ref="339696948"/>
+    <nd ref="339696952"/>
+    <nd ref="339696954"/>
+    <nd ref="339696958"/>
+    <nd ref="339696960"/>
+    <nd ref="339696967"/>
+    <nd ref="339696970"/>
+    <nd ref="339696973"/>
+    <nd ref="339696977"/>
+    <nd ref="339696980"/>
+    <nd ref="339696982"/>
+    <nd ref="339696985"/>
+    <nd ref="339696989"/>
+    <nd ref="339696991"/>
+    <nd ref="339696994"/>
+    <nd ref="339696996"/>
+    <nd ref="339697000"/>
+    <nd ref="339697004"/>
+    <nd ref="339697010"/>
+    <nd ref="339697013"/>
+    <nd ref="339697017"/>
+    <nd ref="339697020"/>
+    <nd ref="339697025"/>
+    <nd ref="393435586"/>
+    <nd ref="393433657"/>
+    <nd ref="393445237"/>
+    <nd ref="392676752"/>
+    <nd ref="392676396"/>
+    <tag k="highway" v="primary"/>
+    <tag k="int_ref" v="E 75"/>
+    <tag k="name" v="Aleja Wojska Polskiego"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="30714314" version="31" timestamp="2009-08-18T18:55:00Z" uid="157655" user="sep" changeset="2193725">
+    <nd ref="321857754"/>
+    <nd ref="339696767"/>
+    <nd ref="418127769"/>
+    <nd ref="339696770"/>
+    <nd ref="418127770"/>
+    <nd ref="339696772"/>
+    <nd ref="411573081"/>
+    <nd ref="339696773"/>
+    <nd ref="339696775"/>
+    <nd ref="418038674"/>
+    <nd ref="418038638"/>
+    <nd ref="339696776"/>
+    <nd ref="339696778"/>
+    <nd ref="339696780"/>
+    <nd ref="339696782"/>
+    <nd ref="409010940"/>
+    <nd ref="339696783"/>
+    <nd ref="339696786"/>
+    <nd ref="339696788"/>
+    <nd ref="339696789"/>
+    <nd ref="418127771"/>
+    <nd ref="339696792"/>
+    <nd ref="470511956"/>
+    <nd ref="339696794"/>
+    <nd ref="339696797"/>
+    <nd ref="339696798"/>
+    <nd ref="339696800"/>
+    <nd ref="339696806"/>
+    <nd ref="339696807"/>
+    <nd ref="339696809"/>
+    <nd ref="339696811"/>
+    <nd ref="339696813"/>
+    <nd ref="339696814"/>
+    <nd ref="339696816"/>
+    <nd ref="339696818"/>
+    <nd ref="351141969"/>
+    <nd ref="351141973"/>
+    <nd ref="351141971"/>
+    <nd ref="339696820"/>
+    <nd ref="339696822"/>
+    <nd ref="339696824"/>
+    <nd ref="339696827"/>
+    <nd ref="339696831"/>
+    <nd ref="339696839"/>
+    <nd ref="339696845"/>
+    <nd ref="339696849"/>
+    <nd ref="339696854"/>
+    <nd ref="339696859"/>
+    <nd ref="339696865"/>
+    <nd ref="339696868"/>
+    <nd ref="339696871"/>
+    <nd ref="339696874"/>
+    <nd ref="339696875"/>
+    <nd ref="339696879"/>
+    <nd ref="339696881"/>
+    <nd ref="339696884"/>
+    <nd ref="339696886"/>
+    <nd ref="339696889"/>
+    <nd ref="339696891"/>
+    <nd ref="339696897"/>
+    <nd ref="339696899"/>
+    <nd ref="339696902"/>
+    <nd ref="339696906"/>
+    <nd ref="339696908"/>
+    <nd ref="351136942"/>
+    <nd ref="339696911"/>
+    <nd ref="339696921"/>
+    <nd ref="339696925"/>
+    <nd ref="339696930"/>
+    <nd ref="339696935"/>
+    <nd ref="339696939"/>
+    <nd ref="339696946"/>
+    <nd ref="339696948"/>
+    <nd ref="339696952"/>
+    <nd ref="339696954"/>
+    <nd ref="339696958"/>
+    <nd ref="339696960"/>
+    <nd ref="339696967"/>
+    <nd ref="339696970"/>
+    <nd ref="339696973"/>
+    <nd ref="339696977"/>
+    <nd ref="339696980"/>
+    <nd ref="339696982"/>
+    <nd ref="339696985"/>
+    <nd ref="339696989"/>
+    <nd ref="339696991"/>
+    <nd ref="339696994"/>
+    <nd ref="339696996"/>
+    <nd ref="339697000"/>
+    <nd ref="339697004"/>
+    <nd ref="339697010"/>
+    <nd ref="339697013"/>
+    <nd ref="339697017"/>
+    <nd ref="339697020"/>
+    <nd ref="339697025"/>
+    <nd ref="393435586"/>
+    <nd ref="393433657"/>
+    <nd ref="393445237"/>
+    <nd ref="392676752"/>
+    <nd ref="392676396"/>
+    <tag k="highway" v="primary"/>
+    <tag k="int_ref" v="E 75"/>
+    <tag k="name" v="Aleja Wojska Polskiego"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="30714314" version="32" timestamp="2009-09-05T19:32:04Z" uid="157655" user="sep" changeset="2384475">
+    <nd ref="321857754"/>
+    <nd ref="339696767"/>
+    <nd ref="418127769"/>
+    <nd ref="339696770"/>
+    <nd ref="418127770"/>
+    <nd ref="339696772"/>
+    <nd ref="411573081"/>
+    <nd ref="339696773"/>
+    <nd ref="339696775"/>
+    <nd ref="418038674"/>
+    <nd ref="418038638"/>
+    <nd ref="339696776"/>
+    <nd ref="339696778"/>
+    <nd ref="339696780"/>
+    <nd ref="339696782"/>
+    <nd ref="409010940"/>
+    <nd ref="339696783"/>
+    <nd ref="339696786"/>
+    <nd ref="485181485"/>
+    <nd ref="485181488"/>
+    <nd ref="339696788"/>
+    <nd ref="485181418"/>
+    <nd ref="339696789"/>
+    <nd ref="485181505"/>
+    <nd ref="418127771"/>
+    <nd ref="485181484"/>
+    <nd ref="339696792"/>
+    <nd ref="470511956"/>
+    <nd ref="339696794"/>
+    <nd ref="485181390"/>
+    <nd ref="339696797"/>
+    <nd ref="339696798"/>
+    <nd ref="485181396"/>
+    <tag k="highway" v="primary"/>
+    <tag k="int_ref" v="E 75"/>
+    <tag k="name" v="Aleja Wojska Polskiego"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="30714314" version="33" timestamp="2009-09-05T19:56:08Z" uid="157655" user="sep" changeset="2384725">
+    <nd ref="321857754"/>
+    <nd ref="339696767"/>
+    <nd ref="418127769"/>
+    <nd ref="339696770"/>
+    <nd ref="418127770"/>
+    <nd ref="485202178"/>
+    <nd ref="339696772"/>
+    <nd ref="411573081"/>
+    <nd ref="339696773"/>
+    <nd ref="339696775"/>
+    <nd ref="418038674"/>
+    <nd ref="418038638"/>
+    <nd ref="339696776"/>
+    <nd ref="339696778"/>
+    <nd ref="339696780"/>
+    <nd ref="339696782"/>
+    <nd ref="409010940"/>
+    <nd ref="339696783"/>
+    <nd ref="339696786"/>
+    <nd ref="485202181"/>
+    <nd ref="485181485"/>
+    <nd ref="485181488"/>
+    <nd ref="339696788"/>
+    <nd ref="485181418"/>
+    <nd ref="339696789"/>
+    <nd ref="485181505"/>
+    <nd ref="418127771"/>
+    <nd ref="485181484"/>
+    <nd ref="339696792"/>
+    <nd ref="470511956"/>
+    <nd ref="339696794"/>
+    <nd ref="485181390"/>
+    <nd ref="339696797"/>
+    <nd ref="339696798"/>
+    <nd ref="485181396"/>
+    <tag k="highway" v="primary"/>
+    <tag k="int_ref" v="E 75"/>
+    <tag k="name" v="Aleja Wojska Polskiego"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="30714314" version="34" timestamp="2009-12-22T20:01:12Z" uid="91056" user="Yarl" changeset="3429876">
+    <nd ref="321857754"/>
+    <nd ref="339696767"/>
+    <nd ref="418127769"/>
+    <nd ref="339696770"/>
+    <nd ref="418127770"/>
+    <nd ref="485202178"/>
+    <nd ref="339696772"/>
+    <nd ref="411573081"/>
+    <nd ref="339696773"/>
+    <nd ref="339696775"/>
+    <nd ref="418038674"/>
+    <nd ref="418038638"/>
+    <nd ref="339696776"/>
+    <nd ref="339696778"/>
+    <nd ref="339696780"/>
+    <nd ref="339696782"/>
+    <nd ref="409010940"/>
+    <nd ref="339696783"/>
+    <nd ref="339696786"/>
+    <nd ref="485202181"/>
+    <nd ref="485181485"/>
+    <nd ref="485181488"/>
+    <nd ref="339696788"/>
+    <nd ref="485181418"/>
+    <nd ref="339696789"/>
+    <nd ref="485181505"/>
+    <nd ref="598282155"/>
+    <nd ref="598282154"/>
+    <nd ref="418127771"/>
+    <nd ref="485181484"/>
+    <nd ref="339696792"/>
+    <nd ref="470511956"/>
+    <nd ref="339696794"/>
+    <nd ref="485181390"/>
+    <nd ref="339696797"/>
+    <nd ref="339696798"/>
+    <nd ref="485181396"/>
+    <tag k="highway" v="primary"/>
+    <tag k="int_ref" v="E 75"/>
+    <tag k="name" v="Aleja Wojska Polskiego"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="30714314" version="35" timestamp="2010-07-13T07:18:10Z" uid="157655" user="sep" changeset="5205215">
+    <nd ref="321857754"/>
+    <nd ref="339696767"/>
+    <nd ref="418127769"/>
+    <nd ref="339696770"/>
+    <nd ref="418127770"/>
+    <nd ref="485202178"/>
+    <nd ref="339696772"/>
+    <nd ref="411573081"/>
+    <nd ref="339696773"/>
+    <nd ref="339696775"/>
+    <nd ref="418038674"/>
+    <nd ref="418038638"/>
+    <nd ref="339696776"/>
+    <nd ref="339696778"/>
+    <nd ref="339696780"/>
+    <nd ref="339696782"/>
+    <nd ref="409010940"/>
+    <nd ref="339696783"/>
+    <nd ref="339696786"/>
+    <nd ref="485202181"/>
+    <nd ref="814663683"/>
+    <nd ref="485181488"/>
+    <nd ref="814663311"/>
+    <nd ref="814663916"/>
+    <nd ref="814663839"/>
+    <nd ref="814663582"/>
+    <nd ref="339696788"/>
+    <nd ref="814663656"/>
+    <nd ref="485181418"/>
+    <nd ref="814663235"/>
+    <nd ref="339696789"/>
+    <nd ref="485181505"/>
+    <nd ref="814663960"/>
+    <nd ref="418127771"/>
+    <nd ref="814663579"/>
+    <nd ref="485181484"/>
+    <nd ref="339696792"/>
+    <nd ref="814663559"/>
+    <nd ref="470511956"/>
+    <nd ref="339696794"/>
+    <nd ref="814663212"/>
+    <nd ref="485181390"/>
+    <nd ref="339696797"/>
+    <nd ref="339696798"/>
+    <nd ref="814663729"/>
+    <nd ref="485181396"/>
+    <tag k="highway" v="primary"/>
+    <tag k="int_ref" v="E 75"/>
+    <tag k="name" v="Aleja Wojska Polskiego"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="30714314" version="36" timestamp="2010-07-13T07:21:23Z" uid="157655" user="sep" changeset="5205215">
+    <nd ref="321857754"/>
+    <nd ref="339696767"/>
+    <nd ref="418127769"/>
+    <nd ref="339696770"/>
+    <nd ref="418127770"/>
+    <nd ref="485202178"/>
+    <nd ref="339696772"/>
+    <nd ref="411573081"/>
+    <nd ref="339696773"/>
+    <nd ref="339696775"/>
+    <nd ref="418038674"/>
+    <nd ref="418038638"/>
+    <nd ref="339696776"/>
+    <nd ref="339696778"/>
+    <nd ref="339696780"/>
+    <nd ref="339696782"/>
+    <nd ref="409010940"/>
+    <nd ref="339696783"/>
+    <nd ref="339696786"/>
+    <nd ref="485202181"/>
+    <nd ref="814663683"/>
+    <nd ref="485181488"/>
+    <nd ref="814663311"/>
+    <nd ref="814663916"/>
+    <nd ref="814663839"/>
+    <nd ref="814663582"/>
+    <nd ref="339696788"/>
+    <nd ref="814663656"/>
+    <nd ref="485181418"/>
+    <nd ref="814663235"/>
+    <nd ref="339696789"/>
+    <nd ref="485181505"/>
+    <nd ref="814663960"/>
+    <nd ref="418127771"/>
+    <nd ref="814663579"/>
+    <nd ref="485181484"/>
+    <nd ref="339696792"/>
+    <nd ref="814663559"/>
+    <nd ref="470511956"/>
+    <nd ref="339696794"/>
+    <nd ref="814663212"/>
+    <nd ref="485181390"/>
+    <nd ref="339696797"/>
+    <nd ref="339696798"/>
+    <nd ref="814663729"/>
+    <nd ref="485181396"/>
+    <tag k="highway" v="primary"/>
+    <tag k="int_ref" v="E 75"/>
+    <tag k="name" v="Aleja Wojska Polskiego"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="30714314" version="37" timestamp="2010-07-13T10:03:06Z" uid="157655" user="sep" changeset="5206444">
+    <nd ref="321857754"/>
+    <nd ref="339696767"/>
+    <nd ref="418127769"/>
+    <nd ref="814761472"/>
+    <nd ref="339696770"/>
+    <nd ref="814761421"/>
+    <nd ref="418127770"/>
+    <nd ref="485202178"/>
+    <nd ref="814761400"/>
+    <nd ref="339696772"/>
+    <nd ref="814761362"/>
+    <tag k="highway" v="primary"/>
+    <tag k="int_ref" v="E 75"/>
+    <tag k="name" v="Aleja Wojska Polskiego"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="30714314" version="38" timestamp="2010-11-11T14:49:43Z" uid="91056" user="Yarl" changeset="6344100">
+    <nd ref="789489949"/>
+    <nd ref="321857754"/>
+    <nd ref="339696767"/>
+    <nd ref="418127769"/>
+    <nd ref="814761472"/>
+    <nd ref="339696770"/>
+    <nd ref="814761421"/>
+    <nd ref="418127770"/>
+    <nd ref="485202178"/>
+    <nd ref="814761400"/>
+    <nd ref="339696772"/>
+    <tag k="highway" v="primary"/>
+    <tag k="int_ref" v="E 75"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="Aleja Wojska Polskiego"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="1"/>
+  </way>
+  <way id="30714434" version="2" timestamp="2010-02-25T21:21:47Z" uid="13367" user="nubok" changeset="3975950">
+    <nd ref="339690831"/>
+    <nd ref="339690835"/>
+    <nd ref="653921665"/>
+    <nd ref="339690840"/>
+    <nd ref="339690831"/>
+    <tag k="landuse" v="allotments"/>
+    <tag k="name" v="KGV Klosterbusch"/>
+  </way>
+  <way id="30714434" version="3" timestamp="2011-01-14T20:23:57Z" uid="101337" user="bonzulu" changeset="6970943">
+    <nd ref="339690831"/>
+    <nd ref="339690835"/>
+    <nd ref="339690840"/>
+    <nd ref="1103721439"/>
+    <nd ref="339690831"/>
+    <tag k="landuse" v="allotments"/>
+    <tag k="name" v="KGV Klosterbusch"/>
+  </way>
+  <way id="30714434" version="4" timestamp="2012-02-17T20:41:18Z" uid="13565" user="hadhuey" changeset="10714976"/>
+  <way id="30714782" version="2" timestamp="2010-04-07T13:21:32Z" uid="20587" user="balrog-kun" changeset="4353646">
+    <nd ref="227945049"/>
+    <nd ref="227938878"/>
+    <nd ref="228009278"/>
+    <nd ref="227938892"/>
+    <nd ref="227981098"/>
+    <nd ref="228009282"/>
+    <nd ref="228009285"/>
+    <nd ref="228009289"/>
+    <nd ref="228009293"/>
+    <nd ref="228009297"/>
+    <nd ref="228009301"/>
+    <nd ref="228009302"/>
+    <nd ref="228009305"/>
+    <nd ref="228009308"/>
+    <nd ref="228009312"/>
+    <nd ref="228009315"/>
+    <nd ref="228009318"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Main Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Red River, TX"/>
+    <tag k="tiger:name_base" v="Main"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="68956445:68956048:68956049:68956050:68956052:68956598:68956054"/>
+  </way>
+</osm>

@@ -1,0 +1,765 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="35922003" version="4" timestamp="2009-11-12T01:53:13Z" uid="36809" user="pfoten_weg_!_" changeset="3095145">
+    <nd ref="388187997"/>
+    <nd ref="388188029"/>
+    <nd ref="454583041"/>
+    <nd ref="419899510"/>
+    <nd ref="419899505"/>
+    <nd ref="419899501"/>
+    <tag k="highway" v="track"/>
+    <tag k="name" v="FIXME"/>
+    <tag k="tracktype" v="grade2"/>
+  </way>
+  <way id="35922003" version="5" timestamp="2010-06-13T16:29:38Z" uid="70696" user="xybot" changeset="4980082">
+    <nd ref="388187997"/>
+    <nd ref="388188029"/>
+    <nd ref="454583041"/>
+    <nd ref="419899510"/>
+    <nd ref="419899505"/>
+    <nd ref="419899501"/>
+    <tag k="FIXME" v="name"/>
+    <tag k="highway" v="track"/>
+    <tag k="tracktype" v="grade2"/>
+  </way>
+  <way id="35922003" version="6" timestamp="2011-03-23T07:06:18Z" uid="48185" user="Hans Loderer" changeset="7643842">
+    <nd ref="388187997"/>
+    <nd ref="388188029"/>
+    <nd ref="454583041"/>
+    <nd ref="1214444888"/>
+    <nd ref="419899510"/>
+    <nd ref="419899505"/>
+    <nd ref="419899501"/>
+    <tag k="FIXME" v="name"/>
+    <tag k="highway" v="track"/>
+    <tag k="tracktype" v="grade2"/>
+  </way>
+  <way id="35922004" version="2" timestamp="2009-11-12T01:53:28Z" uid="36809" user="pfoten_weg_!_" changeset="3095145">
+    <nd ref="419899501"/>
+    <nd ref="419899481"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="35922005" version="2" timestamp="2009-11-12T01:53:28Z" uid="36809" user="pfoten_weg_!_" changeset="3095145">
+    <nd ref="419899501"/>
+    <nd ref="419899503"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="FIXME - Weg geht weiter"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="35922005" version="3" timestamp="2010-06-13T16:38:01Z" uid="70696" user="xybot" changeset="4980082">
+    <nd ref="419899501"/>
+    <nd ref="419899503"/>
+    <tag k="FIXME" v="name"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="35922006" version="2" timestamp="2009-11-12T01:53:21Z" uid="36809" user="pfoten_weg_!_" changeset="3095145">
+    <nd ref="419899430"/>
+    <nd ref="419899487"/>
+    <nd ref="419899488"/>
+    <nd ref="419899489"/>
+    <nd ref="419899490"/>
+    <nd ref="419899492"/>
+    <nd ref="419899495"/>
+    <nd ref="419899497"/>
+    <nd ref="419899499"/>
+    <nd ref="419899501"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="35922006" version="3" timestamp="2011-12-30T12:50:34Z" uid="42393" user="mawi42" changeset="10244831">
+    <nd ref="419899430"/>
+    <nd ref="1569136971"/>
+    <nd ref="419899487"/>
+    <nd ref="419899488"/>
+    <nd ref="419899489"/>
+    <nd ref="419899490"/>
+    <nd ref="1569136973"/>
+    <nd ref="419899492"/>
+    <nd ref="419899495"/>
+    <nd ref="1569137007"/>
+    <nd ref="1569136959"/>
+    <nd ref="419899497"/>
+    <nd ref="419899499"/>
+    <nd ref="419899501"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="35922008" version="2" timestamp="2009-11-12T01:53:24Z" uid="36809" user="pfoten_weg_!_" changeset="3095145">
+    <nd ref="419899499"/>
+    <nd ref="419899516"/>
+    <nd ref="419899518"/>
+    <nd ref="419899520"/>
+    <tag k="highway" v="track"/>
+    <tag k="name" v="FIXME - Weg geht weiter"/>
+    <tag k="tracktype" v="grade3"/>
+  </way>
+  <way id="35922008" version="3" timestamp="2010-06-13T16:38:01Z" uid="70696" user="xybot" changeset="4980082">
+    <nd ref="419899499"/>
+    <nd ref="419899516"/>
+    <nd ref="419899518"/>
+    <nd ref="419899520"/>
+    <tag k="FIXME" v="name"/>
+    <tag k="highway" v="track"/>
+    <tag k="tracktype" v="grade3"/>
+  </way>
+  <way id="35922227" version="1" timestamp="2009-06-13T21:06:53Z" uid="9581" user="Lobelt" changeset="1508806">
+    <nd ref="44808884"/>
+    <nd ref="415308183"/>
+    <nd ref="415308173"/>
+    <nd ref="32895186"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="created_by" v="Potlatch 0.9c"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="motorcar" v="destination"/>
+    <tag k="motorcycle" v="destination"/>
+    <tag k="name" v="Am Bahndamm"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="35922227" version="2" timestamp="2009-07-13T16:23:59Z" uid="28234" user="derandi" changeset="1818642">
+    <nd ref="44808884"/>
+    <nd ref="415308183"/>
+    <nd ref="415308173"/>
+    <nd ref="32895186"/>
+    <tag k="access" v="destination"/>
+    <tag k="bicycle" v="designated"/>
+    <tag k="highway" v="path"/>
+    <tag k="name" v="Am Bahndamm"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="35922227" version="3" timestamp="2012-02-13T22:21:39Z" uid="222568" user="Pfad-Finder" changeset="10677042"/>
+  <way id="35922294" version="7" timestamp="2010-03-28T02:18:38Z" uid="20587" user="balrog-kun" changeset="4250871">
+    <nd ref="53062964"/>
+    <nd ref="401382976"/>
+    <nd ref="53017150"/>
+    <nd ref="53062968"/>
+    <nd ref="359390822"/>
+    <nd ref="401372861"/>
+    <nd ref="401372275"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="East Castro Valley Boulevard"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alameda, CA"/>
+    <tag k="tiger:name_base" v="Castro Valley"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="Blvd"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="125047624:125047613:125083632:125016331"/>
+  </way>
+  <way id="35922485" version="5" timestamp="2010-03-28T02:18:39Z" uid="20587" user="balrog-kun" changeset="4250871">
+    <nd ref="401372275"/>
+    <nd ref="419911033"/>
+    <nd ref="419911035"/>
+    <nd ref="419911037"/>
+    <nd ref="419911039"/>
+    <nd ref="419911041"/>
+    <nd ref="419911043"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="East Castro Valley Boulevard"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="35922508" version="14" timestamp="2010-03-28T02:18:39Z" uid="20587" user="balrog-kun" changeset="4250871">
+    <nd ref="401372275"/>
+    <nd ref="53038649"/>
+    <nd ref="53062973"/>
+    <nd ref="53062977"/>
+    <nd ref="53062978"/>
+    <nd ref="53062979"/>
+    <nd ref="53062982"/>
+    <nd ref="651109244"/>
+    <nd ref="651109247"/>
+    <nd ref="651109715"/>
+    <nd ref="401372191"/>
+    <nd ref="651109717"/>
+    <nd ref="651109251"/>
+    <nd ref="401372192"/>
+    <nd ref="53062984"/>
+    <nd ref="651100760"/>
+    <nd ref="651100763"/>
+    <nd ref="651099782"/>
+    <nd ref="53062985"/>
+    <nd ref="651099794"/>
+    <nd ref="651099371"/>
+    <nd ref="53062987"/>
+    <nd ref="651099378"/>
+    <nd ref="651099384"/>
+    <nd ref="53062989"/>
+    <nd ref="53062991"/>
+    <nd ref="53062993"/>
+    <nd ref="53062994"/>
+    <nd ref="651108237"/>
+    <nd ref="651108240"/>
+    <nd ref="651108242"/>
+    <nd ref="53062996"/>
+    <nd ref="651108560"/>
+    <nd ref="651108567"/>
+    <nd ref="651108569"/>
+    <nd ref="53063004"/>
+    <nd ref="53063005"/>
+    <nd ref="657793741"/>
+    <nd ref="657793742"/>
+    <nd ref="53063006"/>
+    <nd ref="53020522"/>
+    <nd ref="657792953"/>
+    <nd ref="53063009"/>
+    <nd ref="53063010"/>
+    <nd ref="419915597"/>
+    <nd ref="419915598"/>
+    <nd ref="419915599"/>
+    <nd ref="53020532"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="East Castro Valley Boulevard"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alameda, CA"/>
+    <tag k="tiger:name_base" v="Castro Valley"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="Blvd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="125047624:125047613:125083632:125016331"/>
+  </way>
+  <way id="35922509" version="4" timestamp="2010-03-28T02:18:39Z" uid="20587" user="balrog-kun" changeset="4250871">
+    <nd ref="419911043"/>
+    <nd ref="419910449"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="East Castro Valley Boulevard"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="35922511" version="2" timestamp="2010-03-28T02:18:40Z" uid="20587" user="balrog-kun" changeset="4250871">
+    <nd ref="419910449"/>
+    <nd ref="419910448"/>
+    <nd ref="419908545"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="East Castro Valley Boulevard"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="35922529" version="3" timestamp="2010-03-28T02:18:40Z" uid="20587" user="balrog-kun" changeset="4250871">
+    <nd ref="419911440"/>
+    <nd ref="419911469"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Center Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alameda, CA"/>
+    <tag k="tiger:name_base" v="Center"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="125015701:125015703:125015661:125015697"/>
+    <tag k="tiger:zip_left" v="94541"/>
+    <tag k="tiger:zip_right" v="94541"/>
+  </way>
+  <way id="35922530" version="3" timestamp="2010-03-28T02:18:40Z" uid="20587" user="balrog-kun" changeset="4250871">
+    <nd ref="419911469"/>
+    <nd ref="52990160"/>
+    <nd ref="359390586"/>
+    <nd ref="53017145"/>
+    <nd ref="419913486"/>
+    <nd ref="52997136"/>
+    <nd ref="53050531"/>
+    <nd ref="53023464"/>
+    <nd ref="53050532"/>
+    <nd ref="53050533"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Center Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alameda, CA"/>
+    <tag k="tiger:name_base" v="Center"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="125015701:125015703:125015661:125015697"/>
+    <tag k="tiger:zip_left" v="94541"/>
+    <tag k="tiger:zip_right" v="94541"/>
+  </way>
+  <way id="35922532" version="2" timestamp="2009-11-12T01:54:48Z" uid="36809" user="pfoten_weg_!_" changeset="3095145">
+    <nd ref="419911620"/>
+    <nd ref="419911621"/>
+    <tag k="highway" v="track"/>
+    <tag k="name" v="FIXME - Weg geht weiter"/>
+  </way>
+  <way id="35922532" version="3" timestamp="2010-06-13T16:38:02Z" uid="70696" user="xybot" changeset="4980082">
+    <nd ref="419911620"/>
+    <nd ref="419911621"/>
+    <tag k="FIXME" v="name"/>
+    <tag k="highway" v="track"/>
+  </way>
+  <way id="35922532" version="4" timestamp="2011-02-06T11:12:42Z" uid="62236" user="Paulchen Panther" changeset="7202109">
+    <nd ref="419911620"/>
+    <nd ref="419911621"/>
+    <nd ref="1138907397"/>
+    <nd ref="1138906542"/>
+    <nd ref="388188207"/>
+    <tag k="FIXME" v="name"/>
+    <tag k="highway" v="track"/>
+    <tag k="source" v="Bing"/>
+    <tag k="tracktype" v="grade3"/>
+  </way>
+  <way id="35922533" version="2" timestamp="2009-11-12T01:53:22Z" uid="36809" user="pfoten_weg_!_" changeset="3095145">
+    <nd ref="419911624"/>
+    <nd ref="419911626"/>
+    <nd ref="419911629"/>
+    <nd ref="419911630"/>
+    <nd ref="419911632"/>
+    <nd ref="419911633"/>
+    <nd ref="419911635"/>
+    <nd ref="419911636"/>
+    <nd ref="419911639"/>
+    <nd ref="419911641"/>
+    <nd ref="419911643"/>
+    <nd ref="419911644"/>
+    <nd ref="419911646"/>
+    <nd ref="419911647"/>
+    <nd ref="419911648"/>
+    <nd ref="419911649"/>
+    <nd ref="419911650"/>
+    <nd ref="419911651"/>
+    <nd ref="419911652"/>
+    <nd ref="419911653"/>
+    <nd ref="419911654"/>
+    <nd ref="419911655"/>
+    <nd ref="419911656"/>
+    <tag k="highway" v="track"/>
+    <tag k="tracktype" v="grade5"/>
+  </way>
+  <way id="35922572" version="2" timestamp="2010-01-23T21:32:25Z" uid="9581" user="Lobelt" changeset="3695984">
+    <nd ref="25030979"/>
+    <nd ref="25030973"/>
+    <nd ref="25030971"/>
+    <nd ref="25030968"/>
+    <nd ref="25030965"/>
+    <nd ref="25030962"/>
+    <nd ref="25030957"/>
+    <tag k="highway" v="secondary"/>
+  </way>
+  <way id="35922572" version="3" timestamp="2011-12-12T19:45:28Z" uid="6326" user="mike_hd" changeset="10102210">
+    <nd ref="25030979"/>
+    <nd ref="25030971"/>
+    <nd ref="25030968"/>
+    <nd ref="25030965"/>
+    <nd ref="25030962"/>
+    <nd ref="25030957"/>
+    <tag k="highway" v="secondary"/>
+  </way>
+  <way id="35922657" version="2" timestamp="2010-06-29T20:46:53Z" uid="74617" user="JohnSmith" changeset="5109183">
+    <nd ref="419914268"/>
+    <nd ref="419914270"/>
+    <nd ref="419914271"/>
+    <nd ref="419914272"/>
+    <nd ref="419914268"/>
+    <tag k="fixme" v="sport=rugby is ambiguous, see http://wiki.osm.org/wiki/Tag:sport%3Drugby for more details"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="name" v="Brophy field"/>
+    <tag k="sport" v="rugby"/>
+  </way>
+  <way id="35922658" version="2" timestamp="2010-06-29T20:47:21Z" uid="74617" user="JohnSmith" changeset="5109183">
+    <nd ref="419914273"/>
+    <nd ref="419914274"/>
+    <nd ref="419914275"/>
+    <nd ref="419914276"/>
+    <nd ref="419914273"/>
+    <tag k="fixme" v="sport=rugby is ambiguous, see http://wiki.osm.org/wiki/Tag:sport%3Drugby for more details"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="name" v="Battle field"/>
+    <tag k="sport" v="rugby"/>
+  </way>
+  <way id="35922786" version="1" timestamp="2009-06-13T21:30:09Z" uid="1066" user="pavel" changeset="1509028">
+    <nd ref="419916878"/>
+    <nd ref="419916880"/>
+    <nd ref="419916881"/>
+    <nd ref="419916884"/>
+    <nd ref="419916886"/>
+    <nd ref="419916889"/>
+    <nd ref="419916890"/>
+    <nd ref="419916892"/>
+    <nd ref="419916893"/>
+    <nd ref="419916895"/>
+    <nd ref="419916897"/>
+    <nd ref="419916898"/>
+    <nd ref="419916899"/>
+    <nd ref="419916901"/>
+    <nd ref="419916903"/>
+    <nd ref="419916878"/>
+    <tag k="landuse" v="forest"/>
+  </way>
+  <way id="35922787" version="1" timestamp="2009-06-13T21:30:09Z" uid="1066" user="pavel" changeset="1509028">
+    <nd ref="419916905"/>
+    <nd ref="419916907"/>
+    <nd ref="419916909"/>
+    <nd ref="419916911"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="35922787" version="2" timestamp="2010-11-22T07:09:42Z" uid="84326" user="Mike Crash" changeset="6429192">
+    <nd ref="419916905"/>
+    <nd ref="419916907"/>
+    <nd ref="419916909"/>
+    <nd ref="419916911"/>
+    <tag k="highway" v="path"/>
+    <tag k="wheelchair" v="no"/>
+  </way>
+  <way id="35922787" version="3" timestamp="2011-04-29T14:49:38Z" uid="9868" user="Rolf K" changeset="8004091"/>
+  <way id="35922788" version="1" timestamp="2009-06-13T21:30:09Z" uid="1066" user="pavel" changeset="1509028">
+    <nd ref="419916913"/>
+    <nd ref="419916914"/>
+    <nd ref="419916916"/>
+    <nd ref="419916918"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="35922788" version="2" timestamp="2009-06-19T20:20:53Z" uid="1066" user="pavel" changeset="1568878">
+    <nd ref="419916913"/>
+    <nd ref="419916914"/>
+    <nd ref="425906766"/>
+    <nd ref="419916916"/>
+    <nd ref="419916918"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="35922789" version="1" timestamp="2009-06-13T21:30:09Z" uid="1066" user="pavel" changeset="1509028">
+    <nd ref="419916926"/>
+    <nd ref="419916927"/>
+    <nd ref="419916929"/>
+    <nd ref="419916930"/>
+    <nd ref="419916932"/>
+    <nd ref="419916934"/>
+    <nd ref="419916935"/>
+    <nd ref="419916937"/>
+    <nd ref="419916938"/>
+    <nd ref="251979"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="35922845" version="1" timestamp="2009-06-13T21:31:47Z" uid="23543" user="jkjk" changeset="1509040">
+    <nd ref="419917693"/>
+    <nd ref="419917694"/>
+    <nd ref="419917695"/>
+    <nd ref="419917696"/>
+    <nd ref="419917697"/>
+    <nd ref="419917693"/>
+    <tag k="leisure" v="park"/>
+  </way>
+  <way id="35922845" version="2" timestamp="2009-07-02T15:51:41Z" uid="3516" user="BiIbo" changeset="1711321">
+    <nd ref="419917693"/>
+    <nd ref="419917694"/>
+    <nd ref="419917695"/>
+    <nd ref="419917696"/>
+    <nd ref="419917697"/>
+    <nd ref="419917693"/>
+    <tag k="layer" v="1"/>
+    <tag k="leisure" v="park"/>
+  </way>
+  <way id="35922845" version="3" timestamp="2010-11-28T22:24:01Z" uid="190711" user="Zulu" changeset="6482733">
+    <nd ref="419917693"/>
+    <nd ref="419917694"/>
+    <nd ref="419917695"/>
+    <nd ref="419917696"/>
+    <nd ref="419917697"/>
+    <nd ref="419917693"/>
+    <tag k="leisure" v="park"/>
+  </way>
+  <way id="35922846" version="1" timestamp="2009-06-13T21:31:48Z" uid="23543" user="jkjk" changeset="1509040">
+    <nd ref="419917698"/>
+    <nd ref="419917699"/>
+    <nd ref="419917700"/>
+    <nd ref="419917701"/>
+    <nd ref="419917702"/>
+    <nd ref="419917703"/>
+    <nd ref="419917704"/>
+    <nd ref="419917705"/>
+    <nd ref="419917706"/>
+    <nd ref="419917707"/>
+    <nd ref="419917708"/>
+    <nd ref="419917709"/>
+    <nd ref="419917710"/>
+    <nd ref="419917712"/>
+    <nd ref="419917713"/>
+    <nd ref="419917715"/>
+    <nd ref="419917716"/>
+    <nd ref="419917718"/>
+    <nd ref="419917720"/>
+    <nd ref="419917721"/>
+    <nd ref="419917723"/>
+    <nd ref="419917698"/>
+    <tag k="historic" v="monument"/>
+    <tag k="name" v="Pomník Jana Husa"/>
+  </way>
+  <way id="35922846" version="2" timestamp="2009-11-06T18:15:55Z" uid="22108" user="afonin" changeset="3050532">
+    <nd ref="419917698"/>
+    <nd ref="419917699"/>
+    <nd ref="419917700"/>
+    <nd ref="419917701"/>
+    <nd ref="419917702"/>
+    <nd ref="419917703"/>
+    <nd ref="419917704"/>
+    <nd ref="419917705"/>
+    <nd ref="419917706"/>
+    <nd ref="419917707"/>
+    <nd ref="419917708"/>
+    <nd ref="419917709"/>
+    <nd ref="419917710"/>
+    <nd ref="419917712"/>
+    <nd ref="419917713"/>
+    <nd ref="419917715"/>
+    <nd ref="419917716"/>
+    <nd ref="419917718"/>
+    <nd ref="419917720"/>
+    <nd ref="419917721"/>
+    <nd ref="419917723"/>
+    <nd ref="419917698"/>
+    <tag k="historic" v="monument"/>
+    <tag k="name" v="Pomník Jana Husa"/>
+    <tag k="name:ru" v="Ян Гус"/>
+  </way>
+  <way id="35922846" version="3" timestamp="2010-05-10T00:37:01Z" uid="229590" user="xificurk" changeset="4655465">
+    <nd ref="419917698"/>
+    <nd ref="419917699"/>
+    <nd ref="419917700"/>
+    <nd ref="419917701"/>
+    <nd ref="419917702"/>
+    <nd ref="419917703"/>
+    <nd ref="419917704"/>
+    <nd ref="419917705"/>
+    <nd ref="419917706"/>
+    <nd ref="419917707"/>
+    <nd ref="419917708"/>
+    <nd ref="419917709"/>
+    <nd ref="419917710"/>
+    <nd ref="419917712"/>
+    <nd ref="419917713"/>
+    <nd ref="419917715"/>
+    <nd ref="419917716"/>
+    <nd ref="419917718"/>
+    <nd ref="419917720"/>
+    <nd ref="419917721"/>
+    <nd ref="419917723"/>
+    <nd ref="419917698"/>
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="Pomník Jana Husa"/>
+    <tag k="name:ru" v="Ян Гус"/>
+  </way>
+  <way id="35922846" version="4" timestamp="2010-08-03T22:39:50Z" uid="24247" user="Vlad" changeset="5394699">
+    <nd ref="419917698"/>
+    <nd ref="419917699"/>
+    <nd ref="419917700"/>
+    <nd ref="419917701"/>
+    <nd ref="419917702"/>
+    <nd ref="419917703"/>
+    <nd ref="419917704"/>
+    <nd ref="419917705"/>
+    <nd ref="419917706"/>
+    <nd ref="419917707"/>
+    <nd ref="419917708"/>
+    <nd ref="419917709"/>
+    <nd ref="419917710"/>
+    <nd ref="419917712"/>
+    <nd ref="419917713"/>
+    <nd ref="419917715"/>
+    <nd ref="419917716"/>
+    <nd ref="419917718"/>
+    <nd ref="419917720"/>
+    <nd ref="419917721"/>
+    <nd ref="419917723"/>
+    <nd ref="419917698"/>
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="Pomník Jana Husa"/>
+    <tag k="name:en" v="Jan Hus Memorial"/>
+    <tag k="name:fr" v="Mémorial de Jan Hus"/>
+    <tag k="name:ru" v="Ян Гус"/>
+  </way>
+  <way id="35922846" version="5" timestamp="2011-02-20T10:22:26Z" uid="335224" user="ChehVlad" changeset="7340299">
+    <nd ref="419917698"/>
+    <nd ref="419917699"/>
+    <nd ref="419917700"/>
+    <nd ref="419917701"/>
+    <nd ref="419917702"/>
+    <nd ref="419917703"/>
+    <nd ref="419917704"/>
+    <nd ref="419917705"/>
+    <nd ref="419917706"/>
+    <nd ref="419917707"/>
+    <nd ref="419917708"/>
+    <nd ref="419917709"/>
+    <nd ref="419917710"/>
+    <nd ref="419917712"/>
+    <nd ref="419917713"/>
+    <nd ref="419917715"/>
+    <nd ref="419917716"/>
+    <nd ref="419917718"/>
+    <nd ref="419917720"/>
+    <nd ref="419917721"/>
+    <nd ref="419917723"/>
+    <nd ref="419917698"/>
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="Pomník Jana Husa"/>
+    <tag k="name:be" v="Ян Гус"/>
+    <tag k="name:en" v="Jan Hus Memorial"/>
+    <tag k="name:fr" v="Mémorial de Jan Hus"/>
+    <tag k="name:ru" v="Ян Гус"/>
+  </way>
+  <way id="35922846" version="6" timestamp="2011-06-03T11:46:26Z" uid="335224" user="ChehVlad" changeset="8328743">
+    <nd ref="419917698"/>
+    <nd ref="419917699"/>
+    <nd ref="419917700"/>
+    <nd ref="419917701"/>
+    <nd ref="419917702"/>
+    <nd ref="419917703"/>
+    <nd ref="419917704"/>
+    <nd ref="419917705"/>
+    <nd ref="419917706"/>
+    <nd ref="419917707"/>
+    <nd ref="419917708"/>
+    <nd ref="419917709"/>
+    <nd ref="419917710"/>
+    <nd ref="419917712"/>
+    <nd ref="419917713"/>
+    <nd ref="419917715"/>
+    <nd ref="419917716"/>
+    <nd ref="419917718"/>
+    <nd ref="419917720"/>
+    <nd ref="419917721"/>
+    <nd ref="419917723"/>
+    <nd ref="419917698"/>
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="Pomník Jana Husa"/>
+    <tag k="name:be" v="Помнік Яну Гусу"/>
+    <tag k="name:en" v="Jan Hus Memorial"/>
+    <tag k="name:fr" v="Mémorial de Jan Hus"/>
+    <tag k="name:ru" v="Ян Гус"/>
+  </way>
+  <way id="35922846" version="7" timestamp="2011-08-28T08:03:00Z" uid="100163" user="Hlav" changeset="9144459">
+    <nd ref="419917698"/>
+    <nd ref="419917699"/>
+    <nd ref="419917700"/>
+    <nd ref="419917701"/>
+    <nd ref="419917702"/>
+    <nd ref="419917703"/>
+    <nd ref="419917704"/>
+    <nd ref="419917705"/>
+    <nd ref="419917706"/>
+    <nd ref="419917707"/>
+    <nd ref="419917708"/>
+    <nd ref="419917709"/>
+    <nd ref="419917710"/>
+    <nd ref="419917712"/>
+    <nd ref="419917713"/>
+    <nd ref="419917715"/>
+    <nd ref="419917716"/>
+    <nd ref="419917718"/>
+    <nd ref="419917720"/>
+    <nd ref="419917721"/>
+    <nd ref="419917723"/>
+    <nd ref="419917698"/>
+    <tag k="artist_name" v="Ladislav Šaloun"/>
+    <tag k="artwork_type" v="sculpture"/>
+    <tag k="name" v="Pomník Jana Husa"/>
+    <tag k="name:be" v="Помнік Яну Гусу"/>
+    <tag k="name:en" v="Jan Hus Memorial"/>
+    <tag k="name:fr" v="Mémorial de Jan Hus"/>
+    <tag k="name:ru" v="Ян Гус"/>
+    <tag k="start_date" v="1915"/>
+    <tag k="tourism" v="artwork"/>
+  </way>
+  <way id="35922846" version="8" timestamp="2011-08-29T09:13:41Z" uid="100163" user="Hlav" changeset="9155144">
+    <nd ref="419917698"/>
+    <nd ref="419917699"/>
+    <nd ref="419917700"/>
+    <nd ref="419917701"/>
+    <nd ref="419917702"/>
+    <nd ref="419917703"/>
+    <nd ref="419917704"/>
+    <nd ref="419917705"/>
+    <nd ref="419917706"/>
+    <nd ref="419917707"/>
+    <nd ref="419917708"/>
+    <nd ref="419917709"/>
+    <nd ref="419917710"/>
+    <nd ref="419917712"/>
+    <nd ref="419917713"/>
+    <nd ref="419917715"/>
+    <nd ref="419917716"/>
+    <nd ref="419917718"/>
+    <nd ref="419917720"/>
+    <nd ref="419917721"/>
+    <nd ref="419917723"/>
+    <nd ref="419917698"/>
+    <tag k="artist_name" v="Ladislav Šaloun"/>
+    <tag k="artwork_type" v="sculpture"/>
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="Pomník Jana Husa"/>
+    <tag k="name:be" v="Помнік Яну Гусу"/>
+    <tag k="name:en" v="Jan Hus Memorial"/>
+    <tag k="name:fr" v="Mémorial de Jan Hus"/>
+    <tag k="name:ru" v="Ян Гус"/>
+    <tag k="start_date" v="1915"/>
+  </way>
+  <way id="35922847" version="1" timestamp="2009-06-13T21:31:49Z" uid="23543" user="jkjk" changeset="1509040">
+    <nd ref="9187807"/>
+    <nd ref="419917724"/>
+    <nd ref="419917726"/>
+    <nd ref="419917728"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="Mikulášská"/>
+  </way>
+  <way id="35922847" version="2" timestamp="2009-08-24T10:07:49Z" uid="3516" user="BiIbo" changeset="2242054">
+    <nd ref="472661923"/>
+    <nd ref="9187807"/>
+    <nd ref="419917724"/>
+    <nd ref="419917726"/>
+    <nd ref="419917728"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="Mikulášská"/>
+  </way>
+  <way id="35922847" version="3" timestamp="2010-09-24T16:22:28Z" uid="17615" user="Petr Dlouhý" changeset="5864243">
+    <nd ref="419917724"/>
+    <nd ref="9187807"/>
+    <nd ref="472661923"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="Mikulášská"/>
+  </way>
+  <way id="35922847" version="4" timestamp="2011-08-16T07:31:42Z" uid="17615" user="Petr Dlouhý" changeset="9034002">
+    <nd ref="419917724"/>
+    <nd ref="9187807"/>
+    <nd ref="472661923"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="Mikulášská"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="35922874" version="4" timestamp="2010-03-28T02:18:40Z" uid="20587" user="balrog-kun" changeset="4250871">
+    <nd ref="53034922"/>
+    <nd ref="419918469"/>
+    <nd ref="53138630"/>
+    <nd ref="419918471"/>
+    <nd ref="419918473"/>
+    <nd ref="419918475"/>
+    <nd ref="419918476"/>
+    <nd ref="419918478"/>
+    <nd ref="52978700"/>
+    <nd ref="401388741"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Norbridge Avenue"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="35922880" version="3" timestamp="2010-03-28T02:18:40Z" uid="20587" user="balrog-kun" changeset="4250871">
+    <nd ref="401388741"/>
+    <nd ref="419918706"/>
+    <nd ref="419918708"/>
+    <nd ref="419918709"/>
+    <nd ref="419918710"/>
+    <nd ref="419918711"/>
+    <nd ref="419918712"/>
+    <nd ref="419918713"/>
+    <nd ref="419918714"/>
+    <nd ref="53034922"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Norbridge Avenue"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+</osm>

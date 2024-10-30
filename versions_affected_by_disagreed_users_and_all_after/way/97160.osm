@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="97160473" version="1" timestamp="2011-01-28T21:33:31Z" uid="6269" user="Mueck" changeset="7117364">
+    <nd ref="1125457107"/>
+    <nd ref="1125458597"/>
+    <nd ref="1125458598"/>
+    <nd ref="1125458599"/>
+  </way>
+  <way id="97160473" version="2" timestamp="2011-01-28T21:33:47Z" uid="6269" user="Mueck" changeset="7117364">
+    <nd ref="1125457107"/>
+    <nd ref="1125458597"/>
+    <nd ref="1125458598"/>
+    <nd ref="1125458599"/>
+    <tag k="layer" v="1"/>
+    <tag k="railway" v="tram"/>
+    <tag k="tracks" v="1"/>
+  </way>
+  <way id="97160473" version="3" timestamp="2011-03-11T15:32:02Z" uid="6269" user="Mueck" changeset="7524261">
+    <nd ref="1125457107"/>
+    <nd ref="1125458597"/>
+    <nd ref="1125458598"/>
+    <nd ref="1125458599"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="layer" v="1"/>
+    <tag k="operator" v="VBK"/>
+    <tag k="railway" v="tram"/>
+    <tag k="tracks" v="1"/>
+    <tag k="voltage" v="750"/>
+    <tag k="workrules" v="BOStrab"/>
+  </way>
+  <way id="97160473" version="4" timestamp="2012-01-15T15:06:36Z" uid="5164" user="woodpeck" changeset="10398925">
+    <nd ref="1590912276"/>
+    <nd ref="1125458597"/>
+    <nd ref="1125458598"/>
+    <nd ref="1590912278"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="layer" v="1"/>
+    <tag k="operator" v="VBK"/>
+    <tag k="railway" v="tram"/>
+    <tag k="tracks" v="1"/>
+    <tag k="voltage" v="750"/>
+    <tag k="workrules" v="BOStrab"/>
+  </way>
+</osm>

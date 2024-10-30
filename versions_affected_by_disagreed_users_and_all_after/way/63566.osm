@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="63566374" version="2" timestamp="2010-07-06T09:50:06Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="171927159"/>
+    <nd ref="786917549"/>
+    <nd ref="202071030"/>
+    <nd ref="202071032"/>
+    <nd ref="202077853"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Kuranda Street"/>
+    <tag k="source" v="GPS"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="63566374" version="3" timestamp="2012-01-20T10:36:55Z" uid="147510" user="woodpeck_fixbot" changeset="10443754">
+    <nd ref="171927159"/>
+    <nd ref="786917549"/>
+    <nd ref="202071030"/>
+    <nd ref="202071032"/>
+    <nd ref="202077853"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Kuranda Street"/>
+    <tag k="source" v="GPS"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="63566538" version="2" timestamp="2010-07-08T16:21:43Z" uid="74617" user="JohnSmith" changeset="5167338">
+    <nd ref="293100265"/>
+    <nd ref="293100276"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Dale Street"/>
+  </way>
+  <way id="63566538" version="3" timestamp="2012-01-20T10:36:59Z" uid="147510" user="woodpeck_fixbot" changeset="10443754">
+    <nd ref="293100265"/>
+    <nd ref="293100276"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Dale Street"/>
+  </way>
+</osm>

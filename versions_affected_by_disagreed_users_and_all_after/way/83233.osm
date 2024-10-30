@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="83233122" version="1" timestamp="2010-10-29T07:01:42Z" uid="33382" user="de_muur" changeset="6214928">
+    <nd ref="21268649"/>
+    <nd ref="21268642"/>
+    <nd ref="914201499"/>
+    <nd ref="21268636"/>
+    <nd ref="915884583"/>
+    <nd ref="21268629"/>
+    <nd ref="915884547"/>
+    <nd ref="21268623"/>
+    <nd ref="915884424"/>
+    <nd ref="21268616"/>
+    <nd ref="916222744"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="E 22"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A 1"/>
+  </way>
+  <way id="83233122" version="2" timestamp="2010-10-29T07:18:16Z" uid="33382" user="de_muur" changeset="6215026"/>
+  <way id="83233182" version="1" timestamp="2010-10-29T07:03:40Z" uid="4467" user="Rosscoe" changeset="6214943">
+    <nd ref="968483297"/>
+    <nd ref="968483308"/>
+    <nd ref="968483301"/>
+    <tag k="highway" v="primary_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="83233183" version="1" timestamp="2010-10-29T07:03:40Z" uid="4467" user="Rosscoe" changeset="6214943">
+    <nd ref="289821223"/>
+    <nd ref="257683981"/>
+    <nd ref="257683982"/>
+    <tag k="addr:postcode" v="3012"/>
+    <tag k="addr:suburb" v="Maidstone"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Omar Street"/>
+    <tag k="source" v="yahoo"/>
+  </way>
+  <way id="83233183" version="2" timestamp="2010-11-04T07:13:55Z" uid="4467" user="Rosscoe" changeset="6286167">
+    <nd ref="289821223"/>
+    <nd ref="257683981"/>
+    <nd ref="257683982"/>
+    <tag k="addr:postcode" v="3012"/>
+    <tag k="addr:suburb" v="Maidstone"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Omar Street"/>
+    <tag k="source" v="yahoo"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="83233184" version="1" timestamp="2010-10-29T07:03:40Z" uid="4467" user="Rosscoe" changeset="6214943">
+    <nd ref="156951201"/>
+    <nd ref="289589767"/>
+    <nd ref="968483313"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="Ballarat Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="8"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+</osm>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="16633031" version="1" timestamp="2007-12-15T23:01:39Z" uid="4667" user="MapZ" changeset="327963">
+    <nd ref="171805372"/>
+    <nd ref="171805375"/>
+    <tag k="aeroway" v="runway"/>
+    <tag k="created_by" v="JOSM"/>
+  </way>
+  <way id="16633031" version="2" timestamp="2009-01-11T09:45:17Z" uid="13064" user="TheFlyer" changeset="770279">
+    <nd ref="171805372"/>
+    <nd ref="331144245"/>
+    <tag k="aeroway" v="aerodrome"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="icao" v="ETID"/>
+    <tag k="name" v="Fliegerhorst Hanau Erlensee"/>
+    <tag k="ref" v="08 / 26"/>
+  </way>
+  <way id="16633031" version="3" timestamp="2009-01-12T09:37:31Z" uid="13064" user="TheFlyer" changeset="778864">
+    <nd ref="171805372"/>
+    <nd ref="331144245"/>
+    <tag k="aeroway" v="runway"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="icao" v="ETID"/>
+    <tag k="name" v="Fliegerhorst Hanau Erlensee"/>
+    <tag k="ref" v="08 / 26"/>
+  </way>
+  <way id="16633031" version="4" timestamp="2009-01-18T10:20:14Z" uid="13064" user="TheFlyer" changeset="806651"/>
+  <way id="16633210" version="2" timestamp="2010-01-30T20:09:53Z" uid="99207" user="Lar Kiesel" changeset="3754354"/>
+  <way id="16633435" version="9" timestamp="2010-06-29T19:10:09Z" uid="74617" user="JohnSmith" changeset="5108182">
+    <nd ref="171810265"/>
+    <nd ref="171810267"/>
+    <nd ref="171810268"/>
+    <nd ref="409681642"/>
+    <nd ref="409681512"/>
+    <nd ref="171810269"/>
+    <nd ref="171810265"/>
+    <tag k="fixme" v="sport=football is ambiguous, see http://wiki.osm.org/wiki/Football for more details"/>
+    <tag k="landuse" v="recreation_ground"/>
+    <tag k="note" v="oscillates between football &amp; rugby"/>
+    <tag k="source" v="Yahoo"/>
+    <tag k="sport" v="football"/>
+  </way>
+  <way id="16633909" version="3" timestamp="2010-03-27T22:51:44Z" uid="20587" user="balrog-kun" changeset="4250871">
+    <nd ref="33619286"/>
+    <nd ref="171816176"/>
+    <nd ref="26959265"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Main Street"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="16633909" version="4" timestamp="2011-10-19T01:09:20Z" uid="128470" user="vkungys" changeset="9596111">
+    <nd ref="33619286"/>
+    <nd ref="171816176"/>
+    <nd ref="26959265"/>
+    <tag k="cycleway" v="lane"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Main Street"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+</osm>

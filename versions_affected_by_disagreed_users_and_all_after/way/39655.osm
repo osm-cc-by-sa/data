@@ -1,0 +1,758 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="39655009" version="1" timestamp="2009-08-27T20:15:39Z" uid="68769" user="david lynch" changeset="2282180">
+    <nd ref="152802485"/>
+    <nd ref="475365033"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Crossover"/>
+    <tag k="source" v="local_knowledge"/>
+  </way>
+  <way id="39655021" version="1" timestamp="2009-08-27T20:15:50Z" uid="68769" user="david lynch" changeset="2282180">
+    <nd ref="152550770"/>
+    <nd ref="152550772"/>
+    <nd ref="152550775"/>
+    <nd ref="152550777"/>
+    <nd ref="152550780"/>
+    <nd ref="152550783"/>
+    <nd ref="152550786"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="N Lamar Blvd"/>
+    <tag k="name_1" v="State Spur 275"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A31"/>
+    <tag k="tiger:county" v="Travis, TX"/>
+    <tag k="tiger:name_base" v="Lamar"/>
+    <tag k="tiger:name_base_1" v="State Spur 275"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="Blvd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="64068736:64068737:63933939:64008450:63982787:63982788:63933950:63933951:64026353:64026354:63967922:63967924:63933987:63964596:63933992:64122025:64122026:63997888:63997889:63964605:63997894:63997895:63997896:63959509:63934128:63934129:63934131:63934132:639"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-d2be3ce0-24d6-40df-9a5f-7cd099f6eb32"/>
+    <tag k="tiger:zip_left" v="78753"/>
+    <tag k="tiger:zip_right" v="78753"/>
+  </way>
+  <way id="39655021" version="2" timestamp="2010-03-04T04:53:13Z" uid="37392" user="25or6to4" changeset="4030135">
+    <nd ref="152550770"/>
+    <nd ref="152550772"/>
+    <nd ref="152550775"/>
+    <nd ref="152550777"/>
+    <nd ref="152550780"/>
+    <nd ref="152550783"/>
+    <nd ref="152550786"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="N Lamar Blvd; State Loop 275"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A31"/>
+    <tag k="tiger:county" v="Travis, TX"/>
+    <tag k="tiger:name_base" v="Lamar"/>
+    <tag k="tiger:name_base_1" v="State Spur 275"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="Blvd"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="64068736:64068737:63933939:64008450:63982787:63982788:63933950:63933951:64026353:64026354:63967922:63967924:63933987:63964596:63933992:64122025:64122026:63997888:63997889:63964605:63997894:63997895:63997896:63959509:63934128:63934129:63934131:63934132:639"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-d2be3ce0-24d6-40df-9a5f-7cd099f6eb32"/>
+    <tag k="tiger:zip_left" v="78753"/>
+    <tag k="tiger:zip_right" v="78753"/>
+  </way>
+  <way id="39655021" version="3" timestamp="2010-04-07T13:48:02Z" uid="20587" user="balrog-kun" changeset="4353646">
+    <nd ref="152550770"/>
+    <nd ref="152550772"/>
+    <nd ref="152550775"/>
+    <nd ref="152550777"/>
+    <nd ref="152550780"/>
+    <nd ref="152550783"/>
+    <nd ref="152550786"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="North Lamar Blvd; State Loop 275"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A31"/>
+    <tag k="tiger:county" v="Travis, TX"/>
+    <tag k="tiger:name_base" v="Lamar"/>
+    <tag k="tiger:name_base_1" v="State Spur 275"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="Blvd"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="64068736:64068737:63933939:64008450:63982787:63982788:63933950:63933951:64026353:64026354:63967922:63967924:63933987:63964596:63933992:64122025:64122026:63997888:63997889:63964605:63997894:63997895:63997896:63959509:63934128:63934129:63934131:63934132:639"/>
+    <tag k="tiger:zip_left" v="78753"/>
+    <tag k="tiger:zip_right" v="78753"/>
+  </way>
+  <way id="39655021" version="4" timestamp="2011-06-21T21:01:58Z" uid="388279" user="Tylan" changeset="8508389">
+    <nd ref="152550770"/>
+    <nd ref="152550775"/>
+    <nd ref="152550777"/>
+    <nd ref="152550780"/>
+    <nd ref="152550783"/>
+    <nd ref="152550786"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="North Lamar Blvd; State Loop 275"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A31"/>
+    <tag k="tiger:county" v="Travis, TX"/>
+    <tag k="tiger:name_base" v="Lamar"/>
+    <tag k="tiger:name_base_1" v="State Spur 275"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="Blvd"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="64068736:64068737:63933939:64008450:63982787:63982788:63933950:63933951:64026353:64026354:63967922:63967924:63933987:63964596:63933992:64122025:64122026:63997888:63997889:63964605:63997894:63997895:63997896:63959509:63934128:63934129:63934131:63934132:639"/>
+    <tag k="tiger:zip_left" v="78753"/>
+    <tag k="tiger:zip_right" v="78753"/>
+  </way>
+  <way id="39655021" version="5" timestamp="2011-09-24T00:32:46Z" uid="119881" user="Clorox" changeset="9380930">
+    <nd ref="152550770"/>
+    <nd ref="152550775"/>
+    <nd ref="152550777"/>
+    <nd ref="152550780"/>
+    <nd ref="152550783"/>
+    <nd ref="152550786"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="North Lamar Boulevard"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="Loop 275"/>
+    <tag k="tiger:cfcc" v="A31"/>
+    <tag k="tiger:county" v="Travis, TX"/>
+    <tag k="tiger:name_base" v="Lamar"/>
+    <tag k="tiger:name_base_1" v="State Spur 275"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="Blvd"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="64068736:64068737:63933939:64008450:63982787:63982788:63933950:63933951:64026353:64026354:63967922:63967924:63933987:63964596:63933992:64122025:64122026:63997888:63997889:63964605:63997894:63997895:63997896:63959509:63934128:63934129:63934131:63934132:639"/>
+    <tag k="tiger:zip_left" v="78753"/>
+    <tag k="tiger:zip_right" v="78753"/>
+  </way>
+  <way id="39655021" version="6" timestamp="2012-01-03T14:54:17Z" uid="207745" user="NE2" changeset="10281972">
+    <nd ref="152550770"/>
+    <nd ref="152550775"/>
+    <nd ref="152550777"/>
+    <nd ref="152550780"/>
+    <nd ref="152550783"/>
+    <nd ref="152550786"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="North Lamar Boulevard"/>
+    <tag k="old_ref" v="US 81"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="Loop 275"/>
+    <tag k="tiger:cfcc" v="A31"/>
+    <tag k="tiger:county" v="Travis, TX"/>
+    <tag k="tiger:name_base" v="Lamar"/>
+    <tag k="tiger:name_base_1" v="State Spur 275"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="Blvd"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="64068736:64068737:63933939:64008450:63982787:63982788:63933950:63933951:64026353:64026354:63967922:63967924:63933987:63964596:63933992:64122025:64122026:63997888:63997889:63964605:63997894:63997895:63997896:63959509:63934128:63934129:63934131:63934132:639"/>
+    <tag k="tiger:zip_left" v="78753"/>
+    <tag k="tiger:zip_right" v="78753"/>
+  </way>
+  <way id="39655022" version="1" timestamp="2009-08-27T20:15:50Z" uid="68769" user="david lynch" changeset="2282180">
+    <nd ref="152409145"/>
+    <nd ref="152619217"/>
+    <nd ref="152619219"/>
+    <nd ref="152619223"/>
+    <nd ref="152619226"/>
+    <nd ref="152619229"/>
+    <nd ref="152619232"/>
+    <nd ref="152619235"/>
+    <nd ref="152392198"/>
+    <nd ref="152619144"/>
+    <nd ref="152619141"/>
+    <nd ref="152619138"/>
+    <nd ref="152619135"/>
+    <nd ref="152619133"/>
+    <nd ref="152619131"/>
+    <nd ref="152619127"/>
+    <nd ref="152619124"/>
+    <nd ref="152619121"/>
+    <nd ref="152619118"/>
+    <nd ref="152619115"/>
+    <nd ref="152619112"/>
+    <nd ref="152619109"/>
+    <nd ref="152619106"/>
+    <nd ref="152619103"/>
+    <nd ref="152619099"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="W Howard Ln"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A45"/>
+    <tag k="tiger:county" v="Travis, TX"/>
+    <tag k="tiger:name_base" v="Howard"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="64004125; 63974066"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-d2be3ce0-24d6-40df-9a5f-7cd099f6eb32"/>
+  </way>
+  <way id="39655022" version="2" timestamp="2010-04-07T13:48:02Z" uid="20587" user="balrog-kun" changeset="4353646">
+    <nd ref="152409145"/>
+    <nd ref="152619217"/>
+    <nd ref="152619219"/>
+    <nd ref="152619223"/>
+    <nd ref="152619226"/>
+    <nd ref="152619229"/>
+    <nd ref="152619232"/>
+    <nd ref="152619235"/>
+    <nd ref="152392198"/>
+    <nd ref="152619144"/>
+    <nd ref="152619141"/>
+    <nd ref="152619138"/>
+    <nd ref="152619135"/>
+    <nd ref="152619133"/>
+    <nd ref="152619131"/>
+    <nd ref="152619127"/>
+    <nd ref="152619124"/>
+    <nd ref="152619121"/>
+    <nd ref="152619118"/>
+    <nd ref="152619115"/>
+    <nd ref="152619112"/>
+    <nd ref="152619109"/>
+    <nd ref="152619106"/>
+    <nd ref="152619103"/>
+    <nd ref="152619099"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="West Howard Lane"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A45"/>
+    <tag k="tiger:county" v="Travis, TX"/>
+    <tag k="tiger:name_base" v="Howard"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="64004125; 63974066"/>
+  </way>
+  <way id="39655022" version="3" timestamp="2011-09-24T00:54:17Z" uid="119881" user="Clorox" changeset="9380930">
+    <nd ref="152409145"/>
+    <nd ref="152619217"/>
+    <nd ref="152619219"/>
+    <nd ref="152619223"/>
+    <nd ref="152619226"/>
+    <nd ref="152619229"/>
+    <nd ref="152619232"/>
+    <nd ref="152619235"/>
+    <nd ref="1443776530"/>
+    <nd ref="152619144"/>
+    <nd ref="152619141"/>
+    <nd ref="152619138"/>
+    <nd ref="152619135"/>
+    <nd ref="152619133"/>
+    <nd ref="152619131"/>
+    <nd ref="152619127"/>
+    <nd ref="152619124"/>
+    <nd ref="152619121"/>
+    <nd ref="152619118"/>
+    <nd ref="152619115"/>
+    <nd ref="152619112"/>
+    <nd ref="152619109"/>
+    <nd ref="152619106"/>
+    <nd ref="152619103"/>
+    <nd ref="152619099"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="West Howard Lane"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A45"/>
+    <tag k="tiger:county" v="Travis, TX"/>
+    <tag k="tiger:name_base" v="Howard"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="64004125; 63974066"/>
+  </way>
+  <way id="39655022" version="4" timestamp="2012-01-10T02:11:12Z" uid="119881" user="Clorox" changeset="10347921">
+    <nd ref="1584203687"/>
+    <nd ref="152619219"/>
+    <nd ref="152619223"/>
+    <nd ref="152619226"/>
+    <nd ref="152619229"/>
+    <nd ref="152619232"/>
+    <nd ref="152619235"/>
+    <nd ref="1443776530"/>
+    <nd ref="152619144"/>
+    <nd ref="152619141"/>
+    <nd ref="152619138"/>
+    <nd ref="152619135"/>
+    <nd ref="152619133"/>
+    <nd ref="152619131"/>
+    <nd ref="152619127"/>
+    <nd ref="152619124"/>
+    <nd ref="152619121"/>
+    <nd ref="152619118"/>
+    <nd ref="152619115"/>
+    <nd ref="152619112"/>
+    <nd ref="152619109"/>
+    <nd ref="152619106"/>
+    <nd ref="152619103"/>
+    <nd ref="152619099"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="West Howard Lane"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A45"/>
+    <tag k="tiger:county" v="Travis, TX"/>
+    <tag k="tiger:name_base" v="Howard"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="64004125; 63974066"/>
+  </way>
+  <way id="39655023" version="1" timestamp="2009-08-27T20:15:51Z" uid="68769" user="david lynch" changeset="2282180">
+    <nd ref="152395563"/>
+    <nd ref="152395665"/>
+    <nd ref="152395668"/>
+    <tag k="created_by" v="Potlatch 0.10e"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Josh Ridge Blvd"/>
+    <tag k="tiger:cfcc" v="A41:A45"/>
+    <tag k="tiger:county" v="Travis, TX"/>
+    <tag k="tiger:name_base" v="Josh Ridge"/>
+    <tag k="tiger:name_type" v="Blvd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no:yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="64065556:64094937"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-d2be3ce0-24d6-40df-9a5f-7cd099f6eb32"/>
+  </way>
+  <way id="39655023" version="2" timestamp="2010-04-07T13:48:03Z" uid="20587" user="balrog-kun" changeset="4353646">
+    <nd ref="152395563"/>
+    <nd ref="152395665"/>
+    <nd ref="152395668"/>
+    <tag k="created_by" v="Potlatch 0.10e"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Josh Ridge Boulevard"/>
+    <tag k="tiger:cfcc" v="A41:A45"/>
+    <tag k="tiger:county" v="Travis, TX"/>
+    <tag k="tiger:name_base" v="Josh Ridge"/>
+    <tag k="tiger:name_type" v="Blvd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no:yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="64065556:64094937"/>
+  </way>
+  <way id="39655023" version="3" timestamp="2012-01-31T19:57:55Z" uid="92286" user="Paul Johnson" changeset="10551674">
+    <nd ref="152395563"/>
+    <nd ref="152395665"/>
+    <nd ref="152395668"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Josh Ridge Boulevard"/>
+    <tag k="odbl" v="clean"/>
+    <tag k="tiger:cfcc" v="A41:A45"/>
+    <tag k="tiger:county" v="Travis, TX"/>
+    <tag k="tiger:name_base" v="Josh Ridge"/>
+    <tag k="tiger:name_type" v="Blvd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no:yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="64065556:64094937"/>
+  </way>
+  <way id="39655023" version="4" timestamp="2012-02-09T06:28:02Z" uid="262151" user="ToeBee" changeset="10630859">
+    <nd ref="152395563"/>
+    <nd ref="152395665"/>
+    <nd ref="152395668"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Josh Ridge Boulevard"/>
+    <tag k="odbl" v="clean"/>
+    <tag k="tiger:cfcc" v="A41:A45"/>
+    <tag k="tiger:county" v="Travis, TX"/>
+    <tag k="tiger:name_base" v="Josh Ridge"/>
+    <tag k="tiger:name_type" v="Blvd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="64065556:64094937"/>
+  </way>
+  <way id="39655024" version="1" timestamp="2009-08-27T20:15:52Z" uid="68769" user="david lynch" changeset="2282180">
+    <nd ref="152392113"/>
+    <nd ref="152392110"/>
+    <nd ref="152392107"/>
+    <nd ref="152392104"/>
+    <nd ref="152392100"/>
+    <nd ref="152392097"/>
+    <nd ref="152392094"/>
+    <nd ref="152392090"/>
+    <nd ref="152392087"/>
+    <nd ref="152392084"/>
+    <nd ref="152392082"/>
+    <nd ref="152392080"/>
+    <nd ref="152392078"/>
+    <nd ref="152392076"/>
+    <nd ref="152392074"/>
+    <nd ref="152392071"/>
+    <nd ref="152392067"/>
+    <nd ref="152392064"/>
+    <nd ref="152392060"/>
+    <nd ref="152392057"/>
+    <nd ref="152392055"/>
+    <nd ref="152392049"/>
+    <nd ref="152392046"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="McCallen Pass"/>
+    <tag k="tiger:cfcc" v="A45"/>
+    <tag k="tiger:county" v="Travis, TX"/>
+    <tag k="tiger:name_base" v="McCallen"/>
+    <tag k="tiger:name_type" v="Pass"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="64068821:64068825"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-d2be3ce0-24d6-40df-9a5f-7cd099f6eb32"/>
+  </way>
+  <way id="39655028" version="1" timestamp="2009-08-27T20:15:58Z" uid="68769" user="david lynch" changeset="2282180">
+    <nd ref="152392113"/>
+    <nd ref="152392116"/>
+    <nd ref="152392120"/>
+    <nd ref="152392123"/>
+    <nd ref="152392126"/>
+    <nd ref="152392129"/>
+    <nd ref="152392131"/>
+    <nd ref="152392220"/>
+    <nd ref="152392222"/>
+    <nd ref="152392224"/>
+    <nd ref="152392225"/>
+    <nd ref="152392226"/>
+    <nd ref="152392227"/>
+    <nd ref="152392228"/>
+    <nd ref="152392229"/>
+    <nd ref="152392231"/>
+    <nd ref="152392233"/>
+    <nd ref="152392235"/>
+    <nd ref="152392238"/>
+    <nd ref="152392240"/>
+    <nd ref="152392241"/>
+    <nd ref="152392242"/>
+    <nd ref="152392243"/>
+    <nd ref="152392244"/>
+    <nd ref="152392245"/>
+    <nd ref="152392246"/>
+    <nd ref="152392247"/>
+    <nd ref="152392249"/>
+    <nd ref="152392250"/>
+    <nd ref="152392252"/>
+    <nd ref="152392253"/>
+    <nd ref="152392255"/>
+    <nd ref="152392257"/>
+    <nd ref="152392260"/>
+    <nd ref="152392262"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="McCallen Pass"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A45"/>
+    <tag k="tiger:county" v="Travis, TX"/>
+    <tag k="tiger:name_base" v="McCallen"/>
+    <tag k="tiger:name_type" v="Pass"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="64065516:64026389:64094995; 64068821:64068825"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-d2be3ce0-24d6-40df-9a5f-7cd099f6eb32"/>
+  </way>
+  <way id="39655028" version="2" timestamp="2009-08-28T14:41:57Z" uid="143480" user="ceallach" changeset="2291058">
+    <nd ref="152392113"/>
+    <nd ref="152392116"/>
+    <nd ref="152392120"/>
+    <nd ref="152392123"/>
+    <nd ref="152392126"/>
+    <nd ref="152392129"/>
+    <nd ref="152392220"/>
+    <nd ref="152392222"/>
+    <nd ref="152392224"/>
+    <nd ref="152392225"/>
+    <nd ref="152392226"/>
+    <nd ref="152392227"/>
+    <nd ref="152392228"/>
+    <nd ref="152392229"/>
+    <nd ref="152392231"/>
+    <nd ref="152392233"/>
+    <nd ref="152392235"/>
+    <nd ref="152392238"/>
+    <nd ref="152392240"/>
+    <nd ref="152392241"/>
+    <nd ref="152392242"/>
+    <nd ref="152392243"/>
+    <nd ref="152392244"/>
+    <nd ref="152392245"/>
+    <nd ref="152392246"/>
+    <nd ref="152392247"/>
+    <nd ref="152392249"/>
+    <nd ref="152392250"/>
+    <nd ref="152392252"/>
+    <nd ref="152392253"/>
+    <nd ref="152392255"/>
+    <nd ref="152392257"/>
+    <nd ref="152392260"/>
+    <nd ref="152392262"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="McCallen Pass"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A45"/>
+    <tag k="tiger:county" v="Travis, TX"/>
+    <tag k="tiger:name_base" v="McCallen"/>
+    <tag k="tiger:name_type" v="Pass"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="64065516:64026389:64094995; 64068821:64068825"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-d2be3ce0-24d6-40df-9a5f-7cd099f6eb32"/>
+  </way>
+  <way id="39655028" version="3" timestamp="2011-09-24T00:54:18Z" uid="119881" user="Clorox" changeset="9380930">
+    <nd ref="152392113"/>
+    <nd ref="152392116"/>
+    <nd ref="152392120"/>
+    <nd ref="152392123"/>
+    <nd ref="152392126"/>
+    <nd ref="152392129"/>
+    <nd ref="152392220"/>
+    <nd ref="152392222"/>
+    <nd ref="152392224"/>
+    <nd ref="152392225"/>
+    <nd ref="152392226"/>
+    <nd ref="152392227"/>
+    <nd ref="152392228"/>
+    <nd ref="152392229"/>
+    <nd ref="152392231"/>
+    <nd ref="152392233"/>
+    <nd ref="152392235"/>
+    <nd ref="152392238"/>
+    <nd ref="152392240"/>
+    <nd ref="152392241"/>
+    <nd ref="152392242"/>
+    <nd ref="152392243"/>
+    <nd ref="152392244"/>
+    <nd ref="152392245"/>
+    <nd ref="152392246"/>
+    <nd ref="152392247"/>
+    <nd ref="152392249"/>
+    <nd ref="152392250"/>
+    <nd ref="152392252"/>
+    <nd ref="152392253"/>
+    <nd ref="152392255"/>
+    <nd ref="152392257"/>
+    <nd ref="152392260"/>
+    <nd ref="152392262"/>
+    <nd ref="1443776530"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="McCallen Pass"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A45"/>
+    <tag k="tiger:county" v="Travis, TX"/>
+    <tag k="tiger:name_base" v="McCallen"/>
+    <tag k="tiger:name_type" v="Pass"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="64065516:64026389:64094995; 64068821:64068825"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-d2be3ce0-24d6-40df-9a5f-7cd099f6eb32"/>
+  </way>
+  <way id="39655031" version="1" timestamp="2009-08-27T20:15:59Z" uid="68769" user="david lynch" changeset="2282180">
+    <nd ref="152395193"/>
+    <nd ref="152395196"/>
+    <nd ref="152379864"/>
+    <nd ref="152395199"/>
+    <nd ref="152395202"/>
+    <nd ref="152395204"/>
+    <nd ref="152395205"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="W Yager Ln"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Travis, TX"/>
+    <tag k="tiger:name_base" v="Yager"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="64008449:63982950:63982951:63934037:64064674:64064675:64026341"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-d2be3ce0-24d6-40df-9a5f-7cd099f6eb32"/>
+    <tag k="tiger:zip_left" v="78753"/>
+    <tag k="tiger:zip_right" v="78753"/>
+  </way>
+  <way id="39655031" version="2" timestamp="2010-04-07T13:48:03Z" uid="20587" user="balrog-kun" changeset="4353646">
+    <nd ref="152395193"/>
+    <nd ref="152395196"/>
+    <nd ref="152379864"/>
+    <nd ref="152395199"/>
+    <nd ref="152395202"/>
+    <nd ref="152395204"/>
+    <nd ref="152395205"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="West Yager Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Travis, TX"/>
+    <tag k="tiger:name_base" v="Yager"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="64008449:63982950:63982951:63934037:64064674:64064675:64026341"/>
+    <tag k="tiger:zip_left" v="78753"/>
+    <tag k="tiger:zip_right" v="78753"/>
+  </way>
+  <way id="39655031" version="3" timestamp="2011-06-21T21:09:35Z" uid="388279" user="Tylan" changeset="8508389">
+    <nd ref="152395193"/>
+    <nd ref="152395199"/>
+    <nd ref="1333983916"/>
+    <nd ref="152395202"/>
+    <nd ref="152395204"/>
+    <nd ref="152395205"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="West Yager Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Travis, TX"/>
+    <tag k="tiger:name_base" v="Yager"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="64008449:63982950:63982951:63934037:64064674:64064675:64026341"/>
+    <tag k="tiger:zip_left" v="78753"/>
+    <tag k="tiger:zip_right" v="78753"/>
+  </way>
+  <way id="39655043" version="3" timestamp="2010-06-29T19:13:43Z" uid="74617" user="JohnSmith" changeset="5108182">
+    <nd ref="475365497"/>
+    <nd ref="475365499"/>
+    <nd ref="475365501"/>
+    <nd ref="475365503"/>
+    <nd ref="475365497"/>
+    <tag k="fixme" v="sport=football is ambiguous, see http://wiki.osm.org/wiki/Football for more details"/>
+    <tag k="layer" v="1"/>
+    <tag k="sport" v="football"/>
+  </way>
+  <way id="39655254" version="3" timestamp="2010-06-29T19:11:03Z" uid="74617" user="JohnSmith" changeset="5108182">
+    <nd ref="475367144"/>
+    <nd ref="475367147"/>
+    <nd ref="475367149"/>
+    <nd ref="475367152"/>
+    <nd ref="475367144"/>
+    <tag k="fixme" v="sport=football is ambiguous, see http://wiki.osm.org/wiki/Football for more details"/>
+    <tag k="sport" v="football"/>
+  </way>
+  <way id="39655320" version="2" timestamp="2010-06-29T19:07:33Z" uid="74617" user="JohnSmith" changeset="5108182">
+    <nd ref="475367260"/>
+    <nd ref="475367261"/>
+    <nd ref="475367262"/>
+    <nd ref="475367263"/>
+    <nd ref="475367260"/>
+    <tag k="fixme" v="sport=football is ambiguous, see http://wiki.osm.org/wiki/Football for more details"/>
+    <tag k="sport" v="football"/>
+  </way>
+  <way id="39655438" version="1" timestamp="2009-08-27T20:28:49Z" uid="161438" user="Sive" changeset="2283085">
+    <nd ref="414149487"/>
+    <nd ref="612942"/>
+    <tag k="access" v="designated"/>
+    <tag k="highway" v="track"/>
+    <tag k="motorcar" v="no"/>
+    <tag k="motorcycle" v="no"/>
+    <tag k="surface" v="sand"/>
+    <tag k="tracktype" v="grade4"/>
+  </way>
+  <way id="39655438" version="2" timestamp="2010-05-15T22:01:36Z" uid="128941" user="Oliver Kiddle" changeset="4711111">
+    <nd ref="414149487"/>
+    <nd ref="735828641"/>
+    <nd ref="612942"/>
+    <tag k="access" v="designated"/>
+    <tag k="highway" v="track"/>
+    <tag k="motorcar" v="no"/>
+    <tag k="motorcycle" v="no"/>
+    <tag k="surface" v="sand"/>
+    <tag k="tracktype" v="grade4"/>
+  </way>
+  <way id="39655438" version="3" timestamp="2010-05-24T21:15:12Z" uid="188798" user="jEmqo" changeset="4798741">
+    <nd ref="414149487"/>
+    <nd ref="735828641"/>
+    <nd ref="612942"/>
+    <tag k="access" v="designated"/>
+    <tag k="highway" v="track"/>
+    <tag k="motorcar" v="no"/>
+    <tag k="motorcycle" v="no"/>
+    <tag k="surface" v="ground"/>
+    <tag k="tracktype" v="grade2"/>
+  </way>
+  <way id="39655438" version="4" timestamp="2010-05-28T20:14:28Z" uid="188798" user="jEmqo" changeset="4835718">
+    <nd ref="414149487"/>
+    <nd ref="735828641"/>
+    <nd ref="612942"/>
+    <tag k="access" v="designated"/>
+    <tag k="highway" v="track"/>
+    <tag k="motorcar" v="no"/>
+    <tag k="motorcycle" v="no"/>
+    <tag k="surface" v="compacted"/>
+    <tag k="tracktype" v="grade2"/>
+  </way>
+  <way id="39655438" version="5" timestamp="2010-05-29T23:58:59Z" uid="128941" user="Oliver Kiddle" changeset="4847555">
+    <nd ref="757470249"/>
+    <nd ref="414149487"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="track"/>
+    <tag k="motor_vehicle" v="forestry"/>
+    <tag k="tracktype" v="grade4"/>
+  </way>
+  <way id="39655438" version="6" timestamp="2012-02-09T06:36:21Z" uid="157286" user="SGiersch" changeset="10631007"/>
+  <way id="39655440" version="1" timestamp="2009-08-27T20:28:49Z" uid="161438" user="Sive" changeset="2283085">
+    <nd ref="612982"/>
+    <nd ref="297240389"/>
+    <tag k="highway" v="track"/>
+    <tag k="motorcar" v="no"/>
+    <tag k="motorcycle" v="no"/>
+    <tag k="surface" v="sand"/>
+    <tag k="tracktype" v="grade4"/>
+  </way>
+  <way id="39655440" version="2" timestamp="2010-05-24T21:15:11Z" uid="188798" user="jEmqo" changeset="4798741">
+    <nd ref="612970"/>
+    <nd ref="747472774"/>
+    <nd ref="612982"/>
+    <nd ref="297240389"/>
+    <tag k="highway" v="track"/>
+    <tag k="motorcar" v="no"/>
+    <tag k="motorcycle" v="no"/>
+    <tag k="tracktype" v="grade2"/>
+  </way>
+  <way id="39655440" version="3" timestamp="2010-05-28T20:14:32Z" uid="188798" user="jEmqo" changeset="4835718">
+    <nd ref="612970"/>
+    <nd ref="747472774"/>
+    <nd ref="612982"/>
+    <nd ref="297240389"/>
+    <tag k="highway" v="track"/>
+    <tag k="motorcar" v="no"/>
+    <tag k="motorcycle" v="no"/>
+    <tag k="surface" v="compacted"/>
+    <tag k="tracktype" v="grade2"/>
+  </way>
+  <way id="39655440" version="4" timestamp="2010-05-30T20:04:24Z" uid="128941" user="Oliver Kiddle" changeset="4856847">
+    <nd ref="612970"/>
+    <nd ref="747472774"/>
+    <nd ref="612982"/>
+    <nd ref="759929113"/>
+    <nd ref="297240389"/>
+    <tag k="highway" v="track"/>
+    <tag k="motorcar" v="no"/>
+    <tag k="motorcycle" v="no"/>
+    <tag k="surface" v="compacted"/>
+    <tag k="tracktype" v="grade2"/>
+  </way>
+  <way id="39655440" version="5" timestamp="2010-06-20T19:24:13Z" uid="128941" user="Oliver Kiddle" changeset="5036504">
+    <nd ref="612970"/>
+    <nd ref="747472774"/>
+    <nd ref="612982"/>
+    <nd ref="759929113"/>
+    <nd ref="778542367"/>
+    <nd ref="297240389"/>
+    <tag k="highway" v="track"/>
+    <tag k="motor_vehicle" v="forestry"/>
+    <tag k="name" v="Landgrabenschneise"/>
+    <tag k="surface" v="compacted"/>
+    <tag k="tracktype" v="grade2"/>
+  </way>
+  <way id="39655440" version="6" timestamp="2012-02-09T06:36:16Z" uid="157286" user="SGiersch" changeset="10631007"/>
+</osm>

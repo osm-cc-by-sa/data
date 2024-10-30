@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="75566912" version="1" timestamp="2010-09-01T18:20:45Z" uid="96874" user="Quedel" changeset="5656024">
+    <nd ref="298863154"/>
+    <nd ref="298863151"/>
+    <tag k="highway" v="footway"/>
+    <tag k="surface" v="cobblestone"/>
+  </way>
+  <way id="75566912" version="2" timestamp="2010-10-13T13:14:47Z" uid="96874" user="Quedel" changeset="6029120">
+    <nd ref="298863154"/>
+    <nd ref="298863151"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="footway"/>
+    <tag k="surface" v="cobblestone"/>
+  </way>
+  <way id="75566922" version="1" timestamp="2010-09-01T18:20:47Z" uid="96874" user="Quedel" changeset="5656024">
+    <nd ref="266823294"/>
+    <nd ref="266823273"/>
+    <nd ref="299566050"/>
+    <nd ref="299573813"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Neuendorf"/>
+    <tag k="surface" v="cobblestone"/>
+    <tag k="width" v="6"/>
+  </way>
+  <way id="75566922" version="2" timestamp="2010-10-15T18:48:42Z" uid="96874" user="Quedel" changeset="6051410">
+    <nd ref="266823294"/>
+    <nd ref="266823273"/>
+    <nd ref="299566050"/>
+    <nd ref="299573813"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Neuendorf"/>
+    <tag k="parking:condition:left" v="residents"/>
+    <tag k="parking:lane:left" v="inline"/>
+    <tag k="parking:lane:right" v="no_parking"/>
+    <tag k="surface" v="cobblestone"/>
+    <tag k="width" v="6"/>
+  </way>
+  <way id="75566924" version="1" timestamp="2010-09-01T18:20:47Z" uid="96874" user="Quedel" changeset="5656024">
+    <nd ref="892303097"/>
+    <nd ref="297471525"/>
+    <nd ref="297471525"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="75566924" version="2" timestamp="2010-09-01T22:07:38Z" uid="96874" user="Quedel" changeset="5657999"/>
+  <way id="75566962" version="1" timestamp="2010-09-01T18:20:57Z" uid="96874" user="Quedel" changeset="5656024">
+    <nd ref="892303308"/>
+    <nd ref="892303311"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="75566962" version="2" timestamp="2010-09-30T15:41:37Z" uid="96874" user="Quedel" changeset="5921031">
+    <nd ref="892303308"/>
+    <nd ref="931881989"/>
+    <nd ref="892303311"/>
+    <tag k="highway" v="footway"/>
+  </way>
+</osm>

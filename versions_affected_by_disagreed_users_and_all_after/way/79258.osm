@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="79258184" version="2" timestamp="2010-10-24T21:08:58Z" uid="23543" user="jkjk" changeset="6163418">
+    <nd ref="30991888"/>
+    <nd ref="30991887"/>
+    <nd ref="28976751"/>
+    <nd ref="30991892"/>
+    <nd ref="963940148"/>
+    <nd ref="28976744"/>
+    <tag k="cycleway" v="shared_lane"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Vídeňská"/>
+    <tag k="note" v="cyklobuspruh"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="603"/>
+  </way>
+  <way id="79258184" version="3" timestamp="2011-02-28T11:22:24Z" uid="25867" user="adamos" changeset="7419601">
+    <nd ref="30991888"/>
+    <nd ref="1178929435"/>
+    <nd ref="30991887"/>
+    <nd ref="28976751"/>
+    <nd ref="30991892"/>
+    <nd ref="963940148"/>
+    <nd ref="28976744"/>
+    <tag k="cycleway" v="shared_lane"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Vídeňská"/>
+    <tag k="note" v="cyklobuspruh"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="603"/>
+  </way>
+  <way id="79258184" version="4" timestamp="2011-08-01T09:59:29Z" uid="17615" user="Petr Dlouhý" changeset="8889084">
+    <nd ref="30991888"/>
+    <nd ref="1178929435"/>
+    <nd ref="30991887"/>
+    <nd ref="28976751"/>
+    <nd ref="30991892"/>
+    <nd ref="963940148"/>
+    <nd ref="28976744"/>
+    <tag k="busway" v="lane"/>
+    <tag k="cycleway" v="share_busway"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Vídeňská"/>
+    <tag k="note" v="cyklobuspruh"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="603"/>
+  </way>
+</osm>

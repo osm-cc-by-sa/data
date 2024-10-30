@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="102001026" version="1" timestamp="2011-02-27T17:45:26Z" uid="43863" user="Rundling" changeset="7413334">
+    <nd ref="1177507939"/>
+    <nd ref="1177507850"/>
+    <nd ref="1177507773"/>
+    <nd ref="1177508014"/>
+    <nd ref="1177507939"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="102001026" version="2" timestamp="2011-04-03T15:52:42Z" uid="43863" user="Rundling" changeset="7755739">
+    <nd ref="1177507939"/>
+    <nd ref="1177507850"/>
+    <nd ref="1231057607"/>
+    <nd ref="1231057618"/>
+    <nd ref="1177507773"/>
+    <nd ref="1177508014"/>
+    <nd ref="1177507939"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="102001030" version="1" timestamp="2011-02-27T17:45:27Z" uid="43863" user="Rundling" changeset="7413334">
+    <nd ref="1177507844"/>
+    <nd ref="1177507728"/>
+    <nd ref="1177507929"/>
+    <nd ref="1177507771"/>
+    <nd ref="1177507967"/>
+    <nd ref="1177507844"/>
+    <tag k="access" v="private"/>
+    <tag k="amenity" v="parking"/>
+    <tag k="capacity:disabled" v="no"/>
+    <tag k="capacity:parent" v="no"/>
+    <tag k="capacity:women" v="no"/>
+    <tag k="fee" v="no"/>
+    <tag k="park_ride" v="no"/>
+    <tag k="parking" v="surface"/>
+  </way>
+  <way id="102001031" version="1" timestamp="2011-02-27T17:45:27Z" uid="43863" user="Rundling" changeset="7413334">
+    <nd ref="1177507967"/>
+    <nd ref="1177507909"/>
+    <tag k="highway" v="service"/>
+    <tag k="service" v="parking_aisle"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="102001034" version="1" timestamp="2011-02-27T17:45:28Z" uid="43863" user="Rundling" changeset="7413334">
+    <nd ref="1177507965"/>
+    <nd ref="1177507956"/>
+    <tag k="access" v="private"/>
+    <tag k="agricultural" v="no"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="goods" v="no"/>
+    <tag k="hgv" v="no"/>
+    <tag k="highway" v="service"/>
+    <tag k="horse" v="no"/>
+    <tag k="motorcar" v="no"/>
+    <tag k="motorcycle" v="no"/>
+    <tag k="service" v="driveway"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+</osm>

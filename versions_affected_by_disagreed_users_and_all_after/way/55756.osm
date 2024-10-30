@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="55756248" version="1" timestamp="2010-04-17T22:38:27Z" uid="7617" user="Franc" changeset="4453111">
+    <nd ref="134318131"/>
+    <nd ref="671177893"/>
+    <nd ref="671177895"/>
+    <nd ref="671177897"/>
+    <nd ref="671177863"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Coorish Circle"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="55756250" version="1" timestamp="2010-04-17T22:38:27Z" uid="7617" user="Franc" changeset="4453111">
+    <nd ref="700401476"/>
+    <nd ref="700401477"/>
+    <nd ref="700401478"/>
+    <nd ref="700401479"/>
+    <nd ref="700401480"/>
+    <nd ref="700401481"/>
+    <nd ref="700401482"/>
+    <nd ref="700401483"/>
+    <nd ref="700401484"/>
+    <nd ref="700401485"/>
+    <nd ref="700401476"/>
+    <tag k="leisure" v="playground"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="55756252" version="1" timestamp="2010-04-17T22:38:27Z" uid="7617" user="Franc" changeset="4453111">
+    <nd ref="700401494"/>
+    <nd ref="700401495"/>
+    <nd ref="700401489"/>
+    <nd ref="700401490"/>
+    <nd ref="700401494"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="bowls"/>
+  </way>
+  <way id="55756254" version="1" timestamp="2010-04-17T22:38:27Z" uid="7617" user="Franc" changeset="4453111">
+    <nd ref="700401496"/>
+    <nd ref="700401499"/>
+    <nd ref="700401493"/>
+    <nd ref="700401492"/>
+    <nd ref="700401496"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="bowls"/>
+  </way>
+  <way id="55756255" version="1" timestamp="2010-04-17T22:38:27Z" uid="7617" user="Franc" changeset="4453111">
+    <nd ref="700401497"/>
+    <nd ref="700401498"/>
+    <nd ref="700401491"/>
+    <nd ref="700401488"/>
+    <nd ref="700401497"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="bowls"/>
+  </way>
+  <way id="55756257" version="1" timestamp="2010-04-17T22:38:27Z" uid="7617" user="Franc" changeset="4453111">
+    <nd ref="700401503"/>
+    <nd ref="82266230"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="maxspeed:(Mo-Fr 08:00-09:30,14:30-16:00)" v="40"/>
+    <tag k="name" v="Beauchamp Road"/>
+  </way>
+  <way id="55756257" version="2" timestamp="2011-12-13T22:58:45Z" uid="349913" user="Peter W34" changeset="10112055">
+    <nd ref="700401503"/>
+    <nd ref="82266230"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="maxspeed:restriction" v="40"/>
+    <tag k="name" v="Beauchamp Road"/>
+    <tag k="restriction" v="school_zone"/>
+    <tag k="restriction_hours" v="Mo-Fr 08:00-09:30;14:30-16:00"/>
+  </way>
+</osm>

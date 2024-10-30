@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="35212291" version="4" timestamp="2010-03-07T08:48:27Z" uid="58091" user="Andreas M" changeset="4058292">
+    <nd ref="31258177"/>
+    <nd ref="252725258"/>
+    <tag k="highway" v="residential"/>
+    <tag k="is_in:city" v="Stockerau"/>
+    <tag k="is_in:country_code" v="AT"/>
+    <tag k="name" v="Schulgasse"/>
+    <tag k="postal_code" v="2000"/>
+  </way>
+  <way id="35212291" version="5" timestamp="2010-10-29T19:37:06Z" uid="362390" user="AndiPersti" changeset="6221620">
+    <nd ref="252725230"/>
+    <nd ref="969081667"/>
+    <nd ref="969081608"/>
+    <nd ref="969081703"/>
+    <nd ref="969081638"/>
+    <nd ref="252725258"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Schulgasse"/>
+  </way>
+  <way id="35212291" version="6" timestamp="2010-11-11T20:33:46Z" uid="362390" user="AndiPersti" changeset="6346691">
+    <nd ref="252725230"/>
+    <nd ref="969081667"/>
+    <nd ref="969081608"/>
+    <nd ref="969081638"/>
+    <nd ref="985972071"/>
+    <nd ref="252725258"/>
+    <tag k="access" v="delivery"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Schulgasse"/>
+  </way>
+  <way id="35212291" version="7" timestamp="2011-12-25T13:54:47Z" uid="78656" user="Walter Schlögl" changeset="10199822">
+    <nd ref="252725230"/>
+    <nd ref="969081667"/>
+    <nd ref="969081608"/>
+    <nd ref="969081638"/>
+    <nd ref="985972071"/>
+    <nd ref="252725258"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="motor_vehicle" v="delivery"/>
+    <tag k="name" v="Schulgasse"/>
+  </way>
+  <way id="35212666" version="2" timestamp="2010-01-15T23:11:23Z" uid="20587" user="balrog-kun" changeset="3628241">
+    <nd ref="412906829"/>
+    <nd ref="614465461"/>
+    <nd ref="254025093"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="35212667" version="2" timestamp="2009-08-06T01:56:23Z" uid="20587" user="balrog-kun" changeset="2051676">
+    <nd ref="412906829"/>
+    <nd ref="457300601"/>
+    <nd ref="412906848"/>
+    <tag k="highway" v="tertiary"/>
+  </way>
+</osm>
