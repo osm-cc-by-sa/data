@@ -1,0 +1,2026 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="52153012" version="1" timestamp="2010-03-12T09:45:52Z" uid="7617" user="Franc" changeset="4104695">
+    <nd ref="664451810"/>
+    <nd ref="244487798"/>
+    <nd ref="244487799"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Eltham Street"/>
+  </way>
+  <way id="52153012" version="2" timestamp="2010-07-08T01:01:17Z" uid="74617" user="JohnSmith" changeset="5162525">
+    <nd ref="664451810"/>
+    <nd ref="244487798"/>
+    <nd ref="244487799"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Eltham Street"/>
+  </way>
+  <way id="52153012" version="3" timestamp="2012-01-20T03:41:55Z" uid="147510" user="woodpeck_fixbot" changeset="10442986">
+    <nd ref="664451810"/>
+    <nd ref="244487798"/>
+    <nd ref="244487799"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Eltham Street"/>
+  </way>
+  <way id="52153012" version="4" timestamp="2012-02-07T05:18:39Z" uid="7523" user="inas" changeset="10609121">
+    <nd ref="664451810"/>
+    <nd ref="244487798"/>
+    <nd ref="1621196622"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Eltham Street"/>
+  </way>
+  <way id="52153013" version="1" timestamp="2010-03-12T09:45:52Z" uid="7617" user="Franc" changeset="4104695">
+    <nd ref="664451770"/>
+    <nd ref="26400635"/>
+    <nd ref="26400638"/>
+    <nd ref="34157426"/>
+    <nd ref="33093456"/>
+    <nd ref="34157812"/>
+    <nd ref="99655126"/>
+    <nd ref="12224333"/>
+    <nd ref="12224336"/>
+    <nd ref="34157350"/>
+    <nd ref="581922543"/>
+    <tag k="highway" v="primary"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Victoria Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="52153013" version="2" timestamp="2010-07-01T01:54:25Z" uid="299678" user="peteramjet" changeset="5117670">
+    <nd ref="664451770"/>
+    <nd ref="26400635"/>
+    <nd ref="26400638"/>
+    <nd ref="34157426"/>
+    <nd ref="33093456"/>
+    <nd ref="34157812"/>
+    <nd ref="99655126"/>
+    <nd ref="12224333"/>
+    <nd ref="12224336"/>
+    <nd ref="34157350"/>
+    <nd ref="581922543"/>
+    <tag k="highway" v="primary"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Victoria Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S40"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="52153013" version="3" timestamp="2010-07-05T06:22:52Z" uid="299678" user="peteramjet" changeset="5138906">
+    <nd ref="664451770"/>
+    <nd ref="26400635"/>
+    <nd ref="26400638"/>
+    <nd ref="34157426"/>
+    <nd ref="33093456"/>
+    <nd ref="34157812"/>
+    <nd ref="99655126"/>
+    <nd ref="12224333"/>
+    <nd ref="12224336"/>
+    <nd ref="34157350"/>
+    <nd ref="581922543"/>
+    <tag k="highway" v="primary"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Victoria Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="52153013" version="4" timestamp="2012-02-02T02:14:33Z" uid="54784" user="Tom Hollander" changeset="10564163">
+    <nd ref="664451770"/>
+    <nd ref="26400635"/>
+    <nd ref="26400638"/>
+    <nd ref="34157426"/>
+    <nd ref="33093456"/>
+    <nd ref="34157812"/>
+    <nd ref="99655126"/>
+    <nd ref="12224333"/>
+    <nd ref="12224336"/>
+    <nd ref="34157350"/>
+    <nd ref="581922543"/>
+    <tag k="highway" v="primary"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Victoria Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="SH40"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="52153013" version="5" timestamp="2012-02-07T00:09:08Z" uid="7523" user="inas" changeset="10608317">
+    <nd ref="664451770"/>
+    <nd ref="26400635"/>
+    <nd ref="26400638"/>
+    <nd ref="34157426"/>
+    <nd ref="33093456"/>
+    <nd ref="34157812"/>
+    <nd ref="12224333"/>
+    <nd ref="12224336"/>
+    <nd ref="34157350"/>
+    <nd ref="581922543"/>
+    <tag k="highway" v="primary"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Victoria Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="SH40"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="52153013" version="6" timestamp="2012-02-07T00:31:28Z" uid="7523" user="inas" changeset="10608372">
+    <nd ref="664451770"/>
+    <nd ref="26400635"/>
+    <nd ref="26400638"/>
+    <nd ref="34157426"/>
+    <nd ref="33093456"/>
+    <nd ref="34157812"/>
+    <nd ref="1621006881"/>
+    <tag k="highway" v="primary"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Victoria Road"/>
+    <tag k="network" v="SH"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="40"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="52153014" version="1" timestamp="2010-03-12T09:45:52Z" uid="7617" user="Franc" changeset="4104695">
+    <nd ref="664451771"/>
+    <nd ref="244487839"/>
+    <nd ref="34135383"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Junction Street"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="52153014" version="2" timestamp="2010-03-12T10:37:31Z" uid="7617" user="Franc" changeset="4104996">
+    <nd ref="664451771"/>
+    <nd ref="244487839"/>
+    <nd ref="664461288"/>
+    <nd ref="34135383"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Junction Street"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="52153014" version="3" timestamp="2010-07-08T00:59:22Z" uid="74617" user="JohnSmith" changeset="5162525">
+    <nd ref="664451771"/>
+    <nd ref="244487839"/>
+    <nd ref="664461288"/>
+    <nd ref="34135383"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Junction Street"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="52153014" version="4" timestamp="2012-01-20T03:41:56Z" uid="147510" user="woodpeck_fixbot" changeset="10442986">
+    <nd ref="664451771"/>
+    <nd ref="244487839"/>
+    <nd ref="664461288"/>
+    <nd ref="34135383"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Junction Street"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="52153015" version="1" timestamp="2010-03-12T09:45:52Z" uid="7617" user="Franc" changeset="4104695">
+    <nd ref="313661884"/>
+    <nd ref="99655140"/>
+    <nd ref="99655142"/>
+    <nd ref="99655150"/>
+    <nd ref="99655149"/>
+    <nd ref="99655145"/>
+    <nd ref="99655147"/>
+    <nd ref="664451775"/>
+    <nd ref="131952329"/>
+    <nd ref="99655151"/>
+    <nd ref="99655152"/>
+    <nd ref="244487810"/>
+    <nd ref="99657864"/>
+    <nd ref="244487758"/>
+    <nd ref="273685927"/>
+    <nd ref="664451802"/>
+    <nd ref="234863442"/>
+    <nd ref="99657877"/>
+    <nd ref="664451805"/>
+    <nd ref="664451806"/>
+    <nd ref="664451808"/>
+    <nd ref="99657880"/>
+    <nd ref="99657924"/>
+    <nd ref="273685934"/>
+    <nd ref="244487330"/>
+    <nd ref="313824835"/>
+    <nd ref="313824760"/>
+    <nd ref="99657890"/>
+    <nd ref="99657989"/>
+    <nd ref="654087717"/>
+    <tag k="highway" v="primary"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Victoria Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="yahoo_imagery"/>
+    <tag k="source:name" v="knowledge"/>
+  </way>
+  <way id="52153015" version="2" timestamp="2010-03-12T10:37:32Z" uid="7617" user="Franc" changeset="4104996">
+    <nd ref="313661884"/>
+    <nd ref="99655140"/>
+    <nd ref="99655142"/>
+    <nd ref="99655150"/>
+    <nd ref="99655149"/>
+    <nd ref="99655145"/>
+    <nd ref="99655147"/>
+    <nd ref="664451775"/>
+    <nd ref="131952329"/>
+    <nd ref="664461279"/>
+    <tag k="highway" v="primary"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Victoria Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="restriction" v="school_zone"/>
+    <tag k="source" v="yahoo_imagery"/>
+    <tag k="source:name" v="knowledge"/>
+  </way>
+  <way id="52153015" version="3" timestamp="2010-06-04T08:43:26Z" uid="20949" user="Ebenezer" changeset="4899109">
+    <nd ref="313661884"/>
+    <nd ref="99655140"/>
+    <nd ref="764074001"/>
+    <nd ref="99655142"/>
+    <nd ref="99655150"/>
+    <nd ref="99655149"/>
+    <nd ref="99655145"/>
+    <nd ref="99655147"/>
+    <nd ref="664451775"/>
+    <nd ref="131952329"/>
+    <nd ref="664461279"/>
+    <tag k="highway" v="primary"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Victoria Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="restriction" v="school_zone"/>
+    <tag k="source" v="yahoo_imagery"/>
+    <tag k="source:name" v="knowledge"/>
+  </way>
+  <way id="52153015" version="4" timestamp="2010-07-01T01:54:26Z" uid="299678" user="peteramjet" changeset="5117670">
+    <nd ref="313661884"/>
+    <nd ref="99655140"/>
+    <nd ref="764074001"/>
+    <nd ref="99655142"/>
+    <nd ref="99655150"/>
+    <nd ref="99655149"/>
+    <nd ref="99655145"/>
+    <nd ref="99655147"/>
+    <nd ref="664451775"/>
+    <nd ref="131952329"/>
+    <nd ref="664461279"/>
+    <tag k="highway" v="primary"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Victoria Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S40"/>
+    <tag k="restriction" v="school_zone"/>
+    <tag k="source" v="yahoo_imagery"/>
+    <tag k="source:name" v="knowledge"/>
+  </way>
+  <way id="52153015" version="5" timestamp="2010-07-05T06:23:40Z" uid="299678" user="peteramjet" changeset="5138906">
+    <nd ref="313661884"/>
+    <nd ref="99655140"/>
+    <nd ref="764074001"/>
+    <nd ref="99655142"/>
+    <nd ref="99655150"/>
+    <nd ref="99655149"/>
+    <nd ref="99655145"/>
+    <nd ref="99655147"/>
+    <nd ref="664451775"/>
+    <nd ref="131952329"/>
+    <nd ref="664461279"/>
+    <tag k="highway" v="primary"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Victoria Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="restriction" v="school_zone"/>
+    <tag k="source" v="yahoo_imagery"/>
+    <tag k="source:name" v="knowledge"/>
+  </way>
+  <way id="52153015" version="6" timestamp="2011-09-05T06:16:45Z" uid="7523" user="inas" changeset="9214390">
+    <nd ref="313661884"/>
+    <nd ref="99655140"/>
+    <nd ref="764074001"/>
+    <nd ref="99655142"/>
+    <nd ref="99655150"/>
+    <nd ref="99655149"/>
+    <nd ref="99655145"/>
+    <nd ref="99655147"/>
+    <nd ref="664451775"/>
+    <nd ref="131952329"/>
+    <nd ref="1423737138"/>
+    <nd ref="664461279"/>
+    <tag k="highway" v="primary"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Victoria Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="restriction" v="school_zone"/>
+    <tag k="source" v="yahoo_imagery"/>
+    <tag k="source:name" v="knowledge"/>
+  </way>
+  <way id="52153015" version="7" timestamp="2012-02-02T02:14:34Z" uid="54784" user="Tom Hollander" changeset="10564163">
+    <nd ref="313661884"/>
+    <nd ref="99655140"/>
+    <nd ref="764074001"/>
+    <nd ref="99655142"/>
+    <nd ref="99655150"/>
+    <nd ref="99655149"/>
+    <nd ref="99655145"/>
+    <nd ref="99655147"/>
+    <nd ref="664451775"/>
+    <nd ref="131952329"/>
+    <nd ref="1423737138"/>
+    <nd ref="664461279"/>
+    <tag k="highway" v="primary"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Victoria Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="SH40"/>
+    <tag k="restriction" v="school_zone"/>
+    <tag k="source" v="yahoo_imagery"/>
+    <tag k="source:name" v="knowledge"/>
+  </way>
+  <way id="52153015" version="8" timestamp="2012-03-08T05:58:28Z" uid="7523" user="inas" changeset="10906275">
+    <nd ref="313661884"/>
+    <nd ref="99655140"/>
+    <nd ref="764074001"/>
+    <nd ref="99655142"/>
+    <nd ref="99655150"/>
+    <nd ref="99655149"/>
+    <nd ref="99655145"/>
+    <nd ref="99655147"/>
+    <nd ref="664451775"/>
+    <nd ref="131952329"/>
+    <nd ref="1423737138"/>
+    <nd ref="664461279"/>
+    <tag k="highway" v="primary"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Victoria Road"/>
+    <tag k="network" v="SH"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="40"/>
+    <tag k="restriction" v="school_zone"/>
+    <tag k="source" v="yahoo_imagery"/>
+    <tag k="source:name" v="knowledge"/>
+  </way>
+  <way id="52153016" version="1" timestamp="2010-03-12T09:45:53Z" uid="7617" user="Franc" changeset="4104695">
+    <nd ref="664451766"/>
+    <nd ref="98719775"/>
+    <nd ref="98704312"/>
+    <nd ref="98704303"/>
+    <nd ref="98704291"/>
+    <nd ref="613822194"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Meriton Street"/>
+  </way>
+  <way id="52153016" version="2" timestamp="2010-06-04T08:43:28Z" uid="20949" user="Ebenezer" changeset="4899109">
+    <nd ref="664451766"/>
+    <nd ref="98719775"/>
+    <nd ref="98704312"/>
+    <nd ref="98704303"/>
+    <nd ref="98704291"/>
+    <nd ref="613822194"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lcn" v="yes"/>
+    <tag k="name" v="Meriton Street"/>
+  </way>
+  <way id="52153016" version="3" timestamp="2010-07-08T01:00:32Z" uid="74617" user="JohnSmith" changeset="5162525">
+    <nd ref="664451766"/>
+    <nd ref="98719775"/>
+    <nd ref="98704312"/>
+    <nd ref="98704303"/>
+    <nd ref="98704291"/>
+    <nd ref="613822194"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lcn" v="yes"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Meriton Street"/>
+  </way>
+  <way id="52153016" version="4" timestamp="2011-09-05T06:16:44Z" uid="7523" user="inas" changeset="9214390">
+    <nd ref="664451766"/>
+    <nd ref="1423737165"/>
+    <nd ref="98704312"/>
+    <nd ref="98704303"/>
+    <nd ref="98704291"/>
+    <nd ref="613822194"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lcn" v="yes"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Meriton Street"/>
+  </way>
+  <way id="52153016" version="5" timestamp="2012-01-20T03:41:57Z" uid="147510" user="woodpeck_fixbot" changeset="10442986">
+    <nd ref="664451766"/>
+    <nd ref="1423737165"/>
+    <nd ref="98704312"/>
+    <nd ref="98704303"/>
+    <nd ref="98704291"/>
+    <nd ref="613822194"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lcn" v="yes"/>
+    <tag k="name" v="Meriton Street"/>
+  </way>
+  <way id="52153017" version="1" timestamp="2010-03-12T09:45:53Z" uid="7617" user="Franc" changeset="4104695">
+    <nd ref="664451765"/>
+    <nd ref="12224322"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Morrison Road"/>
+    <tag k="restriction" v="school_zone"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="52153017" version="2" timestamp="2010-06-04T08:43:30Z" uid="20949" user="Ebenezer" changeset="4899109">
+    <nd ref="664451765"/>
+    <nd ref="12224322"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="cycleway" v="lane"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lcn" v="yes"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Morrison Road"/>
+    <tag k="restriction" v="school_zone"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="52153018" version="1" timestamp="2010-03-12T09:45:53Z" uid="7617" user="Franc" changeset="4104695">
+    <nd ref="664451772"/>
+    <nd ref="34158768"/>
+    <nd ref="34158767"/>
+    <nd ref="99655145"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Cowell Street"/>
+    <tag k="restriction" v="school_zone"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="52153018" version="2" timestamp="2010-07-08T00:58:43Z" uid="74617" user="JohnSmith" changeset="5162525">
+    <nd ref="664451772"/>
+    <nd ref="34158768"/>
+    <nd ref="34158767"/>
+    <nd ref="99655145"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Cowell Street"/>
+    <tag k="restriction" v="school_zone"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="52153018" version="3" timestamp="2012-01-20T03:41:59Z" uid="147510" user="woodpeck_fixbot" changeset="10442986">
+    <nd ref="664451772"/>
+    <nd ref="34158768"/>
+    <nd ref="34158767"/>
+    <nd ref="99655145"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Cowell Street"/>
+    <tag k="restriction" v="school_zone"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="52153019" version="1" timestamp="2010-03-12T09:45:53Z" uid="7617" user="Franc" changeset="4104695">
+    <nd ref="664451781"/>
+    <nd ref="664451786"/>
+    <nd ref="664451787"/>
+    <nd ref="664451788"/>
+    <nd ref="664451789"/>
+    <nd ref="664451790"/>
+    <nd ref="664451791"/>
+    <nd ref="664451792"/>
+    <nd ref="664451793"/>
+    <nd ref="664451794"/>
+    <nd ref="664451799"/>
+    <nd ref="664451798"/>
+    <nd ref="664451795"/>
+    <nd ref="664451796"/>
+    <nd ref="664451782"/>
+    <nd ref="664451781"/>
+    <tag k="amenity" v="parking"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="52153020" version="1" timestamp="2010-03-12T09:45:53Z" uid="7617" user="Franc" changeset="4104695">
+    <nd ref="664451797"/>
+    <nd ref="664451783"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="52153021" version="1" timestamp="2010-03-12T09:45:53Z" uid="7617" user="Franc" changeset="4104695">
+    <nd ref="664451784"/>
+    <nd ref="664451785"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="52153022" version="1" timestamp="2010-03-12T09:45:53Z" uid="7617" user="Franc" changeset="4104695">
+    <nd ref="664451813"/>
+    <nd ref="244487335"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Frank Street"/>
+  </way>
+  <way id="52153022" version="2" timestamp="2010-07-08T00:57:59Z" uid="74617" user="JohnSmith" changeset="5162525">
+    <nd ref="664451813"/>
+    <nd ref="244487335"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Frank Street"/>
+  </way>
+  <way id="52153022" version="3" timestamp="2012-01-20T03:42:03Z" uid="147510" user="woodpeck_fixbot" changeset="10442986">
+    <nd ref="664451813"/>
+    <nd ref="244487335"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Frank Street"/>
+  </way>
+  <way id="52153023" version="1" timestamp="2010-03-12T09:45:53Z" uid="7617" user="Franc" changeset="4104695">
+    <nd ref="244487762"/>
+    <nd ref="244487763"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Oxford Street"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="52153023" version="2" timestamp="2010-07-08T00:58:56Z" uid="74617" user="JohnSmith" changeset="5162525">
+    <nd ref="244487762"/>
+    <nd ref="244487763"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Oxford Street"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="52153023" version="3" timestamp="2012-01-20T03:42:04Z" uid="147510" user="woodpeck_fixbot" changeset="10442986">
+    <nd ref="244487762"/>
+    <nd ref="244487763"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Oxford Street"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="52153024" version="1" timestamp="2010-03-12T09:45:54Z" uid="7617" user="Franc" changeset="4104695">
+    <nd ref="664451832"/>
+    <nd ref="34126437"/>
+    <nd ref="34126438"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Luke Street"/>
+    <tag k="restriction" v="school_zone"/>
+  </way>
+  <way id="52153025" version="1" timestamp="2010-03-12T09:45:54Z" uid="7617" user="Franc" changeset="4104695">
+    <nd ref="664451829"/>
+    <nd ref="34124543"/>
+    <nd ref="34592664"/>
+    <nd ref="34126451"/>
+    <nd ref="26408596"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Ryde Road"/>
+  </way>
+  <way id="52153025" version="2" timestamp="2011-01-23T00:13:11Z" uid="104101" user="swanilli" changeset="7056931">
+    <nd ref="26408596"/>
+    <nd ref="34126451"/>
+    <nd ref="34592664"/>
+    <nd ref="34124543"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Ryde Road"/>
+  </way>
+  <way id="52153025" version="3" timestamp="2011-03-20T09:23:19Z" uid="9477" user="NilbogAus" changeset="7614005">
+    <nd ref="26408596"/>
+    <nd ref="34126451"/>
+    <nd ref="34592664"/>
+    <nd ref="34124543"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Ryde Road"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="52153026" version="1" timestamp="2010-03-12T09:45:54Z" uid="7617" user="Franc" changeset="4104695">
+    <nd ref="664451814"/>
+    <nd ref="606530512"/>
+    <nd ref="34139550"/>
+    <nd ref="664451825"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Gladesville Road"/>
+    <tag k="restriction" v="school_zone"/>
+  </way>
+  <way id="52153026" version="2" timestamp="2011-03-20T09:23:21Z" uid="9477" user="NilbogAus" changeset="7614005">
+    <nd ref="664451814"/>
+    <nd ref="606530512"/>
+    <nd ref="34139550"/>
+    <nd ref="664451825"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Gladesville Road"/>
+    <tag k="restriction" v="school_zone"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="52153026" version="3" timestamp="2012-02-07T04:30:08Z" uid="7523" user="inas" changeset="10608952">
+    <nd ref="1621185132"/>
+    <nd ref="664451814"/>
+    <nd ref="606530512"/>
+    <nd ref="34139550"/>
+    <nd ref="664451825"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Gladesville Road"/>
+    <tag k="restriction" v="school_zone"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="52153027" version="1" timestamp="2010-03-12T09:45:54Z" uid="7617" user="Franc" changeset="4104695">
+    <nd ref="664451821"/>
+    <nd ref="606530515"/>
+    <nd ref="606530579"/>
+    <nd ref="606530568"/>
+    <nd ref="606530575"/>
+    <nd ref="606530572"/>
+    <nd ref="34126952"/>
+    <nd ref="606530583"/>
+    <nd ref="34124679"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Mark Street"/>
+    <tag k="restriction" v="school_zone"/>
+  </way>
+  <way id="52153027" version="2" timestamp="2010-07-08T00:59:15Z" uid="74617" user="JohnSmith" changeset="5162525">
+    <nd ref="664451821"/>
+    <nd ref="606530515"/>
+    <nd ref="606530579"/>
+    <nd ref="606530568"/>
+    <nd ref="606530575"/>
+    <nd ref="606530572"/>
+    <nd ref="34126952"/>
+    <nd ref="606530583"/>
+    <nd ref="34124679"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Mark Street"/>
+    <tag k="restriction" v="school_zone"/>
+  </way>
+  <way id="52153027" version="3" timestamp="2010-10-18T19:26:01Z" uid="20949" user="Ebenezer" changeset="6085909">
+    <nd ref="664451821"/>
+    <nd ref="606530515"/>
+    <nd ref="606530579"/>
+    <nd ref="606530568"/>
+    <nd ref="606530575"/>
+    <nd ref="606530572"/>
+    <nd ref="34126952"/>
+    <nd ref="606530583"/>
+    <nd ref="34124679"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lcn" v="yes"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Mark Street"/>
+    <tag k="restriction" v="school_zone"/>
+  </way>
+  <way id="52153027" version="4" timestamp="2012-01-20T03:42:06Z" uid="147510" user="woodpeck_fixbot" changeset="10442986">
+    <nd ref="664451821"/>
+    <nd ref="606530515"/>
+    <nd ref="606530579"/>
+    <nd ref="606530568"/>
+    <nd ref="606530575"/>
+    <nd ref="606530572"/>
+    <nd ref="34126952"/>
+    <nd ref="606530583"/>
+    <nd ref="34124679"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lcn" v="yes"/>
+    <tag k="name" v="Mark Street"/>
+    <tag k="restriction" v="school_zone"/>
+  </way>
+  <way id="52153027" version="5" timestamp="2012-02-27T05:56:08Z" uid="7523" user="inas" changeset="10805700">
+    <nd ref="664451821"/>
+    <nd ref="606530575"/>
+    <nd ref="606530572"/>
+    <nd ref="34126952"/>
+    <nd ref="606530583"/>
+    <nd ref="34124679"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lcn" v="yes"/>
+    <tag k="name" v="Mark Street"/>
+    <tag k="restriction" v="school_zone"/>
+  </way>
+  <way id="52153028" version="1" timestamp="2010-03-12T09:45:54Z" uid="7617" user="Franc" changeset="4104695">
+    <nd ref="664451822"/>
+    <nd ref="34133547"/>
+    <nd ref="34126154"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Mary Street"/>
+    <tag k="restriction" v="school_zone"/>
+  </way>
+  <way id="52153028" version="2" timestamp="2010-07-08T00:59:32Z" uid="74617" user="JohnSmith" changeset="5162525">
+    <nd ref="664451822"/>
+    <nd ref="34133547"/>
+    <nd ref="34126154"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Mary Street"/>
+    <tag k="restriction" v="school_zone"/>
+  </way>
+  <way id="52153028" version="3" timestamp="2012-01-20T03:42:07Z" uid="147510" user="woodpeck_fixbot" changeset="10442986">
+    <nd ref="664451822"/>
+    <nd ref="34133547"/>
+    <nd ref="34126154"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Mary Street"/>
+    <tag k="restriction" v="school_zone"/>
+  </way>
+  <way id="52153028" version="4" timestamp="2012-02-07T04:30:09Z" uid="7523" user="inas" changeset="10608952">
+    <nd ref="664451822"/>
+    <nd ref="34133547"/>
+    <nd ref="1621185128"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Mary Street"/>
+    <tag k="restriction" v="school_zone"/>
+  </way>
+  <way id="52153029" version="1" timestamp="2010-03-12T09:45:54Z" uid="7617" user="Franc" changeset="4104695">
+    <nd ref="664451820"/>
+    <nd ref="34133547"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="John Street"/>
+    <tag k="restriction" v="school_zone"/>
+  </way>
+  <way id="52153029" version="2" timestamp="2010-07-08T01:00:26Z" uid="74617" user="JohnSmith" changeset="5162525">
+    <nd ref="664451820"/>
+    <nd ref="34133547"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="John Street"/>
+    <tag k="restriction" v="school_zone"/>
+  </way>
+  <way id="52153029" version="3" timestamp="2012-01-20T03:42:08Z" uid="147510" user="woodpeck_fixbot" changeset="10442986">
+    <nd ref="664451820"/>
+    <nd ref="34133547"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="John Street"/>
+    <tag k="restriction" v="school_zone"/>
+  </way>
+  <way id="52153030" version="1" timestamp="2010-03-12T09:45:54Z" uid="7617" user="Franc" changeset="4104695">
+    <nd ref="664451825"/>
+    <nd ref="34126438"/>
+    <nd ref="34126567"/>
+    <nd ref="34139184"/>
+    <nd ref="34126372"/>
+    <nd ref="664451827"/>
+    <nd ref="26408596"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Gladesville Road"/>
+  </way>
+  <way id="52153030" version="2" timestamp="2011-03-20T09:23:14Z" uid="9477" user="NilbogAus" changeset="7614005">
+    <nd ref="664451825"/>
+    <nd ref="34126438"/>
+    <nd ref="34126567"/>
+    <nd ref="34139184"/>
+    <nd ref="34126372"/>
+    <nd ref="664451827"/>
+    <nd ref="26408596"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Gladesville Road"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="52153031" version="1" timestamp="2010-03-12T09:45:54Z" uid="7617" user="Franc" changeset="4104695">
+    <nd ref="664451826"/>
+    <nd ref="34139550"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rocher Avenue"/>
+    <tag k="restriction" v="school_zone"/>
+  </way>
+  <way id="52153031" version="2" timestamp="2010-07-08T00:58:37Z" uid="74617" user="JohnSmith" changeset="5162525">
+    <nd ref="664451826"/>
+    <nd ref="34139550"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Rocher Avenue"/>
+    <tag k="restriction" v="school_zone"/>
+  </way>
+  <way id="52153031" version="3" timestamp="2012-01-20T03:42:10Z" uid="147510" user="woodpeck_fixbot" changeset="10442986">
+    <nd ref="664451826"/>
+    <nd ref="34139550"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rocher Avenue"/>
+    <tag k="restriction" v="school_zone"/>
+  </way>
+  <way id="52153032" version="1" timestamp="2010-03-12T09:45:54Z" uid="7617" user="Franc" changeset="4104695">
+    <nd ref="664451833"/>
+    <nd ref="34125361"/>
+    <nd ref="34124976"/>
+    <nd ref="34124891"/>
+    <nd ref="34124683"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Martin Street"/>
+  </way>
+  <way id="52153032" version="2" timestamp="2010-07-08T00:58:52Z" uid="74617" user="JohnSmith" changeset="5162525">
+    <nd ref="664451833"/>
+    <nd ref="34125361"/>
+    <nd ref="34124976"/>
+    <nd ref="34124891"/>
+    <nd ref="34124683"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Martin Street"/>
+  </way>
+  <way id="52153032" version="3" timestamp="2010-09-18T22:35:10Z" uid="20949" user="Ebenezer" changeset="5815831">
+    <nd ref="664451833"/>
+    <nd ref="34125361"/>
+    <nd ref="34124976"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lcn" v="yes"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Martin Street"/>
+  </way>
+  <way id="52153032" version="4" timestamp="2012-01-20T03:42:11Z" uid="147510" user="woodpeck_fixbot" changeset="10442986">
+    <nd ref="664451833"/>
+    <nd ref="34125361"/>
+    <nd ref="34124976"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lcn" v="yes"/>
+    <tag k="name" v="Martin Street"/>
+  </way>
+  <way id="52153033" version="1" timestamp="2010-03-12T09:45:55Z" uid="7617" user="Franc" changeset="4104695">
+    <nd ref="664451876"/>
+    <nd ref="34517149"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="High Street"/>
+  </way>
+  <way id="52153033" version="2" timestamp="2010-07-08T00:59:43Z" uid="74617" user="JohnSmith" changeset="5162525">
+    <nd ref="664451876"/>
+    <nd ref="34517149"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="High Street"/>
+  </way>
+  <way id="52153033" version="3" timestamp="2012-01-20T03:42:12Z" uid="147510" user="woodpeck_fixbot" changeset="10442986">
+    <nd ref="664451876"/>
+    <nd ref="34517149"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="High Street"/>
+  </way>
+  <way id="52153034" version="1" timestamp="2010-03-12T09:45:55Z" uid="7617" user="Franc" changeset="4104695">
+    <nd ref="664451878"/>
+    <nd ref="34593111"/>
+    <nd ref="613403217"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Blaxland Street"/>
+  </way>
+  <way id="52153034" version="2" timestamp="2010-07-08T01:01:28Z" uid="74617" user="JohnSmith" changeset="5162525">
+    <nd ref="664451878"/>
+    <nd ref="34593111"/>
+    <nd ref="613403217"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Blaxland Street"/>
+  </way>
+  <way id="52153034" version="3" timestamp="2012-01-20T03:42:13Z" uid="147510" user="woodpeck_fixbot" changeset="10442986">
+    <nd ref="664451878"/>
+    <nd ref="34593111"/>
+    <nd ref="613403217"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Blaxland Street"/>
+  </way>
+  <way id="52153035" version="1" timestamp="2010-03-12T09:45:55Z" uid="7617" user="Franc" changeset="4104695">
+    <nd ref="664451865"/>
+    <nd ref="664451870"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Pittwater Road"/>
+    <tag k="restriction" v="school_zone"/>
+    <tag k="source:name" v="knowledge"/>
+  </way>
+  <way id="52153035" version="2" timestamp="2012-02-07T04:59:06Z" uid="7523" user="inas" changeset="10609068"/>
+  <way id="52153036" version="1" timestamp="2010-03-12T09:45:55Z" uid="7617" user="Franc" changeset="4104695">
+    <nd ref="664451866"/>
+    <nd ref="664451871"/>
+    <nd ref="664451872"/>
+    <nd ref="664451873"/>
+    <nd ref="664451882"/>
+    <nd ref="664451867"/>
+    <nd ref="664451866"/>
+    <tag k="amenity" v="school"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="52153037" version="1" timestamp="2010-03-12T09:45:55Z" uid="7617" user="Franc" changeset="4104695">
+    <nd ref="664451847"/>
+    <nd ref="664451848"/>
+    <nd ref="664451849"/>
+    <nd ref="664451850"/>
+    <nd ref="664451847"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="bowls"/>
+  </way>
+  <way id="52153038" version="1" timestamp="2010-03-12T09:45:55Z" uid="7617" user="Franc" changeset="4104695">
+    <nd ref="664451851"/>
+    <nd ref="664451854"/>
+    <nd ref="664451853"/>
+    <nd ref="664451852"/>
+    <nd ref="664451851"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="bowls"/>
+  </way>
+  <way id="52153039" version="1" timestamp="2010-03-12T09:45:55Z" uid="7617" user="Franc" changeset="4104695">
+    <nd ref="664451864"/>
+    <nd ref="664451863"/>
+    <nd ref="123543411"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Augustine Street"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="52153040" version="1" timestamp="2010-03-12T09:45:55Z" uid="7617" user="Franc" changeset="4104695">
+    <nd ref="664451874"/>
+    <nd ref="664451875"/>
+    <nd ref="664451876"/>
+    <nd ref="664451877"/>
+    <nd ref="664451878"/>
+    <nd ref="664451879"/>
+    <nd ref="664451880"/>
+    <nd ref="664451881"/>
+    <nd ref="664451874"/>
+    <tag k="highway" v="residential"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="52153040" version="2" timestamp="2010-07-08T00:58:29Z" uid="74617" user="JohnSmith" changeset="5162525">
+    <nd ref="664451874"/>
+    <nd ref="664451875"/>
+    <nd ref="664451876"/>
+    <nd ref="664451877"/>
+    <nd ref="664451878"/>
+    <nd ref="664451879"/>
+    <nd ref="664451880"/>
+    <nd ref="664451881"/>
+    <nd ref="664451874"/>
+    <tag k="highway" v="residential"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="52153040" version="3" timestamp="2012-01-20T03:42:15Z" uid="147510" user="woodpeck_fixbot" changeset="10442986">
+    <nd ref="664451874"/>
+    <nd ref="664451875"/>
+    <nd ref="664451876"/>
+    <nd ref="664451877"/>
+    <nd ref="664451878"/>
+    <nd ref="664451879"/>
+    <nd ref="664451880"/>
+    <nd ref="664451881"/>
+    <nd ref="664451874"/>
+    <tag k="highway" v="residential"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="52153041" version="1" timestamp="2010-03-12T09:45:55Z" uid="7617" user="Franc" changeset="4104695">
+    <nd ref="664451870"/>
+    <nd ref="613403239"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Pittwater Road"/>
+    <tag k="source:name" v="knowledge"/>
+  </way>
+  <way id="52153041" version="2" timestamp="2012-02-07T04:59:06Z" uid="7523" user="inas" changeset="10609068"/>
+  <way id="52153042" version="1" timestamp="2010-03-12T09:45:56Z" uid="38528" user="acrosscanadatrails" changeset="4104697">
+    <nd ref="664451915"/>
+    <nd ref="664451916"/>
+    <nd ref="664451920"/>
+    <nd ref="664451921"/>
+    <nd ref="664451922"/>
+    <nd ref="664451923"/>
+    <nd ref="664451934"/>
+    <nd ref="664451935"/>
+    <nd ref="664451936"/>
+    <nd ref="664451937"/>
+    <nd ref="664451938"/>
+    <nd ref="664451939"/>
+    <nd ref="664451940"/>
+    <nd ref="664451941"/>
+    <nd ref="664451942"/>
+    <nd ref="664451943"/>
+    <nd ref="664451924"/>
+    <nd ref="664451925"/>
+    <nd ref="664451926"/>
+    <nd ref="664451927"/>
+    <nd ref="664451900"/>
+    <nd ref="664451901"/>
+    <nd ref="664451902"/>
+    <nd ref="664451903"/>
+    <nd ref="664451904"/>
+    <nd ref="664451905"/>
+    <nd ref="664451906"/>
+    <nd ref="664451891"/>
+    <nd ref="664451892"/>
+    <nd ref="664451893"/>
+    <nd ref="664451894"/>
+    <nd ref="664451912"/>
+    <nd ref="664451913"/>
+    <nd ref="664451914"/>
+    <nd ref="664451883"/>
+    <nd ref="664451884"/>
+    <nd ref="664451885"/>
+    <nd ref="664451886"/>
+    <nd ref="664451887"/>
+    <nd ref="664451888"/>
+    <nd ref="664451889"/>
+    <nd ref="664451890"/>
+    <nd ref="664451895"/>
+    <nd ref="664451896"/>
+    <nd ref="664451897"/>
+    <nd ref="664451898"/>
+    <nd ref="664451899"/>
+    <nd ref="664451907"/>
+    <nd ref="664451908"/>
+    <nd ref="664451909"/>
+    <nd ref="664451910"/>
+    <nd ref="664451911"/>
+    <nd ref="664451928"/>
+    <nd ref="664451929"/>
+    <nd ref="664451930"/>
+    <nd ref="664451931"/>
+    <nd ref="664451932"/>
+    <nd ref="664451933"/>
+    <nd ref="664451917"/>
+    <nd ref="664451918"/>
+    <nd ref="664451915"/>
+    <tag k="attribution" v="Natural Resources Canada"/>
+    <tag k="natural" v="water"/>
+    <tag k="source" v="Toporama WMS layer"/>
+  </way>
+  <way id="52153042" version="2" timestamp="2010-03-12T10:01:12Z" uid="38528" user="acrosscanadatrails" changeset="4104784">
+    <nd ref="664451915"/>
+    <nd ref="664451916"/>
+    <nd ref="664451920"/>
+    <nd ref="664451921"/>
+    <nd ref="664451922"/>
+    <nd ref="664451923"/>
+    <nd ref="664451934"/>
+    <nd ref="664451935"/>
+    <nd ref="664451936"/>
+    <nd ref="664451937"/>
+    <nd ref="664451938"/>
+    <nd ref="664451939"/>
+    <nd ref="664451940"/>
+    <nd ref="664451941"/>
+    <nd ref="664451942"/>
+    <nd ref="664451943"/>
+    <nd ref="664451924"/>
+    <nd ref="664451925"/>
+    <nd ref="664451926"/>
+    <nd ref="664451927"/>
+    <nd ref="664451900"/>
+    <nd ref="664451901"/>
+    <nd ref="664451902"/>
+    <nd ref="664451903"/>
+    <nd ref="664451904"/>
+    <nd ref="664451905"/>
+    <nd ref="664451906"/>
+    <nd ref="664451891"/>
+    <nd ref="664451892"/>
+    <nd ref="664451893"/>
+    <nd ref="664451894"/>
+    <nd ref="664451912"/>
+    <nd ref="664451913"/>
+    <nd ref="664451914"/>
+    <nd ref="664451883"/>
+    <nd ref="664451884"/>
+    <nd ref="664451885"/>
+    <nd ref="664451886"/>
+    <nd ref="664455659"/>
+    <nd ref="664451887"/>
+    <nd ref="664451888"/>
+    <nd ref="664451889"/>
+    <nd ref="664451890"/>
+    <nd ref="664451895"/>
+    <nd ref="664451896"/>
+    <nd ref="664451897"/>
+    <nd ref="664451898"/>
+    <nd ref="664451899"/>
+    <nd ref="664451907"/>
+    <nd ref="664451908"/>
+    <nd ref="664451909"/>
+    <nd ref="664451910"/>
+    <nd ref="664451911"/>
+    <nd ref="664451928"/>
+    <nd ref="664451929"/>
+    <nd ref="664451930"/>
+    <nd ref="664451931"/>
+    <nd ref="664451932"/>
+    <nd ref="664451933"/>
+    <nd ref="664451917"/>
+    <nd ref="664451918"/>
+    <nd ref="664451915"/>
+    <tag k="attribution" v="Natural Resources Canada"/>
+    <tag k="natural" v="water"/>
+    <tag k="source" v="Toporama WMS layer"/>
+  </way>
+  <way id="52153042" version="3" timestamp="2011-06-19T13:18:57Z" uid="20601" user="SabineSW" changeset="8483909">
+    <nd ref="664451915"/>
+    <nd ref="664451916"/>
+    <nd ref="664451920"/>
+    <nd ref="664451921"/>
+    <nd ref="664451922"/>
+    <nd ref="664451923"/>
+    <nd ref="664451934"/>
+    <nd ref="664451935"/>
+    <nd ref="664451936"/>
+    <nd ref="664451937"/>
+    <nd ref="664451938"/>
+    <nd ref="664451939"/>
+    <nd ref="664451940"/>
+    <nd ref="664451941"/>
+    <nd ref="664451942"/>
+    <nd ref="664451943"/>
+    <nd ref="664451924"/>
+    <nd ref="664451925"/>
+    <nd ref="664451926"/>
+    <nd ref="664451927"/>
+    <nd ref="664451900"/>
+    <nd ref="664451901"/>
+    <nd ref="664451902"/>
+    <nd ref="664451903"/>
+    <nd ref="664451904"/>
+    <nd ref="664451905"/>
+    <nd ref="664451906"/>
+    <nd ref="664451891"/>
+    <nd ref="664451892"/>
+    <nd ref="664451893"/>
+    <nd ref="664451894"/>
+    <nd ref="664451912"/>
+    <nd ref="664451913"/>
+    <nd ref="664451914"/>
+    <nd ref="664451883"/>
+    <nd ref="664451884"/>
+    <nd ref="664451885"/>
+    <nd ref="664451886"/>
+    <nd ref="664455659"/>
+    <nd ref="664451887"/>
+    <nd ref="664451888"/>
+    <nd ref="664451889"/>
+    <nd ref="664451890"/>
+    <nd ref="664451895"/>
+    <nd ref="664451896"/>
+    <nd ref="664451897"/>
+    <nd ref="664451898"/>
+    <nd ref="664451899"/>
+    <nd ref="664451907"/>
+    <nd ref="664451908"/>
+    <nd ref="664451909"/>
+    <nd ref="664451910"/>
+    <nd ref="664451911"/>
+    <nd ref="664451928"/>
+    <nd ref="664451929"/>
+    <nd ref="664451930"/>
+    <nd ref="664451931"/>
+    <nd ref="664451932"/>
+    <nd ref="664451933"/>
+    <nd ref="664451917"/>
+    <nd ref="664451918"/>
+    <nd ref="664451915"/>
+    <tag k="attribution" v="Natural Resources Canada"/>
+    <tag k="name" v="Separation Lakes"/>
+    <tag k="natural" v="water"/>
+    <tag k="source" v="Toporama WMS layer"/>
+  </way>
+  <way id="52153042" version="4" timestamp="2012-03-02T04:52:18Z" uid="147510" user="woodpeck_fixbot" changeset="10842511"/>
+  <way id="52153042" version="5" timestamp="2012-03-13T06:12:38Z" uid="147510" user="woodpeck_fixbot" changeset="10960757">
+    <nd ref="664451915"/>
+    <nd ref="664451916"/>
+    <nd ref="664451920"/>
+    <nd ref="664451921"/>
+    <nd ref="664451922"/>
+    <nd ref="664451923"/>
+    <nd ref="664451934"/>
+    <nd ref="664451935"/>
+    <nd ref="664451936"/>
+    <nd ref="664451937"/>
+    <nd ref="664451938"/>
+    <nd ref="664451939"/>
+    <nd ref="664451940"/>
+    <nd ref="664451941"/>
+    <nd ref="664451942"/>
+    <nd ref="664451943"/>
+    <nd ref="664451924"/>
+    <nd ref="664451925"/>
+    <nd ref="664451926"/>
+    <nd ref="664451927"/>
+    <nd ref="664451900"/>
+    <nd ref="664451901"/>
+    <nd ref="664451902"/>
+    <nd ref="664451903"/>
+    <nd ref="664451904"/>
+    <nd ref="664451905"/>
+    <nd ref="664451906"/>
+    <nd ref="664451891"/>
+    <nd ref="664451892"/>
+    <nd ref="664451893"/>
+    <nd ref="664451894"/>
+    <nd ref="664451912"/>
+    <nd ref="664451913"/>
+    <nd ref="664451914"/>
+    <nd ref="664451883"/>
+    <nd ref="664451884"/>
+    <nd ref="664451885"/>
+    <nd ref="664451886"/>
+    <nd ref="664455659"/>
+    <nd ref="664451887"/>
+    <nd ref="664451888"/>
+    <nd ref="664451889"/>
+    <nd ref="664451890"/>
+    <nd ref="664451895"/>
+    <nd ref="664451896"/>
+    <nd ref="664451897"/>
+    <nd ref="664451898"/>
+    <nd ref="664451899"/>
+    <nd ref="664451907"/>
+    <nd ref="664451908"/>
+    <nd ref="664451909"/>
+    <nd ref="664451910"/>
+    <nd ref="664451911"/>
+    <nd ref="664451928"/>
+    <nd ref="664451929"/>
+    <nd ref="664451930"/>
+    <nd ref="664451931"/>
+    <nd ref="664451932"/>
+    <nd ref="664451933"/>
+    <nd ref="664451917"/>
+    <nd ref="664451918"/>
+    <nd ref="664451915"/>
+    <tag k="attribution" v="Natural Resources Canada"/>
+    <tag k="name" v="Separation Lakes"/>
+    <tag k="natural" v="water"/>
+    <tag k="source" v="Toporama WMS layer"/>
+  </way>
+  <way id="52153043" version="1" timestamp="2010-03-12T09:45:59Z" uid="38528" user="acrosscanadatrails" changeset="4104697">
+    <nd ref="664450607"/>
+    <nd ref="664451919"/>
+    <nd ref="664451920"/>
+    <tag k="waterway" v="stream"/>
+  </way>
+  <way id="52153043" version="2" timestamp="2012-01-21T18:50:18Z" uid="332549" user="Adam Dunn Imports" changeset="10458479"/>
+  <way id="52153189" version="1" timestamp="2010-03-12T09:53:58Z" uid="74617" user="JohnSmith" changeset="4104746">
+    <nd ref="664453852"/>
+    <nd ref="664453853"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="High Road"/>
+  </way>
+  <way id="52153191" version="2" timestamp="2010-07-09T06:23:40Z" uid="74617" user="JohnSmith" changeset="5171134">
+    <nd ref="134995646"/>
+    <nd ref="664453867"/>
+    <nd ref="664453868"/>
+    <nd ref="664453869"/>
+    <nd ref="664453870"/>
+    <nd ref="664453871"/>
+    <nd ref="664453872"/>
+    <nd ref="664453873"/>
+    <nd ref="664453874"/>
+    <nd ref="664453877"/>
+    <nd ref="664453879"/>
+    <nd ref="664453881"/>
+    <nd ref="664453883"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="52153191" version="3" timestamp="2012-01-20T03:42:16Z" uid="147510" user="woodpeck_fixbot" changeset="10442986">
+    <nd ref="134995646"/>
+    <nd ref="664453867"/>
+    <nd ref="664453868"/>
+    <nd ref="664453869"/>
+    <nd ref="664453870"/>
+    <nd ref="664453871"/>
+    <nd ref="664453872"/>
+    <nd ref="664453873"/>
+    <nd ref="664453874"/>
+    <nd ref="664453877"/>
+    <nd ref="664453879"/>
+    <nd ref="664453881"/>
+    <nd ref="664453883"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="52153193" version="2" timestamp="2010-07-09T06:23:25Z" uid="74617" user="JohnSmith" changeset="5171134">
+    <nd ref="664453871"/>
+    <nd ref="664453889"/>
+    <nd ref="664453891"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="52153193" version="3" timestamp="2012-01-20T03:42:18Z" uid="147510" user="woodpeck_fixbot" changeset="10442986">
+    <nd ref="664453871"/>
+    <nd ref="664453889"/>
+    <nd ref="664453891"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="52153241" version="1" timestamp="2010-03-12T09:55:46Z" uid="74617" user="JohnSmith" changeset="4104761">
+    <nd ref="664454159"/>
+    <nd ref="664454158"/>
+    <nd ref="664454157"/>
+    <nd ref="664454156"/>
+    <nd ref="664454180"/>
+    <nd ref="664454179"/>
+    <nd ref="664454178"/>
+    <nd ref="664454177"/>
+    <nd ref="664454176"/>
+    <nd ref="664454175"/>
+    <nd ref="664454174"/>
+    <nd ref="664454173"/>
+    <nd ref="664454172"/>
+    <nd ref="664454171"/>
+    <nd ref="664454170"/>
+    <nd ref="664454169"/>
+    <nd ref="664454168"/>
+    <nd ref="664454164"/>
+    <nd ref="664454163"/>
+    <nd ref="664454162"/>
+    <nd ref="664454161"/>
+    <nd ref="664454160"/>
+    <nd ref="664454167"/>
+    <nd ref="664454166"/>
+    <nd ref="664454165"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="waterway" v="drain"/>
+  </way>
+  <way id="52153241" version="2" timestamp="2010-06-10T10:49:04Z" uid="74617" user="JohnSmith" changeset="4952117">
+    <nd ref="664454159"/>
+    <nd ref="664454158"/>
+    <nd ref="664454157"/>
+    <nd ref="664454156"/>
+    <nd ref="664454180"/>
+    <nd ref="664454179"/>
+    <nd ref="664454178"/>
+    <nd ref="664454177"/>
+    <nd ref="664454176"/>
+    <nd ref="664454175"/>
+    <nd ref="664454174"/>
+    <nd ref="664454173"/>
+    <nd ref="664454172"/>
+    <nd ref="664454171"/>
+    <nd ref="664454170"/>
+    <nd ref="664454169"/>
+    <nd ref="664454168"/>
+    <nd ref="664454164"/>
+    <nd ref="664454163"/>
+    <nd ref="664454162"/>
+    <nd ref="664454161"/>
+    <nd ref="664454160"/>
+    <nd ref="664454167"/>
+    <nd ref="664454166"/>
+    <nd ref="664454165"/>
+    <tag k="layer" v="-1"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="waterway" v="drain"/>
+  </way>
+  <way id="52153312" version="2" timestamp="2010-06-29T19:15:45Z" uid="74617" user="JohnSmith" changeset="5108182">
+    <nd ref="664454642"/>
+    <nd ref="664454648"/>
+    <nd ref="664454643"/>
+    <nd ref="664454644"/>
+    <nd ref="664454642"/>
+    <tag k="area" v="yes"/>
+    <tag k="fixme" v="sport=football is ambiguous, see http://wiki.osm.org/wiki/Football for more details"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+    <tag k="sport" v="football"/>
+  </way>
+  <way id="52153312" version="3" timestamp="2012-03-12T08:10:50Z" uid="623522" user="leon free" changeset="10951928">
+    <nd ref="664454642"/>
+    <nd ref="664454648"/>
+    <nd ref="664454643"/>
+    <nd ref="664454644"/>
+    <nd ref="664454642"/>
+    <tag k="area" v="yes"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+    <tag k="sport" v="soccer"/>
+  </way>
+  <way id="52153313" version="2" timestamp="2010-06-29T19:09:20Z" uid="74617" user="JohnSmith" changeset="5108182">
+    <nd ref="664454647"/>
+    <nd ref="664454650"/>
+    <nd ref="664454649"/>
+    <nd ref="664454645"/>
+    <nd ref="664454647"/>
+    <tag k="area" v="yes"/>
+    <tag k="fixme" v="sport=football is ambiguous, see http://wiki.osm.org/wiki/Football for more details"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+    <tag k="sport" v="football"/>
+  </way>
+  <way id="52153313" version="3" timestamp="2012-03-12T08:10:46Z" uid="623522" user="leon free" changeset="10951928">
+    <nd ref="664454647"/>
+    <nd ref="664454650"/>
+    <nd ref="664454649"/>
+    <nd ref="664454645"/>
+    <nd ref="664454647"/>
+    <tag k="area" v="yes"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+    <tag k="sport" v="soccer"/>
+  </way>
+  <way id="52153437" version="1" timestamp="2010-03-12T10:01:11Z" uid="38528" user="acrosscanadatrails" changeset="4104784">
+    <nd ref="664455650"/>
+    <nd ref="664455651"/>
+    <nd ref="664455652"/>
+    <nd ref="664455653"/>
+    <nd ref="664455654"/>
+    <nd ref="664455655"/>
+    <nd ref="664455656"/>
+    <nd ref="664455657"/>
+    <nd ref="664455658"/>
+    <nd ref="664455659"/>
+    <tag k="attribution" v="Natural Resources Canada"/>
+    <tag k="source" v="Toporama WMS layer"/>
+    <tag k="waterway" v="stream"/>
+  </way>
+  <way id="52153437" version="2" timestamp="2011-06-19T13:18:58Z" uid="20601" user="SabineSW" changeset="8483909"/>
+  <way id="52153438" version="1" timestamp="2010-03-12T10:01:11Z" uid="38528" user="acrosscanadatrails" changeset="4104784">
+    <nd ref="664455616"/>
+    <nd ref="664455609"/>
+    <nd ref="664455610"/>
+    <nd ref="664455611"/>
+    <nd ref="664455604"/>
+    <nd ref="664455605"/>
+    <nd ref="664455627"/>
+    <nd ref="664455628"/>
+    <nd ref="664455629"/>
+    <nd ref="664455630"/>
+    <nd ref="664455631"/>
+    <nd ref="664455617"/>
+    <nd ref="664455600"/>
+    <nd ref="664455601"/>
+    <nd ref="664455593"/>
+    <nd ref="664455594"/>
+    <nd ref="664455595"/>
+    <nd ref="664455596"/>
+    <nd ref="664455597"/>
+    <nd ref="664455598"/>
+    <nd ref="664455599"/>
+    <nd ref="664455607"/>
+    <nd ref="664455606"/>
+    <nd ref="664455608"/>
+    <nd ref="664455612"/>
+    <nd ref="664455613"/>
+    <nd ref="664455614"/>
+    <nd ref="664455615"/>
+    <nd ref="664455616"/>
+    <tag k="attribution" v="Natural Resources Canada"/>
+    <tag k="natural" v="wetland"/>
+    <tag k="source" v="Toporama WMS layer"/>
+    <tag k="wetland" v="marsh"/>
+  </way>
+  <way id="52153438" version="2" timestamp="2012-01-30T15:38:27Z" uid="147510" user="woodpeck_fixbot" changeset="10538137"/>
+  <way id="52153439" version="1" timestamp="2010-03-12T10:01:11Z" uid="38528" user="acrosscanadatrails" changeset="4104784">
+    <nd ref="664450458"/>
+    <nd ref="664455586"/>
+    <nd ref="664455587"/>
+    <nd ref="664455588"/>
+    <nd ref="664455589"/>
+    <nd ref="664455590"/>
+    <nd ref="664455591"/>
+    <nd ref="664455592"/>
+    <nd ref="664455602"/>
+    <nd ref="664455603"/>
+    <nd ref="664455618"/>
+    <nd ref="664455619"/>
+    <nd ref="664455620"/>
+    <nd ref="664455621"/>
+    <nd ref="664455622"/>
+    <nd ref="664455623"/>
+    <nd ref="664455626"/>
+    <tag k="attribution" v="Natural Resources Canada"/>
+    <tag k="source" v="Toporama WMS layer"/>
+    <tag k="waterway" v="stream"/>
+  </way>
+  <way id="52153439" version="2" timestamp="2011-06-19T13:18:58Z" uid="20601" user="SabineSW" changeset="8483909"/>
+  <way id="52153440" version="1" timestamp="2010-03-12T10:01:11Z" uid="38528" user="acrosscanadatrails" changeset="4104784">
+    <nd ref="664455619"/>
+    <nd ref="664455624"/>
+    <nd ref="664455625"/>
+    <nd ref="664455632"/>
+    <nd ref="664455633"/>
+    <nd ref="664455634"/>
+    <nd ref="664455635"/>
+    <nd ref="664455636"/>
+    <nd ref="664455645"/>
+    <nd ref="664455646"/>
+    <nd ref="664455647"/>
+    <nd ref="664455648"/>
+    <tag k="attribution" v="Natural Resources Canada"/>
+    <tag k="source" v="Toporama WMS layer"/>
+    <tag k="waterway" v="stream"/>
+  </way>
+  <way id="52153440" version="2" timestamp="2011-06-19T13:18:58Z" uid="20601" user="SabineSW" changeset="8483909"/>
+  <way id="52153441" version="1" timestamp="2010-03-12T10:01:12Z" uid="38528" user="acrosscanadatrails" changeset="4104784">
+    <nd ref="664455633"/>
+    <nd ref="664455637"/>
+    <nd ref="664455638"/>
+    <nd ref="664455639"/>
+    <nd ref="664455640"/>
+    <nd ref="664455641"/>
+    <nd ref="664455642"/>
+    <nd ref="664455643"/>
+    <nd ref="664455644"/>
+    <nd ref="664455649"/>
+    <tag k="attribution" v="Natural Resources Canada"/>
+    <tag k="source" v="Toporama WMS layer"/>
+    <tag k="waterway" v="stream"/>
+  </way>
+  <way id="52153441" version="2" timestamp="2011-06-19T13:18:58Z" uid="20601" user="SabineSW" changeset="8483909"/>
+  <way id="52153443" version="1" timestamp="2010-03-12T10:01:12Z" uid="38528" user="acrosscanadatrails" changeset="4104784">
+    <nd ref="664451939"/>
+    <nd ref="664455660"/>
+    <nd ref="664455661"/>
+    <nd ref="664455662"/>
+    <nd ref="664455663"/>
+    <nd ref="664455664"/>
+    <nd ref="664455665"/>
+    <nd ref="664455666"/>
+    <nd ref="664455667"/>
+    <nd ref="664455668"/>
+    <nd ref="664455669"/>
+    <nd ref="664455670"/>
+    <nd ref="664455671"/>
+    <nd ref="664455672"/>
+    <nd ref="664455673"/>
+    <nd ref="664455674"/>
+    <nd ref="664455675"/>
+    <nd ref="664455676"/>
+    <nd ref="664455677"/>
+    <nd ref="664455678"/>
+    <nd ref="664455679"/>
+    <nd ref="664455680"/>
+    <nd ref="664455683"/>
+    <nd ref="664455684"/>
+    <nd ref="664455685"/>
+    <nd ref="664455686"/>
+    <nd ref="664455687"/>
+    <nd ref="664455688"/>
+    <nd ref="664455689"/>
+    <nd ref="664455690"/>
+    <nd ref="664455691"/>
+    <nd ref="664455692"/>
+    <nd ref="664455693"/>
+    <tag k="attribution" v="Natural Resources Canada"/>
+    <tag k="source" v="Toporama WMS layer"/>
+    <tag k="waterway" v="stream"/>
+  </way>
+  <way id="52153443" version="2" timestamp="2012-01-21T18:50:18Z" uid="332549" user="Adam Dunn Imports" changeset="10458479"/>
+  <way id="52153699" version="1" timestamp="2010-03-12T10:15:18Z" uid="38528" user="acrosscanadatrails" changeset="4104859">
+    <nd ref="664457549"/>
+    <nd ref="664457550"/>
+    <nd ref="664457551"/>
+    <nd ref="664457552"/>
+    <nd ref="664457553"/>
+    <nd ref="664457554"/>
+    <nd ref="664457555"/>
+    <nd ref="664457556"/>
+    <nd ref="664457557"/>
+    <nd ref="664457558"/>
+    <nd ref="664457559"/>
+    <nd ref="664457560"/>
+    <nd ref="664457561"/>
+    <nd ref="664457562"/>
+    <nd ref="664457563"/>
+    <nd ref="664457564"/>
+    <nd ref="664457565"/>
+    <nd ref="664457566"/>
+    <nd ref="664457567"/>
+    <nd ref="664457568"/>
+    <nd ref="664457569"/>
+    <nd ref="664457570"/>
+    <nd ref="664457571"/>
+    <nd ref="664457572"/>
+    <nd ref="664457573"/>
+    <tag k="waterway" v="streem"/>
+  </way>
+  <way id="52153699" version="2" timestamp="2010-03-12T10:30:35Z" uid="38528" user="acrosscanadatrails" changeset="4104947">
+    <nd ref="664457549"/>
+    <nd ref="664457550"/>
+    <nd ref="664457551"/>
+    <nd ref="664457552"/>
+    <nd ref="664457553"/>
+    <nd ref="664457554"/>
+    <nd ref="664457555"/>
+    <nd ref="664457556"/>
+    <nd ref="664457557"/>
+    <nd ref="664457558"/>
+    <nd ref="664457559"/>
+    <nd ref="664457560"/>
+    <nd ref="664457561"/>
+    <nd ref="664457562"/>
+    <nd ref="664457563"/>
+    <nd ref="664457564"/>
+    <nd ref="664457565"/>
+    <nd ref="664457566"/>
+    <nd ref="664457567"/>
+    <nd ref="664459720"/>
+    <nd ref="664457568"/>
+    <nd ref="664457569"/>
+    <nd ref="664457570"/>
+    <nd ref="664457571"/>
+    <nd ref="664457572"/>
+    <nd ref="664457573"/>
+    <tag k="attribution" v="Natural Resources Canada"/>
+    <tag k="source" v="Toporama WMS layer"/>
+    <tag k="waterway" v="stream"/>
+  </way>
+  <way id="52153699" version="3" timestamp="2011-06-19T13:18:58Z" uid="20601" user="SabineSW" changeset="8483909"/>
+  <way id="52153705" version="1" timestamp="2010-03-12T10:15:30Z" uid="38528" user="acrosscanadatrails" changeset="4104864">
+    <nd ref="664457622"/>
+    <nd ref="664457644"/>
+    <nd ref="664457645"/>
+    <nd ref="664457646"/>
+    <nd ref="664457647"/>
+    <nd ref="664457648"/>
+    <nd ref="664457649"/>
+    <nd ref="664457650"/>
+    <nd ref="664457623"/>
+    <nd ref="664457624"/>
+    <nd ref="664457625"/>
+    <nd ref="664457626"/>
+    <nd ref="664457627"/>
+    <nd ref="664457628"/>
+    <nd ref="664457622"/>
+    <tag k="attribution" v="Natural Resources Canada"/>
+    <tag k="natural" v="water"/>
+    <tag k="source" v="Toporama WMS layer"/>
+  </way>
+  <way id="52153705" version="2" timestamp="2012-01-21T18:50:10Z" uid="332549" user="Adam Dunn Imports" changeset="10458479">
+    <nd ref="664457622"/>
+    <nd ref="871326278"/>
+    <nd ref="664457644"/>
+    <nd ref="664457645"/>
+    <nd ref="664457646"/>
+    <nd ref="664457647"/>
+    <nd ref="664457648"/>
+    <nd ref="664457649"/>
+    <nd ref="664457650"/>
+    <nd ref="871326279"/>
+    <nd ref="664457623"/>
+    <nd ref="664457624"/>
+    <nd ref="664457625"/>
+    <nd ref="664457626"/>
+    <nd ref="664457627"/>
+    <nd ref="664457628"/>
+    <nd ref="664457622"/>
+    <tag k="attribution" v="Natural Resources Canada"/>
+    <tag k="natural" v="water"/>
+    <tag k="source" v="Toporama WMS layer"/>
+  </way>
+  <way id="52153705" version="3" timestamp="2012-03-02T04:52:19Z" uid="147510" user="woodpeck_fixbot" changeset="10842511"/>
+  <way id="52153705" version="4" timestamp="2012-03-13T06:12:40Z" uid="147510" user="woodpeck_fixbot" changeset="10960757">
+    <nd ref="664457622"/>
+    <nd ref="871326278"/>
+    <nd ref="664457644"/>
+    <nd ref="664457645"/>
+    <nd ref="664457646"/>
+    <nd ref="664457647"/>
+    <nd ref="664457648"/>
+    <nd ref="664457649"/>
+    <nd ref="664457650"/>
+    <nd ref="871326279"/>
+    <nd ref="664457623"/>
+    <nd ref="664457624"/>
+    <nd ref="664457625"/>
+    <nd ref="664457626"/>
+    <nd ref="664457627"/>
+    <nd ref="664457628"/>
+    <nd ref="664457622"/>
+    <tag k="attribution" v="Natural Resources Canada"/>
+    <tag k="natural" v="water"/>
+    <tag k="source" v="Toporama WMS layer"/>
+  </way>
+  <way id="52153706" version="1" timestamp="2010-03-12T10:15:30Z" uid="38528" user="acrosscanadatrails" changeset="4104864">
+    <nd ref="664457614"/>
+    <nd ref="664457633"/>
+    <nd ref="664457634"/>
+    <nd ref="664457635"/>
+    <nd ref="664457656"/>
+    <nd ref="664457657"/>
+    <nd ref="664457658"/>
+    <nd ref="664457659"/>
+    <nd ref="664457660"/>
+    <nd ref="664457661"/>
+    <nd ref="664457662"/>
+    <nd ref="664457663"/>
+    <nd ref="664457670"/>
+    <nd ref="664457671"/>
+    <nd ref="664457672"/>
+    <nd ref="664457673"/>
+    <nd ref="664457674"/>
+    <nd ref="664457675"/>
+    <nd ref="664457676"/>
+    <nd ref="664457677"/>
+    <nd ref="664457678"/>
+    <nd ref="664457679"/>
+    <nd ref="664457680"/>
+    <nd ref="664457681"/>
+    <nd ref="664457682"/>
+    <nd ref="664457651"/>
+    <nd ref="664457652"/>
+    <nd ref="664457653"/>
+    <nd ref="664457654"/>
+    <nd ref="664457655"/>
+    <nd ref="664457646"/>
+    <nd ref="664457647"/>
+    <nd ref="664457648"/>
+    <nd ref="664457649"/>
+    <nd ref="664457650"/>
+    <nd ref="664457623"/>
+    <nd ref="664457624"/>
+    <nd ref="664457625"/>
+    <nd ref="664457629"/>
+    <nd ref="664457630"/>
+    <nd ref="664457631"/>
+    <nd ref="664457632"/>
+    <nd ref="664457615"/>
+    <nd ref="664457616"/>
+    <nd ref="664457617"/>
+    <nd ref="664457618"/>
+    <nd ref="664457619"/>
+    <nd ref="664457620"/>
+    <nd ref="664457621"/>
+    <nd ref="664457614"/>
+    <tag k="attribution" v="Natural Resources Canada"/>
+    <tag k="natural" v="wood"/>
+    <tag k="source" v="Toporama WMS layer"/>
+  </way>
+  <way id="52153706" version="2" timestamp="2012-01-21T18:50:10Z" uid="332549" user="Adam Dunn Imports" changeset="10458479">
+    <nd ref="664457614"/>
+    <nd ref="664457633"/>
+    <nd ref="664457634"/>
+    <nd ref="664457635"/>
+    <nd ref="664457656"/>
+    <nd ref="664457657"/>
+    <nd ref="664457658"/>
+    <nd ref="664457659"/>
+    <nd ref="664457660"/>
+    <nd ref="664457661"/>
+    <nd ref="664457662"/>
+    <nd ref="664457663"/>
+    <nd ref="664457670"/>
+    <nd ref="664457671"/>
+    <nd ref="664457672"/>
+    <nd ref="664457673"/>
+    <nd ref="664457674"/>
+    <nd ref="664457675"/>
+    <nd ref="664457676"/>
+    <nd ref="664457677"/>
+    <nd ref="664457678"/>
+    <nd ref="664457679"/>
+    <nd ref="664457680"/>
+    <nd ref="664457681"/>
+    <nd ref="664457682"/>
+    <nd ref="664457651"/>
+    <nd ref="664457652"/>
+    <nd ref="664457653"/>
+    <nd ref="664457654"/>
+    <nd ref="664457655"/>
+    <nd ref="664457646"/>
+    <nd ref="664457647"/>
+    <nd ref="664457648"/>
+    <nd ref="664457649"/>
+    <nd ref="664457650"/>
+    <nd ref="871326279"/>
+    <nd ref="664457623"/>
+    <nd ref="664457624"/>
+    <nd ref="664457625"/>
+    <nd ref="664457629"/>
+    <nd ref="664457630"/>
+    <nd ref="664457631"/>
+    <nd ref="664457632"/>
+    <nd ref="664457615"/>
+    <nd ref="664457616"/>
+    <nd ref="664457617"/>
+    <nd ref="664457618"/>
+    <nd ref="664457619"/>
+    <nd ref="664457620"/>
+    <nd ref="664457621"/>
+    <nd ref="664457614"/>
+    <tag k="attribution" v="Natural Resources Canada"/>
+    <tag k="natural" v="wood"/>
+    <tag k="source" v="Toporama WMS layer"/>
+  </way>
+  <way id="52153706" version="3" timestamp="2012-03-02T04:52:20Z" uid="147510" user="woodpeck_fixbot" changeset="10842511"/>
+  <way id="52153706" version="4" timestamp="2012-03-13T06:12:41Z" uid="147510" user="woodpeck_fixbot" changeset="10960757">
+    <nd ref="664457614"/>
+    <nd ref="664457633"/>
+    <nd ref="664457634"/>
+    <nd ref="664457635"/>
+    <nd ref="664457656"/>
+    <nd ref="664457657"/>
+    <nd ref="664457658"/>
+    <nd ref="664457659"/>
+    <nd ref="664457660"/>
+    <nd ref="664457661"/>
+    <nd ref="664457662"/>
+    <nd ref="664457663"/>
+    <nd ref="664457670"/>
+    <nd ref="664457671"/>
+    <nd ref="664457672"/>
+    <nd ref="664457673"/>
+    <nd ref="664457674"/>
+    <nd ref="664457675"/>
+    <nd ref="664457676"/>
+    <nd ref="664457677"/>
+    <nd ref="664457678"/>
+    <nd ref="664457679"/>
+    <nd ref="664457680"/>
+    <nd ref="664457681"/>
+    <nd ref="664457682"/>
+    <nd ref="664457651"/>
+    <nd ref="664457652"/>
+    <nd ref="664457653"/>
+    <nd ref="664457654"/>
+    <nd ref="664457655"/>
+    <nd ref="664457646"/>
+    <nd ref="664457647"/>
+    <nd ref="664457648"/>
+    <nd ref="664457649"/>
+    <nd ref="664457650"/>
+    <nd ref="871326279"/>
+    <nd ref="664457623"/>
+    <nd ref="664457624"/>
+    <nd ref="664457625"/>
+    <nd ref="664457629"/>
+    <nd ref="664457630"/>
+    <nd ref="664457631"/>
+    <nd ref="664457632"/>
+    <nd ref="664457615"/>
+    <nd ref="664457616"/>
+    <nd ref="664457617"/>
+    <nd ref="664457618"/>
+    <nd ref="664457619"/>
+    <nd ref="664457620"/>
+    <nd ref="664457621"/>
+    <nd ref="664457614"/>
+    <tag k="attribution" v="Natural Resources Canada"/>
+    <tag k="natural" v="wood"/>
+    <tag k="source" v="Toporama WMS layer"/>
+  </way>
+  <way id="52153707" version="1" timestamp="2010-03-12T10:15:30Z" uid="38528" user="acrosscanadatrails" changeset="4104864">
+    <nd ref="664457636"/>
+    <nd ref="664457637"/>
+    <nd ref="664457638"/>
+    <nd ref="664457639"/>
+    <nd ref="664457640"/>
+    <nd ref="664457641"/>
+    <nd ref="664457642"/>
+    <nd ref="664457643"/>
+    <nd ref="664457664"/>
+    <nd ref="664457665"/>
+    <nd ref="664457666"/>
+    <nd ref="664457668"/>
+    <nd ref="664457669"/>
+    <nd ref="664457683"/>
+    <nd ref="664457684"/>
+    <nd ref="664457685"/>
+    <nd ref="664457686"/>
+    <nd ref="664457687"/>
+    <tag k="attribution" v="Natural Resources Canada"/>
+    <tag k="source" v="Toporama WMS layer"/>
+    <tag k="waterway" v="stream"/>
+  </way>
+  <way id="52153707" version="2" timestamp="2011-06-19T13:18:58Z" uid="20601" user="SabineSW" changeset="8483909"/>
+  <way id="52153910" version="3" timestamp="2010-06-14T15:32:11Z" uid="74617" user="JohnSmith" changeset="4987691">
+    <nd ref="559150072"/>
+    <nd ref="559150059"/>
+    <nd ref="559150060"/>
+    <nd ref="559150061"/>
+    <nd ref="559150062"/>
+    <nd ref="559150083"/>
+    <nd ref="559150084"/>
+    <nd ref="559150085"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Moutara Street"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="52153910" version="4" timestamp="2010-06-14T15:32:41Z" uid="74617" user="JohnSmith" changeset="4987691"/>
+  <way id="52153012" version="5" timestamp="2012-07-19T23:15:53Z" uid="722137" user="OSMF Redaction Account" changeset="12351428"/>
+  <way id="52153013" version="7" timestamp="2012-07-19T23:15:35Z" uid="722137" user="OSMF Redaction Account" changeset="12351419"/>
+  <way id="52153014" version="5" timestamp="2012-07-19T23:15:36Z" uid="722137" user="OSMF Redaction Account" changeset="12351419"/>
+  <way id="52153015" version="9" timestamp="2012-05-25T06:00:50Z" uid="7523" user="inas" changeset="11695504">
+    <nd ref="313661884"/>
+    <nd ref="99655140"/>
+    <nd ref="764074001"/>
+    <nd ref="99655142"/>
+    <nd ref="99655150"/>
+    <nd ref="99655149"/>
+    <nd ref="99655145"/>
+    <nd ref="99655147"/>
+    <nd ref="664451775"/>
+    <nd ref="131952329"/>
+    <nd ref="1423737138"/>
+    <nd ref="664461279"/>
+    <tag k="highway" v="primary"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Victoria Road"/>
+    <tag k="network" v="S"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="40"/>
+    <tag k="restriction" v="school_zone"/>
+    <tag k="source" v="yahoo_imagery"/>
+    <tag k="source:name" v="knowledge"/>
+  </way>
+  <way id="52153015" version="10" timestamp="2012-07-19T23:07:31Z" uid="722137" user="OSMF Redaction Account" changeset="12351287">
+    <nd ref="764074001"/>
+    <nd ref="1423737138"/>
+    <tag k="network" v="S"/>
+    <tag k="ref" v="40"/>
+  </way>
+  <way id="52153015" version="11" timestamp="2012-07-20T21:53:11Z" uid="105255" user="Sven L" changeset="12391017">
+    <nd ref="764074001"/>
+    <nd ref="1423737138"/>
+    <tag k="highway" v="primary"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Victoria Road"/>
+    <tag k="network" v="S"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="40"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="52153015" version="12" timestamp="2012-07-21T21:49:21Z" uid="105255" user="Sven L" changeset="12421089">
+    <nd ref="764074001"/>
+    <nd ref="1833600873"/>
+    <nd ref="1833600872"/>
+    <nd ref="1833600869"/>
+    <nd ref="1833600868"/>
+    <nd ref="131952329"/>
+    <nd ref="1423737138"/>
+    <tag k="highway" v="primary"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Victoria Road"/>
+    <tag k="network" v="S"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="40"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="52153016" version="6" timestamp="2012-05-25T21:26:01Z" uid="7523" user="inas" changeset="11702213">
+    <nd ref="1765586522"/>
+    <nd ref="1423737165"/>
+    <nd ref="98704312"/>
+    <nd ref="98704303"/>
+    <nd ref="98704291"/>
+    <nd ref="613822194"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lcn" v="yes"/>
+    <tag k="name" v="Meriton Street"/>
+  </way>
+  <way id="52153016" version="7" timestamp="2012-07-19T23:09:19Z" uid="722137" user="OSMF Redaction Account" changeset="12351313">
+    <nd ref="1765586522"/>
+    <nd ref="1423737165"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lcn" v="yes"/>
+  </way>
+  <way id="52153016" version="8" timestamp="2012-08-11T23:05:23Z" uid="20949" user="Ebenezer" changeset="12696410">
+    <nd ref="1765586522"/>
+    <nd ref="1423737165"/>
+    <nd ref="1845531629"/>
+    <nd ref="1862269707"/>
+    <nd ref="1845531631"/>
+    <nd ref="1845531633"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lcn" v="yes"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Meriton Street"/>
+  </way>
+  <way id="52153017" version="3" timestamp="2012-05-25T21:26:02Z" uid="7523" user="inas" changeset="11702213">
+    <nd ref="664451765"/>
+    <nd ref="1765586514"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="cycleway" v="lane"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lcn" v="yes"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Morrison Road"/>
+    <tag k="restriction" v="school_zone"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="52153017" version="4" timestamp="2012-07-20T05:31:04Z" uid="722137" user="OSMF Redaction Account" changeset="12362111"/>
+  <way id="52153018" version="4" timestamp="2012-07-19T23:15:38Z" uid="722137" user="OSMF Redaction Account" changeset="12351419"/>
+  <way id="52153019" version="2" timestamp="2012-07-19T23:15:43Z" uid="722137" user="OSMF Redaction Account" changeset="12351419"/>
+  <way id="52153020" version="2" timestamp="2012-07-19T23:15:43Z" uid="722137" user="OSMF Redaction Account" changeset="12351419"/>
+  <way id="52153021" version="2" timestamp="2012-07-19T23:15:43Z" uid="722137" user="OSMF Redaction Account" changeset="12351419"/>
+  <way id="52153022" version="4" timestamp="2012-07-19T23:15:54Z" uid="722137" user="OSMF Redaction Account" changeset="12351428"/>
+  <way id="52153023" version="4" timestamp="2012-07-19T23:15:52Z" uid="722137" user="OSMF Redaction Account" changeset="12351428"/>
+  <way id="52153024" version="2" timestamp="2012-07-19T23:15:41Z" uid="722137" user="OSMF Redaction Account" changeset="12351419"/>
+  <way id="52153025" version="4" timestamp="2012-07-19T23:15:40Z" uid="722137" user="OSMF Redaction Account" changeset="12351419"/>
+  <way id="52153026" version="4" timestamp="2012-07-19T23:15:38Z" uid="722137" user="OSMF Redaction Account" changeset="12351419"/>
+  <way id="52153027" version="6" timestamp="2012-07-19T23:15:42Z" uid="722137" user="OSMF Redaction Account" changeset="12351419"/>
+  <way id="52153028" version="5" timestamp="2012-07-19T23:15:42Z" uid="722137" user="OSMF Redaction Account" changeset="12351419"/>
+  <way id="52153029" version="4" timestamp="2012-07-19T23:15:40Z" uid="722137" user="OSMF Redaction Account" changeset="12351419"/>
+  <way id="52153030" version="3" timestamp="2012-07-19T23:15:37Z" uid="722137" user="OSMF Redaction Account" changeset="12351419"/>
+  <way id="52153031" version="4" timestamp="2012-07-19T23:15:37Z" uid="722137" user="OSMF Redaction Account" changeset="12351419"/>
+  <way id="52153032" version="5" timestamp="2012-07-19T23:15:43Z" uid="722137" user="OSMF Redaction Account" changeset="12351419"/>
+  <way id="52153033" version="4" timestamp="2012-07-19T23:16:01Z" uid="722137" user="OSMF Redaction Account" changeset="12351428"/>
+  <way id="52153034" version="4" timestamp="2012-07-19T23:16:01Z" uid="722137" user="OSMF Redaction Account" changeset="12351428"/>
+  <way id="52153036" version="2" timestamp="2012-07-19T23:15:59Z" uid="722137" user="OSMF Redaction Account" changeset="12351428"/>
+  <way id="52153037" version="2" timestamp="2012-07-19T23:15:57Z" uid="722137" user="OSMF Redaction Account" changeset="12351428"/>
+  <way id="52153038" version="2" timestamp="2012-07-19T23:15:57Z" uid="722137" user="OSMF Redaction Account" changeset="12351428"/>
+  <way id="52153039" version="2" timestamp="2012-07-19T23:15:49Z" uid="722137" user="OSMF Redaction Account" changeset="12351419"/>
+  <way id="52153040" version="4" timestamp="2012-07-19T23:16:01Z" uid="722137" user="OSMF Redaction Account" changeset="12351428"/>
+  <way id="52153042" version="6" timestamp="2012-07-18T23:31:42Z" uid="722137" user="OSMF Redaction Account" changeset="12301607">
+    <nd ref="664451920"/>
+    <nd ref="664451939"/>
+    <tag k="name" v="Separation Lakes"/>
+  </way>
+  <way id="52153189" version="2" timestamp="2012-07-20T01:09:14Z" uid="722137" user="OSMF Redaction Account" changeset="12354360"/>
+  <way id="52153191" version="4" timestamp="2012-07-19T18:35:13Z" uid="722137" user="OSMF Redaction Account" changeset="12343353"/>
+  <way id="52153193" version="4" timestamp="2012-07-19T18:35:13Z" uid="722137" user="OSMF Redaction Account" changeset="12343353"/>
+  <way id="52153241" version="3" timestamp="2012-07-20T01:09:15Z" uid="722137" user="OSMF Redaction Account" changeset="12354360"/>
+  <way id="52153705" version="5" timestamp="2012-07-18T23:31:41Z" uid="722137" user="OSMF Redaction Account" changeset="12301607">
+    <nd ref="871326278"/>
+    <nd ref="871326279"/>
+  </way>
+  <way id="52153706" version="5" timestamp="2012-07-18T23:31:42Z" uid="722137" user="OSMF Redaction Account" changeset="12301607"/>
+</osm>

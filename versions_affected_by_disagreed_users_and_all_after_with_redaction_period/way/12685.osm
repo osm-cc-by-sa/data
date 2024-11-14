@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="12685034" version="8" timestamp="2009-10-23T18:26:01Z" uid="9581" user="Lobelt" changeset="2932218">
+    <nd ref="115856856"/>
+    <nd ref="112231926"/>
+    <tag k="railway" v="rail"/>
+    <tag k="service" v="spur"/>
+  </way>
+  <way id="12685150" version="3" timestamp="2009-10-23T18:25:59Z" uid="9581" user="Lobelt" changeset="2932218">
+    <nd ref="115858094"/>
+    <nd ref="539110329"/>
+    <nd ref="539110325"/>
+    <nd ref="112231926"/>
+    <nd ref="112237647"/>
+    <tag k="railway" v="rail"/>
+  </way>
+  <way id="12685150" version="4" timestamp="2010-04-11T17:36:08Z" uid="9176" user="Maarten Deen" changeset="4396445">
+    <nd ref="115858094"/>
+    <nd ref="539110329"/>
+    <nd ref="539110325"/>
+    <nd ref="112231926"/>
+    <nd ref="112237647"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="frequency" v="16.7"/>
+    <tag k="railway" v="rail"/>
+    <tag k="voltage" v="15000"/>
+  </way>
+  <way id="12685150" version="5" timestamp="2012-01-30T00:16:09Z" uid="37608" user="micha_k" changeset="10536002">
+    <nd ref="115858094"/>
+    <nd ref="539110329"/>
+    <nd ref="539110325"/>
+    <nd ref="112231926"/>
+    <nd ref="112237647"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="frequency" v="16.7"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="railway" v="rail"/>
+    <tag k="voltage" v="15000"/>
+  </way>
+  <way id="12685034" version="9" timestamp="2012-07-19T06:17:20Z" uid="722137" user="OSMF Redaction Account" changeset="12310153">
+    <nd ref="115856856"/>
+    <nd ref="112231926"/>
+    <tag k="railway" v="rail"/>
+  </way>
+  <way id="12685034" version="10" timestamp="2012-07-24T19:05:03Z" uid="48010" user="partim" changeset="12474085">
+    <nd ref="115856856"/>
+    <nd ref="1836875303"/>
+    <nd ref="1836875304"/>
+    <nd ref="112231926"/>
+    <tag k="railway" v="rail"/>
+  </way>
+  <way id="12685150" version="6" timestamp="2012-07-19T06:17:07Z" uid="722137" user="OSMF Redaction Account" changeset="12310153">
+    <nd ref="115858094"/>
+    <nd ref="112231926"/>
+    <nd ref="112237647"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="frequency" v="16.7"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="railway" v="rail"/>
+    <tag k="voltage" v="15000"/>
+  </way>
+  <way id="12685150" version="7" timestamp="2012-07-24T19:05:04Z" uid="48010" user="partim" changeset="12474085">
+    <nd ref="115858094"/>
+    <nd ref="1836875302"/>
+    <nd ref="112231926"/>
+    <nd ref="1836875305"/>
+    <nd ref="1836875306"/>
+    <nd ref="112237647"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="frequency" v="16.7"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="railway" v="rail"/>
+    <tag k="voltage" v="15000"/>
+  </way>
+</osm>

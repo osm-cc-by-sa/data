@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="69821192" version="1" timestamp="2010-07-27T00:06:09Z" uid="4467" user="Rosscoe" changeset="5325511">
+    <nd ref="355757361"/>
+    <nd ref="834804846"/>
+    <nd ref="355757335"/>
+    <nd ref="834804848"/>
+    <nd ref="834804858"/>
+    <nd ref="355757356"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Cascade Drive"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="69821193" version="1" timestamp="2010-07-27T00:06:10Z" uid="4467" user="Rosscoe" changeset="5325511">
+    <nd ref="361390493"/>
+    <nd ref="834804841"/>
+    <nd ref="834804858"/>
+    <nd ref="834804852"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Victoria Parade"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="source_ref:name" v="http://osm.beldin.org/2009/03/dscf8323.jpg"/>
+  </way>
+  <way id="69821194" version="1" timestamp="2010-07-27T00:06:11Z" uid="4467" user="Rosscoe" changeset="5325511">
+    <nd ref="253339427"/>
+    <nd ref="277320556"/>
+    <nd ref="277320557"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Cascade Drive"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="69821195" version="1" timestamp="2010-07-27T00:06:12Z" uid="4467" user="Rosscoe" changeset="5325511">
+    <nd ref="361390493"/>
+    <nd ref="361390487"/>
+    <tag k="construction" v="residential"/>
+    <tag k="highway" v="construction"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Victoria Parade"/>
+    <tag k="source" v="extrapolation"/>
+    <tag k="source_ref:name" v="http://osm.beldin.org/2009/03/dscf8323.jpg"/>
+  </way>
+  <way id="69821195" version="2" timestamp="2011-04-05T00:41:18Z" uid="328538" user="o&apos;cholio" changeset="7770846">
+    <nd ref="361390493"/>
+    <nd ref="1233191156"/>
+    <nd ref="1233190983"/>
+    <nd ref="361390495"/>
+    <nd ref="361390483"/>
+    <nd ref="1233192819"/>
+    <nd ref="1233191170"/>
+    <nd ref="1233193100"/>
+    <nd ref="282420030"/>
+    <nd ref="361390480"/>
+    <nd ref="1233191202"/>
+    <nd ref="1233192079"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Victoria Parade"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="69821192" version="2" timestamp="2012-07-19T19:21:55Z" uid="722137" user="OSMF Redaction Account" changeset="12344789"/>
+  <way id="69821193" version="2" timestamp="2012-07-19T19:21:56Z" uid="722137" user="OSMF Redaction Account" changeset="12344789"/>
+  <way id="69821194" version="2" timestamp="2012-07-19T19:21:55Z" uid="722137" user="OSMF Redaction Account" changeset="12344789"/>
+  <way id="69821195" version="3" timestamp="2012-07-19T19:17:50Z" uid="722137" user="OSMF Redaction Account" changeset="12344658">
+    <nd ref="1233191156"/>
+    <nd ref="1233190983"/>
+    <nd ref="361390495"/>
+    <nd ref="361390483"/>
+    <nd ref="1233192819"/>
+    <nd ref="1233191170"/>
+    <nd ref="1233193100"/>
+    <nd ref="282420030"/>
+    <nd ref="361390480"/>
+    <nd ref="1233191202"/>
+    <nd ref="1233192079"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="69821195" version="4" timestamp="2012-08-10T10:59:01Z" uid="328538" user="o&apos;cholio" changeset="12678630">
+    <nd ref="1233192079"/>
+    <nd ref="1233191202"/>
+    <nd ref="361390480"/>
+    <nd ref="1859988789"/>
+    <nd ref="282420030"/>
+    <nd ref="1233193100"/>
+    <nd ref="1233191170"/>
+    <nd ref="1233192819"/>
+    <nd ref="361390483"/>
+    <nd ref="361390495"/>
+    <nd ref="1233190983"/>
+    <nd ref="1233191156"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Victoria Parade"/>
+    <tag k="source" v="nearmap/GPS"/>
+  </way>
+</osm>

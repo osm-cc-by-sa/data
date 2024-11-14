@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="62835908" version="1" timestamp="2010-06-22T17:27:49Z" uid="9037" user="Alberto" changeset="5052913">
+    <nd ref="782461731"/>
+    <nd ref="782460941"/>
+    <nd ref="782461244"/>
+    <nd ref="782461510"/>
+    <nd ref="782461731"/>
+    <tag k="leisure" v="stadium"/>
+    <tag k="sport" v="football"/>
+  </way>
+  <way id="62835908" version="2" timestamp="2010-06-29T19:12:38Z" uid="74617" user="JohnSmith" changeset="5108182">
+    <nd ref="782461731"/>
+    <nd ref="782460941"/>
+    <nd ref="782461244"/>
+    <nd ref="782461510"/>
+    <nd ref="782461731"/>
+    <tag k="fixme" v="sport=football is ambiguous, see http://wiki.osm.org/wiki/Football for more details"/>
+    <tag k="leisure" v="stadium"/>
+    <tag k="sport" v="football"/>
+  </way>
+  <way id="62835908" version="3" timestamp="2011-01-13T20:18:02Z" uid="7045" user="Xuacu" changeset="6961135">
+    <nd ref="782461731"/>
+    <nd ref="782460941"/>
+    <nd ref="782461244"/>
+    <nd ref="782461510"/>
+    <nd ref="782461731"/>
+    <tag k="leisure" v="stadium"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Campu de El Bayu"/>
+    <tag k="sport" v="soccer"/>
+  </way>
+</osm>

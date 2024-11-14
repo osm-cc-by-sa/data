@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="101117254" version="1" timestamp="2011-02-23T00:16:00Z" uid="6269" user="Mueck" changeset="7368561">
+    <nd ref="272595663"/>
+    <nd ref="1167305811"/>
+    <nd ref="1167305771"/>
+    <nd ref="428612827"/>
+    <nd ref="32536337"/>
+    <nd ref="1167305488"/>
+    <nd ref="442009363"/>
+    <nd ref="1167305684"/>
+    <nd ref="32536326"/>
+    <tag k="highway" v="footway"/>
+    <tag k="layer" v="-2"/>
+  </way>
+  <way id="101117256" version="1" timestamp="2011-02-23T00:16:01Z" uid="6269" user="Mueck" changeset="7368561">
+    <nd ref="1167305572"/>
+    <nd ref="1167305554"/>
+    <nd ref="1167305560"/>
+    <nd ref="1167305395"/>
+    <tag k="layer" v="-1"/>
+    <tag k="railway" v="tram"/>
+    <tag k="tracks" v="1"/>
+  </way>
+  <way id="101117256" version="2" timestamp="2011-02-23T01:22:53Z" uid="6269" user="Mueck" changeset="7369091">
+    <nd ref="1167305572"/>
+    <nd ref="1167305554"/>
+    <nd ref="1167305560"/>
+    <nd ref="1167305395"/>
+    <tag k="cutting" v="yes"/>
+    <tag k="electrified" v="contact_rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="layer" v="-1"/>
+    <tag k="operator" v="VBK"/>
+    <tag k="railway" v="tram"/>
+    <tag k="tracks" v="1"/>
+    <tag k="voltage" v="750"/>
+  </way>
+  <way id="101117256" version="3" timestamp="2011-10-06T11:19:57Z" uid="4363" user="Pmz" changeset="9484699">
+    <nd ref="1167305572"/>
+    <nd ref="1167305554"/>
+    <nd ref="1167305560"/>
+    <nd ref="1167305395"/>
+    <tag k="cutting" v="yes"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="frequency" v="0"/>
+    <tag k="layer" v="-1"/>
+    <tag k="operator" v="VBK"/>
+    <tag k="railway" v="tram"/>
+    <tag k="tracks" v="1"/>
+    <tag k="voltage" v="750"/>
+  </way>
+  <way id="101117258" version="1" timestamp="2011-02-23T00:16:01Z" uid="6269" user="Mueck" changeset="7368561">
+    <nd ref="1167305456"/>
+    <nd ref="258060560"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="cycleway"/>
+  </way>
+  <way id="101117258" version="2" timestamp="2012-01-17T18:48:06Z" uid="16330" user="aluka" changeset="10420608">
+    <nd ref="1595122344"/>
+    <nd ref="258060560"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="cycleway"/>
+  </way>
+  <way id="101117258" version="3" timestamp="2012-01-17T19:00:35Z" uid="16330" user="aluka" changeset="10420741"/>
+  <way id="101117262" version="1" timestamp="2011-02-23T00:16:01Z" uid="6269" user="Mueck" changeset="7368561">
+    <nd ref="1167305675"/>
+    <nd ref="248933369"/>
+    <nd ref="248933372"/>
+    <nd ref="1167305456"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="cycleway"/>
+    <tag k="layer" v="1"/>
+  </way>
+  <way id="101117262" version="2" timestamp="2012-01-17T18:48:08Z" uid="16330" user="aluka" changeset="10420608"/>
+  <way id="101117254" version="2" timestamp="2012-04-27T15:54:46Z" uid="35468" user="Blunauer" changeset="11433810"/>
+  <way id="101117256" version="4" timestamp="2012-04-28T18:59:19Z" uid="123364" user="Tronikon" changeset="11443612">
+    <nd ref="1167305554"/>
+    <nd ref="1167305560"/>
+    <nd ref="1167305395"/>
+    <tag k="cutting" v="yes"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="frequency" v="0"/>
+    <tag k="layer" v="-1"/>
+    <tag k="operator" v="VBK"/>
+    <tag k="railway" v="tram"/>
+    <tag k="tracks" v="1"/>
+    <tag k="voltage" v="750"/>
+  </way>
+  <way id="101117256" version="5" timestamp="2012-04-28T19:10:01Z" uid="123364" user="Tronikon" changeset="11443706"/>
+</osm>

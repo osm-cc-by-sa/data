@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="51160113" version="1" timestamp="2010-02-24T17:40:10Z" uid="43967" user="railsnail" changeset="3964870">
+    <nd ref="652699521"/>
+    <nd ref="290168832"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="road"/>
+    <tag k="name" v="Luggauer Brücke"/>
+  </way>
+  <way id="51160113" version="2" timestamp="2010-02-25T10:32:48Z" uid="43967" user="railsnail" changeset="3970331">
+    <nd ref="653197363"/>
+    <nd ref="653197364"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Luggauer Brücke"/>
+  </way>
+  <way id="51160113" version="3" timestamp="2010-05-27T19:28:19Z" uid="43967" user="railsnail" changeset="4825216">
+    <nd ref="653197363"/>
+    <nd ref="653197364"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Luggauer Brücke"/>
+  </way>
+  <way id="51160113" version="4" timestamp="2012-02-12T10:36:33Z" uid="40843" user="Bene" changeset="10661254">
+    <nd ref="653197363"/>
+    <nd ref="653197364"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Luggauer Brücke"/>
+  </way>
+  <way id="51160589" version="2" timestamp="2010-06-29T19:03:58Z" uid="74617" user="JohnSmith" changeset="5108182">
+    <nd ref="652704991"/>
+    <nd ref="652705039"/>
+    <nd ref="652705036"/>
+    <nd ref="652704982"/>
+    <nd ref="652704991"/>
+    <tag k="fixme" v="sport=football is ambiguous, see http://wiki.osm.org/wiki/Football for more details"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="source" v="survey+ITACyL 2010"/>
+    <tag k="sport" v="football"/>
+  </way>
+  <way id="51160113" version="5" timestamp="2012-04-22T14:14:00Z" uid="45481" user="borisC" changeset="11384719"/>
+  <way id="51160589" version="3" timestamp="2012-07-15T14:21:35Z" uid="722137" user="OSMF Redaction Account" changeset="12229756">
+    <nd ref="652704991"/>
+    <nd ref="652705039"/>
+    <nd ref="652705036"/>
+    <nd ref="652704982"/>
+    <nd ref="652704991"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="source" v="survey+ITACyL 2010"/>
+    <tag k="sport" v="football"/>
+  </way>
+</osm>

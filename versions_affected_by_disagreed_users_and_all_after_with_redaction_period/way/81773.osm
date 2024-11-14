@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="81773691" version="1" timestamp="2010-10-16T21:58:35Z" uid="96874" user="Quedel" changeset="6062168">
+    <nd ref="952704487"/>
+    <nd ref="300417020"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Gröpern"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:lane:both" v="no_parking"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="81773691" version="2" timestamp="2010-10-17T12:57:44Z" uid="96874" user="Quedel" changeset="6066735">
+    <nd ref="952704487"/>
+    <nd ref="300417020"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Gröpern"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:condition:right" v="free"/>
+    <tag k="parking:lane:left" v="no_parking"/>
+    <tag k="parking:lane:right" v="inline"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="81773691" version="3" timestamp="2011-02-05T21:19:47Z" uid="96874" user="Quedel" changeset="7197399">
+    <nd ref="952704487"/>
+    <nd ref="1138005963"/>
+    <nd ref="300417020"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Gröpern"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:condition:right" v="free"/>
+    <tag k="parking:lane:left" v="no_parking"/>
+    <tag k="parking:lane:right" v="inline"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="81773697" version="1" timestamp="2010-10-16T21:58:35Z" uid="96874" user="Quedel" changeset="6062168">
+    <nd ref="952704478"/>
+    <nd ref="355616904"/>
+    <nd ref="892303308"/>
+    <nd ref="355616855"/>
+    <nd ref="355616856"/>
+    <nd ref="938884004"/>
+    <tag k="hgv" v="destination"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="maxweight" v="2.5"/>
+    <tag k="name" v="Ahornstraße"/>
+    <tag k="parking:lane:both" v="no_parking"/>
+  </way>
+  <way id="81773703" version="1" timestamp="2010-10-16T21:58:36Z" uid="96874" user="Quedel" changeset="6062168">
+    <nd ref="298863233"/>
+    <nd ref="298863245"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Weyhestraße"/>
+    <tag k="parking:condition:right" v="free"/>
+    <tag k="parking:lane:left" v="no_parking"/>
+    <tag k="parking:lane:right" v="orthogonal"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="81773709" version="1" timestamp="2010-10-16T21:58:37Z" uid="96874" user="Quedel" changeset="6062168">
+    <nd ref="298863245"/>
+    <nd ref="948758971"/>
+    <nd ref="308304525"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Weyhestraße"/>
+    <tag k="parking:lane:both" v="no_parking"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="81773691" version="4" timestamp="2012-07-17T08:32:30Z" uid="722137" user="OSMF Redaction Account" changeset="12260505"/>
+  <way id="81773697" version="2" timestamp="2012-07-17T08:32:15Z" uid="722137" user="OSMF Redaction Account" changeset="12260505"/>
+  <way id="81773703" version="2" timestamp="2012-07-17T08:32:24Z" uid="722137" user="OSMF Redaction Account" changeset="12260505"/>
+  <way id="81773709" version="2" timestamp="2012-07-17T08:32:23Z" uid="722137" user="OSMF Redaction Account" changeset="12260505"/>
+</osm>

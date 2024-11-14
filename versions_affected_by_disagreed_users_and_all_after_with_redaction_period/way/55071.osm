@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="55071904" version="2" timestamp="2010-07-20T23:15:02Z" uid="137033" user="lubomir" changeset="5275126">
+    <nd ref="826920771"/>
+    <nd ref="692885810"/>
+    <nd ref="692885841"/>
+    <nd ref="692885804"/>
+    <nd ref="826920736"/>
+    <nd ref="826920772"/>
+    <nd ref="826920810"/>
+    <nd ref="826920729"/>
+    <tag k="highway" v="track"/>
+    <tag k="surface" v="grass"/>
+    <tag k="tracktype" v="grade5"/>
+  </way>
+  <way id="55071905" version="2" timestamp="2010-06-29T21:09:39Z" uid="137033" user="lubomir" changeset="5109399">
+    <nd ref="796480518"/>
+    <nd ref="796480515"/>
+    <nd ref="796480460"/>
+    <nd ref="796480433"/>
+    <nd ref="796480428"/>
+    <nd ref="692885823"/>
+    <nd ref="692885786"/>
+    <nd ref="692885833"/>
+    <tag k="highway" v="track"/>
+    <tag k="source" v="nlc"/>
+    <tag k="surface" v="ground"/>
+    <tag k="tracktype" v="grade5"/>
+  </way>
+  <way id="55071904" version="3" timestamp="2012-07-17T04:11:31Z" uid="722137" user="OSMF Redaction Account" changeset="12256618">
+    <nd ref="692885810"/>
+    <nd ref="692885841"/>
+    <nd ref="692885804"/>
+    <tag k="highway" v="unclassified"/>
+  </way>
+  <way id="55071905" version="3" timestamp="2012-07-17T04:11:30Z" uid="722137" user="OSMF Redaction Account" changeset="12256618">
+    <nd ref="692885823"/>
+    <nd ref="692885786"/>
+    <nd ref="692885833"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="source" v="nlc"/>
+  </way>
+</osm>

@@ -1,0 +1,976 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="35997069" version="5" timestamp="2010-03-28T02:19:06Z" uid="20587" user="balrog-kun" changeset="4250871">
+    <nd ref="84952233"/>
+    <nd ref="84952466"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="East Washington Boulevard"/>
+    <tag k="ref" v="D1"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Del Norte, CA"/>
+    <tag k="tiger:name_base" v="Washington"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="Blvd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="113169807:113161315:113175836:113175837"/>
+  </way>
+  <way id="35997069" version="6" timestamp="2011-03-14T18:06:38Z" uid="239998" user="Sundance" changeset="7559105">
+    <nd ref="84952233"/>
+    <nd ref="84952466"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="is_in" v="Del Norte, CA"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="East Washington Boulevard"/>
+    <tag k="ref" v="D1"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="113169807:113161315:113175836:113175837"/>
+  </way>
+  <way id="35997353" version="2" timestamp="2009-09-30T11:53:57Z" uid="36809" user="pfoten_weg_!_" changeset="2687450">
+    <nd ref="251319875"/>
+    <nd ref="251319880"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="layer" v="1"/>
+    <tag k="railway" v="rail"/>
+  </way>
+  <way id="35997353" version="3" timestamp="2009-10-23T17:46:45Z" uid="64756" user="alegria6208" changeset="2931954">
+    <nd ref="251319875"/>
+    <nd ref="251319880"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="electrified" v="yes"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="railway" v="rail"/>
+    <tag k="tracks" v="double"/>
+  </way>
+  <way id="35997353" version="4" timestamp="2011-09-28T20:48:51Z" uid="123364" user="Tronikon" changeset="9423058">
+    <nd ref="251319875"/>
+    <nd ref="251319880"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="frequency" v="0"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="railway" v="rail"/>
+    <tag k="tracks" v="double"/>
+    <tag k="voltage" v="3000"/>
+  </way>
+  <way id="35997353" version="5" timestamp="2011-10-04T09:50:39Z" uid="334153" user="Alexander Roalter" changeset="9467842">
+    <nd ref="251319875"/>
+    <nd ref="251319880"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="frequency" v="0"/>
+    <tag k="layer" v="1"/>
+    <tag k="railway" v="rail"/>
+    <tag k="voltage" v="3000"/>
+  </way>
+  <way id="35997353" version="6" timestamp="2011-11-10T13:06:07Z" uid="42429" user="FK270673" changeset="9788628">
+    <nd ref="251319875"/>
+    <nd ref="251319880"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="layer" v="1"/>
+    <tag k="railway" v="rail"/>
+    <tag k="voltage" v="3000"/>
+  </way>
+  <way id="35997353" version="7" timestamp="2011-12-15T11:09:53Z" uid="334153" user="Alexander Roalter" changeset="10123215"/>
+  <way id="35997354" version="2" timestamp="2009-09-30T11:53:56Z" uid="36809" user="pfoten_weg_!_" changeset="2687450">
+    <nd ref="251319880"/>
+    <nd ref="251319881"/>
+    <nd ref="251319878"/>
+    <nd ref="251319879"/>
+    <nd ref="251319901"/>
+    <nd ref="251319899"/>
+    <nd ref="251319900"/>
+    <nd ref="251319904"/>
+    <nd ref="251319905"/>
+    <nd ref="251319902"/>
+    <nd ref="251319903"/>
+    <tag k="railway" v="rail"/>
+  </way>
+  <way id="35997354" version="3" timestamp="2009-10-23T12:04:16Z" uid="64756" user="alegria6208" changeset="2929228">
+    <nd ref="251319880"/>
+    <nd ref="538921682"/>
+    <nd ref="538921681"/>
+    <nd ref="538921680"/>
+    <nd ref="251319881"/>
+    <nd ref="538921672"/>
+    <nd ref="538921670"/>
+    <nd ref="251319878"/>
+    <nd ref="538921669"/>
+    <nd ref="538921756"/>
+    <nd ref="538921753"/>
+    <nd ref="251319879"/>
+    <nd ref="538921750"/>
+    <nd ref="251319901"/>
+    <nd ref="538921747"/>
+    <nd ref="251319899"/>
+    <nd ref="538921743"/>
+    <nd ref="538921726"/>
+    <nd ref="251319900"/>
+    <nd ref="538921723"/>
+    <nd ref="251319904"/>
+    <nd ref="251319905"/>
+    <nd ref="538921704"/>
+    <nd ref="251319902"/>
+    <nd ref="538921702"/>
+    <nd ref="538921699"/>
+    <nd ref="251319903"/>
+    <tag k="railway" v="rail"/>
+  </way>
+  <way id="35997354" version="4" timestamp="2009-10-23T17:46:45Z" uid="64756" user="alegria6208" changeset="2931954">
+    <nd ref="251319880"/>
+    <nd ref="538921682"/>
+    <nd ref="538921681"/>
+    <nd ref="538921680"/>
+    <nd ref="251319881"/>
+    <nd ref="538921672"/>
+    <nd ref="538921670"/>
+    <nd ref="251319878"/>
+    <nd ref="538921669"/>
+    <nd ref="538921756"/>
+    <nd ref="538921753"/>
+    <nd ref="251319879"/>
+    <nd ref="538921750"/>
+    <nd ref="251319901"/>
+    <nd ref="538921747"/>
+    <nd ref="251319899"/>
+    <nd ref="538921743"/>
+    <nd ref="538921726"/>
+    <nd ref="251319900"/>
+    <nd ref="538921723"/>
+    <nd ref="251319904"/>
+    <nd ref="251319905"/>
+    <nd ref="538921704"/>
+    <nd ref="251319902"/>
+    <nd ref="538921702"/>
+    <nd ref="538921699"/>
+    <nd ref="251319903"/>
+    <tag k="electrified" v="yes"/>
+    <tag k="lanes" v="2"/>
+    <tag k="railway" v="rail"/>
+    <tag k="tracks" v="double"/>
+  </way>
+  <way id="35997354" version="5" timestamp="2010-09-25T15:07:10Z" uid="334153" user="Alexander Roalter" changeset="5871700">
+    <nd ref="251319880"/>
+    <nd ref="538921682"/>
+    <nd ref="538921681"/>
+    <nd ref="538921680"/>
+    <nd ref="251319881"/>
+    <nd ref="538921672"/>
+    <nd ref="538921670"/>
+    <nd ref="251319878"/>
+    <nd ref="538921669"/>
+    <nd ref="538921756"/>
+    <nd ref="538921753"/>
+    <nd ref="251319879"/>
+    <nd ref="538921750"/>
+    <nd ref="251319901"/>
+    <nd ref="538921747"/>
+    <nd ref="251319899"/>
+    <nd ref="538921743"/>
+    <nd ref="538921726"/>
+    <nd ref="251319900"/>
+    <nd ref="538921723"/>
+    <nd ref="251319904"/>
+    <nd ref="251319905"/>
+    <nd ref="538921704"/>
+    <nd ref="251319902"/>
+    <nd ref="538921702"/>
+    <nd ref="538921699"/>
+    <nd ref="251319903"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="railway" v="rail"/>
+  </way>
+  <way id="35997354" version="6" timestamp="2011-09-28T20:49:10Z" uid="123364" user="Tronikon" changeset="9423058">
+    <nd ref="251319880"/>
+    <nd ref="538921682"/>
+    <nd ref="538921681"/>
+    <nd ref="538921680"/>
+    <nd ref="251319881"/>
+    <nd ref="538921672"/>
+    <nd ref="538921670"/>
+    <nd ref="251319878"/>
+    <nd ref="538921669"/>
+    <nd ref="538921756"/>
+    <nd ref="538921753"/>
+    <nd ref="251319879"/>
+    <nd ref="538921750"/>
+    <nd ref="251319901"/>
+    <nd ref="538921747"/>
+    <nd ref="251319899"/>
+    <nd ref="538921743"/>
+    <nd ref="538921726"/>
+    <nd ref="251319900"/>
+    <nd ref="538921723"/>
+    <nd ref="251319904"/>
+    <nd ref="251319905"/>
+    <nd ref="538921704"/>
+    <nd ref="251319902"/>
+    <nd ref="538921702"/>
+    <nd ref="538921699"/>
+    <nd ref="251319903"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="frequency" v="0"/>
+    <tag k="railway" v="rail"/>
+    <tag k="voltage" v="3000"/>
+  </way>
+  <way id="35997354" version="7" timestamp="2011-11-10T13:08:56Z" uid="42429" user="FK270673" changeset="9788628">
+    <nd ref="251319880"/>
+    <nd ref="538921682"/>
+    <nd ref="538921681"/>
+    <nd ref="538921680"/>
+    <nd ref="251319881"/>
+    <nd ref="538921672"/>
+    <nd ref="538921670"/>
+    <nd ref="251319878"/>
+    <nd ref="538921669"/>
+    <nd ref="538921756"/>
+    <nd ref="538921753"/>
+    <nd ref="251319879"/>
+    <nd ref="538921750"/>
+    <nd ref="251319901"/>
+    <nd ref="538921747"/>
+    <nd ref="251319899"/>
+    <nd ref="538921743"/>
+    <nd ref="538921726"/>
+    <nd ref="251319900"/>
+    <nd ref="538921723"/>
+    <nd ref="251319904"/>
+    <nd ref="251319905"/>
+    <nd ref="538921704"/>
+    <nd ref="251319902"/>
+    <nd ref="538921702"/>
+    <nd ref="538921699"/>
+    <nd ref="251319903"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="railway" v="rail"/>
+    <tag k="voltage" v="3000"/>
+  </way>
+  <way id="35997354" version="8" timestamp="2011-12-15T11:09:53Z" uid="334153" user="Alexander Roalter" changeset="10123215"/>
+  <way id="35997387" version="7" timestamp="2009-11-30T20:06:31Z" uid="133281" user="beorn" changeset="3259115">
+    <nd ref="420772514"/>
+    <nd ref="575140045"/>
+    <nd ref="420772813"/>
+    <nd ref="575144201"/>
+    <nd ref="420772814"/>
+    <nd ref="575144989"/>
+    <nd ref="420772815"/>
+    <nd ref="575145235"/>
+    <nd ref="420772816"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Tallvägen"/>
+  </way>
+  <way id="35997387" version="8" timestamp="2012-01-30T01:02:57Z" uid="306096" user="joakimfors" changeset="10536148"/>
+  <way id="35997591" version="1" timestamp="2009-06-15T17:27:22Z" uid="36809" user="pfoten_weg_!_" changeset="1527114">
+    <nd ref="420775245"/>
+    <nd ref="420775247"/>
+    <nd ref="420775257"/>
+    <nd ref="420775259"/>
+    <nd ref="420775256"/>
+    <nd ref="420775242"/>
+    <tag k="access" v="private"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="created_by" v="RambaZamba"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="layer" v="0"/>
+    <tag k="motorcar" v="private"/>
+    <tag k="motorcycle" v="private"/>
+    <tag k="name" v="Eben / Pertisau"/>
+    <tag k="service" v="alley"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="paved"/>
+    <tag k="width" v="4"/>
+  </way>
+  <way id="35997591" version="2" timestamp="2009-06-15T17:27:42Z" uid="36809" user="pfoten_weg_!_" changeset="1527118">
+    <nd ref="420775245"/>
+    <nd ref="420775247"/>
+    <nd ref="420775257"/>
+    <nd ref="420775259"/>
+    <nd ref="420730382"/>
+    <nd ref="420775242"/>
+    <tag k="access" v="private"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="created_by" v="RambaZamba"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="layer" v="0"/>
+    <tag k="motorcar" v="private"/>
+    <tag k="motorcycle" v="private"/>
+    <tag k="name" v="Eben / Pertisau"/>
+    <tag k="service" v="alley"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="paved"/>
+    <tag k="width" v="4"/>
+  </way>
+  <way id="35997591" version="3" timestamp="2009-08-28T20:12:12Z" uid="156995" user="HampelZamba" changeset="2294580">
+    <nd ref="420775245"/>
+    <nd ref="420775247"/>
+    <nd ref="420775257"/>
+    <nd ref="420775259"/>
+    <nd ref="420730382"/>
+    <nd ref="420775242"/>
+    <tag k="access" v="private"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="layer" v="0"/>
+    <tag k="motorcar" v="private"/>
+    <tag k="motorcycle" v="private"/>
+    <tag k="name" v="Eben / Pertisau"/>
+    <tag k="service" v="alley"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="paved"/>
+    <tag k="width" v="4"/>
+  </way>
+  <way id="35997591" version="4" timestamp="2009-08-28T22:41:12Z" uid="36809" user="pfoten_weg_!_" changeset="2295972">
+    <nd ref="420775245"/>
+    <nd ref="420775247"/>
+    <nd ref="420775257"/>
+    <nd ref="420775259"/>
+    <nd ref="420730382"/>
+    <nd ref="420775242"/>
+    <tag k="access" v="private"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="discovered_by" v="RambaZamba"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="layer" v="0"/>
+    <tag k="motorcar" v="private"/>
+    <tag k="motorcycle" v="private"/>
+    <tag k="name" v="Eben / Pertisau"/>
+    <tag k="service" v="alley"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="paved"/>
+    <tag k="width" v="4"/>
+  </way>
+  <way id="35997591" version="5" timestamp="2009-08-30T09:37:19Z" uid="156995" user="HampelZamba" changeset="2310659">
+    <nd ref="420775245"/>
+    <nd ref="420775247"/>
+    <nd ref="420775257"/>
+    <nd ref="420775259"/>
+    <nd ref="420730382"/>
+    <nd ref="420775242"/>
+    <tag k="access" v="private"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="layer" v="0"/>
+    <tag k="motorcar" v="private"/>
+    <tag k="motorcycle" v="private"/>
+    <tag k="name" v="Eben / Pertisau"/>
+    <tag k="service" v="alley"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="paved"/>
+    <tag k="width" v="4"/>
+  </way>
+  <way id="35997591" version="6" timestamp="2009-08-31T12:04:10Z" uid="64924" user="leck_mich_alle_am_arsch" changeset="2325486">
+    <nd ref="420775245"/>
+    <nd ref="420775247"/>
+    <nd ref="420775257"/>
+    <nd ref="420775259"/>
+    <nd ref="420730382"/>
+    <nd ref="420775242"/>
+    <tag k="access" v="private"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="layer" v="0"/>
+    <tag k="motorcar" v="private"/>
+    <tag k="motorcycle" v="private"/>
+    <tag k="name" v="Eben / Pertisau"/>
+    <tag k="service" v="alley"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="paved"/>
+    <tag k="width" v="4"/>
+  </way>
+  <way id="35997591" version="7" timestamp="2009-10-15T18:08:13Z" uid="36809" user="pfoten_weg_!_" changeset="2857512">
+    <nd ref="420775245"/>
+    <nd ref="420775247"/>
+    <nd ref="420775257"/>
+    <nd ref="420775259"/>
+    <nd ref="420730382"/>
+    <nd ref="420775242"/>
+    <tag k="access" v="private"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="layer" v="0"/>
+    <tag k="motorcar" v="private"/>
+    <tag k="motorcycle" v="private"/>
+    <tag k="name" v="Eben / Pertisau"/>
+    <tag k="service" v="alley"/>
+    <tag k="surface" v="paved"/>
+    <tag k="width" v="4"/>
+  </way>
+  <way id="35997591" version="8" timestamp="2010-12-11T12:04:25Z" uid="81244" user="rurseekatze" changeset="6622179">
+    <nd ref="420775245"/>
+    <nd ref="420775247"/>
+    <nd ref="420775257"/>
+    <nd ref="420775259"/>
+    <nd ref="1033080534"/>
+    <nd ref="1033080466"/>
+    <nd ref="420730382"/>
+    <nd ref="1033080404"/>
+    <nd ref="420775242"/>
+    <tag k="access" v="private"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="layer" v="0"/>
+    <tag k="motorcar" v="private"/>
+    <tag k="motorcycle" v="private"/>
+    <tag k="name" v="Eben / Pertisau"/>
+    <tag k="service" v="alley"/>
+    <tag k="surface" v="paved"/>
+    <tag k="width" v="4"/>
+  </way>
+  <way id="35997591" version="9" timestamp="2011-08-26T16:37:38Z" uid="417684" user="Maler" changeset="9129734">
+    <nd ref="420775245"/>
+    <nd ref="1033080592"/>
+    <nd ref="420775247"/>
+    <nd ref="420775257"/>
+    <nd ref="1033080562"/>
+    <nd ref="420775259"/>
+    <nd ref="1033080534"/>
+    <nd ref="1033080466"/>
+    <nd ref="420730382"/>
+    <nd ref="1033080404"/>
+    <nd ref="420775242"/>
+    <tag k="access" v="private"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="layer" v="0"/>
+    <tag k="motorcar" v="private"/>
+    <tag k="motorcycle" v="private"/>
+    <tag k="name" v="Eben / Pertisau"/>
+    <tag k="service" v="alley"/>
+    <tag k="surface" v="paved"/>
+    <tag k="width" v="4"/>
+  </way>
+  <way id="35997591" version="10" timestamp="2011-08-26T17:25:56Z" uid="417684" user="Maler" changeset="9129734">
+    <nd ref="420775245"/>
+    <nd ref="1033080581"/>
+    <nd ref="420775247"/>
+    <nd ref="420775257"/>
+    <nd ref="1033080562"/>
+    <nd ref="420775259"/>
+    <nd ref="1033080534"/>
+    <nd ref="1033080466"/>
+    <nd ref="420730382"/>
+    <nd ref="1033080404"/>
+    <nd ref="420775242"/>
+    <tag k="access" v="private"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="layer" v="0"/>
+    <tag k="motorcar" v="private"/>
+    <tag k="motorcycle" v="private"/>
+    <tag k="name" v="Eben / Pertisau"/>
+    <tag k="service" v="alley"/>
+    <tag k="surface" v="paved"/>
+    <tag k="width" v="4"/>
+  </way>
+  <way id="35997591" version="11" timestamp="2011-08-27T19:25:03Z" uid="417684" user="Maler" changeset="9136986">
+    <nd ref="420775245"/>
+    <nd ref="1033080581"/>
+    <nd ref="420775247"/>
+    <nd ref="420775257"/>
+    <nd ref="1033080562"/>
+    <nd ref="420775259"/>
+    <nd ref="1033080534"/>
+    <nd ref="1033080466"/>
+    <nd ref="420730382"/>
+    <nd ref="1033080404"/>
+    <nd ref="420775242"/>
+    <tag k="access" v="private"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="motorcar" v="private"/>
+    <tag k="motorcycle" v="private"/>
+    <tag k="name" v="Eben / Pertisau"/>
+    <tag k="service" v="alley"/>
+    <tag k="surface" v="paved"/>
+    <tag k="width" v="4"/>
+  </way>
+  <way id="35997591" version="12" timestamp="2011-09-27T08:45:19Z" uid="45481" user="borisC" changeset="9408680">
+    <nd ref="420775245"/>
+    <nd ref="1033080581"/>
+    <nd ref="420775247"/>
+    <nd ref="420775257"/>
+    <nd ref="1033080562"/>
+    <nd ref="420775259"/>
+    <nd ref="1033080534"/>
+    <nd ref="1033080466"/>
+    <nd ref="420730382"/>
+    <nd ref="1033080404"/>
+    <nd ref="420775242"/>
+    <tag k="access" v="private"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="motorcar" v="private"/>
+    <tag k="motorcycle" v="private"/>
+    <tag k="service" v="alley"/>
+    <tag k="surface" v="paved"/>
+    <tag k="width" v="4"/>
+  </way>
+  <way id="35997591" version="13" timestamp="2011-12-13T21:25:14Z" uid="78656" user="Walter Schlögl" changeset="10111250">
+    <nd ref="420775245"/>
+    <nd ref="1033080581"/>
+    <nd ref="420775247"/>
+    <nd ref="420775257"/>
+    <nd ref="1033080562"/>
+    <nd ref="420775259"/>
+    <nd ref="1033080534"/>
+    <nd ref="1033080466"/>
+    <nd ref="420730382"/>
+    <nd ref="1033080404"/>
+    <nd ref="420775242"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="motor_vehicle" v="private"/>
+    <tag k="service" v="alley"/>
+    <tag k="surface" v="paved"/>
+    <tag k="width" v="4"/>
+  </way>
+  <way id="35997591" version="14" timestamp="2012-02-01T23:33:47Z" uid="596973" user="korinthenfresser" changeset="10563625"/>
+  <way id="35997592" version="1" timestamp="2009-06-15T17:27:22Z" uid="36809" user="pfoten_weg_!_" changeset="1527114">
+    <nd ref="420775247"/>
+    <nd ref="420775249"/>
+    <nd ref="420775252"/>
+    <nd ref="420775254"/>
+    <nd ref="420775258"/>
+    <nd ref="420775261"/>
+    <nd ref="420775263"/>
+    <nd ref="420775244"/>
+    <nd ref="420775243"/>
+    <nd ref="420775251"/>
+    <nd ref="420775248"/>
+    <nd ref="420775255"/>
+    <nd ref="420775253"/>
+    <nd ref="420775262"/>
+    <nd ref="420775246"/>
+    <tag k="access" v="private"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="created_by" v="RambaZamba"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="layer" v="0"/>
+    <tag k="motorcar" v="private"/>
+    <tag k="motorcycle" v="private"/>
+    <tag k="name" v="Eben / Pertisau"/>
+    <tag k="service" v="alley"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="paved"/>
+    <tag k="width" v="4"/>
+  </way>
+  <way id="35997592" version="2" timestamp="2009-08-28T20:12:12Z" uid="156995" user="HampelZamba" changeset="2294580">
+    <nd ref="420775247"/>
+    <nd ref="420775249"/>
+    <nd ref="420775252"/>
+    <nd ref="420775254"/>
+    <nd ref="420775258"/>
+    <nd ref="420775261"/>
+    <nd ref="420775263"/>
+    <nd ref="420775244"/>
+    <nd ref="420775243"/>
+    <nd ref="420775251"/>
+    <nd ref="420775248"/>
+    <nd ref="420775255"/>
+    <nd ref="420775253"/>
+    <nd ref="420775262"/>
+    <nd ref="420775246"/>
+    <tag k="access" v="private"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="layer" v="0"/>
+    <tag k="motorcar" v="private"/>
+    <tag k="motorcycle" v="private"/>
+    <tag k="name" v="Eben / Pertisau"/>
+    <tag k="service" v="alley"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="paved"/>
+    <tag k="width" v="4"/>
+  </way>
+  <way id="35997592" version="3" timestamp="2009-08-28T22:39:47Z" uid="36809" user="pfoten_weg_!_" changeset="2295972">
+    <nd ref="420775247"/>
+    <nd ref="420775249"/>
+    <nd ref="420775252"/>
+    <nd ref="420775254"/>
+    <nd ref="420775258"/>
+    <nd ref="420775261"/>
+    <nd ref="420775263"/>
+    <nd ref="420775244"/>
+    <nd ref="420775243"/>
+    <nd ref="420775251"/>
+    <nd ref="420775248"/>
+    <nd ref="420775255"/>
+    <nd ref="420775253"/>
+    <nd ref="420775262"/>
+    <nd ref="420775246"/>
+    <tag k="access" v="private"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="discovered_by" v="RambaZamba"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="layer" v="0"/>
+    <tag k="motorcar" v="private"/>
+    <tag k="motorcycle" v="private"/>
+    <tag k="name" v="Eben / Pertisau"/>
+    <tag k="service" v="alley"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="paved"/>
+    <tag k="width" v="4"/>
+  </way>
+  <way id="35997592" version="4" timestamp="2009-08-30T09:37:20Z" uid="156995" user="HampelZamba" changeset="2310659">
+    <nd ref="420775247"/>
+    <nd ref="420775249"/>
+    <nd ref="420775252"/>
+    <nd ref="420775254"/>
+    <nd ref="420775258"/>
+    <nd ref="420775261"/>
+    <nd ref="420775263"/>
+    <nd ref="420775244"/>
+    <nd ref="420775243"/>
+    <nd ref="420775251"/>
+    <nd ref="420775248"/>
+    <nd ref="420775255"/>
+    <nd ref="420775253"/>
+    <nd ref="420775262"/>
+    <nd ref="420775246"/>
+    <tag k="access" v="private"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="layer" v="0"/>
+    <tag k="motorcar" v="private"/>
+    <tag k="motorcycle" v="private"/>
+    <tag k="name" v="Eben / Pertisau"/>
+    <tag k="service" v="alley"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="paved"/>
+    <tag k="width" v="4"/>
+  </way>
+  <way id="35997592" version="5" timestamp="2009-08-31T12:04:10Z" uid="64924" user="leck_mich_alle_am_arsch" changeset="2325486">
+    <nd ref="420775247"/>
+    <nd ref="420775249"/>
+    <nd ref="420775252"/>
+    <nd ref="420775254"/>
+    <nd ref="420775258"/>
+    <nd ref="420775261"/>
+    <nd ref="420775263"/>
+    <nd ref="420775244"/>
+    <nd ref="420775243"/>
+    <nd ref="420775251"/>
+    <nd ref="420775248"/>
+    <nd ref="420775255"/>
+    <nd ref="420775253"/>
+    <nd ref="420775262"/>
+    <nd ref="420775246"/>
+    <tag k="access" v="private"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="layer" v="0"/>
+    <tag k="motorcar" v="private"/>
+    <tag k="motorcycle" v="private"/>
+    <tag k="name" v="Eben / Pertisau"/>
+    <tag k="service" v="alley"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="paved"/>
+    <tag k="width" v="4"/>
+  </way>
+  <way id="35997592" version="6" timestamp="2009-10-15T18:08:14Z" uid="36809" user="pfoten_weg_!_" changeset="2857512">
+    <nd ref="420775247"/>
+    <nd ref="420775249"/>
+    <nd ref="420775252"/>
+    <nd ref="420775254"/>
+    <nd ref="420775258"/>
+    <nd ref="420775261"/>
+    <nd ref="420775263"/>
+    <nd ref="420775244"/>
+    <nd ref="420775243"/>
+    <nd ref="420775251"/>
+    <nd ref="420775248"/>
+    <nd ref="420775255"/>
+    <nd ref="420775253"/>
+    <nd ref="420775262"/>
+    <nd ref="420775246"/>
+    <tag k="access" v="private"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="layer" v="0"/>
+    <tag k="motorcar" v="private"/>
+    <tag k="motorcycle" v="private"/>
+    <tag k="name" v="Eben / Pertisau"/>
+    <tag k="service" v="alley"/>
+    <tag k="surface" v="paved"/>
+    <tag k="width" v="4"/>
+  </way>
+  <way id="35997592" version="7" timestamp="2010-12-05T13:49:39Z" uid="81244" user="rurseekatze" changeset="6550873">
+    <nd ref="420775247"/>
+    <nd ref="420775249"/>
+    <nd ref="420775252"/>
+    <nd ref="420775254"/>
+    <nd ref="420775258"/>
+    <nd ref="420775261"/>
+    <nd ref="420775263"/>
+    <nd ref="420775244"/>
+    <nd ref="420775243"/>
+    <nd ref="420775255"/>
+    <nd ref="420775253"/>
+    <nd ref="420775262"/>
+    <nd ref="420775246"/>
+    <tag k="access" v="private"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="layer" v="0"/>
+    <tag k="motorcar" v="private"/>
+    <tag k="motorcycle" v="private"/>
+    <tag k="name" v="Eben / Pertisau"/>
+    <tag k="service" v="alley"/>
+    <tag k="surface" v="paved"/>
+    <tag k="width" v="4"/>
+  </way>
+  <way id="35997592" version="8" timestamp="2011-02-06T18:35:50Z" uid="81244" user="rurseekatze" changeset="7207657">
+    <nd ref="420775247"/>
+    <nd ref="420775249"/>
+    <nd ref="420775252"/>
+    <nd ref="420775254"/>
+    <nd ref="420775258"/>
+    <nd ref="420775261"/>
+    <nd ref="420775263"/>
+    <nd ref="420775244"/>
+    <nd ref="420775243"/>
+    <nd ref="420775255"/>
+    <nd ref="420775253"/>
+    <nd ref="420775262"/>
+    <nd ref="420775246"/>
+    <tag k="access" v="private"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="layer" v="0"/>
+    <tag k="motorcar" v="private"/>
+    <tag k="motorcycle" v="private"/>
+    <tag k="name" v="Eben / Pertisau"/>
+    <tag k="service" v="alley"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="width" v="4"/>
+  </way>
+  <way id="35997592" version="9" timestamp="2011-08-26T16:37:39Z" uid="417684" user="Maler" changeset="9129734">
+    <nd ref="420775247"/>
+    <nd ref="420775249"/>
+    <nd ref="1033080597"/>
+    <nd ref="420775252"/>
+    <nd ref="420775254"/>
+    <nd ref="420775258"/>
+    <nd ref="420775261"/>
+    <nd ref="420775263"/>
+    <nd ref="1115931623"/>
+    <nd ref="420775244"/>
+    <nd ref="420775243"/>
+    <nd ref="1115931563"/>
+    <nd ref="420775255"/>
+    <nd ref="420775253"/>
+    <nd ref="420775262"/>
+    <nd ref="420775246"/>
+    <tag k="access" v="private"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="layer" v="0"/>
+    <tag k="motorcar" v="private"/>
+    <tag k="motorcycle" v="private"/>
+    <tag k="name" v="Eben / Pertisau"/>
+    <tag k="service" v="alley"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="width" v="4"/>
+  </way>
+  <way id="35997592" version="10" timestamp="2011-08-27T16:17:41Z" uid="417684" user="Maler" changeset="9136986">
+    <nd ref="1033080597"/>
+    <nd ref="1115932311"/>
+    <nd ref="1414942212"/>
+    <nd ref="1414942207"/>
+    <nd ref="1414942205"/>
+    <nd ref="1414942197"/>
+    <nd ref="1414942189"/>
+    <nd ref="1033080403"/>
+    <nd ref="1033080429"/>
+    <nd ref="1414942191"/>
+    <nd ref="1414942201"/>
+    <nd ref="1033080534"/>
+    <nd ref="420775259"/>
+    <nd ref="1033080562"/>
+    <nd ref="420775257"/>
+    <nd ref="420775247"/>
+    <tag k="amenity" v="parking"/>
+    <tag k="parking" v="surface"/>
+  </way>
+  <way id="35997592" version="11" timestamp="2011-10-20T20:22:18Z" uid="78656" user="Walter Schlögl" changeset="9612058">
+    <nd ref="420775247"/>
+    <nd ref="420775249"/>
+    <nd ref="1033080597"/>
+    <nd ref="1115932311"/>
+    <nd ref="1414942212"/>
+    <nd ref="1414942207"/>
+    <nd ref="1414942205"/>
+    <nd ref="1414942197"/>
+    <nd ref="1414942189"/>
+    <nd ref="1033080403"/>
+    <nd ref="1033080429"/>
+    <nd ref="1414942191"/>
+    <nd ref="1414942201"/>
+    <nd ref="1033080534"/>
+    <nd ref="420775259"/>
+    <nd ref="1033080562"/>
+    <nd ref="420775257"/>
+    <nd ref="420775247"/>
+    <tag k="amenity" v="parking"/>
+    <tag k="parking" v="surface"/>
+  </way>
+  <way id="35997592" version="12" timestamp="2012-02-01T23:33:47Z" uid="596973" user="korinthenfresser" changeset="10563625"/>
+  <way id="35997731" version="1" timestamp="2009-06-15T17:30:01Z" uid="58091" user="Andreas M" changeset="1527147">
+    <nd ref="312536644"/>
+    <nd ref="312536645"/>
+    <nd ref="108215554"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Dommesgasse"/>
+  </way>
+  <way id="35997731" version="2" timestamp="2011-07-09T08:07:39Z" uid="411359" user="Thomas Passauer" changeset="8672313">
+    <nd ref="312536644"/>
+    <nd ref="1354583792"/>
+    <nd ref="312536645"/>
+    <nd ref="108215554"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Dommesgasse"/>
+  </way>
+  <way id="35997731" version="3" timestamp="2011-08-24T02:48:19Z" uid="74281" user="linuxonkel" changeset="9108966">
+    <nd ref="312536644"/>
+    <nd ref="1354583792"/>
+    <nd ref="312536645"/>
+    <nd ref="108215554"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Dommesgasse"/>
+    <tag k="oneway" v="-1"/>
+  </way>
+  <way id="35997731" version="4" timestamp="2011-10-07T15:19:17Z" uid="78656" user="Walter Schlögl" changeset="9494850">
+    <nd ref="108215554"/>
+    <nd ref="312536645"/>
+    <nd ref="1354583792"/>
+    <nd ref="312536644"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Dommesgasse"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="35997731" version="5" timestamp="2012-03-05T14:54:15Z" uid="54806" user="_al" changeset="10880089">
+    <nd ref="108215554"/>
+    <nd ref="312536645"/>
+    <nd ref="1354583792"/>
+    <nd ref="312536644"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Dommesgasse"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="geoimage.at"/>
+  </way>
+  <way id="35997850" version="1" timestamp="2009-06-15T17:34:47Z" uid="58091" user="Andreas M" changeset="1527194">
+    <nd ref="117467223"/>
+    <nd ref="420777680"/>
+    <nd ref="420777681"/>
+    <nd ref="420777685"/>
+    <nd ref="420777682"/>
+    <nd ref="420777683"/>
+    <nd ref="420777684"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="cycleway"/>
+  </way>
+  <way id="35997850" version="2" timestamp="2010-10-10T19:56:45Z" uid="231980" user="boerl2" changeset="6005989">
+    <nd ref="117467223"/>
+    <nd ref="420777680"/>
+    <nd ref="420777681"/>
+    <nd ref="420777685"/>
+    <nd ref="420777682"/>
+    <nd ref="420777683"/>
+    <nd ref="944529383"/>
+    <nd ref="944529402"/>
+    <nd ref="681816469"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="cycleway"/>
+  </way>
+  <way id="35997850" version="3" timestamp="2011-06-18T20:32:50Z" uid="473049" user="ecopia" changeset="8477652">
+    <nd ref="117467223"/>
+    <nd ref="420777680"/>
+    <nd ref="420777681"/>
+    <nd ref="1330067898"/>
+    <nd ref="420777682"/>
+    <nd ref="1330067893"/>
+    <nd ref="1330067911"/>
+    <nd ref="1330067890"/>
+    <nd ref="1330067896"/>
+    <nd ref="420777683"/>
+    <nd ref="944529383"/>
+    <nd ref="944529402"/>
+    <nd ref="681816469"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="cycleway"/>
+  </way>
+  <way id="35997850" version="4" timestamp="2011-06-30T23:16:20Z" uid="473049" user="ecopia" changeset="8595141">
+    <nd ref="117467223"/>
+    <nd ref="420777680"/>
+    <nd ref="420777681"/>
+    <nd ref="1345343826"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="cycleway"/>
+  </way>
+  <way id="35997872" version="7" timestamp="2009-07-26T01:29:54Z" uid="18775" user="drlizau" changeset="1939917">
+    <nd ref="429573206"/>
+    <nd ref="429571138"/>
+    <nd ref="322077566"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Muharrem Ibrahimi 5"/>
+  </way>
+  <way id="35997069" version="7" timestamp="2012-07-04T17:20:18Z" uid="239998" user="Sundance" changeset="12112858">
+    <nd ref="84952233"/>
+    <nd ref="84952466"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="East Washington Boulevard"/>
+    <tag k="ref" v="D1"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="113169807:113161315:113175836:113175837"/>
+  </way>
+  <way id="35997069" version="8" timestamp="2012-08-26T23:33:19Z" uid="207745" user="NE2" changeset="12873214">
+    <nd ref="84952233"/>
+    <nd ref="84952466"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="East Washington Boulevard"/>
+    <tag k="ref" v="CR D1"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="113169807:113161315:113175836:113175837"/>
+  </way>
+  <way id="35997731" version="6" timestamp="2012-07-16T23:39:29Z" uid="722137" user="OSMF Redaction Account" changeset="12253597"/>
+  <way id="35997850" version="5" timestamp="2012-07-16T23:39:33Z" uid="722137" user="OSMF Redaction Account" changeset="12253597"/>
+</osm>

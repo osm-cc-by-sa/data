@@ -1,0 +1,2200 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="39947082" version="4" timestamp="2010-04-03T13:54:01Z" uid="20587" user="balrog-kun" changeset="4312927">
+    <nd ref="301503050"/>
+    <nd ref="301503051"/>
+    <nd ref="669231524"/>
+    <nd ref="534009269"/>
+    <nd ref="84415538"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Hinkley Drive"/>
+    <tag k="name_1" v="State Route 79"/>
+    <tag k="ref" v="UT-79"/>
+    <tag k="tiger:cfcc" v="A31"/>
+    <tag k="tiger:county" v="Weber, UT"/>
+    <tag k="tiger:name_base" v="Hinkley"/>
+    <tag k="tiger:name_base_1" v="3300"/>
+    <tag k="tiger:name_base_2" v="State Route 79"/>
+    <tag k="tiger:name_direction_prefix_1" v="W"/>
+    <tag k="tiger:name_direction_suffix_1" v="S"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="155695523"/>
+    <tag k="tiger:zip_left" v="84401"/>
+    <tag k="tiger:zip_right" v="84401"/>
+  </way>
+  <way id="39947082" version="5" timestamp="2011-03-25T09:27:12Z" uid="207745" user="NE2" changeset="7662129">
+    <nd ref="301503050"/>
+    <nd ref="301503051"/>
+    <nd ref="669231524"/>
+    <nd ref="534009269"/>
+    <nd ref="84415538"/>
+    <nd ref="84427197"/>
+    <nd ref="300442294"/>
+    <nd ref="84413090"/>
+    <nd ref="305200047"/>
+    <nd ref="300448480"/>
+    <nd ref="84427186"/>
+    <nd ref="84427184"/>
+    <nd ref="301503049"/>
+    <nd ref="300448471"/>
+    <nd ref="300452963"/>
+    <nd ref="370109144"/>
+    <nd ref="854151260"/>
+    <nd ref="301069018"/>
+    <nd ref="301069029"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Hinckley Drive"/>
+    <tag k="note" v="Hinckley with a C"/>
+    <tag k="ref" v="UT-79"/>
+    <tag k="source" v="knowledge"/>
+    <tag k="tiger:cfcc" v="A31"/>
+    <tag k="tiger:county" v="Weber, UT"/>
+    <tag k="tiger:name_base" v="Hinkley"/>
+    <tag k="tiger:name_base_1" v="3300:State Route 79"/>
+    <tag k="tiger:name_base_2" v="State Route 79"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_direction_prefix_1" v="W"/>
+    <tag k="tiger:name_direction_suffix_1" v="S"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="yes"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="155695523"/>
+    <tag k="tiger:zip_left" v="84401"/>
+    <tag k="tiger:zip_right" v="84401"/>
+  </way>
+  <way id="39947093" version="2" timestamp="2009-10-02T17:00:31Z" uid="86259" user="hasse_osm_korinthenkacker" changeset="2714981">
+    <nd ref="479724325"/>
+    <nd ref="293248995"/>
+    <tag k="highway" v="track"/>
+    <tag k="layer" v="-1"/>
+    <tag k="tracktype" v="grade2"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="39947094" version="2" timestamp="2009-10-02T17:00:30Z" uid="86259" user="hasse_osm_korinthenkacker" changeset="2714981">
+    <nd ref="293248994"/>
+    <nd ref="479724325"/>
+    <tag k="highway" v="track"/>
+    <tag k="tracktype" v="grade2"/>
+  </way>
+  <way id="39947125" version="2" timestamp="2010-03-29T11:23:37Z" uid="74617" user="JohnSmith" changeset="4266446">
+    <nd ref="479724782"/>
+    <nd ref="479724781"/>
+    <nd ref="479724783"/>
+    <nd ref="479724784"/>
+    <nd ref="479724787"/>
+    <nd ref="479724788"/>
+    <nd ref="479724789"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="layer" v="-2"/>
+    <tag k="name" v="Franklin Road"/>
+    <tag k="source" v="GPS"/>
+    <tag k="source:name" v="Physical_Roadsign"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="39947125" version="3" timestamp="2010-04-16T09:07:53Z" uid="30201" user="rrankin" changeset="4436990">
+    <nd ref="479724782"/>
+    <nd ref="479724781"/>
+    <nd ref="479724783"/>
+    <nd ref="479724784"/>
+    <nd ref="479724787"/>
+    <nd ref="479724788"/>
+    <nd ref="479724789"/>
+    <nd ref="698448819"/>
+    <nd ref="698448822"/>
+    <nd ref="698448824"/>
+    <nd ref="698448825"/>
+    <nd ref="698448827"/>
+    <nd ref="698448829"/>
+    <nd ref="698448831"/>
+    <nd ref="698448833"/>
+    <nd ref="698448822"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="layer" v="-2"/>
+    <tag k="name" v="Franklin Road"/>
+    <tag k="source" v="GPS"/>
+    <tag k="source:name" v="Physical_Roadsign"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="39947126" version="2" timestamp="2010-03-29T11:23:38Z" uid="74617" user="JohnSmith" changeset="4266446">
+    <nd ref="479724791"/>
+    <nd ref="771147"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="110"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="39947126" version="3" timestamp="2010-07-05T00:43:08Z" uid="299678" user="peteramjet" changeset="5138336">
+    <nd ref="479724791"/>
+    <nd ref="771147"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="110"/>
+    <tag k="name" v="Hume Highway"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="39947127" version="2" timestamp="2010-03-29T11:23:38Z" uid="74617" user="JohnSmith" changeset="4266446">
+    <nd ref="29378438"/>
+    <nd ref="479724790"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="110"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="39947127" version="3" timestamp="2010-07-05T00:43:07Z" uid="299678" user="peteramjet" changeset="5138336">
+    <nd ref="29378438"/>
+    <nd ref="479724790"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="110"/>
+    <tag k="name" v="Hume Highway"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="39947128" version="2" timestamp="2010-03-29T11:21:53Z" uid="74617" user="JohnSmith" changeset="4266437">
+    <nd ref="771147"/>
+    <nd ref="450543750"/>
+    <nd ref="771148"/>
+    <nd ref="450543745"/>
+    <nd ref="771149"/>
+    <nd ref="76468857"/>
+    <nd ref="450543744"/>
+    <nd ref="771150"/>
+    <nd ref="450543743"/>
+    <nd ref="771151"/>
+    <nd ref="134620135"/>
+    <nd ref="450543742"/>
+    <nd ref="450543740"/>
+    <nd ref="771155"/>
+    <nd ref="450543739"/>
+    <nd ref="440669783"/>
+    <nd ref="450543737"/>
+    <nd ref="771158"/>
+    <nd ref="450543736"/>
+    <nd ref="450543735"/>
+    <nd ref="771160"/>
+    <nd ref="450543733"/>
+    <nd ref="450543734"/>
+    <nd ref="771162"/>
+    <nd ref="450543729"/>
+    <nd ref="450543730"/>
+    <nd ref="771163"/>
+    <nd ref="450543725"/>
+    <nd ref="771164"/>
+    <nd ref="450543724"/>
+    <nd ref="771165"/>
+    <nd ref="771168"/>
+    <nd ref="450543721"/>
+    <nd ref="771169"/>
+    <nd ref="450543717"/>
+    <nd ref="450543718"/>
+    <nd ref="771170"/>
+    <nd ref="450543716"/>
+    <nd ref="771171"/>
+    <nd ref="450543712"/>
+    <nd ref="771173"/>
+    <nd ref="450543708"/>
+    <nd ref="771176"/>
+    <nd ref="466325959"/>
+    <nd ref="450543706"/>
+    <nd ref="771178"/>
+    <nd ref="450543704"/>
+    <nd ref="450543703"/>
+    <nd ref="771181"/>
+    <nd ref="450543702"/>
+    <nd ref="450543697"/>
+    <nd ref="450543698"/>
+    <nd ref="771184"/>
+    <nd ref="450543696"/>
+    <nd ref="771186"/>
+    <nd ref="450543694"/>
+    <nd ref="771188"/>
+    <nd ref="450543692"/>
+    <nd ref="771189"/>
+    <nd ref="450543691"/>
+    <nd ref="771190"/>
+    <nd ref="450543690"/>
+    <nd ref="771191"/>
+    <nd ref="771194"/>
+    <nd ref="450543687"/>
+    <nd ref="450543685"/>
+    <nd ref="771195"/>
+    <nd ref="450543683"/>
+    <nd ref="296908998"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="maxspeed" v="110"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="39947128" version="3" timestamp="2010-03-29T20:58:38Z" uid="124310" user="Babstar" changeset="4271544">
+    <nd ref="771147"/>
+    <nd ref="450543750"/>
+    <nd ref="771148"/>
+    <nd ref="450543745"/>
+    <nd ref="771149"/>
+    <nd ref="76468857"/>
+    <nd ref="450543744"/>
+    <nd ref="771150"/>
+    <nd ref="450543743"/>
+    <nd ref="771151"/>
+    <nd ref="134620135"/>
+    <nd ref="450543742"/>
+    <nd ref="450543740"/>
+    <nd ref="771155"/>
+    <nd ref="450543739"/>
+    <nd ref="440669783"/>
+    <nd ref="450543737"/>
+    <nd ref="771158"/>
+    <nd ref="450543736"/>
+    <nd ref="450543735"/>
+    <nd ref="771160"/>
+    <nd ref="450543733"/>
+    <nd ref="450543734"/>
+    <nd ref="771162"/>
+    <nd ref="450543729"/>
+    <nd ref="450543730"/>
+    <nd ref="771163"/>
+    <nd ref="450543725"/>
+    <nd ref="771164"/>
+    <nd ref="450543724"/>
+    <nd ref="771165"/>
+    <nd ref="771168"/>
+    <nd ref="450543721"/>
+    <nd ref="771169"/>
+    <nd ref="450543717"/>
+    <nd ref="450543718"/>
+    <nd ref="771170"/>
+    <nd ref="450543716"/>
+    <nd ref="771171"/>
+    <nd ref="450543712"/>
+    <nd ref="771173"/>
+    <nd ref="450543708"/>
+    <nd ref="771176"/>
+    <nd ref="466325959"/>
+    <nd ref="450543706"/>
+    <nd ref="771178"/>
+    <nd ref="450543704"/>
+    <nd ref="450543703"/>
+    <nd ref="771181"/>
+    <nd ref="450543702"/>
+    <nd ref="450543697"/>
+    <nd ref="450543698"/>
+    <nd ref="771184"/>
+    <nd ref="450543696"/>
+    <nd ref="771186"/>
+    <nd ref="450543694"/>
+    <nd ref="771188"/>
+    <nd ref="450543692"/>
+    <nd ref="771189"/>
+    <nd ref="450543691"/>
+    <nd ref="771190"/>
+    <nd ref="450543690"/>
+    <nd ref="771191"/>
+    <nd ref="771194"/>
+    <nd ref="450543687"/>
+    <nd ref="450543685"/>
+    <nd ref="677782208"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="maxspeed" v="110"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="39947128" version="4" timestamp="2010-07-05T00:41:50Z" uid="299678" user="peteramjet" changeset="5138336">
+    <nd ref="771147"/>
+    <nd ref="450543750"/>
+    <nd ref="771148"/>
+    <nd ref="450543745"/>
+    <nd ref="771149"/>
+    <nd ref="76468857"/>
+    <nd ref="450543744"/>
+    <nd ref="771150"/>
+    <nd ref="450543743"/>
+    <nd ref="771151"/>
+    <nd ref="134620135"/>
+    <nd ref="450543742"/>
+    <nd ref="450543740"/>
+    <nd ref="771155"/>
+    <nd ref="450543739"/>
+    <nd ref="440669783"/>
+    <nd ref="450543737"/>
+    <nd ref="771158"/>
+    <nd ref="450543736"/>
+    <nd ref="450543735"/>
+    <nd ref="771160"/>
+    <nd ref="450543733"/>
+    <nd ref="450543734"/>
+    <nd ref="771162"/>
+    <nd ref="450543729"/>
+    <nd ref="450543730"/>
+    <nd ref="771163"/>
+    <nd ref="450543725"/>
+    <nd ref="771164"/>
+    <nd ref="450543724"/>
+    <nd ref="771165"/>
+    <nd ref="771168"/>
+    <nd ref="450543721"/>
+    <nd ref="771169"/>
+    <nd ref="450543717"/>
+    <nd ref="450543718"/>
+    <nd ref="771170"/>
+    <nd ref="450543716"/>
+    <nd ref="771171"/>
+    <nd ref="450543712"/>
+    <nd ref="771173"/>
+    <nd ref="450543708"/>
+    <nd ref="771176"/>
+    <nd ref="466325959"/>
+    <nd ref="450543706"/>
+    <nd ref="771178"/>
+    <nd ref="450543704"/>
+    <nd ref="450543703"/>
+    <nd ref="771181"/>
+    <nd ref="450543702"/>
+    <nd ref="450543697"/>
+    <nd ref="450543698"/>
+    <nd ref="771184"/>
+    <nd ref="450543696"/>
+    <nd ref="771186"/>
+    <nd ref="450543694"/>
+    <nd ref="771188"/>
+    <nd ref="450543692"/>
+    <nd ref="771189"/>
+    <nd ref="450543691"/>
+    <nd ref="771190"/>
+    <nd ref="450543690"/>
+    <nd ref="771191"/>
+    <nd ref="771194"/>
+    <nd ref="450543687"/>
+    <nd ref="450543685"/>
+    <nd ref="677782208"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="maxspeed" v="110"/>
+    <tag k="name" v="Hume Highway"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="39947128" version="5" timestamp="2012-01-29T17:54:22Z" uid="54784" user="Tom Hollander" changeset="10532889">
+    <nd ref="771147"/>
+    <nd ref="450543750"/>
+    <nd ref="771148"/>
+    <nd ref="450543745"/>
+    <nd ref="771149"/>
+    <nd ref="76468857"/>
+    <nd ref="450543744"/>
+    <nd ref="771150"/>
+    <nd ref="450543743"/>
+    <nd ref="771151"/>
+    <nd ref="134620135"/>
+    <nd ref="450543742"/>
+    <nd ref="450543740"/>
+    <nd ref="771155"/>
+    <nd ref="450543739"/>
+    <nd ref="440669783"/>
+    <nd ref="450543737"/>
+    <nd ref="771158"/>
+    <nd ref="450543736"/>
+    <nd ref="450543735"/>
+    <nd ref="771160"/>
+    <nd ref="450543733"/>
+    <nd ref="450543734"/>
+    <nd ref="771162"/>
+    <nd ref="450543729"/>
+    <nd ref="450543730"/>
+    <nd ref="771163"/>
+    <nd ref="450543725"/>
+    <nd ref="771164"/>
+    <nd ref="450543724"/>
+    <nd ref="771165"/>
+    <nd ref="771168"/>
+    <nd ref="450543721"/>
+    <nd ref="771169"/>
+    <nd ref="450543717"/>
+    <nd ref="450543718"/>
+    <nd ref="771170"/>
+    <nd ref="450543716"/>
+    <nd ref="771171"/>
+    <nd ref="450543712"/>
+    <nd ref="771173"/>
+    <nd ref="450543708"/>
+    <nd ref="771176"/>
+    <nd ref="466325959"/>
+    <nd ref="450543706"/>
+    <nd ref="771178"/>
+    <nd ref="450543704"/>
+    <nd ref="450543703"/>
+    <nd ref="771181"/>
+    <nd ref="450543702"/>
+    <nd ref="450543697"/>
+    <nd ref="450543698"/>
+    <nd ref="771184"/>
+    <nd ref="450543696"/>
+    <nd ref="771186"/>
+    <nd ref="450543694"/>
+    <nd ref="771188"/>
+    <nd ref="450543692"/>
+    <nd ref="771189"/>
+    <nd ref="450543691"/>
+    <nd ref="771190"/>
+    <nd ref="450543690"/>
+    <nd ref="771191"/>
+    <nd ref="771194"/>
+    <nd ref="450543687"/>
+    <nd ref="450543685"/>
+    <nd ref="677782208"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="maxspeed" v="110"/>
+    <tag k="name" v="Hume Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH31"/>
+  </way>
+  <way id="39947130" version="2" timestamp="2010-03-29T11:23:37Z" uid="74617" user="JohnSmith" changeset="4266446">
+    <nd ref="479724790"/>
+    <nd ref="450543752"/>
+    <nd ref="29378437"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="maxspeed" v="110"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="39947130" version="3" timestamp="2010-03-29T11:27:00Z" uid="74617" user="JohnSmith" changeset="4266477"/>
+  <way id="39947152" version="2" timestamp="2010-03-28T10:18:39Z" uid="20587" user="balrog-kun" changeset="4254597">
+    <nd ref="479724976"/>
+    <nd ref="479724977"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Olive Hill Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Orange, CA"/>
+    <tag k="tiger:name_base" v="Olive Hill"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="yes"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="144065841:144065838:144380405:144380406"/>
+    <tag k="tiger:zip_left" v="92676"/>
+    <tag k="tiger:zip_right" v="92676"/>
+  </way>
+  <way id="39947153" version="2" timestamp="2010-03-28T10:18:39Z" uid="20587" user="balrog-kun" changeset="4254597">
+    <nd ref="479724977"/>
+    <nd ref="122592988"/>
+    <nd ref="123056154"/>
+    <nd ref="123059563"/>
+    <nd ref="122741434"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Olive Hill Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Orange, CA"/>
+    <tag k="tiger:name_base" v="Olive Hill"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="yes"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="144065841:144065838:144380405:144380406"/>
+    <tag k="tiger:zip_left" v="92676"/>
+    <tag k="tiger:zip_right" v="92676"/>
+  </way>
+  <way id="39947154" version="2" timestamp="2010-03-28T10:18:39Z" uid="20587" user="balrog-kun" changeset="4254597">
+    <nd ref="479724980"/>
+    <nd ref="479724979"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Modjeska Canyon Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Orange, CA"/>
+    <tag k="tiger:name_base" v="Modjeska Canyon"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="yes"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="144419422"/>
+  </way>
+  <way id="39947155" version="2" timestamp="2010-03-28T10:18:39Z" uid="20587" user="balrog-kun" changeset="4254597">
+    <nd ref="479724979"/>
+    <nd ref="479716442"/>
+    <nd ref="479724978"/>
+    <nd ref="479716444"/>
+    <nd ref="123049141"/>
+    <nd ref="122578991"/>
+    <nd ref="479716446"/>
+    <nd ref="123049142"/>
+    <nd ref="123049143"/>
+    <nd ref="479724974"/>
+    <nd ref="123049144"/>
+    <nd ref="123049146"/>
+    <nd ref="123049148"/>
+    <nd ref="123049151"/>
+    <nd ref="123049155"/>
+    <nd ref="123049157"/>
+    <nd ref="123049160"/>
+    <nd ref="123049162"/>
+    <nd ref="123049164"/>
+    <nd ref="479724892"/>
+    <nd ref="122971167"/>
+    <nd ref="123049165"/>
+    <nd ref="123049167"/>
+    <nd ref="123049169"/>
+    <nd ref="123049171"/>
+    <nd ref="123049173"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Modjeska Canyon Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Orange, CA"/>
+    <tag k="tiger:name_base" v="Modjeska Canyon"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="yes"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="144419422"/>
+  </way>
+  <way id="39947155" version="3" timestamp="2010-05-25T18:07:34Z" uid="82317" user="AM909" changeset="4806161">
+    <nd ref="479724979"/>
+    <nd ref="479716442"/>
+    <nd ref="479724978"/>
+    <nd ref="748108438"/>
+    <nd ref="748107937"/>
+    <nd ref="479716444"/>
+    <nd ref="123049141"/>
+    <nd ref="122578991"/>
+    <nd ref="479716446"/>
+    <nd ref="123049142"/>
+    <nd ref="123049143"/>
+    <nd ref="479724974"/>
+    <nd ref="123049144"/>
+    <nd ref="748108717"/>
+    <nd ref="748108225"/>
+    <nd ref="123049146"/>
+    <nd ref="748108081"/>
+    <nd ref="748108517"/>
+    <nd ref="123049148"/>
+    <nd ref="748108369"/>
+    <nd ref="123049151"/>
+    <nd ref="748107848"/>
+    <nd ref="123049155"/>
+    <nd ref="748108155"/>
+    <nd ref="748108638"/>
+    <nd ref="123049157"/>
+    <nd ref="123049160"/>
+    <nd ref="123049162"/>
+    <nd ref="123049164"/>
+    <nd ref="479724892"/>
+    <nd ref="122971167"/>
+    <nd ref="123049165"/>
+    <nd ref="123049167"/>
+    <nd ref="123049169"/>
+    <nd ref="123049171"/>
+    <nd ref="123049173"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Modjeska Canyon Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Orange, CA"/>
+    <tag k="tiger:name_base" v="Modjeska Canyon"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="yes"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="144419422"/>
+  </way>
+  <way id="39947378" version="8" timestamp="2011-02-22T17:13:26Z" uid="20587" user="balrog-kun" changeset="7364993"/>
+  <way id="39947524" version="1" timestamp="2009-09-01T06:12:41Z" uid="61114" user="Trav" changeset="2333653">
+    <nd ref="38883472"/>
+    <nd ref="38876738"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="39947524" version="2" timestamp="2009-10-12T18:34:10Z" uid="104101" user="swanilli" changeset="2829231">
+    <nd ref="38883472"/>
+    <nd ref="38876738"/>
+    <tag k="highway" v="path"/>
+  </way>
+  <way id="39947524" version="3" timestamp="2009-10-13T04:19:35Z" uid="104101" user="swanilli" changeset="2832319">
+    <nd ref="38883472"/>
+    <nd ref="38876738"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="path"/>
+  </way>
+  <way id="39947532" version="1" timestamp="2009-09-01T06:12:45Z" uid="61114" user="Trav" changeset="2333653">
+    <nd ref="38876623"/>
+    <nd ref="38887173"/>
+    <nd ref="38887174"/>
+    <nd ref="38887176"/>
+    <nd ref="38887177"/>
+    <nd ref="38887178"/>
+    <nd ref="38887180"/>
+    <nd ref="38887181"/>
+    <nd ref="38887182"/>
+    <nd ref="38883472"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="39947532" version="2" timestamp="2009-10-12T18:34:08Z" uid="104101" user="swanilli" changeset="2829231">
+    <nd ref="38876623"/>
+    <nd ref="38887173"/>
+    <nd ref="38887174"/>
+    <nd ref="38887176"/>
+    <nd ref="38887177"/>
+    <nd ref="38887178"/>
+    <nd ref="38887180"/>
+    <nd ref="38887181"/>
+    <nd ref="38887182"/>
+    <nd ref="38883472"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="path"/>
+  </way>
+  <way id="39947704" version="9" timestamp="2010-04-03T13:54:02Z" uid="20587" user="balrog-kun" changeset="4312927">
+    <nd ref="453661831"/>
+    <nd ref="83574893"/>
+    <nd ref="83574895"/>
+    <nd ref="367801262"/>
+    <nd ref="367801267"/>
+    <nd ref="83574901"/>
+    <nd ref="83574907"/>
+    <nd ref="83574912"/>
+    <nd ref="83574914"/>
+    <nd ref="83574916"/>
+    <nd ref="83574919"/>
+    <nd ref="83574920"/>
+    <nd ref="83574921"/>
+    <nd ref="480470751"/>
+    <nd ref="83574930"/>
+    <nd ref="83574932"/>
+    <nd ref="83574935"/>
+    <nd ref="83574936"/>
+    <nd ref="83574938"/>
+    <nd ref="83574940"/>
+    <nd ref="83574943"/>
+    <nd ref="83574945"/>
+    <nd ref="83560802"/>
+    <nd ref="83543389"/>
+    <nd ref="83574950"/>
+    <nd ref="83574952"/>
+    <nd ref="83574957"/>
+    <nd ref="83574959"/>
+    <nd ref="83558750"/>
+    <nd ref="83574961"/>
+    <nd ref="83574963"/>
+    <nd ref="83574965"/>
+    <nd ref="83571821"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="South 700  East"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Salt Lake, UT"/>
+    <tag k="tiger:name_base" v="700"/>
+    <tag k="tiger:name_direction_prefix" v="S"/>
+    <tag k="tiger:name_direction_suffix" v="E"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="176115649:176092811:176093094"/>
+    <tag k="tiger:zip_left" v="84020"/>
+    <tag k="tiger:zip_right" v="84020"/>
+  </way>
+  <way id="39947704" version="10" timestamp="2010-08-05T07:21:20Z" uid="321736" user="Kevin Atkinson" changeset="5405091">
+    <nd ref="453661831"/>
+    <nd ref="83574893"/>
+    <nd ref="83574895"/>
+    <nd ref="367801262"/>
+    <nd ref="367801267"/>
+    <nd ref="83574901"/>
+    <nd ref="83574907"/>
+    <nd ref="83574912"/>
+    <nd ref="83574914"/>
+    <nd ref="83574916"/>
+    <nd ref="83574919"/>
+    <nd ref="83574920"/>
+    <nd ref="83574921"/>
+    <nd ref="480470751"/>
+    <nd ref="83574930"/>
+    <nd ref="83574932"/>
+    <nd ref="83574935"/>
+    <nd ref="83574936"/>
+    <nd ref="83574938"/>
+    <nd ref="83574940"/>
+    <nd ref="83574943"/>
+    <nd ref="83574945"/>
+    <nd ref="83560802"/>
+    <nd ref="83543389"/>
+    <nd ref="83574950"/>
+    <nd ref="83574952"/>
+    <nd ref="83574957"/>
+    <nd ref="83574959"/>
+    <nd ref="83558750"/>
+    <nd ref="83574961"/>
+    <nd ref="83574963"/>
+    <nd ref="83574965"/>
+    <nd ref="83571821"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="loc_name" v="7th East"/>
+    <tag k="name" v="700 East"/>
+    <tag k="name:full" v="South 700 East"/>
+    <tag k="name:prefix" v="S"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Salt Lake, UT"/>
+    <tag k="tiger:name_base" v="700"/>
+    <tag k="tiger:name_direction_prefix" v="S"/>
+    <tag k="tiger:name_direction_suffix" v="E"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="176115649:176092811:176093094"/>
+    <tag k="tiger:zip_left" v="84020"/>
+    <tag k="tiger:zip_right" v="84020"/>
+  </way>
+  <way id="39947704" version="11" timestamp="2010-08-18T21:27:01Z" uid="321736" user="Kevin Atkinson" changeset="5530901">
+    <nd ref="453661831"/>
+    <nd ref="83574893"/>
+    <nd ref="83574895"/>
+    <nd ref="367801262"/>
+    <nd ref="367801267"/>
+    <nd ref="83574901"/>
+    <nd ref="83574907"/>
+    <nd ref="83574912"/>
+    <nd ref="83574914"/>
+    <nd ref="83574916"/>
+    <nd ref="83574919"/>
+    <nd ref="83574920"/>
+    <nd ref="83574921"/>
+    <nd ref="480470751"/>
+    <nd ref="83574930"/>
+    <nd ref="83574932"/>
+    <nd ref="83574935"/>
+    <nd ref="83574936"/>
+    <nd ref="83574938"/>
+    <nd ref="83574940"/>
+    <nd ref="83574943"/>
+    <nd ref="83574945"/>
+    <nd ref="83560802"/>
+    <nd ref="83543389"/>
+    <nd ref="83574950"/>
+    <nd ref="83574952"/>
+    <nd ref="83574957"/>
+    <nd ref="83574959"/>
+    <nd ref="83558750"/>
+    <nd ref="83574961"/>
+    <nd ref="83574963"/>
+    <nd ref="83574965"/>
+    <nd ref="83571821"/>
+    <tag k="highway" v="primary"/>
+    <tag k="loc_name" v="7th East"/>
+    <tag k="name" v="700 East"/>
+    <tag k="name:full" v="South 700 East"/>
+    <tag k="name:prefix" v="S"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Salt Lake, UT"/>
+    <tag k="tiger:name_base" v="700"/>
+    <tag k="tiger:name_direction_prefix" v="S"/>
+    <tag k="tiger:name_direction_suffix" v="E"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="176115649:176092811:176093094"/>
+    <tag k="tiger:zip_left" v="84020"/>
+    <tag k="tiger:zip_right" v="84020"/>
+  </way>
+  <way id="39947704" version="12" timestamp="2011-03-25T08:50:44Z" uid="207745" user="NE2" changeset="7662129">
+    <nd ref="83574800"/>
+    <nd ref="83574804"/>
+    <nd ref="83574816"/>
+    <nd ref="83574829"/>
+    <nd ref="83574834"/>
+    <nd ref="83574836"/>
+    <nd ref="83541747"/>
+    <nd ref="83574839"/>
+    <nd ref="479737313"/>
+    <nd ref="83574841"/>
+    <nd ref="83574846"/>
+    <nd ref="83574847"/>
+    <nd ref="83574848"/>
+    <nd ref="83574850"/>
+    <nd ref="83574852"/>
+    <nd ref="83574857"/>
+    <nd ref="83574861"/>
+    <nd ref="83574863"/>
+    <nd ref="83574866"/>
+    <nd ref="83574870"/>
+    <nd ref="83574876"/>
+    <nd ref="479732058"/>
+    <nd ref="453661846"/>
+    <nd ref="453661835"/>
+    <nd ref="453661831"/>
+    <nd ref="83574893"/>
+    <nd ref="83574895"/>
+    <nd ref="367801262"/>
+    <nd ref="367801267"/>
+    <nd ref="83574901"/>
+    <nd ref="83574907"/>
+    <nd ref="83574912"/>
+    <nd ref="83574914"/>
+    <nd ref="83574916"/>
+    <nd ref="83574919"/>
+    <nd ref="83574920"/>
+    <nd ref="83574921"/>
+    <nd ref="480470751"/>
+    <nd ref="83574930"/>
+    <nd ref="83574932"/>
+    <nd ref="83574935"/>
+    <nd ref="83574936"/>
+    <nd ref="83574938"/>
+    <nd ref="83574940"/>
+    <nd ref="83574943"/>
+    <nd ref="83574945"/>
+    <nd ref="83560802"/>
+    <nd ref="83543389"/>
+    <nd ref="83574950"/>
+    <nd ref="83574952"/>
+    <nd ref="83574957"/>
+    <nd ref="83574959"/>
+    <nd ref="83558750"/>
+    <nd ref="83574961"/>
+    <nd ref="83574963"/>
+    <nd ref="83574965"/>
+    <nd ref="83571821"/>
+    <nd ref="83574966"/>
+    <nd ref="83564874"/>
+    <nd ref="465131477"/>
+    <nd ref="465131476"/>
+    <nd ref="457778839"/>
+    <nd ref="465131484"/>
+    <nd ref="83574971"/>
+    <nd ref="83574973"/>
+    <nd ref="83574975"/>
+    <nd ref="83551233"/>
+    <nd ref="83574978"/>
+    <nd ref="83574980"/>
+    <nd ref="480493618"/>
+    <nd ref="83574982"/>
+    <nd ref="83574985"/>
+    <nd ref="83574988"/>
+    <nd ref="83574990"/>
+    <nd ref="83574994"/>
+    <nd ref="83560172"/>
+    <tag k="highway" v="primary"/>
+    <tag k="loc_name" v="7th East"/>
+    <tag k="name" v="700 East"/>
+    <tag k="name:full" v="South 700 East"/>
+    <tag k="name:prefix" v="S"/>
+    <tag k="ref" v="SR 71"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Salt Lake, UT"/>
+    <tag k="tiger:name_base" v="700"/>
+    <tag k="tiger:name_direction_prefix" v="S"/>
+    <tag k="tiger:name_direction_suffix" v="E"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="176092811:176093094:176115649"/>
+    <tag k="tiger:zip_left" v="84020"/>
+    <tag k="tiger:zip_right" v="84020"/>
+  </way>
+  <way id="39947704" version="13" timestamp="2011-09-30T16:52:53Z" uid="207745" user="NE2" changeset="9436816">
+    <nd ref="83574800"/>
+    <nd ref="83574804"/>
+    <nd ref="83574816"/>
+    <nd ref="83574829"/>
+    <nd ref="83574834"/>
+    <nd ref="83574836"/>
+    <nd ref="83541747"/>
+    <nd ref="83574839"/>
+    <nd ref="479737313"/>
+    <nd ref="83574841"/>
+    <nd ref="83574846"/>
+    <nd ref="83574847"/>
+    <nd ref="83574848"/>
+    <nd ref="83574850"/>
+    <nd ref="83574852"/>
+    <nd ref="83574857"/>
+    <nd ref="83574861"/>
+    <nd ref="83574863"/>
+    <nd ref="83574866"/>
+    <nd ref="83574870"/>
+    <nd ref="83574876"/>
+    <nd ref="479732058"/>
+    <nd ref="453661846"/>
+    <nd ref="453661835"/>
+    <nd ref="453661831"/>
+    <nd ref="83574893"/>
+    <nd ref="83574895"/>
+    <nd ref="367801262"/>
+    <nd ref="367801267"/>
+    <nd ref="83574901"/>
+    <nd ref="83574907"/>
+    <nd ref="83574912"/>
+    <nd ref="83574914"/>
+    <nd ref="83574916"/>
+    <nd ref="83574919"/>
+    <nd ref="83574920"/>
+    <nd ref="83574921"/>
+    <nd ref="480470751"/>
+    <nd ref="83574930"/>
+    <nd ref="83574932"/>
+    <nd ref="83574935"/>
+    <nd ref="83574936"/>
+    <nd ref="83574938"/>
+    <nd ref="83574940"/>
+    <nd ref="1449664792"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="loc_name" v="7th East"/>
+    <tag k="name" v="700 East"/>
+    <tag k="name:full" v="South 700 East"/>
+    <tag k="name:prefix" v="S"/>
+    <tag k="ref" v="SR 71"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Salt Lake, UT"/>
+    <tag k="tiger:name_base" v="700"/>
+    <tag k="tiger:name_direction_prefix" v="S"/>
+    <tag k="tiger:name_direction_suffix" v="E"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="176092811:176093094:176115649"/>
+    <tag k="tiger:zip_left" v="84020"/>
+    <tag k="tiger:zip_right" v="84020"/>
+  </way>
+  <way id="39947707" version="7" timestamp="2010-04-03T13:54:03Z" uid="20587" user="balrog-kun" changeset="4312927">
+    <nd ref="83574800"/>
+    <nd ref="83574804"/>
+    <nd ref="83574816"/>
+    <nd ref="83574829"/>
+    <nd ref="83574834"/>
+    <nd ref="83574836"/>
+    <nd ref="83541747"/>
+    <nd ref="83574839"/>
+    <nd ref="479737313"/>
+    <nd ref="83574841"/>
+    <nd ref="83574846"/>
+    <nd ref="83574847"/>
+    <nd ref="83574848"/>
+    <nd ref="83574850"/>
+    <nd ref="83574852"/>
+    <nd ref="83574857"/>
+    <nd ref="83574861"/>
+    <nd ref="83574863"/>
+    <nd ref="83574866"/>
+    <nd ref="83574870"/>
+    <nd ref="83574876"/>
+    <nd ref="479732058"/>
+    <nd ref="453661846"/>
+    <nd ref="453661835"/>
+    <nd ref="453661831"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="South 700  East"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Salt Lake, UT"/>
+    <tag k="tiger:name_base" v="700"/>
+    <tag k="tiger:name_direction_prefix" v="S"/>
+    <tag k="tiger:name_direction_suffix" v="E"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="176115649:176092811:176093094"/>
+    <tag k="tiger:zip_left" v="84020"/>
+    <tag k="tiger:zip_right" v="84020"/>
+  </way>
+  <way id="39947707" version="8" timestamp="2010-07-31T22:40:55Z" uid="321736" user="Kevin Atkinson" changeset="5366642">
+    <nd ref="83574800"/>
+    <nd ref="83574804"/>
+    <nd ref="83574816"/>
+    <nd ref="83574829"/>
+    <nd ref="83574834"/>
+    <nd ref="83574836"/>
+    <nd ref="83541747"/>
+    <nd ref="83574839"/>
+    <nd ref="479737313"/>
+    <nd ref="83574841"/>
+    <nd ref="83574846"/>
+    <nd ref="83574847"/>
+    <nd ref="83574848"/>
+    <nd ref="83574850"/>
+    <nd ref="83574852"/>
+    <nd ref="83574857"/>
+    <nd ref="83574861"/>
+    <nd ref="83574863"/>
+    <nd ref="83574866"/>
+    <nd ref="83574870"/>
+    <nd ref="83574876"/>
+    <nd ref="479732058"/>
+    <nd ref="453661846"/>
+    <nd ref="453661835"/>
+    <nd ref="453661831"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="South 700  East"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Salt Lake, UT"/>
+    <tag k="tiger:name_base" v="700"/>
+    <tag k="tiger:name_direction_prefix" v="S"/>
+    <tag k="tiger:name_direction_suffix" v="E"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="176115649:176092811:176093094"/>
+    <tag k="tiger:zip_left" v="84020"/>
+    <tag k="tiger:zip_right" v="84020"/>
+  </way>
+  <way id="39947707" version="9" timestamp="2010-08-05T07:31:01Z" uid="321736" user="Kevin Atkinson" changeset="5405091">
+    <nd ref="83574800"/>
+    <nd ref="83574804"/>
+    <nd ref="83574816"/>
+    <nd ref="83574829"/>
+    <nd ref="83574834"/>
+    <nd ref="83574836"/>
+    <nd ref="83541747"/>
+    <nd ref="83574839"/>
+    <nd ref="479737313"/>
+    <nd ref="83574841"/>
+    <nd ref="83574846"/>
+    <nd ref="83574847"/>
+    <nd ref="83574848"/>
+    <nd ref="83574850"/>
+    <nd ref="83574852"/>
+    <nd ref="83574857"/>
+    <nd ref="83574861"/>
+    <nd ref="83574863"/>
+    <nd ref="83574866"/>
+    <nd ref="83574870"/>
+    <nd ref="83574876"/>
+    <nd ref="479732058"/>
+    <nd ref="453661846"/>
+    <nd ref="453661835"/>
+    <nd ref="453661831"/>
+    <tag k="highway" v="primary"/>
+    <tag k="loc_name" v="7th East"/>
+    <tag k="name" v="700 East"/>
+    <tag k="name:full" v="South 700 East"/>
+    <tag k="name:prefix" v="S"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Salt Lake, UT"/>
+    <tag k="tiger:name_base" v="700"/>
+    <tag k="tiger:name_direction_prefix" v="S"/>
+    <tag k="tiger:name_direction_suffix" v="E"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="176115649:176092811:176093094"/>
+    <tag k="tiger:zip_left" v="84020"/>
+    <tag k="tiger:zip_right" v="84020"/>
+  </way>
+  <way id="39947707" version="10" timestamp="2011-03-25T08:51:44Z" uid="207745" user="NE2" changeset="7662129"/>
+  <way id="39947720" version="4" timestamp="2010-04-03T13:54:03Z" uid="20587" user="balrog-kun" changeset="4312927">
+    <nd ref="83574834"/>
+    <nd ref="83643813"/>
+    <nd ref="83643815"/>
+    <nd ref="83643818"/>
+    <nd ref="83643820"/>
+    <nd ref="83643822"/>
+    <nd ref="83643824"/>
+    <nd ref="83643828"/>
+    <nd ref="83643832"/>
+    <nd ref="83643834"/>
+    <nd ref="83547585"/>
+    <nd ref="83643837"/>
+    <nd ref="83565165"/>
+    <nd ref="83643840"/>
+    <nd ref="83643842"/>
+    <nd ref="83643844"/>
+    <nd ref="83643847"/>
+    <nd ref="83640215"/>
+    <nd ref="83544013"/>
+    <nd ref="83643851"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="East 7800  South"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Salt Lake, UT"/>
+    <tag k="tiger:name_base" v="7800"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_direction_suffix" v="S"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="176113088"/>
+  </way>
+  <way id="39947720" version="5" timestamp="2010-08-05T07:17:32Z" uid="321736" user="Kevin Atkinson" changeset="5405091">
+    <nd ref="83574834"/>
+    <nd ref="83643813"/>
+    <nd ref="83643815"/>
+    <nd ref="83643818"/>
+    <nd ref="83643820"/>
+    <nd ref="83643822"/>
+    <nd ref="83643824"/>
+    <nd ref="83643828"/>
+    <nd ref="83643832"/>
+    <nd ref="83643834"/>
+    <nd ref="83547585"/>
+    <nd ref="83643837"/>
+    <nd ref="83565165"/>
+    <nd ref="83643840"/>
+    <nd ref="83643842"/>
+    <nd ref="83643844"/>
+    <nd ref="83643847"/>
+    <nd ref="83640215"/>
+    <nd ref="83544013"/>
+    <nd ref="83643851"/>
+    <tag k="highway" v="residential"/>
+    <tag k="loc_name" v="78th South"/>
+    <tag k="name" v="7800 South"/>
+    <tag k="name:full" v="East 7800 South"/>
+    <tag k="name:prefix" v="E"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Salt Lake, UT"/>
+    <tag k="tiger:name_base" v="7800"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_direction_suffix" v="S"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="176113088"/>
+  </way>
+  <way id="39947720" version="6" timestamp="2010-08-07T04:55:01Z" uid="321736" user="Kevin Atkinson" changeset="5421967">
+    <nd ref="83574834"/>
+    <nd ref="83643813"/>
+    <nd ref="83643815"/>
+    <nd ref="83643818"/>
+    <nd ref="83643820"/>
+    <nd ref="83643822"/>
+    <nd ref="83643824"/>
+    <nd ref="83643828"/>
+    <nd ref="83643832"/>
+    <nd ref="83643834"/>
+    <nd ref="83547585"/>
+    <nd ref="83643837"/>
+    <nd ref="83565165"/>
+    <nd ref="83643840"/>
+    <nd ref="83643842"/>
+    <nd ref="83643844"/>
+    <nd ref="83643847"/>
+    <nd ref="83640215"/>
+    <nd ref="83544013"/>
+    <nd ref="83643851"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="loc_name" v="78th South"/>
+    <tag k="name" v="7800 South"/>
+    <tag k="name:full" v="East 7800 South"/>
+    <tag k="name:prefix" v="E"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Salt Lake, UT"/>
+    <tag k="tiger:name_base" v="7800"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_direction_suffix" v="S"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="176113088"/>
+  </way>
+  <way id="39947720" version="7" timestamp="2012-03-16T01:23:11Z" uid="348149" user="viana" changeset="10993778">
+    <nd ref="83574834"/>
+    <nd ref="83643813"/>
+    <nd ref="83643815"/>
+    <nd ref="83643818"/>
+    <nd ref="83643820"/>
+    <nd ref="83643822"/>
+    <nd ref="83643824"/>
+    <nd ref="83643828"/>
+    <nd ref="83643832"/>
+    <nd ref="83643834"/>
+    <nd ref="83547585"/>
+    <nd ref="83643837"/>
+    <nd ref="83565165"/>
+    <nd ref="83643840"/>
+    <nd ref="83643842"/>
+    <nd ref="1676385635"/>
+    <nd ref="83643844"/>
+    <nd ref="83643847"/>
+    <nd ref="83640215"/>
+    <nd ref="83544013"/>
+    <nd ref="83643851"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="loc_name" v="78th South"/>
+    <tag k="name" v="7800 South"/>
+    <tag k="name:full" v="East 7800 South"/>
+    <tag k="name:prefix" v="E"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Salt Lake, UT"/>
+    <tag k="tiger:name_base" v="7800"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_direction_suffix" v="S"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="176113088"/>
+  </way>
+  <way id="39947720" version="8" timestamp="2012-03-19T15:03:41Z" uid="348149" user="viana" changeset="11030556">
+    <nd ref="83574834"/>
+    <nd ref="83643813"/>
+    <nd ref="83643815"/>
+    <nd ref="83643818"/>
+    <nd ref="83643820"/>
+    <nd ref="83643822"/>
+    <nd ref="83643824"/>
+    <nd ref="83643828"/>
+    <nd ref="1681664413"/>
+    <nd ref="83643832"/>
+    <nd ref="83643834"/>
+    <nd ref="83547585"/>
+    <nd ref="83643837"/>
+    <nd ref="83565165"/>
+    <nd ref="83643840"/>
+    <nd ref="83643842"/>
+    <nd ref="1676385635"/>
+    <nd ref="83643844"/>
+    <nd ref="83643847"/>
+    <nd ref="83640215"/>
+    <nd ref="83544013"/>
+    <nd ref="83643851"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="loc_name" v="78th South"/>
+    <tag k="name" v="7800 South"/>
+    <tag k="name:full" v="East 7800 South"/>
+    <tag k="name:prefix" v="E"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Salt Lake, UT"/>
+    <tag k="tiger:name_base" v="7800"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_direction_suffix" v="S"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="176113088"/>
+  </way>
+  <way id="39947721" version="2" timestamp="2010-04-03T13:54:03Z" uid="20587" user="balrog-kun" changeset="4312927">
+    <nd ref="83643851"/>
+    <nd ref="83643853"/>
+    <nd ref="83643857"/>
+    <nd ref="83643860"/>
+    <nd ref="83643862"/>
+    <nd ref="83643865"/>
+    <nd ref="83643866"/>
+    <nd ref="83643867"/>
+    <nd ref="83643868"/>
+    <nd ref="83643870"/>
+    <nd ref="83643872"/>
+    <nd ref="83643874"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="East 7800  South"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Salt Lake, UT"/>
+    <tag k="tiger:name_base" v="7800"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_direction_suffix" v="S"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="176113088"/>
+  </way>
+  <way id="39947721" version="3" timestamp="2010-08-05T06:43:26Z" uid="321736" user="Kevin Atkinson" changeset="5405091">
+    <nd ref="83643851"/>
+    <nd ref="83643853"/>
+    <nd ref="83643857"/>
+    <nd ref="83643860"/>
+    <nd ref="83643862"/>
+    <nd ref="83643865"/>
+    <nd ref="83643866"/>
+    <nd ref="83643867"/>
+    <nd ref="83643868"/>
+    <nd ref="83643870"/>
+    <nd ref="83643872"/>
+    <nd ref="83643874"/>
+    <tag k="highway" v="residential"/>
+    <tag k="loc_name" v="78th South"/>
+    <tag k="name" v="7800 South"/>
+    <tag k="name:full" v="East 7800 South"/>
+    <tag k="name:prefix" v="E"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Salt Lake, UT"/>
+    <tag k="tiger:name_base" v="7800"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_direction_suffix" v="S"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="176113088"/>
+  </way>
+  <way id="39947721" version="4" timestamp="2010-08-07T04:54:54Z" uid="321736" user="Kevin Atkinson" changeset="5421967">
+    <nd ref="83643851"/>
+    <nd ref="83643853"/>
+    <nd ref="83643857"/>
+    <nd ref="83643860"/>
+    <nd ref="83643862"/>
+    <nd ref="83643865"/>
+    <nd ref="83643866"/>
+    <nd ref="83643867"/>
+    <nd ref="83643868"/>
+    <nd ref="83643870"/>
+    <nd ref="83643872"/>
+    <nd ref="83643874"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="loc_name" v="78th South"/>
+    <tag k="name" v="7800 South"/>
+    <tag k="name:full" v="East 7800 South"/>
+    <tag k="name:prefix" v="E"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Salt Lake, UT"/>
+    <tag k="tiger:name_base" v="7800"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_direction_suffix" v="S"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="176113088"/>
+  </way>
+  <way id="39947722" version="5" timestamp="2010-04-03T13:54:04Z" uid="20587" user="balrog-kun" changeset="4312927">
+    <nd ref="83640215"/>
+    <nd ref="83640217"/>
+    <nd ref="83640219"/>
+    <nd ref="83546656"/>
+    <nd ref="83640221"/>
+    <nd ref="83537157"/>
+    <nd ref="83640227"/>
+    <nd ref="83640229"/>
+    <nd ref="83640231"/>
+    <nd ref="83588553"/>
+    <nd ref="83640235"/>
+    <nd ref="83550549"/>
+    <nd ref="83640237"/>
+    <nd ref="83640240"/>
+    <nd ref="83619090"/>
+    <nd ref="83640242"/>
+    <nd ref="83640244"/>
+    <nd ref="83640246"/>
+    <nd ref="83640248"/>
+    <nd ref="83640251"/>
+    <nd ref="83522627"/>
+    <nd ref="83640261"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="South 1000  East"/>
+    <tag k="name_1" v="South 1035  East"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Salt Lake, UT"/>
+    <tag k="tiger:name_base" v="1000"/>
+    <tag k="tiger:name_base_1" v="1035"/>
+    <tag k="tiger:name_direction_prefix" v="S"/>
+    <tag k="tiger:name_direction_prefix_1" v="S"/>
+    <tag k="tiger:name_direction_suffix" v="E"/>
+    <tag k="tiger:name_direction_suffix_1" v="E"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="176104904:176104906:176140235:176119726:176119727:176155742:176118423:176104893:176124446:176155814:176088881:176155516:176088890:176155807:176155809:176156613:176156614:176118377:176118376:176087718:176104830"/>
+    <tag k="tiger:zip_left" v="84094"/>
+    <tag k="tiger:zip_right" v="84094"/>
+  </way>
+  <way id="39947722" version="6" timestamp="2010-08-05T07:05:47Z" uid="321736" user="Kevin Atkinson" changeset="5405091">
+    <nd ref="83640215"/>
+    <nd ref="83640217"/>
+    <nd ref="83640219"/>
+    <nd ref="83546656"/>
+    <nd ref="83640221"/>
+    <nd ref="83537157"/>
+    <nd ref="83640227"/>
+    <nd ref="83640229"/>
+    <nd ref="83640231"/>
+    <nd ref="83588553"/>
+    <nd ref="83640235"/>
+    <nd ref="83550549"/>
+    <nd ref="83640237"/>
+    <nd ref="83640240"/>
+    <nd ref="83619090"/>
+    <nd ref="83640242"/>
+    <nd ref="83640244"/>
+    <nd ref="83640246"/>
+    <nd ref="83640248"/>
+    <nd ref="83640251"/>
+    <nd ref="83522627"/>
+    <nd ref="83640261"/>
+    <tag k="highway" v="residential"/>
+    <tag k="loc_name" v="10th East"/>
+    <tag k="name" v="1000 East"/>
+    <tag k="name:full" v="South 1000 East"/>
+    <tag k="name:prefix" v="S"/>
+    <tag k="name_1" v="1035 East"/>
+    <tag k="name_1:full" v="South 1035 East"/>
+    <tag k="name_1:prefix" v="S"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Salt Lake, UT"/>
+    <tag k="tiger:name_base" v="1000"/>
+    <tag k="tiger:name_base_1" v="1035"/>
+    <tag k="tiger:name_direction_prefix" v="S"/>
+    <tag k="tiger:name_direction_prefix_1" v="S"/>
+    <tag k="tiger:name_direction_suffix" v="E"/>
+    <tag k="tiger:name_direction_suffix_1" v="E"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="176104904:176104906:176140235:176119726:176119727:176155742:176118423:176104893:176124446:176155814:176088881:176155516:176088890:176155807:176155809:176156613:176156614:176118377:176118376:176087718:176104830"/>
+    <tag k="tiger:zip_left" v="84094"/>
+    <tag k="tiger:zip_right" v="84094"/>
+  </way>
+  <way id="39947722" version="7" timestamp="2012-03-16T01:23:10Z" uid="348149" user="viana" changeset="10993778">
+    <nd ref="83640215"/>
+    <nd ref="83640217"/>
+    <nd ref="83640219"/>
+    <nd ref="83546656"/>
+    <nd ref="83640221"/>
+    <nd ref="83537157"/>
+    <nd ref="83640227"/>
+    <nd ref="83640229"/>
+    <nd ref="83640231"/>
+    <nd ref="1676385633"/>
+    <nd ref="83588553"/>
+    <nd ref="83640235"/>
+    <nd ref="83550549"/>
+    <nd ref="83640237"/>
+    <nd ref="83640240"/>
+    <nd ref="83619090"/>
+    <nd ref="83640242"/>
+    <nd ref="83640244"/>
+    <nd ref="83640246"/>
+    <nd ref="83640248"/>
+    <nd ref="83640251"/>
+    <nd ref="83522627"/>
+    <nd ref="83640261"/>
+    <tag k="highway" v="residential"/>
+    <tag k="loc_name" v="10th East"/>
+    <tag k="name" v="1000 East"/>
+    <tag k="name:full" v="South 1000 East"/>
+    <tag k="name:prefix" v="S"/>
+    <tag k="name_1" v="1035 East"/>
+    <tag k="name_1:full" v="South 1035 East"/>
+    <tag k="name_1:prefix" v="S"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Salt Lake, UT"/>
+    <tag k="tiger:name_base" v="1000"/>
+    <tag k="tiger:name_base_1" v="1035"/>
+    <tag k="tiger:name_direction_prefix" v="S"/>
+    <tag k="tiger:name_direction_prefix_1" v="S"/>
+    <tag k="tiger:name_direction_suffix" v="E"/>
+    <tag k="tiger:name_direction_suffix_1" v="E"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="176104904:176104906:176140235:176119726:176119727:176155742:176118423:176104893:176124446:176155814:176088881:176155516:176088890:176155807:176155809:176156613:176156614:176118377:176118376:176087718:176104830"/>
+    <tag k="tiger:zip_left" v="84094"/>
+    <tag k="tiger:zip_right" v="84094"/>
+  </way>
+  <way id="39947722" version="8" timestamp="2012-03-19T12:26:50Z" uid="348149" user="viana" changeset="11028947">
+    <nd ref="83640215"/>
+    <nd ref="83546656"/>
+    <nd ref="83640221"/>
+    <nd ref="83537157"/>
+    <nd ref="83640227"/>
+    <nd ref="83640229"/>
+    <nd ref="83640231"/>
+    <nd ref="1676385633"/>
+    <nd ref="83588553"/>
+    <nd ref="83640235"/>
+    <nd ref="83550549"/>
+    <nd ref="83619090"/>
+    <nd ref="83640242"/>
+    <nd ref="83640244"/>
+    <nd ref="83640246"/>
+    <nd ref="83640248"/>
+    <nd ref="83640251"/>
+    <nd ref="83522627"/>
+    <nd ref="83640261"/>
+    <tag k="highway" v="residential"/>
+    <tag k="loc_name" v="10th East"/>
+    <tag k="name" v="1000 East"/>
+    <tag k="name:full" v="South 1000 East"/>
+    <tag k="name:prefix" v="S"/>
+    <tag k="name_1" v="1035 East"/>
+    <tag k="name_1:full" v="South 1035 East"/>
+    <tag k="name_1:prefix" v="S"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Salt Lake, UT"/>
+    <tag k="tiger:name_base" v="1000"/>
+    <tag k="tiger:name_base_1" v="1035"/>
+    <tag k="tiger:name_direction_prefix" v="S"/>
+    <tag k="tiger:name_direction_prefix_1" v="S"/>
+    <tag k="tiger:name_direction_suffix" v="E"/>
+    <tag k="tiger:name_direction_suffix_1" v="E"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="176104904:176104906:176140235:176119726:176119727:176155742:176118423:176104893:176124446:176155814:176088881:176155516:176088890:176155807:176155809:176156613:176156614:176118377:176118376:176087718:176104830"/>
+    <tag k="tiger:zip_left" v="84094"/>
+    <tag k="tiger:zip_right" v="84094"/>
+  </way>
+  <way id="39947803" version="7" timestamp="2011-02-26T09:36:23Z" uid="4467" user="Rosscoe" changeset="7397878">
+    <nd ref="560986789"/>
+    <nd ref="758629144"/>
+    <nd ref="301537546"/>
+    <nd ref="560986784"/>
+    <nd ref="560986727"/>
+    <nd ref="301537543"/>
+    <nd ref="301537538"/>
+    <nd ref="301537536"/>
+    <nd ref="301537532"/>
+    <nd ref="307349874"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Bourke Street"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="39947804" version="23" timestamp="2011-02-26T09:36:27Z" uid="4467" user="Rosscoe" changeset="7397878">
+    <nd ref="60653712"/>
+    <nd ref="36823184"/>
+    <nd ref="301544524"/>
+    <nd ref="301542621"/>
+    <nd ref="92139159"/>
+    <nd ref="92138359"/>
+    <nd ref="92141618"/>
+    <nd ref="60653714"/>
+    <nd ref="844410211"/>
+    <nd ref="1132053705"/>
+    <nd ref="60653715"/>
+    <nd ref="560989090"/>
+    <nd ref="301537530"/>
+    <nd ref="301537533"/>
+    <nd ref="301537535"/>
+    <nd ref="301537539"/>
+    <nd ref="560986691"/>
+    <nd ref="301537542"/>
+    <nd ref="560986728"/>
+    <nd ref="758629862"/>
+    <nd ref="560986785"/>
+    <nd ref="301537545"/>
+    <nd ref="560986786"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Bourke Street"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="39947804" version="24" timestamp="2011-03-25T13:41:24Z" uid="11111" user="melb_guy" changeset="7665620">
+    <nd ref="60653712"/>
+    <nd ref="36823184"/>
+    <nd ref="301544524"/>
+    <nd ref="301542621"/>
+    <nd ref="1217532917"/>
+    <nd ref="92139159"/>
+    <nd ref="92138359"/>
+    <nd ref="92141618"/>
+    <nd ref="60653714"/>
+    <nd ref="844410211"/>
+    <nd ref="1132053705"/>
+    <nd ref="60653715"/>
+    <nd ref="560989090"/>
+    <nd ref="301537530"/>
+    <nd ref="301537533"/>
+    <nd ref="301537535"/>
+    <nd ref="301537539"/>
+    <nd ref="560986691"/>
+    <nd ref="301537542"/>
+    <nd ref="560986728"/>
+    <nd ref="758629862"/>
+    <nd ref="560986785"/>
+    <nd ref="301537545"/>
+    <nd ref="560986786"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Bourke Street"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="39947094" version="3" timestamp="2012-06-17T12:42:22Z" uid="8748" user="ToniE" changeset="11925222">
+    <nd ref="293248994"/>
+    <nd ref="1791583996"/>
+    <nd ref="1791583991"/>
+    <nd ref="479724325"/>
+    <tag k="highway" v="track"/>
+    <tag k="tracktype" v="grade2"/>
+  </way>
+  <way id="39947125" version="4" timestamp="2012-07-21T20:29:40Z" uid="722137" user="OSMF Redaction Account" changeset="12419520">
+    <nd ref="479724782"/>
+    <nd ref="479724781"/>
+    <nd ref="479724783"/>
+    <nd ref="479724784"/>
+    <nd ref="479724787"/>
+    <nd ref="479724788"/>
+    <nd ref="479724789"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="layer" v="-2"/>
+    <tag k="name" v="Franklin Road"/>
+    <tag k="source" v="GPS"/>
+    <tag k="source:name" v="Physical_Roadsign"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="39947126" version="4" timestamp="2012-08-10T13:50:08Z" uid="67896" user="mrpulley" changeset="12680357">
+    <nd ref="479724791"/>
+    <nd ref="771147"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="110"/>
+    <tag k="name" v="Hume Highway"/>
+    <tag k="network" v="NH"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="31"/>
+  </way>
+  <way id="39947127" version="4" timestamp="2012-08-06T08:43:04Z" uid="46482" user="Leon K" changeset="12630203"/>
+  <way id="39947128" version="6" timestamp="2012-07-22T13:13:53Z" uid="46482" user="Leon K" changeset="12432664">
+    <nd ref="771147"/>
+    <nd ref="450543750"/>
+    <nd ref="771148"/>
+    <nd ref="450543745"/>
+    <nd ref="771149"/>
+    <nd ref="1834150102"/>
+    <nd ref="76468857"/>
+    <nd ref="450543744"/>
+    <nd ref="771150"/>
+    <nd ref="450543743"/>
+    <nd ref="771151"/>
+    <nd ref="134620135"/>
+    <nd ref="450543742"/>
+    <nd ref="450543740"/>
+    <nd ref="771155"/>
+    <nd ref="450543739"/>
+    <nd ref="440669783"/>
+    <nd ref="450543737"/>
+    <nd ref="771158"/>
+    <nd ref="450543736"/>
+    <nd ref="450543735"/>
+    <nd ref="771160"/>
+    <nd ref="450543733"/>
+    <nd ref="450543734"/>
+    <nd ref="771162"/>
+    <nd ref="450543729"/>
+    <nd ref="450543730"/>
+    <nd ref="771163"/>
+    <nd ref="450543725"/>
+    <nd ref="771164"/>
+    <nd ref="450543724"/>
+    <nd ref="771165"/>
+    <nd ref="771168"/>
+    <nd ref="450543721"/>
+    <nd ref="771169"/>
+    <nd ref="450543717"/>
+    <nd ref="450543718"/>
+    <nd ref="771170"/>
+    <nd ref="450543716"/>
+    <nd ref="771171"/>
+    <nd ref="450543712"/>
+    <nd ref="771173"/>
+    <nd ref="450543708"/>
+    <nd ref="771176"/>
+    <nd ref="466325959"/>
+    <nd ref="450543706"/>
+    <nd ref="771178"/>
+    <nd ref="450543704"/>
+    <nd ref="450543703"/>
+    <nd ref="771181"/>
+    <nd ref="450543702"/>
+    <nd ref="450543697"/>
+    <nd ref="450543698"/>
+    <nd ref="771184"/>
+    <nd ref="450543696"/>
+    <nd ref="771186"/>
+    <nd ref="450543694"/>
+    <nd ref="771188"/>
+    <nd ref="450543692"/>
+    <nd ref="771189"/>
+    <nd ref="450543691"/>
+    <nd ref="771190"/>
+    <nd ref="450543690"/>
+    <nd ref="771191"/>
+    <nd ref="771194"/>
+    <nd ref="450543687"/>
+    <nd ref="450543685"/>
+    <nd ref="677782208"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="maxspeed" v="110"/>
+    <tag k="name" v="Hume Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH31"/>
+  </way>
+  <way id="39947128" version="7" timestamp="2012-08-06T08:43:03Z" uid="46482" user="Leon K" changeset="12630203">
+    <nd ref="771147"/>
+    <nd ref="450543750"/>
+    <nd ref="771148"/>
+    <nd ref="450543745"/>
+    <nd ref="771149"/>
+    <nd ref="1834150102"/>
+    <nd ref="76468857"/>
+    <nd ref="450543744"/>
+    <nd ref="771150"/>
+    <nd ref="450543743"/>
+    <nd ref="771151"/>
+    <nd ref="134620135"/>
+    <nd ref="450543742"/>
+    <nd ref="450543740"/>
+    <nd ref="771155"/>
+    <nd ref="450543739"/>
+    <nd ref="440669783"/>
+    <nd ref="450543737"/>
+    <nd ref="771158"/>
+    <nd ref="450543736"/>
+    <nd ref="450543735"/>
+    <nd ref="771160"/>
+    <nd ref="450543733"/>
+    <nd ref="450543734"/>
+    <nd ref="771162"/>
+    <nd ref="450543729"/>
+    <nd ref="450543730"/>
+    <nd ref="771163"/>
+    <nd ref="450543725"/>
+    <nd ref="771164"/>
+    <nd ref="450543724"/>
+    <nd ref="771165"/>
+    <nd ref="771168"/>
+    <nd ref="450543721"/>
+    <nd ref="771169"/>
+    <nd ref="450543717"/>
+    <nd ref="450543718"/>
+    <nd ref="771170"/>
+    <nd ref="450543716"/>
+    <nd ref="771171"/>
+    <nd ref="450543712"/>
+    <nd ref="771173"/>
+    <nd ref="450543708"/>
+    <nd ref="771176"/>
+    <nd ref="1853967833"/>
+    <nd ref="450543706"/>
+    <nd ref="771178"/>
+    <nd ref="450543704"/>
+    <nd ref="450543703"/>
+    <nd ref="771181"/>
+    <nd ref="450543702"/>
+    <nd ref="450543697"/>
+    <nd ref="450543698"/>
+    <nd ref="771184"/>
+    <nd ref="450543696"/>
+    <nd ref="771186"/>
+    <nd ref="450543694"/>
+    <nd ref="771188"/>
+    <nd ref="450543692"/>
+    <nd ref="771189"/>
+    <nd ref="450543691"/>
+    <nd ref="771190"/>
+    <nd ref="450543690"/>
+    <nd ref="771191"/>
+    <nd ref="771194"/>
+    <nd ref="450543687"/>
+    <nd ref="450543685"/>
+    <nd ref="677782208"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="maxspeed" v="110"/>
+    <tag k="name" v="Hume Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH31"/>
+  </way>
+  <way id="39947128" version="8" timestamp="2012-08-10T13:50:51Z" uid="67896" user="mrpulley" changeset="12680357">
+    <nd ref="771147"/>
+    <nd ref="450543750"/>
+    <nd ref="771148"/>
+    <nd ref="450543745"/>
+    <nd ref="771149"/>
+    <nd ref="1834150102"/>
+    <nd ref="76468857"/>
+    <nd ref="450543744"/>
+    <nd ref="771150"/>
+    <nd ref="450543743"/>
+    <nd ref="771151"/>
+    <nd ref="134620135"/>
+    <nd ref="450543742"/>
+    <nd ref="450543740"/>
+    <nd ref="771155"/>
+    <nd ref="450543739"/>
+    <nd ref="440669783"/>
+    <nd ref="450543737"/>
+    <nd ref="771158"/>
+    <nd ref="450543736"/>
+    <nd ref="450543735"/>
+    <nd ref="771160"/>
+    <nd ref="450543733"/>
+    <nd ref="450543734"/>
+    <nd ref="771162"/>
+    <nd ref="450543729"/>
+    <nd ref="450543730"/>
+    <nd ref="771163"/>
+    <nd ref="450543725"/>
+    <nd ref="771164"/>
+    <nd ref="450543724"/>
+    <nd ref="771165"/>
+    <nd ref="771168"/>
+    <nd ref="450543721"/>
+    <nd ref="771169"/>
+    <nd ref="450543717"/>
+    <nd ref="450543718"/>
+    <nd ref="771170"/>
+    <nd ref="450543716"/>
+    <nd ref="771171"/>
+    <nd ref="450543712"/>
+    <nd ref="771173"/>
+    <nd ref="450543708"/>
+    <nd ref="771176"/>
+    <nd ref="1853967833"/>
+    <nd ref="450543706"/>
+    <nd ref="771178"/>
+    <nd ref="450543704"/>
+    <nd ref="450543703"/>
+    <nd ref="771181"/>
+    <nd ref="450543702"/>
+    <nd ref="450543697"/>
+    <nd ref="450543698"/>
+    <nd ref="771184"/>
+    <nd ref="450543696"/>
+    <nd ref="771186"/>
+    <nd ref="450543694"/>
+    <nd ref="771188"/>
+    <nd ref="450543692"/>
+    <nd ref="771189"/>
+    <nd ref="450543691"/>
+    <nd ref="771190"/>
+    <nd ref="450543690"/>
+    <nd ref="771191"/>
+    <nd ref="771194"/>
+    <nd ref="450543687"/>
+    <nd ref="450543685"/>
+    <nd ref="677782208"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="maxspeed" v="110"/>
+    <tag k="name" v="Hume Highway"/>
+    <tag k="network" v="NH"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="31"/>
+  </way>
+  <way id="39947152" version="3" timestamp="2012-07-18T21:30:08Z" uid="722137" user="OSMF Redaction Account" changeset="12299219"/>
+  <way id="39947153" version="3" timestamp="2012-07-18T21:30:08Z" uid="722137" user="OSMF Redaction Account" changeset="12299219"/>
+  <way id="39947154" version="3" timestamp="2012-07-18T21:30:08Z" uid="722137" user="OSMF Redaction Account" changeset="12299219"/>
+  <way id="39947155" version="4" timestamp="2012-07-18T21:13:26Z" uid="722137" user="OSMF Redaction Account" changeset="12298791">
+    <nd ref="479724979"/>
+    <nd ref="479716442"/>
+    <nd ref="479724978"/>
+    <nd ref="748108438"/>
+    <nd ref="748107937"/>
+    <nd ref="479716444"/>
+    <nd ref="123049141"/>
+    <nd ref="122578991"/>
+    <nd ref="479716446"/>
+    <nd ref="123049142"/>
+    <nd ref="123049143"/>
+    <nd ref="479724974"/>
+    <nd ref="123049144"/>
+    <nd ref="748108717"/>
+    <nd ref="748108225"/>
+    <nd ref="123049146"/>
+    <nd ref="748108081"/>
+    <nd ref="748108517"/>
+    <nd ref="123049148"/>
+    <nd ref="748108369"/>
+    <nd ref="123049151"/>
+    <nd ref="748107848"/>
+    <nd ref="123049155"/>
+    <nd ref="748108155"/>
+    <nd ref="748108638"/>
+    <nd ref="123049157"/>
+    <nd ref="123049160"/>
+    <nd ref="123049162"/>
+    <nd ref="123049164"/>
+    <nd ref="122971167"/>
+    <nd ref="123049165"/>
+    <nd ref="123049167"/>
+    <nd ref="123049169"/>
+    <nd ref="123049171"/>
+    <nd ref="123049173"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Modjeska Canyon Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Orange, CA"/>
+    <tag k="tiger:name_base" v="Modjeska Canyon"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="yes"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="144419422"/>
+  </way>
+  <way id="39947155" version="5" timestamp="2012-07-18T21:28:48Z" uid="722137" user="OSMF Redaction Account" changeset="12299198">
+    <nd ref="748108438"/>
+    <nd ref="748107937"/>
+    <nd ref="748108717"/>
+    <nd ref="748108225"/>
+    <nd ref="748108081"/>
+    <nd ref="748108517"/>
+    <nd ref="748108369"/>
+    <nd ref="748107848"/>
+    <nd ref="748108155"/>
+    <nd ref="748108638"/>
+  </way>
+  <way id="39947524" version="4" timestamp="2012-07-19T20:11:18Z" uid="722137" user="OSMF Redaction Account" changeset="12345812"/>
+  <way id="39947532" version="3" timestamp="2012-07-19T20:11:19Z" uid="722137" user="OSMF Redaction Account" changeset="12345812"/>
+  <way id="39947704" version="14" timestamp="2012-07-18T19:16:25Z" uid="722137" user="OSMF Redaction Account" changeset="12294386">
+    <nd ref="83574800"/>
+    <nd ref="83574804"/>
+    <nd ref="83574816"/>
+    <nd ref="83574829"/>
+    <nd ref="83574834"/>
+    <nd ref="83574836"/>
+    <nd ref="83541747"/>
+    <nd ref="83574839"/>
+    <nd ref="479737313"/>
+    <nd ref="83574841"/>
+    <nd ref="83574846"/>
+    <nd ref="83574847"/>
+    <nd ref="83574848"/>
+    <nd ref="83574850"/>
+    <nd ref="83574852"/>
+    <nd ref="83574857"/>
+    <nd ref="83574861"/>
+    <nd ref="83574863"/>
+    <nd ref="83574866"/>
+    <nd ref="83574870"/>
+    <nd ref="83574876"/>
+    <nd ref="479732058"/>
+    <nd ref="453661846"/>
+    <nd ref="453661835"/>
+    <nd ref="83574893"/>
+    <nd ref="83574895"/>
+    <nd ref="367801262"/>
+    <nd ref="367801267"/>
+    <nd ref="83574901"/>
+    <nd ref="83574907"/>
+    <nd ref="83574912"/>
+    <nd ref="83574914"/>
+    <nd ref="83574916"/>
+    <nd ref="83574919"/>
+    <nd ref="83574920"/>
+    <nd ref="83574921"/>
+    <nd ref="480470751"/>
+    <nd ref="83574930"/>
+    <nd ref="83574932"/>
+    <nd ref="83574935"/>
+    <nd ref="83574936"/>
+    <nd ref="83574938"/>
+    <nd ref="83574940"/>
+    <nd ref="1449664792"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="loc_name" v="7th East"/>
+    <tag k="name" v="700 East"/>
+    <tag k="name:full" v="South 700 East"/>
+    <tag k="name:prefix" v="S"/>
+    <tag k="ref" v="SR 71"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Salt Lake, UT"/>
+    <tag k="tiger:name_base" v="700"/>
+    <tag k="tiger:name_direction_prefix" v="S"/>
+    <tag k="tiger:name_direction_suffix" v="E"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="176092811:176093094:176115649"/>
+    <tag k="tiger:zip_left" v="84020"/>
+    <tag k="tiger:zip_right" v="84020"/>
+  </way>
+  <way id="39947704" version="15" timestamp="2012-08-01T18:01:15Z" uid="341359" user="jackwiplock" changeset="12577299">
+    <nd ref="83574800"/>
+    <nd ref="83574804"/>
+    <nd ref="83574816"/>
+    <nd ref="83574829"/>
+    <nd ref="83574834"/>
+    <nd ref="83574836"/>
+    <nd ref="83541747"/>
+    <nd ref="83574839"/>
+    <nd ref="479737313"/>
+    <nd ref="83574841"/>
+    <nd ref="83574846"/>
+    <nd ref="83574847"/>
+    <nd ref="83574848"/>
+    <nd ref="83574850"/>
+    <nd ref="83574852"/>
+    <nd ref="83574857"/>
+    <nd ref="83574861"/>
+    <nd ref="83574863"/>
+    <nd ref="83574866"/>
+    <nd ref="83574870"/>
+    <nd ref="83574876"/>
+    <nd ref="479732058"/>
+    <nd ref="453661846"/>
+    <nd ref="1847183228"/>
+    <nd ref="83574893"/>
+    <nd ref="83574895"/>
+    <nd ref="367801262"/>
+    <nd ref="367801267"/>
+    <nd ref="83574901"/>
+    <nd ref="83574907"/>
+    <nd ref="83574912"/>
+    <nd ref="83574914"/>
+    <nd ref="83574916"/>
+    <nd ref="83574919"/>
+    <nd ref="83574920"/>
+    <nd ref="83574921"/>
+    <nd ref="480470751"/>
+    <nd ref="83574930"/>
+    <nd ref="83574932"/>
+    <nd ref="83574935"/>
+    <nd ref="83574936"/>
+    <nd ref="83574938"/>
+    <nd ref="83574940"/>
+    <nd ref="1449664792"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="loc_name" v="7th East"/>
+    <tag k="name" v="700 East"/>
+    <tag k="name:full" v="South 700 East"/>
+    <tag k="name:prefix" v="S"/>
+    <tag k="ref" v="SR 71"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Salt Lake, UT"/>
+    <tag k="tiger:name_base" v="700"/>
+    <tag k="tiger:name_direction_prefix" v="S"/>
+    <tag k="tiger:name_direction_suffix" v="E"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="176092811:176093094:176115649"/>
+    <tag k="tiger:zip_left" v="84020"/>
+    <tag k="tiger:zip_right" v="84020"/>
+  </way>
+  <way id="39947704" version="16" timestamp="2012-08-01T20:15:02Z" uid="341359" user="jackwiplock" changeset="12577891">
+    <nd ref="83574800"/>
+    <nd ref="83574804"/>
+    <nd ref="83574816"/>
+    <nd ref="83574829"/>
+    <nd ref="83574834"/>
+    <nd ref="83574836"/>
+    <nd ref="83541747"/>
+    <nd ref="83574839"/>
+    <nd ref="479737313"/>
+    <nd ref="83574841"/>
+    <nd ref="83574846"/>
+    <nd ref="83574847"/>
+    <nd ref="83574848"/>
+    <nd ref="83574850"/>
+    <nd ref="83574852"/>
+    <nd ref="83574857"/>
+    <nd ref="83574861"/>
+    <nd ref="83574863"/>
+    <nd ref="83574866"/>
+    <nd ref="83574870"/>
+    <nd ref="83574876"/>
+    <nd ref="479732058"/>
+    <nd ref="453661846"/>
+    <nd ref="1847183228"/>
+    <nd ref="83574893"/>
+    <nd ref="83574895"/>
+    <nd ref="367801262"/>
+    <nd ref="367801267"/>
+    <nd ref="83574901"/>
+    <nd ref="83574907"/>
+    <nd ref="83574914"/>
+    <nd ref="83574916"/>
+    <nd ref="83574919"/>
+    <nd ref="83574920"/>
+    <nd ref="83574921"/>
+    <nd ref="480470751"/>
+    <nd ref="83574930"/>
+    <nd ref="83574932"/>
+    <nd ref="83574935"/>
+    <nd ref="83574936"/>
+    <nd ref="83574938"/>
+    <nd ref="83574940"/>
+    <nd ref="1449664792"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="loc_name" v="7th East"/>
+    <tag k="name" v="700 East"/>
+    <tag k="name:full" v="South 700 East"/>
+    <tag k="name:prefix" v="S"/>
+    <tag k="ref" v="SR 71"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Salt Lake, UT"/>
+    <tag k="tiger:name_base" v="700"/>
+    <tag k="tiger:name_direction_prefix" v="S"/>
+    <tag k="tiger:name_direction_suffix" v="E"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="176092811:176093094:176115649"/>
+    <tag k="tiger:zip_left" v="84020"/>
+    <tag k="tiger:zip_right" v="84020"/>
+  </way>
+  <way id="39947720" version="9" timestamp="2012-06-06T06:14:14Z" uid="45263" user="Noframe" changeset="11812562">
+    <nd ref="83574834"/>
+    <nd ref="83643813"/>
+    <nd ref="83643815"/>
+    <nd ref="83643818"/>
+    <nd ref="83643820"/>
+    <nd ref="83643822"/>
+    <nd ref="83643824"/>
+    <nd ref="83643828"/>
+    <nd ref="1681664413"/>
+    <nd ref="83643832"/>
+    <nd ref="83643834"/>
+    <nd ref="83547585"/>
+    <nd ref="83643837"/>
+    <nd ref="83565165"/>
+    <nd ref="83643840"/>
+    <nd ref="83643842"/>
+    <nd ref="1676385635"/>
+    <nd ref="83643844"/>
+    <nd ref="1777742433"/>
+    <nd ref="83643847"/>
+    <nd ref="83640215"/>
+    <nd ref="83544013"/>
+    <nd ref="83643851"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="loc_name" v="78th South"/>
+    <tag k="name" v="7800 South"/>
+    <tag k="name:full" v="East 7800 South"/>
+    <tag k="name:prefix" v="E"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Salt Lake, UT"/>
+    <tag k="tiger:name_base" v="7800"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_direction_suffix" v="S"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="176113088"/>
+  </way>
+  <way id="39947804" version="25" timestamp="2012-07-19T11:47:55Z" uid="722137" user="OSMF Redaction Account" changeset="12322681">
+    <nd ref="36823184"/>
+    <nd ref="301544524"/>
+    <nd ref="301542621"/>
+    <nd ref="1217532917"/>
+    <nd ref="92139159"/>
+    <nd ref="92138359"/>
+    <nd ref="92141618"/>
+    <nd ref="60653714"/>
+    <nd ref="844410211"/>
+    <nd ref="1132053705"/>
+    <nd ref="60653715"/>
+    <nd ref="560989090"/>
+    <nd ref="301537530"/>
+    <nd ref="301537533"/>
+    <nd ref="301537535"/>
+    <nd ref="301537539"/>
+    <nd ref="560986691"/>
+    <nd ref="301537542"/>
+    <nd ref="560986728"/>
+    <nd ref="758629862"/>
+    <nd ref="560986785"/>
+    <nd ref="301537545"/>
+    <nd ref="560986786"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Bourke Street"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="39947804" version="26" timestamp="2012-09-03T08:45:19Z" uid="46482" user="Leon K" changeset="12964378">
+    <nd ref="60653712"/>
+    <nd ref="36823184"/>
+    <nd ref="301544524"/>
+    <nd ref="301542621"/>
+    <nd ref="1217532917"/>
+    <nd ref="92139159"/>
+    <nd ref="92138359"/>
+    <nd ref="92141618"/>
+    <nd ref="60653714"/>
+    <nd ref="844410211"/>
+    <nd ref="1132053705"/>
+    <nd ref="60653715"/>
+    <nd ref="560989090"/>
+    <nd ref="301537530"/>
+    <nd ref="301537533"/>
+    <nd ref="301537535"/>
+    <nd ref="301537539"/>
+    <nd ref="560986691"/>
+    <nd ref="301537542"/>
+    <nd ref="560986728"/>
+    <nd ref="758629862"/>
+    <nd ref="560986785"/>
+    <nd ref="301537545"/>
+    <nd ref="560986786"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Bourke Street"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+</osm>

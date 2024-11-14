@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="101978210" version="3" timestamp="2011-03-13T15:19:32Z" uid="33382" user="de_muur" changeset="7546131">
+    <nd ref="1177279340"/>
+    <nd ref="267825419"/>
+    <nd ref="267825420"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Gahlstorf"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="101978210" version="4" timestamp="2011-12-11T18:37:15Z" uid="57645" user="KartoGrapHiti" changeset="10092775">
+    <nd ref="1177279340"/>
+    <nd ref="267825419"/>
+    <nd ref="267825420"/>
+    <tag k="footway" v="no"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Gahlstorf"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="101978210" version="5" timestamp="2012-03-04T11:41:44Z" uid="57645" user="KartoGrapHiti" changeset="10867257">
+    <nd ref="1177279340"/>
+    <nd ref="267825419"/>
+    <nd ref="1658878540"/>
+    <nd ref="267825420"/>
+    <tag k="footway" v="no"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Gahlstorf"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="101978213" version="3" timestamp="2011-03-13T15:19:11Z" uid="33382" user="de_muur" changeset="7546131">
+    <nd ref="1177279334"/>
+    <nd ref="1177279340"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Gahlstorf"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="101978213" version="4" timestamp="2011-12-11T18:37:14Z" uid="57645" user="KartoGrapHiti" changeset="10092775">
+    <nd ref="1177279334"/>
+    <nd ref="1177279340"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="footway" v="no"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Gahlstorf"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="101978217" version="1" timestamp="2011-02-27T15:10:27Z" uid="43863" user="Rundling" changeset="7411754">
+    <nd ref="1177279663"/>
+    <nd ref="1172735876"/>
+    <nd ref="1172735440"/>
+    <nd ref="1177279682"/>
+    <tag k="highway" v="service"/>
+    <tag k="service" v="parking_aisle"/>
+    <tag k="surface" v="concrete"/>
+  </way>
+  <way id="101978217" version="2" timestamp="2011-02-27T15:53:40Z" uid="43863" user="Rundling" changeset="7411937">
+    <nd ref="1177279663"/>
+    <nd ref="1172735876"/>
+    <nd ref="1172735440"/>
+    <nd ref="1177279682"/>
+    <nd ref="1177339657"/>
+    <tag k="highway" v="service"/>
+    <tag k="service" v="parking_aisle"/>
+    <tag k="surface" v="concrete"/>
+  </way>
+  <way id="101978218" version="1" timestamp="2011-02-27T15:10:27Z" uid="43863" user="Rundling" changeset="7411754">
+    <nd ref="500571378"/>
+    <nd ref="500571381"/>
+    <tag k="access" v="delivery"/>
+    <tag k="agricultural" v="no"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="goods" v="yes"/>
+    <tag k="hgv" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="horse" v="no"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="motorcycle" v="no"/>
+    <tag k="psv" v="no"/>
+    <tag k="surface" v="concrete"/>
+  </way>
+  <way id="101978210" version="6" timestamp="2012-07-18T14:42:47Z" uid="722137" user="OSMF Redaction Account" changeset="12285483">
+    <nd ref="1177279340"/>
+    <nd ref="267825419"/>
+    <nd ref="1658878540"/>
+    <nd ref="267825420"/>
+    <tag k="footway" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Gahlstorf"/>
+  </way>
+  <way id="101978213" version="5" timestamp="2012-07-18T14:42:48Z" uid="722137" user="OSMF Redaction Account" changeset="12285483">
+    <nd ref="1177279334"/>
+    <nd ref="1177279340"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="footway" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Gahlstorf"/>
+  </way>
+  <way id="101978217" version="3" timestamp="2012-07-18T15:39:03Z" uid="722137" user="OSMF Redaction Account" changeset="12287313"/>
+  <way id="101978218" version="2" timestamp="2012-07-18T15:38:58Z" uid="722137" user="OSMF Redaction Account" changeset="12287313"/>
+</osm>

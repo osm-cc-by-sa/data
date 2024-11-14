@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="70723407" version="1" timestamp="2010-08-02T14:48:34Z" uid="74617" user="JohnSmith" changeset="5381054">
+    <nd ref="843462039"/>
+    <nd ref="444354384"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Smiths Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="70723408" version="1" timestamp="2010-08-02T14:48:34Z" uid="74617" user="JohnSmith" changeset="5381054">
+    <nd ref="491864091"/>
+    <nd ref="843462036"/>
+    <nd ref="843462043"/>
+    <nd ref="843462039"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="70723407" version="2" timestamp="2012-07-19T13:48:57Z" uid="722137" user="OSMF Redaction Account" changeset="12330384"/>
+  <way id="70723408" version="2" timestamp="2012-07-19T13:48:56Z" uid="722137" user="OSMF Redaction Account" changeset="12330384"/>
+</osm>

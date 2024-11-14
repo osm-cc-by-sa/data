@@ -1,0 +1,1328 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="81548053" version="1" timestamp="2010-10-15T18:48:29Z" uid="96874" user="Quedel" changeset="6051410">
+    <nd ref="266823311"/>
+    <nd ref="251202197"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Weststraße"/>
+    <tag k="ref" v="L 85"/>
+  </way>
+  <way id="81548054" version="1" timestamp="2010-10-15T18:48:29Z" uid="96874" user="Quedel" changeset="6051410">
+    <nd ref="266823315"/>
+    <nd ref="618791860"/>
+    <nd ref="320666513"/>
+    <tag k="hgv" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Blankenburger Straße"/>
+    <tag k="parking:condition:both" v="free"/>
+    <tag k="parking:lane:both" v="inline"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="81548054" version="2" timestamp="2010-10-16T10:50:02Z" uid="96874" user="Quedel" changeset="6056097">
+    <nd ref="266823315"/>
+    <nd ref="618791860"/>
+    <nd ref="320666513"/>
+    <tag k="FIXME" v="Stichstraßen in Richtung Süden (2x) fehlen"/>
+    <tag k="hgv" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Blankenburger Straße"/>
+    <tag k="parking:condition:both" v="free"/>
+    <tag k="parking:lane:both" v="inline"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="81548055" version="1" timestamp="2010-10-15T18:48:29Z" uid="96874" user="Quedel" changeset="6051410">
+    <nd ref="298863147"/>
+    <nd ref="618748140"/>
+    <nd ref="618748142"/>
+    <nd ref="618748145"/>
+    <nd ref="618748149"/>
+    <nd ref="298863148"/>
+    <tag k="bus" v="destination"/>
+    <tag k="hgv" v="destination"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="maxweight" v="2.5"/>
+    <tag k="name" v="Erlenstraße"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="paved"/>
+    <tag k="width" v="5"/>
+  </way>
+  <way id="81548055" version="2" timestamp="2010-10-16T10:14:43Z" uid="96874" user="Quedel" changeset="6056097">
+    <nd ref="298863147"/>
+    <nd ref="618748140"/>
+    <nd ref="618748142"/>
+    <nd ref="618748145"/>
+    <nd ref="618748149"/>
+    <nd ref="298863148"/>
+    <tag k="bus" v="destination"/>
+    <tag k="hgv" v="destination"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="maxweight" v="2.5"/>
+    <tag k="name" v="Erlenstraße"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:condition:left" v="private"/>
+    <tag k="parking:lane:left" v="orthogonal"/>
+    <tag k="surface" v="paved"/>
+    <tag k="width" v="5"/>
+  </way>
+  <way id="81548057" version="1" timestamp="2010-10-15T18:48:30Z" uid="96874" user="Quedel" changeset="6051410">
+    <nd ref="885964014"/>
+    <nd ref="290174291"/>
+    <nd ref="298863171"/>
+    <nd ref="290174292"/>
+    <nd ref="300597356"/>
+    <tag k="bus" v="destination"/>
+    <tag k="hgv" v="destination"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="maxweight" v="2.5"/>
+    <tag k="name" v="Fichtenstraße"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="81548057" version="2" timestamp="2010-10-16T09:59:35Z" uid="96874" user="Quedel" changeset="6056097">
+    <nd ref="885964014"/>
+    <nd ref="290174291"/>
+    <nd ref="298863171"/>
+    <nd ref="290174292"/>
+    <tag k="bus" v="destination"/>
+    <tag k="hgv" v="destination"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="maxweight" v="2.5"/>
+    <tag k="name" v="Fichtenstraße"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:condition:left" v="customers"/>
+    <tag k="parking:condition:right" v="residents"/>
+    <tag k="parking:lane:both" v="orthogonal"/>
+  </way>
+  <way id="81548058" version="1" timestamp="2010-10-15T18:48:30Z" uid="96874" user="Quedel" changeset="6051410">
+    <nd ref="948261348"/>
+    <nd ref="290174295"/>
+    <nd ref="618788698"/>
+    <nd ref="946831605"/>
+    <nd ref="290174296"/>
+    <tag k="bus" v="destination"/>
+    <tag k="hgv" v="destination"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="maxweight" v="2.5"/>
+    <tag k="name" v="Fichtenstraße"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:condition:left" v="residents"/>
+    <tag k="parking:lane:left" v="orthogonal"/>
+    <tag k="parking:lane:right" v="no_parking"/>
+  </way>
+  <way id="81548060" version="1" timestamp="2010-10-15T18:48:30Z" uid="96874" user="Quedel" changeset="6051410">
+    <nd ref="266823251"/>
+    <nd ref="266823300"/>
+    <nd ref="299606654"/>
+    <nd ref="297357954"/>
+    <nd ref="266823252"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Wallstraße"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:condition:right" v="free"/>
+    <tag k="parking:lane:left" v="no_parking"/>
+    <tag k="parking:lane:right" v="diagonal"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="81548061" version="1" timestamp="2010-10-15T18:48:31Z" uid="96874" user="Quedel" changeset="6051410">
+    <nd ref="300449190"/>
+    <nd ref="300452946"/>
+    <nd ref="299604058"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Schmale Straße"/>
+    <tag k="parking:condition:right" v="free"/>
+    <tag k="parking:lane:right" v="orthogonal"/>
+    <tag k="surface" v="cobblestone"/>
+  </way>
+  <way id="81548063" version="1" timestamp="2010-10-15T18:48:31Z" uid="96874" user="Quedel" changeset="6051410">
+    <nd ref="300597356"/>
+    <nd ref="948261348"/>
+    <tag k="bus" v="destination"/>
+    <tag k="hgv" v="destination"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="maxweight" v="2.5"/>
+    <tag k="name" v="Fichtenstraße"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:lane:both" v="no_parking"/>
+  </way>
+  <way id="81548064" version="1" timestamp="2010-10-15T18:48:31Z" uid="96874" user="Quedel" changeset="6051410">
+    <nd ref="950651203"/>
+    <nd ref="266823294"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Neuendorf"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:lane:both" v="no_parking"/>
+    <tag k="surface" v="cobblestone"/>
+    <tag k="width" v="6"/>
+  </way>
+  <way id="81548066" version="1" timestamp="2010-10-15T18:48:32Z" uid="96874" user="Quedel" changeset="6051410">
+    <nd ref="298862952"/>
+    <nd ref="298862996"/>
+    <nd ref="298863020"/>
+    <nd ref="892566788"/>
+    <nd ref="298863048"/>
+    <nd ref="298863068"/>
+    <tag k="highway" v="service"/>
+    <tag k="service" v="parking_aisle"/>
+    <tag k="surface" v="cobblestone"/>
+  </way>
+  <way id="81548066" version="2" timestamp="2010-10-17T19:32:28Z" uid="96874" user="Quedel" changeset="6070824">
+    <nd ref="298862952"/>
+    <nd ref="298862996"/>
+    <nd ref="298863020"/>
+    <nd ref="892566788"/>
+    <nd ref="298863048"/>
+    <tag k="highway" v="service"/>
+    <tag k="service" v="parking_aisle"/>
+    <tag k="surface" v="cobblestone"/>
+  </way>
+  <way id="81548067" version="1" timestamp="2010-10-15T18:48:32Z" uid="96874" user="Quedel" changeset="6051410">
+    <nd ref="298863196"/>
+    <nd ref="861228604"/>
+    <nd ref="946831609"/>
+    <nd ref="298863231"/>
+    <nd ref="893325428"/>
+    <nd ref="298863233"/>
+    <nd ref="298863245"/>
+    <nd ref="948758971"/>
+    <nd ref="308304525"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Weyhestraße"/>
+    <tag k="parking:lane:both" v="no_parking"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="81548067" version="2" timestamp="2010-10-16T21:58:37Z" uid="96874" user="Quedel" changeset="6062168">
+    <nd ref="298863196"/>
+    <nd ref="861228604"/>
+    <nd ref="946831609"/>
+    <nd ref="298863231"/>
+    <nd ref="893325428"/>
+    <nd ref="298863233"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Weyhestraße"/>
+    <tag k="parking:lane:both" v="no_parking"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="81548069" version="1" timestamp="2010-10-15T18:48:32Z" uid="96874" user="Quedel" changeset="6051410">
+    <nd ref="879401657"/>
+    <nd ref="893325510"/>
+    <nd ref="298863310"/>
+    <tag k="hgv" v="destination"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="maxweight" v="2.5"/>
+    <tag k="name" v="Kastanienstraße"/>
+    <tag k="parking:lane:both" v="no_stopping"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="81548070" version="1" timestamp="2010-10-15T18:48:32Z" uid="96874" user="Quedel" changeset="6051410">
+    <nd ref="298863411"/>
+    <nd ref="950651204"/>
+    <nd ref="298863470"/>
+    <tag k="access" v="permissive"/>
+    <tag k="highway" v="service"/>
+    <tag k="layer" v="0"/>
+    <tag k="maxspeed" v="10"/>
+    <tag k="parking:lane:both" v="no_parking"/>
+    <tag k="service" v="parking_aisle"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="81548072" version="1" timestamp="2010-10-15T18:48:33Z" uid="96874" user="Quedel" changeset="6051410">
+    <nd ref="298863150"/>
+    <nd ref="618748136"/>
+    <nd ref="298863146"/>
+    <nd ref="298863147"/>
+    <tag k="bus" v="destination"/>
+    <tag k="hgv" v="destination"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="maxweight" v="2.5"/>
+    <tag k="name" v="Erlenstraße"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:condition:left" v="residents"/>
+    <tag k="parking:lane:left" v="inline"/>
+    <tag k="surface" v="paved"/>
+    <tag k="width" v="5"/>
+  </way>
+  <way id="81548073" version="1" timestamp="2010-10-15T18:48:33Z" uid="96874" user="Quedel" changeset="6051410">
+    <nd ref="793631271"/>
+    <nd ref="266823296"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Wallstraße"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:condition:right" v="disc"/>
+    <tag k="parking:condition:right:maxstay" v="2 h"/>
+    <tag k="parking:lane:left" v="no_parking"/>
+    <tag k="parking:lane:right" v="diagonal"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="81548075" version="1" timestamp="2010-10-15T18:48:33Z" uid="96874" user="Quedel" changeset="6051410">
+    <nd ref="298863523"/>
+    <nd ref="355617071"/>
+    <nd ref="298863530"/>
+    <tag k="hgv" v="destination"/>
+    <tag k="highway" v="residential"/>
+    <tag k="layer" v="0"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="maxweight" v="2.5"/>
+    <tag k="name" v="Birkenstraße"/>
+    <tag k="parking:condition:both" v="free"/>
+    <tag k="parking:lane:left" v="inline"/>
+    <tag k="parking:lane:right" v="no_stopping"/>
+    <tag k="surface" v="paved"/>
+    <tag k="width" v="5"/>
+  </way>
+  <way id="81548076" version="1" timestamp="2010-10-15T18:48:34Z" uid="96874" user="Quedel" changeset="6051410">
+    <nd ref="298863068"/>
+    <nd ref="298863091"/>
+    <tag k="highway" v="service"/>
+    <tag k="parking:condition:both" v="customers"/>
+    <tag k="parking:lane:both" v="orthogonal"/>
+    <tag k="service" v="parking_aisle"/>
+    <tag k="surface" v="cobblestone"/>
+  </way>
+  <way id="81548078" version="1" timestamp="2010-10-15T18:48:34Z" uid="96874" user="Quedel" changeset="6051410">
+    <nd ref="298863470"/>
+    <nd ref="298863415"/>
+    <nd ref="298863416"/>
+    <nd ref="298863423"/>
+    <nd ref="298863424"/>
+    <nd ref="298863432"/>
+    <nd ref="298863470"/>
+    <tag k="access" v="permissive"/>
+    <tag k="amenity" v="parking"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxspeed" v="10"/>
+    <tag k="parking:condition:both" v="customers"/>
+    <tag k="parking:lane:both" v="orthogonal"/>
+    <tag k="service" v="parking_aisle"/>
+    <tag k="surface" v="cobblestone"/>
+  </way>
+  <way id="81548079" version="1" timestamp="2010-10-15T18:48:34Z" uid="96874" user="Quedel" changeset="6051410">
+    <nd ref="298863133"/>
+    <nd ref="290174185"/>
+    <tag k="hgv" v="destination"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="maxweight" v="2.5"/>
+    <tag k="name" v="Gartenstraße"/>
+    <tag k="parking:condition:both" v="free"/>
+    <tag k="parking:lane:right" v="orthogonal"/>
+    <tag k="psv" v="yes"/>
+    <tag k="traffic_sign" v="DE:1026-35,DE:1026-32;DE:262[2.5]"/>
+  </way>
+  <way id="81548079" version="2" timestamp="2010-10-17T21:12:22Z" uid="96874" user="Quedel" changeset="6070824">
+    <nd ref="298863133"/>
+    <nd ref="955196513"/>
+    <nd ref="290174185"/>
+    <tag k="hgv" v="destination"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="maxweight" v="2.5"/>
+    <tag k="name" v="Gartenstraße"/>
+    <tag k="parking:condition:both" v="free"/>
+    <tag k="parking:lane:right" v="orthogonal"/>
+    <tag k="psv" v="yes"/>
+    <tag k="traffic_sign" v="DE:1026-35,DE:1026-32;DE:262[2.5]"/>
+  </way>
+  <way id="81548254" version="1" timestamp="2010-10-15T18:50:57Z" uid="96874" user="Quedel" changeset="6051410">
+    <nd ref="872647869"/>
+    <nd ref="410367259"/>
+    <nd ref="287081598"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Mühlenstraße"/>
+    <tag k="parking:lane:both" v="no_parking"/>
+    <tag k="surface" v="cobblestone"/>
+  </way>
+  <way id="81548297" version="1" timestamp="2010-10-15T18:54:25Z" uid="9581" user="Lobelt" changeset="6051444">
+    <nd ref="950658612"/>
+    <nd ref="950657749"/>
+    <nd ref="950657856"/>
+    <nd ref="950658144"/>
+    <tag k="power" v="line"/>
+  </way>
+  <way id="81548297" version="2" timestamp="2011-01-21T19:32:46Z" uid="72235" user="Basstoelpel" changeset="7043665"/>
+  <way id="81548298" version="1" timestamp="2010-10-15T18:54:25Z" uid="9581" user="Lobelt" changeset="6051444">
+    <nd ref="950657960"/>
+    <nd ref="701221990"/>
+    <nd ref="950657897"/>
+    <nd ref="950658574"/>
+    <nd ref="185485597"/>
+    <nd ref="940361472"/>
+    <nd ref="701221991"/>
+    <nd ref="950657647"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="frequency" v="16.7"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="Landsat"/>
+    <tag k="voltage" v="15000"/>
+  </way>
+  <way id="81548298" version="2" timestamp="2011-07-19T08:54:54Z" uid="118006" user="vwistuttgart" changeset="8766127">
+    <nd ref="950657960"/>
+    <nd ref="701221990"/>
+    <nd ref="950657897"/>
+    <nd ref="950658574"/>
+    <nd ref="185485597"/>
+    <nd ref="940361472"/>
+    <nd ref="701221991"/>
+    <nd ref="950657647"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="frequency" v="16.7"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="Landsat"/>
+    <tag k="tracks" v="1"/>
+    <tag k="voltage" v="15000"/>
+  </way>
+  <way id="81548298" version="3" timestamp="2011-11-02T00:17:23Z" uid="42429" user="FK270673" changeset="9718158">
+    <nd ref="950657960"/>
+    <nd ref="701221990"/>
+    <nd ref="950657897"/>
+    <nd ref="950658574"/>
+    <nd ref="185485597"/>
+    <nd ref="940361472"/>
+    <nd ref="701221991"/>
+    <nd ref="950657647"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="frequency" v="16.7"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="Landsat"/>
+    <tag k="tracks" v="1"/>
+    <tag k="voltage" v="15000"/>
+  </way>
+  <way id="81548298" version="4" timestamp="2012-01-04T15:44:49Z" uid="136321" user="Teddy73" changeset="10291754"/>
+  <way id="81548299" version="1" timestamp="2010-10-15T18:54:25Z" uid="9581" user="Lobelt" changeset="6051444">
+    <nd ref="950658170"/>
+    <nd ref="185485476"/>
+    <nd ref="950657785"/>
+    <nd ref="185485483"/>
+    <nd ref="701221955"/>
+    <nd ref="701221947"/>
+    <nd ref="701221949"/>
+    <nd ref="148909230"/>
+    <nd ref="940613831"/>
+    <nd ref="148909231"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="frequency" v="16.7"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="Landsat"/>
+    <tag k="voltage" v="15000"/>
+  </way>
+  <way id="81548299" version="2" timestamp="2011-07-19T08:54:17Z" uid="118006" user="vwistuttgart" changeset="8766127">
+    <nd ref="950658170"/>
+    <nd ref="185485476"/>
+    <nd ref="950657785"/>
+    <nd ref="185485483"/>
+    <nd ref="701221955"/>
+    <nd ref="701221947"/>
+    <nd ref="701221949"/>
+    <nd ref="148909230"/>
+    <nd ref="940613831"/>
+    <nd ref="148909231"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="frequency" v="16.7"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="Landsat"/>
+    <tag k="tracks" v="1"/>
+    <tag k="voltage" v="15000"/>
+  </way>
+  <way id="81548299" version="3" timestamp="2011-11-01T23:50:28Z" uid="42429" user="FK270673" changeset="9718158">
+    <nd ref="950658170"/>
+    <nd ref="185485476"/>
+    <nd ref="950657785"/>
+    <nd ref="185485483"/>
+    <nd ref="701221955"/>
+    <nd ref="701221947"/>
+    <nd ref="701221949"/>
+    <nd ref="148909230"/>
+    <nd ref="940613831"/>
+    <nd ref="148909231"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="frequency" v="16.7"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="Landsat"/>
+    <tag k="tracks" v="1"/>
+    <tag k="voltage" v="15000"/>
+  </way>
+  <way id="81548299" version="4" timestamp="2012-01-04T10:54:13Z" uid="136321" user="Teddy73" changeset="10289496"/>
+  <way id="81548300" version="1" timestamp="2010-10-15T18:54:26Z" uid="9581" user="Lobelt" changeset="6051444">
+    <nd ref="242129106"/>
+    <nd ref="950658200"/>
+    <nd ref="950658288"/>
+    <nd ref="950658582"/>
+    <nd ref="950658643"/>
+    <nd ref="950657966"/>
+    <nd ref="950658025"/>
+    <nd ref="950658359"/>
+    <nd ref="950658428"/>
+    <nd ref="950657714"/>
+    <nd ref="950657827"/>
+    <nd ref="950658102"/>
+    <nd ref="950658410"/>
+    <nd ref="950657697"/>
+    <nd ref="950657791"/>
+    <nd ref="950658085"/>
+    <nd ref="537130502"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="81548300" version="2" timestamp="2012-01-04T11:41:12Z" uid="136321" user="Teddy73" changeset="10289496"/>
+  <way id="81548302" version="1" timestamp="2010-10-15T18:54:26Z" uid="9581" user="Lobelt" changeset="6051444">
+    <nd ref="950658405"/>
+    <nd ref="950658598"/>
+    <nd ref="950658222"/>
+    <nd ref="950658079"/>
+    <nd ref="950658405"/>
+    <tag k="landuse" v="basin"/>
+  </way>
+  <way id="81548302" version="2" timestamp="2012-01-04T10:47:26Z" uid="136321" user="Teddy73" changeset="10289496"/>
+  <way id="81548303" version="1" timestamp="2010-10-15T18:54:27Z" uid="9581" user="Lobelt" changeset="6051444">
+    <nd ref="242129126"/>
+    <nd ref="242129123"/>
+    <nd ref="242129118"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Herrengasse"/>
+    <tag k="surface" v="paved"/>
+    <tag k="width" v="4"/>
+  </way>
+  <way id="81548303" version="2" timestamp="2012-01-04T11:41:12Z" uid="136321" user="Teddy73" changeset="10289496"/>
+  <way id="81548304" version="1" timestamp="2010-10-15T18:54:27Z" uid="9581" user="Lobelt" changeset="6051444">
+    <nd ref="950658096"/>
+    <nd ref="950657850"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="frequency" v="16.7"/>
+    <tag k="layer" v="1"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="Landsat"/>
+    <tag k="voltage" v="15000"/>
+  </way>
+  <way id="81548304" version="2" timestamp="2011-07-19T08:54:32Z" uid="118006" user="vwistuttgart" changeset="8766127">
+    <nd ref="950658096"/>
+    <nd ref="950657850"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="frequency" v="16.7"/>
+    <tag k="layer" v="1"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="Landsat"/>
+    <tag k="tracks" v="1"/>
+    <tag k="voltage" v="15000"/>
+  </way>
+  <way id="81548304" version="3" timestamp="2011-11-01T23:57:44Z" uid="42429" user="FK270673" changeset="9718158">
+    <nd ref="950658096"/>
+    <nd ref="950657850"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="frequency" v="16.7"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="layer" v="1"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="Landsat"/>
+    <tag k="tracks" v="1"/>
+    <tag k="voltage" v="15000"/>
+  </way>
+  <way id="81548304" version="4" timestamp="2012-01-04T11:20:02Z" uid="136321" user="Teddy73" changeset="10289496">
+    <nd ref="950658096"/>
+    <nd ref="1576568443"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="frequency" v="16.7"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="layer" v="1"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="Landsat"/>
+    <tag k="tracks" v="1"/>
+    <tag k="voltage" v="15000"/>
+  </way>
+  <way id="81548304" version="5" timestamp="2012-01-04T15:15:20Z" uid="136321" user="Teddy73" changeset="10291754"/>
+  <way id="81548305" version="1" timestamp="2010-10-15T18:54:27Z" uid="9581" user="Lobelt" changeset="6051444">
+    <nd ref="950658483"/>
+    <nd ref="950658170"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="frequency" v="16.7"/>
+    <tag k="layer" v="1"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="Landsat"/>
+    <tag k="voltage" v="15000"/>
+  </way>
+  <way id="81548305" version="2" timestamp="2011-07-19T08:54:36Z" uid="118006" user="vwistuttgart" changeset="8766127">
+    <nd ref="950658483"/>
+    <nd ref="950658170"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="frequency" v="16.7"/>
+    <tag k="layer" v="1"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="Landsat"/>
+    <tag k="tracks" v="1"/>
+    <tag k="voltage" v="15000"/>
+  </way>
+  <way id="81548305" version="3" timestamp="2011-11-01T23:55:39Z" uid="42429" user="FK270673" changeset="9718158">
+    <nd ref="950658483"/>
+    <nd ref="950658170"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="frequency" v="16.7"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="layer" v="1"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="Landsat"/>
+    <tag k="tracks" v="1"/>
+    <tag k="voltage" v="15000"/>
+  </way>
+  <way id="81548305" version="4" timestamp="2012-01-04T10:54:14Z" uid="136321" user="Teddy73" changeset="10289496"/>
+  <way id="81548307" version="1" timestamp="2010-10-15T18:54:28Z" uid="9581" user="Lobelt" changeset="6051444">
+    <nd ref="950658336"/>
+    <nd ref="950658411"/>
+    <nd ref="950658419"/>
+    <nd ref="950658497"/>
+    <nd ref="950657804"/>
+    <nd ref="950657900"/>
+    <nd ref="950658193"/>
+    <nd ref="950658461"/>
+    <nd ref="950657761"/>
+    <nd ref="950657871"/>
+    <nd ref="950658228"/>
+    <nd ref="950658317"/>
+    <nd ref="950658606"/>
+    <nd ref="950657666"/>
+    <nd ref="950657984"/>
+    <nd ref="950657967"/>
+    <nd ref="950658066"/>
+    <tag k="railway" v="rail"/>
+  </way>
+  <way id="81548307" version="2" timestamp="2011-07-19T08:54:27Z" uid="118006" user="vwistuttgart" changeset="8766127">
+    <nd ref="950658336"/>
+    <nd ref="950658411"/>
+    <nd ref="950658419"/>
+    <nd ref="950658497"/>
+    <nd ref="950657804"/>
+    <nd ref="950657900"/>
+    <nd ref="950658193"/>
+    <nd ref="950658461"/>
+    <nd ref="950657761"/>
+    <nd ref="950657871"/>
+    <nd ref="950658228"/>
+    <nd ref="950658317"/>
+    <nd ref="950658606"/>
+    <nd ref="950657666"/>
+    <nd ref="950657984"/>
+    <nd ref="950657967"/>
+    <nd ref="950658066"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="railway" v="rail"/>
+    <tag k="tracks" v="1"/>
+  </way>
+  <way id="81548307" version="3" timestamp="2012-01-04T15:15:20Z" uid="136321" user="Teddy73" changeset="10291754"/>
+  <way id="81548308" version="1" timestamp="2010-10-15T18:54:28Z" uid="9581" user="Lobelt" changeset="6051444">
+    <nd ref="950658388"/>
+    <nd ref="950658656"/>
+    <nd ref="950657915"/>
+    <nd ref="950658204"/>
+    <nd ref="950658292"/>
+    <nd ref="950658586"/>
+    <nd ref="950658573"/>
+    <nd ref="950657885"/>
+    <tag k="railway" v="rail"/>
+  </way>
+  <way id="81548308" version="2" timestamp="2011-07-19T08:54:54Z" uid="118006" user="vwistuttgart" changeset="8766127">
+    <nd ref="950658388"/>
+    <nd ref="950658656"/>
+    <nd ref="950657915"/>
+    <nd ref="950658204"/>
+    <nd ref="950658292"/>
+    <nd ref="950658586"/>
+    <nd ref="950658573"/>
+    <nd ref="950657885"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="railway" v="rail"/>
+    <tag k="tracks" v="1"/>
+  </way>
+  <way id="81548308" version="3" timestamp="2012-01-04T15:44:46Z" uid="136321" user="Teddy73" changeset="10291754"/>
+  <way id="81548309" version="1" timestamp="2010-10-15T18:54:29Z" uid="9581" user="Lobelt" changeset="6051444">
+    <nd ref="950657957"/>
+    <nd ref="950658271"/>
+    <nd ref="950658620"/>
+    <nd ref="950657942"/>
+    <nd ref="950658003"/>
+    <nd ref="950658330"/>
+    <nd ref="950658408"/>
+    <nd ref="950657694"/>
+    <nd ref="950657787"/>
+    <tag k="railway" v="rail"/>
+  </way>
+  <way id="81548309" version="2" timestamp="2011-07-19T08:54:55Z" uid="118006" user="vwistuttgart" changeset="8766127">
+    <nd ref="950657957"/>
+    <nd ref="950658271"/>
+    <nd ref="950658620"/>
+    <nd ref="950657942"/>
+    <nd ref="950658003"/>
+    <nd ref="950658330"/>
+    <nd ref="950658408"/>
+    <nd ref="950657694"/>
+    <nd ref="950657787"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="railway" v="rail"/>
+    <tag k="tracks" v="1"/>
+  </way>
+  <way id="81548309" version="3" timestamp="2012-01-04T15:44:48Z" uid="136321" user="Teddy73" changeset="10291754"/>
+  <way id="81548310" version="1" timestamp="2010-10-15T18:54:29Z" uid="9581" user="Lobelt" changeset="6051444">
+    <nd ref="950657647"/>
+    <nd ref="950658376"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="frequency" v="16.7"/>
+    <tag k="layer" v="1"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="Landsat"/>
+    <tag k="voltage" v="15000"/>
+  </way>
+  <way id="81548310" version="2" timestamp="2011-07-19T08:54:30Z" uid="118006" user="vwistuttgart" changeset="8766127">
+    <nd ref="950657647"/>
+    <nd ref="950658376"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="frequency" v="16.7"/>
+    <tag k="layer" v="1"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="Landsat"/>
+    <tag k="tracks" v="1"/>
+    <tag k="voltage" v="15000"/>
+  </way>
+  <way id="81548310" version="3" timestamp="2011-11-02T00:01:50Z" uid="42429" user="FK270673" changeset="9718158">
+    <nd ref="950657647"/>
+    <nd ref="950658376"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="frequency" v="16.7"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="layer" v="1"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="Landsat"/>
+    <tag k="tracks" v="1"/>
+    <tag k="voltage" v="15000"/>
+  </way>
+  <way id="81548310" version="4" timestamp="2012-01-04T15:15:16Z" uid="136321" user="Teddy73" changeset="10291754">
+    <nd ref="950657647"/>
+    <nd ref="1576875743"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="frequency" v="16.7"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="layer" v="1"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="Landsat"/>
+    <tag k="tracks" v="1"/>
+    <tag k="voltage" v="15000"/>
+  </way>
+  <way id="81548310" version="5" timestamp="2012-01-04T15:44:47Z" uid="136321" user="Teddy73" changeset="10291754"/>
+  <way id="81548311" version="1" timestamp="2010-10-15T18:54:29Z" uid="9581" user="Lobelt" changeset="6051444">
+    <nd ref="950657936"/>
+    <nd ref="242129126"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Herrengasse"/>
+    <tag k="surface" v="paved"/>
+    <tag k="width" v="4"/>
+  </way>
+  <way id="81548311" version="2" timestamp="2012-01-04T11:41:12Z" uid="136321" user="Teddy73" changeset="10289496"/>
+  <way id="81548312" version="1" timestamp="2010-10-15T18:54:30Z" uid="9581" user="Lobelt" changeset="6051444">
+    <nd ref="950658364"/>
+    <nd ref="950658129"/>
+    <tag k="railway" v="rail"/>
+  </way>
+  <way id="81548312" version="2" timestamp="2011-08-01T13:06:50Z" uid="118006" user="vwistuttgart" changeset="8890653">
+    <nd ref="950658364"/>
+    <nd ref="950658129"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="railway" v="rail"/>
+    <tag k="tracks" v="1"/>
+  </way>
+  <way id="81548312" version="3" timestamp="2012-01-04T11:20:03Z" uid="136321" user="Teddy73" changeset="10289496"/>
+  <way id="81548313" version="1" timestamp="2010-10-15T18:54:30Z" uid="9581" user="Lobelt" changeset="6051444">
+    <nd ref="950658006"/>
+    <nd ref="950658336"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="layer" v="1"/>
+    <tag k="railway" v="rail"/>
+  </way>
+  <way id="81548313" version="2" timestamp="2011-07-19T08:54:30Z" uid="118006" user="vwistuttgart" changeset="8766127">
+    <nd ref="950658006"/>
+    <nd ref="950658336"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="layer" v="1"/>
+    <tag k="railway" v="rail"/>
+    <tag k="tracks" v="1"/>
+  </way>
+  <way id="81548313" version="3" timestamp="2012-01-04T11:20:02Z" uid="136321" user="Teddy73" changeset="10289496">
+    <nd ref="1576568441"/>
+    <nd ref="950658336"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="layer" v="1"/>
+    <tag k="railway" v="rail"/>
+    <tag k="tracks" v="1"/>
+  </way>
+  <way id="81548313" version="4" timestamp="2012-01-04T15:15:21Z" uid="136321" user="Teddy73" changeset="10291754"/>
+  <way id="81548315" version="1" timestamp="2010-10-15T18:54:30Z" uid="9581" user="Lobelt" changeset="6051444">
+    <nd ref="950658066"/>
+    <nd ref="950658388"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="layer" v="1"/>
+    <tag k="railway" v="rail"/>
+  </way>
+  <way id="81548315" version="2" timestamp="2011-07-19T08:54:31Z" uid="118006" user="vwistuttgart" changeset="8766127">
+    <nd ref="950658066"/>
+    <nd ref="950658388"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="layer" v="1"/>
+    <tag k="railway" v="rail"/>
+    <tag k="tracks" v="1"/>
+  </way>
+  <way id="81548315" version="3" timestamp="2012-01-04T15:15:15Z" uid="136321" user="Teddy73" changeset="10291754">
+    <nd ref="1576875741"/>
+    <nd ref="950658388"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="layer" v="1"/>
+    <tag k="railway" v="rail"/>
+    <tag k="tracks" v="1"/>
+  </way>
+  <way id="81548315" version="4" timestamp="2012-01-04T15:44:46Z" uid="136321" user="Teddy73" changeset="10291754"/>
+  <way id="81548316" version="1" timestamp="2010-10-15T18:54:30Z" uid="9581" user="Lobelt" changeset="6051444">
+    <nd ref="950658241"/>
+    <nd ref="950658544"/>
+    <nd ref="950658402"/>
+    <nd ref="950657673"/>
+    <nd ref="950657772"/>
+    <nd ref="950658071"/>
+    <nd ref="950658366"/>
+    <nd ref="950658661"/>
+    <nd ref="950658609"/>
+    <nd ref="950657671"/>
+    <nd ref="950657996"/>
+    <nd ref="950658069"/>
+    <nd ref="950658396"/>
+    <nd ref="950658471"/>
+    <nd ref="950657764"/>
+    <nd ref="950657873"/>
+    <nd ref="950658156"/>
+    <nd ref="950658249"/>
+    <nd ref="950657944"/>
+    <nd ref="950658005"/>
+    <nd ref="950658332"/>
+    <nd ref="950658046"/>
+    <nd ref="950658122"/>
+    <nd ref="950658442"/>
+    <nd ref="950657662"/>
+    <nd ref="950657940"/>
+    <nd ref="950658244"/>
+    <nd ref="950658328"/>
+    <nd ref="950658618"/>
+    <nd ref="950658507"/>
+    <nd ref="950658659"/>
+    <nd ref="950657975"/>
+    <nd ref="950658040"/>
+    <nd ref="950658364"/>
+    <nd ref="950658438"/>
+    <nd ref="950657724"/>
+    <nd ref="950657833"/>
+    <nd ref="950658110"/>
+    <nd ref="950658006"/>
+    <tag k="railway" v="rail"/>
+  </way>
+  <way id="81548316" version="2" timestamp="2011-07-19T08:54:48Z" uid="118006" user="vwistuttgart" changeset="8766127">
+    <nd ref="950658241"/>
+    <nd ref="950658544"/>
+    <nd ref="950658402"/>
+    <nd ref="950657673"/>
+    <nd ref="950657772"/>
+    <nd ref="950658071"/>
+    <nd ref="950658366"/>
+    <nd ref="950658661"/>
+    <nd ref="950658609"/>
+    <nd ref="950657671"/>
+    <nd ref="950657996"/>
+    <nd ref="950658069"/>
+    <nd ref="950658396"/>
+    <nd ref="950658471"/>
+    <nd ref="950657764"/>
+    <nd ref="950657873"/>
+    <nd ref="950658156"/>
+    <nd ref="950658249"/>
+    <nd ref="950657944"/>
+    <nd ref="950658005"/>
+    <nd ref="950658332"/>
+    <nd ref="950658046"/>
+    <nd ref="950658122"/>
+    <nd ref="950658442"/>
+    <nd ref="950657662"/>
+    <nd ref="950657940"/>
+    <nd ref="950658244"/>
+    <nd ref="950658328"/>
+    <nd ref="950658618"/>
+    <nd ref="950658507"/>
+    <nd ref="950658659"/>
+    <nd ref="950657975"/>
+    <nd ref="950658040"/>
+    <nd ref="950658364"/>
+    <nd ref="950658438"/>
+    <nd ref="950657724"/>
+    <nd ref="950657833"/>
+    <nd ref="950658110"/>
+    <nd ref="950658006"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="railway" v="rail"/>
+    <tag k="tracks" v="1"/>
+  </way>
+  <way id="81548316" version="3" timestamp="2012-01-04T11:20:03Z" uid="136321" user="Teddy73" changeset="10289496"/>
+  <way id="81548317" version="1" timestamp="2010-10-15T18:54:31Z" uid="9581" user="Lobelt" changeset="6051444">
+    <nd ref="950657720"/>
+    <nd ref="950657920"/>
+    <nd ref="950657781"/>
+    <nd ref="950658074"/>
+    <nd ref="950658162"/>
+    <nd ref="950658479"/>
+    <nd ref="950658565"/>
+    <nd ref="950657877"/>
+    <nd ref="950657720"/>
+    <tag k="power" v="station"/>
+  </way>
+  <way id="81548317" version="2" timestamp="2012-01-04T12:05:09Z" uid="136321" user="Teddy73" changeset="10289496"/>
+  <way id="81548319" version="1" timestamp="2010-10-15T18:54:31Z" uid="9581" user="Lobelt" changeset="6051444">
+    <nd ref="950657885"/>
+    <nd ref="950657957"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="layer" v="1"/>
+    <tag k="railway" v="rail"/>
+  </way>
+  <way id="81548319" version="2" timestamp="2011-07-19T08:54:29Z" uid="118006" user="vwistuttgart" changeset="8766127">
+    <nd ref="950657885"/>
+    <nd ref="950657957"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="layer" v="1"/>
+    <tag k="railway" v="rail"/>
+    <tag k="tracks" v="1"/>
+  </way>
+  <way id="81548319" version="3" timestamp="2012-01-04T15:44:47Z" uid="136321" user="Teddy73" changeset="10291754"/>
+  <way id="81548320" version="1" timestamp="2010-10-15T18:54:31Z" uid="9581" user="Lobelt" changeset="6051444">
+    <nd ref="950657850"/>
+    <nd ref="701221995"/>
+    <nd ref="950658538"/>
+    <nd ref="950658452"/>
+    <nd ref="950658129"/>
+    <nd ref="185485495"/>
+    <nd ref="950658051"/>
+    <nd ref="701222000"/>
+    <nd ref="950657741"/>
+    <nd ref="950657811"/>
+    <nd ref="950657854"/>
+    <nd ref="185485506"/>
+    <nd ref="950658138"/>
+    <nd ref="950658457"/>
+    <nd ref="950657747"/>
+    <nd ref="243836897"/>
+    <nd ref="950657728"/>
+    <nd ref="185485519"/>
+    <nd ref="243836915"/>
+    <nd ref="950658634"/>
+    <nd ref="950658554"/>
+    <nd ref="701221945"/>
+    <nd ref="950657841"/>
+    <nd ref="185485530"/>
+    <nd ref="950658049"/>
+    <nd ref="950657740"/>
+    <nd ref="701221940"/>
+    <nd ref="950657651"/>
+    <nd ref="950658378"/>
+    <nd ref="701221943"/>
+    <nd ref="950658310"/>
+    <nd ref="185485455"/>
+    <nd ref="950658412"/>
+    <nd ref="950658485"/>
+    <nd ref="950657888"/>
+    <nd ref="950657793"/>
+    <nd ref="185485466"/>
+    <nd ref="950658087"/>
+    <nd ref="950658483"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="frequency" v="16.7"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="Landsat"/>
+    <tag k="voltage" v="15000"/>
+  </way>
+  <way id="81548320" version="2" timestamp="2011-07-19T08:54:47Z" uid="118006" user="vwistuttgart" changeset="8766127">
+    <nd ref="950657850"/>
+    <nd ref="701221995"/>
+    <nd ref="950658538"/>
+    <nd ref="950658452"/>
+    <nd ref="950658129"/>
+    <nd ref="185485495"/>
+    <nd ref="950658051"/>
+    <nd ref="701222000"/>
+    <nd ref="950657741"/>
+    <nd ref="950657811"/>
+    <nd ref="950657854"/>
+    <nd ref="185485506"/>
+    <nd ref="950658138"/>
+    <nd ref="950658457"/>
+    <nd ref="950657747"/>
+    <nd ref="243836897"/>
+    <nd ref="950657728"/>
+    <nd ref="185485519"/>
+    <nd ref="243836915"/>
+    <nd ref="950658634"/>
+    <nd ref="950658554"/>
+    <nd ref="701221945"/>
+    <nd ref="950657841"/>
+    <nd ref="185485530"/>
+    <nd ref="950658049"/>
+    <nd ref="950657740"/>
+    <nd ref="701221940"/>
+    <nd ref="950657651"/>
+    <nd ref="950658378"/>
+    <nd ref="701221943"/>
+    <nd ref="950658310"/>
+    <nd ref="185485455"/>
+    <nd ref="950658412"/>
+    <nd ref="950658485"/>
+    <nd ref="950657888"/>
+    <nd ref="950657793"/>
+    <nd ref="185485466"/>
+    <nd ref="950658087"/>
+    <nd ref="950658483"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="frequency" v="16.7"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="Landsat"/>
+    <tag k="tracks" v="1"/>
+    <tag k="voltage" v="15000"/>
+  </way>
+  <way id="81548320" version="3" timestamp="2011-11-02T00:11:20Z" uid="42429" user="FK270673" changeset="9718158">
+    <nd ref="950657850"/>
+    <nd ref="701221995"/>
+    <nd ref="950658538"/>
+    <nd ref="950658452"/>
+    <nd ref="950658129"/>
+    <nd ref="185485495"/>
+    <nd ref="950658051"/>
+    <nd ref="701222000"/>
+    <nd ref="950657741"/>
+    <nd ref="950657811"/>
+    <nd ref="950657854"/>
+    <nd ref="185485506"/>
+    <nd ref="950658138"/>
+    <nd ref="950658457"/>
+    <nd ref="950657747"/>
+    <nd ref="243836897"/>
+    <nd ref="950657728"/>
+    <nd ref="185485519"/>
+    <nd ref="243836915"/>
+    <nd ref="950658634"/>
+    <nd ref="950658554"/>
+    <nd ref="701221945"/>
+    <nd ref="950657841"/>
+    <nd ref="185485530"/>
+    <nd ref="950658049"/>
+    <nd ref="950657740"/>
+    <nd ref="701221940"/>
+    <nd ref="950657651"/>
+    <nd ref="950658378"/>
+    <nd ref="701221943"/>
+    <nd ref="950658310"/>
+    <nd ref="185485455"/>
+    <nd ref="950658412"/>
+    <nd ref="950658485"/>
+    <nd ref="950657888"/>
+    <nd ref="950657793"/>
+    <nd ref="185485466"/>
+    <nd ref="950658087"/>
+    <nd ref="950658483"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="frequency" v="16.7"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="Landsat"/>
+    <tag k="tracks" v="1"/>
+    <tag k="voltage" v="15000"/>
+  </way>
+  <way id="81548320" version="4" timestamp="2012-01-04T11:20:03Z" uid="136321" user="Teddy73" changeset="10289496"/>
+  <way id="81548322" version="1" timestamp="2010-10-15T18:54:32Z" uid="9581" user="Lobelt" changeset="6051444">
+    <nd ref="950658025"/>
+    <nd ref="34968281"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="81548322" version="2" timestamp="2012-01-04T11:41:13Z" uid="136321" user="Teddy73" changeset="10289496"/>
+  <way id="81548323" version="1" timestamp="2010-10-15T18:54:33Z" uid="9581" user="Lobelt" changeset="6051444">
+    <nd ref="950658132"/>
+    <nd ref="950658241"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="layer" v="1"/>
+    <tag k="railway" v="rail"/>
+  </way>
+  <way id="81548323" version="2" timestamp="2011-07-19T08:54:35Z" uid="118006" user="vwistuttgart" changeset="8766127">
+    <nd ref="950658132"/>
+    <nd ref="950658241"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="layer" v="1"/>
+    <tag k="railway" v="rail"/>
+    <tag k="tracks" v="1"/>
+  </way>
+  <way id="81548323" version="3" timestamp="2012-01-04T10:54:13Z" uid="136321" user="Teddy73" changeset="10289496"/>
+  <way id="81548324" version="1" timestamp="2010-10-15T18:54:33Z" uid="9581" user="Lobelt" changeset="6051444">
+    <nd ref="321772167"/>
+    <nd ref="950658125"/>
+    <nd ref="950658443"/>
+    <nd ref="950658530"/>
+    <nd ref="950657838"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="81548324" version="2" timestamp="2012-01-04T15:15:21Z" uid="136321" user="Teddy73" changeset="10291754"/>
+  <way id="81548325" version="1" timestamp="2010-10-15T18:54:33Z" uid="9581" user="Lobelt" changeset="6051444">
+    <nd ref="290395321"/>
+    <nd ref="290395329"/>
+    <nd ref="950658629"/>
+    <nd ref="290395334"/>
+    <nd ref="502926288"/>
+    <nd ref="290395340"/>
+    <nd ref="502926290"/>
+    <nd ref="290395345"/>
+    <nd ref="502926292"/>
+    <nd ref="290395353"/>
+    <nd ref="562620426"/>
+    <nd ref="950657858"/>
+    <nd ref="290395361"/>
+    <nd ref="290395369"/>
+    <nd ref="290395376"/>
+    <nd ref="290395384"/>
+    <nd ref="290395389"/>
+    <nd ref="290395394"/>
+    <nd ref="290395399"/>
+    <nd ref="282524678"/>
+    <tag k="highway" v="track"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tracktype" v="grade1"/>
+  </way>
+  <way id="81548325" version="2" timestamp="2012-01-04T12:36:24Z" uid="136321" user="Teddy73" changeset="10289496"/>
+  <way id="81548326" version="1" timestamp="2010-10-15T18:54:34Z" uid="9581" user="Lobelt" changeset="6051444">
+    <nd ref="950657809"/>
+    <nd ref="950657960"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="frequency" v="16.7"/>
+    <tag k="layer" v="1"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="Landsat"/>
+    <tag k="voltage" v="15000"/>
+  </way>
+  <way id="81548326" version="2" timestamp="2011-07-19T08:54:29Z" uid="118006" user="vwistuttgart" changeset="8766127">
+    <nd ref="950657809"/>
+    <nd ref="950657960"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="frequency" v="16.7"/>
+    <tag k="layer" v="1"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="Landsat"/>
+    <tag k="tracks" v="1"/>
+    <tag k="voltage" v="15000"/>
+  </way>
+  <way id="81548326" version="3" timestamp="2011-11-01T23:58:13Z" uid="42429" user="FK270673" changeset="9718158">
+    <nd ref="950657809"/>
+    <nd ref="950657960"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="frequency" v="16.7"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="layer" v="1"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="Landsat"/>
+    <tag k="tracks" v="1"/>
+    <tag k="voltage" v="15000"/>
+  </way>
+  <way id="81548326" version="4" timestamp="2012-01-04T15:44:46Z" uid="136321" user="Teddy73" changeset="10291754"/>
+  <way id="81548327" version="1" timestamp="2010-10-15T18:54:34Z" uid="9581" user="Lobelt" changeset="6051444">
+    <nd ref="950658428"/>
+    <nd ref="950658341"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="81548327" version="2" timestamp="2012-01-04T11:41:13Z" uid="136321" user="Teddy73" changeset="10289496"/>
+  <way id="81548328" version="1" timestamp="2010-10-15T18:54:34Z" uid="9581" user="Lobelt" changeset="6051444">
+    <nd ref="950658636"/>
+    <nd ref="950658341"/>
+    <nd ref="950657700"/>
+    <nd ref="950658014"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="81548328" version="2" timestamp="2012-01-04T11:41:13Z" uid="136321" user="Teddy73" changeset="10289496"/>
+  <way id="81548329" version="1" timestamp="2010-10-15T18:54:34Z" uid="9581" user="Lobelt" changeset="6051444">
+    <nd ref="950658044"/>
+    <nd ref="950657838"/>
+    <nd ref="950658369"/>
+    <nd ref="950658441"/>
+    <nd ref="950657727"/>
+    <tag k="railway" v="platform"/>
+  </way>
+  <way id="81548329" version="2" timestamp="2012-01-04T15:15:20Z" uid="136321" user="Teddy73" changeset="10291754"/>
+  <way id="81548330" version="1" timestamp="2010-10-15T18:54:34Z" uid="9581" user="Lobelt" changeset="6051444">
+    <nd ref="950658568"/>
+    <nd ref="321771385"/>
+    <tag k="highway" v="unclassified"/>
+  </way>
+  <way id="81548330" version="2" timestamp="2012-01-04T15:06:55Z" uid="136321" user="Teddy73" changeset="10291754"/>
+  <way id="81548332" version="1" timestamp="2010-10-15T18:54:35Z" uid="9581" user="Lobelt" changeset="6051444">
+    <nd ref="950658516"/>
+    <nd ref="950658107"/>
+    <nd ref="950658527"/>
+    <nd ref="950658481"/>
+    <nd ref="950658516"/>
+    <tag k="landuse" v="basin"/>
+  </way>
+  <way id="81548332" version="2" timestamp="2012-01-04T10:47:27Z" uid="136321" user="Teddy73" changeset="10289496"/>
+  <way id="81548333" version="1" timestamp="2010-10-15T18:54:35Z" uid="9581" user="Lobelt" changeset="6051444">
+    <nd ref="950658200"/>
+    <nd ref="950658274"/>
+    <nd ref="950658354"/>
+    <nd ref="242129099"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="81548333" version="2" timestamp="2012-01-04T11:41:13Z" uid="136321" user="Teddy73" changeset="10289496"/>
+  <way id="81548334" version="1" timestamp="2010-10-15T18:54:35Z" uid="9581" user="Lobelt" changeset="6051444">
+    <nd ref="950658528"/>
+    <nd ref="950657895"/>
+    <nd ref="282715610"/>
+    <tag k="waterway" v="weir"/>
+  </way>
+  <way id="81548334" version="2" timestamp="2012-01-04T10:47:26Z" uid="136321" user="Teddy73" changeset="10289496"/>
+  <way id="81548335" version="1" timestamp="2010-10-15T18:54:35Z" uid="9581" user="Lobelt" changeset="6051444">
+    <nd ref="950658376"/>
+    <nd ref="950658029"/>
+    <nd ref="950658247"/>
+    <nd ref="950657933"/>
+    <nd ref="950657880"/>
+    <nd ref="701221994"/>
+    <nd ref="950658151"/>
+    <nd ref="185485557"/>
+    <nd ref="950658207"/>
+    <nd ref="950657917"/>
+    <nd ref="950657814"/>
+    <nd ref="185485564"/>
+    <nd ref="950658509"/>
+    <nd ref="185485570"/>
+    <nd ref="950658424"/>
+    <nd ref="701221998"/>
+    <nd ref="950658096"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="frequency" v="16.7"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="Landsat"/>
+    <tag k="voltage" v="15000"/>
+  </way>
+  <way id="81548335" version="2" timestamp="2011-07-19T08:54:26Z" uid="118006" user="vwistuttgart" changeset="8766127">
+    <nd ref="950658376"/>
+    <nd ref="950658029"/>
+    <nd ref="950658247"/>
+    <nd ref="950657933"/>
+    <nd ref="950657880"/>
+    <nd ref="701221994"/>
+    <nd ref="950658151"/>
+    <nd ref="185485557"/>
+    <nd ref="950658207"/>
+    <nd ref="950657917"/>
+    <nd ref="950657814"/>
+    <nd ref="185485564"/>
+    <nd ref="950658509"/>
+    <nd ref="185485570"/>
+    <nd ref="950658424"/>
+    <nd ref="701221998"/>
+    <nd ref="950658096"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="frequency" v="16.7"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="Landsat"/>
+    <tag k="tracks" v="1"/>
+    <tag k="voltage" v="15000"/>
+  </way>
+  <way id="81548335" version="3" timestamp="2011-11-01T23:54:12Z" uid="42429" user="FK270673" changeset="9718158">
+    <nd ref="950658376"/>
+    <nd ref="950658029"/>
+    <nd ref="950658247"/>
+    <nd ref="950657933"/>
+    <nd ref="950657880"/>
+    <nd ref="701221994"/>
+    <nd ref="950658151"/>
+    <nd ref="185485557"/>
+    <nd ref="950658207"/>
+    <nd ref="950657917"/>
+    <nd ref="950657814"/>
+    <nd ref="185485564"/>
+    <nd ref="950658509"/>
+    <nd ref="185485570"/>
+    <nd ref="950658424"/>
+    <nd ref="701221998"/>
+    <nd ref="950658096"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="frequency" v="16.7"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="Landsat"/>
+    <tag k="tracks" v="1"/>
+    <tag k="voltage" v="15000"/>
+  </way>
+  <way id="81548335" version="4" timestamp="2012-01-04T15:15:19Z" uid="136321" user="Teddy73" changeset="10291754"/>
+  <way id="81548336" version="1" timestamp="2010-10-15T18:54:36Z" uid="9581" user="Lobelt" changeset="6051444">
+    <nd ref="950658288"/>
+    <nd ref="950657796"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="81548336" version="2" timestamp="2012-01-04T11:41:13Z" uid="136321" user="Teddy73" changeset="10289496"/>
+  <way id="81548337" version="1" timestamp="2010-10-15T18:54:36Z" uid="9581" user="Lobelt" changeset="6051444">
+    <nd ref="950658300"/>
+    <nd ref="950658436"/>
+    <nd ref="950658047"/>
+    <nd ref="950658665"/>
+    <nd ref="950657979"/>
+    <tag k="railway" v="platform"/>
+  </way>
+  <way id="81548337" version="2" timestamp="2012-01-04T15:15:20Z" uid="136321" user="Teddy73" changeset="10291754"/>
+  <way id="81548053" version="2" timestamp="2012-07-17T08:32:24Z" uid="722137" user="OSMF Redaction Account" changeset="12260505"/>
+  <way id="81548054" version="3" timestamp="2012-07-17T08:32:22Z" uid="722137" user="OSMF Redaction Account" changeset="12260505"/>
+  <way id="81548055" version="3" timestamp="2012-07-17T08:32:33Z" uid="722137" user="OSMF Redaction Account" changeset="12260505"/>
+  <way id="81548057" version="3" timestamp="2012-07-17T08:32:32Z" uid="722137" user="OSMF Redaction Account" changeset="12260505"/>
+  <way id="81548058" version="2" timestamp="2012-07-17T08:32:35Z" uid="722137" user="OSMF Redaction Account" changeset="12260514"/>
+  <way id="81548060" version="2" timestamp="2012-07-17T08:32:13Z" uid="722137" user="OSMF Redaction Account" changeset="12260505"/>
+  <way id="81548061" version="2" timestamp="2012-07-17T08:32:21Z" uid="722137" user="OSMF Redaction Account" changeset="12260505"/>
+  <way id="81548063" version="2" timestamp="2012-07-17T08:32:35Z" uid="722137" user="OSMF Redaction Account" changeset="12260514"/>
+  <way id="81548064" version="2" timestamp="2012-07-17T08:32:19Z" uid="722137" user="OSMF Redaction Account" changeset="12260505"/>
+  <way id="81548066" version="3" timestamp="2012-07-17T08:32:20Z" uid="722137" user="OSMF Redaction Account" changeset="12260505"/>
+  <way id="81548067" version="3" timestamp="2012-07-17T08:32:28Z" uid="722137" user="OSMF Redaction Account" changeset="12260505"/>
+  <way id="81548069" version="2" timestamp="2012-07-17T08:32:26Z" uid="722137" user="OSMF Redaction Account" changeset="12260505"/>
+  <way id="81548070" version="2" timestamp="2012-07-17T08:32:28Z" uid="722137" user="OSMF Redaction Account" changeset="12260505"/>
+  <way id="81548072" version="2" timestamp="2012-07-17T08:32:34Z" uid="722137" user="OSMF Redaction Account" changeset="12260505"/>
+  <way id="81548073" version="2" timestamp="2012-07-17T08:32:16Z" uid="722137" user="OSMF Redaction Account" changeset="12260505"/>
+  <way id="81548075" version="2" timestamp="2012-07-17T08:32:21Z" uid="722137" user="OSMF Redaction Account" changeset="12260505"/>
+  <way id="81548076" version="2" timestamp="2012-07-17T08:32:17Z" uid="722137" user="OSMF Redaction Account" changeset="12260505"/>
+  <way id="81548078" version="2" timestamp="2012-07-17T08:32:29Z" uid="722137" user="OSMF Redaction Account" changeset="12260505"/>
+  <way id="81548079" version="3" timestamp="2012-07-17T08:32:29Z" uid="722137" user="OSMF Redaction Account" changeset="12260505"/>
+  <way id="81548254" version="2" timestamp="2012-07-17T08:32:10Z" uid="722137" user="OSMF Redaction Account" changeset="12260505"/>
+</osm>

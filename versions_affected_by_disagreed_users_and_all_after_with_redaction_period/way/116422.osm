@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="116422607" version="1" timestamp="2011-06-05T02:08:38Z" uid="20587" user="balrog-kun" changeset="8344630">
+    <nd ref="1312561804"/>
+    <nd ref="1312561755"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="116422607" version="2" timestamp="2011-06-05T08:48:07Z" uid="30632" user="antblant" changeset="8346551">
+    <nd ref="1312561804"/>
+    <nd ref="1312561755"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="116422608" version="1" timestamp="2011-06-05T02:08:38Z" uid="20587" user="balrog-kun" changeset="8344630">
+    <nd ref="1312561761"/>
+    <nd ref="1312561750"/>
+    <nd ref="1312561765"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxspeed" v="30"/>
+  </way>
+  <way id="116422608" version="2" timestamp="2011-06-05T08:48:06Z" uid="30632" user="antblant" changeset="8346551">
+    <nd ref="1312561761"/>
+    <nd ref="1312561750"/>
+    <nd ref="1312561765"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Kolejowa"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="116422608" version="3" timestamp="2011-06-14T17:44:32Z" uid="20587" user="balrog-kun" changeset="8439800">
+    <nd ref="1325377963"/>
+    <nd ref="1325378302"/>
+    <nd ref="1325378351"/>
+    <nd ref="1325377291"/>
+    <nd ref="1325377589"/>
+    <nd ref="1325377864"/>
+    <nd ref="1325378489"/>
+    <nd ref="1312561761"/>
+    <nd ref="1312561750"/>
+    <nd ref="1312561765"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Kolejowa"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="116422609" version="1" timestamp="2011-06-05T02:08:38Z" uid="20587" user="balrog-kun" changeset="8344630">
+    <nd ref="1312561790"/>
+    <nd ref="1312561802"/>
+    <tag k="fixme" v="yes"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="116422609" version="2" timestamp="2011-06-05T08:48:08Z" uid="30632" user="antblant" changeset="8346551">
+    <nd ref="1312561790"/>
+    <nd ref="1312561802"/>
+    <tag k="fixme" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Warszawska"/>
+  </way>
+</osm>

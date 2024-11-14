@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="46014026" version="4" timestamp="2010-03-29T12:08:42Z" uid="74617" user="JohnSmith" changeset="4266774">
+    <nd ref="586450519"/>
+    <nd ref="677420043"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="Sheahans Bridge"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="46014026" version="5" timestamp="2010-07-25T00:01:28Z" uid="299678" user="peteramjet" changeset="5308050">
+    <nd ref="586450519"/>
+    <nd ref="677420043"/>
+    <tag k="alt_name" v="Sheahans Bridge"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="Hume Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="46014026" version="6" timestamp="2010-07-25T22:06:09Z" uid="4467" user="Rosscoe" changeset="5317153">
+    <nd ref="586450519"/>
+    <nd ref="677420043"/>
+    <tag k="alt_name" v="Sheahans Bridge"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Hume Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="46014026" version="7" timestamp="2011-01-01T11:23:15Z" uid="30201" user="rrankin" changeset="6826816">
+    <nd ref="586450519"/>
+    <nd ref="677420043"/>
+    <tag k="alt_name" v="Sheahans Bridge"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="110"/>
+    <tag k="name" v="Hume Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="46014174" version="2" timestamp="2010-07-25T22:27:16Z" uid="4467" user="Rosscoe" changeset="5317245">
+    <nd ref="265821944"/>
+    <nd ref="265821945"/>
+    <nd ref="265821946"/>
+    <nd ref="265821947"/>
+    <nd ref="265821948"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="layer" v="1"/>
+    <tag k="railway" v="rail"/>
+  </way>
+  <way id="46014183" version="2" timestamp="2010-07-25T22:27:18Z" uid="4467" user="Rosscoe" changeset="5317245">
+    <nd ref="29254594"/>
+    <nd ref="29254595"/>
+    <nd ref="29254596"/>
+    <nd ref="29254597"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="46014186" version="2" timestamp="2010-07-25T22:27:20Z" uid="4467" user="Rosscoe" changeset="5317245">
+    <nd ref="29254595"/>
+    <nd ref="586450555"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="fixme" v="check if other users allowed"/>
+    <tag k="layer" v="1"/>
+    <tag k="note" v="no cars"/>
+    <tag k="source" v="extrapolation"/>
+  </way>
+  <way id="46014026" version="8" timestamp="2012-07-13T12:08:07Z" uid="67896" user="mrpulley" changeset="12205602"/>
+  <way id="46014174" version="3" timestamp="2012-06-21T21:15:57Z" uid="67896" user="mrpulley" changeset="11973079">
+    <nd ref="265821943"/>
+    <nd ref="265821944"/>
+    <nd ref="265821945"/>
+    <nd ref="265821946"/>
+    <nd ref="265821947"/>
+    <nd ref="265821948"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="disused" v="yes"/>
+    <tag k="layer" v="1"/>
+    <tag k="railway" v="rail"/>
+  </way>
+  <way id="46014174" version="4" timestamp="2012-07-19T08:59:37Z" uid="722137" user="OSMF Redaction Account" changeset="12314964">
+    <nd ref="265821943"/>
+    <nd ref="265821944"/>
+    <nd ref="265821945"/>
+    <nd ref="265821946"/>
+    <nd ref="265821947"/>
+    <nd ref="265821948"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="disused" v="yes"/>
+    <tag k="railway" v="rail"/>
+  </way>
+  <way id="46014183" version="3" timestamp="2012-07-19T08:59:37Z" uid="722137" user="OSMF Redaction Account" changeset="12314964">
+    <nd ref="29254594"/>
+    <nd ref="29254595"/>
+    <nd ref="29254596"/>
+    <nd ref="29254597"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="46014183" version="4" timestamp="2012-07-31T10:52:57Z" uid="67896" user="mrpulley" changeset="12559203">
+    <nd ref="29254594"/>
+    <nd ref="29254595"/>
+    <nd ref="29254596"/>
+    <nd ref="29254597"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="network" v="T"/>
+    <tag k="ref" v="6"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="46014186" version="3" timestamp="2012-06-21T21:15:44Z" uid="67896" user="mrpulley" changeset="11973079">
+    <nd ref="29254595"/>
+    <nd ref="586450555"/>
+    <tag k="access" v="no"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="disused"/>
+    <tag k="layer" v="1"/>
+    <tag k="source" v="AGRI"/>
+    <tag k="vehicle" v="no"/>
+  </way>
+  <way id="46014186" version="4" timestamp="2012-07-19T08:59:37Z" uid="722137" user="OSMF Redaction Account" changeset="12314964">
+    <nd ref="29254595"/>
+    <nd ref="586450555"/>
+    <tag k="access" v="no"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="disused"/>
+    <tag k="source" v="AGRI"/>
+    <tag k="vehicle" v="no"/>
+  </way>
+</osm>

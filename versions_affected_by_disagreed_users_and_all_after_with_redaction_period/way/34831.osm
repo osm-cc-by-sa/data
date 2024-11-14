@@ -1,0 +1,5417 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="34831254" version="5" timestamp="2011-05-12T16:21:24Z" uid="33382" user="de_muur" changeset="8123826"/>
+  <way id="34831305" version="6" timestamp="2011-05-10T19:12:29Z" uid="33382" user="de_muur" changeset="8105535">
+    <nd ref="30085647"/>
+    <nd ref="770694588"/>
+    <nd ref="770694550"/>
+    <tag k="cycleway" v="track"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Hauptstraße"/>
+    <tag k="ref" v="L 122"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="34831305" version="7" timestamp="2012-03-03T00:11:03Z" uid="45882" user="smarties" changeset="10853720"/>
+  <way id="34831540" version="2" timestamp="2010-04-26T22:27:20Z" uid="9581" user="Lobelt" changeset="4536963">
+    <nd ref="408093766"/>
+    <nd ref="408093775"/>
+    <nd ref="708246527"/>
+    <nd ref="408093826"/>
+    <tag k="power" v="line"/>
+  </way>
+  <way id="34831540" version="3" timestamp="2010-06-06T11:27:57Z" uid="88186" user="ramtor" changeset="4916684">
+    <nd ref="765674522"/>
+    <nd ref="765674523"/>
+    <nd ref="765674524"/>
+    <nd ref="408093766"/>
+    <nd ref="408093775"/>
+    <nd ref="708246527"/>
+    <nd ref="408093826"/>
+    <tag k="power" v="line"/>
+  </way>
+  <way id="34831540" version="4" timestamp="2011-07-06T21:52:29Z" uid="92274" user="adjuva" changeset="8652780">
+    <nd ref="765674522"/>
+    <nd ref="765674523"/>
+    <nd ref="765674524"/>
+    <nd ref="408093766"/>
+    <nd ref="408093775"/>
+    <nd ref="708246527"/>
+    <nd ref="1351871420"/>
+    <nd ref="1351871411"/>
+    <tag k="frequency" v="50"/>
+    <tag k="power" v="line"/>
+    <tag k="voltage" v="110000"/>
+  </way>
+  <way id="34831540" version="5" timestamp="2011-09-17T09:40:03Z" uid="123364" user="Tronikon" changeset="9322311"/>
+  <way id="34831574" version="6" timestamp="2011-05-12T16:37:51Z" uid="33382" user="de_muur" changeset="8123965">
+    <nd ref="408094277"/>
+    <nd ref="649114659"/>
+    <nd ref="30459544"/>
+    <nd ref="769414279"/>
+    <nd ref="30459545"/>
+    <nd ref="769414287"/>
+    <nd ref="30459546"/>
+    <nd ref="769414217"/>
+    <nd ref="30459547"/>
+    <nd ref="770694757"/>
+    <tag k="cycleway" v="track"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Hauptstraße"/>
+    <tag k="ref" v="K 114"/>
+    <tag k="surface" v="paved"/>
+    <tag k="width" v="6"/>
+  </way>
+  <way id="34831574" version="7" timestamp="2012-03-08T16:31:05Z" uid="45882" user="smarties" changeset="10910827"/>
+  <way id="34831600" version="3" timestamp="2010-03-22T06:29:17Z" uid="20587" user="balrog-kun" changeset="4199043">
+    <nd ref="39565750"/>
+    <nd ref="408094458"/>
+    <nd ref="408094459"/>
+    <nd ref="408094242"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Scotts Valley Road"/>
+  </way>
+  <way id="34831600" version="4" timestamp="2011-01-17T19:37:52Z" uid="373763" user="ylekot" changeset="7003278">
+    <nd ref="39565750"/>
+    <nd ref="408094458"/>
+    <nd ref="408094459"/>
+    <nd ref="408094242"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Scotts Valley Road"/>
+    <tag k="ref" v="CR 8"/>
+  </way>
+  <way id="34831606" version="4" timestamp="2010-03-22T06:29:17Z" uid="20587" user="balrog-kun" changeset="4199043">
+    <nd ref="39323595"/>
+    <nd ref="39323597"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="I-5"/>
+    <tag k="name_1" v="State Highway 99"/>
+    <tag k="name_2" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 5"/>
+    <tag k="tiger:cfcc" v="A11"/>
+    <tag k="tiger:county" v="Douglas, OR"/>
+    <tag k="tiger:name_base" v="I-5"/>
+    <tag k="tiger:name_base_1" v="State Highway 99"/>
+    <tag k="tiger:name_base_2" v="Pacific"/>
+    <tag k="tiger:name_type_2" v="Hwy"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070808"/>
+    <tag k="tiger:tlid" v="137198478:137228960:137242603:137200095:137200203:137200326:137225448:137198465"/>
+  </way>
+  <way id="34831606" version="5" timestamp="2011-01-17T19:46:49Z" uid="373763" user="ylekot" changeset="7003278">
+    <nd ref="39323595"/>
+    <nd ref="39323597"/>
+    <tag k="alt_name" v="Pacific Highway #1"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Interstate 5"/>
+    <tag k="name_1" v="State Highway 99"/>
+    <tag k="name_2" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 5"/>
+    <tag k="tiger:cfcc" v="A11"/>
+    <tag k="tiger:county" v="Douglas, OR"/>
+    <tag k="tiger:name_base" v="I-5"/>
+    <tag k="tiger:name_base_1" v="State Highway 99"/>
+    <tag k="tiger:name_base_2" v="Pacific"/>
+    <tag k="tiger:name_type_2" v="Hwy"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070808"/>
+    <tag k="tiger:tlid" v="137198478:137228960:137242603:137200095:137200203:137200326:137225448:137198465"/>
+  </way>
+  <way id="34831606" version="6" timestamp="2011-03-26T01:20:41Z" uid="92286" user="Paul Johnson" changeset="7670923">
+    <nd ref="39323595"/>
+    <nd ref="39323597"/>
+    <tag k="alt_name" v="Pacific Highway #1"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Interstate 5"/>
+    <tag k="name_1" v="State Highway 99"/>
+    <tag k="name_2" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 5"/>
+    <tag k="tiger:cfcc" v="A11"/>
+    <tag k="tiger:county" v="Douglas, OR"/>
+    <tag k="tiger:name_base" v="I-5"/>
+    <tag k="tiger:name_base_1" v="State Highway 99"/>
+    <tag k="tiger:name_base_2" v="Pacific"/>
+    <tag k="tiger:name_type_2" v="Hwy"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070808"/>
+    <tag k="tiger:tlid" v="137198478:137228960:137242603:137200095:137200203:137200326:137225448:137198465"/>
+  </way>
+  <way id="34831606" version="7" timestamp="2011-07-31T13:39:22Z" uid="207745" user="NE2" changeset="8880952">
+    <nd ref="39323595"/>
+    <nd ref="39323597"/>
+    <tag k="alt_name" v="Pacific Highway #1"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 5"/>
+    <tag k="tiger:cfcc" v="A11"/>
+    <tag k="tiger:county" v="Douglas, OR"/>
+    <tag k="tiger:name_base" v="I-5"/>
+    <tag k="tiger:name_base_1" v="State Highway 99"/>
+    <tag k="tiger:name_base_2" v="Pacific"/>
+    <tag k="tiger:name_type_2" v="Hwy"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070808"/>
+    <tag k="tiger:tlid" v="137198478:137228960:137242603:137200095:137200203:137200326:137225448:137198465"/>
+  </way>
+  <way id="34831606" version="8" timestamp="2011-08-02T22:19:50Z" uid="207745" user="NE2" changeset="8905725">
+    <nd ref="39323595"/>
+    <nd ref="39323597"/>
+    <tag k="alt_name" v="Pacific Highway #1"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 5"/>
+    <tag k="tiger:cfcc" v="A11"/>
+    <tag k="tiger:county" v="Douglas, OR"/>
+    <tag k="tiger:name_base" v="I-5"/>
+    <tag k="tiger:name_base_1" v="State Highway 99"/>
+    <tag k="tiger:name_base_2" v="Pacific"/>
+    <tag k="tiger:name_type_2" v="Hwy"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070808"/>
+    <tag k="tiger:tlid" v="137198478:137228960:137242603:137200095:137200203:137200326:137225448:137198465"/>
+  </way>
+  <way id="34831606" version="9" timestamp="2011-11-25T17:17:32Z" uid="207745" user="NE2" changeset="9945867">
+    <nd ref="39323595"/>
+    <nd ref="39323597"/>
+    <tag k="alt_name" v="Pacific Highway #1"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 5"/>
+    <tag k="tiger:cfcc" v="A11"/>
+    <tag k="tiger:county" v="Douglas, OR"/>
+    <tag k="tiger:name_base" v="I-5"/>
+    <tag k="tiger:name_base_1" v="State Highway 99"/>
+    <tag k="tiger:name_base_2" v="Pacific"/>
+    <tag k="tiger:name_type_2" v="Hwy"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070808"/>
+    <tag k="tiger:tlid" v="137198478:137228960:137242603:137200095:137200203:137200326:137225448:137198465"/>
+  </way>
+  <way id="34831608" version="28" timestamp="2010-03-22T06:29:17Z" uid="20587" user="balrog-kun" changeset="4199043">
+    <nd ref="39323597"/>
+    <nd ref="39323599"/>
+    <nd ref="39323601"/>
+    <nd ref="39323603"/>
+    <nd ref="39323605"/>
+    <nd ref="39323606"/>
+    <nd ref="39323610"/>
+    <nd ref="408094519"/>
+    <nd ref="39323613"/>
+    <nd ref="408094520"/>
+    <nd ref="39323614"/>
+    <nd ref="39323615"/>
+    <nd ref="39323616"/>
+    <nd ref="408773406"/>
+    <nd ref="39323617"/>
+    <nd ref="39323619"/>
+    <nd ref="39323622"/>
+    <nd ref="39323631"/>
+    <nd ref="39323632"/>
+    <nd ref="408094709"/>
+    <nd ref="39323633"/>
+    <nd ref="408094715"/>
+    <nd ref="408094723"/>
+    <nd ref="408094725"/>
+    <nd ref="39323637"/>
+    <nd ref="39323645"/>
+    <nd ref="408137633"/>
+    <nd ref="408137634"/>
+    <nd ref="408137637"/>
+    <nd ref="39323650"/>
+    <nd ref="408138391"/>
+    <nd ref="39323653"/>
+    <nd ref="39323654"/>
+    <nd ref="39323657"/>
+    <nd ref="39323659"/>
+    <nd ref="408142543"/>
+    <nd ref="408142545"/>
+    <nd ref="408142547"/>
+    <nd ref="39323662"/>
+    <nd ref="39323664"/>
+    <nd ref="408142553"/>
+    <nd ref="408142555"/>
+    <nd ref="39323666"/>
+    <nd ref="39323667"/>
+    <nd ref="408144664"/>
+    <nd ref="39323670"/>
+    <nd ref="39323671"/>
+    <nd ref="39323674"/>
+    <nd ref="39323676"/>
+    <nd ref="39323678"/>
+    <nd ref="39323681"/>
+    <nd ref="39323682"/>
+    <nd ref="39323683"/>
+    <nd ref="408147375"/>
+    <nd ref="39323686"/>
+    <nd ref="39323687"/>
+    <nd ref="408149961"/>
+    <nd ref="39323688"/>
+    <nd ref="39323691"/>
+    <nd ref="39323695"/>
+    <nd ref="39323698"/>
+    <nd ref="408151437"/>
+    <nd ref="39323701"/>
+    <nd ref="408151439"/>
+    <nd ref="39323703"/>
+    <nd ref="39323705"/>
+    <nd ref="408151446"/>
+    <nd ref="408151447"/>
+    <nd ref="39323708"/>
+    <nd ref="408151453"/>
+    <nd ref="39323711"/>
+    <nd ref="39323714"/>
+    <nd ref="39323716"/>
+    <nd ref="39323718"/>
+    <nd ref="408152367"/>
+    <nd ref="39323720"/>
+    <nd ref="408154390"/>
+    <nd ref="39323723"/>
+    <nd ref="408154393"/>
+    <nd ref="39323725"/>
+    <nd ref="408154396"/>
+    <nd ref="39321778"/>
+    <nd ref="39323731"/>
+    <nd ref="39323734"/>
+    <nd ref="39323737"/>
+    <nd ref="39323742"/>
+    <nd ref="39323746"/>
+    <nd ref="39323747"/>
+    <nd ref="39323750"/>
+    <nd ref="39323755"/>
+    <nd ref="39323758"/>
+    <nd ref="408450858"/>
+    <nd ref="408450859"/>
+    <nd ref="408450860"/>
+    <nd ref="408450861"/>
+    <nd ref="408450862"/>
+    <nd ref="408450867"/>
+    <nd ref="408450868"/>
+    <nd ref="39323761"/>
+    <nd ref="39323768"/>
+    <nd ref="38363293"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="I-5"/>
+    <tag k="name_1" v="State Highway 99"/>
+    <tag k="name_2" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 5"/>
+    <tag k="tiger:cfcc" v="A11"/>
+    <tag k="tiger:county" v="Douglas, OR"/>
+    <tag k="tiger:name_base" v="I-5"/>
+    <tag k="tiger:name_base_1" v="State Highway 99"/>
+    <tag k="tiger:name_base_2" v="Pacific"/>
+    <tag k="tiger:name_type_2" v="Hwy"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070808"/>
+    <tag k="tiger:tlid" v="137198478:137228960:137242603:137200095:137200203:137200326:137225448:137198465"/>
+  </way>
+  <way id="34831608" version="29" timestamp="2011-01-17T19:46:50Z" uid="373763" user="ylekot" changeset="7003278">
+    <nd ref="39323597"/>
+    <nd ref="39323599"/>
+    <nd ref="39323601"/>
+    <nd ref="39323603"/>
+    <nd ref="39323605"/>
+    <nd ref="39323606"/>
+    <nd ref="39323610"/>
+    <nd ref="408094519"/>
+    <nd ref="39323613"/>
+    <nd ref="408094520"/>
+    <nd ref="39323614"/>
+    <nd ref="39323615"/>
+    <nd ref="39323616"/>
+    <nd ref="408773406"/>
+    <nd ref="39323617"/>
+    <nd ref="39323619"/>
+    <nd ref="39323622"/>
+    <nd ref="39323631"/>
+    <nd ref="39323632"/>
+    <nd ref="408094709"/>
+    <nd ref="39323633"/>
+    <nd ref="408094715"/>
+    <nd ref="408094723"/>
+    <nd ref="408094725"/>
+    <nd ref="39323637"/>
+    <nd ref="39323645"/>
+    <nd ref="408137633"/>
+    <nd ref="408137634"/>
+    <nd ref="408137637"/>
+    <nd ref="39323650"/>
+    <nd ref="408138391"/>
+    <nd ref="39323653"/>
+    <nd ref="39323654"/>
+    <nd ref="39323657"/>
+    <nd ref="39323659"/>
+    <nd ref="408142543"/>
+    <nd ref="408142545"/>
+    <nd ref="408142547"/>
+    <nd ref="39323662"/>
+    <nd ref="39323664"/>
+    <nd ref="408142553"/>
+    <nd ref="408142555"/>
+    <nd ref="39323666"/>
+    <nd ref="39323667"/>
+    <nd ref="408144664"/>
+    <nd ref="39323670"/>
+    <nd ref="39323671"/>
+    <nd ref="39323674"/>
+    <nd ref="39323676"/>
+    <nd ref="39323678"/>
+    <nd ref="39323681"/>
+    <nd ref="39323682"/>
+    <nd ref="39323683"/>
+    <nd ref="408147375"/>
+    <nd ref="39323686"/>
+    <nd ref="39323687"/>
+    <nd ref="408149961"/>
+    <nd ref="39323688"/>
+    <nd ref="39323691"/>
+    <nd ref="39323695"/>
+    <nd ref="39323698"/>
+    <nd ref="408151437"/>
+    <nd ref="39323701"/>
+    <nd ref="408151439"/>
+    <nd ref="39323703"/>
+    <nd ref="39323705"/>
+    <nd ref="408151446"/>
+    <nd ref="408151447"/>
+    <nd ref="39323708"/>
+    <nd ref="408151453"/>
+    <nd ref="39323711"/>
+    <nd ref="39323714"/>
+    <nd ref="39323716"/>
+    <nd ref="39323718"/>
+    <nd ref="408152367"/>
+    <nd ref="39323720"/>
+    <nd ref="408154390"/>
+    <nd ref="39323723"/>
+    <nd ref="408154393"/>
+    <nd ref="39323725"/>
+    <nd ref="408154396"/>
+    <nd ref="39321778"/>
+    <nd ref="39323731"/>
+    <nd ref="39323734"/>
+    <nd ref="39323737"/>
+    <nd ref="39323742"/>
+    <nd ref="39323746"/>
+    <nd ref="39323747"/>
+    <nd ref="39323750"/>
+    <nd ref="39323755"/>
+    <nd ref="39323758"/>
+    <nd ref="408450858"/>
+    <nd ref="408450859"/>
+    <nd ref="408450860"/>
+    <nd ref="408450861"/>
+    <nd ref="408450862"/>
+    <nd ref="408450867"/>
+    <nd ref="408450868"/>
+    <nd ref="39323761"/>
+    <nd ref="39323768"/>
+    <nd ref="38363293"/>
+    <tag k="alt_name" v="Pacific Highway #1"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="Interstate 5"/>
+    <tag k="name_1" v="State Highway 99"/>
+    <tag k="name_2" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 5"/>
+    <tag k="tiger:cfcc" v="A11"/>
+    <tag k="tiger:county" v="Douglas, OR"/>
+    <tag k="tiger:name_base" v="I-5"/>
+    <tag k="tiger:name_base_1" v="State Highway 99"/>
+    <tag k="tiger:name_base_2" v="Pacific"/>
+    <tag k="tiger:name_type_2" v="Hwy"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070808"/>
+    <tag k="tiger:tlid" v="137198478:137228960:137242603:137200095:137200203:137200326:137225448:137198465"/>
+  </way>
+  <way id="34831608" version="30" timestamp="2011-01-17T21:33:29Z" uid="373763" user="ylekot" changeset="7004699">
+    <nd ref="39323597"/>
+    <nd ref="39323599"/>
+    <nd ref="39323601"/>
+    <nd ref="39323603"/>
+    <nd ref="39323605"/>
+    <nd ref="39323606"/>
+    <nd ref="39323610"/>
+    <nd ref="408094519"/>
+    <nd ref="39323613"/>
+    <nd ref="408094520"/>
+    <nd ref="39323614"/>
+    <nd ref="39323615"/>
+    <nd ref="39323616"/>
+    <nd ref="408773406"/>
+    <nd ref="39323617"/>
+    <nd ref="39323619"/>
+    <nd ref="39323622"/>
+    <nd ref="39323631"/>
+    <nd ref="39323632"/>
+    <nd ref="408094709"/>
+    <nd ref="39323633"/>
+    <nd ref="408094715"/>
+    <nd ref="408094723"/>
+    <nd ref="408094725"/>
+    <nd ref="39323637"/>
+    <nd ref="39323645"/>
+    <nd ref="408137633"/>
+    <nd ref="408137634"/>
+    <nd ref="408137637"/>
+    <nd ref="39323650"/>
+    <nd ref="408138391"/>
+    <nd ref="39323653"/>
+    <nd ref="39323654"/>
+    <nd ref="39323657"/>
+    <nd ref="39323659"/>
+    <nd ref="408142543"/>
+    <nd ref="408142545"/>
+    <nd ref="408142547"/>
+    <nd ref="39323662"/>
+    <nd ref="39323664"/>
+    <nd ref="408142553"/>
+    <nd ref="408142555"/>
+    <nd ref="39323666"/>
+    <nd ref="39323667"/>
+    <nd ref="408144664"/>
+    <tag k="alt_name" v="Pacific Highway #1"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="Interstate 5"/>
+    <tag k="name_1" v="State Highway 99"/>
+    <tag k="name_2" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 5"/>
+    <tag k="tiger:cfcc" v="A11"/>
+    <tag k="tiger:county" v="Douglas, OR"/>
+    <tag k="tiger:name_base" v="I-5"/>
+    <tag k="tiger:name_base_1" v="State Highway 99"/>
+    <tag k="tiger:name_base_2" v="Pacific"/>
+    <tag k="tiger:name_type_2" v="Hwy"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070808"/>
+    <tag k="tiger:tlid" v="137198478:137228960:137242603:137200095:137200203:137200326:137225448:137198465"/>
+  </way>
+  <way id="34831608" version="31" timestamp="2011-03-26T01:22:14Z" uid="92286" user="Paul Johnson" changeset="7670923">
+    <nd ref="39323597"/>
+    <nd ref="39323599"/>
+    <nd ref="39323601"/>
+    <nd ref="39323603"/>
+    <nd ref="39323605"/>
+    <nd ref="39323606"/>
+    <nd ref="39323610"/>
+    <nd ref="408094519"/>
+    <nd ref="39323613"/>
+    <nd ref="408094520"/>
+    <nd ref="39323614"/>
+    <nd ref="39323615"/>
+    <nd ref="39323616"/>
+    <nd ref="408773406"/>
+    <nd ref="39323617"/>
+    <nd ref="39323619"/>
+    <nd ref="39323622"/>
+    <nd ref="39323631"/>
+    <nd ref="39323632"/>
+    <nd ref="408094709"/>
+    <nd ref="39323633"/>
+    <nd ref="408094715"/>
+    <nd ref="408094723"/>
+    <nd ref="408094725"/>
+    <nd ref="39323637"/>
+    <nd ref="39323645"/>
+    <nd ref="408137633"/>
+    <nd ref="408137634"/>
+    <nd ref="408137637"/>
+    <nd ref="39323650"/>
+    <nd ref="408138391"/>
+    <nd ref="39323653"/>
+    <nd ref="39323654"/>
+    <nd ref="39323657"/>
+    <nd ref="39323659"/>
+    <nd ref="408142543"/>
+    <nd ref="408142545"/>
+    <nd ref="408142547"/>
+    <nd ref="39323662"/>
+    <nd ref="39323664"/>
+    <nd ref="408142553"/>
+    <nd ref="408142555"/>
+    <nd ref="39323666"/>
+    <nd ref="39323667"/>
+    <nd ref="408144664"/>
+    <tag k="alt_name" v="Pacific Highway #1"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="Interstate 5"/>
+    <tag k="name_1" v="State Highway 99"/>
+    <tag k="name_2" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 5"/>
+    <tag k="tiger:cfcc" v="A11"/>
+    <tag k="tiger:county" v="Douglas, OR"/>
+    <tag k="tiger:name_base" v="I-5"/>
+    <tag k="tiger:name_base_1" v="State Highway 99"/>
+    <tag k="tiger:name_base_2" v="Pacific"/>
+    <tag k="tiger:name_type_2" v="Hwy"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070808"/>
+    <tag k="tiger:tlid" v="137198478:137228960:137242603:137200095:137200203:137200326:137225448:137198465"/>
+  </way>
+  <way id="34831608" version="32" timestamp="2011-07-31T13:39:33Z" uid="207745" user="NE2" changeset="8880952">
+    <nd ref="39323597"/>
+    <nd ref="39323599"/>
+    <nd ref="39323601"/>
+    <nd ref="39323603"/>
+    <nd ref="39323605"/>
+    <nd ref="39323606"/>
+    <nd ref="39323610"/>
+    <nd ref="408094519"/>
+    <nd ref="39323613"/>
+    <nd ref="408094520"/>
+    <nd ref="39323614"/>
+    <nd ref="39323615"/>
+    <nd ref="39323616"/>
+    <nd ref="408773406"/>
+    <nd ref="39323617"/>
+    <nd ref="39323619"/>
+    <nd ref="39323622"/>
+    <nd ref="39323631"/>
+    <nd ref="39323632"/>
+    <nd ref="408094709"/>
+    <nd ref="39323633"/>
+    <nd ref="408094715"/>
+    <nd ref="408094723"/>
+    <nd ref="408094725"/>
+    <nd ref="39323637"/>
+    <nd ref="39323645"/>
+    <nd ref="408137633"/>
+    <nd ref="408137634"/>
+    <nd ref="408137637"/>
+    <nd ref="39323650"/>
+    <nd ref="408138391"/>
+    <nd ref="39323653"/>
+    <nd ref="39323654"/>
+    <nd ref="39323657"/>
+    <nd ref="39323659"/>
+    <nd ref="408142543"/>
+    <nd ref="408142545"/>
+    <nd ref="408142547"/>
+    <nd ref="39323662"/>
+    <nd ref="39323664"/>
+    <nd ref="408142553"/>
+    <nd ref="408142555"/>
+    <nd ref="39323666"/>
+    <nd ref="39323667"/>
+    <nd ref="408144664"/>
+    <tag k="alt_name" v="Pacific Highway #1"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 5"/>
+    <tag k="tiger:cfcc" v="A11"/>
+    <tag k="tiger:county" v="Douglas, OR"/>
+    <tag k="tiger:name_base" v="I-5"/>
+    <tag k="tiger:name_base_1" v="State Highway 99"/>
+    <tag k="tiger:name_base_2" v="Pacific"/>
+    <tag k="tiger:name_type_2" v="Hwy"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070808"/>
+    <tag k="tiger:tlid" v="137198478:137228960:137242603:137200095:137200203:137200326:137225448:137198465"/>
+  </way>
+  <way id="34831608" version="33" timestamp="2011-08-02T22:20:22Z" uid="207745" user="NE2" changeset="8905725">
+    <nd ref="39323597"/>
+    <nd ref="39323599"/>
+    <nd ref="39323601"/>
+    <nd ref="39323603"/>
+    <nd ref="39323605"/>
+    <nd ref="39323606"/>
+    <nd ref="39323610"/>
+    <nd ref="408094519"/>
+    <nd ref="39323613"/>
+    <nd ref="408094520"/>
+    <nd ref="39323614"/>
+    <nd ref="39323615"/>
+    <nd ref="39323616"/>
+    <nd ref="408773406"/>
+    <nd ref="39323617"/>
+    <nd ref="39323619"/>
+    <nd ref="39323622"/>
+    <nd ref="39323631"/>
+    <nd ref="39323632"/>
+    <nd ref="408094709"/>
+    <nd ref="39323633"/>
+    <nd ref="408094715"/>
+    <nd ref="408094723"/>
+    <nd ref="408094725"/>
+    <nd ref="39323637"/>
+    <nd ref="39323645"/>
+    <nd ref="408137633"/>
+    <nd ref="408137634"/>
+    <nd ref="408137637"/>
+    <nd ref="39323650"/>
+    <nd ref="408138391"/>
+    <nd ref="39323653"/>
+    <nd ref="39323654"/>
+    <nd ref="39323657"/>
+    <nd ref="39323659"/>
+    <nd ref="408142543"/>
+    <nd ref="408142545"/>
+    <nd ref="408142547"/>
+    <nd ref="39323662"/>
+    <nd ref="39323664"/>
+    <nd ref="408142553"/>
+    <nd ref="408142555"/>
+    <nd ref="39323666"/>
+    <nd ref="39323667"/>
+    <nd ref="408144664"/>
+    <tag k="alt_name" v="Pacific Highway #1"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 5"/>
+    <tag k="tiger:cfcc" v="A11"/>
+    <tag k="tiger:county" v="Douglas, OR"/>
+    <tag k="tiger:name_base" v="I-5"/>
+    <tag k="tiger:name_base_1" v="State Highway 99"/>
+    <tag k="tiger:name_base_2" v="Pacific"/>
+    <tag k="tiger:name_type_2" v="Hwy"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070808"/>
+    <tag k="tiger:tlid" v="137198478:137228960:137242603:137200095:137200203:137200326:137225448:137198465"/>
+  </way>
+  <way id="34831608" version="34" timestamp="2011-11-25T17:19:03Z" uid="207745" user="NE2" changeset="9945867">
+    <nd ref="39323597"/>
+    <nd ref="39323599"/>
+    <nd ref="39323601"/>
+    <nd ref="39323603"/>
+    <nd ref="39323605"/>
+    <nd ref="39323606"/>
+    <nd ref="39323610"/>
+    <nd ref="408094519"/>
+    <nd ref="39323613"/>
+    <nd ref="408094520"/>
+    <nd ref="39323614"/>
+    <nd ref="39323615"/>
+    <nd ref="39323616"/>
+    <nd ref="408773406"/>
+    <nd ref="39323617"/>
+    <nd ref="39323619"/>
+    <nd ref="39323622"/>
+    <nd ref="39323631"/>
+    <nd ref="39323632"/>
+    <nd ref="408094709"/>
+    <nd ref="39323633"/>
+    <nd ref="408094715"/>
+    <nd ref="408094723"/>
+    <nd ref="408094725"/>
+    <nd ref="39323637"/>
+    <nd ref="39323645"/>
+    <nd ref="408137633"/>
+    <nd ref="408137634"/>
+    <nd ref="408137637"/>
+    <nd ref="39323650"/>
+    <nd ref="408138391"/>
+    <nd ref="39323653"/>
+    <nd ref="39323654"/>
+    <nd ref="39323657"/>
+    <nd ref="39323659"/>
+    <nd ref="408142543"/>
+    <nd ref="408142545"/>
+    <nd ref="408142547"/>
+    <nd ref="39323662"/>
+    <nd ref="39323664"/>
+    <nd ref="408142553"/>
+    <nd ref="408142555"/>
+    <nd ref="39323666"/>
+    <nd ref="39323667"/>
+    <nd ref="408144664"/>
+    <tag k="alt_name" v="Pacific Highway #1"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 5"/>
+    <tag k="tiger:cfcc" v="A11"/>
+    <tag k="tiger:county" v="Douglas, OR"/>
+    <tag k="tiger:name_base" v="I-5"/>
+    <tag k="tiger:name_base_1" v="State Highway 99"/>
+    <tag k="tiger:name_base_2" v="Pacific"/>
+    <tag k="tiger:name_type_2" v="Hwy"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070808"/>
+    <tag k="tiger:tlid" v="137198478:137228960:137242603:137200095:137200203:137200326:137225448:137198465"/>
+  </way>
+  <way id="34831608" version="35" timestamp="2012-01-23T22:40:14Z" uid="92286" user="Paul Johnson" changeset="10480080">
+    <nd ref="39323597"/>
+    <nd ref="39323599"/>
+    <nd ref="39323601"/>
+    <nd ref="39323603"/>
+    <nd ref="39323605"/>
+    <nd ref="39323606"/>
+    <nd ref="39323610"/>
+    <nd ref="408094519"/>
+    <nd ref="39323613"/>
+    <nd ref="408094520"/>
+    <nd ref="39323614"/>
+    <nd ref="39323615"/>
+    <nd ref="39323616"/>
+    <nd ref="408773406"/>
+    <nd ref="39323617"/>
+    <nd ref="39323619"/>
+    <nd ref="39323622"/>
+    <nd ref="39323631"/>
+    <nd ref="39323632"/>
+    <nd ref="408094709"/>
+    <nd ref="39323633"/>
+    <nd ref="408094715"/>
+    <nd ref="408094723"/>
+    <nd ref="408094725"/>
+    <nd ref="39323637"/>
+    <nd ref="39323645"/>
+    <nd ref="408137633"/>
+    <nd ref="408137634"/>
+    <nd ref="408137637"/>
+    <nd ref="39323650"/>
+    <nd ref="408138391"/>
+    <nd ref="39323653"/>
+    <nd ref="39323654"/>
+    <nd ref="39323657"/>
+    <nd ref="39323659"/>
+    <nd ref="408142543"/>
+    <nd ref="408142545"/>
+    <nd ref="408142547"/>
+    <nd ref="39323662"/>
+    <nd ref="39323664"/>
+    <nd ref="408142553"/>
+    <nd ref="408142555"/>
+    <nd ref="39323666"/>
+    <nd ref="1602781140"/>
+    <nd ref="39323667"/>
+    <nd ref="1602781113"/>
+    <nd ref="408144664"/>
+    <tag k="alt_name" v="Pacific Highway #1"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 5"/>
+    <tag k="tiger:cfcc" v="A11"/>
+    <tag k="tiger:county" v="Douglas, OR"/>
+    <tag k="tiger:name_base" v="I-5"/>
+    <tag k="tiger:name_base_1" v="State Highway 99"/>
+    <tag k="tiger:name_base_2" v="Pacific"/>
+    <tag k="tiger:name_type_2" v="Hwy"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070808"/>
+    <tag k="tiger:tlid" v="137198478:137228960:137242603:137200095:137200203:137200326:137225448:137198465"/>
+  </way>
+  <way id="34831641" version="3" timestamp="2011-02-22T10:24:19Z" uid="4467" user="Rosscoe" changeset="7362005">
+    <nd ref="966735575"/>
+    <nd ref="408095244"/>
+    <nd ref="408095246"/>
+    <nd ref="408095248"/>
+    <nd ref="408095250"/>
+    <nd ref="408095251"/>
+    <nd ref="408095253"/>
+    <tag k="highway" v="track"/>
+    <tag k="surface" v="gravel"/>
+  </way>
+  <way id="34831653" version="2" timestamp="2011-02-22T10:24:19Z" uid="4467" user="Rosscoe" changeset="7362005">
+    <nd ref="408096082"/>
+    <nd ref="408096085"/>
+    <nd ref="408095253"/>
+    <nd ref="408096088"/>
+    <nd ref="408094949"/>
+    <tag k="highway" v="track"/>
+    <tag k="surface" v="gravel"/>
+  </way>
+  <way id="34831658" version="3" timestamp="2010-07-08T20:19:12Z" uid="74617" user="JohnSmith" changeset="5168730">
+    <nd ref="244255898"/>
+    <nd ref="458610432"/>
+    <nd ref="408099007"/>
+    <nd ref="458610439"/>
+    <nd ref="408099010"/>
+    <nd ref="458610448"/>
+    <nd ref="408099013"/>
+    <nd ref="458610450"/>
+    <nd ref="458610451"/>
+    <nd ref="458610452"/>
+    <nd ref="408099016"/>
+    <nd ref="458610453"/>
+    <nd ref="458610454"/>
+    <nd ref="408099017"/>
+    <nd ref="458610369"/>
+    <nd ref="408099018"/>
+    <nd ref="458610455"/>
+    <nd ref="458610456"/>
+    <nd ref="244255898"/>
+    <tag k="highway" v="residential"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="34831658" version="4" timestamp="2012-01-18T21:32:57Z" uid="147510" user="woodpeck_fixbot" changeset="10431441">
+    <nd ref="244255898"/>
+    <nd ref="458610432"/>
+    <nd ref="408099007"/>
+    <nd ref="458610439"/>
+    <nd ref="408099010"/>
+    <nd ref="458610448"/>
+    <nd ref="408099013"/>
+    <nd ref="458610450"/>
+    <nd ref="458610451"/>
+    <nd ref="458610452"/>
+    <nd ref="408099016"/>
+    <nd ref="458610453"/>
+    <nd ref="458610454"/>
+    <nd ref="408099017"/>
+    <nd ref="458610369"/>
+    <nd ref="408099018"/>
+    <nd ref="458610455"/>
+    <nd ref="458610456"/>
+    <nd ref="244255898"/>
+    <tag k="highway" v="residential"/>
+    <tag k="junction" v="roundabout"/>
+  </way>
+  <way id="34831666" version="5" timestamp="2010-07-08T20:17:41Z" uid="74617" user="JohnSmith" changeset="5168730">
+    <nd ref="408099013"/>
+    <nd ref="408099665"/>
+    <nd ref="599155615"/>
+    <nd ref="408099668"/>
+    <nd ref="408099670"/>
+    <nd ref="599155611"/>
+    <nd ref="408099673"/>
+    <nd ref="408099016"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Wellington Crescent"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="34831666" version="6" timestamp="2012-01-18T21:32:58Z" uid="147510" user="woodpeck_fixbot" changeset="10431441">
+    <nd ref="408099013"/>
+    <nd ref="408099665"/>
+    <nd ref="599155615"/>
+    <nd ref="408099668"/>
+    <nd ref="408099670"/>
+    <nd ref="599155611"/>
+    <nd ref="408099673"/>
+    <nd ref="408099016"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Wellington Crescent"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="34831726" version="5" timestamp="2011-04-19T09:13:30Z" uid="4467" user="Rosscoe" changeset="7904555">
+    <nd ref="408105753"/>
+    <nd ref="1250961272"/>
+    <nd ref="310953627"/>
+    <nd ref="1250961284"/>
+    <nd ref="310953683"/>
+    <nd ref="320859497"/>
+    <nd ref="320859498"/>
+    <nd ref="1250961236"/>
+    <nd ref="132053554"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Eastfield Road"/>
+  </way>
+  <way id="34831730" version="4" timestamp="2010-06-23T06:37:53Z" uid="4467" user="Rosscoe" changeset="5056518">
+    <nd ref="408106206"/>
+    <nd ref="408106210"/>
+    <nd ref="408106215"/>
+    <nd ref="408106218"/>
+    <nd ref="408106220"/>
+    <nd ref="408106222"/>
+    <nd ref="408106223"/>
+    <nd ref="408106226"/>
+    <nd ref="408106206"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="junction" v="roundabout"/>
+  </way>
+  <way id="34831730" version="5" timestamp="2010-07-10T02:14:37Z" uid="79475" user="AlexOnTheBus" changeset="5178679">
+    <nd ref="408106206"/>
+    <nd ref="408106210"/>
+    <nd ref="408106215"/>
+    <nd ref="408106218"/>
+    <nd ref="408106220"/>
+    <nd ref="408106222"/>
+    <nd ref="408106223"/>
+    <nd ref="408106226"/>
+    <nd ref="408106206"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="junction" v="roundabout"/>
+  </way>
+  <way id="34831730" version="6" timestamp="2010-10-11T01:12:20Z" uid="11111" user="lakeyboy" changeset="6008070">
+    <nd ref="408106206"/>
+    <nd ref="408106210"/>
+    <nd ref="408106215"/>
+    <nd ref="408106218"/>
+    <nd ref="408106220"/>
+    <nd ref="408106222"/>
+    <nd ref="408106223"/>
+    <nd ref="408106226"/>
+    <nd ref="408106206"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="junction" v="roundabout"/>
+  </way>
+  <way id="34831730" version="7" timestamp="2011-02-24T10:40:50Z" uid="4467" user="Rosscoe" changeset="7380261">
+    <nd ref="408106206"/>
+    <nd ref="1169776350"/>
+    <nd ref="408106210"/>
+    <nd ref="408106215"/>
+    <nd ref="1169776184"/>
+    <nd ref="408106218"/>
+    <nd ref="1169776231"/>
+    <nd ref="408106220"/>
+    <nd ref="1169776193"/>
+    <nd ref="408106222"/>
+    <nd ref="408106223"/>
+    <nd ref="1169776331"/>
+    <nd ref="408106226"/>
+    <nd ref="408106206"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="34831730" version="8" timestamp="2011-03-24T00:01:05Z" uid="46482" user="Leon K" changeset="7651887">
+    <nd ref="408106206"/>
+    <nd ref="1169776350"/>
+    <nd ref="408106210"/>
+    <nd ref="408106215"/>
+    <nd ref="1169776184"/>
+    <nd ref="408106218"/>
+    <nd ref="1169776231"/>
+    <nd ref="408106220"/>
+    <nd ref="1169776193"/>
+    <nd ref="408106222"/>
+    <nd ref="408106223"/>
+    <nd ref="1169776331"/>
+    <nd ref="408106226"/>
+    <nd ref="408106206"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="34831734" version="4" timestamp="2011-02-24T10:40:44Z" uid="4467" user="Rosscoe" changeset="7380261">
+    <nd ref="408106215"/>
+    <nd ref="1169776248"/>
+    <nd ref="408106474"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Jesmond Road"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="34831734" version="5" timestamp="2011-03-24T00:01:05Z" uid="46482" user="Leon K" changeset="7651887">
+    <nd ref="408106215"/>
+    <nd ref="1169776248"/>
+    <nd ref="408106474"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Jesmond Road"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="34831742" version="3" timestamp="2010-07-08T19:39:17Z" uid="74617" user="JohnSmith" changeset="5168688">
+    <nd ref="408106223"/>
+    <nd ref="408106820"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Apollo Court"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="34831742" version="4" timestamp="2011-04-19T09:13:49Z" uid="4467" user="Rosscoe" changeset="7904555">
+    <nd ref="408106223"/>
+    <nd ref="408106820"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Apollo Court"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="34831742" version="5" timestamp="2012-01-18T21:32:59Z" uid="147510" user="woodpeck_fixbot" changeset="10431441">
+    <nd ref="408106223"/>
+    <nd ref="408106820"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Apollo Court"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="34831748" version="1" timestamp="2009-05-20T10:03:41Z" uid="74617" user="JohnSmith" changeset="1262036">
+    <nd ref="407905424"/>
+    <nd ref="408106987"/>
+    <nd ref="408106991"/>
+    <nd ref="408106992"/>
+    <nd ref="408106993"/>
+    <nd ref="408106996"/>
+    <nd ref="408106998"/>
+    <nd ref="408107001"/>
+    <nd ref="408107004"/>
+    <nd ref="408107007"/>
+    <nd ref="408107011"/>
+    <nd ref="355527954"/>
+    <nd ref="355527964"/>
+    <nd ref="408107016"/>
+    <nd ref="408107021"/>
+    <nd ref="408107023"/>
+    <nd ref="408107025"/>
+    <nd ref="408107029"/>
+    <nd ref="408107031"/>
+    <nd ref="408107034"/>
+    <nd ref="408107039"/>
+    <nd ref="408107044"/>
+    <nd ref="408107046"/>
+    <nd ref="408107050"/>
+    <nd ref="408107052"/>
+    <nd ref="408107056"/>
+    <nd ref="408107057"/>
+    <nd ref="408107058"/>
+    <nd ref="408107061"/>
+    <nd ref="408107064"/>
+    <nd ref="408107068"/>
+    <nd ref="408107073"/>
+    <nd ref="408107075"/>
+    <nd ref="408107077"/>
+    <nd ref="408107081"/>
+    <nd ref="408107084"/>
+    <nd ref="408107086"/>
+    <nd ref="408107091"/>
+    <nd ref="408107092"/>
+    <nd ref="408107095"/>
+    <nd ref="408107098"/>
+    <nd ref="408107103"/>
+    <nd ref="408107105"/>
+    <nd ref="408107109"/>
+    <nd ref="408107113"/>
+    <nd ref="408107116"/>
+    <nd ref="408107121"/>
+    <nd ref="408107123"/>
+    <nd ref="408107124"/>
+    <nd ref="408107125"/>
+    <nd ref="408107130"/>
+    <nd ref="408107136"/>
+    <nd ref="408107139"/>
+    <nd ref="408107142"/>
+    <nd ref="408107145"/>
+    <nd ref="408107149"/>
+    <nd ref="408107152"/>
+    <nd ref="408107154"/>
+    <nd ref="408107155"/>
+    <nd ref="408107158"/>
+    <nd ref="408107161"/>
+    <tag k="waterway" v="river"/>
+  </way>
+  <way id="34831748" version="2" timestamp="2009-05-23T16:47:39Z" uid="74617" user="JohnSmith" changeset="1296689">
+    <nd ref="408107161"/>
+    <nd ref="408107158"/>
+    <nd ref="408107155"/>
+    <nd ref="408107154"/>
+    <nd ref="408107152"/>
+    <nd ref="408107149"/>
+    <nd ref="408107145"/>
+    <nd ref="408107142"/>
+    <nd ref="408107139"/>
+    <nd ref="408107136"/>
+    <nd ref="408107130"/>
+    <nd ref="408107125"/>
+    <nd ref="408107124"/>
+    <nd ref="408107123"/>
+    <nd ref="408107121"/>
+    <nd ref="408107116"/>
+    <nd ref="408107113"/>
+    <nd ref="408107109"/>
+    <nd ref="408107105"/>
+    <nd ref="408107103"/>
+    <nd ref="408107098"/>
+    <nd ref="408107095"/>
+    <nd ref="408107092"/>
+    <nd ref="408107091"/>
+    <nd ref="408107086"/>
+    <nd ref="408107084"/>
+    <nd ref="408107081"/>
+    <nd ref="408107077"/>
+    <nd ref="408107075"/>
+    <nd ref="408107073"/>
+    <nd ref="408107068"/>
+    <nd ref="408107064"/>
+    <nd ref="408107061"/>
+    <nd ref="408107058"/>
+    <nd ref="408107057"/>
+    <nd ref="408107056"/>
+    <nd ref="408107052"/>
+    <nd ref="408107050"/>
+    <nd ref="408107046"/>
+    <nd ref="408107044"/>
+    <nd ref="408107039"/>
+    <nd ref="408107034"/>
+    <nd ref="408107031"/>
+    <nd ref="408107029"/>
+    <nd ref="408107025"/>
+    <nd ref="408107023"/>
+    <nd ref="408107021"/>
+    <nd ref="408107016"/>
+    <nd ref="355527964"/>
+    <nd ref="355527954"/>
+    <nd ref="408107011"/>
+    <nd ref="408107007"/>
+    <nd ref="408107004"/>
+    <nd ref="408107001"/>
+    <nd ref="408106998"/>
+    <nd ref="408106996"/>
+    <nd ref="408106993"/>
+    <nd ref="408106992"/>
+    <nd ref="408106991"/>
+    <nd ref="408106987"/>
+    <nd ref="407905424"/>
+    <nd ref="407905422"/>
+    <nd ref="407905421"/>
+    <nd ref="407905419"/>
+    <nd ref="408088768"/>
+    <nd ref="408088771"/>
+    <nd ref="408088774"/>
+    <nd ref="408088777"/>
+    <nd ref="408088775"/>
+    <nd ref="407533284"/>
+    <nd ref="407533283"/>
+    <nd ref="407533280"/>
+    <nd ref="407533277"/>
+    <nd ref="407533275"/>
+    <nd ref="407533272"/>
+    <nd ref="407533270"/>
+    <nd ref="407533267"/>
+    <nd ref="407533265"/>
+    <nd ref="407533262"/>
+    <nd ref="407614783"/>
+    <nd ref="407533260"/>
+    <nd ref="407533257"/>
+    <nd ref="408088766"/>
+    <nd ref="407533255"/>
+    <nd ref="407533252"/>
+    <tag k="name" v="MacIntyre River"/>
+    <tag k="waterway" v="river"/>
+  </way>
+  <way id="34831748" version="3" timestamp="2009-05-23T16:52:45Z" uid="74617" user="JohnSmith" changeset="1296722">
+    <nd ref="408107161"/>
+    <nd ref="408107158"/>
+    <nd ref="408107155"/>
+    <nd ref="408107154"/>
+    <nd ref="408107152"/>
+    <nd ref="408107149"/>
+    <nd ref="408107145"/>
+    <nd ref="408107142"/>
+    <nd ref="408107139"/>
+    <nd ref="408107136"/>
+    <nd ref="408107130"/>
+    <nd ref="408107125"/>
+    <nd ref="408107124"/>
+    <nd ref="408107123"/>
+    <nd ref="408107121"/>
+    <nd ref="408107116"/>
+    <nd ref="408107113"/>
+    <nd ref="408107109"/>
+    <nd ref="408107105"/>
+    <nd ref="408107103"/>
+    <nd ref="408107098"/>
+    <nd ref="408107095"/>
+    <nd ref="408107092"/>
+    <nd ref="408107091"/>
+    <nd ref="408107086"/>
+    <nd ref="408107084"/>
+    <nd ref="408107081"/>
+    <nd ref="408107077"/>
+    <nd ref="408107075"/>
+    <nd ref="408107073"/>
+    <nd ref="408107068"/>
+    <nd ref="408107064"/>
+    <nd ref="408107061"/>
+    <nd ref="408107058"/>
+    <nd ref="408107057"/>
+    <nd ref="408107056"/>
+    <nd ref="408107052"/>
+    <nd ref="408107050"/>
+    <nd ref="408107046"/>
+    <nd ref="408107044"/>
+    <nd ref="408107039"/>
+    <nd ref="408107034"/>
+    <nd ref="408107031"/>
+    <nd ref="408107029"/>
+    <nd ref="408107025"/>
+    <nd ref="408107023"/>
+    <nd ref="408107021"/>
+    <nd ref="408107016"/>
+    <nd ref="355527964"/>
+    <nd ref="355527954"/>
+    <nd ref="408107011"/>
+    <nd ref="408107007"/>
+    <nd ref="408107004"/>
+    <nd ref="408107001"/>
+    <nd ref="408106998"/>
+    <nd ref="408106996"/>
+    <nd ref="408106993"/>
+    <nd ref="408106992"/>
+    <nd ref="408106991"/>
+    <nd ref="408106987"/>
+    <nd ref="407905424"/>
+    <nd ref="407905422"/>
+    <nd ref="407905421"/>
+    <nd ref="407905419"/>
+    <nd ref="408088768"/>
+    <nd ref="408088771"/>
+    <nd ref="408088774"/>
+    <nd ref="408088777"/>
+    <nd ref="408088775"/>
+    <nd ref="407533284"/>
+    <nd ref="407533283"/>
+    <nd ref="407533280"/>
+    <nd ref="407533277"/>
+    <nd ref="407533275"/>
+    <nd ref="407533272"/>
+    <nd ref="407533270"/>
+    <nd ref="407533267"/>
+    <nd ref="407533265"/>
+    <nd ref="407533262"/>
+    <nd ref="407614783"/>
+    <nd ref="407533260"/>
+    <nd ref="407533257"/>
+    <nd ref="408088766"/>
+    <nd ref="407533255"/>
+    <nd ref="407533252"/>
+    <nd ref="408088765"/>
+    <nd ref="407533234"/>
+    <nd ref="407533232"/>
+    <nd ref="407533230"/>
+    <nd ref="408088762"/>
+    <nd ref="408088764"/>
+    <nd ref="407533228"/>
+    <nd ref="407533225"/>
+    <nd ref="407533223"/>
+    <nd ref="407533220"/>
+    <nd ref="408088760"/>
+    <nd ref="407533218"/>
+    <nd ref="407533215"/>
+    <nd ref="407082971"/>
+    <nd ref="407082973"/>
+    <nd ref="408088757"/>
+    <nd ref="408088755"/>
+    <nd ref="407533213"/>
+    <nd ref="408088758"/>
+    <nd ref="407093364"/>
+    <nd ref="407533210"/>
+    <nd ref="408088753"/>
+    <nd ref="407533205"/>
+    <nd ref="407533208"/>
+    <nd ref="408088751"/>
+    <nd ref="407093368"/>
+    <nd ref="407533203"/>
+    <nd ref="407533200"/>
+    <nd ref="407533197"/>
+    <nd ref="407093374"/>
+    <nd ref="410235700"/>
+    <nd ref="407093641"/>
+    <nd ref="410235701"/>
+    <nd ref="407092768"/>
+    <nd ref="407579162"/>
+    <nd ref="407579159"/>
+    <nd ref="407092774"/>
+    <nd ref="407533195"/>
+    <nd ref="407579158"/>
+    <nd ref="407579156"/>
+    <nd ref="407533192"/>
+    <nd ref="407533184"/>
+    <nd ref="407579154"/>
+    <nd ref="407579152"/>
+    <nd ref="407092783"/>
+    <nd ref="407579151"/>
+    <nd ref="407092788"/>
+    <nd ref="407092794"/>
+    <nd ref="407579148"/>
+    <nd ref="407533178"/>
+    <nd ref="407533183"/>
+    <nd ref="408088748"/>
+    <nd ref="407090694"/>
+    <nd ref="407579142"/>
+    <nd ref="407579143"/>
+    <nd ref="407579140"/>
+    <nd ref="407579145"/>
+    <nd ref="407091452"/>
+    <nd ref="408088746"/>
+    <nd ref="407579147"/>
+    <nd ref="408088742"/>
+    <nd ref="408088744"/>
+    <nd ref="407090701"/>
+    <nd ref="407579111"/>
+    <nd ref="407090710"/>
+    <nd ref="407579114"/>
+    <nd ref="407579113"/>
+    <nd ref="407579117"/>
+    <nd ref="407090718"/>
+    <nd ref="407579118"/>
+    <nd ref="407579120"/>
+    <nd ref="407579122"/>
+    <nd ref="407090726"/>
+    <nd ref="407579126"/>
+    <nd ref="407579128"/>
+    <nd ref="407579129"/>
+    <nd ref="407579124"/>
+    <nd ref="407579132"/>
+    <nd ref="407090734"/>
+    <nd ref="408088737"/>
+    <nd ref="408088740"/>
+    <nd ref="407579139"/>
+    <nd ref="407090740"/>
+    <nd ref="407579138"/>
+    <nd ref="407579135"/>
+    <nd ref="407090746"/>
+    <nd ref="407579134"/>
+    <nd ref="407328800"/>
+    <nd ref="407328801"/>
+    <nd ref="407328802"/>
+    <nd ref="407328803"/>
+    <nd ref="407573897"/>
+    <nd ref="407090750"/>
+    <nd ref="407573896"/>
+    <nd ref="407573893"/>
+    <nd ref="407328804"/>
+    <nd ref="407573892"/>
+    <nd ref="407573889"/>
+    <nd ref="407090754"/>
+    <nd ref="407573888"/>
+    <nd ref="407533167"/>
+    <nd ref="407533169"/>
+    <nd ref="407090760"/>
+    <nd ref="407573884"/>
+    <nd ref="407090767"/>
+    <nd ref="407573886"/>
+    <nd ref="407533172"/>
+    <nd ref="407084213"/>
+    <nd ref="407533174"/>
+    <nd ref="407573882"/>
+    <nd ref="407084229"/>
+    <nd ref="407573881"/>
+    <nd ref="407533177"/>
+    <nd ref="408088735"/>
+    <nd ref="407084233"/>
+    <nd ref="408088731"/>
+    <nd ref="407533163"/>
+    <nd ref="408088733"/>
+    <nd ref="407084238"/>
+    <nd ref="408037057"/>
+    <nd ref="407573879"/>
+    <nd ref="407573878"/>
+    <nd ref="407573870"/>
+    <nd ref="407727835"/>
+    <nd ref="407573871"/>
+    <nd ref="407328796"/>
+    <nd ref="407573875"/>
+    <nd ref="407082975"/>
+    <nd ref="407573876"/>
+    <nd ref="407533160"/>
+    <nd ref="407573873"/>
+    <nd ref="407082978"/>
+    <nd ref="407082980"/>
+    <nd ref="407082982"/>
+    <nd ref="408088729"/>
+    <nd ref="407096230"/>
+    <nd ref="407096234"/>
+    <nd ref="408088727"/>
+    <nd ref="408088724"/>
+    <nd ref="407096237"/>
+    <nd ref="407096238"/>
+    <nd ref="408088722"/>
+    <nd ref="408088719"/>
+    <nd ref="408088717"/>
+    <nd ref="407096241"/>
+    <nd ref="408088714"/>
+    <nd ref="408088712"/>
+    <nd ref="408088710"/>
+    <nd ref="407095195"/>
+    <nd ref="408088706"/>
+    <nd ref="408088704"/>
+    <nd ref="408088708"/>
+    <nd ref="407095200"/>
+    <nd ref="407082984"/>
+    <nd ref="408030267"/>
+    <nd ref="408030265"/>
+    <nd ref="408030262"/>
+    <nd ref="407082986"/>
+    <nd ref="408088701"/>
+    <nd ref="408030269"/>
+    <nd ref="407328797"/>
+    <nd ref="407328798"/>
+    <nd ref="407082988"/>
+    <nd ref="408088700"/>
+    <nd ref="408030257"/>
+    <nd ref="407328799"/>
+    <nd ref="408074416"/>
+    <nd ref="407082991"/>
+    <nd ref="407322950"/>
+    <nd ref="407322952"/>
+    <nd ref="407082993"/>
+    <nd ref="407322957"/>
+    <nd ref="407322959"/>
+    <nd ref="407322962"/>
+    <nd ref="407082995"/>
+    <nd ref="407322966"/>
+    <nd ref="407322969"/>
+    <nd ref="407278049"/>
+    <nd ref="407322974"/>
+    <nd ref="407322976"/>
+    <nd ref="407322978"/>
+    <nd ref="407322981"/>
+    <nd ref="407322984"/>
+    <nd ref="407322986"/>
+    <nd ref="407322989"/>
+    <nd ref="407082998"/>
+    <nd ref="407322993"/>
+    <nd ref="407322996"/>
+    <nd ref="407322998"/>
+    <nd ref="408030260"/>
+    <nd ref="407083000"/>
+    <nd ref="407278060"/>
+    <nd ref="407533545"/>
+    <nd ref="407891035"/>
+    <nd ref="407891036"/>
+    <nd ref="407275774"/>
+    <nd ref="407083002"/>
+    <nd ref="407090776"/>
+    <nd ref="407533287"/>
+    <nd ref="407090780"/>
+    <nd ref="407533289"/>
+    <nd ref="407090786"/>
+    <nd ref="407893631"/>
+    <nd ref="407533292"/>
+    <nd ref="407533293"/>
+    <nd ref="407090789"/>
+    <nd ref="407893636"/>
+    <nd ref="407090793"/>
+    <nd ref="407893635"/>
+    <nd ref="407533296"/>
+    <nd ref="407090796"/>
+    <nd ref="407893637"/>
+    <nd ref="407090802"/>
+    <nd ref="407090807"/>
+    <nd ref="407533297"/>
+    <nd ref="407893648"/>
+    <nd ref="407533301"/>
+    <nd ref="407533304"/>
+    <nd ref="358409154"/>
+    <nd ref="407533305"/>
+    <nd ref="407533309"/>
+    <nd ref="407533312"/>
+    <nd ref="407533314"/>
+    <nd ref="407533317"/>
+    <nd ref="407533320"/>
+    <nd ref="407533322"/>
+    <nd ref="407533325"/>
+    <nd ref="407533327"/>
+    <nd ref="407533330"/>
+    <nd ref="407533332"/>
+    <nd ref="407533335"/>
+    <nd ref="407533337"/>
+    <nd ref="407533340"/>
+    <nd ref="407533342"/>
+    <nd ref="407533345"/>
+    <nd ref="407533347"/>
+    <nd ref="407533350"/>
+    <nd ref="407533352"/>
+    <nd ref="407533355"/>
+    <nd ref="407533357"/>
+    <nd ref="407533360"/>
+    <nd ref="407533362"/>
+    <nd ref="407533365"/>
+    <nd ref="407533368"/>
+    <nd ref="407533370"/>
+    <nd ref="407533373"/>
+    <nd ref="407533375"/>
+    <nd ref="407533378"/>
+    <nd ref="407533381"/>
+    <nd ref="407533383"/>
+    <nd ref="407533385"/>
+    <nd ref="407533388"/>
+    <nd ref="407533390"/>
+    <nd ref="407533393"/>
+    <nd ref="407533396"/>
+    <nd ref="407533398"/>
+    <nd ref="407533400"/>
+    <nd ref="407533401"/>
+    <nd ref="407533402"/>
+    <nd ref="407533404"/>
+    <nd ref="407533405"/>
+    <nd ref="407533408"/>
+    <nd ref="407533410"/>
+    <nd ref="407533413"/>
+    <nd ref="407533415"/>
+    <nd ref="407533418"/>
+    <nd ref="407533420"/>
+    <nd ref="407533423"/>
+    <nd ref="407533425"/>
+    <nd ref="407533428"/>
+    <nd ref="407533430"/>
+    <nd ref="407533433"/>
+    <nd ref="407533435"/>
+    <nd ref="407533437"/>
+    <nd ref="407533440"/>
+    <nd ref="407533443"/>
+    <nd ref="407533445"/>
+    <nd ref="407533448"/>
+    <nd ref="407533450"/>
+    <nd ref="407533453"/>
+    <nd ref="407533456"/>
+    <nd ref="407533507"/>
+    <nd ref="407533509"/>
+    <nd ref="407533512"/>
+    <nd ref="407533514"/>
+    <nd ref="407533517"/>
+    <nd ref="407533519"/>
+    <nd ref="407533522"/>
+    <nd ref="407533525"/>
+    <nd ref="407533527"/>
+    <nd ref="407533530"/>
+    <nd ref="407533532"/>
+    <nd ref="407533534"/>
+    <nd ref="407533536"/>
+    <nd ref="407533540"/>
+    <nd ref="407533542"/>
+    <tag k="name" v="MacIntyre River"/>
+    <tag k="waterway" v="river"/>
+  </way>
+  <way id="34831748" version="4" timestamp="2009-05-23T16:54:57Z" uid="74617" user="JohnSmith" changeset="1296732">
+    <nd ref="408107161"/>
+    <nd ref="408107158"/>
+    <nd ref="408107155"/>
+    <nd ref="408107154"/>
+    <nd ref="408107152"/>
+    <nd ref="408107149"/>
+    <nd ref="408107145"/>
+    <nd ref="408107142"/>
+    <nd ref="408107139"/>
+    <nd ref="408107136"/>
+    <nd ref="408107130"/>
+    <nd ref="408107125"/>
+    <nd ref="408107124"/>
+    <nd ref="408107123"/>
+    <nd ref="408107121"/>
+    <nd ref="408107116"/>
+    <nd ref="408107113"/>
+    <nd ref="408107109"/>
+    <nd ref="408107105"/>
+    <nd ref="408107103"/>
+    <nd ref="408107098"/>
+    <nd ref="408107095"/>
+    <nd ref="408107092"/>
+    <nd ref="408107091"/>
+    <nd ref="408107086"/>
+    <nd ref="408107084"/>
+    <nd ref="408107081"/>
+    <nd ref="408107077"/>
+    <nd ref="408107075"/>
+    <nd ref="408107073"/>
+    <nd ref="408107068"/>
+    <nd ref="408107064"/>
+    <nd ref="408107061"/>
+    <nd ref="408107058"/>
+    <nd ref="408107057"/>
+    <nd ref="408107056"/>
+    <nd ref="408107052"/>
+    <nd ref="408107050"/>
+    <nd ref="408107046"/>
+    <nd ref="408107044"/>
+    <nd ref="408107039"/>
+    <nd ref="408107034"/>
+    <nd ref="408107031"/>
+    <nd ref="408107029"/>
+    <nd ref="408107025"/>
+    <nd ref="408107023"/>
+    <nd ref="408107021"/>
+    <nd ref="408107016"/>
+    <nd ref="355527964"/>
+    <nd ref="355527954"/>
+    <nd ref="408107011"/>
+    <nd ref="408107007"/>
+    <nd ref="408107004"/>
+    <nd ref="408107001"/>
+    <nd ref="408106998"/>
+    <nd ref="408106996"/>
+    <nd ref="408106993"/>
+    <nd ref="408106992"/>
+    <nd ref="408106991"/>
+    <nd ref="408106987"/>
+    <nd ref="407905424"/>
+    <nd ref="407905422"/>
+    <nd ref="407905421"/>
+    <nd ref="407905419"/>
+    <nd ref="408088768"/>
+    <nd ref="408088771"/>
+    <nd ref="408088774"/>
+    <nd ref="408088777"/>
+    <nd ref="408088775"/>
+    <nd ref="407533284"/>
+    <nd ref="407533283"/>
+    <nd ref="407533280"/>
+    <nd ref="407533277"/>
+    <nd ref="407533275"/>
+    <nd ref="407533272"/>
+    <nd ref="407533270"/>
+    <nd ref="407533267"/>
+    <nd ref="407533265"/>
+    <nd ref="407533262"/>
+    <nd ref="407614783"/>
+    <nd ref="407533260"/>
+    <nd ref="407533257"/>
+    <nd ref="408088766"/>
+    <nd ref="407533255"/>
+    <nd ref="407533252"/>
+    <nd ref="408088765"/>
+    <nd ref="407533234"/>
+    <nd ref="407533232"/>
+    <nd ref="407533230"/>
+    <nd ref="408088762"/>
+    <nd ref="408088764"/>
+    <nd ref="407533228"/>
+    <nd ref="407533225"/>
+    <nd ref="407533223"/>
+    <nd ref="407533220"/>
+    <nd ref="408088760"/>
+    <nd ref="407533218"/>
+    <nd ref="407533215"/>
+    <nd ref="407082971"/>
+    <nd ref="407082973"/>
+    <nd ref="408088757"/>
+    <nd ref="408088755"/>
+    <nd ref="407533213"/>
+    <nd ref="408088758"/>
+    <nd ref="407093364"/>
+    <nd ref="407533210"/>
+    <nd ref="408088753"/>
+    <nd ref="407533205"/>
+    <nd ref="407533208"/>
+    <nd ref="408088751"/>
+    <nd ref="407093368"/>
+    <nd ref="407533203"/>
+    <nd ref="407533200"/>
+    <nd ref="407533197"/>
+    <nd ref="407093374"/>
+    <nd ref="410235700"/>
+    <nd ref="407093641"/>
+    <nd ref="410235701"/>
+    <nd ref="407092768"/>
+    <nd ref="407579162"/>
+    <nd ref="407579159"/>
+    <nd ref="407092774"/>
+    <nd ref="407533195"/>
+    <nd ref="407579158"/>
+    <nd ref="407579156"/>
+    <nd ref="407533192"/>
+    <nd ref="407533184"/>
+    <nd ref="407579154"/>
+    <nd ref="407579152"/>
+    <nd ref="407092783"/>
+    <nd ref="407579151"/>
+    <nd ref="407092788"/>
+    <nd ref="407092794"/>
+    <nd ref="407579148"/>
+    <nd ref="407533178"/>
+    <nd ref="407533183"/>
+    <nd ref="408088748"/>
+    <nd ref="407090694"/>
+    <nd ref="407579142"/>
+    <nd ref="407579143"/>
+    <nd ref="407579140"/>
+    <nd ref="407579145"/>
+    <nd ref="407091452"/>
+    <nd ref="408088746"/>
+    <nd ref="407579147"/>
+    <nd ref="408088742"/>
+    <nd ref="408088744"/>
+    <nd ref="407090701"/>
+    <nd ref="407579111"/>
+    <nd ref="407090710"/>
+    <nd ref="407579114"/>
+    <nd ref="407579113"/>
+    <nd ref="407579117"/>
+    <nd ref="407090718"/>
+    <nd ref="407579118"/>
+    <nd ref="407579120"/>
+    <nd ref="407579122"/>
+    <nd ref="407090726"/>
+    <nd ref="407579126"/>
+    <nd ref="407579128"/>
+    <nd ref="407579129"/>
+    <nd ref="407579124"/>
+    <nd ref="407579132"/>
+    <nd ref="407090734"/>
+    <nd ref="408088737"/>
+    <nd ref="408088740"/>
+    <nd ref="407579139"/>
+    <nd ref="407090740"/>
+    <nd ref="407579138"/>
+    <nd ref="407579135"/>
+    <nd ref="407090746"/>
+    <nd ref="407579134"/>
+    <nd ref="407328800"/>
+    <nd ref="407328801"/>
+    <nd ref="407328802"/>
+    <nd ref="407328803"/>
+    <nd ref="407573897"/>
+    <nd ref="407090750"/>
+    <nd ref="407573896"/>
+    <nd ref="407573893"/>
+    <nd ref="407328804"/>
+    <nd ref="407573892"/>
+    <nd ref="407573889"/>
+    <nd ref="407090754"/>
+    <nd ref="407573888"/>
+    <nd ref="407533167"/>
+    <nd ref="407533169"/>
+    <nd ref="407090760"/>
+    <nd ref="407573884"/>
+    <nd ref="407090767"/>
+    <nd ref="407573886"/>
+    <nd ref="407533172"/>
+    <nd ref="407084213"/>
+    <nd ref="407533174"/>
+    <nd ref="407573882"/>
+    <nd ref="407084229"/>
+    <nd ref="407573881"/>
+    <nd ref="407533177"/>
+    <nd ref="408088735"/>
+    <nd ref="407084233"/>
+    <nd ref="408088731"/>
+    <nd ref="407533163"/>
+    <nd ref="408088733"/>
+    <nd ref="407084238"/>
+    <nd ref="408037057"/>
+    <nd ref="407573879"/>
+    <nd ref="407573878"/>
+    <nd ref="407573870"/>
+    <nd ref="407727835"/>
+    <nd ref="407573871"/>
+    <nd ref="407328796"/>
+    <nd ref="407573875"/>
+    <nd ref="407082975"/>
+    <nd ref="407573876"/>
+    <nd ref="407533160"/>
+    <nd ref="407573873"/>
+    <nd ref="407082978"/>
+    <nd ref="407082980"/>
+    <nd ref="407082982"/>
+    <nd ref="408088729"/>
+    <nd ref="407096230"/>
+    <nd ref="407096234"/>
+    <nd ref="408088727"/>
+    <nd ref="408088724"/>
+    <nd ref="407096237"/>
+    <nd ref="407096238"/>
+    <nd ref="408088722"/>
+    <nd ref="408088719"/>
+    <nd ref="408088717"/>
+    <nd ref="407096241"/>
+    <nd ref="408088714"/>
+    <nd ref="408088712"/>
+    <nd ref="408088710"/>
+    <nd ref="407095195"/>
+    <nd ref="408088706"/>
+    <nd ref="408088704"/>
+    <nd ref="408088708"/>
+    <nd ref="407095200"/>
+    <nd ref="407082984"/>
+    <nd ref="408030267"/>
+    <nd ref="408030265"/>
+    <nd ref="408030262"/>
+    <nd ref="407082986"/>
+    <nd ref="408088701"/>
+    <nd ref="408030269"/>
+    <nd ref="407328797"/>
+    <nd ref="407328798"/>
+    <nd ref="407082988"/>
+    <nd ref="408088700"/>
+    <nd ref="408030257"/>
+    <nd ref="407328799"/>
+    <nd ref="408074416"/>
+    <nd ref="407082991"/>
+    <nd ref="407322950"/>
+    <nd ref="407322952"/>
+    <nd ref="407082993"/>
+    <nd ref="407322957"/>
+    <nd ref="407322959"/>
+    <nd ref="407322962"/>
+    <nd ref="407082995"/>
+    <nd ref="407322966"/>
+    <nd ref="407322969"/>
+    <nd ref="407278049"/>
+    <nd ref="407322974"/>
+    <nd ref="407322976"/>
+    <nd ref="407322978"/>
+    <nd ref="407322981"/>
+    <nd ref="407322984"/>
+    <nd ref="407322986"/>
+    <nd ref="407322989"/>
+    <nd ref="407082998"/>
+    <nd ref="407322993"/>
+    <nd ref="407322996"/>
+    <nd ref="407322998"/>
+    <nd ref="408030260"/>
+    <nd ref="407083000"/>
+    <nd ref="407278060"/>
+    <nd ref="407533545"/>
+    <nd ref="407891035"/>
+    <nd ref="407891036"/>
+    <nd ref="407275774"/>
+    <nd ref="407083002"/>
+    <nd ref="407090776"/>
+    <nd ref="407533287"/>
+    <nd ref="407090780"/>
+    <nd ref="407533289"/>
+    <nd ref="407090786"/>
+    <nd ref="407893631"/>
+    <nd ref="407533292"/>
+    <nd ref="407533293"/>
+    <nd ref="407090789"/>
+    <nd ref="407893636"/>
+    <nd ref="407090793"/>
+    <nd ref="407893635"/>
+    <nd ref="407533296"/>
+    <nd ref="407090796"/>
+    <nd ref="407893637"/>
+    <nd ref="407090802"/>
+    <nd ref="407090807"/>
+    <nd ref="407533297"/>
+    <nd ref="407893648"/>
+    <nd ref="407533301"/>
+    <nd ref="407533304"/>
+    <nd ref="358409154"/>
+    <nd ref="407533305"/>
+    <nd ref="407533309"/>
+    <nd ref="407533312"/>
+    <nd ref="407533314"/>
+    <nd ref="407533317"/>
+    <nd ref="407533320"/>
+    <nd ref="407533322"/>
+    <nd ref="407533325"/>
+    <nd ref="407533327"/>
+    <nd ref="407533330"/>
+    <nd ref="407533332"/>
+    <nd ref="407533335"/>
+    <nd ref="407533337"/>
+    <nd ref="407533340"/>
+    <nd ref="407533342"/>
+    <nd ref="407533345"/>
+    <nd ref="407533347"/>
+    <nd ref="407533350"/>
+    <nd ref="407533352"/>
+    <nd ref="407533355"/>
+    <nd ref="407533357"/>
+    <nd ref="407533360"/>
+    <nd ref="407533362"/>
+    <nd ref="407533365"/>
+    <nd ref="407533368"/>
+    <nd ref="407533370"/>
+    <nd ref="407533373"/>
+    <nd ref="407533375"/>
+    <nd ref="407533378"/>
+    <nd ref="407533381"/>
+    <nd ref="407533383"/>
+    <nd ref="407533385"/>
+    <nd ref="407533388"/>
+    <nd ref="407533390"/>
+    <nd ref="407533393"/>
+    <nd ref="407533396"/>
+    <nd ref="407533398"/>
+    <nd ref="407533400"/>
+    <nd ref="407533401"/>
+    <nd ref="407533402"/>
+    <nd ref="407533404"/>
+    <nd ref="407533405"/>
+    <nd ref="407533408"/>
+    <nd ref="407533410"/>
+    <nd ref="407533413"/>
+    <nd ref="407533415"/>
+    <nd ref="410235926"/>
+    <nd ref="410235927"/>
+    <nd ref="410235928"/>
+    <nd ref="410235929"/>
+    <nd ref="410235930"/>
+    <nd ref="407533418"/>
+    <nd ref="410235931"/>
+    <nd ref="410235932"/>
+    <nd ref="407533420"/>
+    <nd ref="410235933"/>
+    <nd ref="407533423"/>
+    <nd ref="407533425"/>
+    <nd ref="407533428"/>
+    <nd ref="410235934"/>
+    <nd ref="407533430"/>
+    <nd ref="407533433"/>
+    <nd ref="407533435"/>
+    <nd ref="410235935"/>
+    <nd ref="407533437"/>
+    <nd ref="410235936"/>
+    <nd ref="407533440"/>
+    <nd ref="407533443"/>
+    <nd ref="410235937"/>
+    <nd ref="407533445"/>
+    <nd ref="410235939"/>
+    <nd ref="410235938"/>
+    <nd ref="410235940"/>
+    <nd ref="407533448"/>
+    <nd ref="407533450"/>
+    <nd ref="407533453"/>
+    <nd ref="407533456"/>
+    <nd ref="407533507"/>
+    <nd ref="407533509"/>
+    <nd ref="407533512"/>
+    <nd ref="407533514"/>
+    <nd ref="407533517"/>
+    <nd ref="407533519"/>
+    <nd ref="407533522"/>
+    <nd ref="407533525"/>
+    <nd ref="407533527"/>
+    <nd ref="407533530"/>
+    <nd ref="407533532"/>
+    <nd ref="407533534"/>
+    <nd ref="407533536"/>
+    <nd ref="407533540"/>
+    <nd ref="407533542"/>
+    <tag k="name" v="MacIntyre River"/>
+    <tag k="waterway" v="river"/>
+  </way>
+  <way id="34831748" version="5" timestamp="2009-05-24T08:49:26Z" uid="74617" user="JohnSmith" changeset="1303021">
+    <nd ref="408107161"/>
+    <nd ref="408107158"/>
+    <nd ref="408107155"/>
+    <nd ref="408107154"/>
+    <nd ref="408107152"/>
+    <nd ref="408107149"/>
+    <nd ref="408107145"/>
+    <nd ref="408107142"/>
+    <nd ref="408107139"/>
+    <nd ref="408107136"/>
+    <nd ref="408107130"/>
+    <nd ref="408107125"/>
+    <nd ref="408107124"/>
+    <nd ref="408107123"/>
+    <nd ref="408107121"/>
+    <nd ref="408107116"/>
+    <nd ref="408107113"/>
+    <nd ref="408107109"/>
+    <nd ref="408107105"/>
+    <nd ref="408107103"/>
+    <nd ref="408107098"/>
+    <nd ref="408107095"/>
+    <nd ref="408107092"/>
+    <nd ref="408107091"/>
+    <nd ref="408107086"/>
+    <nd ref="408107084"/>
+    <nd ref="408107081"/>
+    <nd ref="408107077"/>
+    <nd ref="408107075"/>
+    <nd ref="408107073"/>
+    <nd ref="408107068"/>
+    <nd ref="408107064"/>
+    <nd ref="408107061"/>
+    <nd ref="408107058"/>
+    <nd ref="408107057"/>
+    <nd ref="408107056"/>
+    <nd ref="408107052"/>
+    <nd ref="408107050"/>
+    <nd ref="408107046"/>
+    <nd ref="408107044"/>
+    <nd ref="408107039"/>
+    <nd ref="408107034"/>
+    <nd ref="408107031"/>
+    <nd ref="408107029"/>
+    <nd ref="408107025"/>
+    <nd ref="408107023"/>
+    <nd ref="408107021"/>
+    <nd ref="408107016"/>
+    <nd ref="355527964"/>
+    <nd ref="355527954"/>
+    <nd ref="408107011"/>
+    <nd ref="408107007"/>
+    <nd ref="408107004"/>
+    <nd ref="408107001"/>
+    <nd ref="408106998"/>
+    <nd ref="408106996"/>
+    <nd ref="408106993"/>
+    <nd ref="408106992"/>
+    <nd ref="408106991"/>
+    <nd ref="408106987"/>
+    <nd ref="407905424"/>
+    <nd ref="407905422"/>
+    <nd ref="407905421"/>
+    <nd ref="407905419"/>
+    <nd ref="408088768"/>
+    <nd ref="408088771"/>
+    <nd ref="408088774"/>
+    <nd ref="408088777"/>
+    <nd ref="408088775"/>
+    <nd ref="407533284"/>
+    <nd ref="407533283"/>
+    <nd ref="407533280"/>
+    <nd ref="407533277"/>
+    <nd ref="407533275"/>
+    <nd ref="407533272"/>
+    <nd ref="407533270"/>
+    <nd ref="407533267"/>
+    <nd ref="407533265"/>
+    <nd ref="407533262"/>
+    <nd ref="407614783"/>
+    <nd ref="407533260"/>
+    <nd ref="407533257"/>
+    <nd ref="408088766"/>
+    <nd ref="407533255"/>
+    <nd ref="407533252"/>
+    <nd ref="408088765"/>
+    <nd ref="407533234"/>
+    <nd ref="407533232"/>
+    <nd ref="407533230"/>
+    <nd ref="408088762"/>
+    <nd ref="408088764"/>
+    <nd ref="407533228"/>
+    <nd ref="407533225"/>
+    <nd ref="407533223"/>
+    <nd ref="407533220"/>
+    <nd ref="408088760"/>
+    <nd ref="407533218"/>
+    <nd ref="407533215"/>
+    <nd ref="407082971"/>
+    <nd ref="407082973"/>
+    <nd ref="408088757"/>
+    <nd ref="408088755"/>
+    <nd ref="407533213"/>
+    <nd ref="408088758"/>
+    <nd ref="407093364"/>
+    <nd ref="407533210"/>
+    <nd ref="408088753"/>
+    <nd ref="407533205"/>
+    <nd ref="407533208"/>
+    <nd ref="408088751"/>
+    <nd ref="407093368"/>
+    <nd ref="407533203"/>
+    <nd ref="407533200"/>
+    <nd ref="407533197"/>
+    <nd ref="407093374"/>
+    <nd ref="410235700"/>
+    <nd ref="407093641"/>
+    <nd ref="410235701"/>
+    <nd ref="407092768"/>
+    <nd ref="407579162"/>
+    <nd ref="407579159"/>
+    <nd ref="407092774"/>
+    <nd ref="407533195"/>
+    <nd ref="407579158"/>
+    <nd ref="407579156"/>
+    <nd ref="407533192"/>
+    <nd ref="407533184"/>
+    <nd ref="407579154"/>
+    <nd ref="407579152"/>
+    <nd ref="407092783"/>
+    <nd ref="407579151"/>
+    <nd ref="407092788"/>
+    <nd ref="407092794"/>
+    <nd ref="407579148"/>
+    <nd ref="407533178"/>
+    <nd ref="407533183"/>
+    <nd ref="408088748"/>
+    <nd ref="407090694"/>
+    <nd ref="407579142"/>
+    <nd ref="407579143"/>
+    <nd ref="407579140"/>
+    <nd ref="407579145"/>
+    <nd ref="407091452"/>
+    <nd ref="408088746"/>
+    <nd ref="407579147"/>
+    <nd ref="408088742"/>
+    <nd ref="408088744"/>
+    <nd ref="407090701"/>
+    <nd ref="407579111"/>
+    <nd ref="407090710"/>
+    <nd ref="407579114"/>
+    <nd ref="407579113"/>
+    <nd ref="407579117"/>
+    <nd ref="407090718"/>
+    <nd ref="407579118"/>
+    <nd ref="407579120"/>
+    <nd ref="407579122"/>
+    <nd ref="407090726"/>
+    <nd ref="407579126"/>
+    <nd ref="407579128"/>
+    <nd ref="407579129"/>
+    <nd ref="407579124"/>
+    <nd ref="407579132"/>
+    <nd ref="407090734"/>
+    <nd ref="408088737"/>
+    <nd ref="408088740"/>
+    <nd ref="407579139"/>
+    <nd ref="407090740"/>
+    <nd ref="407579138"/>
+    <nd ref="407579135"/>
+    <nd ref="407090746"/>
+    <nd ref="407579134"/>
+    <nd ref="407328800"/>
+    <nd ref="407328801"/>
+    <nd ref="407328802"/>
+    <nd ref="407328803"/>
+    <nd ref="407573897"/>
+    <nd ref="407090750"/>
+    <nd ref="407573896"/>
+    <nd ref="407573893"/>
+    <nd ref="407328804"/>
+    <nd ref="407573892"/>
+    <nd ref="407573889"/>
+    <nd ref="407090754"/>
+    <nd ref="407573888"/>
+    <nd ref="407533167"/>
+    <nd ref="407533169"/>
+    <nd ref="407090760"/>
+    <nd ref="407573884"/>
+    <nd ref="407090767"/>
+    <nd ref="407573886"/>
+    <nd ref="407533172"/>
+    <nd ref="407084213"/>
+    <nd ref="407533174"/>
+    <nd ref="407573882"/>
+    <nd ref="407084229"/>
+    <nd ref="407573881"/>
+    <nd ref="407533177"/>
+    <nd ref="408088735"/>
+    <nd ref="407084233"/>
+    <nd ref="408088731"/>
+    <nd ref="407533163"/>
+    <nd ref="408088733"/>
+    <nd ref="407084238"/>
+    <nd ref="408037057"/>
+    <nd ref="407573879"/>
+    <nd ref="407573878"/>
+    <nd ref="407573870"/>
+    <nd ref="407727835"/>
+    <nd ref="407573871"/>
+    <nd ref="407328796"/>
+    <nd ref="407573875"/>
+    <nd ref="407082975"/>
+    <nd ref="407573876"/>
+    <nd ref="407533160"/>
+    <nd ref="407573873"/>
+    <nd ref="407082978"/>
+    <nd ref="407082980"/>
+    <nd ref="407082982"/>
+    <nd ref="408088729"/>
+    <nd ref="407096230"/>
+    <nd ref="407096234"/>
+    <nd ref="408088727"/>
+    <nd ref="408088724"/>
+    <nd ref="407096237"/>
+    <nd ref="407096238"/>
+    <nd ref="408088722"/>
+    <nd ref="408088719"/>
+    <nd ref="408088717"/>
+    <nd ref="407096241"/>
+    <nd ref="408088714"/>
+    <nd ref="408088712"/>
+    <nd ref="408088710"/>
+    <nd ref="407095195"/>
+    <nd ref="408088706"/>
+    <nd ref="408088704"/>
+    <nd ref="408088708"/>
+    <nd ref="407095200"/>
+    <nd ref="407082984"/>
+    <nd ref="408030267"/>
+    <nd ref="408030265"/>
+    <nd ref="408030262"/>
+    <nd ref="407082986"/>
+    <nd ref="408088701"/>
+    <nd ref="408030269"/>
+    <nd ref="407328797"/>
+    <nd ref="407328798"/>
+    <nd ref="407082988"/>
+    <nd ref="408088700"/>
+    <nd ref="408030257"/>
+    <nd ref="407328799"/>
+    <nd ref="408074416"/>
+    <nd ref="407082991"/>
+    <nd ref="407322950"/>
+    <nd ref="407322952"/>
+    <nd ref="407082993"/>
+    <nd ref="407322957"/>
+    <nd ref="407322959"/>
+    <nd ref="407322962"/>
+    <nd ref="407082995"/>
+    <nd ref="407322966"/>
+    <nd ref="407322969"/>
+    <nd ref="407278049"/>
+    <nd ref="407322974"/>
+    <nd ref="407322976"/>
+    <nd ref="407322978"/>
+    <nd ref="407322981"/>
+    <nd ref="407322984"/>
+    <nd ref="407322986"/>
+    <nd ref="407322989"/>
+    <nd ref="407082998"/>
+    <nd ref="407322993"/>
+    <nd ref="407322996"/>
+    <nd ref="407322998"/>
+    <nd ref="408030260"/>
+    <nd ref="407083000"/>
+    <nd ref="407278060"/>
+    <nd ref="407533545"/>
+    <nd ref="407891035"/>
+    <nd ref="407891036"/>
+    <nd ref="407275774"/>
+    <nd ref="407083002"/>
+    <nd ref="407090776"/>
+    <nd ref="407533287"/>
+    <nd ref="407090780"/>
+    <nd ref="407533289"/>
+    <nd ref="407090786"/>
+    <nd ref="407893631"/>
+    <nd ref="407533292"/>
+    <nd ref="407533293"/>
+    <nd ref="407090789"/>
+    <nd ref="407893636"/>
+    <nd ref="407090793"/>
+    <nd ref="407893635"/>
+    <nd ref="407533296"/>
+    <nd ref="407090796"/>
+    <nd ref="407893637"/>
+    <nd ref="407090802"/>
+    <nd ref="407090807"/>
+    <nd ref="407533297"/>
+    <nd ref="407893648"/>
+    <nd ref="407533301"/>
+    <nd ref="407533304"/>
+    <nd ref="358409154"/>
+    <nd ref="407533305"/>
+    <nd ref="407533309"/>
+    <nd ref="407533312"/>
+    <nd ref="407533314"/>
+    <nd ref="407533317"/>
+    <nd ref="407533320"/>
+    <nd ref="407533322"/>
+    <nd ref="407533325"/>
+    <nd ref="407533327"/>
+    <nd ref="407533330"/>
+    <nd ref="407533332"/>
+    <nd ref="407533335"/>
+    <nd ref="407533337"/>
+    <nd ref="407533340"/>
+    <nd ref="407533342"/>
+    <nd ref="407533345"/>
+    <nd ref="407533347"/>
+    <nd ref="407533350"/>
+    <nd ref="407533352"/>
+    <nd ref="407533355"/>
+    <nd ref="407533357"/>
+    <nd ref="407533360"/>
+    <nd ref="407533362"/>
+    <nd ref="407533365"/>
+    <nd ref="407533368"/>
+    <nd ref="407533370"/>
+    <nd ref="407533373"/>
+    <nd ref="407533375"/>
+    <nd ref="407533378"/>
+    <nd ref="407533381"/>
+    <nd ref="407533383"/>
+    <nd ref="407533385"/>
+    <nd ref="407533388"/>
+    <nd ref="407533390"/>
+    <nd ref="407533393"/>
+    <nd ref="407533396"/>
+    <nd ref="407533398"/>
+    <nd ref="407533400"/>
+    <nd ref="407533401"/>
+    <nd ref="407533402"/>
+    <nd ref="407533404"/>
+    <nd ref="407533405"/>
+    <nd ref="407533408"/>
+    <nd ref="407533410"/>
+    <nd ref="407533413"/>
+    <nd ref="407533415"/>
+    <nd ref="410235926"/>
+    <nd ref="410235927"/>
+    <nd ref="410235928"/>
+    <nd ref="410235929"/>
+    <nd ref="410235930"/>
+    <nd ref="407533418"/>
+    <nd ref="410235931"/>
+    <nd ref="410235932"/>
+    <nd ref="407533420"/>
+    <nd ref="410235933"/>
+    <nd ref="407533423"/>
+    <nd ref="407533425"/>
+    <nd ref="407533428"/>
+    <nd ref="410235934"/>
+    <nd ref="407533430"/>
+    <nd ref="407533433"/>
+    <nd ref="407533435"/>
+    <nd ref="410235935"/>
+    <nd ref="407533437"/>
+    <nd ref="410235936"/>
+    <nd ref="407533440"/>
+    <nd ref="407533443"/>
+    <nd ref="410235937"/>
+    <nd ref="407533445"/>
+    <nd ref="410235939"/>
+    <nd ref="410235938"/>
+    <nd ref="410235940"/>
+    <nd ref="407533448"/>
+    <nd ref="407533450"/>
+    <nd ref="407533453"/>
+    <nd ref="407533456"/>
+    <nd ref="407533507"/>
+    <nd ref="407533509"/>
+    <nd ref="407533512"/>
+    <nd ref="407533514"/>
+    <nd ref="407533517"/>
+    <nd ref="407533519"/>
+    <nd ref="407533522"/>
+    <nd ref="407533525"/>
+    <nd ref="407533527"/>
+    <nd ref="407533530"/>
+    <nd ref="407533532"/>
+    <nd ref="407533534"/>
+    <nd ref="407533536"/>
+    <nd ref="407533540"/>
+    <nd ref="407533542"/>
+    <tag k="name" v="MacIntyre River"/>
+    <tag k="source" v="yahoo"/>
+    <tag k="waterway" v="river"/>
+  </way>
+  <way id="34831748" version="6" timestamp="2009-05-25T02:34:12Z" uid="74617" user="JohnSmith" changeset="1312533">
+    <nd ref="408107161"/>
+    <nd ref="408107158"/>
+    <nd ref="408107155"/>
+    <nd ref="408107154"/>
+    <nd ref="408107152"/>
+    <nd ref="408107149"/>
+    <nd ref="408107145"/>
+    <nd ref="408107142"/>
+    <nd ref="408107139"/>
+    <nd ref="408107136"/>
+    <nd ref="408107130"/>
+    <nd ref="408107125"/>
+    <nd ref="408107124"/>
+    <nd ref="408107123"/>
+    <nd ref="408107121"/>
+    <nd ref="408107116"/>
+    <nd ref="408107113"/>
+    <nd ref="408107109"/>
+    <nd ref="408107105"/>
+    <nd ref="408107103"/>
+    <nd ref="408107098"/>
+    <nd ref="408107095"/>
+    <nd ref="408107092"/>
+    <nd ref="408107091"/>
+    <nd ref="408107086"/>
+    <nd ref="408107084"/>
+    <nd ref="408107081"/>
+    <nd ref="408107077"/>
+    <nd ref="408107075"/>
+    <nd ref="408107073"/>
+    <nd ref="408107068"/>
+    <nd ref="408107064"/>
+    <nd ref="408107061"/>
+    <nd ref="408107058"/>
+    <nd ref="408107057"/>
+    <nd ref="408107056"/>
+    <nd ref="408107052"/>
+    <nd ref="408107050"/>
+    <nd ref="408107046"/>
+    <nd ref="408107044"/>
+    <nd ref="408107039"/>
+    <nd ref="408107034"/>
+    <nd ref="408107031"/>
+    <nd ref="408107029"/>
+    <nd ref="408107025"/>
+    <nd ref="408107023"/>
+    <nd ref="408107021"/>
+    <nd ref="408107016"/>
+    <nd ref="355527964"/>
+    <nd ref="355527954"/>
+    <nd ref="408107011"/>
+    <nd ref="408107007"/>
+    <nd ref="408107004"/>
+    <nd ref="408107001"/>
+    <nd ref="408106998"/>
+    <nd ref="408106996"/>
+    <nd ref="408106993"/>
+    <nd ref="408106992"/>
+    <nd ref="408106991"/>
+    <nd ref="408106987"/>
+    <nd ref="407905424"/>
+    <nd ref="407905422"/>
+    <nd ref="407905421"/>
+    <nd ref="407905419"/>
+    <nd ref="408088768"/>
+    <nd ref="408088771"/>
+    <nd ref="408088774"/>
+    <nd ref="408088777"/>
+    <nd ref="408088775"/>
+    <nd ref="407533284"/>
+    <nd ref="407533283"/>
+    <nd ref="407533280"/>
+    <nd ref="407533277"/>
+    <nd ref="407533275"/>
+    <nd ref="407533272"/>
+    <nd ref="407533270"/>
+    <nd ref="407533267"/>
+    <nd ref="407533265"/>
+    <nd ref="407533262"/>
+    <nd ref="407614783"/>
+    <nd ref="407533260"/>
+    <nd ref="407533257"/>
+    <nd ref="408088766"/>
+    <nd ref="407533255"/>
+    <nd ref="407533252"/>
+    <nd ref="408088765"/>
+    <nd ref="407533234"/>
+    <nd ref="407533232"/>
+    <nd ref="407533230"/>
+    <nd ref="408088762"/>
+    <nd ref="408088764"/>
+    <nd ref="407533228"/>
+    <nd ref="407533225"/>
+    <nd ref="407533223"/>
+    <nd ref="407533220"/>
+    <nd ref="408088760"/>
+    <nd ref="407533218"/>
+    <nd ref="407533215"/>
+    <nd ref="407082971"/>
+    <nd ref="407082973"/>
+    <nd ref="408088757"/>
+    <nd ref="408088755"/>
+    <nd ref="407533213"/>
+    <nd ref="408088758"/>
+    <nd ref="407093364"/>
+    <nd ref="407533210"/>
+    <nd ref="408088753"/>
+    <nd ref="407533205"/>
+    <nd ref="407533208"/>
+    <nd ref="408088751"/>
+    <nd ref="407093368"/>
+    <nd ref="407533203"/>
+    <nd ref="407533200"/>
+    <nd ref="407533197"/>
+    <nd ref="407093374"/>
+    <nd ref="410235700"/>
+    <nd ref="407093641"/>
+    <nd ref="410235701"/>
+    <nd ref="407092768"/>
+    <nd ref="407579162"/>
+    <nd ref="407579159"/>
+    <nd ref="407092774"/>
+    <nd ref="407533195"/>
+    <nd ref="407579158"/>
+    <nd ref="407579156"/>
+    <nd ref="407533192"/>
+    <nd ref="407533184"/>
+    <nd ref="407579154"/>
+    <nd ref="407579152"/>
+    <nd ref="407092783"/>
+    <nd ref="407579151"/>
+    <nd ref="407092788"/>
+    <nd ref="407092794"/>
+    <nd ref="407579148"/>
+    <nd ref="407533178"/>
+    <nd ref="407533183"/>
+    <nd ref="408088748"/>
+    <nd ref="407090694"/>
+    <nd ref="407579142"/>
+    <nd ref="407579143"/>
+    <nd ref="407579140"/>
+    <nd ref="407579145"/>
+    <nd ref="407091452"/>
+    <nd ref="408088746"/>
+    <nd ref="407579147"/>
+    <nd ref="408088742"/>
+    <nd ref="408088744"/>
+    <nd ref="407090701"/>
+    <nd ref="407579111"/>
+    <nd ref="407090710"/>
+    <nd ref="407579114"/>
+    <nd ref="407579113"/>
+    <nd ref="407579117"/>
+    <nd ref="407090718"/>
+    <nd ref="407579118"/>
+    <nd ref="407579120"/>
+    <nd ref="407579122"/>
+    <nd ref="407090726"/>
+    <nd ref="407579126"/>
+    <nd ref="407579128"/>
+    <nd ref="407579129"/>
+    <nd ref="407579124"/>
+    <nd ref="407579132"/>
+    <nd ref="407090734"/>
+    <nd ref="408088737"/>
+    <nd ref="408088740"/>
+    <nd ref="407579139"/>
+    <nd ref="407090740"/>
+    <nd ref="407579138"/>
+    <nd ref="407579135"/>
+    <nd ref="407090746"/>
+    <nd ref="407579134"/>
+    <nd ref="407328800"/>
+    <nd ref="407328801"/>
+    <nd ref="407328802"/>
+    <nd ref="407328803"/>
+    <nd ref="407573897"/>
+    <nd ref="407090750"/>
+    <nd ref="407573896"/>
+    <nd ref="407573893"/>
+    <nd ref="407328804"/>
+    <nd ref="407573892"/>
+    <nd ref="407573889"/>
+    <nd ref="407090754"/>
+    <nd ref="407573888"/>
+    <nd ref="407533167"/>
+    <nd ref="407533169"/>
+    <nd ref="407090760"/>
+    <nd ref="407573884"/>
+    <nd ref="407090767"/>
+    <nd ref="407573886"/>
+    <nd ref="407533172"/>
+    <nd ref="407084213"/>
+    <nd ref="407533174"/>
+    <nd ref="407573882"/>
+    <nd ref="407084229"/>
+    <nd ref="407573881"/>
+    <nd ref="407533177"/>
+    <nd ref="408088735"/>
+    <nd ref="407084233"/>
+    <nd ref="408088731"/>
+    <nd ref="407533163"/>
+    <nd ref="408088733"/>
+    <nd ref="407084238"/>
+    <nd ref="408037057"/>
+    <nd ref="407573879"/>
+    <nd ref="407573878"/>
+    <nd ref="407573870"/>
+    <nd ref="407727835"/>
+    <nd ref="407573871"/>
+    <nd ref="407328796"/>
+    <nd ref="407573875"/>
+    <nd ref="407082975"/>
+    <nd ref="407573876"/>
+    <nd ref="407533160"/>
+    <nd ref="407573873"/>
+    <nd ref="407082978"/>
+    <nd ref="407082980"/>
+    <nd ref="407082982"/>
+    <nd ref="408088729"/>
+    <nd ref="407096230"/>
+    <nd ref="407096234"/>
+    <nd ref="408088727"/>
+    <nd ref="408088724"/>
+    <nd ref="407096237"/>
+    <nd ref="407096238"/>
+    <nd ref="408088722"/>
+    <nd ref="408088719"/>
+    <nd ref="408088717"/>
+    <nd ref="407096241"/>
+    <nd ref="408088714"/>
+    <nd ref="408088712"/>
+    <nd ref="408088710"/>
+    <nd ref="407095195"/>
+    <nd ref="408088706"/>
+    <nd ref="408088704"/>
+    <nd ref="408088708"/>
+    <nd ref="407095200"/>
+    <nd ref="407082984"/>
+    <nd ref="408030267"/>
+    <nd ref="408030265"/>
+    <nd ref="408030262"/>
+    <nd ref="407082986"/>
+    <nd ref="408088701"/>
+    <nd ref="408030269"/>
+    <nd ref="407328797"/>
+    <nd ref="407328798"/>
+    <nd ref="407082988"/>
+    <nd ref="408088700"/>
+    <nd ref="408030257"/>
+    <nd ref="407328799"/>
+    <nd ref="408074416"/>
+    <nd ref="407082991"/>
+    <nd ref="407322950"/>
+    <nd ref="407322952"/>
+    <nd ref="407082993"/>
+    <nd ref="407322957"/>
+    <nd ref="407322959"/>
+    <nd ref="407322962"/>
+    <nd ref="407082995"/>
+    <nd ref="407322966"/>
+    <nd ref="407322969"/>
+    <nd ref="407278049"/>
+    <nd ref="407322974"/>
+    <nd ref="407322976"/>
+    <nd ref="407322978"/>
+    <nd ref="407322981"/>
+    <nd ref="407322984"/>
+    <nd ref="407322986"/>
+    <nd ref="407322989"/>
+    <nd ref="407082998"/>
+    <nd ref="407322993"/>
+    <nd ref="407322996"/>
+    <nd ref="407322998"/>
+    <nd ref="408030260"/>
+    <nd ref="407083000"/>
+    <nd ref="407278060"/>
+    <nd ref="407533545"/>
+    <nd ref="407891035"/>
+    <nd ref="407891036"/>
+    <nd ref="407275774"/>
+    <nd ref="407083002"/>
+    <nd ref="407090776"/>
+    <nd ref="407533287"/>
+    <nd ref="407090780"/>
+    <nd ref="407533289"/>
+    <nd ref="407090786"/>
+    <nd ref="407893631"/>
+    <nd ref="407533292"/>
+    <nd ref="407533293"/>
+    <nd ref="407090789"/>
+    <nd ref="407893636"/>
+    <nd ref="407090793"/>
+    <nd ref="407893635"/>
+    <nd ref="407533296"/>
+    <nd ref="407090796"/>
+    <nd ref="407893637"/>
+    <nd ref="407090802"/>
+    <nd ref="407090807"/>
+    <nd ref="407533297"/>
+    <nd ref="407893648"/>
+    <nd ref="407533301"/>
+    <nd ref="407533304"/>
+    <nd ref="358409154"/>
+    <tag k="name" v="MacIntyre River"/>
+    <tag k="source" v="yahoo"/>
+    <tag k="waterway" v="river"/>
+  </way>
+  <way id="34831748" version="7" timestamp="2009-06-04T06:00:18Z" uid="74617" user="JohnSmith" changeset="1418677">
+    <nd ref="408107161"/>
+    <nd ref="408107158"/>
+    <nd ref="408107155"/>
+    <nd ref="408107154"/>
+    <nd ref="408107152"/>
+    <nd ref="408107149"/>
+    <nd ref="408107145"/>
+    <nd ref="408107142"/>
+    <nd ref="408107139"/>
+    <nd ref="408107136"/>
+    <nd ref="408107130"/>
+    <nd ref="408107125"/>
+    <nd ref="408107124"/>
+    <nd ref="408107123"/>
+    <nd ref="408107121"/>
+    <nd ref="408107116"/>
+    <nd ref="408107113"/>
+    <nd ref="408107109"/>
+    <nd ref="408107105"/>
+    <nd ref="408107103"/>
+    <nd ref="408107098"/>
+    <nd ref="408107095"/>
+    <nd ref="408107092"/>
+    <nd ref="408107091"/>
+    <nd ref="408107086"/>
+    <nd ref="408107084"/>
+    <nd ref="408107081"/>
+    <nd ref="408107077"/>
+    <nd ref="408107075"/>
+    <nd ref="408107073"/>
+    <nd ref="408107068"/>
+    <nd ref="408107064"/>
+    <nd ref="408107061"/>
+    <nd ref="408107058"/>
+    <nd ref="408107057"/>
+    <nd ref="408107056"/>
+    <nd ref="408107052"/>
+    <nd ref="408107050"/>
+    <nd ref="408107046"/>
+    <nd ref="408107044"/>
+    <nd ref="408107039"/>
+    <nd ref="408107034"/>
+    <nd ref="408107031"/>
+    <nd ref="408107029"/>
+    <nd ref="408107025"/>
+    <nd ref="408107023"/>
+    <nd ref="408107021"/>
+    <nd ref="408107016"/>
+    <nd ref="355527964"/>
+    <nd ref="355527954"/>
+    <nd ref="408107011"/>
+    <nd ref="408107007"/>
+    <nd ref="408107004"/>
+    <nd ref="408107001"/>
+    <nd ref="408106998"/>
+    <nd ref="408106996"/>
+    <nd ref="408106993"/>
+    <nd ref="408106992"/>
+    <nd ref="408106991"/>
+    <nd ref="408106987"/>
+    <nd ref="407905424"/>
+    <nd ref="407905422"/>
+    <nd ref="407905421"/>
+    <nd ref="407905419"/>
+    <nd ref="408088768"/>
+    <nd ref="408088771"/>
+    <nd ref="408088774"/>
+    <nd ref="408088777"/>
+    <nd ref="408088775"/>
+    <nd ref="407533284"/>
+    <nd ref="407533283"/>
+    <nd ref="407533280"/>
+    <nd ref="407533277"/>
+    <nd ref="407533275"/>
+    <nd ref="407533272"/>
+    <nd ref="407533270"/>
+    <nd ref="407533267"/>
+    <nd ref="407533265"/>
+    <nd ref="407533262"/>
+    <nd ref="407614783"/>
+    <nd ref="407533260"/>
+    <nd ref="407533257"/>
+    <nd ref="408088766"/>
+    <nd ref="407533255"/>
+    <nd ref="407533252"/>
+    <nd ref="408088765"/>
+    <nd ref="407533234"/>
+    <nd ref="407533232"/>
+    <nd ref="407533230"/>
+    <nd ref="408088762"/>
+    <nd ref="408088764"/>
+    <nd ref="407533228"/>
+    <nd ref="407533225"/>
+    <nd ref="407533223"/>
+    <nd ref="407533220"/>
+    <nd ref="408088760"/>
+    <nd ref="407533218"/>
+    <nd ref="407533215"/>
+    <nd ref="407082971"/>
+    <nd ref="407082973"/>
+    <nd ref="408088757"/>
+    <nd ref="408088755"/>
+    <nd ref="407533213"/>
+    <nd ref="408088758"/>
+    <nd ref="407093364"/>
+    <nd ref="407533210"/>
+    <nd ref="408088753"/>
+    <nd ref="407533205"/>
+    <nd ref="407533208"/>
+    <nd ref="408088751"/>
+    <nd ref="407093368"/>
+    <nd ref="407533203"/>
+    <nd ref="407533200"/>
+    <nd ref="407533197"/>
+    <nd ref="407093374"/>
+    <nd ref="410235700"/>
+    <nd ref="407093641"/>
+    <nd ref="410235701"/>
+    <nd ref="407092768"/>
+    <nd ref="407579162"/>
+    <nd ref="407579159"/>
+    <nd ref="407092774"/>
+    <nd ref="407533195"/>
+    <nd ref="407579158"/>
+    <nd ref="407579156"/>
+    <nd ref="407533192"/>
+    <nd ref="407533184"/>
+    <nd ref="407579154"/>
+    <nd ref="407579152"/>
+    <nd ref="407092783"/>
+    <nd ref="407579151"/>
+    <nd ref="407092788"/>
+    <nd ref="407092794"/>
+    <nd ref="407579148"/>
+    <nd ref="407533178"/>
+    <nd ref="407533183"/>
+    <nd ref="408088748"/>
+    <nd ref="407090694"/>
+    <nd ref="407579142"/>
+    <nd ref="407579143"/>
+    <nd ref="407579140"/>
+    <nd ref="407579145"/>
+    <nd ref="407091452"/>
+    <nd ref="408088746"/>
+    <nd ref="407579147"/>
+    <nd ref="408088742"/>
+    <nd ref="408088744"/>
+    <nd ref="407090701"/>
+    <nd ref="407579111"/>
+    <nd ref="407090710"/>
+    <nd ref="407579114"/>
+    <nd ref="407579113"/>
+    <nd ref="407579117"/>
+    <nd ref="407090718"/>
+    <nd ref="407579118"/>
+    <nd ref="407579120"/>
+    <nd ref="407579122"/>
+    <nd ref="407090726"/>
+    <nd ref="407579126"/>
+    <nd ref="407579128"/>
+    <nd ref="407579129"/>
+    <nd ref="407579124"/>
+    <nd ref="407579132"/>
+    <nd ref="407090734"/>
+    <nd ref="408088737"/>
+    <nd ref="408088740"/>
+    <nd ref="407579139"/>
+    <nd ref="407090740"/>
+    <nd ref="407579138"/>
+    <nd ref="407579135"/>
+    <nd ref="407090746"/>
+    <nd ref="407579134"/>
+    <nd ref="407328800"/>
+    <nd ref="407328801"/>
+    <nd ref="407328802"/>
+    <nd ref="407328803"/>
+    <nd ref="407573897"/>
+    <nd ref="407090750"/>
+    <nd ref="407573896"/>
+    <nd ref="407573893"/>
+    <nd ref="407328804"/>
+    <nd ref="407573892"/>
+    <nd ref="407573889"/>
+    <nd ref="407090754"/>
+    <nd ref="407573888"/>
+    <nd ref="407533167"/>
+    <nd ref="407533169"/>
+    <nd ref="407090760"/>
+    <nd ref="407573884"/>
+    <nd ref="407090767"/>
+    <nd ref="407573886"/>
+    <nd ref="407533172"/>
+    <nd ref="407084213"/>
+    <nd ref="407533174"/>
+    <nd ref="407573882"/>
+    <nd ref="407084229"/>
+    <nd ref="407573881"/>
+    <nd ref="407533177"/>
+    <nd ref="408088735"/>
+    <nd ref="407084233"/>
+    <nd ref="408088731"/>
+    <nd ref="407533163"/>
+    <nd ref="408088733"/>
+    <nd ref="407084238"/>
+    <nd ref="408037057"/>
+    <nd ref="407573879"/>
+    <nd ref="407573878"/>
+    <nd ref="407573870"/>
+    <nd ref="407727835"/>
+    <nd ref="407573871"/>
+    <nd ref="407328796"/>
+    <nd ref="407573875"/>
+    <nd ref="407082975"/>
+    <nd ref="407573876"/>
+    <nd ref="407533160"/>
+    <nd ref="407573873"/>
+    <nd ref="407082978"/>
+    <nd ref="407082980"/>
+    <nd ref="407082982"/>
+    <nd ref="408088729"/>
+    <nd ref="407096230"/>
+    <nd ref="407096234"/>
+    <nd ref="408088727"/>
+    <nd ref="408088724"/>
+    <nd ref="407096237"/>
+    <nd ref="407096238"/>
+    <nd ref="408088722"/>
+    <nd ref="408088719"/>
+    <nd ref="408088717"/>
+    <nd ref="407096241"/>
+    <nd ref="408088714"/>
+    <nd ref="408088712"/>
+    <nd ref="408088710"/>
+    <nd ref="407095195"/>
+    <nd ref="408088706"/>
+    <nd ref="408088704"/>
+    <nd ref="408088708"/>
+    <nd ref="407095200"/>
+    <nd ref="407082984"/>
+    <nd ref="408030267"/>
+    <nd ref="408030265"/>
+    <nd ref="408030262"/>
+    <nd ref="407082986"/>
+    <nd ref="408088701"/>
+    <nd ref="408030269"/>
+    <nd ref="407328797"/>
+    <nd ref="407328798"/>
+    <nd ref="407082988"/>
+    <nd ref="408088700"/>
+    <nd ref="408030257"/>
+    <nd ref="407328799"/>
+    <nd ref="408074416"/>
+    <nd ref="407082991"/>
+    <nd ref="407322950"/>
+    <nd ref="407322952"/>
+    <nd ref="407082993"/>
+    <nd ref="407322957"/>
+    <nd ref="407322959"/>
+    <nd ref="407322962"/>
+    <nd ref="407082995"/>
+    <nd ref="407322966"/>
+    <nd ref="407322969"/>
+    <nd ref="407278049"/>
+    <nd ref="407322974"/>
+    <nd ref="407322976"/>
+    <nd ref="407322978"/>
+    <nd ref="407322981"/>
+    <nd ref="407322984"/>
+    <nd ref="407322986"/>
+    <nd ref="407322989"/>
+    <nd ref="407082998"/>
+    <nd ref="407322993"/>
+    <nd ref="407322996"/>
+    <nd ref="415541479"/>
+    <nd ref="407322998"/>
+    <nd ref="408030260"/>
+    <nd ref="407083000"/>
+    <nd ref="407278060"/>
+    <nd ref="407533545"/>
+    <nd ref="407891035"/>
+    <nd ref="407891036"/>
+    <nd ref="407275774"/>
+    <nd ref="407083002"/>
+    <nd ref="407090776"/>
+    <nd ref="407533287"/>
+    <nd ref="407090780"/>
+    <nd ref="407533289"/>
+    <nd ref="407090786"/>
+    <nd ref="407893631"/>
+    <nd ref="407533292"/>
+    <nd ref="407533293"/>
+    <nd ref="407090789"/>
+    <nd ref="407893636"/>
+    <nd ref="407090793"/>
+    <nd ref="407893635"/>
+    <nd ref="407533296"/>
+    <nd ref="407090796"/>
+    <nd ref="407893637"/>
+    <nd ref="407090802"/>
+    <nd ref="407090807"/>
+    <nd ref="407533297"/>
+    <nd ref="407893648"/>
+    <nd ref="407533301"/>
+    <nd ref="407533304"/>
+    <nd ref="358409154"/>
+    <tag k="name" v="MacIntyre River"/>
+    <tag k="source" v="yahoo"/>
+    <tag k="waterway" v="river"/>
+  </way>
+  <way id="34831748" version="8" timestamp="2009-06-04T06:04:57Z" uid="74617" user="JohnSmith" changeset="1418706">
+    <nd ref="408107161"/>
+    <nd ref="408107158"/>
+    <nd ref="408107155"/>
+    <nd ref="408107154"/>
+    <nd ref="408107152"/>
+    <nd ref="408107149"/>
+    <nd ref="408107145"/>
+    <nd ref="408107142"/>
+    <nd ref="408107139"/>
+    <nd ref="408107136"/>
+    <nd ref="408107130"/>
+    <nd ref="408107125"/>
+    <nd ref="408107124"/>
+    <nd ref="408107123"/>
+    <nd ref="408107121"/>
+    <nd ref="408107116"/>
+    <nd ref="408107113"/>
+    <nd ref="408107109"/>
+    <nd ref="408107105"/>
+    <nd ref="408107103"/>
+    <nd ref="408107098"/>
+    <nd ref="408107095"/>
+    <nd ref="408107092"/>
+    <nd ref="408107091"/>
+    <nd ref="408107086"/>
+    <nd ref="408107084"/>
+    <nd ref="408107081"/>
+    <nd ref="408107077"/>
+    <nd ref="408107075"/>
+    <nd ref="408107073"/>
+    <nd ref="408107068"/>
+    <nd ref="408107064"/>
+    <nd ref="408107061"/>
+    <nd ref="408107058"/>
+    <nd ref="408107057"/>
+    <nd ref="408107056"/>
+    <nd ref="408107052"/>
+    <nd ref="408107050"/>
+    <nd ref="408107046"/>
+    <nd ref="408107044"/>
+    <nd ref="408107039"/>
+    <nd ref="408107034"/>
+    <nd ref="408107031"/>
+    <nd ref="408107029"/>
+    <nd ref="408107025"/>
+    <nd ref="408107023"/>
+    <nd ref="408107021"/>
+    <nd ref="408107016"/>
+    <nd ref="355527964"/>
+    <nd ref="355527954"/>
+    <nd ref="408107011"/>
+    <nd ref="408107007"/>
+    <nd ref="408107004"/>
+    <nd ref="408107001"/>
+    <nd ref="408106998"/>
+    <nd ref="408106996"/>
+    <nd ref="408106993"/>
+    <nd ref="408106992"/>
+    <nd ref="408106991"/>
+    <nd ref="408106987"/>
+    <nd ref="407905424"/>
+    <nd ref="407905422"/>
+    <nd ref="407905421"/>
+    <nd ref="407905419"/>
+    <nd ref="408088768"/>
+    <nd ref="408088771"/>
+    <nd ref="408088774"/>
+    <nd ref="408088777"/>
+    <nd ref="408088775"/>
+    <nd ref="407533284"/>
+    <nd ref="407533283"/>
+    <nd ref="407533280"/>
+    <nd ref="407533277"/>
+    <nd ref="407533275"/>
+    <nd ref="407533272"/>
+    <nd ref="407533270"/>
+    <nd ref="407533267"/>
+    <nd ref="407533265"/>
+    <nd ref="407533262"/>
+    <nd ref="407614783"/>
+    <nd ref="407533260"/>
+    <nd ref="407533257"/>
+    <nd ref="408088766"/>
+    <nd ref="407533255"/>
+    <nd ref="407533252"/>
+    <nd ref="408088765"/>
+    <nd ref="407533234"/>
+    <nd ref="407533232"/>
+    <nd ref="407533230"/>
+    <nd ref="408088762"/>
+    <nd ref="408088764"/>
+    <nd ref="407533228"/>
+    <nd ref="407533225"/>
+    <nd ref="407533223"/>
+    <nd ref="407533220"/>
+    <nd ref="408088760"/>
+    <nd ref="407533218"/>
+    <nd ref="407533215"/>
+    <nd ref="407082971"/>
+    <nd ref="407082973"/>
+    <nd ref="408088757"/>
+    <nd ref="408088755"/>
+    <nd ref="407533213"/>
+    <nd ref="408088758"/>
+    <nd ref="407093364"/>
+    <nd ref="407533210"/>
+    <nd ref="408088753"/>
+    <nd ref="407533205"/>
+    <nd ref="407533208"/>
+    <nd ref="408088751"/>
+    <nd ref="407093368"/>
+    <nd ref="407533203"/>
+    <nd ref="407533200"/>
+    <nd ref="407533197"/>
+    <nd ref="407093374"/>
+    <nd ref="410235700"/>
+    <nd ref="407093641"/>
+    <nd ref="410235701"/>
+    <nd ref="407092768"/>
+    <nd ref="407579162"/>
+    <nd ref="407579159"/>
+    <nd ref="407092774"/>
+    <nd ref="407533195"/>
+    <nd ref="407579158"/>
+    <nd ref="407579156"/>
+    <nd ref="407533192"/>
+    <nd ref="407533184"/>
+    <nd ref="407579154"/>
+    <nd ref="407579152"/>
+    <nd ref="407092783"/>
+    <nd ref="407579151"/>
+    <nd ref="407092788"/>
+    <nd ref="407092794"/>
+    <nd ref="407579148"/>
+    <nd ref="407533178"/>
+    <nd ref="407533183"/>
+    <nd ref="408088748"/>
+    <nd ref="407090694"/>
+    <nd ref="407579142"/>
+    <nd ref="407579143"/>
+    <nd ref="407579140"/>
+    <nd ref="407579145"/>
+    <nd ref="407091452"/>
+    <nd ref="408088746"/>
+    <nd ref="407579147"/>
+    <nd ref="408088742"/>
+    <nd ref="408088744"/>
+    <nd ref="407090701"/>
+    <nd ref="407579111"/>
+    <nd ref="407090710"/>
+    <nd ref="407579114"/>
+    <nd ref="407579113"/>
+    <nd ref="407579117"/>
+    <nd ref="407090718"/>
+    <nd ref="407579118"/>
+    <nd ref="407579120"/>
+    <nd ref="407579122"/>
+    <nd ref="407090726"/>
+    <nd ref="407579126"/>
+    <nd ref="407579128"/>
+    <nd ref="407579129"/>
+    <nd ref="407579124"/>
+    <nd ref="407579132"/>
+    <nd ref="407090734"/>
+    <nd ref="408088737"/>
+    <nd ref="408088740"/>
+    <nd ref="407579139"/>
+    <nd ref="407090740"/>
+    <nd ref="407579138"/>
+    <nd ref="407579135"/>
+    <nd ref="407090746"/>
+    <nd ref="407579134"/>
+    <nd ref="407328800"/>
+    <nd ref="407328801"/>
+    <nd ref="407328802"/>
+    <nd ref="407328803"/>
+    <nd ref="407573897"/>
+    <nd ref="407090750"/>
+    <nd ref="407573896"/>
+    <nd ref="407573893"/>
+    <nd ref="407328804"/>
+    <nd ref="407573892"/>
+    <nd ref="407573889"/>
+    <nd ref="407090754"/>
+    <nd ref="407573888"/>
+    <nd ref="407533167"/>
+    <nd ref="407533169"/>
+    <nd ref="407090760"/>
+    <nd ref="407573884"/>
+    <nd ref="407090767"/>
+    <nd ref="407573886"/>
+    <nd ref="407533172"/>
+    <nd ref="407084213"/>
+    <nd ref="407533174"/>
+    <nd ref="407573882"/>
+    <nd ref="407084229"/>
+    <nd ref="407573881"/>
+    <nd ref="407533177"/>
+    <nd ref="408088735"/>
+    <nd ref="407084233"/>
+    <nd ref="408088731"/>
+    <nd ref="407533163"/>
+    <nd ref="408088733"/>
+    <nd ref="407084238"/>
+    <nd ref="408037057"/>
+    <nd ref="407573879"/>
+    <nd ref="407573878"/>
+    <nd ref="407573870"/>
+    <nd ref="407727835"/>
+    <nd ref="407573871"/>
+    <nd ref="407328796"/>
+    <nd ref="407573875"/>
+    <nd ref="407082975"/>
+    <nd ref="407573876"/>
+    <nd ref="407533160"/>
+    <nd ref="407573873"/>
+    <nd ref="407082978"/>
+    <nd ref="407082980"/>
+    <nd ref="407082982"/>
+    <nd ref="408088729"/>
+    <nd ref="407096230"/>
+    <nd ref="407096234"/>
+    <nd ref="408088727"/>
+    <nd ref="408088724"/>
+    <nd ref="407096237"/>
+    <nd ref="407096238"/>
+    <nd ref="415543367"/>
+    <nd ref="408088722"/>
+    <nd ref="408088719"/>
+    <nd ref="408088717"/>
+    <nd ref="407096241"/>
+    <nd ref="408088714"/>
+    <nd ref="408088712"/>
+    <nd ref="408088710"/>
+    <nd ref="407095195"/>
+    <nd ref="408088706"/>
+    <nd ref="408088704"/>
+    <nd ref="408088708"/>
+    <nd ref="407095200"/>
+    <nd ref="407082984"/>
+    <nd ref="408030267"/>
+    <nd ref="408030265"/>
+    <nd ref="408030262"/>
+    <nd ref="407082986"/>
+    <nd ref="408088701"/>
+    <nd ref="408030269"/>
+    <nd ref="407328797"/>
+    <nd ref="407328798"/>
+    <nd ref="407082988"/>
+    <nd ref="408088700"/>
+    <nd ref="408030257"/>
+    <nd ref="407328799"/>
+    <nd ref="408074416"/>
+    <nd ref="407082991"/>
+    <nd ref="407322950"/>
+    <nd ref="407322952"/>
+    <nd ref="407082993"/>
+    <nd ref="407322957"/>
+    <nd ref="407322959"/>
+    <nd ref="407322962"/>
+    <nd ref="407082995"/>
+    <nd ref="407322966"/>
+    <nd ref="407322969"/>
+    <nd ref="407278049"/>
+    <nd ref="407322974"/>
+    <nd ref="407322976"/>
+    <nd ref="407322978"/>
+    <nd ref="407322981"/>
+    <nd ref="407322984"/>
+    <nd ref="407322986"/>
+    <nd ref="407322989"/>
+    <nd ref="407082998"/>
+    <nd ref="407322993"/>
+    <nd ref="407322996"/>
+    <nd ref="415541479"/>
+    <nd ref="407322998"/>
+    <nd ref="408030260"/>
+    <nd ref="407083000"/>
+    <nd ref="407278060"/>
+    <nd ref="407533545"/>
+    <nd ref="407891035"/>
+    <nd ref="407891036"/>
+    <nd ref="407275774"/>
+    <nd ref="407083002"/>
+    <nd ref="407090776"/>
+    <nd ref="407533287"/>
+    <nd ref="407090780"/>
+    <nd ref="407533289"/>
+    <nd ref="407090786"/>
+    <nd ref="407893631"/>
+    <nd ref="407533292"/>
+    <nd ref="407533293"/>
+    <nd ref="407090789"/>
+    <nd ref="407893636"/>
+    <nd ref="407090793"/>
+    <nd ref="407893635"/>
+    <nd ref="407533296"/>
+    <nd ref="407090796"/>
+    <nd ref="407893637"/>
+    <nd ref="407090802"/>
+    <nd ref="407090807"/>
+    <nd ref="407533297"/>
+    <nd ref="407893648"/>
+    <nd ref="407533301"/>
+    <nd ref="407533304"/>
+    <nd ref="358409154"/>
+    <tag k="name" v="MacIntyre River"/>
+    <tag k="source" v="yahoo"/>
+    <tag k="waterway" v="river"/>
+  </way>
+  <way id="34831748" version="9" timestamp="2009-07-04T20:50:14Z" uid="74617" user="JohnSmith" changeset="1733696">
+    <nd ref="408107161"/>
+    <nd ref="408107158"/>
+    <nd ref="408107155"/>
+    <nd ref="408107154"/>
+    <nd ref="408107152"/>
+    <nd ref="408107149"/>
+    <nd ref="408107145"/>
+    <nd ref="408107142"/>
+    <nd ref="408107139"/>
+    <nd ref="408107136"/>
+    <nd ref="408107130"/>
+    <nd ref="408107125"/>
+    <nd ref="408107124"/>
+    <nd ref="408107123"/>
+    <nd ref="408107121"/>
+    <nd ref="408107116"/>
+    <nd ref="408107113"/>
+    <nd ref="408107109"/>
+    <nd ref="408107105"/>
+    <nd ref="408107103"/>
+    <nd ref="408107098"/>
+    <nd ref="408107095"/>
+    <nd ref="408107092"/>
+    <nd ref="408107091"/>
+    <nd ref="408107086"/>
+    <nd ref="408107084"/>
+    <nd ref="408107081"/>
+    <nd ref="408107077"/>
+    <nd ref="408107075"/>
+    <nd ref="408107073"/>
+    <nd ref="408107068"/>
+    <nd ref="408107064"/>
+    <nd ref="408107061"/>
+    <nd ref="408107058"/>
+    <nd ref="408107057"/>
+    <nd ref="408107056"/>
+    <nd ref="408107052"/>
+    <nd ref="408107050"/>
+    <nd ref="408107046"/>
+    <nd ref="408107044"/>
+    <nd ref="408107039"/>
+    <nd ref="408107034"/>
+    <nd ref="408107031"/>
+    <nd ref="408107029"/>
+    <nd ref="408107025"/>
+    <nd ref="408107023"/>
+    <nd ref="408107021"/>
+    <nd ref="408107016"/>
+    <nd ref="355527964"/>
+    <nd ref="355527954"/>
+    <nd ref="408107011"/>
+    <nd ref="408107007"/>
+    <nd ref="408107004"/>
+    <nd ref="408107001"/>
+    <nd ref="408106998"/>
+    <nd ref="408106996"/>
+    <nd ref="408106993"/>
+    <nd ref="408106992"/>
+    <nd ref="408106991"/>
+    <nd ref="408106987"/>
+    <nd ref="407905424"/>
+    <nd ref="407905422"/>
+    <nd ref="407905421"/>
+    <nd ref="407905419"/>
+    <nd ref="408088768"/>
+    <nd ref="408088771"/>
+    <nd ref="408088774"/>
+    <nd ref="408088777"/>
+    <nd ref="408088775"/>
+    <nd ref="407533284"/>
+    <nd ref="407533283"/>
+    <nd ref="407533280"/>
+    <nd ref="407533277"/>
+    <nd ref="407533275"/>
+    <nd ref="407533272"/>
+    <nd ref="407533270"/>
+    <nd ref="407533267"/>
+    <nd ref="407533265"/>
+    <nd ref="407533262"/>
+    <nd ref="407614783"/>
+    <nd ref="407533260"/>
+    <nd ref="407533257"/>
+    <nd ref="408088766"/>
+    <nd ref="407533255"/>
+    <nd ref="407533252"/>
+    <nd ref="408088765"/>
+    <nd ref="407533234"/>
+    <nd ref="407533232"/>
+    <nd ref="407533230"/>
+    <nd ref="408088762"/>
+    <nd ref="408088764"/>
+    <nd ref="407533228"/>
+    <nd ref="407533225"/>
+    <nd ref="407533223"/>
+    <nd ref="407533220"/>
+    <nd ref="408088760"/>
+    <nd ref="407533218"/>
+    <nd ref="407533215"/>
+    <nd ref="407082971"/>
+    <nd ref="407082973"/>
+    <nd ref="408088757"/>
+    <nd ref="408088755"/>
+    <nd ref="407533213"/>
+    <nd ref="408088758"/>
+    <nd ref="407093364"/>
+    <nd ref="407533210"/>
+    <nd ref="408088753"/>
+    <nd ref="407533205"/>
+    <nd ref="407533208"/>
+    <nd ref="408088751"/>
+    <nd ref="407093368"/>
+    <nd ref="407533203"/>
+    <nd ref="407533200"/>
+    <nd ref="407533197"/>
+    <nd ref="407093374"/>
+    <nd ref="410235700"/>
+    <nd ref="407093641"/>
+    <nd ref="410235701"/>
+    <nd ref="407092768"/>
+    <nd ref="407579162"/>
+    <nd ref="407579159"/>
+    <nd ref="407092774"/>
+    <nd ref="407533195"/>
+    <nd ref="407579158"/>
+    <nd ref="407579156"/>
+    <nd ref="407533192"/>
+    <nd ref="407533184"/>
+    <nd ref="407579154"/>
+    <nd ref="407579152"/>
+    <nd ref="407092783"/>
+    <nd ref="407579151"/>
+    <nd ref="407092788"/>
+    <nd ref="407092794"/>
+    <nd ref="407579148"/>
+    <nd ref="407533178"/>
+    <nd ref="407533183"/>
+    <nd ref="408088748"/>
+    <nd ref="407090694"/>
+    <nd ref="407579142"/>
+    <nd ref="407579143"/>
+    <nd ref="407579140"/>
+    <nd ref="407579145"/>
+    <nd ref="407091452"/>
+    <nd ref="408088746"/>
+    <nd ref="407579147"/>
+    <nd ref="408088742"/>
+    <nd ref="408088744"/>
+    <nd ref="407090701"/>
+    <nd ref="407579111"/>
+    <nd ref="407090710"/>
+    <nd ref="407579114"/>
+    <nd ref="407579113"/>
+    <nd ref="407579117"/>
+    <nd ref="407090718"/>
+    <nd ref="407579118"/>
+    <nd ref="407579120"/>
+    <nd ref="407579122"/>
+    <nd ref="407090726"/>
+    <nd ref="407579126"/>
+    <nd ref="407579128"/>
+    <nd ref="407579129"/>
+    <nd ref="407579124"/>
+    <nd ref="407579132"/>
+    <nd ref="407090734"/>
+    <nd ref="408088737"/>
+    <nd ref="408088740"/>
+    <nd ref="407579139"/>
+    <nd ref="407090740"/>
+    <nd ref="407579138"/>
+    <nd ref="407579135"/>
+    <nd ref="407090746"/>
+    <nd ref="407579134"/>
+    <nd ref="407328800"/>
+    <nd ref="407328801"/>
+    <nd ref="407328802"/>
+    <nd ref="407328803"/>
+    <nd ref="407573897"/>
+    <nd ref="407090750"/>
+    <nd ref="407573896"/>
+    <nd ref="407573893"/>
+    <nd ref="407328804"/>
+    <nd ref="407573892"/>
+    <nd ref="407573889"/>
+    <nd ref="407090754"/>
+    <nd ref="407573888"/>
+    <nd ref="407533167"/>
+    <nd ref="407533169"/>
+    <nd ref="407090760"/>
+    <nd ref="407573884"/>
+    <nd ref="407090767"/>
+    <nd ref="407573886"/>
+    <nd ref="407533172"/>
+    <nd ref="407084213"/>
+    <nd ref="407533174"/>
+    <nd ref="407573882"/>
+    <nd ref="407084229"/>
+    <nd ref="407573881"/>
+    <nd ref="407533177"/>
+    <nd ref="408088735"/>
+    <nd ref="407084233"/>
+    <nd ref="408088731"/>
+    <nd ref="407533163"/>
+    <nd ref="408088733"/>
+    <nd ref="407084238"/>
+    <nd ref="408037057"/>
+    <nd ref="407573879"/>
+    <nd ref="407573878"/>
+    <nd ref="407573870"/>
+    <nd ref="408168155"/>
+    <nd ref="407573871"/>
+    <nd ref="407328796"/>
+    <nd ref="407573875"/>
+    <nd ref="407082975"/>
+    <nd ref="407573876"/>
+    <nd ref="407533160"/>
+    <nd ref="407573873"/>
+    <nd ref="407082978"/>
+    <nd ref="407082980"/>
+    <nd ref="407082982"/>
+    <nd ref="408088729"/>
+    <nd ref="407096230"/>
+    <nd ref="407096234"/>
+    <nd ref="408088727"/>
+    <nd ref="408088724"/>
+    <nd ref="407096237"/>
+    <nd ref="407096238"/>
+    <nd ref="415543367"/>
+    <nd ref="408088722"/>
+    <nd ref="408088719"/>
+    <nd ref="408088717"/>
+    <nd ref="407096241"/>
+    <nd ref="408088714"/>
+    <nd ref="408088712"/>
+    <nd ref="408088710"/>
+    <nd ref="407095195"/>
+    <nd ref="408088706"/>
+    <nd ref="408088704"/>
+    <nd ref="408088708"/>
+    <nd ref="407095200"/>
+    <nd ref="407082984"/>
+    <nd ref="408030267"/>
+    <nd ref="408030265"/>
+    <nd ref="408030262"/>
+    <nd ref="407082986"/>
+    <nd ref="408088701"/>
+    <nd ref="408030269"/>
+    <nd ref="407328797"/>
+    <nd ref="407328798"/>
+    <nd ref="407082988"/>
+    <nd ref="408088700"/>
+    <nd ref="408030257"/>
+    <nd ref="407328799"/>
+    <nd ref="408074416"/>
+    <nd ref="407082991"/>
+    <nd ref="407322950"/>
+    <nd ref="407322952"/>
+    <nd ref="407082993"/>
+    <nd ref="407322957"/>
+    <nd ref="407322959"/>
+    <nd ref="407322962"/>
+    <nd ref="407082995"/>
+    <nd ref="407322966"/>
+    <nd ref="407322969"/>
+    <nd ref="407278049"/>
+    <nd ref="407322974"/>
+    <nd ref="407322976"/>
+    <nd ref="407322978"/>
+    <nd ref="407322981"/>
+    <nd ref="407322984"/>
+    <nd ref="407322986"/>
+    <nd ref="407322989"/>
+    <nd ref="407082998"/>
+    <nd ref="407322993"/>
+    <nd ref="407322996"/>
+    <nd ref="415541479"/>
+    <nd ref="407322998"/>
+    <nd ref="408030260"/>
+    <nd ref="407083000"/>
+    <nd ref="407278060"/>
+    <nd ref="407533545"/>
+    <nd ref="407891035"/>
+    <nd ref="407891036"/>
+    <nd ref="407275774"/>
+    <nd ref="407083002"/>
+    <nd ref="407090776"/>
+    <nd ref="407533287"/>
+    <nd ref="407090780"/>
+    <nd ref="407533289"/>
+    <nd ref="407090786"/>
+    <nd ref="407893631"/>
+    <nd ref="407533292"/>
+    <nd ref="407533293"/>
+    <nd ref="407090789"/>
+    <nd ref="407893636"/>
+    <nd ref="407090793"/>
+    <nd ref="407893635"/>
+    <nd ref="407533296"/>
+    <nd ref="407090796"/>
+    <nd ref="407893637"/>
+    <nd ref="407090802"/>
+    <nd ref="407090807"/>
+    <nd ref="407533297"/>
+    <nd ref="407893648"/>
+    <nd ref="407533301"/>
+    <nd ref="407533304"/>
+    <nd ref="358409154"/>
+    <tag k="name" v="MacIntyre River"/>
+    <tag k="source" v="yahoo"/>
+    <tag k="waterway" v="river"/>
+  </way>
+  <way id="34831748" version="10" timestamp="2009-07-04T21:29:09Z" uid="74617" user="JohnSmith" changeset="1734009">
+    <nd ref="408107161"/>
+    <nd ref="408107158"/>
+    <nd ref="408107155"/>
+    <nd ref="408107154"/>
+    <nd ref="408107152"/>
+    <nd ref="408107149"/>
+    <nd ref="408107145"/>
+    <nd ref="408107142"/>
+    <nd ref="408107139"/>
+    <nd ref="408107136"/>
+    <nd ref="408107130"/>
+    <nd ref="408107125"/>
+    <nd ref="408107124"/>
+    <nd ref="408107123"/>
+    <nd ref="408107121"/>
+    <nd ref="408107116"/>
+    <nd ref="408107113"/>
+    <nd ref="408107109"/>
+    <nd ref="408107105"/>
+    <nd ref="408107103"/>
+    <nd ref="408107098"/>
+    <nd ref="408107095"/>
+    <nd ref="408107092"/>
+    <nd ref="408107091"/>
+    <nd ref="408107086"/>
+    <nd ref="408107084"/>
+    <nd ref="408107081"/>
+    <nd ref="408107077"/>
+    <nd ref="408107075"/>
+    <nd ref="408107073"/>
+    <nd ref="408107068"/>
+    <nd ref="408107064"/>
+    <nd ref="408107061"/>
+    <nd ref="408107058"/>
+    <nd ref="408107057"/>
+    <nd ref="408107056"/>
+    <nd ref="408107052"/>
+    <nd ref="408107050"/>
+    <nd ref="408107046"/>
+    <nd ref="408107044"/>
+    <nd ref="408107039"/>
+    <nd ref="408107034"/>
+    <nd ref="408107031"/>
+    <nd ref="408107029"/>
+    <nd ref="408107025"/>
+    <nd ref="408107023"/>
+    <nd ref="408107021"/>
+    <nd ref="408107016"/>
+    <nd ref="355527964"/>
+    <nd ref="355527954"/>
+    <nd ref="408107011"/>
+    <nd ref="408107007"/>
+    <nd ref="408107004"/>
+    <nd ref="408107001"/>
+    <nd ref="408106998"/>
+    <nd ref="408106996"/>
+    <nd ref="408106993"/>
+    <nd ref="408106992"/>
+    <nd ref="408106991"/>
+    <nd ref="408106987"/>
+    <nd ref="407905424"/>
+    <nd ref="407905422"/>
+    <nd ref="407905421"/>
+    <nd ref="407905419"/>
+    <nd ref="408088768"/>
+    <nd ref="408088771"/>
+    <nd ref="408088774"/>
+    <nd ref="408088777"/>
+    <nd ref="408088775"/>
+    <nd ref="407533284"/>
+    <nd ref="407533283"/>
+    <nd ref="407533280"/>
+    <nd ref="407533277"/>
+    <nd ref="407533275"/>
+    <nd ref="407533272"/>
+    <nd ref="407533270"/>
+    <nd ref="407533267"/>
+    <nd ref="407533265"/>
+    <nd ref="407533262"/>
+    <nd ref="407614783"/>
+    <nd ref="407533260"/>
+    <nd ref="407533257"/>
+    <nd ref="408088766"/>
+    <nd ref="407533255"/>
+    <nd ref="407533252"/>
+    <nd ref="408088765"/>
+    <nd ref="407533234"/>
+    <nd ref="407533232"/>
+    <nd ref="407533230"/>
+    <nd ref="408088762"/>
+    <nd ref="408088764"/>
+    <nd ref="407533228"/>
+    <nd ref="407533225"/>
+    <nd ref="407533223"/>
+    <nd ref="407533220"/>
+    <nd ref="408088760"/>
+    <nd ref="407533218"/>
+    <nd ref="407533215"/>
+    <nd ref="407082971"/>
+    <nd ref="407082973"/>
+    <nd ref="408088757"/>
+    <nd ref="408088755"/>
+    <nd ref="407533213"/>
+    <nd ref="408088758"/>
+    <nd ref="407093364"/>
+    <nd ref="407533210"/>
+    <nd ref="408088753"/>
+    <nd ref="407533205"/>
+    <nd ref="407533208"/>
+    <nd ref="408088751"/>
+    <nd ref="407093368"/>
+    <nd ref="407533203"/>
+    <nd ref="407533200"/>
+    <nd ref="407533197"/>
+    <nd ref="407093374"/>
+    <nd ref="410235700"/>
+    <nd ref="407093641"/>
+    <nd ref="410235701"/>
+    <nd ref="407092768"/>
+    <nd ref="407579162"/>
+    <nd ref="407579159"/>
+    <nd ref="407092774"/>
+    <nd ref="407533195"/>
+    <nd ref="407579158"/>
+    <nd ref="407579156"/>
+    <nd ref="407533192"/>
+    <nd ref="407533184"/>
+    <nd ref="407579154"/>
+    <nd ref="407579152"/>
+    <nd ref="407092783"/>
+    <nd ref="407579151"/>
+    <nd ref="407092788"/>
+    <nd ref="407092794"/>
+    <nd ref="407579148"/>
+    <nd ref="407533178"/>
+    <nd ref="407533183"/>
+    <nd ref="408088748"/>
+    <nd ref="407090694"/>
+    <nd ref="407579142"/>
+    <nd ref="407579143"/>
+    <nd ref="407579140"/>
+    <nd ref="407579145"/>
+    <nd ref="407091452"/>
+    <nd ref="408088746"/>
+    <nd ref="407579147"/>
+    <nd ref="408088742"/>
+    <nd ref="408088744"/>
+    <nd ref="407090701"/>
+    <nd ref="407579111"/>
+    <nd ref="407090710"/>
+    <nd ref="407579114"/>
+    <nd ref="407579113"/>
+    <nd ref="407579117"/>
+    <nd ref="407090718"/>
+    <nd ref="407579118"/>
+    <nd ref="407579120"/>
+    <nd ref="407579122"/>
+    <nd ref="407090726"/>
+    <nd ref="407579126"/>
+    <nd ref="407579128"/>
+    <nd ref="407579129"/>
+    <nd ref="407579124"/>
+    <nd ref="407579132"/>
+    <nd ref="407090734"/>
+    <nd ref="408088737"/>
+    <nd ref="408088740"/>
+    <nd ref="407579139"/>
+    <nd ref="407090740"/>
+    <nd ref="407579138"/>
+    <nd ref="407579135"/>
+    <nd ref="407090746"/>
+    <nd ref="407579134"/>
+    <nd ref="407328800"/>
+    <nd ref="407328801"/>
+    <nd ref="407328802"/>
+    <nd ref="407328803"/>
+    <nd ref="407573897"/>
+    <nd ref="407090750"/>
+    <nd ref="407573896"/>
+    <nd ref="407573893"/>
+    <nd ref="407328804"/>
+    <nd ref="407573892"/>
+    <nd ref="407573889"/>
+    <nd ref="407090754"/>
+    <nd ref="407573888"/>
+    <nd ref="407533167"/>
+    <nd ref="407533169"/>
+    <nd ref="407090760"/>
+    <nd ref="407573884"/>
+    <nd ref="407090767"/>
+    <nd ref="407573886"/>
+    <nd ref="407533172"/>
+    <nd ref="407084213"/>
+    <nd ref="407533174"/>
+    <nd ref="407573882"/>
+    <nd ref="407084229"/>
+    <nd ref="407573881"/>
+    <nd ref="407533177"/>
+    <nd ref="408088735"/>
+    <nd ref="407084233"/>
+    <nd ref="408088731"/>
+    <nd ref="407533163"/>
+    <nd ref="408088733"/>
+    <nd ref="407084238"/>
+    <nd ref="408037057"/>
+    <nd ref="407573879"/>
+    <nd ref="407573878"/>
+    <nd ref="407573870"/>
+    <nd ref="408168155"/>
+    <nd ref="407573871"/>
+    <nd ref="407328796"/>
+    <nd ref="407573875"/>
+    <nd ref="407082975"/>
+    <nd ref="407573876"/>
+    <nd ref="407533160"/>
+    <nd ref="407573873"/>
+    <nd ref="407082978"/>
+    <nd ref="407082980"/>
+    <nd ref="407082982"/>
+    <nd ref="408088729"/>
+    <nd ref="407096230"/>
+    <nd ref="407096234"/>
+    <nd ref="408088727"/>
+    <nd ref="408088724"/>
+    <nd ref="407096237"/>
+    <nd ref="407096238"/>
+    <nd ref="415543367"/>
+    <nd ref="408088722"/>
+    <nd ref="408088719"/>
+    <nd ref="408088717"/>
+    <nd ref="407096241"/>
+    <nd ref="408088714"/>
+    <nd ref="408088712"/>
+    <nd ref="408088710"/>
+    <nd ref="407095195"/>
+    <nd ref="408088706"/>
+    <nd ref="408088704"/>
+    <nd ref="408088708"/>
+    <nd ref="407095200"/>
+    <nd ref="407082984"/>
+    <nd ref="408030267"/>
+    <nd ref="408030265"/>
+    <nd ref="408030262"/>
+    <nd ref="407082986"/>
+    <nd ref="408088701"/>
+    <nd ref="408030269"/>
+    <nd ref="407328797"/>
+    <nd ref="407328798"/>
+    <nd ref="407082988"/>
+    <nd ref="408088700"/>
+    <nd ref="408030257"/>
+    <nd ref="407328799"/>
+    <nd ref="408074416"/>
+    <nd ref="407082991"/>
+    <nd ref="407322950"/>
+    <nd ref="407322952"/>
+    <nd ref="407082993"/>
+    <nd ref="407322957"/>
+    <nd ref="407322959"/>
+    <nd ref="407322962"/>
+    <nd ref="407082995"/>
+    <nd ref="407322966"/>
+    <nd ref="407322969"/>
+    <nd ref="434142052"/>
+    <nd ref="407278049"/>
+    <nd ref="407322974"/>
+    <nd ref="407322976"/>
+    <nd ref="407322978"/>
+    <nd ref="407322981"/>
+    <nd ref="407322984"/>
+    <nd ref="407322986"/>
+    <nd ref="407322989"/>
+    <nd ref="407082998"/>
+    <nd ref="407322993"/>
+    <nd ref="407322996"/>
+    <nd ref="415541479"/>
+    <nd ref="407322998"/>
+    <nd ref="408030260"/>
+    <nd ref="407083000"/>
+    <nd ref="407278060"/>
+    <nd ref="407533545"/>
+    <nd ref="407891035"/>
+    <nd ref="407891036"/>
+    <nd ref="407275774"/>
+    <nd ref="407083002"/>
+    <nd ref="407090776"/>
+    <nd ref="407533287"/>
+    <nd ref="407090780"/>
+    <nd ref="407533289"/>
+    <nd ref="407090786"/>
+    <nd ref="407893631"/>
+    <nd ref="407533292"/>
+    <nd ref="407533293"/>
+    <nd ref="407090789"/>
+    <nd ref="407893636"/>
+    <nd ref="407090793"/>
+    <nd ref="407893635"/>
+    <nd ref="407533296"/>
+    <nd ref="407090796"/>
+    <nd ref="407893637"/>
+    <nd ref="407090802"/>
+    <nd ref="407090807"/>
+    <nd ref="407533297"/>
+    <nd ref="407893648"/>
+    <nd ref="407533301"/>
+    <nd ref="407533304"/>
+    <nd ref="358409154"/>
+    <tag k="name" v="MacIntyre River"/>
+    <tag k="source" v="yahoo"/>
+    <tag k="waterway" v="river"/>
+  </way>
+  <way id="34831748" version="11" timestamp="2009-07-04T21:35:39Z" uid="74617" user="JohnSmith" changeset="1734053">
+    <nd ref="408107161"/>
+    <nd ref="408107158"/>
+    <nd ref="408107155"/>
+    <nd ref="408107154"/>
+    <nd ref="408107152"/>
+    <nd ref="408107149"/>
+    <nd ref="408107145"/>
+    <nd ref="408107142"/>
+    <nd ref="408107139"/>
+    <nd ref="408107136"/>
+    <nd ref="408107130"/>
+    <nd ref="408107125"/>
+    <nd ref="408107124"/>
+    <nd ref="408107123"/>
+    <nd ref="408107121"/>
+    <nd ref="408107116"/>
+    <nd ref="408107113"/>
+    <nd ref="408107109"/>
+    <nd ref="408107105"/>
+    <nd ref="408107103"/>
+    <nd ref="408107098"/>
+    <nd ref="408107095"/>
+    <nd ref="408107092"/>
+    <nd ref="408107091"/>
+    <nd ref="408107086"/>
+    <nd ref="408107084"/>
+    <nd ref="408107081"/>
+    <nd ref="408107077"/>
+    <nd ref="408107075"/>
+    <nd ref="408107073"/>
+    <nd ref="408107068"/>
+    <nd ref="408107064"/>
+    <nd ref="408107061"/>
+    <nd ref="408107058"/>
+    <nd ref="408107057"/>
+    <nd ref="408107056"/>
+    <nd ref="408107052"/>
+    <nd ref="408107050"/>
+    <nd ref="408107046"/>
+    <nd ref="408107044"/>
+    <nd ref="408107039"/>
+    <nd ref="408107034"/>
+    <nd ref="408107031"/>
+    <nd ref="408107029"/>
+    <nd ref="408107025"/>
+    <nd ref="408107023"/>
+    <nd ref="408107021"/>
+    <nd ref="408107016"/>
+    <nd ref="355527964"/>
+    <nd ref="355527954"/>
+    <nd ref="408107011"/>
+    <nd ref="408107007"/>
+    <nd ref="408107004"/>
+    <nd ref="408107001"/>
+    <nd ref="408106998"/>
+    <nd ref="408106996"/>
+    <nd ref="408106993"/>
+    <nd ref="408106992"/>
+    <nd ref="408106991"/>
+    <nd ref="408106987"/>
+    <nd ref="407905424"/>
+    <nd ref="407905422"/>
+    <nd ref="407905421"/>
+    <nd ref="407905419"/>
+    <nd ref="408088768"/>
+    <nd ref="408088771"/>
+    <nd ref="408088774"/>
+    <nd ref="408088777"/>
+    <nd ref="408088775"/>
+    <nd ref="407533284"/>
+    <nd ref="407533283"/>
+    <nd ref="407533280"/>
+    <nd ref="407533277"/>
+    <nd ref="407533275"/>
+    <nd ref="407533272"/>
+    <nd ref="407533270"/>
+    <nd ref="407533267"/>
+    <nd ref="407533265"/>
+    <nd ref="407533262"/>
+    <nd ref="407614783"/>
+    <nd ref="407533260"/>
+    <nd ref="407533257"/>
+    <nd ref="408088766"/>
+    <nd ref="407533255"/>
+    <nd ref="407533252"/>
+    <nd ref="408088765"/>
+    <nd ref="407533234"/>
+    <nd ref="407533232"/>
+    <nd ref="407533230"/>
+    <nd ref="408088762"/>
+    <nd ref="408088764"/>
+    <nd ref="407533228"/>
+    <nd ref="407533225"/>
+    <nd ref="407533223"/>
+    <nd ref="407533220"/>
+    <nd ref="408088760"/>
+    <nd ref="407533218"/>
+    <nd ref="407533215"/>
+    <nd ref="407082971"/>
+    <nd ref="407082973"/>
+    <nd ref="408088757"/>
+    <nd ref="408088755"/>
+    <nd ref="407533213"/>
+    <nd ref="408088758"/>
+    <nd ref="407093364"/>
+    <nd ref="407533210"/>
+    <nd ref="408088753"/>
+    <nd ref="407533205"/>
+    <nd ref="407533208"/>
+    <nd ref="408088751"/>
+    <nd ref="407093368"/>
+    <nd ref="407533203"/>
+    <nd ref="407533200"/>
+    <nd ref="407533197"/>
+    <nd ref="407093374"/>
+    <nd ref="410235700"/>
+    <nd ref="407093641"/>
+    <nd ref="410235701"/>
+    <nd ref="407092768"/>
+    <nd ref="407579162"/>
+    <nd ref="407579159"/>
+    <nd ref="407092774"/>
+    <nd ref="407533195"/>
+    <nd ref="407579158"/>
+    <nd ref="407579156"/>
+    <nd ref="407533192"/>
+    <nd ref="407533184"/>
+    <nd ref="407579154"/>
+    <nd ref="407579152"/>
+    <nd ref="407092783"/>
+    <nd ref="407579151"/>
+    <nd ref="407092788"/>
+    <nd ref="407092794"/>
+    <nd ref="407579148"/>
+    <nd ref="407533178"/>
+    <nd ref="407533183"/>
+    <nd ref="408088748"/>
+    <nd ref="407090694"/>
+    <nd ref="407579142"/>
+    <nd ref="407579143"/>
+    <nd ref="407579140"/>
+    <nd ref="407579145"/>
+    <nd ref="407091452"/>
+    <nd ref="408088746"/>
+    <nd ref="407579147"/>
+    <nd ref="408088742"/>
+    <nd ref="408088744"/>
+    <nd ref="407090701"/>
+    <nd ref="407579111"/>
+    <nd ref="407090710"/>
+    <nd ref="407579114"/>
+    <nd ref="407579113"/>
+    <nd ref="407579117"/>
+    <nd ref="407090718"/>
+    <nd ref="407579118"/>
+    <nd ref="407579120"/>
+    <nd ref="407579122"/>
+    <nd ref="407090726"/>
+    <nd ref="407579126"/>
+    <nd ref="407579128"/>
+    <nd ref="407579129"/>
+    <nd ref="407579124"/>
+    <nd ref="407579132"/>
+    <nd ref="407090734"/>
+    <nd ref="408088737"/>
+    <nd ref="408088740"/>
+    <nd ref="407579139"/>
+    <nd ref="407090740"/>
+    <nd ref="407579138"/>
+    <nd ref="407579135"/>
+    <nd ref="407090746"/>
+    <nd ref="407579134"/>
+    <nd ref="407328800"/>
+    <nd ref="407328801"/>
+    <nd ref="407328802"/>
+    <nd ref="407328803"/>
+    <nd ref="407573897"/>
+    <nd ref="407090750"/>
+    <nd ref="407573896"/>
+    <nd ref="407573893"/>
+    <nd ref="407328804"/>
+    <nd ref="407573892"/>
+    <nd ref="407573889"/>
+    <nd ref="407090754"/>
+    <nd ref="407573888"/>
+    <nd ref="407533167"/>
+    <nd ref="407533169"/>
+    <nd ref="407090760"/>
+    <nd ref="407573884"/>
+    <nd ref="407090767"/>
+    <nd ref="407573886"/>
+    <nd ref="407533172"/>
+    <nd ref="407084213"/>
+    <nd ref="407533174"/>
+    <nd ref="407573882"/>
+    <nd ref="407084229"/>
+    <nd ref="407573881"/>
+    <nd ref="407533177"/>
+    <nd ref="408088735"/>
+    <nd ref="407084233"/>
+    <nd ref="408088731"/>
+    <nd ref="407533163"/>
+    <nd ref="408088733"/>
+    <nd ref="407084238"/>
+    <nd ref="408037057"/>
+    <nd ref="407573879"/>
+    <nd ref="407573878"/>
+    <nd ref="407573870"/>
+    <nd ref="408168155"/>
+    <nd ref="407573871"/>
+    <nd ref="407328796"/>
+    <nd ref="407573875"/>
+    <nd ref="407082975"/>
+    <nd ref="407573876"/>
+    <nd ref="407533160"/>
+    <nd ref="407573873"/>
+    <nd ref="407082978"/>
+    <nd ref="407082980"/>
+    <nd ref="407082982"/>
+    <nd ref="408088729"/>
+    <nd ref="407096230"/>
+    <nd ref="407096234"/>
+    <nd ref="408088727"/>
+    <nd ref="408088724"/>
+    <nd ref="407096237"/>
+    <nd ref="407096238"/>
+    <nd ref="415543367"/>
+    <nd ref="408088722"/>
+    <nd ref="408088719"/>
+    <nd ref="408088717"/>
+    <nd ref="407096241"/>
+    <nd ref="408088714"/>
+    <nd ref="408088712"/>
+    <nd ref="408088710"/>
+    <nd ref="407095195"/>
+    <nd ref="408088706"/>
+    <nd ref="408088704"/>
+    <nd ref="408088708"/>
+    <nd ref="407095200"/>
+    <nd ref="407082984"/>
+    <nd ref="408030267"/>
+    <nd ref="408030265"/>
+    <nd ref="408030262"/>
+    <nd ref="407082986"/>
+    <nd ref="408088701"/>
+    <nd ref="408030269"/>
+    <nd ref="407328797"/>
+    <nd ref="407328798"/>
+    <nd ref="407082988"/>
+    <nd ref="408088700"/>
+    <nd ref="408030257"/>
+    <nd ref="407328799"/>
+    <nd ref="408074416"/>
+    <nd ref="407082991"/>
+    <nd ref="407322950"/>
+    <nd ref="407322952"/>
+    <nd ref="407082993"/>
+    <nd ref="407322957"/>
+    <nd ref="407322959"/>
+    <nd ref="407322962"/>
+    <nd ref="407082995"/>
+    <nd ref="407322966"/>
+    <nd ref="407322969"/>
+    <nd ref="434142052"/>
+    <nd ref="407278049"/>
+    <nd ref="407322974"/>
+    <nd ref="407322976"/>
+    <nd ref="407322978"/>
+    <nd ref="407322981"/>
+    <nd ref="407322984"/>
+    <nd ref="407322986"/>
+    <nd ref="407322989"/>
+    <nd ref="407082998"/>
+    <nd ref="407322993"/>
+    <nd ref="407322996"/>
+    <nd ref="434142661"/>
+    <nd ref="434142662"/>
+    <nd ref="407322998"/>
+    <nd ref="408030260"/>
+    <nd ref="407083000"/>
+    <nd ref="407278060"/>
+    <nd ref="407533545"/>
+    <nd ref="407891035"/>
+    <nd ref="407891036"/>
+    <nd ref="407275774"/>
+    <nd ref="407083002"/>
+    <nd ref="407090776"/>
+    <nd ref="407533287"/>
+    <nd ref="407090780"/>
+    <nd ref="407533289"/>
+    <nd ref="407090786"/>
+    <nd ref="407893631"/>
+    <nd ref="407533292"/>
+    <nd ref="407533293"/>
+    <nd ref="407090789"/>
+    <nd ref="407893636"/>
+    <nd ref="407090793"/>
+    <nd ref="407893635"/>
+    <nd ref="407533296"/>
+    <nd ref="407090796"/>
+    <nd ref="407893637"/>
+    <nd ref="407090802"/>
+    <nd ref="407090807"/>
+    <nd ref="407533297"/>
+    <nd ref="407893648"/>
+    <nd ref="407533301"/>
+    <nd ref="407533304"/>
+    <nd ref="358409154"/>
+    <tag k="name" v="MacIntyre River"/>
+    <tag k="source" v="yahoo"/>
+    <tag k="waterway" v="river"/>
+  </way>
+  <way id="34831748" version="12" timestamp="2009-07-06T12:40:01Z" uid="74617" user="JohnSmith" changeset="1752637">
+    <nd ref="408107161"/>
+    <nd ref="408107158"/>
+    <nd ref="408107155"/>
+    <nd ref="408107154"/>
+    <nd ref="408107152"/>
+    <nd ref="408107149"/>
+    <nd ref="408107145"/>
+    <nd ref="408107142"/>
+    <nd ref="408107139"/>
+    <nd ref="408107136"/>
+    <nd ref="408107130"/>
+    <nd ref="408107125"/>
+    <nd ref="408107124"/>
+    <nd ref="408107123"/>
+    <nd ref="408107121"/>
+    <nd ref="408107116"/>
+    <nd ref="408107113"/>
+    <nd ref="408107109"/>
+    <nd ref="408107105"/>
+    <nd ref="408107103"/>
+    <nd ref="408107098"/>
+    <nd ref="408107095"/>
+    <nd ref="408107092"/>
+    <nd ref="408107091"/>
+    <nd ref="408107086"/>
+    <nd ref="408107084"/>
+    <nd ref="408107081"/>
+    <nd ref="408107077"/>
+    <nd ref="408107075"/>
+    <nd ref="408107073"/>
+    <nd ref="408107068"/>
+    <nd ref="408107064"/>
+    <nd ref="408107061"/>
+    <nd ref="408107058"/>
+    <nd ref="408107057"/>
+    <nd ref="408107056"/>
+    <nd ref="408107052"/>
+    <nd ref="408107050"/>
+    <nd ref="408107046"/>
+    <nd ref="408107044"/>
+    <nd ref="408107039"/>
+    <nd ref="408107034"/>
+    <nd ref="408107031"/>
+    <nd ref="408107029"/>
+    <nd ref="408107025"/>
+    <nd ref="408107023"/>
+    <nd ref="408107021"/>
+    <nd ref="408107016"/>
+    <nd ref="355527964"/>
+    <nd ref="355527954"/>
+    <nd ref="408107011"/>
+    <nd ref="408107007"/>
+    <nd ref="408107004"/>
+    <nd ref="408107001"/>
+    <nd ref="408106998"/>
+    <nd ref="408106996"/>
+    <nd ref="408106993"/>
+    <nd ref="408106992"/>
+    <nd ref="408106991"/>
+    <nd ref="408106987"/>
+    <nd ref="407905424"/>
+    <nd ref="407905422"/>
+    <nd ref="407905421"/>
+    <nd ref="407905419"/>
+    <nd ref="408088768"/>
+    <nd ref="408088771"/>
+    <nd ref="408088774"/>
+    <nd ref="408088777"/>
+    <nd ref="408088775"/>
+    <nd ref="407533284"/>
+    <nd ref="407533283"/>
+    <nd ref="407533280"/>
+    <nd ref="407533277"/>
+    <nd ref="407533275"/>
+    <nd ref="407533272"/>
+    <nd ref="407533270"/>
+    <nd ref="407533267"/>
+    <nd ref="407533265"/>
+    <nd ref="407533262"/>
+    <nd ref="407614783"/>
+    <nd ref="407533260"/>
+    <nd ref="407533257"/>
+    <nd ref="408088766"/>
+    <nd ref="407533255"/>
+    <nd ref="407533252"/>
+    <nd ref="408088765"/>
+    <nd ref="407533234"/>
+    <nd ref="407533232"/>
+    <nd ref="407533230"/>
+    <nd ref="408088762"/>
+    <nd ref="408088764"/>
+    <nd ref="407533228"/>
+    <nd ref="407533225"/>
+    <nd ref="407533223"/>
+    <nd ref="407533220"/>
+    <nd ref="408088760"/>
+    <nd ref="407533218"/>
+    <nd ref="407533215"/>
+    <nd ref="407082971"/>
+    <nd ref="407082973"/>
+    <nd ref="408088757"/>
+    <nd ref="408088755"/>
+    <nd ref="407533213"/>
+    <nd ref="408088758"/>
+    <nd ref="407093364"/>
+    <nd ref="407533210"/>
+    <nd ref="408088753"/>
+    <nd ref="407533205"/>
+    <nd ref="407533208"/>
+    <nd ref="408088751"/>
+    <nd ref="407093368"/>
+    <nd ref="407533203"/>
+    <nd ref="407533200"/>
+    <nd ref="407533197"/>
+    <nd ref="407093374"/>
+    <nd ref="410235700"/>
+    <nd ref="407093641"/>
+    <nd ref="410235701"/>
+    <nd ref="407092768"/>
+    <nd ref="407579162"/>
+    <nd ref="407579159"/>
+    <nd ref="407092774"/>
+    <nd ref="407533195"/>
+    <nd ref="407579158"/>
+    <nd ref="407579156"/>
+    <nd ref="407533192"/>
+    <nd ref="407533184"/>
+    <nd ref="407579154"/>
+    <nd ref="407579152"/>
+    <nd ref="407092783"/>
+    <nd ref="407579151"/>
+    <nd ref="407092788"/>
+    <nd ref="407092794"/>
+    <nd ref="407579148"/>
+    <nd ref="407533178"/>
+    <nd ref="407533183"/>
+    <nd ref="408088748"/>
+    <nd ref="407090694"/>
+    <nd ref="407579142"/>
+    <nd ref="407579143"/>
+    <nd ref="407579140"/>
+    <nd ref="407579145"/>
+    <nd ref="407091452"/>
+    <nd ref="408088746"/>
+    <nd ref="407579147"/>
+    <nd ref="408088742"/>
+    <nd ref="408088744"/>
+    <nd ref="407090701"/>
+    <nd ref="407579111"/>
+    <nd ref="407090710"/>
+    <nd ref="407579114"/>
+    <nd ref="407579113"/>
+    <nd ref="407579117"/>
+    <nd ref="407090718"/>
+    <nd ref="407579118"/>
+    <nd ref="407579120"/>
+    <nd ref="407579122"/>
+    <nd ref="407090726"/>
+    <nd ref="407579126"/>
+    <nd ref="407579128"/>
+    <nd ref="407579129"/>
+    <nd ref="407579124"/>
+    <nd ref="407579132"/>
+    <nd ref="407090734"/>
+    <nd ref="408088737"/>
+    <nd ref="408088740"/>
+    <nd ref="407579139"/>
+    <nd ref="407090740"/>
+    <nd ref="407579138"/>
+    <nd ref="407579135"/>
+    <nd ref="407090746"/>
+    <nd ref="407579134"/>
+    <nd ref="407328800"/>
+    <nd ref="407328801"/>
+    <nd ref="407328802"/>
+    <nd ref="407328803"/>
+    <nd ref="407573897"/>
+    <nd ref="407090750"/>
+    <nd ref="407573896"/>
+    <nd ref="407573893"/>
+    <nd ref="407328804"/>
+    <nd ref="407573892"/>
+    <nd ref="407573889"/>
+    <nd ref="407090754"/>
+    <nd ref="407573888"/>
+    <nd ref="407533167"/>
+    <nd ref="407533169"/>
+    <nd ref="407090760"/>
+    <nd ref="407573884"/>
+    <nd ref="407090767"/>
+    <nd ref="407573886"/>
+    <nd ref="407533172"/>
+    <nd ref="407084213"/>
+    <nd ref="407533174"/>
+    <nd ref="407573882"/>
+    <nd ref="407084229"/>
+    <nd ref="407573881"/>
+    <nd ref="407533177"/>
+    <nd ref="408088735"/>
+    <nd ref="407084233"/>
+    <nd ref="408088731"/>
+    <nd ref="407533163"/>
+    <nd ref="408088733"/>
+    <nd ref="407084238"/>
+    <nd ref="408037057"/>
+    <nd ref="407573879"/>
+    <nd ref="407573878"/>
+    <nd ref="407573870"/>
+    <nd ref="408168155"/>
+    <nd ref="407573871"/>
+    <nd ref="407328796"/>
+    <nd ref="407573875"/>
+    <nd ref="407082975"/>
+    <nd ref="407573876"/>
+    <nd ref="407533160"/>
+    <nd ref="407573873"/>
+    <nd ref="407082978"/>
+    <nd ref="407082980"/>
+    <nd ref="407082982"/>
+    <nd ref="408088729"/>
+    <nd ref="407096230"/>
+    <nd ref="407096234"/>
+    <nd ref="408088727"/>
+    <nd ref="408088724"/>
+    <nd ref="407096237"/>
+    <nd ref="407096238"/>
+    <nd ref="435223870"/>
+    <nd ref="435223872"/>
+    <nd ref="408088722"/>
+    <nd ref="408088719"/>
+    <nd ref="408088717"/>
+    <nd ref="407096241"/>
+    <nd ref="408088714"/>
+    <nd ref="408088712"/>
+    <nd ref="408088710"/>
+    <nd ref="407095195"/>
+    <nd ref="408088706"/>
+    <nd ref="408088704"/>
+    <nd ref="408088708"/>
+    <nd ref="407095200"/>
+    <nd ref="407082984"/>
+    <nd ref="408030267"/>
+    <nd ref="408030265"/>
+    <nd ref="408030262"/>
+    <nd ref="407082986"/>
+    <nd ref="408088701"/>
+    <nd ref="408030269"/>
+    <nd ref="407328797"/>
+    <nd ref="407328798"/>
+    <nd ref="407082988"/>
+    <nd ref="408088700"/>
+    <nd ref="408030257"/>
+    <nd ref="407328799"/>
+    <nd ref="408074416"/>
+    <nd ref="407082991"/>
+    <nd ref="407322950"/>
+    <nd ref="407322952"/>
+    <nd ref="407082993"/>
+    <nd ref="407322957"/>
+    <nd ref="407322959"/>
+    <nd ref="407322962"/>
+    <nd ref="407082995"/>
+    <nd ref="407322966"/>
+    <nd ref="407322969"/>
+    <nd ref="434142052"/>
+    <nd ref="407278049"/>
+    <nd ref="407322974"/>
+    <nd ref="407322976"/>
+    <nd ref="407322978"/>
+    <nd ref="407322981"/>
+    <nd ref="407322984"/>
+    <nd ref="407322986"/>
+    <nd ref="407322989"/>
+    <nd ref="407082998"/>
+    <nd ref="407322993"/>
+    <nd ref="407322996"/>
+    <nd ref="434142661"/>
+    <nd ref="434142662"/>
+    <nd ref="407322998"/>
+    <nd ref="408030260"/>
+    <nd ref="407083000"/>
+    <nd ref="407278060"/>
+    <nd ref="407533545"/>
+    <nd ref="407891035"/>
+    <nd ref="407891036"/>
+    <nd ref="407275774"/>
+    <nd ref="407083002"/>
+    <nd ref="407090776"/>
+    <nd ref="407533287"/>
+    <nd ref="407090780"/>
+    <nd ref="407533289"/>
+    <nd ref="407090786"/>
+    <nd ref="407893631"/>
+    <nd ref="407533292"/>
+    <nd ref="407533293"/>
+    <nd ref="407090789"/>
+    <nd ref="407893636"/>
+    <nd ref="407090793"/>
+    <nd ref="407893635"/>
+    <nd ref="407533296"/>
+    <nd ref="407090796"/>
+    <nd ref="407893637"/>
+    <nd ref="407090802"/>
+    <nd ref="407090807"/>
+    <nd ref="407533297"/>
+    <nd ref="407893648"/>
+    <nd ref="407533301"/>
+    <nd ref="407533304"/>
+    <nd ref="358409154"/>
+    <tag k="name" v="MacIntyre River"/>
+    <tag k="source" v="yahoo"/>
+    <tag k="waterway" v="river"/>
+  </way>
+  <way id="34831748" version="13" timestamp="2009-07-21T14:22:42Z" uid="74617" user="JohnSmith" changeset="1895619">
+    <nd ref="408107161"/>
+    <nd ref="408107158"/>
+    <nd ref="408107155"/>
+    <nd ref="408107154"/>
+    <nd ref="408107152"/>
+    <nd ref="408107149"/>
+    <nd ref="408107145"/>
+    <nd ref="408107142"/>
+    <nd ref="408107139"/>
+    <nd ref="408107136"/>
+    <nd ref="408107130"/>
+    <nd ref="408107125"/>
+    <nd ref="408107124"/>
+    <nd ref="408107123"/>
+    <nd ref="408107121"/>
+    <nd ref="408107116"/>
+    <nd ref="408107113"/>
+    <nd ref="408107109"/>
+    <nd ref="408107105"/>
+    <nd ref="408107103"/>
+    <nd ref="408107098"/>
+    <nd ref="408107095"/>
+    <nd ref="408107092"/>
+    <nd ref="408107091"/>
+    <nd ref="408107086"/>
+    <nd ref="408107084"/>
+    <nd ref="408107081"/>
+    <nd ref="408107077"/>
+    <nd ref="408107075"/>
+    <nd ref="408107073"/>
+    <nd ref="408107068"/>
+    <nd ref="408107064"/>
+    <nd ref="408107061"/>
+    <nd ref="408107058"/>
+    <nd ref="408107057"/>
+    <nd ref="408107056"/>
+    <nd ref="408107052"/>
+    <nd ref="408107050"/>
+    <nd ref="408107046"/>
+    <nd ref="408107044"/>
+    <nd ref="408107039"/>
+    <nd ref="408107034"/>
+    <nd ref="408107031"/>
+    <nd ref="408107029"/>
+    <nd ref="408107025"/>
+    <nd ref="408107023"/>
+    <nd ref="408107021"/>
+    <nd ref="408107016"/>
+    <nd ref="355527964"/>
+    <nd ref="355527954"/>
+    <nd ref="408107011"/>
+    <nd ref="408107007"/>
+    <nd ref="408107004"/>
+    <nd ref="408107001"/>
+    <nd ref="408106998"/>
+    <nd ref="408106996"/>
+    <nd ref="408106993"/>
+    <nd ref="408106992"/>
+    <nd ref="408106991"/>
+    <nd ref="408106987"/>
+    <nd ref="407905424"/>
+    <nd ref="407905422"/>
+    <nd ref="407905421"/>
+    <nd ref="407905419"/>
+    <nd ref="408088768"/>
+    <nd ref="408088771"/>
+    <nd ref="408088774"/>
+    <nd ref="408088777"/>
+    <nd ref="408088775"/>
+    <nd ref="407533284"/>
+    <nd ref="407533283"/>
+    <nd ref="407533280"/>
+    <nd ref="407533277"/>
+    <nd ref="407533275"/>
+    <nd ref="407533272"/>
+    <nd ref="407533270"/>
+    <nd ref="407533267"/>
+    <nd ref="407533265"/>
+    <nd ref="407533262"/>
+    <nd ref="407614783"/>
+    <nd ref="407533260"/>
+    <nd ref="407533257"/>
+    <nd ref="408088766"/>
+    <nd ref="407533255"/>
+    <nd ref="407533252"/>
+    <nd ref="408088765"/>
+    <nd ref="407533234"/>
+    <nd ref="407533232"/>
+    <nd ref="407533230"/>
+    <nd ref="408088762"/>
+    <nd ref="408088764"/>
+    <nd ref="407533228"/>
+    <nd ref="407533225"/>
+    <nd ref="407533223"/>
+    <nd ref="407533220"/>
+    <nd ref="408088760"/>
+    <nd ref="407533218"/>
+    <nd ref="407533215"/>
+    <nd ref="407082971"/>
+    <nd ref="407082973"/>
+    <nd ref="408088757"/>
+    <nd ref="408088755"/>
+    <nd ref="407533213"/>
+    <nd ref="408088758"/>
+    <nd ref="407093364"/>
+    <nd ref="407533210"/>
+    <nd ref="408088753"/>
+    <nd ref="407533205"/>
+    <nd ref="407533208"/>
+    <nd ref="408088751"/>
+    <nd ref="407093368"/>
+    <nd ref="407533203"/>
+    <nd ref="407533200"/>
+    <nd ref="407533197"/>
+    <nd ref="407093374"/>
+    <nd ref="410235700"/>
+    <nd ref="407093641"/>
+    <nd ref="410235701"/>
+    <nd ref="407092768"/>
+    <nd ref="407579162"/>
+    <nd ref="407579159"/>
+    <nd ref="407092774"/>
+    <nd ref="407533195"/>
+    <nd ref="407579158"/>
+    <nd ref="407579156"/>
+    <nd ref="407533192"/>
+    <nd ref="407533184"/>
+    <nd ref="407579154"/>
+    <nd ref="407579152"/>
+    <nd ref="407092783"/>
+    <nd ref="407579151"/>
+    <nd ref="407092788"/>
+    <nd ref="407092794"/>
+    <nd ref="407579148"/>
+    <nd ref="407533178"/>
+    <nd ref="407533183"/>
+    <nd ref="408088748"/>
+    <nd ref="407090694"/>
+    <nd ref="407579142"/>
+    <nd ref="407579143"/>
+    <nd ref="407579140"/>
+    <nd ref="407579145"/>
+    <nd ref="407091452"/>
+    <nd ref="408088746"/>
+    <nd ref="407579147"/>
+    <nd ref="408088742"/>
+    <nd ref="408088744"/>
+    <nd ref="407090701"/>
+    <nd ref="407579111"/>
+    <nd ref="407090710"/>
+    <nd ref="407579114"/>
+    <nd ref="407579113"/>
+    <nd ref="407579117"/>
+    <nd ref="407090718"/>
+    <nd ref="407579118"/>
+    <nd ref="407579120"/>
+    <nd ref="407579122"/>
+    <nd ref="407090726"/>
+    <nd ref="407579126"/>
+    <nd ref="407579128"/>
+    <nd ref="407579129"/>
+    <nd ref="407579124"/>
+    <nd ref="407579132"/>
+    <nd ref="407090734"/>
+    <nd ref="408088737"/>
+    <nd ref="408088740"/>
+    <nd ref="407579139"/>
+    <nd ref="407090740"/>
+    <nd ref="407579138"/>
+    <nd ref="407579135"/>
+    <nd ref="407090746"/>
+    <nd ref="407579134"/>
+    <nd ref="407328800"/>
+    <nd ref="407328801"/>
+    <nd ref="407328802"/>
+    <nd ref="407328803"/>
+    <nd ref="407573897"/>
+    <nd ref="407090750"/>
+    <nd ref="407573896"/>
+    <nd ref="407573893"/>
+    <nd ref="407328804"/>
+    <nd ref="407573892"/>
+    <nd ref="407573889"/>
+    <nd ref="407090754"/>
+    <nd ref="407573888"/>
+    <nd ref="407533167"/>
+    <nd ref="407533169"/>
+    <nd ref="407090760"/>
+    <nd ref="407573884"/>
+    <nd ref="407090767"/>
+    <nd ref="407573886"/>
+    <nd ref="407533172"/>
+    <nd ref="407084213"/>
+    <nd ref="407533174"/>
+    <nd ref="407573882"/>
+    <nd ref="407084229"/>
+    <nd ref="407573881"/>
+    <nd ref="407533177"/>
+    <nd ref="408088735"/>
+    <nd ref="407084233"/>
+    <nd ref="408088731"/>
+    <nd ref="407533163"/>
+    <nd ref="408088733"/>
+    <nd ref="407084238"/>
+    <nd ref="408037057"/>
+    <nd ref="407573879"/>
+    <nd ref="407573878"/>
+    <nd ref="407573870"/>
+    <nd ref="408168155"/>
+    <nd ref="407573871"/>
+    <nd ref="407328796"/>
+    <nd ref="407573875"/>
+    <nd ref="407082975"/>
+    <nd ref="407573876"/>
+    <nd ref="407533160"/>
+    <nd ref="407573873"/>
+    <nd ref="407082978"/>
+    <nd ref="407082980"/>
+    <nd ref="407082982"/>
+    <nd ref="408088729"/>
+    <tag k="name" v="MacIntyre River"/>
+    <tag k="source" v="yahoo"/>
+    <tag k="waterway" v="river"/>
+  </way>
+  <way id="34831748" version="14" timestamp="2009-07-21T15:12:02Z" uid="74617" user="JohnSmith" changeset="1896052">
+    <nd ref="408107161"/>
+    <nd ref="408107158"/>
+    <nd ref="408107155"/>
+    <nd ref="408107154"/>
+    <nd ref="408107152"/>
+    <nd ref="408107149"/>
+    <nd ref="408107145"/>
+    <nd ref="408107142"/>
+    <nd ref="408107139"/>
+    <nd ref="408107136"/>
+    <nd ref="408107130"/>
+    <nd ref="408107125"/>
+    <nd ref="408107124"/>
+    <nd ref="408107123"/>
+    <nd ref="408107121"/>
+    <nd ref="408107116"/>
+    <nd ref="408107113"/>
+    <nd ref="408107109"/>
+    <nd ref="408107105"/>
+    <nd ref="408107103"/>
+    <nd ref="408107098"/>
+    <nd ref="408107095"/>
+    <nd ref="408107092"/>
+    <nd ref="408107091"/>
+    <nd ref="408107086"/>
+    <nd ref="408107084"/>
+    <nd ref="408107081"/>
+    <nd ref="408107077"/>
+    <nd ref="408107075"/>
+    <nd ref="408107073"/>
+    <nd ref="408107068"/>
+    <nd ref="408107064"/>
+    <nd ref="408107061"/>
+    <nd ref="408107058"/>
+    <nd ref="408107057"/>
+    <nd ref="408107056"/>
+    <nd ref="408107052"/>
+    <nd ref="408107050"/>
+    <nd ref="408107046"/>
+    <nd ref="408107044"/>
+    <nd ref="408107039"/>
+    <nd ref="408107034"/>
+    <nd ref="408107031"/>
+    <nd ref="408107029"/>
+    <nd ref="408107025"/>
+    <nd ref="408107023"/>
+    <nd ref="408107021"/>
+    <nd ref="408107016"/>
+    <nd ref="355527964"/>
+    <tag k="name" v="MacIntyre River"/>
+    <tag k="source" v="yahoo"/>
+    <tag k="waterway" v="river"/>
+  </way>
+  <way id="34831749" version="2" timestamp="2010-07-08T19:42:16Z" uid="74617" user="JohnSmith" changeset="5168688">
+    <nd ref="408106820"/>
+    <nd ref="408106226"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Apollo Court"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="34831749" version="3" timestamp="2011-04-19T09:14:02Z" uid="4467" user="Rosscoe" changeset="7904555">
+    <nd ref="408106820"/>
+    <nd ref="408106226"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Apollo Court"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="34831749" version="4" timestamp="2012-01-18T21:33:00Z" uid="147510" user="woodpeck_fixbot" changeset="10431441">
+    <nd ref="408106820"/>
+    <nd ref="408106226"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Apollo Court"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="34831880" version="3" timestamp="2009-10-18T12:24:59Z" uid="36809" user="pfoten_weg_!_" changeset="2882318">
+    <nd ref="408115393"/>
+    <nd ref="408115403"/>
+    <nd ref="431741960"/>
+    <nd ref="431741963"/>
+    <nd ref="431741966"/>
+    <nd ref="431741968"/>
+    <nd ref="431741969"/>
+    <nd ref="431741971"/>
+    <nd ref="431741972"/>
+    <nd ref="431741974"/>
+    <nd ref="431741975"/>
+    <nd ref="431741977"/>
+    <tag k="highway" v="track"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="34831880" version="4" timestamp="2011-03-11T10:12:15Z" uid="62236" user="Paulchen Panther" changeset="7521868">
+    <nd ref="408115393"/>
+    <nd ref="408115403"/>
+    <nd ref="431741960"/>
+    <nd ref="431741966"/>
+    <nd ref="431741968"/>
+    <nd ref="431741971"/>
+    <nd ref="431741974"/>
+    <nd ref="431741975"/>
+    <nd ref="431741977"/>
+    <tag k="highway" v="track"/>
+    <tag k="source" v="survey"/>
+    <tag k="tracktype" v="grade4"/>
+  </way>
+  <way id="34831883" version="2" timestamp="2009-10-19T19:34:16Z" uid="36809" user="pfoten_weg_!_" changeset="2897784">
+    <nd ref="356022365"/>
+    <nd ref="272100399"/>
+    <nd ref="272100401"/>
+    <nd ref="272097229"/>
+    <nd ref="272100417"/>
+    <nd ref="272100403"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="oneway" v="no"/>
+  </way>
+  <way id="34831883" version="3" timestamp="2011-01-16T15:43:54Z" uid="42393" user="mawi42" changeset="6988735">
+    <nd ref="356022365"/>
+    <nd ref="1106267895"/>
+    <nd ref="272100399"/>
+    <nd ref="272100401"/>
+    <nd ref="272097229"/>
+    <nd ref="272100417"/>
+    <nd ref="272100403"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="oneway" v="no"/>
+  </way>
+  <way id="34831883" version="4" timestamp="2011-03-11T10:12:09Z" uid="62236" user="Paulchen Panther" changeset="7521868">
+    <nd ref="356022365"/>
+    <nd ref="1106267895"/>
+    <nd ref="272100399"/>
+    <nd ref="1196632230"/>
+    <nd ref="272100401"/>
+    <nd ref="272097229"/>
+    <nd ref="272100417"/>
+    <nd ref="272100403"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="oneway" v="no"/>
+  </way>
+  <way id="34831886" version="2" timestamp="2009-10-19T19:34:11Z" uid="36809" user="pfoten_weg_!_" changeset="2897784">
+    <nd ref="356022585"/>
+    <nd ref="356022593"/>
+    <nd ref="404736058"/>
+    <nd ref="408115472"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="oneway" v="no"/>
+  </way>
+  <way id="34831886" version="3" timestamp="2011-03-11T10:12:46Z" uid="62236" user="Paulchen Panther" changeset="7521868">
+    <nd ref="356022585"/>
+    <nd ref="356022593"/>
+    <nd ref="404736058"/>
+    <nd ref="1196632712"/>
+    <nd ref="408115472"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="oneway" v="no"/>
+  </way>
+  <way id="34831892" version="3" timestamp="2009-10-19T19:34:13Z" uid="36809" user="pfoten_weg_!_" changeset="2897784">
+    <nd ref="408115496"/>
+    <nd ref="360669675"/>
+    <nd ref="356022616"/>
+    <nd ref="356022613"/>
+    <nd ref="356022609"/>
+    <nd ref="356022607"/>
+    <nd ref="408115472"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Hauptstraße"/>
+    <tag k="oneway" v="no"/>
+  </way>
+  <way id="34831892" version="4" timestamp="2011-01-16T15:43:55Z" uid="42393" user="mawi42" changeset="6988735">
+    <nd ref="408115496"/>
+    <nd ref="360669675"/>
+    <nd ref="356022616"/>
+    <nd ref="356022613"/>
+    <nd ref="1106267916"/>
+    <nd ref="356022609"/>
+    <nd ref="356022607"/>
+    <nd ref="408115472"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Hauptstraße"/>
+    <tag k="oneway" v="no"/>
+  </way>
+  <way id="34831902" version="2" timestamp="2009-10-19T19:34:08Z" uid="36809" user="pfoten_weg_!_" changeset="2897784">
+    <nd ref="66715733"/>
+    <nd ref="404023388"/>
+    <nd ref="404023378"/>
+    <nd ref="404023374"/>
+    <nd ref="404023295"/>
+    <nd ref="404023267"/>
+    <nd ref="404023262"/>
+    <nd ref="404076072"/>
+    <nd ref="356022658"/>
+    <nd ref="404076060"/>
+    <nd ref="404076066"/>
+    <nd ref="404076053"/>
+    <nd ref="66715716"/>
+    <nd ref="404076049"/>
+    <nd ref="66715717"/>
+    <nd ref="404076038"/>
+    <nd ref="66715718"/>
+    <nd ref="404076135"/>
+    <nd ref="404076140"/>
+    <nd ref="404076145"/>
+    <nd ref="66715719"/>
+    <nd ref="404076150"/>
+    <nd ref="404076162"/>
+    <nd ref="404076157"/>
+    <nd ref="66715720"/>
+    <nd ref="404076153"/>
+    <nd ref="404076165"/>
+    <nd ref="66715721"/>
+    <nd ref="404076172"/>
+    <nd ref="404076178"/>
+    <nd ref="404076185"/>
+    <nd ref="66715722"/>
+    <nd ref="66715725"/>
+    <nd ref="66715726"/>
+    <nd ref="66715728"/>
+    <nd ref="66715729"/>
+    <nd ref="404076196"/>
+    <nd ref="66715730"/>
+    <nd ref="66715731"/>
+    <nd ref="66715733"/>
+    <tag k="landuse" v="forest"/>
+  </way>
+  <way id="34831902" version="3" timestamp="2011-01-05T17:36:33Z" uid="42393" user="mawi42" changeset="6874090">
+    <nd ref="66715733"/>
+    <nd ref="404023388"/>
+    <nd ref="404023378"/>
+    <nd ref="404023374"/>
+    <nd ref="404023295"/>
+    <nd ref="404023267"/>
+    <nd ref="404023262"/>
+    <nd ref="1083777093"/>
+    <nd ref="404076072"/>
+    <nd ref="356022658"/>
+    <nd ref="404076060"/>
+    <nd ref="1083777080"/>
+    <nd ref="404076066"/>
+    <nd ref="404076053"/>
+    <nd ref="66715716"/>
+    <nd ref="404076049"/>
+    <nd ref="66715717"/>
+    <nd ref="1083777049"/>
+    <nd ref="1083777064"/>
+    <nd ref="404076038"/>
+    <nd ref="66715718"/>
+    <nd ref="1083777087"/>
+    <nd ref="1083777067"/>
+    <nd ref="404076135"/>
+    <nd ref="404076140"/>
+    <nd ref="404076145"/>
+    <nd ref="66715719"/>
+    <nd ref="1083777102"/>
+    <nd ref="404076150"/>
+    <nd ref="404076162"/>
+    <nd ref="404076157"/>
+    <nd ref="66715720"/>
+    <nd ref="404076153"/>
+    <nd ref="404076165"/>
+    <nd ref="66715721"/>
+    <nd ref="404076172"/>
+    <nd ref="404076178"/>
+    <nd ref="404076185"/>
+    <nd ref="66715722"/>
+    <nd ref="66715725"/>
+    <nd ref="66715726"/>
+    <nd ref="66715728"/>
+    <nd ref="66715729"/>
+    <nd ref="404076196"/>
+    <nd ref="66715730"/>
+    <nd ref="66715731"/>
+    <nd ref="66715733"/>
+    <tag k="landuse" v="forest"/>
+  </way>
+  <way id="34831902" version="4" timestamp="2011-01-16T16:01:03Z" uid="42393" user="mawi42" changeset="6989137">
+    <nd ref="66715733"/>
+    <nd ref="404023388"/>
+    <nd ref="404023378"/>
+    <nd ref="404023374"/>
+    <nd ref="404023295"/>
+    <nd ref="404023267"/>
+    <nd ref="404023262"/>
+    <nd ref="1083777093"/>
+    <nd ref="404076072"/>
+    <nd ref="356022658"/>
+    <nd ref="404076060"/>
+    <nd ref="1083777080"/>
+    <nd ref="404076066"/>
+    <nd ref="404076053"/>
+    <nd ref="66715716"/>
+    <nd ref="404076049"/>
+    <nd ref="66715717"/>
+    <nd ref="1083777049"/>
+    <nd ref="1083777064"/>
+    <nd ref="404076038"/>
+    <nd ref="66715718"/>
+    <nd ref="1083777087"/>
+    <nd ref="1083777067"/>
+    <nd ref="404076135"/>
+    <nd ref="404076140"/>
+    <nd ref="404076145"/>
+    <nd ref="66715719"/>
+    <nd ref="1083777102"/>
+    <nd ref="404076150"/>
+    <nd ref="404076162"/>
+    <nd ref="404076157"/>
+    <nd ref="66715720"/>
+    <nd ref="404076153"/>
+    <nd ref="404076165"/>
+    <nd ref="66715721"/>
+    <nd ref="404076172"/>
+    <nd ref="404076178"/>
+    <nd ref="404076185"/>
+    <nd ref="66715722"/>
+    <nd ref="66715725"/>
+    <nd ref="66715726"/>
+    <nd ref="66715728"/>
+    <nd ref="66715729"/>
+    <nd ref="404076196"/>
+    <nd ref="1106288789"/>
+    <nd ref="66715730"/>
+    <nd ref="66715731"/>
+    <nd ref="66715733"/>
+    <tag k="landuse" v="forest"/>
+  </way>
+  <way id="34831914" version="3" timestamp="2009-10-20T01:01:30Z" uid="36809" user="pfoten_weg_!_" changeset="2899059">
+    <nd ref="408115564"/>
+    <nd ref="408115565"/>
+    <nd ref="408115567"/>
+    <nd ref="408115569"/>
+    <nd ref="408115571"/>
+    <nd ref="408115572"/>
+    <nd ref="408115575"/>
+    <nd ref="408115576"/>
+    <nd ref="408115578"/>
+    <nd ref="408115580"/>
+    <nd ref="408115581"/>
+    <nd ref="408115583"/>
+    <nd ref="408115585"/>
+    <nd ref="408115586"/>
+    <nd ref="440878109"/>
+    <nd ref="440878113"/>
+    <nd ref="440878114"/>
+    <nd ref="440878118"/>
+    <nd ref="440878120"/>
+    <nd ref="440878126"/>
+    <nd ref="440878128"/>
+    <nd ref="440878130"/>
+    <nd ref="440878131"/>
+    <nd ref="440878133"/>
+    <nd ref="440878135"/>
+    <nd ref="440840269"/>
+    <nd ref="440878138"/>
+    <nd ref="440840268"/>
+    <nd ref="440878139"/>
+    <nd ref="440840267"/>
+    <nd ref="440840266"/>
+    <nd ref="440840265"/>
+    <nd ref="440840263"/>
+    <nd ref="440840262"/>
+    <nd ref="440840261"/>
+    <nd ref="440840260"/>
+    <nd ref="440840259"/>
+    <nd ref="440840258"/>
+    <nd ref="440840257"/>
+    <nd ref="440840256"/>
+    <nd ref="440840255"/>
+    <nd ref="440840254"/>
+    <nd ref="440840253"/>
+    <tag k="highway" v="track"/>
+    <tag k="hiking" v="yes"/>
+    <tag k="sac_scale" v="hiking"/>
+    <tag k="source" v="survey"/>
+    <tag k="tracktype" v="grade3"/>
+  </way>
+  <way id="34831985" version="2" timestamp="2010-04-05T15:55:13Z" uid="20587" user="balrog-kun" changeset="4334369">
+    <nd ref="176173116"/>
+    <nd ref="176173149"/>
+    <nd ref="408118964"/>
+    <nd ref="408118960"/>
+    <nd ref="408118963"/>
+    <nd ref="408118953"/>
+    <nd ref="408118957"/>
+    <nd ref="408118955"/>
+    <nd ref="408118959"/>
+    <nd ref="408118951"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="North Hayesmount Road"/>
+    <tag k="name_1" v="County Highway 89"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Arapahoe, CO"/>
+    <tag k="tiger:name_base" v="Hayesmount"/>
+    <tag k="tiger:name_base_1" v="County Highway 89"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="yes"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="177559356:177559357:177353121:177559937:177559938:177522161:177522162"/>
+  </way>
+  <way id="34831986" version="2" timestamp="2010-04-05T15:55:13Z" uid="20587" user="balrog-kun" changeset="4334369">
+    <nd ref="408118951"/>
+    <nd ref="176319432"/>
+    <nd ref="176319434"/>
+    <nd ref="176319436"/>
+    <nd ref="176319437"/>
+    <nd ref="176143768"/>
+    <nd ref="176319439"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="North Hayesmount Road"/>
+    <tag k="name_1" v="County Highway 89"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Arapahoe, CO"/>
+    <tag k="tiger:name_base" v="Hayesmount"/>
+    <tag k="tiger:name_base_1" v="County Highway 89"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="177559356:177559357:177353121:177559937:177559938:177522161:177522162"/>
+  </way>
+  <way id="34831606" version="10" timestamp="2012-08-04T18:20:02Z" uid="587790" user="JaggedMind" changeset="12612571">
+    <nd ref="39323595"/>
+    <nd ref="39323597"/>
+    <tag k="alt_name" v="Pacific Highway #1"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 5"/>
+    <tag k="tiger:cfcc" v="A11"/>
+    <tag k="tiger:county" v="Douglas, OR"/>
+    <tag k="tiger:name_base" v="I-5"/>
+    <tag k="tiger:name_base_1" v="State Highway 99"/>
+    <tag k="tiger:name_base_2" v="Pacific"/>
+    <tag k="tiger:name_type_2" v="Hwy"/>
+  </way>
+  <way id="34831608" version="36" timestamp="2012-08-04T18:20:15Z" uid="587790" user="JaggedMind" changeset="12612571">
+    <nd ref="39323597"/>
+    <nd ref="39323599"/>
+    <nd ref="39323601"/>
+    <nd ref="39323603"/>
+    <nd ref="39323605"/>
+    <nd ref="39323606"/>
+    <nd ref="39323610"/>
+    <nd ref="408094519"/>
+    <nd ref="39323613"/>
+    <nd ref="408094520"/>
+    <nd ref="39323614"/>
+    <nd ref="39323615"/>
+    <nd ref="39323616"/>
+    <nd ref="408773406"/>
+    <nd ref="39323617"/>
+    <nd ref="39323619"/>
+    <nd ref="39323622"/>
+    <nd ref="39323631"/>
+    <nd ref="39323632"/>
+    <nd ref="408094709"/>
+    <nd ref="39323633"/>
+    <nd ref="408094715"/>
+    <nd ref="408094723"/>
+    <nd ref="408094725"/>
+    <nd ref="39323637"/>
+    <nd ref="39323645"/>
+    <nd ref="408137633"/>
+    <nd ref="408137634"/>
+    <nd ref="408137637"/>
+    <nd ref="39323650"/>
+    <nd ref="408138391"/>
+    <nd ref="39323653"/>
+    <nd ref="39323654"/>
+    <nd ref="39323657"/>
+    <nd ref="39323659"/>
+    <nd ref="408142543"/>
+    <nd ref="408142545"/>
+    <nd ref="408142547"/>
+    <nd ref="39323662"/>
+    <nd ref="39323664"/>
+    <nd ref="408142553"/>
+    <nd ref="408142555"/>
+    <nd ref="39323666"/>
+    <nd ref="1602781140"/>
+    <nd ref="39323667"/>
+    <nd ref="1602781113"/>
+    <nd ref="408144664"/>
+    <tag k="alt_name" v="Pacific Highway #1"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Pacific Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 5"/>
+    <tag k="tiger:cfcc" v="A11"/>
+    <tag k="tiger:county" v="Douglas, OR"/>
+    <tag k="tiger:name_base" v="I-5"/>
+    <tag k="tiger:name_base_1" v="State Highway 99"/>
+    <tag k="tiger:name_base_2" v="Pacific"/>
+    <tag k="tiger:name_type_2" v="Hwy"/>
+  </way>
+  <way id="34831641" version="4" timestamp="2012-07-19T10:47:55Z" uid="722137" user="OSMF Redaction Account" changeset="12319521">
+    <nd ref="966735575"/>
+    <nd ref="408095244"/>
+    <nd ref="408095246"/>
+    <nd ref="408095248"/>
+    <nd ref="408095250"/>
+    <nd ref="408095251"/>
+    <nd ref="408095253"/>
+  </way>
+  <way id="34831653" version="3" timestamp="2012-07-19T10:47:56Z" uid="722137" user="OSMF Redaction Account" changeset="12319521">
+    <nd ref="408096082"/>
+    <nd ref="408096085"/>
+    <nd ref="408095253"/>
+    <nd ref="408096088"/>
+    <nd ref="408094949"/>
+  </way>
+  <way id="34831726" version="6" timestamp="2012-07-19T19:36:52Z" uid="722137" user="OSMF Redaction Account" changeset="12345149">
+    <nd ref="408105753"/>
+    <nd ref="310953627"/>
+    <nd ref="310953683"/>
+    <nd ref="320859497"/>
+    <nd ref="320859498"/>
+    <nd ref="132053554"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Eastfield Road"/>
+  </way>
+  <way id="34831730" version="9" timestamp="2012-07-19T19:36:51Z" uid="722137" user="OSMF Redaction Account" changeset="12345149">
+    <nd ref="408106206"/>
+    <nd ref="408106210"/>
+    <nd ref="408106215"/>
+    <nd ref="408106218"/>
+    <nd ref="408106220"/>
+    <nd ref="408106222"/>
+    <nd ref="408106223"/>
+    <nd ref="408106226"/>
+    <nd ref="408106206"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="maxspeed" v="60"/>
+  </way>
+  <way id="34831730" version="10" timestamp="2012-08-02T04:57:17Z" uid="46482" user="Leon K" changeset="12581218">
+    <nd ref="408106206"/>
+    <nd ref="1847815220"/>
+    <nd ref="408106210"/>
+    <nd ref="1847815232"/>
+    <nd ref="408106215"/>
+    <nd ref="1847815231"/>
+    <nd ref="1847815223"/>
+    <nd ref="408106218"/>
+    <nd ref="1847815221"/>
+    <nd ref="1847815230"/>
+    <nd ref="408106220"/>
+    <nd ref="1847815228"/>
+    <nd ref="408106222"/>
+    <nd ref="408106223"/>
+    <nd ref="1847815233"/>
+    <nd ref="408106226"/>
+    <nd ref="1847815225"/>
+    <nd ref="1847815234"/>
+    <nd ref="408106206"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="maxspeed" v="60"/>
+  </way>
+  <way id="34831734" version="6" timestamp="2012-07-19T19:36:51Z" uid="722137" user="OSMF Redaction Account" changeset="12345149">
+    <nd ref="408106215"/>
+    <nd ref="408106474"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Jesmond Road"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="34831742" version="6" timestamp="2012-07-19T19:38:23Z" uid="722137" user="OSMF Redaction Account" changeset="12345149">
+    <nd ref="408106223"/>
+    <nd ref="408106820"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Apollo Court"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="34831748" version="15" timestamp="2012-07-19T12:33:57Z" uid="722137" user="OSMF Redaction Account" changeset="12325458">
+    <nd ref="408107116"/>
+    <nd ref="408107016"/>
+    <nd ref="355527964"/>
+    <tag k="name" v="MacIntyre River"/>
+    <tag k="source" v="yahoo"/>
+    <tag k="waterway" v="river"/>
+  </way>
+  <way id="34831748" version="16" timestamp="2012-07-19T12:35:19Z" uid="722137" user="OSMF Redaction Account" changeset="12325538"/>
+  <way id="34831749" version="5" timestamp="2012-07-19T19:38:22Z" uid="722137" user="OSMF Redaction Account" changeset="12345149">
+    <nd ref="408106820"/>
+    <nd ref="408106226"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Apollo Court"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+</osm>

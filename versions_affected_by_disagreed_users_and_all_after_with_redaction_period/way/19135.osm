@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="19135189" version="3" timestamp="2010-02-14T15:44:56Z" uid="74617" user="JohnSmith" changeset="3874884">
+    <nd ref="198387387"/>
+    <nd ref="198405861"/>
+    <nd ref="198405862"/>
+    <nd ref="198405864"/>
+    <nd ref="72920418"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Epacras Street"/>
+  </way>
+  <way id="19135189" version="4" timestamp="2012-01-15T19:50:53Z" uid="147510" user="woodpeck_fixbot" changeset="10400850">
+    <nd ref="198387387"/>
+    <nd ref="198405861"/>
+    <nd ref="198405862"/>
+    <nd ref="198405864"/>
+    <nd ref="72920418"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Epacras Street"/>
+  </way>
+  <way id="19135311" version="2" timestamp="2010-02-14T15:44:53Z" uid="74617" user="JohnSmith" changeset="3874884">
+    <nd ref="198406854"/>
+    <nd ref="198406855"/>
+    <nd ref="198406864"/>
+    <nd ref="198406871"/>
+    <nd ref="198406874"/>
+    <nd ref="198406877"/>
+    <nd ref="198406886"/>
+    <nd ref="198406905"/>
+    <nd ref="198406907"/>
+    <nd ref="198406854"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="19135637" version="5" timestamp="2010-01-29T09:20:05Z" uid="74617" user="JohnSmith" changeset="3741623">
+    <nd ref="26336939"/>
+    <nd ref="198409948"/>
+    <nd ref="622301449"/>
+    <nd ref="198409949"/>
+    <nd ref="622301462"/>
+    <nd ref="198409951"/>
+    <nd ref="622301461"/>
+    <nd ref="556195285"/>
+    <nd ref="622301460"/>
+    <nd ref="622301463"/>
+    <nd ref="26336940"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="layer" v="1"/>
+    <tag k="railway" v="rail"/>
+    <tag k="service" v="yard"/>
+  </way>
+  <way id="19135660" version="2" timestamp="2010-06-29T19:14:04Z" uid="74617" user="JohnSmith" changeset="5108182">
+    <nd ref="198409659"/>
+    <nd ref="198409673"/>
+    <nd ref="198409725"/>
+    <nd ref="198409788"/>
+    <nd ref="198409659"/>
+    <tag k="fixme" v="sport=football is ambiguous, see http://wiki.osm.org/wiki/Football for more details"/>
+    <tag k="sport" v="football"/>
+  </way>
+  <way id="19135637" version="6" timestamp="2012-07-20T03:35:51Z" uid="722137" user="OSMF Redaction Account" changeset="12359497">
+    <nd ref="26336939"/>
+    <nd ref="198409948"/>
+    <nd ref="198409949"/>
+    <nd ref="198409951"/>
+    <nd ref="556195285"/>
+    <nd ref="26336940"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="layer" v="1"/>
+    <tag k="railway" v="rail"/>
+    <tag k="service" v="yard"/>
+  </way>
+  <way id="19135660" version="3" timestamp="2012-07-15T12:42:46Z" uid="722137" user="OSMF Redaction Account" changeset="12228058">
+    <nd ref="198409659"/>
+    <nd ref="198409673"/>
+    <nd ref="198409725"/>
+    <nd ref="198409788"/>
+    <nd ref="198409659"/>
+    <tag k="sport" v="football"/>
+  </way>
+</osm>

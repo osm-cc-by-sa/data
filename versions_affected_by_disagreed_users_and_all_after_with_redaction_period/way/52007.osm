@@ -1,0 +1,399 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="52007100" version="2" timestamp="2010-04-07T14:30:43Z" uid="20587" user="balrog-kun" changeset="4353646">
+    <nd ref="82440298"/>
+    <nd ref="663063094"/>
+    <nd ref="82440300"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="US Highway 380E (Bus)"/>
+    <tag k="tiger:cfcc" v="A31"/>
+    <tag k="tiger:county" v="Wise, TX"/>
+    <tag k="tiger:name_base" v="US Hwy 380E (Bus)"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="103689496:103680273:103686700:103686673"/>
+  </way>
+  <way id="52007100" version="3" timestamp="2011-11-13T14:21:09Z" uid="37392" user="25or6to4" changeset="9814382">
+    <nd ref="82440298"/>
+    <nd ref="1501425488"/>
+    <nd ref="663063094"/>
+    <nd ref="82440300"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="State Highway Loop 373"/>
+    <tag k="ref" v="Loop 373"/>
+    <tag k="tiger:cfcc" v="A31"/>
+    <tag k="tiger:county" v="Wise, TX"/>
+    <tag k="tiger:name_base" v="US Hwy 380E (Bus)"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="103689496:103680273:103686700:103686673"/>
+  </way>
+  <way id="52007100" version="4" timestamp="2012-01-02T01:01:31Z" uid="207745" user="NE2" changeset="10267177">
+    <nd ref="82440300"/>
+    <nd ref="663063094"/>
+    <nd ref="1501425488"/>
+    <nd ref="82440298"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="old_ref" v="US 380 Business (old Loop 129)"/>
+    <tag k="ref" v="Loop 373"/>
+    <tag k="tiger:cfcc" v="A31"/>
+    <tag k="tiger:county" v="Wise, TX"/>
+    <tag k="tiger:name_base" v="US Hwy 380E (Bus)"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="103689496:103680273:103686700:103686673"/>
+  </way>
+  <way id="52007100" version="5" timestamp="2012-01-03T06:30:39Z" uid="207745" user="NE2" changeset="10278544">
+    <nd ref="82440300"/>
+    <nd ref="663063094"/>
+    <nd ref="1501425488"/>
+    <nd ref="82440298"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="old_ref" v="US 380 Business (old Loop 129 (old SH 24))"/>
+    <tag k="ref" v="Loop 373"/>
+    <tag k="tiger:cfcc" v="A31"/>
+    <tag k="tiger:county" v="Wise, TX"/>
+    <tag k="tiger:name_base" v="US Hwy 380E (Bus)"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="103689496:103680273:103686700:103686673"/>
+  </way>
+  <way id="52007513" version="2" timestamp="2010-03-21T10:55:16Z" uid="74617" user="JohnSmith" changeset="4189299">
+    <nd ref="663067524"/>
+    <nd ref="663067542"/>
+    <nd ref="663067543"/>
+    <nd ref="663067544"/>
+    <nd ref="663067545"/>
+    <nd ref="663067546"/>
+    <nd ref="671227665"/>
+    <tag k="highway" v="footway"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="52007513" version="3" timestamp="2011-01-30T09:54:41Z" uid="22094" user="Chadzopkyo" changeset="7131782">
+    <nd ref="663067524"/>
+    <nd ref="663067542"/>
+    <nd ref="663067544"/>
+    <nd ref="663067545"/>
+    <nd ref="663067546"/>
+    <nd ref="671227665"/>
+    <nd ref="214575323"/>
+    <tag k="bicycle" v="designated"/>
+    <tag k="foot" v="designated"/>
+    <tag k="highway" v="path"/>
+    <tag k="segregated" v="no"/>
+    <tag k="surface" v="concrete"/>
+    <tag k="width" v="2"/>
+  </way>
+  <way id="52007527" version="3" timestamp="2010-07-06T10:52:39Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="663067568"/>
+    <nd ref="663067576"/>
+    <nd ref="670334176"/>
+    <nd ref="663067577"/>
+    <nd ref="663067578"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="52007527" version="4" timestamp="2011-01-21T07:54:01Z" uid="22094" user="Chadzopkyo" changeset="7037665">
+    <nd ref="663067568"/>
+    <nd ref="663067576"/>
+    <nd ref="670334176"/>
+    <nd ref="663067577"/>
+    <nd ref="663067578"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Snowdon Street"/>
+    <tag k="source" v="GPS"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="52007527" version="5" timestamp="2012-01-20T03:35:19Z" uid="147510" user="woodpeck_fixbot" changeset="10442986">
+    <nd ref="663067568"/>
+    <nd ref="663067576"/>
+    <nd ref="670334176"/>
+    <nd ref="663067577"/>
+    <nd ref="663067578"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Snowdon Street"/>
+    <tag k="source" v="GPS"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="52007528" version="2" timestamp="2010-07-06T10:53:31Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="663067579"/>
+    <nd ref="663067580"/>
+    <nd ref="663067581"/>
+    <nd ref="663067582"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="52007528" version="3" timestamp="2011-01-21T07:54:03Z" uid="22094" user="Chadzopkyo" changeset="7037665">
+    <nd ref="663067582"/>
+    <nd ref="1112643498"/>
+    <nd ref="663067581"/>
+    <nd ref="663067580"/>
+    <nd ref="663067579"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Windsor Street"/>
+    <tag k="source" v="GPS"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="52007528" version="4" timestamp="2012-01-20T03:35:21Z" uid="147510" user="woodpeck_fixbot" changeset="10442986">
+    <nd ref="663067582"/>
+    <nd ref="1112643498"/>
+    <nd ref="663067581"/>
+    <nd ref="663067580"/>
+    <nd ref="663067579"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Windsor Street"/>
+    <tag k="source" v="GPS"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="52007532" version="2" timestamp="2010-07-06T10:52:06Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="663067583"/>
+    <nd ref="663067598"/>
+    <nd ref="663067599"/>
+    <nd ref="663067600"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="52007532" version="3" timestamp="2011-01-21T07:53:59Z" uid="22094" user="Chadzopkyo" changeset="7037665">
+    <nd ref="663067583"/>
+    <nd ref="1112643431"/>
+    <nd ref="663067598"/>
+    <nd ref="663067599"/>
+    <nd ref="663067600"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Snowdon Street"/>
+    <tag k="source" v="GPS"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="52007532" version="4" timestamp="2012-01-20T03:35:23Z" uid="147510" user="woodpeck_fixbot" changeset="10442986">
+    <nd ref="663067583"/>
+    <nd ref="1112643431"/>
+    <nd ref="663067598"/>
+    <nd ref="663067599"/>
+    <nd ref="663067600"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Snowdon Street"/>
+    <tag k="source" v="GPS"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="52007537" version="2" timestamp="2010-07-06T10:42:16Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="663067602"/>
+    <nd ref="663067610"/>
+    <nd ref="663067611"/>
+    <nd ref="663067612"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="52007537" version="3" timestamp="2011-01-21T07:53:56Z" uid="22094" user="Chadzopkyo" changeset="7037665">
+    <nd ref="663067602"/>
+    <nd ref="1112643419"/>
+    <nd ref="663067610"/>
+    <nd ref="663067611"/>
+    <nd ref="663067612"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Snowdon Street"/>
+    <tag k="source" v="GPS"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="52007537" version="4" timestamp="2012-01-20T03:35:24Z" uid="147510" user="woodpeck_fixbot" changeset="10442986">
+    <nd ref="663067602"/>
+    <nd ref="1112643419"/>
+    <nd ref="663067610"/>
+    <nd ref="663067611"/>
+    <nd ref="663067612"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Snowdon Street"/>
+    <tag k="source" v="GPS"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="52007538" version="2" timestamp="2010-07-06T10:52:26Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="663067613"/>
+    <nd ref="663067647"/>
+    <nd ref="663067649"/>
+    <nd ref="663067637"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="52007538" version="3" timestamp="2011-01-21T07:53:58Z" uid="22094" user="Chadzopkyo" changeset="7037665">
+    <nd ref="663067613"/>
+    <nd ref="663067647"/>
+    <nd ref="663067649"/>
+    <nd ref="1112643510"/>
+    <nd ref="663067637"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Windsor Street"/>
+    <tag k="source" v="GPS"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="52007538" version="4" timestamp="2012-01-20T03:35:26Z" uid="147510" user="woodpeck_fixbot" changeset="10442986">
+    <nd ref="663067613"/>
+    <nd ref="663067647"/>
+    <nd ref="663067649"/>
+    <nd ref="1112643510"/>
+    <nd ref="663067637"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Windsor Street"/>
+    <tag k="source" v="GPS"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="52007539" version="2" timestamp="2010-07-06T10:49:34Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="663067666"/>
+    <nd ref="663067682"/>
+    <nd ref="663067684"/>
+    <nd ref="663067687"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="52007539" version="3" timestamp="2011-01-21T07:54:00Z" uid="22094" user="Chadzopkyo" changeset="7037665">
+    <nd ref="663067666"/>
+    <nd ref="663067682"/>
+    <nd ref="663067684"/>
+    <nd ref="1112643503"/>
+    <nd ref="1112643533"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Windsor Street"/>
+    <tag k="source" v="GPS"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="52007539" version="4" timestamp="2012-01-20T03:35:28Z" uid="147510" user="woodpeck_fixbot" changeset="10442986">
+    <nd ref="663067666"/>
+    <nd ref="663067682"/>
+    <nd ref="663067684"/>
+    <nd ref="1112643503"/>
+    <nd ref="1112643533"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Windsor Street"/>
+    <tag k="source" v="GPS"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="52007548" version="4" timestamp="2010-07-06T10:47:08Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="663067784"/>
+    <nd ref="663067804"/>
+    <nd ref="663067805"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Stone Court"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="52007548" version="5" timestamp="2012-01-20T03:35:29Z" uid="147510" user="woodpeck_fixbot" changeset="10442986">
+    <nd ref="663067784"/>
+    <nd ref="663067804"/>
+    <nd ref="663067805"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Stone Court"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="52007550" version="3" timestamp="2010-07-06T10:53:52Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="214545649"/>
+    <nd ref="663067813"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Delton Court"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="52007550" version="4" timestamp="2012-01-20T03:35:30Z" uid="147510" user="woodpeck_fixbot" changeset="10442986">
+    <nd ref="214545649"/>
+    <nd ref="663067813"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Delton Court"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="52007560" version="3" timestamp="2010-07-06T10:42:42Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="214545647"/>
+    <nd ref="663068022"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Meakin Road"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="52007560" version="4" timestamp="2012-01-20T03:35:31Z" uid="147510" user="woodpeck_fixbot" changeset="10442986">
+    <nd ref="214545647"/>
+    <nd ref="663068022"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Meakin Road"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="52007576" version="3" timestamp="2010-07-06T10:50:28Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="663068062"/>
+    <nd ref="663068089"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Fatima Court"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="52007576" version="4" timestamp="2011-01-21T08:34:36Z" uid="22094" user="Chadzopkyo" changeset="7037932">
+    <nd ref="663068062"/>
+    <nd ref="663068089"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Fatima Court"/>
+    <tag k="source" v="GPS"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="52007576" version="5" timestamp="2012-01-20T03:35:33Z" uid="147510" user="woodpeck_fixbot" changeset="10442986">
+    <nd ref="663068062"/>
+    <nd ref="663068089"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Fatima Court"/>
+    <tag k="source" v="GPS"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="52007100" version="6" timestamp="2012-05-10T06:50:33Z" uid="119881" user="Clorox" changeset="11555749">
+    <nd ref="82440300"/>
+    <nd ref="663063094"/>
+    <nd ref="1501425488"/>
+    <nd ref="82440298"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="old_ref" v="US 380E Business (old Loop 129 (old TX 24))"/>
+    <tag k="ref" v="Loop 373"/>
+    <tag k="tiger:cfcc" v="A31"/>
+    <tag k="tiger:county" v="Wise, TX"/>
+    <tag k="tiger:name_base" v="US Hwy 380E (Bus)"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="103689496:103680273:103686700:103686673"/>
+  </way>
+  <way id="52007513" version="4" timestamp="2012-07-20T06:56:22Z" uid="722137" user="OSMF Redaction Account" changeset="12364905">
+    <nd ref="663067524"/>
+    <nd ref="663067542"/>
+    <nd ref="663067544"/>
+    <nd ref="663067545"/>
+    <nd ref="663067546"/>
+    <nd ref="214575323"/>
+    <tag k="bicycle" v="designated"/>
+    <tag k="foot" v="designated"/>
+    <tag k="highway" v="path"/>
+    <tag k="segregated" v="no"/>
+    <tag k="surface" v="concrete"/>
+    <tag k="width" v="2"/>
+  </way>
+</osm>

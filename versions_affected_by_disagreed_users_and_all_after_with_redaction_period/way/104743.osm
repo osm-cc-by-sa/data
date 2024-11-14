@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="104743660" version="2" timestamp="2011-04-12T07:32:18Z" uid="4467" user="Rosscoe" changeset="7839941">
+    <nd ref="498743977"/>
+    <nd ref="498743976"/>
+    <nd ref="614560429"/>
+    <nd ref="498769484"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Mary Street"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="104743662" version="3" timestamp="2011-04-12T08:13:28Z" uid="4467" user="Rosscoe" changeset="7840223">
+    <nd ref="1208142391"/>
+    <nd ref="1208142397"/>
+    <nd ref="1208133242"/>
+    <nd ref="1241659254"/>
+    <tag k="highway" v="service"/>
+    <tag k="service" v="driveway"/>
+  </way>
+  <way id="104743660" version="3" timestamp="2012-07-19T05:52:42Z" uid="722137" user="OSMF Redaction Account" changeset="12309639">
+    <nd ref="498743977"/>
+    <nd ref="614560429"/>
+    <nd ref="498769484"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Mary Street"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="104743662" version="4" timestamp="2012-07-19T05:52:24Z" uid="722137" user="OSMF Redaction Account" changeset="12309639">
+    <nd ref="1208142391"/>
+    <nd ref="1208142397"/>
+    <nd ref="1208133242"/>
+    <tag k="highway" v="service"/>
+    <tag k="service" v="driveway"/>
+  </way>
+</osm>

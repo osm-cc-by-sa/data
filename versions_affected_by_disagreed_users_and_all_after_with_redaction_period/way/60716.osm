@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="60716112" version="1" timestamp="2010-05-31T01:48:00Z" uid="6269" user="Mueck" changeset="4858927">
+    <nd ref="760146535"/>
+    <nd ref="694854000"/>
+    <tag k="railway" v="rail"/>
+  </way>
+  <way id="60716112" version="2" timestamp="2011-03-06T22:58:25Z" uid="6269" user="Mueck" changeset="7479604">
+    <nd ref="760146535"/>
+    <nd ref="1190108785"/>
+    <nd ref="1190108808"/>
+    <nd ref="694854000"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="frequency" v="16.7"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="operator" v="DB Netz"/>
+    <tag k="railway" v="rail"/>
+    <tag k="tracks" v="1"/>
+    <tag k="usage" v="main"/>
+    <tag k="voltage" v="15000"/>
+    <tag k="workrules" v="EBO"/>
+  </way>
+  <way id="60716112" version="3" timestamp="2012-07-19T18:14:19Z" uid="165061" user="mapper999" changeset="12318312">
+    <nd ref="760146535"/>
+    <nd ref="1190108785"/>
+    <nd ref="1190108808"/>
+    <nd ref="694854000"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="frequency" v="16.7"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="operator" v="DB Netz"/>
+    <tag k="railway" v="rail"/>
+    <tag k="service" v="crossover"/>
+    <tag k="tracks" v="1"/>
+    <tag k="usage" v="main"/>
+    <tag k="voltage" v="15000"/>
+    <tag k="workrules" v="EBO"/>
+  </way>
+  <way id="60716112" version="4" timestamp="2012-07-19T19:51:15Z" uid="722137" user="OSMF Redaction Account" changeset="12345431"/>
+</osm>

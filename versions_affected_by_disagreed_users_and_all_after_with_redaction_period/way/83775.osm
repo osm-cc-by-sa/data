@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="83775053" version="2" timestamp="2010-12-19T06:35:13Z" uid="7617" user="Franc" changeset="6702769">
+    <nd ref="441519196"/>
+    <nd ref="441519203"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lcn" v="yes"/>
+    <tag k="name" v="Short Street"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="83775054" version="2" timestamp="2010-12-19T06:35:39Z" uid="7617" user="Franc" changeset="6702769">
+    <nd ref="255959079"/>
+    <nd ref="255959080"/>
+    <nd ref="255959081"/>
+    <tag k="fixme:sign:no" v="2010-12-19"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="83775062" version="2" timestamp="2010-12-19T06:35:18Z" uid="7617" user="Franc" changeset="6702769">
+    <nd ref="255958898"/>
+    <nd ref="1047252684"/>
+    <nd ref="1047252517"/>
+    <nd ref="255958786"/>
+    <tag k="fixme:sign:no" v="2010-12-19"/>
+    <tag k="highway" v="service"/>
+    <tag k="lcn" v="yes"/>
+  </way>
+  <way id="83775053" version="3" timestamp="2012-07-20T10:12:57Z" uid="722137" user="OSMF Redaction Account" changeset="12370893"/>
+  <way id="83775054" version="3" timestamp="2012-07-20T10:09:24Z" uid="722137" user="OSMF Redaction Account" changeset="12370747">
+    <nd ref="255959079"/>
+    <nd ref="255959080"/>
+    <nd ref="255959081"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="83775062" version="3" timestamp="2012-07-20T10:07:20Z" uid="722137" user="OSMF Redaction Account" changeset="12370653">
+    <nd ref="255958898"/>
+    <nd ref="255958786"/>
+    <tag k="highway" v="service"/>
+    <tag k="lcn" v="yes"/>
+  </way>
+</osm>

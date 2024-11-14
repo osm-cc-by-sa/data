@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="104264046" version="2" timestamp="2011-04-12T21:50:43Z" uid="88880" user="firsttimelinux" changeset="7847281">
+    <nd ref="1041111898"/>
+    <nd ref="1203106466"/>
+    <nd ref="1242570164"/>
+    <nd ref="1242570104"/>
+    <nd ref="1203106469"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Löntschgasse"/>
+  </way>
+  <way id="104264046" version="3" timestamp="2011-07-17T15:06:52Z" uid="334389" user="ueliw0" changeset="8748984">
+    <nd ref="1041111898"/>
+    <nd ref="1203106466"/>
+    <nd ref="1364566756"/>
+    <nd ref="1364566766"/>
+    <nd ref="1242570164"/>
+    <nd ref="1364566782"/>
+    <nd ref="1242570104"/>
+    <nd ref="1203106469"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Löntschgasse"/>
+  </way>
+  <way id="104264046" version="4" timestamp="2012-02-27T21:28:26Z" uid="122406" user="hanskuster" changeset="10813854"/>
+  <way id="104264774" version="1" timestamp="2011-03-15T14:55:30Z" uid="4467" user="Rosscoe" changeset="7566933">
+    <nd ref="344579214"/>
+    <nd ref="29994631"/>
+    <nd ref="344579285"/>
+    <nd ref="1185698409"/>
+    <nd ref="313091546"/>
+    <nd ref="344585339"/>
+    <nd ref="552750474"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="loc_name" v="Whitehorse Road"/>
+    <tag k="name" v="Maroondah Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S34"/>
+  </way>
+  <way id="104264774" version="2" timestamp="2011-08-17T03:47:10Z" uid="11111" user="melb_guy" changeset="9044075">
+    <nd ref="344579285"/>
+    <nd ref="1401770139"/>
+    <nd ref="1401770149"/>
+    <nd ref="1401770175"/>
+    <nd ref="313091546"/>
+    <nd ref="344585339"/>
+    <nd ref="552750474"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="loc_name" v="Whitehorse Road"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Maroondah Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="104264774" version="3" timestamp="2012-07-19T19:38:32Z" uid="722137" user="OSMF Redaction Account" changeset="12345202">
+    <nd ref="1401770139"/>
+    <nd ref="1401770149"/>
+    <nd ref="1401770175"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="104264774" version="4" timestamp="2012-08-12T13:54:00Z" uid="67896" user="mrpulley" changeset="12701897">
+    <nd ref="344579285"/>
+    <nd ref="1401770139"/>
+    <nd ref="1401770149"/>
+    <nd ref="1401770175"/>
+    <nd ref="313091546"/>
+    <nd ref="344585339"/>
+    <nd ref="552750474"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="loc_name" v="Whitehorse Road"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Maroondah Highway"/>
+    <tag k="network" v="S"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="34"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+</osm>

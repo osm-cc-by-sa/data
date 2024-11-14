@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="7637348" version="4" timestamp="2009-07-31T14:28:11Z" uid="4467" user="Rosscoe" changeset="1995211">
+    <nd ref="25775384"/>
+    <nd ref="261568514"/>
+    <nd ref="25841412"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Curran Street"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="7637348" version="5" timestamp="2011-07-24T01:20:03Z" uid="341519" user="lcmortensen" changeset="8811353">
+    <nd ref="25775384"/>
+    <nd ref="261568514"/>
+    <nd ref="25841412"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Curran Street"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="7637349" version="5" timestamp="2009-07-31T14:28:12Z" uid="4467" user="Rosscoe" changeset="1995211">
+    <nd ref="25841409"/>
+    <nd ref="25841413"/>
+    <nd ref="25841414"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Shelly Beach Road"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="7637349" version="6" timestamp="2011-07-24T01:21:22Z" uid="341519" user="lcmortensen" changeset="8811353">
+    <nd ref="25841409"/>
+    <nd ref="25841413"/>
+    <nd ref="25841414"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="name" v="Shelly Beach Road"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="7637832" version="2" timestamp="2007-12-15T22:46:41Z" uid="8328" user="benpre" changeset="328599"/>
+  <way id="7637348" version="6" timestamp="2012-07-21T13:29:45Z" uid="722137" user="OSMF Redaction Account" changeset="12410164">
+    <nd ref="25775384"/>
+    <nd ref="261568514"/>
+    <nd ref="25841412"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Curran Street"/>
+    <tag k="oneway" v="true"/>
+  </way>
+  <way id="7637349" version="7" timestamp="2012-07-21T13:29:45Z" uid="722137" user="OSMF Redaction Account" changeset="12410164">
+    <nd ref="25841409"/>
+    <nd ref="25841413"/>
+    <nd ref="25841414"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="name" v="Shelly Beach Road"/>
+    <tag k="oneway" v="true"/>
+  </way>
+</osm>

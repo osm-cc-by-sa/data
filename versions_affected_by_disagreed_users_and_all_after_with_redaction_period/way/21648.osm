@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="21648573" version="4" timestamp="2008-07-03T22:42:04Z" uid="6975" user="ulfl" changeset="386611">
+    <nd ref="233241914"/>
+    <nd ref="233242007"/>
+    <nd ref="233241923"/>
+    <nd ref="233241932"/>
+    <nd ref="233241943"/>
+    <nd ref="233241954"/>
+    <nd ref="233241965"/>
+    <nd ref="233241972"/>
+    <nd ref="233241978"/>
+    <nd ref="233241987"/>
+    <nd ref="233241996"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="atm" v="yes"/>
+    <tag k="building" v="yes"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Bank of Montreal"/>
+  </way>
+  <way id="21648573" version="5" timestamp="2011-03-26T19:21:29Z" uid="303303" user="macgregor" changeset="7679097">
+    <nd ref="233241914"/>
+    <nd ref="233242007"/>
+    <nd ref="233241923"/>
+    <nd ref="233241932"/>
+    <nd ref="233241943"/>
+    <nd ref="233241954"/>
+    <nd ref="233241965"/>
+    <nd ref="233241972"/>
+    <nd ref="233241978"/>
+    <nd ref="233241987"/>
+    <nd ref="233241914"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="atm" v="yes"/>
+    <tag k="building" v="yes"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Bank of Montreal"/>
+  </way>
+  <way id="21648759" version="7" timestamp="2010-07-09T04:55:03Z" uid="74617" user="JohnSmith" changeset="5170972">
+    <nd ref="233243463"/>
+    <nd ref="233243583"/>
+    <nd ref="603034183"/>
+    <nd ref="603034158"/>
+    <nd ref="233243550"/>
+    <nd ref="603034176"/>
+    <nd ref="356613625"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Emma Street"/>
+  </way>
+  <way id="21648759" version="8" timestamp="2011-04-10T20:39:08Z" uid="4467" user="Rosscoe" changeset="7827395">
+    <nd ref="233243463"/>
+    <nd ref="233243583"/>
+    <nd ref="603034183"/>
+    <nd ref="603034158"/>
+    <nd ref="233243550"/>
+    <nd ref="603034176"/>
+    <nd ref="356613625"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Emma Street"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="21648759" version="9" timestamp="2012-01-15T21:43:24Z" uid="147510" user="woodpeck_fixbot" changeset="10402983">
+    <nd ref="233243463"/>
+    <nd ref="233243583"/>
+    <nd ref="603034183"/>
+    <nd ref="603034158"/>
+    <nd ref="233243550"/>
+    <nd ref="603034176"/>
+    <nd ref="356613625"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Emma Street"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="21648934" version="7" timestamp="2010-07-09T04:59:15Z" uid="74617" user="JohnSmith" changeset="5170972">
+    <nd ref="233245002"/>
+    <nd ref="603034187"/>
+    <nd ref="603034161"/>
+    <nd ref="233245054"/>
+    <nd ref="603034174"/>
+    <nd ref="603034242"/>
+    <nd ref="356613723"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Blanche Street"/>
+  </way>
+  <way id="21648934" version="8" timestamp="2011-04-10T20:39:14Z" uid="4467" user="Rosscoe" changeset="7827395">
+    <nd ref="233245002"/>
+    <nd ref="603034187"/>
+    <nd ref="603034161"/>
+    <nd ref="233245054"/>
+    <nd ref="603034174"/>
+    <nd ref="603034242"/>
+    <nd ref="356613723"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Blanche Street"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="21648934" version="9" timestamp="2012-01-15T21:43:26Z" uid="147510" user="woodpeck_fixbot" changeset="10402983">
+    <nd ref="233245002"/>
+    <nd ref="603034187"/>
+    <nd ref="603034161"/>
+    <nd ref="233245054"/>
+    <nd ref="603034174"/>
+    <nd ref="603034242"/>
+    <nd ref="356613723"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Blanche Street"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="21648759" version="10" timestamp="2012-07-19T11:50:08Z" uid="722137" user="OSMF Redaction Account" changeset="12322905">
+    <nd ref="233243463"/>
+    <nd ref="233243583"/>
+    <nd ref="603034183"/>
+    <nd ref="603034158"/>
+    <nd ref="233243550"/>
+    <nd ref="603034176"/>
+    <nd ref="356613625"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Emma Street"/>
+  </way>
+  <way id="21648934" version="10" timestamp="2012-07-19T11:50:09Z" uid="722137" user="OSMF Redaction Account" changeset="12322905">
+    <nd ref="233245002"/>
+    <nd ref="603034187"/>
+    <nd ref="603034161"/>
+    <nd ref="233245054"/>
+    <nd ref="603034174"/>
+    <nd ref="603034242"/>
+    <nd ref="356613723"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Blanche Street"/>
+  </way>
+</osm>

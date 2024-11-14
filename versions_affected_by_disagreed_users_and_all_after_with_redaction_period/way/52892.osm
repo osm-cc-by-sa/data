@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="52892021" version="1" timestamp="2010-03-20T14:54:54Z" uid="30632" user="antblant" changeset="4180605">
+    <nd ref="670449303"/>
+    <nd ref="670449307"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="footway"/>
+    <tag k="layer" v="1"/>
+    <tag k="source" v="UMP-PL, ./UMP-Warszawa/src/PODKOWA_LESNA.ulice.txt"/>
+  </way>
+  <way id="52892022" version="1" timestamp="2010-03-20T14:54:54Z" uid="30632" user="antblant" changeset="4180605">
+    <nd ref="670449307"/>
+    <nd ref="343533963"/>
+    <nd ref="343533444"/>
+    <nd ref="343533968"/>
+    <nd ref="343533970"/>
+    <nd ref="343533966"/>
+    <nd ref="343534070"/>
+    <tag k="highway" v="footway"/>
+    <tag k="source" v="UMP-PL, ./UMP-Warszawa/src/PODKOWA_LESNA.ulice.txt"/>
+  </way>
+  <way id="52892022" version="2" timestamp="2010-12-04T15:36:10Z" uid="98542" user="wajak" changeset="6539250">
+    <nd ref="670449307"/>
+    <nd ref="343533963"/>
+    <nd ref="343533444"/>
+    <nd ref="1020187410"/>
+    <nd ref="1020187053"/>
+    <nd ref="1020187018"/>
+    <tag k="highway" v="path"/>
+    <tag k="source" v="UMP-PL, ./UMP-Warszawa/src/PODKOWA_LESNA.ulice.txt"/>
+  </way>
+  <way id="52892021" version="2" timestamp="2012-07-24T22:50:27Z" uid="722137" user="OSMF Redaction Account" changeset="12478137"/>
+  <way id="52892022" version="3" timestamp="2012-07-24T22:49:35Z" uid="722137" user="OSMF Redaction Account" changeset="12478129">
+    <nd ref="343533444"/>
+    <nd ref="1020187410"/>
+    <nd ref="1020187053"/>
+    <nd ref="1020187018"/>
+    <tag k="highway" v="path"/>
+    <tag k="source" v="UMP-PL, ./UMP-Warszawa/src/PODKOWA_LESNA.ulice.txt"/>
+  </way>
+</osm>

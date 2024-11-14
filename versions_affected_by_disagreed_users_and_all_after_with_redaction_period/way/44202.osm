@@ -1,0 +1,876 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="44202572" version="2" timestamp="2010-12-09T18:41:41Z" uid="6269" user="Mueck" changeset="6597970">
+    <nd ref="561413772"/>
+    <nd ref="561413771"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="track"/>
+    <tag k="motorcycle" v="no"/>
+    <tag k="name" v="Süderweg"/>
+    <tag k="source" v="bing"/>
+    <tag k="surface" v="paved"/>
+    <tag k="tracktype" v="grade1"/>
+  </way>
+  <way id="44202572" version="3" timestamp="2011-07-10T14:49:54Z" uid="192065" user="Pedie" changeset="8684365">
+    <nd ref="561413772"/>
+    <nd ref="561413771"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="track"/>
+    <tag k="layer" v="1"/>
+    <tag k="motorcycle" v="no"/>
+    <tag k="name" v="Süderweg"/>
+    <tag k="source" v="bing"/>
+    <tag k="surface" v="paved"/>
+    <tag k="tracktype" v="grade1"/>
+  </way>
+  <way id="44202572" version="4" timestamp="2012-03-22T15:38:08Z" uid="45882" user="smarties" changeset="11064123">
+    <nd ref="1685999504"/>
+    <nd ref="1685999502"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="track"/>
+    <tag k="layer" v="1"/>
+    <tag k="motorcycle" v="no"/>
+    <tag k="name" v="Süderweg"/>
+    <tag k="source" v="bing"/>
+    <tag k="surface" v="paved"/>
+    <tag k="tracktype" v="grade1"/>
+  </way>
+  <way id="44202573" version="3" timestamp="2010-12-09T18:41:42Z" uid="6269" user="Mueck" changeset="6597970">
+    <nd ref="561413771"/>
+    <nd ref="1029833870"/>
+    <nd ref="1029833910"/>
+    <nd ref="561413770"/>
+    <nd ref="561413769"/>
+    <nd ref="561413768"/>
+    <nd ref="561413767"/>
+    <nd ref="561413766"/>
+    <nd ref="1029833852"/>
+    <nd ref="561413763"/>
+    <nd ref="561413762"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="track"/>
+    <tag k="motorcycle" v="no"/>
+    <tag k="name" v="Süderweg"/>
+    <tag k="source" v="bing"/>
+    <tag k="surface" v="paved"/>
+    <tag k="tracktype" v="grade1"/>
+  </way>
+  <way id="44202573" version="4" timestamp="2011-03-03T22:12:06Z" uid="404753" user="Tom@OSM" changeset="7450076">
+    <nd ref="561413771"/>
+    <nd ref="1029833870"/>
+    <nd ref="1029833910"/>
+    <nd ref="561413770"/>
+    <nd ref="561413769"/>
+    <nd ref="561413768"/>
+    <nd ref="561413767"/>
+    <nd ref="561413766"/>
+    <nd ref="1029833852"/>
+    <nd ref="561413763"/>
+    <nd ref="561413762"/>
+    <tag k="access" v="yes"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="track"/>
+    <tag k="horse" v="yes"/>
+    <tag k="motor_vehicle" v="no"/>
+    <tag k="motorcycle" v="no"/>
+    <tag k="name" v="Süderweg"/>
+    <tag k="source" v="bing"/>
+    <tag k="surface" v="paved"/>
+    <tag k="tracktype" v="grade1"/>
+  </way>
+  <way id="44202573" version="5" timestamp="2012-03-22T15:38:13Z" uid="45882" user="smarties" changeset="11064123"/>
+  <way id="44202656" version="4" timestamp="2010-03-28T11:18:55Z" uid="20587" user="balrog-kun" changeset="4254597">
+    <nd ref="412290156"/>
+    <nd ref="54674839"/>
+    <nd ref="54674840"/>
+    <nd ref="442911481"/>
+    <nd ref="54674845"/>
+    <tag k="bicycle" v="designated"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="7"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Haven Avenue"/>
+    <tag k="source" v="survey;image;usgs_imagery"/>
+    <tag k="source_ref" v="AM909_DSCN5097"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="San Bernardino, CA"/>
+    <tag k="tiger:name_base" v="Haven"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="144637631:144637633:144637635:144637636:144637639:144637653:144636253:144636255:144637614:144637616:144997394:144731275:144689698:144692173:144981200:144989147:144636217:144987128:144987129"/>
+    <tag k="tiger:zip_left" v="91730"/>
+    <tag k="tiger:zip_right" v="91730"/>
+  </way>
+  <way id="44202656" version="5" timestamp="2010-06-15T22:36:56Z" uid="82317" user="AM909" changeset="4996411">
+    <nd ref="412290156"/>
+    <nd ref="54674839"/>
+    <tag k="bicycle" v="designated"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="7"/>
+    <tag k="maxspeed" v="45 mph"/>
+    <tag k="name" v="Haven Avenue"/>
+    <tag k="source" v="survey;image;usgs_imagery"/>
+    <tag k="source:lanes" v="usgs_imagery_2007"/>
+    <tag k="source:maxspeed" v="survey;image"/>
+    <tag k="source_ref" v="AM909_DSCN5097"/>
+    <tag k="source_ref:maxspeed" v="AM909_IMAG0004"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="San Bernardino, CA"/>
+    <tag k="tiger:name_base" v="Haven"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="144637631:144637633:144637635:144637636:144637639:144637653:144636253:144636255:144637614:144637616:144997394:144731275:144689698:144692173:144981200:144989147:144636217:144987128:144987129"/>
+    <tag k="tiger:zip_left" v="91730"/>
+    <tag k="tiger:zip_right" v="91730"/>
+  </way>
+  <way id="44202656" version="6" timestamp="2010-06-17T04:27:37Z" uid="82317" user="AM909" changeset="5005946">
+    <nd ref="412290156"/>
+    <nd ref="774438767"/>
+    <nd ref="774438757"/>
+    <nd ref="774438787"/>
+    <nd ref="54674839"/>
+    <tag k="bicycle" v="designated"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="7"/>
+    <tag k="maxspeed" v="45 mph"/>
+    <tag k="name" v="Haven Avenue"/>
+    <tag k="source" v="survey;image;usgs_imagery"/>
+    <tag k="source:bicycle" v="survey;image"/>
+    <tag k="source:lanes" v="usgs_imagery_2007"/>
+    <tag k="source:maxspeed" v="survey;image"/>
+    <tag k="source_ref" v="AM909_DSCN5097"/>
+    <tag k="source_ref:bicycle" v="AM909_DSCV1534"/>
+    <tag k="source_ref:maxspeed" v="AM909_IMAG0004"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="San Bernardino, CA"/>
+    <tag k="tiger:name_base" v="Haven"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="144637631:144637633:144637635:144637636:144637639:144637653:144636253:144636255:144637614:144637616:144997394:144731275:144689698:144692173:144981200:144989147:144636217:144987128:144987129"/>
+    <tag k="tiger:zip_left" v="91730"/>
+    <tag k="tiger:zip_right" v="91730"/>
+  </way>
+  <way id="44202656" version="7" timestamp="2010-06-17T21:14:40Z" uid="82317" user="AM909" changeset="5012467">
+    <nd ref="412290156"/>
+    <nd ref="774438767"/>
+    <nd ref="774438757"/>
+    <nd ref="774438787"/>
+    <nd ref="54674839"/>
+    <tag k="bicycle" v="designated"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="7"/>
+    <tag k="maxspeed:backward" v="50 mph"/>
+    <tag k="maxspeed:forward" v="45 mph"/>
+    <tag k="name" v="Haven Avenue"/>
+    <tag k="source" v="survey;image;usgs_imagery"/>
+    <tag k="source:bicycle" v="survey;image"/>
+    <tag k="source:lanes" v="usgs_imagery_2007"/>
+    <tag k="source:maxspeed:backward" v="survey;image"/>
+    <tag k="source:maxspeed:forward" v="survey;image"/>
+    <tag k="source_ref" v="AM909_DSCN5097"/>
+    <tag k="source_ref:bicycle" v="AM909_DSCV1534"/>
+    <tag k="source_ref:maxspeed:backward" v="AM909_DSCP2091"/>
+    <tag k="source_ref:maxspeed:forward" v="AM909_IMAG0004"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="San Bernardino, CA"/>
+    <tag k="tiger:name_base" v="Haven"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="144637631:144637633:144637635:144637636:144637639:144637653:144636253:144636255:144637614:144637616:144997394:144731275:144689698:144692173:144981200:144989147:144636217:144987128:144987129"/>
+    <tag k="tiger:zip_left" v="91730"/>
+    <tag k="tiger:zip_right" v="91730"/>
+  </way>
+  <way id="44202656" version="8" timestamp="2010-12-24T02:07:17Z" uid="82317" user="AM909" changeset="6751279">
+    <nd ref="412290156"/>
+    <nd ref="1060536222"/>
+    <nd ref="1060536183"/>
+    <nd ref="774438787"/>
+    <nd ref="54674839"/>
+    <tag k="bicycle" v="designated"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed:backward" v="50 mph"/>
+    <tag k="maxspeed:forward" v="45 mph"/>
+    <tag k="name" v="Haven Avenue"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="GPS;bing_imagery_0.06m_200701;survey;image"/>
+    <tag k="source:bicycle" v="survey;image"/>
+    <tag k="source:lanes" v="usgs_imagery_2007"/>
+    <tag k="source:maxspeed:backward" v="survey;image"/>
+    <tag k="source:maxspeed:forward" v="survey;image"/>
+    <tag k="source_ref" v="AM909_DSCN5097"/>
+    <tag k="source_ref:bicycle" v="AM909_DSCV1534"/>
+    <tag k="source_ref:maxspeed:backward" v="AM909_DSCP2091"/>
+    <tag k="source_ref:maxspeed:forward" v="AM909_IMAG0004"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="San Bernardino, CA"/>
+    <tag k="tiger:name_base" v="Haven"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="144637631:144637633:144637635:144637636:144637639:144637653:144636253:144636255:144637614:144637616:144997394:144731275:144689698:144692173:144981200:144989147:144636217:144987128:144987129"/>
+    <tag k="tiger:zip_left" v="91730"/>
+    <tag k="tiger:zip_right" v="91730"/>
+  </way>
+  <way id="44202656" version="9" timestamp="2011-01-14T04:27:48Z" uid="82317" user="AM909" changeset="6964033">
+    <nd ref="412290156"/>
+    <nd ref="1060536222"/>
+    <nd ref="1060536183"/>
+    <nd ref="774438787"/>
+    <nd ref="54674839"/>
+    <tag k="bicycle" v="designated"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="45 mph"/>
+    <tag k="name" v="Haven Avenue"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="GPS;bing_imagery_0.06m_200701;survey;image"/>
+    <tag k="source:bicycle" v="survey;image"/>
+    <tag k="source:lanes" v="usgs_imagery_2007"/>
+    <tag k="source:maxspeed" v="survey;image"/>
+    <tag k="source_ref" v="AM909_DSCN5097"/>
+    <tag k="source_ref:bicycle" v="AM909_DSCV1534"/>
+    <tag k="source_ref:maxspeed" v="AM909_IMAG0004"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="San Bernardino, CA"/>
+    <tag k="tiger:name_base" v="Haven"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="144637631:144637633:144637635:144637636:144637639:144637653:144636253:144636255:144637614:144637616:144997394:144731275:144689698:144692173:144981200:144989147:144636217:144987128:144987129"/>
+    <tag k="tiger:zip_left" v="91730"/>
+    <tag k="tiger:zip_right" v="91730"/>
+  </way>
+  <way id="44202657" version="4" timestamp="2010-03-28T11:18:56Z" uid="20587" user="balrog-kun" changeset="4254597">
+    <nd ref="54674845"/>
+    <nd ref="54674849"/>
+    <nd ref="54588346"/>
+    <nd ref="54674858"/>
+    <nd ref="437644396"/>
+    <nd ref="54674863"/>
+    <nd ref="54674867"/>
+    <nd ref="441421285"/>
+    <nd ref="441421230"/>
+    <nd ref="54674870"/>
+    <nd ref="54651497"/>
+    <nd ref="442910452"/>
+    <nd ref="584607492"/>
+    <nd ref="54608637"/>
+    <tag k="bicycle" v="designated"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="7"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Haven Avenue"/>
+    <tag k="source" v="survey;image;usgs_imagery"/>
+    <tag k="source_ref" v="AM909_DSCN5097"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="San Bernardino, CA"/>
+    <tag k="tiger:name_base" v="Haven"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="144637631:144637633:144637635:144637636:144637639:144637653:144636253:144636255:144637614:144637616:144997394:144731275:144689698:144692173:144981200:144989147:144636217:144987128:144987129"/>
+    <tag k="tiger:zip_left" v="91730"/>
+    <tag k="tiger:zip_right" v="91730"/>
+  </way>
+  <way id="44202657" version="5" timestamp="2010-06-15T22:36:25Z" uid="82317" user="AM909" changeset="4996411">
+    <nd ref="54674845"/>
+    <nd ref="54674849"/>
+    <nd ref="54588346"/>
+    <nd ref="54674858"/>
+    <nd ref="437644396"/>
+    <nd ref="54674863"/>
+    <nd ref="54674867"/>
+    <nd ref="441421285"/>
+    <nd ref="441421230"/>
+    <nd ref="54674870"/>
+    <nd ref="54651497"/>
+    <nd ref="442910452"/>
+    <nd ref="584607492"/>
+    <nd ref="54608637"/>
+    <tag k="bicycle" v="designated"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="7"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Haven Avenue"/>
+    <tag k="source" v="survey;image;usgs_imagery"/>
+    <tag k="source:lanes" v="usgs_imagery_2007"/>
+    <tag k="source:maxspeed" v="survey;image"/>
+    <tag k="source_ref" v="AM909_DSCN5097"/>
+    <tag k="source_ref:maxspeed" v="AM909_IMAG0007"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="San Bernardino, CA"/>
+    <tag k="tiger:name_base" v="Haven"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="144637631:144637633:144637635:144637636:144637639:144637653:144636253:144636255:144637614:144637616:144997394:144731275:144689698:144692173:144981200:144989147:144636217:144987128:144987129"/>
+    <tag k="tiger:zip_left" v="91730"/>
+    <tag k="tiger:zip_right" v="91730"/>
+  </way>
+  <way id="44202657" version="6" timestamp="2010-06-17T04:27:42Z" uid="82317" user="AM909" changeset="5005946">
+    <nd ref="54674845"/>
+    <nd ref="54674849"/>
+    <nd ref="54588346"/>
+    <nd ref="54674858"/>
+    <nd ref="437644396"/>
+    <nd ref="54674863"/>
+    <nd ref="54674867"/>
+    <nd ref="441421285"/>
+    <nd ref="774438806"/>
+    <nd ref="441421230"/>
+    <nd ref="54674870"/>
+    <nd ref="774438756"/>
+    <nd ref="54651497"/>
+    <nd ref="774438785"/>
+    <nd ref="442910452"/>
+    <nd ref="584607492"/>
+    <nd ref="774438801"/>
+    <nd ref="774438781"/>
+    <nd ref="774438805"/>
+    <nd ref="54608637"/>
+    <tag k="bicycle" v="designated"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="7"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Haven Avenue"/>
+    <tag k="source" v="survey;image;usgs_imagery"/>
+    <tag k="source:hgv" v="survey;image"/>
+    <tag k="source:lanes" v="usgs_imagery_2007"/>
+    <tag k="source:maxspeed" v="survey;image"/>
+    <tag k="source_ref" v="AM909_DSCN5097"/>
+    <tag k="source_ref:hgv" v="AM909_DSCV1505"/>
+    <tag k="source_ref:maxspeed" v="AM909_IMAG0007"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="San Bernardino, CA"/>
+    <tag k="tiger:name_base" v="Haven"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="144637631:144637633:144637635:144637636:144637639:144637653:144636253:144636255:144637614:144637616:144997394:144731275:144689698:144692173:144981200:144989147:144636217:144987128:144987129"/>
+    <tag k="tiger:zip_left" v="91730"/>
+    <tag k="tiger:zip_right" v="91730"/>
+  </way>
+  <way id="44202657" version="7" timestamp="2010-06-17T21:14:41Z" uid="82317" user="AM909" changeset="5012467">
+    <nd ref="54674845"/>
+    <nd ref="775345913"/>
+    <nd ref="54674849"/>
+    <nd ref="54588346"/>
+    <nd ref="54674858"/>
+    <nd ref="437644396"/>
+    <nd ref="54674863"/>
+    <nd ref="54674867"/>
+    <nd ref="441421285"/>
+    <nd ref="774438806"/>
+    <nd ref="441421230"/>
+    <nd ref="54674870"/>
+    <nd ref="774438756"/>
+    <nd ref="54651497"/>
+    <nd ref="774438785"/>
+    <nd ref="442910452"/>
+    <nd ref="584607492"/>
+    <nd ref="774438801"/>
+    <nd ref="774438781"/>
+    <nd ref="774438805"/>
+    <nd ref="54608637"/>
+    <tag k="bicycle" v="designated"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="7"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Haven Avenue"/>
+    <tag k="source" v="survey;image;usgs_imagery"/>
+    <tag k="source:hgv" v="survey;image"/>
+    <tag k="source:lanes" v="usgs_imagery_2007"/>
+    <tag k="source:maxspeed" v="survey;image"/>
+    <tag k="source_ref" v="AM909_DSCN5097"/>
+    <tag k="source_ref:hgv" v="AM909_DSCV1505"/>
+    <tag k="source_ref:maxspeed" v="AM909_IMAG0007"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="San Bernardino, CA"/>
+    <tag k="tiger:name_base" v="Haven"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="144637631:144637633:144637635:144637636:144637639:144637653:144636253:144636255:144637614:144637616:144997394:144731275:144689698:144692173:144981200:144989147:144636217:144987128:144987129"/>
+    <tag k="tiger:zip_left" v="91730"/>
+    <tag k="tiger:zip_right" v="91730"/>
+  </way>
+  <way id="44202657" version="8" timestamp="2010-12-24T02:07:27Z" uid="82317" user="AM909" changeset="6751279">
+    <nd ref="54674845"/>
+    <nd ref="1060536213"/>
+    <nd ref="1060536232"/>
+    <nd ref="1060536169"/>
+    <nd ref="1060536180"/>
+    <nd ref="54674849"/>
+    <nd ref="1060536189"/>
+    <nd ref="1060536245"/>
+    <nd ref="54588346"/>
+    <nd ref="1060536196"/>
+    <nd ref="54674858"/>
+    <nd ref="1060536219"/>
+    <nd ref="1060536231"/>
+    <nd ref="437644396"/>
+    <nd ref="1060536212"/>
+    <nd ref="54674863"/>
+    <nd ref="1060536229"/>
+    <nd ref="1060536247"/>
+    <nd ref="1060536186"/>
+    <nd ref="1060536193"/>
+    <nd ref="1060536197"/>
+    <nd ref="54674867"/>
+    <nd ref="1060536155"/>
+    <nd ref="774438806"/>
+    <nd ref="441421230"/>
+    <nd ref="774438756"/>
+    <nd ref="54651497"/>
+    <nd ref="774438785"/>
+    <nd ref="442910452"/>
+    <nd ref="1060536234"/>
+    <nd ref="774438805"/>
+    <nd ref="54608637"/>
+    <tag k="bicycle" v="designated"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Haven Avenue"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="GPS;bing_imagery_0.06m_200701;survey;image"/>
+    <tag k="source:hgv" v="survey;image"/>
+    <tag k="source:lanes" v="usgs_imagery_2007"/>
+    <tag k="source:maxspeed" v="survey;image"/>
+    <tag k="source_ref" v="AM909_DSCN5097"/>
+    <tag k="source_ref:hgv" v="AM909_DSCV1505"/>
+    <tag k="source_ref:maxspeed" v="AM909_IMAG0007"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="San Bernardino, CA"/>
+    <tag k="tiger:name_base" v="Haven"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="144637631:144637633:144637635:144637636:144637639:144637653:144636253:144636255:144637614:144637616:144997394:144731275:144689698:144692173:144981200:144989147:144636217:144987128:144987129"/>
+    <tag k="tiger:zip_left" v="91730"/>
+    <tag k="tiger:zip_right" v="91730"/>
+  </way>
+  <way id="44202657" version="9" timestamp="2011-01-14T04:27:45Z" uid="82317" user="AM909" changeset="6964033">
+    <nd ref="54674845"/>
+    <nd ref="1060536213"/>
+    <nd ref="1060536232"/>
+    <nd ref="1060536169"/>
+    <nd ref="1060536180"/>
+    <nd ref="54674849"/>
+    <nd ref="1060536189"/>
+    <nd ref="1060536245"/>
+    <nd ref="54588346"/>
+    <nd ref="1060536196"/>
+    <nd ref="54674858"/>
+    <nd ref="1060536219"/>
+    <nd ref="1060536231"/>
+    <nd ref="437644396"/>
+    <nd ref="1060536212"/>
+    <nd ref="54674863"/>
+    <nd ref="1060536229"/>
+    <nd ref="1060536247"/>
+    <nd ref="1060536186"/>
+    <nd ref="1060536193"/>
+    <nd ref="1060536197"/>
+    <nd ref="54674867"/>
+    <nd ref="1060536155"/>
+    <nd ref="774438806"/>
+    <nd ref="441421230"/>
+    <nd ref="774438756"/>
+    <nd ref="54651497"/>
+    <nd ref="774438785"/>
+    <nd ref="442910452"/>
+    <nd ref="1060536234"/>
+    <nd ref="774438805"/>
+    <nd ref="54608637"/>
+    <tag k="bicycle" v="designated"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Haven Avenue"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="GPS;bing_imagery_0.06m_200701;survey;image"/>
+    <tag k="source:hgv" v="survey;image"/>
+    <tag k="source:lanes" v="usgs_imagery_2007"/>
+    <tag k="source:maxspeed" v="survey;image"/>
+    <tag k="source_ref" v="AM909_DSCN5097"/>
+    <tag k="source_ref:hgv" v="AM909_DSCV1505"/>
+    <tag k="source_ref:maxspeed" v="AM909_IMAG0006"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="San Bernardino, CA"/>
+    <tag k="tiger:name_base" v="Haven"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="144637631:144637633:144637635:144637636:144637639:144637653:144636253:144636255:144637614:144637616:144997394:144731275:144689698:144692173:144981200:144989147:144636217:144987128:144987129"/>
+    <tag k="tiger:zip_left" v="91730"/>
+    <tag k="tiger:zip_right" v="91730"/>
+  </way>
+  <way id="44202657" version="10" timestamp="2011-09-11T07:26:00Z" uid="92286" user="Paul Johnson" changeset="9268173">
+    <nd ref="54674845"/>
+    <nd ref="1060536213"/>
+    <nd ref="1060536232"/>
+    <nd ref="1060536169"/>
+    <nd ref="1060536180"/>
+    <nd ref="54674849"/>
+    <nd ref="1060536189"/>
+    <nd ref="1060536245"/>
+    <nd ref="54588346"/>
+    <nd ref="1060536196"/>
+    <nd ref="54674858"/>
+    <nd ref="1060536219"/>
+    <nd ref="1060536231"/>
+    <nd ref="437644396"/>
+    <nd ref="1060536212"/>
+    <nd ref="54674863"/>
+    <nd ref="1060536229"/>
+    <nd ref="1060536247"/>
+    <nd ref="1060536186"/>
+    <nd ref="1060536193"/>
+    <nd ref="1060536197"/>
+    <nd ref="54674867"/>
+    <nd ref="1060536155"/>
+    <nd ref="774438806"/>
+    <nd ref="441421230"/>
+    <nd ref="54651497"/>
+    <nd ref="442910452"/>
+    <nd ref="1060536234"/>
+    <nd ref="774438805"/>
+    <nd ref="54608637"/>
+    <tag k="bicycle" v="designated"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Haven Avenue"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="GPS;bing_imagery_0.06m_200701;survey;image"/>
+    <tag k="source:hgv" v="survey;image"/>
+    <tag k="source:lanes" v="usgs_imagery_2007"/>
+    <tag k="source:maxspeed" v="survey;image"/>
+    <tag k="source_ref" v="AM909_DSCN5097"/>
+    <tag k="source_ref:hgv" v="AM909_DSCV1505"/>
+    <tag k="source_ref:maxspeed" v="AM909_IMAG0006"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="San Bernardino, CA"/>
+    <tag k="tiger:name_base" v="Haven"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="144637631:144637633:144637635:144637636:144637639:144637653:144636253:144636255:144637614:144637616:144997394:144731275:144689698:144692173:144981200:144989147:144636217:144987128:144987129"/>
+    <tag k="tiger:zip_left" v="91730"/>
+    <tag k="tiger:zip_right" v="91730"/>
+  </way>
+  <way id="44202657" version="11" timestamp="2012-01-26T21:56:45Z" uid="594563" user="Haandi" changeset="10507445">
+    <nd ref="54674845"/>
+    <nd ref="1060536213"/>
+    <nd ref="1060536232"/>
+    <nd ref="1060536169"/>
+    <nd ref="1060536180"/>
+    <nd ref="54674849"/>
+    <nd ref="1060536189"/>
+    <nd ref="1060536245"/>
+    <nd ref="54588346"/>
+    <nd ref="1060536196"/>
+    <nd ref="54674858"/>
+    <nd ref="1060536219"/>
+    <nd ref="1060536231"/>
+    <nd ref="437644396"/>
+    <nd ref="1060536212"/>
+    <nd ref="54674863"/>
+    <nd ref="1060536229"/>
+    <nd ref="1060536247"/>
+    <nd ref="1060536186"/>
+    <nd ref="1060536193"/>
+    <nd ref="1606966320"/>
+    <nd ref="1060536197"/>
+    <nd ref="54674867"/>
+    <nd ref="1060536155"/>
+    <nd ref="774438806"/>
+    <nd ref="441421230"/>
+    <nd ref="54651497"/>
+    <nd ref="442910452"/>
+    <nd ref="1060536234"/>
+    <nd ref="774438805"/>
+    <nd ref="54608637"/>
+    <tag k="bicycle" v="designated"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Haven Avenue"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="GPS;bing_imagery_0.06m_200701;survey;image"/>
+    <tag k="source:hgv" v="survey;image"/>
+    <tag k="source:lanes" v="usgs_imagery_2007"/>
+    <tag k="source:maxspeed" v="survey;image"/>
+    <tag k="source_ref" v="AM909_DSCN5097"/>
+    <tag k="source_ref:hgv" v="AM909_DSCV1505"/>
+    <tag k="source_ref:maxspeed" v="AM909_IMAG0006"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="San Bernardino, CA"/>
+    <tag k="tiger:name_base" v="Haven"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="144637631:144637633:144637635:144637636:144637639:144637653:144636253:144636255:144637614:144637616:144997394:144731275:144689698:144692173:144981200:144989147:144636217:144987128:144987129"/>
+    <tag k="tiger:zip_left" v="91730"/>
+    <tag k="tiger:zip_right" v="91730"/>
+  </way>
+  <way id="44202883" version="1" timestamp="2009-11-12T20:48:49Z" uid="115477" user="wowik" changeset="3101595">
+    <nd ref="561420806"/>
+    <nd ref="450566018"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="44202883" version="2" timestamp="2010-11-18T11:16:28Z" uid="115477" user="wowik" changeset="6399128">
+    <nd ref="993581829"/>
+    <nd ref="561420806"/>
+    <nd ref="993581824"/>
+    <nd ref="450566018"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="44202883" version="3" timestamp="2011-01-13T17:42:28Z" uid="115477" user="wowik" changeset="6959469">
+    <nd ref="993581829"/>
+    <nd ref="561420806"/>
+    <nd ref="1102294214"/>
+    <nd ref="993581824"/>
+    <nd ref="1102294198"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="44202883" version="4" timestamp="2011-02-03T18:43:09Z" uid="115477" user="wowik" changeset="7176513">
+    <nd ref="993581829"/>
+    <nd ref="561420806"/>
+    <nd ref="1102294214"/>
+    <nd ref="993581824"/>
+    <nd ref="1102294198"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Проектируемый проезд N 6537"/>
+  </way>
+  <way id="44202883" version="5" timestamp="2011-03-18T23:08:10Z" uid="115477" user="wowik" changeset="7600305">
+    <nd ref="993581829"/>
+    <nd ref="561420806"/>
+    <nd ref="1102294214"/>
+    <nd ref="993581824"/>
+    <nd ref="1102294198"/>
+    <nd ref="450566018"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Проектируемый проезд N 6537"/>
+  </way>
+  <way id="44202572" version="5" timestamp="2012-07-17T11:05:45Z" uid="722137" user="OSMF Redaction Account" changeset="12263716">
+    <nd ref="1685999504"/>
+    <nd ref="1685999502"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="track"/>
+    <tag k="layer" v="1"/>
+    <tag k="motorcycle" v="no"/>
+    <tag k="name" v="Süderweg"/>
+    <tag k="source" v="Yahoo"/>
+    <tag k="surface" v="paved"/>
+    <tag k="tracktype" v="grade1"/>
+  </way>
+  <way id="44202656" version="10" timestamp="2012-08-06T20:29:19Z" uid="92286" user="Paul Johnson" changeset="12638524"/>
+  <way id="44202657" version="12" timestamp="2012-04-07T00:06:13Z" uid="82317" user="AM909" changeset="11208420">
+    <nd ref="54674845"/>
+    <nd ref="1060536213"/>
+    <nd ref="1060536232"/>
+    <nd ref="1060536169"/>
+    <nd ref="1060536180"/>
+    <nd ref="54674849"/>
+    <nd ref="1060536189"/>
+    <nd ref="1060536245"/>
+    <nd ref="54588346"/>
+    <nd ref="1060536196"/>
+    <nd ref="54674858"/>
+    <nd ref="1060536219"/>
+    <nd ref="1060536231"/>
+    <nd ref="437644396"/>
+    <nd ref="1060536212"/>
+    <nd ref="54674863"/>
+    <nd ref="1060536229"/>
+    <nd ref="1060536247"/>
+    <nd ref="1060536186"/>
+    <nd ref="1060536193"/>
+    <nd ref="1606966320"/>
+    <nd ref="1060536197"/>
+    <nd ref="54674867"/>
+    <nd ref="1060536155"/>
+    <nd ref="774438806"/>
+    <nd ref="1705264811"/>
+    <nd ref="441421230"/>
+    <nd ref="54651497"/>
+    <nd ref="442910452"/>
+    <nd ref="1060536234"/>
+    <nd ref="774438805"/>
+    <nd ref="54608637"/>
+    <tag k="bicycle" v="designated"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Haven Avenue"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="GPS;bing_imagery_0.06m_200701;survey;image"/>
+    <tag k="source:hgv" v="survey;image"/>
+    <tag k="source:lanes" v="usgs_imagery_2007"/>
+    <tag k="source:maxspeed" v="survey;image"/>
+    <tag k="source_ref" v="AM909_DSCN5097"/>
+    <tag k="source_ref:hgv" v="AM909_DSCV1505"/>
+    <tag k="source_ref:maxspeed" v="AM909_IMAG0006"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="San Bernardino, CA"/>
+    <tag k="tiger:name_base" v="Haven"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="144637631:144637633:144637635:144637636:144637639:144637653:144636253:144636255:144637614:144637616:144997394:144731275:144689698:144692173:144981200:144989147:144636217:144987128:144987129"/>
+    <tag k="tiger:zip_left" v="91730"/>
+    <tag k="tiger:zip_right" v="91730"/>
+  </way>
+  <way id="44202657" version="13" timestamp="2012-07-25T11:21:31Z" uid="82317" user="AM909" changeset="12485474">
+    <nd ref="54674845"/>
+    <nd ref="1060536213"/>
+    <nd ref="1060536232"/>
+    <nd ref="1060536169"/>
+    <nd ref="1060536180"/>
+    <nd ref="54674849"/>
+    <nd ref="1060536189"/>
+    <nd ref="1060536245"/>
+    <nd ref="54588346"/>
+    <nd ref="1060536196"/>
+    <nd ref="54674858"/>
+    <nd ref="1060536219"/>
+    <nd ref="1060536231"/>
+    <nd ref="437644396"/>
+    <nd ref="1060536212"/>
+    <nd ref="54674863"/>
+    <nd ref="1060536229"/>
+    <nd ref="1060536247"/>
+    <nd ref="1060536186"/>
+    <nd ref="1060536193"/>
+    <nd ref="1606966320"/>
+    <nd ref="1060536197"/>
+    <nd ref="54674867"/>
+    <nd ref="1060536155"/>
+    <nd ref="774438806"/>
+    <nd ref="1705264811"/>
+    <nd ref="441421230"/>
+    <nd ref="1837525461"/>
+    <nd ref="54651497"/>
+    <nd ref="1837525270"/>
+    <nd ref="1837524040"/>
+    <nd ref="442910452"/>
+    <nd ref="1837523979"/>
+    <nd ref="1837523896"/>
+    <nd ref="1837523634"/>
+    <nd ref="1060536234"/>
+    <nd ref="1837523576"/>
+    <nd ref="774438805"/>
+    <nd ref="54608637"/>
+    <tag k="bicycle" v="designated"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Haven Avenue"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="GPS;bing_imagery_0.06m_200701;survey;image"/>
+    <tag k="source:hgv" v="survey;image"/>
+    <tag k="source:lanes" v="usgs_imagery_2007"/>
+    <tag k="source:maxspeed" v="survey;image"/>
+    <tag k="source_ref" v="AM909_DSCN5097"/>
+    <tag k="source_ref:hgv" v="AM909_DSCV1505"/>
+    <tag k="source_ref:maxspeed" v="AM909_IMAG0006"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="San Bernardino, CA"/>
+    <tag k="tiger:name_base" v="Haven"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="144637631:144637633:144637635:144637636:144637639:144637653:144636253:144636255:144637614:144637616:144997394:144731275:144689698:144692173:144981200:144989147:144636217:144987128:144987129"/>
+    <tag k="tiger:zip_left" v="91730"/>
+    <tag k="tiger:zip_right" v="91730"/>
+  </way>
+  <way id="44202657" version="14" timestamp="2012-08-06T20:20:58Z" uid="92286" user="Paul Johnson" changeset="12638414">
+    <nd ref="54674845"/>
+    <nd ref="1060536213"/>
+    <nd ref="1060536232"/>
+    <nd ref="1060536169"/>
+    <nd ref="1060536180"/>
+    <nd ref="54674849"/>
+    <nd ref="1060536189"/>
+    <nd ref="1060536245"/>
+    <nd ref="54588346"/>
+    <nd ref="1060536196"/>
+    <nd ref="54674858"/>
+    <nd ref="1060536219"/>
+    <nd ref="1060536231"/>
+    <nd ref="437644396"/>
+    <nd ref="1060536212"/>
+    <nd ref="54674863"/>
+    <nd ref="1060536229"/>
+    <nd ref="1060536247"/>
+    <nd ref="1060536186"/>
+    <nd ref="1060536193"/>
+    <nd ref="1606966320"/>
+    <nd ref="1060536197"/>
+    <nd ref="54674867"/>
+    <nd ref="1060536155"/>
+    <nd ref="774438806"/>
+    <nd ref="1705264811"/>
+    <nd ref="441421230"/>
+    <nd ref="1837525461"/>
+    <nd ref="54651497"/>
+    <nd ref="1837525270"/>
+    <nd ref="1837524040"/>
+    <nd ref="442910452"/>
+    <nd ref="1837523979"/>
+    <nd ref="1837523896"/>
+    <nd ref="1837523634"/>
+    <nd ref="1060536234"/>
+    <nd ref="1837523576"/>
+    <nd ref="478680461"/>
+    <tag k="bicycle" v="designated"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Haven Avenue"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="GPS;bing_imagery_0.06m_200701;survey;image"/>
+    <tag k="source:hgv" v="survey;image"/>
+    <tag k="source:lanes" v="usgs_imagery_2007"/>
+    <tag k="source:maxspeed" v="survey;image"/>
+    <tag k="source_ref" v="AM909_DSCN5097"/>
+    <tag k="source_ref:hgv" v="AM909_DSCV1505"/>
+    <tag k="source_ref:maxspeed" v="AM909_IMAG0006"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="San Bernardino, CA"/>
+    <tag k="tiger:name_base" v="Haven"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="144637631:144637633:144637635:144637636:144637639:144637653:144636253:144636255:144637614:144637616:144997394:144731275:144689698:144692173:144981200:144989147:144636217:144987128:144987129"/>
+    <tag k="tiger:zip_left" v="91730"/>
+    <tag k="tiger:zip_right" v="91730"/>
+  </way>
+  <way id="44202883" version="6" timestamp="2012-07-20T22:15:13Z" uid="722137" user="OSMF Redaction Account" changeset="12394459"/>
+</osm>

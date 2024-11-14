@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="81352176" version="1" timestamp="2010-10-14T07:41:20Z" uid="4467" user="Rosscoe" changeset="6037516">
+    <nd ref="947948642"/>
+    <nd ref="250045895"/>
+    <nd ref="250045896"/>
+    <nd ref="67821132"/>
+    <nd ref="67820946"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="81352176" version="2" timestamp="2012-01-02T08:37:18Z" uid="320632" user="Zulu99" changeset="10268423">
+    <nd ref="947948642"/>
+    <nd ref="250045895"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="cycleway" v="track"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="cycleway"/>
+  </way>
+  <way id="81352177" version="1" timestamp="2010-10-14T07:41:20Z" uid="4467" user="Rosscoe" changeset="6037516">
+    <nd ref="67755820"/>
+    <nd ref="947948633"/>
+    <nd ref="947948635"/>
+    <tag k="highway" v="path"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="81352177" version="2" timestamp="2010-12-30T09:37:57Z" uid="371324" user="Rudi Heitbaum" changeset="6806974">
+    <nd ref="67755820"/>
+    <nd ref="947948633"/>
+    <nd ref="1072501035"/>
+    <nd ref="1072501009"/>
+    <nd ref="947948635"/>
+    <tag k="highway" v="path"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="81352178" version="1" timestamp="2010-10-14T07:41:20Z" uid="4467" user="Rosscoe" changeset="6037516">
+    <nd ref="250045896"/>
+    <nd ref="947948640"/>
+    <nd ref="947948638"/>
+    <nd ref="250045897"/>
+    <nd ref="250045898"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="81352178" version="2" timestamp="2012-01-02T08:37:19Z" uid="320632" user="Zulu99" changeset="10268423"/>
+  <way id="81352176" version="3" timestamp="2012-07-19T12:57:49Z" uid="722137" user="OSMF Redaction Account" changeset="12327449"/>
+  <way id="81352177" version="3" timestamp="2012-07-19T12:46:37Z" uid="722137" user="OSMF Redaction Account" changeset="12326399">
+    <nd ref="1072501035"/>
+    <nd ref="1072501009"/>
+  </way>
+</osm>

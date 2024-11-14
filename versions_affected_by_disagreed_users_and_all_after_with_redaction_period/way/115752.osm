@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="115752211" version="1" timestamp="2011-05-31T15:48:57Z" uid="33382" user="de_muur" changeset="8302744">
+    <nd ref="1306884123"/>
+    <nd ref="260228100"/>
+    <nd ref="260223932"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Doenhauser Weg"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="115752212" version="1" timestamp="2011-05-31T15:48:57Z" uid="33382" user="de_muur" changeset="8302744">
+    <nd ref="260223930"/>
+    <nd ref="1306884130"/>
+    <nd ref="1306884131"/>
+    <tag k="highway" v="track"/>
+    <tag k="surface" v="unpaved"/>
+    <tag k="tracktype" v="grade4"/>
+  </way>
+  <way id="115752493" version="1" timestamp="2011-05-31T15:51:59Z" uid="30208" user="The CEO" changeset="8302765">
+    <nd ref="44174811"/>
+    <nd ref="44173953"/>
+    <nd ref="44172643"/>
+    <tag k="AND:importance_level" v="5"/>
+    <tag k="AND_nosr_r" v="15034572;15034530;15034529;15034549;15034548;15034539;15034540;15034578;15034537;15034552;15034555;15034557;15034528"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="C G van Kleyburgweg"/>
+    <tag k="oneway" v="no"/>
+  </way>
+  <way id="115752493" version="2" timestamp="2011-06-01T19:40:09Z" uid="8619" user="cetest" changeset="8313329">
+    <nd ref="44174811"/>
+    <nd ref="44173953"/>
+    <nd ref="44172643"/>
+    <tag k="AND:importance_level" v="5"/>
+    <tag k="AND_nosr_r" v="15034572;15034530;15034529;15034549;15034548;15034539;15034540;15034578;15034537;15034552;15034555;15034557;15034528"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="C G van Kleyburgweg"/>
+    <tag k="oneway" v="no"/>
+  </way>
+  <way id="115752493" version="3" timestamp="2011-08-21T19:01:55Z" uid="66391" user="geozeisig" changeset="9087458"/>
+  <way id="115752211" version="2" timestamp="2012-07-18T14:38:53Z" uid="722137" user="OSMF Redaction Account" changeset="12285349"/>
+  <way id="115752212" version="2" timestamp="2012-07-18T14:38:53Z" uid="722137" user="OSMF Redaction Account" changeset="12285349"/>
+</osm>

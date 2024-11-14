@@ -1,0 +1,2341 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="30241000" version="2" timestamp="2009-04-10T19:15:08Z" uid="64977" user="CLoeser" changeset="388086">
+    <nd ref="333137356"/>
+    <nd ref="333137430"/>
+    <nd ref="371703822"/>
+    <nd ref="333137433"/>
+    <tag k="access" v="destination"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="highway" v="service"/>
+    <tag k="source" v="GPS Tracks"/>
+  </way>
+  <way id="30241000" version="3" timestamp="2009-08-01T16:05:27Z" uid="75388" user="Svalbard" changeset="2005384">
+    <nd ref="333137356"/>
+    <nd ref="333137430"/>
+    <nd ref="371703822"/>
+    <tag k="access" v="destination"/>
+    <tag k="highway" v="service"/>
+    <tag k="source" v="GPS Tracks"/>
+  </way>
+  <way id="30241000" version="4" timestamp="2010-04-29T18:47:09Z" uid="75388" user="Svalbard" changeset="4560236">
+    <nd ref="333137356"/>
+    <nd ref="371703822"/>
+    <tag k="access" v="destination"/>
+    <tag k="highway" v="service"/>
+    <tag k="source" v="GPS Tracks"/>
+  </way>
+  <way id="30241000" version="5" timestamp="2011-09-18T17:07:31Z" uid="75388" user="Svalbard" changeset="9335030">
+    <nd ref="333137356"/>
+    <nd ref="1436628115"/>
+    <tag k="highway" v="service"/>
+    <tag k="source" v="GPS Tracks"/>
+    <tag k="vehicle" v="destination"/>
+  </way>
+  <way id="30241014" version="2" timestamp="2009-02-01T18:12:50Z" uid="6975" user="ulfl" changeset="27333">
+    <nd ref="333130004"/>
+    <nd ref="333137551"/>
+    <nd ref="333137552"/>
+    <nd ref="333130009"/>
+    <nd ref="333130004"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball,soccer"/>
+  </way>
+  <way id="30241014" version="3" timestamp="2010-08-15T23:32:58Z" uid="3516" user="BiIbo" changeset="5505363">
+    <nd ref="333130004"/>
+    <nd ref="333137551"/>
+    <nd ref="333137552"/>
+    <nd ref="333130009"/>
+    <nd ref="333130004"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball;soccer"/>
+  </way>
+  <way id="30241214" version="1" timestamp="2009-01-18T17:32:42Z" uid="58091" user="Andreas M" changeset="807796">
+    <nd ref="47998184"/>
+    <nd ref="292890797"/>
+    <nd ref="47998203"/>
+    <nd ref="47929054"/>
+    <nd ref="47929047"/>
+    <nd ref="47929043"/>
+    <nd ref="47929039"/>
+    <nd ref="123274370"/>
+    <nd ref="123274368"/>
+    <tag k="created_by" v="Potlatch 0.5a"/>
+    <tag k="fixme" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Jacquingasse"/>
+    <tag k="source" v="yahoo"/>
+  </way>
+  <way id="30241214" version="2" timestamp="2009-03-15T08:22:15Z" uid="12295" user="mapper_07" changeset="811865">
+    <nd ref="47998184"/>
+    <nd ref="292890797"/>
+    <nd ref="47998203"/>
+    <nd ref="47929054"/>
+    <nd ref="47929047"/>
+    <nd ref="47929043"/>
+    <nd ref="47929039"/>
+    <nd ref="123274368"/>
+    <tag k="created_by" v="Potlatch 0.5a"/>
+    <tag k="fixme" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Jacquingasse"/>
+    <tag k="source" v="yahoo"/>
+  </way>
+  <way id="30241214" version="3" timestamp="2009-12-26T17:59:16Z" uid="12295" user="mapper_07" changeset="3456886">
+    <nd ref="47998184"/>
+    <nd ref="292890797"/>
+    <nd ref="47998203"/>
+    <nd ref="47929054"/>
+    <nd ref="47929047"/>
+    <nd ref="47929043"/>
+    <nd ref="47929039"/>
+    <nd ref="123274368"/>
+    <tag k="fixme" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Jacquingasse"/>
+    <tag k="source" v="yahoo"/>
+  </way>
+  <way id="30241214" version="4" timestamp="2010-10-02T21:52:49Z" uid="185047" user="atrax" changeset="5940091">
+    <nd ref="47998184"/>
+    <nd ref="292890797"/>
+    <nd ref="47998203"/>
+    <nd ref="47929054"/>
+    <nd ref="47929047"/>
+    <nd ref="47929043"/>
+    <tag k="fixme" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Jacquingasse"/>
+    <tag k="source" v="yahoo"/>
+  </way>
+  <way id="30241214" version="5" timestamp="2011-02-16T21:39:50Z" uid="289334" user="Soldier Boy" changeset="7308023">
+    <nd ref="47998184"/>
+    <nd ref="47998203"/>
+    <nd ref="47929054"/>
+    <nd ref="47929047"/>
+    <nd ref="47929043"/>
+    <tag k="fixme" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Jacquingasse"/>
+    <tag k="source" v="yahoo"/>
+  </way>
+  <way id="30241214" version="6" timestamp="2011-05-31T06:31:01Z" uid="38255" user="BearT" changeset="8298633">
+    <nd ref="47998184"/>
+    <nd ref="47998203"/>
+    <nd ref="1306440958"/>
+    <nd ref="47929054"/>
+    <nd ref="47929047"/>
+    <nd ref="1306440938"/>
+    <nd ref="47929043"/>
+    <tag k="bus" v="no"/>
+    <tag k="hgv" v="destination"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="maxweight" v="3.5t"/>
+    <tag k="name" v="Jacquingasse"/>
+  </way>
+  <way id="30241214" version="7" timestamp="2012-03-18T19:28:07Z" uid="38255" user="BearT" changeset="11023011">
+    <nd ref="47998184"/>
+    <nd ref="47998203"/>
+    <nd ref="1306440958"/>
+    <nd ref="47929054"/>
+    <nd ref="47929047"/>
+    <nd ref="1306440938"/>
+    <nd ref="47929043"/>
+    <tag k="bus" v="no"/>
+    <tag k="hgv" v="destination"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="maxweight" v="3.5t"/>
+    <tag k="name" v="Jacquingasse"/>
+    <tag k="wikipedia:de" v="Nikolaus_Joseph_von_Jacquin"/>
+  </way>
+  <way id="30241225" version="1" timestamp="2009-01-18T17:33:08Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="316886507"/>
+    <nd ref="316886508"/>
+    <nd ref="316886504"/>
+    <nd ref="316886505"/>
+    <nd ref="316886506"/>
+    <nd ref="311852571"/>
+    <nd ref="316886507"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Plac Zbawiciela"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="30241225" version="2" timestamp="2009-04-27T21:51:50Z" uid="20587" user="balrog-kun" changeset="997856">
+    <nd ref="316886507"/>
+    <nd ref="316886508"/>
+    <nd ref="316886504"/>
+    <nd ref="316886505"/>
+    <nd ref="316886506"/>
+    <nd ref="311852571"/>
+    <nd ref="316886507"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Plac Zbawiciela"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="30241225" version="3" timestamp="2011-08-26T10:12:53Z" uid="508862" user="KeiDii" changeset="9128116">
+    <nd ref="316886508"/>
+    <nd ref="316886504"/>
+    <nd ref="316886506"/>
+    <nd ref="311852571"/>
+    <nd ref="316886508"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Plac Zbawiciela"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="30241227" version="1" timestamp="2009-01-18T17:33:09Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333135915"/>
+    <nd ref="311852569"/>
+    <nd ref="311852571"/>
+    <nd ref="316886506"/>
+    <nd ref="311852568"/>
+    <nd ref="311852573"/>
+    <nd ref="333135915"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="00-649"/>
+    <tag k="addr:street" v="Nowowiejska"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="30241227" version="2" timestamp="2009-04-27T21:51:50Z" uid="20587" user="balrog-kun" changeset="997856">
+    <nd ref="333135915"/>
+    <nd ref="311852569"/>
+    <nd ref="311852571"/>
+    <nd ref="316886506"/>
+    <nd ref="311852568"/>
+    <nd ref="311852573"/>
+    <nd ref="333135915"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="00-649"/>
+    <tag k="addr:street" v="Nowowiejska"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="30241227" version="3" timestamp="2011-08-26T10:12:52Z" uid="508862" user="KeiDii" changeset="9128116">
+    <nd ref="333135915"/>
+    <nd ref="311852571"/>
+    <nd ref="316886506"/>
+    <nd ref="311852568"/>
+    <nd ref="311852573"/>
+    <nd ref="333135915"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="00-649"/>
+    <tag k="addr:street" v="Nowowiejska"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="30241229" version="1" timestamp="2009-01-18T17:33:09Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="311852668"/>
+    <nd ref="333135916"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="30241231" version="1" timestamp="2009-01-18T17:33:09Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333135917"/>
+    <nd ref="333135918"/>
+    <nd ref="333135920"/>
+    <nd ref="333135919"/>
+    <nd ref="333135917"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="30241232" version="1" timestamp="2009-01-18T17:33:10Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333135921"/>
+    <nd ref="333135924"/>
+    <nd ref="333135929"/>
+    <nd ref="333135933"/>
+    <nd ref="333135932"/>
+    <nd ref="333135931"/>
+    <nd ref="333135926"/>
+    <nd ref="333135921"/>
+    <tag k="addr:housenumber" v="27/35"/>
+    <tag k="addr:street" v="Marszałkowska"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="3"/>
+  </way>
+  <way id="30241234" version="1" timestamp="2009-01-18T17:33:10Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333135944"/>
+    <nd ref="333135947"/>
+    <nd ref="333135950"/>
+    <nd ref="333135956"/>
+    <nd ref="333135959"/>
+    <nd ref="333135961"/>
+    <nd ref="333135953"/>
+    <nd ref="333135948"/>
+    <nd ref="333135944"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="30241236" version="1" timestamp="2009-01-18T17:33:10Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333135963"/>
+    <nd ref="333135965"/>
+    <nd ref="333135972"/>
+    <nd ref="333135969"/>
+    <nd ref="333135963"/>
+    <tag k="amenity" v="school"/>
+  </way>
+  <way id="30241238" version="1" timestamp="2009-01-18T17:33:11Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333136123"/>
+    <nd ref="333136073"/>
+    <nd ref="333136071"/>
+    <nd ref="333136014"/>
+    <nd ref="333136012"/>
+    <nd ref="333136013"/>
+    <nd ref="333136015"/>
+    <nd ref="333136068"/>
+    <nd ref="333136123"/>
+    <tag k="addr:housenumber" v="1/3"/>
+    <tag k="addr:street" v="Nowowiejska"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="30241238" version="2" timestamp="2009-04-27T21:51:50Z" uid="20587" user="balrog-kun" changeset="997856">
+    <nd ref="333136123"/>
+    <nd ref="333136073"/>
+    <nd ref="333136071"/>
+    <nd ref="333136014"/>
+    <nd ref="333136012"/>
+    <nd ref="333136013"/>
+    <nd ref="333136015"/>
+    <nd ref="333136068"/>
+    <nd ref="333136123"/>
+    <tag k="addr:housenumber" v="1/3"/>
+    <tag k="addr:street" v="Nowowiejska"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="30241240" version="1" timestamp="2009-01-18T17:33:11Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333136201"/>
+    <nd ref="333136203"/>
+    <nd ref="333136071"/>
+    <nd ref="333136073"/>
+    <nd ref="333136123"/>
+    <nd ref="333136188"/>
+    <nd ref="333136189"/>
+    <nd ref="333136190"/>
+    <nd ref="333136707"/>
+    <nd ref="333136191"/>
+    <nd ref="333136192"/>
+    <nd ref="333136193"/>
+    <nd ref="333136194"/>
+    <nd ref="333136196"/>
+    <nd ref="333136198"/>
+    <nd ref="333136200"/>
+    <nd ref="333136201"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="30241240" version="2" timestamp="2009-04-27T21:51:50Z" uid="20587" user="balrog-kun" changeset="997856">
+    <nd ref="333136201"/>
+    <nd ref="333136203"/>
+    <nd ref="333136071"/>
+    <nd ref="333136073"/>
+    <nd ref="333136123"/>
+    <nd ref="333136188"/>
+    <nd ref="333136189"/>
+    <nd ref="333136190"/>
+    <nd ref="333136707"/>
+    <nd ref="333136191"/>
+    <nd ref="333136192"/>
+    <nd ref="333136193"/>
+    <nd ref="333136194"/>
+    <nd ref="333136196"/>
+    <nd ref="333136198"/>
+    <nd ref="333136200"/>
+    <nd ref="333136201"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="30241240" version="3" timestamp="2009-05-14T10:03:24Z" uid="20587" user="balrog-kun" changeset="1186090">
+    <nd ref="333136198"/>
+    <nd ref="333136200"/>
+    <nd ref="333136201"/>
+    <nd ref="333136203"/>
+    <nd ref="333136071"/>
+    <nd ref="333136073"/>
+    <nd ref="333136123"/>
+    <nd ref="333136188"/>
+    <nd ref="333136189"/>
+    <nd ref="333136198"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="30241242" version="1" timestamp="2009-01-18T17:33:11Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333136205"/>
+    <nd ref="333136206"/>
+    <nd ref="333136259"/>
+    <nd ref="333136257"/>
+    <nd ref="333136205"/>
+    <tag k="amenity" v="school"/>
+  </way>
+  <way id="30241244" version="1" timestamp="2009-01-18T17:33:12Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333136267"/>
+    <nd ref="333136265"/>
+    <nd ref="333136261"/>
+    <nd ref="333136263"/>
+    <nd ref="333136267"/>
+    <tag k="leisure" v="pitch"/>
+  </way>
+  <way id="30241246" version="1" timestamp="2009-01-18T17:33:12Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333136273"/>
+    <nd ref="333136269"/>
+    <nd ref="333136279"/>
+    <nd ref="333136285"/>
+    <nd ref="333136287"/>
+    <nd ref="333136274"/>
+    <nd ref="333136268"/>
+    <nd ref="333136271"/>
+    <nd ref="333136276"/>
+    <nd ref="333136281"/>
+    <nd ref="333136283"/>
+    <nd ref="333136280"/>
+    <nd ref="333136273"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="30241246" version="2" timestamp="2009-02-08T01:49:45Z" uid="20587" user="balrog-kun" changeset="256625">
+    <nd ref="333136273"/>
+    <nd ref="333136269"/>
+    <nd ref="333136279"/>
+    <nd ref="333136285"/>
+    <nd ref="333136287"/>
+    <nd ref="333136274"/>
+    <nd ref="333136268"/>
+    <nd ref="333136271"/>
+    <nd ref="333136276"/>
+    <nd ref="333136281"/>
+    <nd ref="333136283"/>
+    <nd ref="333136280"/>
+    <nd ref="333136273"/>
+    <tag k="addr:housenumber" v="16/20"/>
+    <tag k="addr:street" v="Mokotowska"/>
+    <tag k="building" v="yes"/>
+    <tag k="source:addr" v="msi"/>
+  </way>
+  <way id="30241248" version="1" timestamp="2009-01-18T17:33:12Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333136289"/>
+    <nd ref="333136368"/>
+    <nd ref="333136373"/>
+    <nd ref="333136371"/>
+    <nd ref="333136289"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="Ludwika Waryńskiego"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="30241248" version="2" timestamp="2009-11-28T08:27:29Z" uid="20587" user="balrog-kun" changeset="3234082">
+    <nd ref="333136289"/>
+    <nd ref="333136368"/>
+    <nd ref="333136373"/>
+    <nd ref="333136371"/>
+    <nd ref="573211614"/>
+    <nd ref="573211602"/>
+    <nd ref="333136289"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="Ludwika Waryńskiego"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="30241250" version="1" timestamp="2009-01-18T17:33:13Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333136532"/>
+    <nd ref="333136533"/>
+    <nd ref="333136537"/>
+    <nd ref="333136639"/>
+    <nd ref="333136640"/>
+    <nd ref="333136541"/>
+    <nd ref="333136632"/>
+    <nd ref="333136543"/>
+    <nd ref="333136539"/>
+    <nd ref="333136634"/>
+    <nd ref="333136637"/>
+    <nd ref="333136535"/>
+    <nd ref="333136532"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="3"/>
+  </way>
+  <way id="30241250" version="2" timestamp="2011-08-26T10:13:06Z" uid="508862" user="KeiDii" changeset="9128116">
+    <nd ref="333136532"/>
+    <nd ref="333136533"/>
+    <nd ref="333136537"/>
+    <nd ref="333136639"/>
+    <nd ref="333136640"/>
+    <nd ref="333136541"/>
+    <nd ref="333136632"/>
+    <nd ref="333136543"/>
+    <nd ref="333136539"/>
+    <nd ref="1412975405"/>
+    <nd ref="1412975407"/>
+    <nd ref="1412975409"/>
+    <nd ref="333136634"/>
+    <nd ref="333136637"/>
+    <nd ref="1412975408"/>
+    <nd ref="1412975406"/>
+    <nd ref="1412975404"/>
+    <nd ref="333136535"/>
+    <nd ref="333136532"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="3"/>
+  </way>
+  <way id="30241252" version="1" timestamp="2009-01-18T17:33:13Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333136707"/>
+    <nd ref="333136701"/>
+    <nd ref="333136705"/>
+    <nd ref="333136703"/>
+    <nd ref="333136192"/>
+    <nd ref="333136191"/>
+    <nd ref="333136707"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:street" v="Mokotowska"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="30241252" version="2" timestamp="2009-04-27T21:51:51Z" uid="20587" user="balrog-kun" changeset="997856">
+    <nd ref="333136707"/>
+    <nd ref="333136701"/>
+    <nd ref="333136705"/>
+    <nd ref="333136703"/>
+    <nd ref="333136192"/>
+    <nd ref="333136191"/>
+    <nd ref="333136707"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:street" v="Mokotowska"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="30241253" version="1" timestamp="2009-01-18T17:33:14Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="310280511"/>
+    <nd ref="316888387"/>
+    <nd ref="316888384"/>
+    <nd ref="316888385"/>
+    <nd ref="310280513"/>
+    <nd ref="310280512"/>
+    <nd ref="333136767"/>
+    <nd ref="310280511"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="30241253" version="2" timestamp="2009-02-25T16:27:27Z" uid="20587" user="balrog-kun" changeset="666062">
+    <nd ref="310280511"/>
+    <nd ref="316888387"/>
+    <nd ref="316888384"/>
+    <nd ref="316888385"/>
+    <nd ref="310280513"/>
+    <nd ref="310280512"/>
+    <nd ref="333136767"/>
+    <nd ref="310280511"/>
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:street" v="Poznańska"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="30241254" version="1" timestamp="2009-01-18T17:33:14Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333136768"/>
+    <nd ref="333136769"/>
+    <nd ref="333136772"/>
+    <nd ref="333136774"/>
+    <nd ref="333136773"/>
+    <nd ref="333136771"/>
+    <nd ref="333136770"/>
+    <nd ref="333136768"/>
+    <tag k="addr:street" v="Marszałkowska"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="30241254" version="2" timestamp="2009-02-25T16:27:26Z" uid="20587" user="balrog-kun" changeset="666062">
+    <nd ref="333136768"/>
+    <nd ref="333136769"/>
+    <nd ref="333136772"/>
+    <nd ref="333136774"/>
+    <nd ref="333136773"/>
+    <nd ref="333136771"/>
+    <nd ref="333136770"/>
+    <nd ref="333136768"/>
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:street" v="Nowogrodzka"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="30241254" version="3" timestamp="2011-06-19T00:48:36Z" uid="20587" user="balrog-kun" changeset="8479249">
+    <nd ref="333136768"/>
+    <nd ref="333136769"/>
+    <nd ref="333136772"/>
+    <nd ref="333136774"/>
+    <nd ref="333136773"/>
+    <nd ref="333136771"/>
+    <nd ref="333136770"/>
+    <nd ref="333136768"/>
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:street" v="Nowogrodzka"/>
+    <tag k="building" v="office"/>
+  </way>
+  <way id="30241255" version="1" timestamp="2009-01-18T17:33:14Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333136776"/>
+    <nd ref="333136844"/>
+    <nd ref="333136913"/>
+    <nd ref="333136778"/>
+    <nd ref="333136776"/>
+    <tag k="landuse" v="construction"/>
+  </way>
+  <way id="30241255" version="2" timestamp="2009-03-15T14:13:55Z" uid="20587" user="balrog-kun" changeset="814691">
+    <nd ref="333136776"/>
+    <nd ref="333136844"/>
+    <nd ref="333136913"/>
+    <nd ref="333136778"/>
+    <nd ref="333136776"/>
+    <tag k="building" v="commercial"/>
+    <tag k="landuse" v="construction"/>
+    <tag k="name" v="Wolf Marszałkowska"/>
+  </way>
+  <way id="30241255" version="3" timestamp="2011-06-19T00:13:25Z" uid="20587" user="balrog-kun" changeset="8479249">
+    <nd ref="333136776"/>
+    <nd ref="333136844"/>
+    <nd ref="333136913"/>
+    <nd ref="333136778"/>
+    <nd ref="333136776"/>
+    <tag k="building" v="office"/>
+    <tag k="landuse" v="commercial"/>
+    <tag k="name" v="Wolf Marszałkowska"/>
+  </way>
+  <way id="30241256" version="1" timestamp="2009-01-18T17:33:15Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333136916"/>
+    <nd ref="333137026"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="30241257" version="1" timestamp="2009-01-18T17:33:15Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333137288"/>
+    <nd ref="333137136"/>
+    <nd ref="333137139"/>
+    <nd ref="333137208"/>
+    <nd ref="333137211"/>
+    <nd ref="333137278"/>
+    <nd ref="333137279"/>
+    <nd ref="333137140"/>
+    <nd ref="333137138"/>
+    <nd ref="333137280"/>
+    <nd ref="333137288"/>
+    <tag k="addr:housenumber" v="43"/>
+    <tag k="addr:postcode" v="00-678"/>
+    <tag k="addr:street" v="Wilcza"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="6"/>
+  </way>
+  <way id="30241258" version="1" timestamp="2009-01-18T17:33:16Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333137393"/>
+    <nd ref="333137395"/>
+    <nd ref="333137764"/>
+    <nd ref="333137763"/>
+    <nd ref="333137396"/>
+    <nd ref="333137391"/>
+    <nd ref="333137344"/>
+    <nd ref="333137389"/>
+    <nd ref="333137392"/>
+    <nd ref="333137393"/>
+    <tag k="addr:street" v="Plac Konstytucji"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="30241258" version="2" timestamp="2011-08-26T10:13:06Z" uid="508862" user="KeiDii" changeset="9128116">
+    <nd ref="333137764"/>
+    <nd ref="333137763"/>
+    <nd ref="333137396"/>
+    <nd ref="333137344"/>
+    <nd ref="301612721"/>
+    <nd ref="333137392"/>
+    <nd ref="333137764"/>
+    <tag k="addr:street" v="Plac Konstytucji"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="30241259" version="1" timestamp="2009-01-18T17:33:16Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333137428"/>
+    <nd ref="333137762"/>
+    <nd ref="333137763"/>
+    <nd ref="333137764"/>
+    <nd ref="333137766"/>
+    <nd ref="333137398"/>
+    <nd ref="333137429"/>
+    <nd ref="333137431"/>
+    <nd ref="333137428"/>
+    <tag k="addr:housenumber" v="56"/>
+    <tag k="addr:street" v="Marszałkowska"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="30241260" version="1" timestamp="2009-01-18T17:33:17Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333137431"/>
+    <nd ref="333137429"/>
+    <nd ref="333137435"/>
+    <nd ref="333137507"/>
+    <nd ref="333137431"/>
+    <tag k="addr:housenumber" v="58"/>
+    <tag k="addr:street" v="Marszałkowska"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="30241261" version="1" timestamp="2009-01-18T17:33:18Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333137507"/>
+    <nd ref="333137435"/>
+    <nd ref="333137553"/>
+    <nd ref="333137665"/>
+    <nd ref="333137507"/>
+    <tag k="addr:housenumber" v="60"/>
+    <tag k="addr:street" v="Marszałkowska"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="30241262" version="1" timestamp="2009-01-18T17:33:18Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333137553"/>
+    <nd ref="333137666"/>
+    <nd ref="333137667"/>
+    <nd ref="333137665"/>
+    <nd ref="333137553"/>
+    <tag k="addr:housenumber" v="62"/>
+    <tag k="addr:street" v="Marszałkowska"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="30241263" version="1" timestamp="2009-01-18T17:33:18Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333137668"/>
+    <nd ref="333137669"/>
+    <nd ref="333137667"/>
+    <nd ref="333137666"/>
+    <nd ref="333137670"/>
+    <nd ref="333137671"/>
+    <nd ref="333137674"/>
+    <nd ref="333137668"/>
+    <tag k="addr:housenumber" v="64"/>
+    <tag k="addr:street" v="Marszałkowska"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="30241264" version="1" timestamp="2009-01-18T17:33:18Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333137930"/>
+    <nd ref="333137932"/>
+    <nd ref="333137933"/>
+    <nd ref="333137931"/>
+    <nd ref="333137930"/>
+    <tag k="addr:housenumber" v="66/72"/>
+    <tag k="addr:street" v="Marszałkowska"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="30241264" version="2" timestamp="2011-11-17T14:16:56Z" uid="338611" user="marek kleciak" changeset="9854303">
+    <nd ref="333137930"/>
+    <nd ref="1506277511"/>
+    <nd ref="333137932"/>
+    <nd ref="333137933"/>
+    <nd ref="333137931"/>
+    <nd ref="333137930"/>
+    <tag k="addr:housenumber" v="66/72"/>
+    <tag k="addr:street" v="Marszałkowska"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="30241265" version="1" timestamp="2009-01-18T17:33:19Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333137931"/>
+    <nd ref="333137771"/>
+    <nd ref="333137768"/>
+    <nd ref="333137930"/>
+    <nd ref="333137931"/>
+    <tag k="addr:housenumber" v="66"/>
+    <tag k="addr:street" v="Marszałkowska"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="30241265" version="2" timestamp="2010-06-05T02:01:38Z" uid="20587" user="balrog-kun" changeset="4905633">
+    <nd ref="333137931"/>
+    <nd ref="764747585"/>
+    <nd ref="333137771"/>
+    <nd ref="333137768"/>
+    <nd ref="333137930"/>
+    <nd ref="333137931"/>
+    <tag k="addr:housenumber" v="66"/>
+    <tag k="addr:street" v="Marszałkowska"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="30241265" version="3" timestamp="2011-11-17T14:16:56Z" uid="338611" user="marek kleciak" changeset="9854303">
+    <nd ref="333137931"/>
+    <nd ref="764747585"/>
+    <nd ref="333137771"/>
+    <nd ref="333137768"/>
+    <nd ref="1506277505"/>
+    <nd ref="1506277533"/>
+    <nd ref="1506277509"/>
+    <nd ref="1506277536"/>
+    <nd ref="1506277517"/>
+    <nd ref="1506277531"/>
+    <nd ref="1506277520"/>
+    <nd ref="333137930"/>
+    <nd ref="333137931"/>
+    <tag k="addr:housenumber" v="66"/>
+    <tag k="addr:street" v="Marszałkowska"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="30241266" version="1" timestamp="2009-01-18T17:33:19Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333137941"/>
+    <nd ref="333137934"/>
+    <nd ref="333137936"/>
+    <nd ref="333137939"/>
+    <nd ref="333138029"/>
+    <nd ref="333138027"/>
+    <nd ref="333137941"/>
+    <tag k="addr:housenumber" v="72"/>
+    <tag k="addr:street" v="Marszałkowska"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="30241266" version="2" timestamp="2009-01-19T01:29:52Z" uid="20587" user="balrog-kun" changeset="810103">
+    <nd ref="333137936"/>
+    <nd ref="333428187"/>
+    <nd ref="333138035"/>
+    <nd ref="333138033"/>
+    <nd ref="333138032"/>
+    <nd ref="333138037"/>
+    <nd ref="333428190"/>
+    <nd ref="333138027"/>
+    <nd ref="333137941"/>
+    <nd ref="333137934"/>
+    <nd ref="333137936"/>
+    <tag k="addr:housenumber" v="72"/>
+    <tag k="addr:street" v="Marszałkowska"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="30241266" version="3" timestamp="2009-12-18T20:54:20Z" uid="20587" user="balrog-kun" changeset="3403323">
+    <nd ref="333137936"/>
+    <nd ref="333428187"/>
+    <nd ref="333138035"/>
+    <nd ref="333138033"/>
+    <nd ref="333138032"/>
+    <nd ref="333138037"/>
+    <nd ref="333428190"/>
+    <nd ref="333138027"/>
+    <nd ref="333137941"/>
+    <nd ref="333137934"/>
+    <nd ref="333137936"/>
+    <tag k="addr:housenumber" v="72"/>
+    <tag k="addr:street" v="Marszałkowska"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="7"/>
+  </way>
+  <way id="30241267" version="1" timestamp="2009-01-18T17:33:19Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333137941"/>
+    <nd ref="333138027"/>
+    <nd ref="333138028"/>
+    <nd ref="333138030"/>
+    <nd ref="333137940"/>
+    <nd ref="333137937"/>
+    <nd ref="333137935"/>
+    <nd ref="333137941"/>
+    <tag k="addr:housenumber" v="74"/>
+    <tag k="addr:street" v="Marszałkowska"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="30241267" version="2" timestamp="2009-01-19T01:29:52Z" uid="20587" user="balrog-kun" changeset="810103">
+    <nd ref="333137937"/>
+    <nd ref="333137935"/>
+    <nd ref="333137941"/>
+    <nd ref="333138027"/>
+    <nd ref="333138028"/>
+    <nd ref="333137937"/>
+    <tag k="addr:housenumber" v="74"/>
+    <tag k="addr:street" v="Marszałkowska"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="30241267" version="3" timestamp="2009-12-18T20:54:20Z" uid="20587" user="balrog-kun" changeset="3403323">
+    <nd ref="333137937"/>
+    <nd ref="333137935"/>
+    <nd ref="333137941"/>
+    <nd ref="333138027"/>
+    <nd ref="333138028"/>
+    <nd ref="333137937"/>
+    <tag k="addr:housenumber" v="74"/>
+    <tag k="addr:street" v="Marszałkowska"/>
+    <tag k="building" v="residential"/>
+    <tag k="building:levels" v="7"/>
+  </way>
+  <way id="30241268" version="1" timestamp="2009-01-18T17:33:19Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333138037"/>
+    <nd ref="333138035"/>
+    <nd ref="333138033"/>
+    <nd ref="333138032"/>
+    <nd ref="333138037"/>
+  </way>
+  <way id="30241268" version="2" timestamp="2009-01-19T01:29:53Z" uid="20587" user="balrog-kun" changeset="810103"/>
+  <way id="30241269" version="1" timestamp="2009-01-18T17:33:20Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333138282"/>
+    <nd ref="333138289"/>
+    <nd ref="333138291"/>
+    <nd ref="333138286"/>
+    <nd ref="333138282"/>
+    <tag k="addr:housenumber" v="76/80"/>
+    <tag k="addr:street" v="Marszałkowska"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="name" v="BOŚ Dom Maklerski"/>
+  </way>
+  <way id="30241270" version="1" timestamp="2009-01-18T17:33:20Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333138294"/>
+    <nd ref="333138291"/>
+    <nd ref="333138289"/>
+    <nd ref="333138293"/>
+    <nd ref="333138294"/>
+    <tag k="addr:housenumber" v="76/80"/>
+    <tag k="addr:street" v="Marszałkowska"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="30241270" version="2" timestamp="2009-01-19T01:29:53Z" uid="20587" user="balrog-kun" changeset="810103">
+    <nd ref="333138294"/>
+    <nd ref="333138291"/>
+    <nd ref="333138289"/>
+    <nd ref="333138293"/>
+    <nd ref="333138294"/>
+    <tag k="addr:housenumber" v="42"/>
+    <tag k="addr:street" v="Hoża"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="30241270" version="3" timestamp="2009-03-15T12:53:39Z" uid="20587" user="balrog-kun" changeset="814691">
+    <nd ref="333138294"/>
+    <nd ref="333138291"/>
+    <nd ref="333138289"/>
+    <nd ref="333138293"/>
+    <nd ref="333138294"/>
+    <tag k="addr:housenumber" v="42"/>
+    <tag k="addr:street" v="Hoża"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="M76"/>
+  </way>
+  <way id="30241270" version="4" timestamp="2009-11-02T08:31:00Z" uid="192635" user="Sangrin" changeset="3014356">
+    <nd ref="333138294"/>
+    <nd ref="333138291"/>
+    <nd ref="333138289"/>
+    <nd ref="333138293"/>
+    <nd ref="333138294"/>
+    <tag k="addr:housenumber" v="76"/>
+    <tag k="addr:street" v="Marszałkowska"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Dom Kredytowy NOTUS S.A."/>
+  </way>
+  <way id="30241271" version="1" timestamp="2009-01-18T17:33:20Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333138282"/>
+    <nd ref="333138286"/>
+    <nd ref="333138278"/>
+    <nd ref="333138274"/>
+    <nd ref="333138282"/>
+    <tag k="addr:housenumber" v="76/80"/>
+    <tag k="addr:street" v="Marszałkowska"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Węgierski Instytut Kultury"/>
+    <tag k="note" v="Moved to Moniuszki 10?"/>
+  </way>
+  <way id="30241272" version="1" timestamp="2009-01-18T17:33:21Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333138295"/>
+    <nd ref="333138296"/>
+    <nd ref="333138299"/>
+    <nd ref="333138384"/>
+    <nd ref="333138383"/>
+    <nd ref="333138381"/>
+    <nd ref="333138379"/>
+    <nd ref="333138297"/>
+    <nd ref="333138385"/>
+    <nd ref="333138386"/>
+    <nd ref="333138295"/>
+    <tag k="addr:housenumber" v="47/49"/>
+    <tag k="addr:postcode" v="00-950"/>
+    <tag k="addr:street" v="Wspólna"/>
+    <tag k="addr:url" v="http://www.breinwest.com.pl/"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Dom Inwestycyjny BRE Bank"/>
+    <tag k="operator" v="BRE Bank S.A."/>
+  </way>
+  <way id="30241272" version="2" timestamp="2009-01-22T06:16:08Z" uid="26492" user="phobie" changeset="825381">
+    <nd ref="333138295"/>
+    <nd ref="333138296"/>
+    <nd ref="333138299"/>
+    <nd ref="333138384"/>
+    <nd ref="333138383"/>
+    <nd ref="333138381"/>
+    <nd ref="333138379"/>
+    <nd ref="333138297"/>
+    <nd ref="333138385"/>
+    <nd ref="333138386"/>
+    <nd ref="333138295"/>
+    <tag k="addr:housenumber" v="47/49"/>
+    <tag k="addr:postcode" v="00-950"/>
+    <tag k="addr:street" v="Wspólna"/>
+    <tag k="building" v="yes"/>
+    <tag k="contact:website" v="http://www.breinwest.com.pl/"/>
+    <tag k="name" v="Dom Inwestycyjny BRE Bank"/>
+    <tag k="operator" v="BRE Bank S.A."/>
+  </way>
+  <way id="30241272" version="3" timestamp="2009-03-15T14:13:55Z" uid="20587" user="balrog-kun" changeset="814691">
+    <nd ref="333138295"/>
+    <nd ref="333138296"/>
+    <nd ref="333138299"/>
+    <nd ref="333138384"/>
+    <nd ref="333138383"/>
+    <nd ref="333138381"/>
+    <nd ref="333138379"/>
+    <nd ref="333138297"/>
+    <nd ref="333138385"/>
+    <nd ref="333138386"/>
+    <nd ref="333138295"/>
+    <tag k="addr:housenumber" v="47/49"/>
+    <tag k="addr:postcode" v="00-950"/>
+    <tag k="addr:street" v="Wspólna"/>
+    <tag k="building" v="yes"/>
+    <tag k="contact:website" v="http://www.breinwest.com.pl/"/>
+    <tag k="landuse" v="commercial"/>
+    <tag k="name" v="Dom Inwestycyjny BRE Bank"/>
+    <tag k="operator" v="BRE Bank S.A."/>
+  </way>
+  <way id="30241272" version="4" timestamp="2011-06-19T00:48:42Z" uid="20587" user="balrog-kun" changeset="8479249">
+    <nd ref="333138295"/>
+    <nd ref="333138296"/>
+    <nd ref="1330266259"/>
+    <nd ref="1330266057"/>
+    <nd ref="333138299"/>
+    <nd ref="333138384"/>
+    <nd ref="333138383"/>
+    <nd ref="333138381"/>
+    <nd ref="333138379"/>
+    <nd ref="333138297"/>
+    <nd ref="333138385"/>
+    <nd ref="333138386"/>
+    <nd ref="333138295"/>
+    <tag k="addr:housenumber" v="47/49"/>
+    <tag k="addr:postcode" v="00-950"/>
+    <tag k="addr:street" v="Wspólna"/>
+    <tag k="building" v="yes"/>
+    <tag k="contact:website" v="http://www.breinwest.com.pl/"/>
+    <tag k="landuse" v="commercial"/>
+    <tag k="name" v="Dom Inwestycyjny BRE Bank"/>
+    <tag k="operator" v="BRE Bank S.A."/>
+  </way>
+  <way id="30241272" version="5" timestamp="2011-06-19T01:27:22Z" uid="20587" user="balrog-kun" changeset="8479249">
+    <nd ref="333138295"/>
+    <nd ref="333138296"/>
+    <nd ref="1330266259"/>
+    <nd ref="1330266057"/>
+    <nd ref="333138299"/>
+    <nd ref="333138384"/>
+    <nd ref="333138383"/>
+    <nd ref="1330276063"/>
+    <nd ref="333138381"/>
+    <nd ref="1330276100"/>
+    <nd ref="333138379"/>
+    <nd ref="1330276241"/>
+    <nd ref="333138297"/>
+    <nd ref="333138385"/>
+    <nd ref="333138386"/>
+    <nd ref="333138295"/>
+    <tag k="addr:housenumber" v="47/49"/>
+    <tag k="addr:postcode" v="00-950"/>
+    <tag k="addr:street" v="Wspólna"/>
+    <tag k="building" v="yes"/>
+    <tag k="contact:website" v="http://www.breinwest.com.pl/"/>
+    <tag k="landuse" v="commercial"/>
+    <tag k="name" v="Dom Inwestycyjny BRE Bank"/>
+    <tag k="operator" v="BRE Bank S.A."/>
+  </way>
+  <way id="30241273" version="1" timestamp="2009-01-18T17:33:21Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333138387"/>
+    <nd ref="333138390"/>
+    <nd ref="333138392"/>
+    <nd ref="333138388"/>
+    <nd ref="333138387"/>
+  </way>
+  <way id="30241273" version="2" timestamp="2009-01-19T01:29:53Z" uid="20587" user="balrog-kun" changeset="810103"/>
+  <way id="30241274" version="1" timestamp="2009-01-18T17:33:21Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333138400"/>
+    <nd ref="333138640"/>
+    <nd ref="333138520"/>
+    <nd ref="333138402"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="layer" v="-1"/>
+  </way>
+  <way id="30241274" version="2" timestamp="2010-01-21T14:14:35Z" uid="20587" user="balrog-kun" changeset="3674979">
+    <nd ref="333138400"/>
+    <nd ref="333138640"/>
+    <tag k="highway" v="pedestrian"/>
+  </way>
+  <way id="30241274" version="3" timestamp="2011-08-26T10:13:04Z" uid="508862" user="KeiDii" changeset="9128116">
+    <nd ref="333138400"/>
+    <nd ref="333138640"/>
+    <nd ref="333138520"/>
+    <nd ref="333138402"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="layer" v="-1"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="30241274" version="4" timestamp="2012-03-30T11:17:31Z" uid="52087" user="kocio" changeset="11151843">
+    <nd ref="333138400"/>
+    <nd ref="333138640"/>
+    <nd ref="333138520"/>
+    <nd ref="333138402"/>
+    <tag k="highway" v="footway"/>
+    <tag k="layer" v="-1"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="30241275" version="1" timestamp="2009-01-18T17:33:21Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333138403"/>
+    <nd ref="333138518"/>
+    <nd ref="333138405"/>
+    <nd ref="333138408"/>
+    <nd ref="333138630"/>
+    <nd ref="333138412"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="layer" v="-1"/>
+  </way>
+  <way id="30241275" version="2" timestamp="2009-03-06T08:14:05Z" uid="59223" user="Briquollo" changeset="742975">
+    <nd ref="333138403"/>
+    <nd ref="333138518"/>
+    <nd ref="333138408"/>
+    <nd ref="333138630"/>
+    <nd ref="333138412"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="layer" v="-1"/>
+  </way>
+  <way id="30241275" version="3" timestamp="2010-01-21T14:14:36Z" uid="20587" user="balrog-kun" changeset="3674979">
+    <nd ref="333138403"/>
+    <nd ref="333138518"/>
+    <tag k="highway" v="pedestrian"/>
+  </way>
+  <way id="30241275" version="4" timestamp="2011-03-18T14:16:32Z" uid="338611" user="marek kleciak" changeset="7595604">
+    <nd ref="333138403"/>
+    <nd ref="1207358412"/>
+    <nd ref="333138518"/>
+    <tag k="highway" v="pedestrian"/>
+  </way>
+  <way id="30241275" version="5" timestamp="2011-03-18T14:25:26Z" uid="338611" user="marek kleciak" changeset="7595859">
+    <nd ref="1207358412"/>
+    <nd ref="333138518"/>
+    <tag k="highway" v="pedestrian"/>
+  </way>
+  <way id="30241275" version="6" timestamp="2011-08-26T10:13:32Z" uid="508862" user="KeiDii" changeset="9128116"/>
+  <way id="30241276" version="1" timestamp="2009-01-18T17:33:22Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333138414"/>
+    <nd ref="320006296"/>
+    <tag k="highway" v="steps"/>
+  </way>
+  <way id="30241277" version="1" timestamp="2009-01-18T17:33:22Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333138416"/>
+    <nd ref="333138421"/>
+    <nd ref="333138414"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="30241278" version="1" timestamp="2009-01-18T17:33:22Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333138419"/>
+    <nd ref="333138421"/>
+    <nd ref="333138414"/>
+    <nd ref="333138424"/>
+    <nd ref="333138427"/>
+    <nd ref="333138430"/>
+    <nd ref="333138433"/>
+    <nd ref="333138437"/>
+    <nd ref="333138440"/>
+    <nd ref="333138443"/>
+    <nd ref="333138444"/>
+    <nd ref="333138412"/>
+    <nd ref="333138446"/>
+    <nd ref="333138447"/>
+    <nd ref="333138419"/>
+    <tag k="area" v="yes"/>
+    <tag k="highway" v="pedestrian"/>
+  </way>
+  <way id="30241278" version="2" timestamp="2009-03-06T08:13:55Z" uid="59223" user="Briquollo" changeset="742975">
+    <nd ref="333138419"/>
+    <nd ref="333138421"/>
+    <nd ref="333138414"/>
+    <nd ref="333138424"/>
+    <nd ref="333138437"/>
+    <nd ref="333138412"/>
+    <nd ref="333138447"/>
+    <nd ref="333138419"/>
+    <tag k="area" v="yes"/>
+    <tag k="highway" v="pedestrian"/>
+  </way>
+  <way id="30241278" version="3" timestamp="2012-02-02T14:23:06Z" uid="550476" user="fishcrosser" changeset="10567838">
+    <nd ref="333138419"/>
+    <nd ref="1615661921"/>
+    <nd ref="1615661886"/>
+    <nd ref="333138421"/>
+    <nd ref="333138414"/>
+    <nd ref="333138424"/>
+    <nd ref="1615661946"/>
+    <nd ref="333138437"/>
+    <nd ref="333138412"/>
+    <nd ref="333138447"/>
+    <nd ref="333138419"/>
+    <tag k="area" v="yes"/>
+    <tag k="highway" v="pedestrian"/>
+  </way>
+  <way id="30241279" version="1" timestamp="2009-01-18T17:33:23Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333138449"/>
+    <nd ref="333138518"/>
+    <nd ref="333138520"/>
+    <nd ref="333138450"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="layer" v="-1"/>
+  </way>
+  <way id="30241279" version="2" timestamp="2010-01-21T14:14:36Z" uid="20587" user="balrog-kun" changeset="3674979">
+    <nd ref="333138449"/>
+    <nd ref="333138518"/>
+    <tag k="highway" v="pedestrian"/>
+  </way>
+  <way id="30241279" version="3" timestamp="2011-08-26T10:13:04Z" uid="508862" user="KeiDii" changeset="9128116">
+    <nd ref="333138449"/>
+    <nd ref="333138518"/>
+    <nd ref="617647436"/>
+    <nd ref="333138520"/>
+    <nd ref="333138450"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="layer" v="-1"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="30241279" version="4" timestamp="2012-03-30T11:17:31Z" uid="52087" user="kocio" changeset="11151843">
+    <nd ref="333138449"/>
+    <nd ref="333138518"/>
+    <nd ref="617647436"/>
+    <nd ref="333138520"/>
+    <nd ref="333138450"/>
+    <tag k="highway" v="footway"/>
+    <tag k="layer" v="-1"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="30241280" version="1" timestamp="2009-01-18T17:33:23Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333138614"/>
+    <nd ref="333138640"/>
+    <nd ref="333138619"/>
+    <nd ref="333138626"/>
+    <nd ref="333138630"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="layer" v="-1"/>
+  </way>
+  <way id="30241280" version="2" timestamp="2010-01-21T14:14:36Z" uid="20587" user="balrog-kun" changeset="3674979">
+    <nd ref="333138614"/>
+    <nd ref="333138640"/>
+    <tag k="highway" v="pedestrian"/>
+  </way>
+  <way id="30241280" version="3" timestamp="2011-08-26T10:13:05Z" uid="508862" user="KeiDii" changeset="9128116">
+    <nd ref="333138614"/>
+    <nd ref="333138640"/>
+    <nd ref="617647435"/>
+    <nd ref="333138619"/>
+    <nd ref="333138626"/>
+    <nd ref="333138630"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="layer" v="-1"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="30241280" version="4" timestamp="2012-03-30T11:17:31Z" uid="52087" user="kocio" changeset="11151843">
+    <nd ref="333138614"/>
+    <nd ref="333138640"/>
+    <nd ref="617647435"/>
+    <nd ref="333138619"/>
+    <nd ref="333138626"/>
+    <nd ref="333138630"/>
+    <tag k="highway" v="footway"/>
+    <tag k="layer" v="-1"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="30241281" version="1" timestamp="2009-01-18T17:33:23Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333138626"/>
+    <nd ref="333138635"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="layer" v="-1"/>
+  </way>
+  <way id="30241281" version="2" timestamp="2010-01-21T14:14:36Z" uid="20587" user="balrog-kun" changeset="3674979">
+    <nd ref="333138626"/>
+    <nd ref="333138635"/>
+    <tag k="highway" v="pedestrian"/>
+  </way>
+  <way id="30241281" version="3" timestamp="2011-08-26T10:13:03Z" uid="508862" user="KeiDii" changeset="9128116">
+    <nd ref="333138626"/>
+    <nd ref="333138635"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="layer" v="-1"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="30241281" version="4" timestamp="2012-03-30T11:17:32Z" uid="52087" user="kocio" changeset="11151843">
+    <nd ref="333138626"/>
+    <nd ref="333138635"/>
+    <tag k="highway" v="footway"/>
+    <tag k="layer" v="-1"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="30241282" version="1" timestamp="2009-01-18T17:33:23Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="316888400"/>
+    <nd ref="316888401"/>
+    <nd ref="329997023"/>
+    <nd ref="329997022"/>
+    <nd ref="329997024"/>
+    <nd ref="329997030"/>
+    <nd ref="333138693"/>
+    <nd ref="316888395"/>
+    <nd ref="316888398"/>
+    <nd ref="316888400"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:street" v="Wspólna"/>
+    <tag k="building" v="yes"/>
+    <tag k="created_by" v="JOSM"/>
+  </way>
+  <way id="30241282" version="2" timestamp="2009-05-15T22:35:39Z" uid="20587" user="balrog-kun" changeset="1205167">
+    <nd ref="316888400"/>
+    <nd ref="316888401"/>
+    <nd ref="329997023"/>
+    <nd ref="329997022"/>
+    <nd ref="329997024"/>
+    <nd ref="329997030"/>
+    <nd ref="333138693"/>
+    <nd ref="316888395"/>
+    <nd ref="316888398"/>
+    <nd ref="316888400"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:postcode" v="00-930"/>
+    <tag k="addr:street" v="Wspólna"/>
+    <tag k="building" v="yes"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="wikipedia" v="pl:Ministerstwo Rolnictwa i Rozwoju Wsi"/>
+  </way>
+  <way id="30241283" version="1" timestamp="2009-01-18T17:33:24Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="315403625"/>
+    <nd ref="329997032"/>
+    <nd ref="329997034"/>
+    <nd ref="329997036"/>
+    <nd ref="329997038"/>
+    <nd ref="333138665"/>
+    <nd ref="315403626"/>
+    <nd ref="315403625"/>
+    <tag k="addr:housenumber" v="36"/>
+    <tag k="addr:street" v="Krucza"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Państwowa Inspekcja Pracy"/>
+  </way>
+  <way id="30241284" version="1" timestamp="2009-01-18T17:33:24Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333138673"/>
+    <nd ref="333138679"/>
+    <nd ref="315403624"/>
+    <nd ref="333138668"/>
+    <nd ref="333138665"/>
+    <nd ref="329997038"/>
+    <nd ref="329997039"/>
+    <nd ref="329997037"/>
+    <tag k="addr:housenumber" v="7/9"/>
+    <tag k="addr:street" v="Żurawia"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Ministerstwo Skarbu Państwa"/>
+  </way>
+  <way id="30241284" version="2" timestamp="2009-01-27T20:26:32Z" uid="20587" user="balrog-kun" changeset="844028">
+    <nd ref="333138673"/>
+    <nd ref="333138679"/>
+    <nd ref="315403624"/>
+    <nd ref="333138668"/>
+    <nd ref="333138665"/>
+    <nd ref="329997038"/>
+    <nd ref="329997039"/>
+    <nd ref="329997037"/>
+    <nd ref="333138673"/>
+    <tag k="addr:housenumber" v="7/9"/>
+    <tag k="addr:street" v="Żurawia"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Ministerstwo Skarbu Państwa"/>
+  </way>
+  <way id="30241285" version="1" timestamp="2009-01-18T17:33:25Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="329997031"/>
+    <nd ref="329997026"/>
+    <nd ref="329997027"/>
+    <nd ref="329997028"/>
+    <nd ref="333138647"/>
+    <nd ref="316888394"/>
+    <nd ref="333138693"/>
+    <nd ref="329997030"/>
+    <nd ref="329997031"/>
+    <tag k="addr:housenumber" v="19/31"/>
+    <tag k="addr:street" v="Żurawia"/>
+    <tag k="building" v="yes"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="name" v="Ministerstwo Rolnictwa i Rozwoju Wsi"/>
+    <tag k="name:en" v="Ministry of Agriculture"/>
+  </way>
+  <way id="30241285" version="2" timestamp="2009-05-15T22:35:39Z" uid="20587" user="balrog-kun" changeset="1205167">
+    <nd ref="329997031"/>
+    <nd ref="329997026"/>
+    <nd ref="329997027"/>
+    <nd ref="329997028"/>
+    <nd ref="333138647"/>
+    <nd ref="316888394"/>
+    <nd ref="333138693"/>
+    <nd ref="329997030"/>
+    <nd ref="329997031"/>
+    <tag k="addr:housenumber" v="19/31"/>
+    <tag k="addr:postcode" v="00-930"/>
+    <tag k="addr:street" v="Żurawia"/>
+    <tag k="building" v="yes"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="name" v="Ministerstwo Rolnictwa i Rozwoju Wsi"/>
+    <tag k="name:en" v="Ministry of Agriculture"/>
+    <tag k="wikipedia" v="pl:Ministerstwo Rolnictwa i Rozwoju Wsi"/>
+  </way>
+  <way id="30241286" version="1" timestamp="2009-01-18T17:33:25Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333138713"/>
+    <nd ref="308973990"/>
+    <nd ref="333138710"/>
+    <nd ref="333138702"/>
+    <nd ref="333138713"/>
+    <tag k="addr:housenumber" v="32/46"/>
+    <tag k="addr:street" v="Wspólna"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="30241287" version="1" timestamp="2009-01-18T17:33:25Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333138710"/>
+    <nd ref="333138702"/>
+    <nd ref="333138705"/>
+    <nd ref="333138698"/>
+    <nd ref="308973985"/>
+    <nd ref="308973988"/>
+    <nd ref="333138710"/>
+    <tag k="addr:housenumber" v="82"/>
+    <tag k="addr:postcode" v="00-517"/>
+    <tag k="addr:street" v="Marszałkowska"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Sąd Rejonowy"/>
+  </way>
+  <way id="30241287" version="2" timestamp="2011-05-15T04:16:22Z" uid="20587" user="balrog-kun" changeset="8147591">
+    <nd ref="333138710"/>
+    <nd ref="333138702"/>
+    <nd ref="333138705"/>
+    <nd ref="333138698"/>
+    <nd ref="308973985"/>
+    <nd ref="308973988"/>
+    <nd ref="333138710"/>
+    <tag k="addr:housenumber" v="82"/>
+    <tag k="addr:postcode" v="00-517"/>
+    <tag k="addr:street" v="Marszałkowska"/>
+    <tag k="building" v="office"/>
+    <tag k="name" v="Sąd Rejonowy"/>
+  </way>
+  <way id="30241288" version="1" timestamp="2009-01-18T17:33:26Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333138698"/>
+    <nd ref="333138705"/>
+    <nd ref="333138717"/>
+    <nd ref="308973987"/>
+    <nd ref="333138698"/>
+    <tag k="addr:housenumber" v="33/35"/>
+    <tag k="addr:street" v="Żurawia"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="30241288" version="2" timestamp="2011-05-15T04:16:23Z" uid="20587" user="balrog-kun" changeset="8147591">
+    <nd ref="333138698"/>
+    <nd ref="333138705"/>
+    <nd ref="333138717"/>
+    <nd ref="308973987"/>
+    <nd ref="333138698"/>
+    <tag k="addr:housenumber" v="33/35"/>
+    <tag k="addr:street" v="Żurawia"/>
+    <tag k="building" v="office"/>
+    <tag k="name" v="Sąd Rejonowy"/>
+  </way>
+  <way id="30241289" version="1" timestamp="2009-01-18T17:33:26Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333138717"/>
+    <nd ref="333138705"/>
+    <nd ref="333138702"/>
+    <nd ref="333138713"/>
+    <nd ref="333138717"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Parkingowa"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="30241289" version="2" timestamp="2011-05-15T04:16:19Z" uid="20587" user="balrog-kun" changeset="8147591">
+    <nd ref="333138717"/>
+    <nd ref="333138705"/>
+    <nd ref="333138702"/>
+    <nd ref="333138713"/>
+    <nd ref="333138717"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Parkingowa"/>
+    <tag k="building" v="office"/>
+  </way>
+  <way id="30241290" version="1" timestamp="2009-01-18T17:33:26Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="316190931"/>
+    <nd ref="316190932"/>
+    <nd ref="316190930"/>
+    <nd ref="316190929"/>
+    <nd ref="316190931"/>
+    <tag k="addr:housenumber" v="45"/>
+    <tag k="addr:street" v="Krucza"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="6"/>
+  </way>
+  <way id="30241291" version="1" timestamp="2009-01-18T17:33:27Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333139002"/>
+    <nd ref="333138783"/>
+    <nd ref="333138784"/>
+    <nd ref="316190931"/>
+    <nd ref="316190929"/>
+    <nd ref="333139003"/>
+    <nd ref="333139004"/>
+    <nd ref="333139002"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Nowogrodzka"/>
+    <tag k="building" v="yes"/>
+    <tag k="source:addr" v="msi"/>
+  </way>
+  <way id="30241292" version="1" timestamp="2009-01-18T17:33:27Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333138789"/>
+    <nd ref="333139058"/>
+    <nd ref="333139061"/>
+    <nd ref="333139068"/>
+    <nd ref="333139132"/>
+    <nd ref="333139065"/>
+    <nd ref="333138793"/>
+    <nd ref="333138795"/>
+    <nd ref="333138791"/>
+    <nd ref="333138789"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Nowogrodzka"/>
+    <tag k="building" v="yes"/>
+    <tag k="source:addr" v="msi"/>
+  </way>
+  <way id="30241293" version="1" timestamp="2009-01-18T17:33:27Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333138793"/>
+    <nd ref="333138798"/>
+    <nd ref="333138802"/>
+    <nd ref="333138795"/>
+    <nd ref="333138793"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Nowogrodzka"/>
+    <tag k="building" v="yes"/>
+    <tag k="source:addr" v="msi"/>
+  </way>
+  <way id="30241294" version="1" timestamp="2009-01-18T17:33:28Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333138798"/>
+    <nd ref="333138805"/>
+    <nd ref="333138808"/>
+    <nd ref="333138802"/>
+    <nd ref="333138798"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="Nowogrodzka"/>
+    <tag k="building" v="yes"/>
+    <tag k="source:addr" v="msi"/>
+  </way>
+  <way id="30241295" version="1" timestamp="2009-01-18T17:33:28Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333138805"/>
+    <nd ref="333138815"/>
+    <nd ref="333138812"/>
+    <nd ref="333138818"/>
+    <nd ref="333138808"/>
+    <nd ref="333138805"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:street" v="Nowogrodzka"/>
+    <tag k="building" v="yes"/>
+    <tag k="source:addr" v="msi"/>
+  </way>
+  <way id="30241295" version="2" timestamp="2009-04-15T07:10:43Z" uid="20587" user="balrog-kun" changeset="546735">
+    <nd ref="333138805"/>
+    <nd ref="333138815"/>
+    <nd ref="333138812"/>
+    <nd ref="333138818"/>
+    <nd ref="333138808"/>
+    <nd ref="333138805"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:street" v="Nowogrodzka"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Instituto Cervantes"/>
+    <tag k="source:addr" v="msi"/>
+  </way>
+  <way id="30241296" version="1" timestamp="2009-01-18T17:33:28Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333138862"/>
+    <nd ref="333139002"/>
+    <nd ref="333139004"/>
+    <nd ref="333138909"/>
+    <nd ref="316190929"/>
+    <nd ref="316190930"/>
+    <nd ref="308942494"/>
+    <nd ref="308942493"/>
+    <nd ref="333138839"/>
+    <nd ref="333138862"/>
+    <tag k="addr:housenumber" v="47"/>
+    <tag k="addr:street" v="Krucza"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="6"/>
+  </way>
+  <way id="30241297" version="1" timestamp="2009-01-18T17:33:28Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333139005"/>
+    <nd ref="333139006"/>
+    <nd ref="333139009"/>
+    <nd ref="333139007"/>
+    <nd ref="333139005"/>
+  </way>
+  <way id="30241298" version="1" timestamp="2009-01-18T17:33:29Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333138789"/>
+    <nd ref="333138791"/>
+    <nd ref="333138788"/>
+    <nd ref="333138786"/>
+    <nd ref="333138785"/>
+    <nd ref="333138856"/>
+    <nd ref="333138828"/>
+    <nd ref="333139058"/>
+    <nd ref="333138789"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:street" v="Nowogrodzka"/>
+    <tag k="building" v="yes"/>
+    <tag k="source:addr" v="msi"/>
+  </way>
+  <way id="30241299" version="1" timestamp="2009-01-18T17:33:29Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333138862"/>
+    <nd ref="333138830"/>
+    <nd ref="333138856"/>
+    <nd ref="333138785"/>
+    <nd ref="333138786"/>
+    <nd ref="333138784"/>
+    <nd ref="333138783"/>
+    <nd ref="333139002"/>
+    <nd ref="333138862"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:street" v="Nowogrodzka"/>
+    <tag k="building" v="yes"/>
+    <tag k="source:addr" v="msi"/>
+  </way>
+  <way id="30241300" version="1" timestamp="2009-01-18T17:33:29Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333139204"/>
+    <nd ref="333139209"/>
+    <nd ref="333139195"/>
+    <nd ref="333139138"/>
+    <nd ref="333139204"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:street" v="Nowogrodzka"/>
+    <tag k="building" v="yes"/>
+    <tag k="source:addr" v="msi"/>
+  </way>
+  <way id="30241301" version="1" timestamp="2009-01-18T17:33:30Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333139209"/>
+    <nd ref="333139204"/>
+    <nd ref="333139141"/>
+    <nd ref="333139196"/>
+    <nd ref="333139209"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:street" v="Żurawia"/>
+    <tag k="building" v="yes"/>
+    <tag k="source:addr" v="msi"/>
+  </way>
+  <way id="30241303" version="1" timestamp="2009-01-18T17:33:30Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333139209"/>
+    <nd ref="333139213"/>
+    <nd ref="333139197"/>
+    <nd ref="333139195"/>
+    <nd ref="333139209"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:street" v="Nowogrodzka"/>
+    <tag k="building" v="yes"/>
+    <tag k="source:addr" v="msi"/>
+  </way>
+  <way id="30241303" version="2" timestamp="2011-03-18T14:00:18Z" uid="338611" user="marek kleciak" changeset="7595604">
+    <nd ref="333139209"/>
+    <nd ref="333139213"/>
+    <nd ref="1207350233"/>
+    <nd ref="333139197"/>
+    <nd ref="333139195"/>
+    <nd ref="333139209"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:street" v="Nowogrodzka"/>
+    <tag k="building" v="yes"/>
+    <tag k="source:addr" v="msi"/>
+  </way>
+  <way id="30241304" version="1" timestamp="2009-01-18T17:33:30Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333139213"/>
+    <nd ref="333139209"/>
+    <nd ref="333139196"/>
+    <nd ref="333139199"/>
+    <nd ref="333139213"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:street" v="Żurawia"/>
+    <tag k="building" v="yes"/>
+    <tag k="source:addr" v="msi"/>
+  </way>
+  <way id="30241305" version="1" timestamp="2009-01-18T17:33:30Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333139201"/>
+    <nd ref="333139197"/>
+    <nd ref="333139213"/>
+    <nd ref="333139216"/>
+    <nd ref="333139226"/>
+    <nd ref="333139201"/>
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:street" v="Nowogrodzka"/>
+    <tag k="building" v="yes"/>
+    <tag k="source:addr" v="msi"/>
+  </way>
+  <way id="30241305" version="2" timestamp="2011-03-18T14:00:18Z" uid="338611" user="marek kleciak" changeset="7595604">
+    <nd ref="333139201"/>
+    <nd ref="333139197"/>
+    <nd ref="1207350233"/>
+    <nd ref="333139213"/>
+    <nd ref="333139216"/>
+    <nd ref="333139226"/>
+    <nd ref="333139201"/>
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:street" v="Nowogrodzka"/>
+    <tag k="building" v="yes"/>
+    <tag k="source:addr" v="msi"/>
+  </way>
+  <way id="30241306" version="1" timestamp="2009-01-18T17:33:31Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333139213"/>
+    <nd ref="333139199"/>
+    <nd ref="333139203"/>
+    <nd ref="333139216"/>
+    <nd ref="333139213"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:street" v="Żurawia"/>
+    <tag k="building" v="yes"/>
+    <tag k="source:addr" v="msi"/>
+  </way>
+  <way id="30241307" version="1" timestamp="2009-01-18T17:33:31Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333139280"/>
+    <nd ref="333139282"/>
+    <nd ref="333139283"/>
+    <nd ref="333139281"/>
+    <nd ref="333139280"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:street" v="Nowogrodzka"/>
+    <tag k="building" v="yes"/>
+    <tag k="source:addr" v="msi"/>
+  </way>
+  <way id="30241308" version="1" timestamp="2009-01-18T17:33:31Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333139283"/>
+    <nd ref="333139282"/>
+    <nd ref="333139359"/>
+    <nd ref="333139284"/>
+    <nd ref="333139286"/>
+    <nd ref="333139283"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:street" v="Nowogrodzka"/>
+    <tag k="building" v="yes"/>
+    <tag k="source:addr" v="msi"/>
+  </way>
+  <way id="30241309" version="1" timestamp="2009-01-18T17:33:31Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333139275"/>
+    <nd ref="333139278"/>
+    <nd ref="333139276"/>
+    <nd ref="333139201"/>
+    <nd ref="333139226"/>
+    <nd ref="333139287"/>
+    <nd ref="333139288"/>
+    <nd ref="333139289"/>
+    <nd ref="333139290"/>
+    <nd ref="333139275"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:street" v="Nowogrodzka"/>
+    <tag k="building" v="yes"/>
+    <tag k="source:addr" v="msi"/>
+  </way>
+  <way id="30241309" version="2" timestamp="2009-03-15T13:29:07Z" uid="20587" user="balrog-kun" changeset="814691">
+    <nd ref="333139275"/>
+    <nd ref="333139278"/>
+    <nd ref="333139276"/>
+    <nd ref="333139201"/>
+    <nd ref="333139226"/>
+    <nd ref="333139287"/>
+    <nd ref="333139288"/>
+    <nd ref="333139289"/>
+    <nd ref="333139290"/>
+    <nd ref="333139275"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:street" v="Nowogrodzka"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="N-21"/>
+    <tag k="source:addr" v="msi"/>
+  </way>
+  <way id="30241310" version="1" timestamp="2009-01-18T17:33:32Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333139276"/>
+    <nd ref="333139278"/>
+    <nd ref="333139291"/>
+    <nd ref="333139292"/>
+    <nd ref="333139290"/>
+    <nd ref="333139289"/>
+    <nd ref="333139354"/>
+    <nd ref="333139355"/>
+    <nd ref="333139356"/>
+    <nd ref="333139280"/>
+    <nd ref="333139281"/>
+    <nd ref="333139276"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:street" v="Nowogrodzka"/>
+    <tag k="building" v="yes"/>
+    <tag k="source:addr" v="msi"/>
+  </way>
+  <way id="30241319" version="1" timestamp="2009-01-18T17:33:42Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333139284"/>
+    <nd ref="333139359"/>
+    <nd ref="333139361"/>
+    <nd ref="333139363"/>
+    <nd ref="333139364"/>
+    <nd ref="333139362"/>
+    <nd ref="333139284"/>
+    <tag k="addr:housenumber" v="41/43"/>
+    <tag k="addr:street" v="Krucza"/>
+    <tag k="building" v="yes"/>
+    <tag k="source:addr" v="msi"/>
+  </way>
+  <way id="30241320" version="1" timestamp="2009-01-18T17:33:42Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333139363"/>
+    <nd ref="333139361"/>
+    <nd ref="333139365"/>
+    <nd ref="333139366"/>
+    <nd ref="333139363"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Żurawia"/>
+    <tag k="building" v="yes"/>
+    <tag k="source:addr" v="msi"/>
+  </way>
+  <way id="30241321" version="1" timestamp="2009-01-18T17:33:42Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333139368"/>
+    <nd ref="333139369"/>
+    <nd ref="333139366"/>
+    <nd ref="333139365"/>
+    <nd ref="333139484"/>
+    <nd ref="333139490"/>
+    <nd ref="333139368"/>
+    <tag k="addr:housenumber" v="16a"/>
+    <tag k="addr:street" v="Żurawia"/>
+    <tag k="building" v="yes"/>
+    <tag k="source:addr" v="msi"/>
+  </way>
+  <way id="30241322" version="1" timestamp="2009-01-18T17:33:43Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333139493"/>
+    <nd ref="333139511"/>
+    <nd ref="333139516"/>
+    <nd ref="333139501"/>
+    <nd ref="333139522"/>
+    <nd ref="333139527"/>
+    <nd ref="333139505"/>
+    <nd ref="333139499"/>
+    <nd ref="333139493"/>
+    <tag k="addr:housenumber" v="20a"/>
+    <tag k="addr:street" v="Żurawia"/>
+    <tag k="building" v="yes"/>
+    <tag k="source:addr" v="msi"/>
+  </way>
+  <way id="30241322" version="2" timestamp="2009-01-19T00:45:21Z" uid="20587" user="balrog-kun" changeset="810103">
+    <nd ref="333139493"/>
+    <nd ref="333139511"/>
+    <nd ref="333139516"/>
+    <nd ref="333139501"/>
+    <nd ref="333139522"/>
+    <nd ref="333139527"/>
+    <nd ref="333139505"/>
+    <nd ref="333139499"/>
+    <nd ref="333139493"/>
+    <tag k="addr:housenumber" v="20a"/>
+    <tag k="addr:street" v="Żurawia"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Gospodarczy Sąd Arbitrażowy"/>
+    <tag k="source:addr" v="msi"/>
+  </way>
+  <way id="30241323" version="1" timestamp="2009-01-18T17:33:43Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333139368"/>
+    <nd ref="333139493"/>
+    <nd ref="333139499"/>
+    <nd ref="333139369"/>
+    <nd ref="333139368"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="Żurawia"/>
+    <tag k="building" v="yes"/>
+    <tag k="source:addr" v="msi"/>
+  </way>
+  <way id="30241324" version="1" timestamp="2009-01-18T17:33:43Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333139538"/>
+    <nd ref="333140144"/>
+    <nd ref="333140147"/>
+    <nd ref="333140148"/>
+    <nd ref="333140149"/>
+    <nd ref="333140151"/>
+    <nd ref="333140501"/>
+    <nd ref="333140503"/>
+    <nd ref="333140505"/>
+    <nd ref="333140155"/>
+    <nd ref="333140157"/>
+    <nd ref="333140233"/>
+    <nd ref="333140235"/>
+    <nd ref="333140162"/>
+    <nd ref="333140164"/>
+    <nd ref="333140160"/>
+    <nd ref="333140154"/>
+    <nd ref="333140150"/>
+    <nd ref="333140146"/>
+    <nd ref="333139549"/>
+    <nd ref="333139538"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="30241325" version="1" timestamp="2009-01-18T17:33:44Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="308973999"/>
+    <nd ref="316190926"/>
+    <nd ref="333139710"/>
+    <nd ref="333139743"/>
+    <nd ref="333139740"/>
+    <nd ref="333139776"/>
+    <nd ref="333139577"/>
+    <nd ref="308973999"/>
+    <tag k="addr:housenumber" v="11/19"/>
+    <tag k="addr:street" v="Aleje Jerozolimskie"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="7"/>
+  </way>
+  <way id="30241326" version="1" timestamp="2009-01-18T17:33:44Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="316190926"/>
+    <nd ref="308974003"/>
+    <nd ref="333139587"/>
+    <nd ref="333139582"/>
+    <nd ref="333139710"/>
+    <nd ref="316190926"/>
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:street" v="Krucza"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="7"/>
+  </way>
+  <way id="30241327" version="1" timestamp="2009-01-18T17:33:44Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333139680"/>
+    <nd ref="333139724"/>
+    <nd ref="333139728"/>
+    <nd ref="333139732"/>
+    <nd ref="333139736"/>
+    <nd ref="333139740"/>
+    <nd ref="333139743"/>
+    <nd ref="333139739"/>
+    <nd ref="333139717"/>
+    <nd ref="333139676"/>
+    <nd ref="333139678"/>
+    <nd ref="333139683"/>
+    <nd ref="333139680"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="Nowogrodzka"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="7"/>
+  </way>
+  <way id="30241330" version="1" timestamp="2009-01-18T17:33:45Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333139688"/>
+    <nd ref="333139680"/>
+    <nd ref="333139683"/>
+    <nd ref="333139699"/>
+    <nd ref="333139705"/>
+    <nd ref="333139778"/>
+    <nd ref="333139688"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Nowogrodzka"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="7"/>
+  </way>
+  <way id="30241332" version="1" timestamp="2009-01-18T17:33:45Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333139688"/>
+    <nd ref="333139778"/>
+    <nd ref="333139577"/>
+    <nd ref="333139776"/>
+    <nd ref="333139688"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Bracka"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="11/13"/>
+  </way>
+  <way id="30241332" version="2" timestamp="2009-01-27T20:43:35Z" uid="20587" user="balrog-kun" changeset="844028">
+    <nd ref="333139688"/>
+    <nd ref="333139778"/>
+    <nd ref="333139577"/>
+    <nd ref="333139776"/>
+    <nd ref="333139688"/>
+    <tag k="addr:housenumber" v="11/13"/>
+    <tag k="addr:street" v="Bracka"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="7"/>
+    <tag k="note" v="TODO: check"/>
+  </way>
+  <way id="30241333" version="1" timestamp="2009-01-18T17:33:45Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="248564716"/>
+    <nd ref="333139780"/>
+    <nd ref="333139782"/>
+    <nd ref="333139784"/>
+    <nd ref="333139785"/>
+    <nd ref="248564716"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="Bracka"/>
+    <tag k="building" v="yes"/>
+    <tag k="source:addr" v="msi"/>
+  </way>
+  <way id="30241333" version="2" timestamp="2009-04-15T07:24:08Z" uid="20587" user="balrog-kun" changeset="546735">
+    <nd ref="248564716"/>
+    <nd ref="333139780"/>
+    <nd ref="333139782"/>
+    <nd ref="333139784"/>
+    <nd ref="333139785"/>
+    <nd ref="248564716"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="Bracka"/>
+    <tag k="building" v="yes"/>
+    <tag k="landuse" v="construction"/>
+    <tag k="name" v="Wolf Bracka"/>
+    <tag k="source:addr" v="msi"/>
+  </way>
+  <way id="30241334" version="1" timestamp="2009-01-18T17:33:45Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333139977"/>
+    <nd ref="333139972"/>
+    <nd ref="333139975"/>
+    <nd ref="333140606"/>
+    <nd ref="333140605"/>
+    <nd ref="333139980"/>
+    <nd ref="333139977"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="Bracka"/>
+    <tag k="building" v="yes"/>
+    <tag k="source:addr" v="msi"/>
+  </way>
+  <way id="30241335" version="1" timestamp="2009-01-18T17:33:46Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333139975"/>
+    <nd ref="333139972"/>
+    <nd ref="333139968"/>
+    <nd ref="333139970"/>
+    <nd ref="333139975"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Bracka"/>
+    <tag k="building" v="yes"/>
+    <tag k="source:addr" v="msi"/>
+  </way>
+  <way id="30241336" version="1" timestamp="2009-01-18T17:33:46Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333140593"/>
+    <nd ref="333139977"/>
+    <nd ref="333139980"/>
+    <nd ref="333140588"/>
+    <nd ref="333140591"/>
+    <nd ref="333140427"/>
+    <nd ref="333140069"/>
+    <nd ref="333140593"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Bracka"/>
+    <tag k="building" v="yes"/>
+    <tag k="source:addr" v="msi"/>
+  </way>
+  <way id="30241337" version="1" timestamp="2009-01-18T17:33:46Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333140079"/>
+    <nd ref="333140075"/>
+    <nd ref="333140073"/>
+    <nd ref="333140078"/>
+    <nd ref="333140139"/>
+    <nd ref="333140140"/>
+    <nd ref="333140141"/>
+    <nd ref="333140142"/>
+    <nd ref="333140079"/>
+    <tag k="addr:housenumber" v="7/9"/>
+    <tag k="addr:street" v="Nowogrodzka"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="30241337" version="2" timestamp="2009-04-15T07:22:53Z" uid="20587" user="balrog-kun" changeset="546735">
+    <nd ref="333140079"/>
+    <nd ref="333140075"/>
+    <nd ref="333140073"/>
+    <nd ref="333140078"/>
+    <nd ref="333140139"/>
+    <nd ref="333140140"/>
+    <nd ref="333140141"/>
+    <nd ref="333140142"/>
+    <nd ref="333140079"/>
+    <tag k="addr:housenumber" v="7/9"/>
+    <tag k="addr:street" v="Nowogrodzka"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="5"/>
+  </way>
+  <way id="30241338" version="1" timestamp="2009-01-18T17:33:46Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333139958"/>
+    <nd ref="333139959"/>
+    <nd ref="333139966"/>
+    <nd ref="333140238"/>
+    <nd ref="333140298"/>
+    <nd ref="333140299"/>
+    <nd ref="333140302"/>
+    <nd ref="333140240"/>
+    <nd ref="333140243"/>
+    <nd ref="333139962"/>
+    <nd ref="333139961"/>
+    <nd ref="333140070"/>
+    <nd ref="333139970"/>
+    <nd ref="333139968"/>
+    <nd ref="333139853"/>
+    <nd ref="333139956"/>
+    <nd ref="333139958"/>
+    <tag k="addr:housenumber" v="1/3"/>
+    <tag k="addr:street" v="Nowogrodzka"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Ministerstwo Pracy i Polityki Społecznej"/>
+  </way>
+  <way id="30241338" version="2" timestamp="2009-04-15T07:23:37Z" uid="20587" user="balrog-kun" changeset="546735">
+    <nd ref="333139958"/>
+    <nd ref="333139959"/>
+    <nd ref="333139966"/>
+    <nd ref="333140238"/>
+    <nd ref="333140298"/>
+    <nd ref="333140299"/>
+    <nd ref="333140302"/>
+    <nd ref="333140240"/>
+    <nd ref="333140243"/>
+    <nd ref="333139962"/>
+    <nd ref="333139961"/>
+    <nd ref="333140070"/>
+    <nd ref="333139970"/>
+    <nd ref="333139968"/>
+    <nd ref="333139853"/>
+    <nd ref="376294187"/>
+    <nd ref="333139956"/>
+    <nd ref="333139958"/>
+    <tag k="addr:housenumber" v="1/3"/>
+    <tag k="addr:street" v="Nowogrodzka"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="8"/>
+    <tag k="name" v="Ministerstwo Pracy i Polityki Społecznej"/>
+  </way>
+  <way id="30241346" version="1" timestamp="2009-01-18T17:33:57Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333140075"/>
+    <nd ref="333139958"/>
+    <nd ref="333139956"/>
+    <nd ref="333140073"/>
+    <nd ref="333140075"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Nowogrodzka"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="30241346" version="2" timestamp="2009-04-15T07:24:22Z" uid="20587" user="balrog-kun" changeset="546735">
+    <nd ref="333140075"/>
+    <nd ref="333139958"/>
+    <nd ref="333139956"/>
+    <nd ref="333140073"/>
+    <nd ref="333140075"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Nowogrodzka"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="5"/>
+  </way>
+  <way id="30241350" version="1" timestamp="2009-01-18T17:34:07Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333139538"/>
+    <nd ref="333139549"/>
+    <nd ref="333139552"/>
+    <nd ref="333139542"/>
+    <nd ref="333139538"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:street" v="Nowogrodzka"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Nautilus Building"/>
+  </way>
+  <way id="30241350" version="2" timestamp="2009-03-15T13:36:48Z" uid="20587" user="balrog-kun" changeset="814691">
+    <nd ref="333139538"/>
+    <nd ref="333139549"/>
+    <nd ref="333139552"/>
+    <nd ref="333139542"/>
+    <nd ref="333139538"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="00-513"/>
+    <tag k="addr:street" v="Nowogrodzka"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Nautilus Building"/>
+    <tag k="operator" v="Platan Group sp. z o.o."/>
+  </way>
+  <way id="30241350" version="3" timestamp="2009-03-15T13:50:22Z" uid="20587" user="balrog-kun" changeset="814691">
+    <nd ref="333139538"/>
+    <nd ref="333139549"/>
+    <nd ref="333139552"/>
+    <nd ref="333139542"/>
+    <nd ref="333139538"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="00-513"/>
+    <tag k="addr:street" v="Nowogrodzka"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="6"/>
+    <tag k="name" v="Nautilus Building"/>
+    <tag k="operator" v="Platan Group sp. z o.o."/>
+  </way>
+  <way id="30241351" version="1" timestamp="2009-01-18T17:34:07Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="333140588"/>
+    <nd ref="333140424"/>
+    <nd ref="333140596"/>
+    <nd ref="333140605"/>
+    <nd ref="333140606"/>
+    <nd ref="333140600"/>
+    <nd ref="333140603"/>
+    <nd ref="333140598"/>
+    <nd ref="333140420"/>
+    <nd ref="333140365"/>
+    <nd ref="333140360"/>
+    <nd ref="333140429"/>
+    <nd ref="333140497"/>
+    <nd ref="333140499"/>
+    <nd ref="333140494"/>
+    <nd ref="333140495"/>
+    <nd ref="333140506"/>
+    <nd ref="333140586"/>
+    <nd ref="333140431"/>
+    <nd ref="333140306"/>
+    <nd ref="333139568"/>
+    <nd ref="333139565"/>
+    <nd ref="333140304"/>
+    <nd ref="333140308"/>
+    <nd ref="333140363"/>
+    <nd ref="333140367"/>
+    <nd ref="333140422"/>
+    <nd ref="333140591"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Żurawia"/>
+    <tag k="amenity" v="university"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Wydział Stosowanych Nauk Społecznych i Resocjalizacji UW"/>
+    <tag k="source:addr" v="msi"/>
+  </way>
+  <way id="30241351" version="2" timestamp="2009-01-27T20:26:31Z" uid="20587" user="balrog-kun" changeset="844028">
+    <nd ref="333140588"/>
+    <nd ref="333140424"/>
+    <nd ref="333140596"/>
+    <nd ref="333140605"/>
+    <nd ref="333140606"/>
+    <nd ref="333140600"/>
+    <nd ref="333140603"/>
+    <nd ref="333140598"/>
+    <nd ref="333140420"/>
+    <nd ref="333140365"/>
+    <nd ref="333140360"/>
+    <nd ref="333140429"/>
+    <nd ref="333140497"/>
+    <nd ref="333140499"/>
+    <nd ref="333140494"/>
+    <nd ref="333140495"/>
+    <nd ref="333140506"/>
+    <nd ref="333140586"/>
+    <nd ref="333140431"/>
+    <nd ref="333140306"/>
+    <nd ref="333139568"/>
+    <nd ref="333139565"/>
+    <nd ref="333140304"/>
+    <nd ref="333140308"/>
+    <nd ref="333140363"/>
+    <nd ref="333140367"/>
+    <nd ref="333140422"/>
+    <nd ref="333140591"/>
+    <nd ref="333140588"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Żurawia"/>
+    <tag k="amenity" v="university"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Wydział Stosowanych Nauk Społecznych i Resocjalizacji UW"/>
+    <tag k="source:addr" v="msi"/>
+  </way>
+  <way id="30241352" version="1" timestamp="2009-01-18T17:34:08Z" uid="20587" user="balrog-kun" changeset="805695">
+    <nd ref="315403616"/>
+    <nd ref="333139565"/>
+    <nd ref="333139568"/>
+    <nd ref="333139560"/>
+    <nd ref="315403616"/>
+    <tag k="addr:housenumber" v="6/12"/>
+    <tag k="addr:street" v="Żurawia"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Główny Urząd Nadzoru Budowlanego"/>
+  </way>
+  <way id="30241632" version="5" timestamp="2009-10-01T15:26:08Z" uid="86259" user="hasse_osm_korinthenkacker" changeset="2701530">
+    <nd ref="333141904"/>
+    <nd ref="333141906"/>
+    <nd ref="333141907"/>
+    <nd ref="333141909"/>
+    <nd ref="333141911"/>
+    <nd ref="333141912"/>
+    <nd ref="333141913"/>
+    <nd ref="333141914"/>
+    <nd ref="333141916"/>
+    <nd ref="333141919"/>
+    <nd ref="333141921"/>
+    <nd ref="333141922"/>
+    <nd ref="333141923"/>
+    <nd ref="333141924"/>
+    <nd ref="333139762"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="fixme" v="tracktype"/>
+    <tag k="highway" v="track"/>
+  </way>
+  <way id="30241214" version="8" timestamp="2012-07-16T23:36:56Z" uid="722137" user="OSMF Redaction Account" changeset="12253552">
+    <nd ref="1306440958"/>
+    <nd ref="1306440938"/>
+    <tag k="bus" v="no"/>
+    <tag k="hgv" v="destination"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="maxweight" v="3.5t"/>
+    <tag k="wikipedia:de" v="Nikolaus_Joseph_von_Jacquin"/>
+  </way>
+  <way id="30241214" version="9" timestamp="2012-07-20T19:40:15Z" uid="302363" user="fkv" changeset="12388670">
+    <nd ref="47998184"/>
+    <nd ref="47998203"/>
+    <nd ref="1306440958"/>
+    <nd ref="47929054"/>
+    <nd ref="47929047"/>
+    <nd ref="1306440938"/>
+    <nd ref="47929043"/>
+    <tag k="bus" v="no"/>
+    <tag k="hgv" v="destination"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="maxweight" v="3.5t"/>
+    <tag k="name" v="Jacquingasse"/>
+    <tag k="wikipedia:de" v="Nikolaus_Joseph_von_Jacquin"/>
+  </way>
+  <way id="30241278" version="4" timestamp="2012-06-08T10:25:40Z" uid="569550" user="DuoBelt" changeset="11833743">
+    <nd ref="333138419"/>
+    <nd ref="1615661921"/>
+    <nd ref="1615661886"/>
+    <nd ref="333138421"/>
+    <nd ref="333138414"/>
+    <nd ref="333138424"/>
+    <nd ref="1615661946"/>
+    <nd ref="333138437"/>
+    <nd ref="333138412"/>
+    <nd ref="333138447"/>
+    <nd ref="333138419"/>
+    <tag k="area" v="yes"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="Patelnia"/>
+  </way>
+  <way id="30241333" version="3" timestamp="2012-05-13T16:50:14Z" uid="550226" user="Kaczor" changeset="11587982"/>
+  <way id="30241334" version="2" timestamp="2012-06-04T10:51:12Z" uid="99386" user="masti" changeset="11795280"/>
+  <way id="30241336" version="2" timestamp="2012-06-04T10:51:11Z" uid="99386" user="masti" changeset="11795280">
+    <nd ref="333140593"/>
+    <nd ref="333139977"/>
+    <nd ref="333139980"/>
+    <nd ref="333140605"/>
+    <nd ref="333140588"/>
+    <nd ref="333140591"/>
+    <nd ref="333140427"/>
+    <nd ref="333140069"/>
+    <nd ref="333140593"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Bracka"/>
+    <tag k="building" v="yes"/>
+    <tag k="source:addr" v="msi"/>
+  </way>
+  <way id="30241351" version="3" timestamp="2012-06-04T10:51:11Z" uid="99386" user="masti" changeset="11795280">
+    <nd ref="333140588"/>
+    <nd ref="333140424"/>
+    <nd ref="333140596"/>
+    <nd ref="333140605"/>
+    <nd ref="333139980"/>
+    <nd ref="333140606"/>
+    <nd ref="333140600"/>
+    <nd ref="333140603"/>
+    <nd ref="333140598"/>
+    <nd ref="333140420"/>
+    <nd ref="333140365"/>
+    <nd ref="333140360"/>
+    <nd ref="333140429"/>
+    <nd ref="333140497"/>
+    <nd ref="333140499"/>
+    <nd ref="333140494"/>
+    <nd ref="333140495"/>
+    <nd ref="333140506"/>
+    <nd ref="333140586"/>
+    <nd ref="333140431"/>
+    <nd ref="333140306"/>
+    <nd ref="333139568"/>
+    <nd ref="333139565"/>
+    <nd ref="333140304"/>
+    <nd ref="333140308"/>
+    <nd ref="333140363"/>
+    <nd ref="333140367"/>
+    <nd ref="333140422"/>
+    <nd ref="333140591"/>
+    <nd ref="333140588"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Żurawia"/>
+    <tag k="amenity" v="university"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Wydział Stosowanych Nauk Społecznych i Resocjalizacji UW"/>
+    <tag k="source:addr" v="msi"/>
+  </way>
+  <way id="30241632" version="6" timestamp="2012-05-15T15:23:38Z" uid="240041" user="kugelfiesch" changeset="11605945">
+    <nd ref="333141904"/>
+    <nd ref="333141906"/>
+    <nd ref="333141907"/>
+    <nd ref="333141909"/>
+    <nd ref="333141911"/>
+    <nd ref="333141912"/>
+    <nd ref="333141913"/>
+    <nd ref="333141914"/>
+    <nd ref="333141916"/>
+    <nd ref="333141919"/>
+    <nd ref="333141921"/>
+    <nd ref="333141922"/>
+    <nd ref="333141923"/>
+    <nd ref="1753961926"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="fixme" v="tracktype"/>
+    <tag k="highway" v="track"/>
+  </way>
+</osm>

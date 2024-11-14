@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="64405072" version="1" timestamp="2010-06-27T10:05:54Z" uid="18775" user="drlizau" changeset="5088048">
+    <nd ref="792497774"/>
+    <nd ref="792497778"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="64405072" version="2" timestamp="2011-02-20T07:32:28Z" uid="18775" user="drlizau" changeset="7339215">
+    <nd ref="792497774"/>
+    <nd ref="792497778"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="source" v="Bing"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="64405114" version="1" timestamp="2010-06-27T10:06:02Z" uid="18775" user="drlizau" changeset="5088048">
+    <nd ref="792497773"/>
+    <nd ref="792497777"/>
+    <nd ref="792497769"/>
+    <nd ref="792497775"/>
+    <nd ref="792497773"/>
+    <tag k="landuse" v="cemetery"/>
+    <tag k="name" v="Yenda Cemetery"/>
+  </way>
+  <way id="64405116" version="1" timestamp="2010-06-27T10:06:02Z" uid="18775" user="drlizau" changeset="5088048">
+    <nd ref="318578205"/>
+    <nd ref="792497772"/>
+    <nd ref="311945261"/>
+    <nd ref="318578203"/>
+    <nd ref="318578205"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="name" v="Wade Park"/>
+    <tag k="sport" v="australian_football"/>
+  </way>
+  <way id="64405116" version="2" timestamp="2010-06-27T10:12:32Z" uid="18775" user="drlizau" changeset="5088108">
+    <nd ref="318578205"/>
+    <nd ref="792497772"/>
+    <nd ref="311945261"/>
+    <nd ref="318578203"/>
+    <nd ref="318578205"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="name" v="Wade Park"/>
+    <tag k="sport" v="rugby"/>
+  </way>
+  <way id="64405116" version="3" timestamp="2010-06-29T20:48:11Z" uid="74617" user="JohnSmith" changeset="5109183">
+    <nd ref="318578205"/>
+    <nd ref="792497772"/>
+    <nd ref="311945261"/>
+    <nd ref="318578203"/>
+    <nd ref="318578205"/>
+    <tag k="fixme" v="sport=rugby is ambiguous, see http://wiki.osm.org/wiki/Tag:sport%3Drugby for more details"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="name" v="Wade Park"/>
+    <tag k="sport" v="rugby"/>
+  </way>
+  <way id="64405116" version="4" timestamp="2010-06-30T11:33:54Z" uid="18775" user="drlizau" changeset="5112776">
+    <nd ref="318578205"/>
+    <nd ref="792497772"/>
+    <nd ref="311945261"/>
+    <nd ref="318578203"/>
+    <nd ref="318578205"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="name" v="Wade Park"/>
+    <tag k="sport" v="rugby_league"/>
+  </way>
+  <way id="64405474" version="2" timestamp="2010-08-16T04:12:57Z" uid="4467" user="Rosscoe" changeset="5505974">
+    <nd ref="862631113"/>
+    <nd ref="61680424"/>
+    <nd ref="278705416"/>
+    <nd ref="61680900"/>
+    <nd ref="304154653"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Given Terrace"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="64405072" version="3" timestamp="2012-07-19T07:39:16Z" uid="722137" user="OSMF Redaction Account" changeset="12312324"/>
+  <way id="64405114" version="2" timestamp="2012-07-19T07:41:50Z" uid="722137" user="OSMF Redaction Account" changeset="12312382"/>
+  <way id="64405116" version="5" timestamp="2012-07-19T07:41:49Z" uid="722137" user="OSMF Redaction Account" changeset="12312382"/>
+  <way id="64405474" version="3" timestamp="2012-07-20T03:36:21Z" uid="722137" user="OSMF Redaction Account" changeset="12359497">
+    <nd ref="61680424"/>
+    <nd ref="278705416"/>
+    <nd ref="61680900"/>
+    <nd ref="304154653"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Given Terrace"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+</osm>

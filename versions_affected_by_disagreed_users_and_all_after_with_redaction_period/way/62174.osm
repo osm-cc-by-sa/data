@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="62174584" version="2" timestamp="2010-06-29T20:50:10Z" uid="74617" user="JohnSmith" changeset="5109183">
+    <nd ref="775643234"/>
+    <nd ref="775643291"/>
+    <nd ref="775643009"/>
+    <nd ref="775643039"/>
+    <nd ref="775643234"/>
+    <tag k="fixme" v="sport=rugby is ambiguous, see http://wiki.osm.org/wiki/Tag:sport%3Drugby for more details"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2010"/>
+    <tag k="sport" v="rugby"/>
+  </way>
+  <way id="62174584" version="3" timestamp="2012-03-12T16:47:44Z" uid="90394" user="petrovsk" changeset="10957203"/>
+  <way id="62174700" version="2" timestamp="2010-07-09T05:29:08Z" uid="74617" user="JohnSmith" changeset="5170972">
+    <nd ref="775644451"/>
+    <nd ref="775644452"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Priest Place"/>
+  </way>
+  <way id="62174700" version="3" timestamp="2010-07-09T05:36:47Z" uid="74617" user="JohnSmith" changeset="5170972">
+    <nd ref="775644451"/>
+    <nd ref="775644452"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Priest Place"/>
+  </way>
+  <way id="62174700" version="4" timestamp="2012-01-20T10:22:20Z" uid="147510" user="woodpeck_fixbot" changeset="10443754">
+    <nd ref="775644451"/>
+    <nd ref="775644452"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Priest Place"/>
+  </way>
+  <way id="62174700" version="5" timestamp="2012-08-06T08:55:09Z" uid="712752" user="tastrax" changeset="12630337">
+    <nd ref="1853981336"/>
+    <nd ref="775644451"/>
+    <nd ref="775644452"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Priest Place"/>
+  </way>
+</osm>

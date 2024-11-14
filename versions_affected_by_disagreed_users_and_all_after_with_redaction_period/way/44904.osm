@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="44904365" version="1" timestamp="2009-11-23T16:43:28Z" uid="114881" user="ratsonroP" changeset="3197178">
+    <nd ref="569405089"/>
+    <nd ref="569405097"/>
+    <tag k="highway" v="service"/>
+    <tag k="service" v="alley"/>
+  </way>
+  <way id="44904366" version="1" timestamp="2009-11-23T16:43:28Z" uid="114881" user="ratsonroP" changeset="3197178">
+    <nd ref="569405103"/>
+    <nd ref="569374589"/>
+    <nd ref="569374582"/>
+    <nd ref="569374585"/>
+    <nd ref="569405097"/>
+    <nd ref="569405100"/>
+    <nd ref="569405103"/>
+    <tag k="amenity" v="parking"/>
+  </way>
+  <way id="44904366" version="2" timestamp="2010-09-27T15:04:18Z" uid="31185" user="es_ka" changeset="5892893">
+    <nd ref="569405103"/>
+    <nd ref="569374589"/>
+    <nd ref="569374582"/>
+    <nd ref="569374585"/>
+    <nd ref="569405097"/>
+    <nd ref="569405100"/>
+    <nd ref="569405103"/>
+    <tag k="amenity" v="parking"/>
+    <tag k="parking" v="surface"/>
+  </way>
+  <way id="44904366" version="3" timestamp="2011-03-16T21:08:52Z" uid="35618" user="schorsch" changeset="7579769">
+    <nd ref="569405103"/>
+    <nd ref="569374589"/>
+    <nd ref="569374582"/>
+    <nd ref="569374585"/>
+    <nd ref="569405097"/>
+    <nd ref="569405103"/>
+    <tag k="amenity" v="parking"/>
+    <tag k="parking" v="surface"/>
+  </way>
+  <way id="44904646" version="3" timestamp="2010-06-29T19:09:03Z" uid="74617" user="JohnSmith" changeset="5108182">
+    <nd ref="569417557"/>
+    <nd ref="569417668"/>
+    <nd ref="569417689"/>
+    <nd ref="569417717"/>
+    <nd ref="569417747"/>
+    <nd ref="569417770"/>
+    <nd ref="569417800"/>
+    <nd ref="569417821"/>
+    <nd ref="569417557"/>
+    <tag k="fixme" v="sport=football is ambiguous, see http://wiki.osm.org/wiki/Football for more details"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="football"/>
+  </way>
+  <way id="44904365" version="2" timestamp="2012-07-24T10:11:35Z" uid="722137" user="OSMF Redaction Account" changeset="12463166"/>
+  <way id="44904366" version="4" timestamp="2012-07-24T10:11:35Z" uid="722137" user="OSMF Redaction Account" changeset="12463166"/>
+  <way id="44904646" version="4" timestamp="2012-07-18T17:07:09Z" uid="722137" user="OSMF Redaction Account" changeset="12289992">
+    <nd ref="569417557"/>
+    <nd ref="569417668"/>
+    <nd ref="569417689"/>
+    <nd ref="569417717"/>
+    <nd ref="569417747"/>
+    <nd ref="569417770"/>
+    <nd ref="569417800"/>
+    <nd ref="569417821"/>
+    <nd ref="569417557"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="football"/>
+  </way>
+</osm>

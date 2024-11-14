@@ -1,0 +1,3170 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="37320005" version="1" timestamp="2009-07-06T02:53:58Z" uid="4467" user="Rosscoe" changeset="1745265">
+    <nd ref="31677793"/>
+    <nd ref="31677794"/>
+    <nd ref="31677795"/>
+    <nd ref="31677483"/>
+    <tag k="created_by" v="Potlatch alpha"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="37320005" version="2" timestamp="2009-11-05T06:47:36Z" uid="34892" user="DavidA" changeset="3038346">
+    <nd ref="31677793"/>
+    <nd ref="31677794"/>
+    <nd ref="31677795"/>
+    <nd ref="31677483"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Marlow Street"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="37320005" version="3" timestamp="2010-07-08T09:40:37Z" uid="74617" user="JohnSmith" changeset="5164427">
+    <nd ref="31677793"/>
+    <nd ref="31677794"/>
+    <nd ref="31677795"/>
+    <nd ref="31677483"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Marlow Street"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="37320019" version="6" timestamp="2010-07-09T04:59:28Z" uid="74617" user="JohnSmith" changeset="5170986">
+    <nd ref="434950863"/>
+    <nd ref="434950861"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="37320019" version="7" timestamp="2011-02-24T06:25:38Z" uid="4467" user="Rosscoe" changeset="7378898"/>
+  <way id="37320020" version="6" timestamp="2011-02-24T06:25:38Z" uid="4467" user="Rosscoe" changeset="7378898"/>
+  <way id="37320021" version="6" timestamp="2011-02-24T06:25:38Z" uid="4467" user="Rosscoe" changeset="7378898"/>
+  <way id="37320022" version="5" timestamp="2011-02-24T06:25:29Z" uid="4467" user="Rosscoe" changeset="7378898">
+    <nd ref="434950863"/>
+    <nd ref="434950861"/>
+    <nd ref="434953246"/>
+    <nd ref="434965367"/>
+    <nd ref="434950866"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="37320023" version="3" timestamp="2011-02-24T06:25:35Z" uid="4467" user="Rosscoe" changeset="7378898">
+    <nd ref="434952391"/>
+    <nd ref="434952392"/>
+    <nd ref="434952393"/>
+    <nd ref="434950868"/>
+    <nd ref="434950869"/>
+    <nd ref="434950861"/>
+    <nd ref="434950862"/>
+    <nd ref="434950856"/>
+    <nd ref="434950860"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Stevens Road"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="37320037" version="2" timestamp="2009-07-30T08:33:51Z" uid="4467" user="Rosscoe" changeset="1982765">
+    <nd ref="429772002"/>
+    <nd ref="434950919"/>
+    <nd ref="434950920"/>
+    <nd ref="434950921"/>
+    <tag k="highway" v="service"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="37320038" version="2" timestamp="2009-07-30T08:33:51Z" uid="4467" user="Rosscoe" changeset="1982765">
+    <nd ref="431033341"/>
+    <nd ref="434950926"/>
+    <nd ref="434950927"/>
+    <nd ref="434950928"/>
+    <nd ref="434950929"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Raymond Terrace"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="37320075" version="5" timestamp="2011-02-24T06:25:25Z" uid="4467" user="Rosscoe" changeset="7378898">
+    <nd ref="434951076"/>
+    <nd ref="434951077"/>
+    <nd ref="434951078"/>
+    <nd ref="434951079"/>
+    <nd ref="434951080"/>
+    <nd ref="434951083"/>
+    <nd ref="434951084"/>
+    <nd ref="434951085"/>
+    <nd ref="434951086"/>
+    <nd ref="434951087"/>
+    <nd ref="434951088"/>
+    <nd ref="434951089"/>
+    <nd ref="434951076"/>
+    <tag k="building" v="yes"/>
+    <tag k="layer" v="1"/>
+  </way>
+  <way id="37320097" version="3" timestamp="2010-04-04T01:14:18Z" uid="20587" user="balrog-kun" changeset="4318136">
+    <nd ref="175965333"/>
+    <nd ref="175965335"/>
+    <nd ref="413751848"/>
+    <nd ref="175965337"/>
+    <nd ref="175965339"/>
+    <nd ref="175965341"/>
+    <nd ref="175965343"/>
+    <nd ref="175965345"/>
+    <nd ref="175965347"/>
+    <nd ref="175965349"/>
+    <nd ref="175965351"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="East 70th Avenue"/>
+    <tag k="name_1" v="East Highway 224"/>
+    <tag k="name_2" v="East State Highway 224"/>
+    <tag k="ref" v="CO 224"/>
+    <tag k="tiger:cfcc" v="A31"/>
+    <tag k="tiger:county" v="Adams, CO"/>
+    <tag k="tiger:name_base" v="70th"/>
+    <tag k="tiger:name_base_2" v="State Highway 224"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="yes"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="177434963:177447571:177461818:177464224"/>
+    <tag k="tiger:zip_left" v="80229"/>
+  </way>
+  <way id="37320097" version="4" timestamp="2011-03-29T11:09:55Z" uid="207745" user="NE2" changeset="7705082">
+    <nd ref="175965333"/>
+    <nd ref="175965335"/>
+    <nd ref="413751848"/>
+    <nd ref="175965337"/>
+    <nd ref="175965339"/>
+    <nd ref="175965341"/>
+    <nd ref="175965343"/>
+    <nd ref="175965345"/>
+    <nd ref="175965347"/>
+    <nd ref="175965349"/>
+    <nd ref="175965351"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="East 70th Avenue"/>
+    <tag k="ref" v="CO 224"/>
+    <tag k="tiger:cfcc" v="A31"/>
+    <tag k="tiger:county" v="Adams, CO"/>
+    <tag k="tiger:name_base" v="70th"/>
+    <tag k="tiger:name_base_2" v="State Highway 224"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="yes"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="177434963:177447571:177461818:177464224"/>
+    <tag k="tiger:zip_left" v="80229"/>
+  </way>
+  <way id="37320104" version="3" timestamp="2010-04-04T01:14:19Z" uid="20587" user="balrog-kun" changeset="4318136">
+    <nd ref="434951137"/>
+    <nd ref="175851267"/>
+    <nd ref="175971985"/>
+    <nd ref="175971989"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="layer" v="-1"/>
+    <tag k="name" v="York Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Adams, CO"/>
+    <tag k="tiger:name_base" v="York"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="177390085:177436521:177436526:177307923:177307931:177307934:177307936:177307939:177436543:177436544:177464221:177464223:177408384:177435111:177435053:177435054:177370869:177461826:177308852"/>
+    <tag k="tiger:zip_left" v="80229"/>
+    <tag k="tiger:zip_right" v="80229"/>
+  </way>
+  <way id="37320104" version="4" timestamp="2010-04-27T23:20:44Z" uid="207745" user="NE2" changeset="4545858">
+    <nd ref="434951137"/>
+    <nd ref="175851267"/>
+    <nd ref="175971985"/>
+    <nd ref="175971989"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="York Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Adams, CO"/>
+    <tag k="tiger:name_base" v="York"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="177390085:177436521:177436526:177307923:177307931:177307934:177307936:177307939:177436543:177436544:177464221:177464223:177408384:177435111:177435053:177435054:177370869:177461826:177308852"/>
+    <tag k="tiger:zip_left" v="80229"/>
+    <tag k="tiger:zip_right" v="80229"/>
+  </way>
+  <way id="37320104" version="5" timestamp="2010-10-23T00:43:43Z" uid="121241" user="zephyr" changeset="6141429">
+    <nd ref="434951137"/>
+    <nd ref="175851267"/>
+    <nd ref="175971985"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="York Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Adams, CO"/>
+    <tag k="tiger:name_base" v="York"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="177390085:177436521:177436526:177307923:177307931:177307934:177307936:177307939:177436543:177436544:177464221:177464223:177408384:177435111:177435053:177435054:177370869:177461826:177308852"/>
+    <tag k="tiger:zip_left" v="80229"/>
+    <tag k="tiger:zip_right" v="80229"/>
+  </way>
+  <way id="37320104" version="6" timestamp="2011-10-28T06:08:20Z" uid="42429" user="FK270673" changeset="9673799">
+    <nd ref="434951137"/>
+    <nd ref="175851267"/>
+    <nd ref="175971985"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="York Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Adams, CO"/>
+    <tag k="tiger:name_base" v="York"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="177390085:177436521:177436526:177307923:177307931:177307934:177307936:177307939:177436543:177436544:177464221:177464223:177408384:177435111:177435053:177435054:177370869:177461826:177308852"/>
+    <tag k="tiger:zip_left" v="80229"/>
+    <tag k="tiger:zip_right" v="80229"/>
+  </way>
+  <way id="37320122" version="1" timestamp="2009-07-06T02:59:24Z" uid="4467" user="Rosscoe" changeset="1745279">
+    <nd ref="434951154"/>
+    <nd ref="434951155"/>
+    <nd ref="434951156"/>
+    <nd ref="434951157"/>
+    <nd ref="434951158"/>
+    <nd ref="434951159"/>
+    <nd ref="434951160"/>
+    <nd ref="434951161"/>
+    <nd ref="434951162"/>
+    <nd ref="434951163"/>
+    <nd ref="434951164"/>
+    <nd ref="434951165"/>
+    <nd ref="434951166"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="37320122" version="2" timestamp="2011-11-16T19:34:19Z" uid="547892" user="alasnel" changeset="9847957">
+    <nd ref="434951166"/>
+    <nd ref="31677481"/>
+    <nd ref="434951150"/>
+    <nd ref="434951151"/>
+    <nd ref="434951152"/>
+    <nd ref="434951154"/>
+    <nd ref="434951155"/>
+    <nd ref="434951156"/>
+    <nd ref="434951157"/>
+    <nd ref="434951158"/>
+    <nd ref="434951159"/>
+    <nd ref="434951160"/>
+    <nd ref="434951161"/>
+    <nd ref="434951162"/>
+    <nd ref="434951163"/>
+    <nd ref="434951164"/>
+    <nd ref="434951165"/>
+    <nd ref="434951166"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="37320122" version="3" timestamp="2011-11-18T10:41:49Z" uid="349913" user="Peter W34" changeset="9862630">
+    <nd ref="31677481"/>
+    <nd ref="434951150"/>
+    <nd ref="434951151"/>
+    <nd ref="434951152"/>
+    <nd ref="434951154"/>
+    <nd ref="434951155"/>
+    <nd ref="434951156"/>
+    <nd ref="434951157"/>
+    <nd ref="434951158"/>
+    <nd ref="434951159"/>
+    <nd ref="434951160"/>
+    <nd ref="434951161"/>
+    <nd ref="434951162"/>
+    <nd ref="434951163"/>
+    <nd ref="434951164"/>
+    <nd ref="434951165"/>
+    <nd ref="31677481"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="37320123" version="1" timestamp="2009-07-06T02:59:24Z" uid="4467" user="Rosscoe" changeset="1745279">
+    <nd ref="434951166"/>
+    <nd ref="31677482"/>
+    <nd ref="434950790"/>
+    <nd ref="31677483"/>
+    <nd ref="31677484"/>
+    <nd ref="31677485"/>
+    <nd ref="31677486"/>
+    <nd ref="31677489"/>
+    <nd ref="31677490"/>
+    <nd ref="31677491"/>
+    <nd ref="31677492"/>
+    <nd ref="31677493"/>
+    <nd ref="31677494"/>
+    <nd ref="31677495"/>
+    <nd ref="31677496"/>
+    <nd ref="31677497"/>
+    <nd ref="31677498"/>
+    <nd ref="31677499"/>
+    <nd ref="31677500"/>
+    <nd ref="31677501"/>
+    <nd ref="31677502"/>
+    <nd ref="31677503"/>
+    <nd ref="31677504"/>
+    <nd ref="434950619"/>
+    <nd ref="31677505"/>
+    <nd ref="434950618"/>
+    <nd ref="434950617"/>
+    <nd ref="31677506"/>
+    <nd ref="31677507"/>
+    <nd ref="31677508"/>
+    <nd ref="434950616"/>
+    <nd ref="31677509"/>
+    <nd ref="31677510"/>
+    <nd ref="434950615"/>
+    <nd ref="31677511"/>
+    <nd ref="31677512"/>
+    <nd ref="31677513"/>
+    <nd ref="31677514"/>
+    <nd ref="31677515"/>
+    <nd ref="31676919"/>
+    <nd ref="31677516"/>
+    <nd ref="31677517"/>
+    <nd ref="31676776"/>
+    <nd ref="31677518"/>
+    <nd ref="31677519"/>
+    <nd ref="31677520"/>
+    <nd ref="434950614"/>
+    <nd ref="31677521"/>
+    <nd ref="31677522"/>
+    <nd ref="31677523"/>
+    <nd ref="31677524"/>
+    <nd ref="31677525"/>
+    <nd ref="31677526"/>
+    <nd ref="31676367"/>
+    <nd ref="31677527"/>
+    <nd ref="31677528"/>
+    <tag k="created_by" v="Potlatch alpha"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="37320123" version="2" timestamp="2009-11-04T01:54:33Z" uid="34892" user="DavidA" changeset="3029905">
+    <nd ref="434951166"/>
+    <nd ref="31677482"/>
+    <nd ref="434950790"/>
+    <nd ref="31677483"/>
+    <nd ref="31677484"/>
+    <nd ref="31677485"/>
+    <nd ref="31677486"/>
+    <nd ref="31677489"/>
+    <nd ref="31677490"/>
+    <nd ref="31677491"/>
+    <nd ref="31677492"/>
+    <nd ref="31677493"/>
+    <nd ref="31677494"/>
+    <nd ref="31677495"/>
+    <nd ref="31677496"/>
+    <nd ref="31677497"/>
+    <nd ref="31677498"/>
+    <nd ref="31677499"/>
+    <nd ref="31677500"/>
+    <nd ref="31677501"/>
+    <nd ref="31677502"/>
+    <nd ref="31677503"/>
+    <nd ref="31677504"/>
+    <nd ref="434950619"/>
+    <nd ref="31677505"/>
+    <nd ref="434950618"/>
+    <nd ref="434950617"/>
+    <nd ref="31677506"/>
+    <nd ref="31677507"/>
+    <nd ref="31677508"/>
+    <nd ref="434950616"/>
+    <nd ref="31677509"/>
+    <nd ref="31677510"/>
+    <nd ref="434950615"/>
+    <nd ref="31677511"/>
+    <nd ref="31677512"/>
+    <nd ref="31677513"/>
+    <nd ref="31677514"/>
+    <nd ref="31677515"/>
+    <nd ref="31676919"/>
+    <nd ref="31677516"/>
+    <nd ref="31677517"/>
+    <nd ref="31676776"/>
+    <nd ref="31677518"/>
+    <nd ref="31677519"/>
+    <nd ref="31677520"/>
+    <nd ref="434950614"/>
+    <nd ref="31677521"/>
+    <nd ref="31677522"/>
+    <nd ref="31677523"/>
+    <nd ref="31677524"/>
+    <nd ref="31677525"/>
+    <nd ref="31677526"/>
+    <nd ref="31676367"/>
+    <nd ref="31677527"/>
+    <nd ref="31677528"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Heatleys Parade"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="37320123" version="3" timestamp="2011-11-18T10:41:49Z" uid="349913" user="Peter W34" changeset="9862630">
+    <nd ref="1507181404"/>
+    <nd ref="1507181401"/>
+    <nd ref="31677481"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Heatleys Parade"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="37320124" version="1" timestamp="2009-07-06T02:59:24Z" uid="4467" user="Rosscoe" changeset="1745279">
+    <nd ref="434951166"/>
+    <nd ref="31677481"/>
+    <nd ref="434951150"/>
+    <nd ref="434951151"/>
+    <nd ref="434951152"/>
+    <nd ref="434951154"/>
+    <tag k="created_by" v="Potlatch alpha"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="37320124" version="2" timestamp="2011-11-16T19:34:21Z" uid="547892" user="alasnel" changeset="9847957"/>
+  <way id="37320147" version="1" timestamp="2009-07-06T03:03:42Z" uid="4467" user="Rosscoe" changeset="1745289">
+    <nd ref="31677508"/>
+    <nd ref="434951544"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="37320147" version="2" timestamp="2010-07-04T10:01:22Z" uid="71283" user="James Livingston" changeset="5131262">
+    <nd ref="31677508"/>
+    <nd ref="800172126"/>
+    <nd ref="434951544"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="37320148" version="1" timestamp="2009-07-06T03:03:42Z" uid="4467" user="Rosscoe" changeset="1745289">
+    <nd ref="434951544"/>
+    <nd ref="434951545"/>
+    <nd ref="434951546"/>
+    <nd ref="434951547"/>
+    <nd ref="434951548"/>
+    <nd ref="434951549"/>
+    <nd ref="434951550"/>
+    <nd ref="434951551"/>
+    <nd ref="434951552"/>
+    <nd ref="434951553"/>
+    <nd ref="434951554"/>
+    <nd ref="434951555"/>
+    <nd ref="434951556"/>
+    <nd ref="434951557"/>
+    <nd ref="434951558"/>
+    <nd ref="434951559"/>
+    <nd ref="434951560"/>
+    <nd ref="434951561"/>
+    <nd ref="434951562"/>
+    <nd ref="434951563"/>
+    <nd ref="434951564"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="37320149" version="1" timestamp="2009-07-06T03:03:42Z" uid="4467" user="Rosscoe" changeset="1745289">
+    <nd ref="434951564"/>
+    <nd ref="434951565"/>
+    <nd ref="434951566"/>
+    <nd ref="434951567"/>
+    <nd ref="434951568"/>
+    <nd ref="434951569"/>
+    <nd ref="434951570"/>
+    <nd ref="434951571"/>
+    <nd ref="434951572"/>
+    <nd ref="434951573"/>
+    <nd ref="434951574"/>
+    <nd ref="434951575"/>
+    <nd ref="434951576"/>
+    <nd ref="434951577"/>
+    <nd ref="434951578"/>
+    <nd ref="434951579"/>
+    <nd ref="434951580"/>
+    <nd ref="434951581"/>
+    <nd ref="434951582"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="37320153" version="1" timestamp="2009-07-06T03:04:07Z" uid="38528" user="acrosscanadatrails" changeset="1745292">
+    <nd ref="434951978"/>
+    <nd ref="434951958"/>
+    <nd ref="434951994"/>
+    <tag k="attribution" v="GeoBase®"/>
+    <tag k="geobase:acquisitionTechnique" v="GPS"/>
+    <tag k="geobase:datasetName" v="NRN:British Columbia"/>
+    <tag k="geobase:uuid" v="52ea0ad84cde11db8123000ea65e52d8"/>
+    <tag k="highway" v="residential"/>
+    <tag k="is_in" v="Victoria,British Columbia"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Central Spur"/>
+    <tag k="source" v="Geobase_Import_2009"/>
+  </way>
+  <way id="37320153" version="2" timestamp="2010-08-22T18:30:06Z" uid="307202" user="alester" changeset="5564005"/>
+  <way id="37320154" version="1" timestamp="2009-07-06T03:04:07Z" uid="38528" user="acrosscanadatrails" changeset="1745292">
+    <nd ref="434951963"/>
+    <nd ref="434951980"/>
+    <tag k="attribution" v="GeoBase®"/>
+    <tag k="geobase:acquisitionTechnique" v="GPS"/>
+    <tag k="geobase:datasetName" v="NRN:British Columbia"/>
+    <tag k="geobase:uuid" v="3dcb1308f51711dc83ba000ea65e52d8"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="is_in" v="Victoria,British Columbia"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Tyee Road"/>
+    <tag k="source" v="Geobase_Import_2009"/>
+  </way>
+  <way id="37320154" version="2" timestamp="2011-11-28T22:31:45Z" uid="307202" user="alester" changeset="9983103">
+    <nd ref="434951963"/>
+    <nd ref="434951980"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="37320154" version="3" timestamp="2012-03-01T22:24:09Z" uid="147510" user="woodpeck_fixbot" changeset="10842511"/>
+  <way id="37320155" version="1" timestamp="2009-07-06T03:04:07Z" uid="38528" user="acrosscanadatrails" changeset="1745292">
+    <nd ref="434951996"/>
+    <nd ref="434951953"/>
+    <tag k="attribution" v="GeoBase®"/>
+    <tag k="geobase:acquisitionTechnique" v="GPS"/>
+    <tag k="geobase:datasetName" v="NRN:British Columbia"/>
+    <tag k="geobase:uuid" v="98aee88af51711dc83ba000ea65e52d8"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="is_in" v="Victoria,British Columbia"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Sitkum Road"/>
+    <tag k="source" v="Geobase_Import_2009"/>
+  </way>
+  <way id="37320155" version="2" timestamp="2009-08-04T18:58:12Z" uid="38528" user="acrosscanadatrails" changeset="2038851">
+    <nd ref="434951996"/>
+    <nd ref="434951953"/>
+    <nd ref="456345593"/>
+    <tag k="attribution" v="GeoBase®"/>
+    <tag k="geobase:acquisitionTechnique" v="GPS"/>
+    <tag k="geobase:datasetName" v="NRN:British Columbia"/>
+    <tag k="geobase:uuid" v="98aee88af51711dc83ba000ea65e52d8"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="is_in" v="Victoria,British Columbia"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Sitkum Road"/>
+    <tag k="source" v="Geobase_Import_2009"/>
+  </way>
+  <way id="37320155" version="3" timestamp="2010-08-22T18:29:42Z" uid="307202" user="alester" changeset="5564005">
+    <nd ref="434951996"/>
+    <nd ref="434951953"/>
+    <nd ref="874313223"/>
+    <nd ref="456345593"/>
+    <tag k="attribution" v="GeoBase®"/>
+    <tag k="geobase:acquisitionTechnique" v="GPS"/>
+    <tag k="geobase:datasetName" v="NRN:British Columbia"/>
+    <tag k="geobase:uuid" v="98aee88af51711dc83ba000ea65e52d8"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="is_in" v="Victoria,British Columbia"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Sitkum Road"/>
+    <tag k="source" v="Geobase_Import_2009"/>
+  </way>
+  <way id="37320155" version="4" timestamp="2011-11-28T22:11:03Z" uid="307202" user="alester" changeset="9982945">
+    <nd ref="434951996"/>
+    <nd ref="434951953"/>
+    <tag k="attribution" v="GeoBase®"/>
+    <tag k="geobase:acquisitionTechnique" v="GPS"/>
+    <tag k="geobase:datasetName" v="NRN:British Columbia"/>
+    <tag k="geobase:uuid" v="98aee88af51711dc83ba000ea65e52d8"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="is_in" v="Victoria,British Columbia"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Sitkum Road"/>
+    <tag k="source" v="Geobase_Import_2009"/>
+  </way>
+  <way id="37320155" version="5" timestamp="2011-11-28T22:31:45Z" uid="307202" user="alester" changeset="9983103">
+    <nd ref="434951996"/>
+    <nd ref="434951953"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="37320155" version="6" timestamp="2012-03-01T22:24:10Z" uid="147510" user="woodpeck_fixbot" changeset="10842511"/>
+  <way id="37320156" version="1" timestamp="2009-07-06T03:04:07Z" uid="38528" user="acrosscanadatrails" changeset="1745292">
+    <nd ref="434951989"/>
+    <nd ref="434951978"/>
+    <tag k="attribution" v="GeoBase®"/>
+    <tag k="geobase:acquisitionTechnique" v="GPS"/>
+    <tag k="geobase:datasetName" v="NRN:British Columbia"/>
+    <tag k="geobase:uuid" v="056a04244cdf11db8123000ea65e52d8"/>
+    <tag k="highway" v="residential"/>
+    <tag k="is_in" v="Victoria,British Columbia"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Central Spur"/>
+    <tag k="source" v="Geobase_Import_2009"/>
+  </way>
+  <way id="37320156" version="2" timestamp="2009-08-04T01:58:22Z" uid="38528" user="acrosscanadatrails" changeset="2031362">
+    <nd ref="455752736"/>
+    <nd ref="434951978"/>
+    <tag k="attribution" v="GeoBase®"/>
+    <tag k="geobase:acquisitionTechnique" v="GPS"/>
+    <tag k="geobase:datasetName" v="NRN:British Columbia"/>
+    <tag k="geobase:uuid" v="056a04244cdf11db8123000ea65e52d8"/>
+    <tag k="highway" v="residential"/>
+    <tag k="is_in" v="Victoria,British Columbia"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Central Spur"/>
+    <tag k="source" v="Geobase_Import_2009"/>
+  </way>
+  <way id="37320156" version="3" timestamp="2010-08-22T18:30:01Z" uid="307202" user="alester" changeset="5564005">
+    <nd ref="455752736"/>
+    <nd ref="434951978"/>
+    <nd ref="434951958"/>
+    <nd ref="434951994"/>
+    <nd ref="434951967"/>
+    <nd ref="434951992"/>
+    <nd ref="455765660"/>
+    <nd ref="455765656"/>
+    <tag k="attribution" v="GeoBase®"/>
+    <tag k="geobase:acquisitionTechnique" v="GPS"/>
+    <tag k="geobase:datasetName" v="NRN:British Columbia"/>
+    <tag k="geobase:uuid" v="056a04244cdf11db8123000ea65e52d8"/>
+    <tag k="highway" v="residential"/>
+    <tag k="is_in" v="Victoria,British Columbia"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Central Spur Road"/>
+    <tag k="source" v="Geobase_Import_2009"/>
+  </way>
+  <way id="37320156" version="4" timestamp="2010-10-08T03:57:51Z" uid="267601" user="btonkin" changeset="5983039">
+    <nd ref="455752736"/>
+    <nd ref="940963212"/>
+    <nd ref="434951978"/>
+    <nd ref="434951958"/>
+    <nd ref="434951994"/>
+    <nd ref="434951967"/>
+    <nd ref="434951992"/>
+    <nd ref="455765660"/>
+    <nd ref="455765656"/>
+    <tag k="attribution" v="GeoBase®"/>
+    <tag k="geobase:acquisitionTechnique" v="GPS"/>
+    <tag k="geobase:datasetName" v="NRN:British Columbia"/>
+    <tag k="geobase:uuid" v="056a04244cdf11db8123000ea65e52d8"/>
+    <tag k="highway" v="residential"/>
+    <tag k="is_in" v="Victoria,British Columbia"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Central Spur Road"/>
+    <tag k="source" v="Geobase_Import_2009"/>
+  </way>
+  <way id="37320156" version="5" timestamp="2011-11-25T00:37:01Z" uid="307202" user="alester" changeset="9939201">
+    <nd ref="455752736"/>
+    <nd ref="940963212"/>
+    <nd ref="434951978"/>
+    <nd ref="434951958"/>
+    <nd ref="434951994"/>
+    <nd ref="434951967"/>
+    <nd ref="434951992"/>
+    <nd ref="455765660"/>
+    <tag k="attribution" v="GeoBase®"/>
+    <tag k="geobase:acquisitionTechnique" v="GPS"/>
+    <tag k="geobase:datasetName" v="NRN:British Columbia"/>
+    <tag k="geobase:uuid" v="056a04244cdf11db8123000ea65e52d8"/>
+    <tag k="highway" v="residential"/>
+    <tag k="is_in" v="Victoria,British Columbia"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Central Spur Road"/>
+    <tag k="source" v="Geobase_Import_2009"/>
+  </way>
+  <way id="37320156" version="6" timestamp="2012-03-01T22:24:11Z" uid="147510" user="woodpeck_fixbot" changeset="10842511"/>
+  <way id="37320157" version="1" timestamp="2009-07-06T03:04:07Z" uid="38528" user="acrosscanadatrails" changeset="1745292">
+    <nd ref="434951967"/>
+    <nd ref="434951992"/>
+    <tag k="attribution" v="GeoBase®"/>
+    <tag k="geobase:acquisitionTechnique" v="GPS"/>
+    <tag k="geobase:datasetName" v="NRN:British Columbia"/>
+    <tag k="geobase:uuid" v="4db6d61c968311d99c9f000ea65e52d8"/>
+    <tag k="highway" v="residential"/>
+    <tag k="is_in" v="Victoria,British Columbia"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Central Spur"/>
+    <tag k="source" v="Geobase_Import_2009"/>
+  </way>
+  <way id="37320157" version="2" timestamp="2009-08-04T01:58:22Z" uid="38528" user="acrosscanadatrails" changeset="2031362">
+    <nd ref="434951967"/>
+    <nd ref="434951992"/>
+    <nd ref="455765660"/>
+    <nd ref="455765659"/>
+    <tag k="attribution" v="GeoBase®"/>
+    <tag k="geobase:acquisitionTechnique" v="GPS"/>
+    <tag k="geobase:datasetName" v="NRN:British Columbia"/>
+    <tag k="geobase:uuid" v="4db6d61c968311d99c9f000ea65e52d8"/>
+    <tag k="highway" v="residential"/>
+    <tag k="is_in" v="Victoria,British Columbia"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Central Spur"/>
+    <tag k="source" v="Geobase_Import_2009"/>
+  </way>
+  <way id="37320157" version="3" timestamp="2010-02-05T05:12:30Z" uid="143129" user="petersfreeman" changeset="3795752">
+    <nd ref="434951967"/>
+    <nd ref="434951992"/>
+    <nd ref="455765660"/>
+    <nd ref="455765656"/>
+    <tag k="attribution" v="GeoBase®"/>
+    <tag k="geobase:acquisitionTechnique" v="GPS"/>
+    <tag k="geobase:datasetName" v="NRN:British Columbia"/>
+    <tag k="geobase:uuid" v="4db6d61c968311d99c9f000ea65e52d8"/>
+    <tag k="highway" v="residential"/>
+    <tag k="is_in" v="Victoria,British Columbia"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Central Spur"/>
+    <tag k="source" v="Geobase_Import_2009"/>
+  </way>
+  <way id="37320157" version="4" timestamp="2010-08-22T18:30:08Z" uid="307202" user="alester" changeset="5564005"/>
+  <way id="37320158" version="1" timestamp="2009-07-06T03:04:07Z" uid="38528" user="acrosscanadatrails" changeset="1745292">
+    <nd ref="434951991"/>
+    <nd ref="434951985"/>
+    <tag k="attribution" v="GeoBase®"/>
+    <tag k="geobase:acquisitionTechnique" v="GPS"/>
+    <tag k="geobase:datasetName" v="NRN:British Columbia"/>
+    <tag k="geobase:uuid" v="7dac8bc2f51811dc83ba000ea65e52d8"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="is_in" v="Victoria,British Columbia"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Wilson Street"/>
+    <tag k="source" v="Geobase_Import_2009"/>
+  </way>
+  <way id="37320158" version="2" timestamp="2010-02-05T02:29:33Z" uid="143129" user="petersfreeman" changeset="3795360">
+    <nd ref="434951991"/>
+    <nd ref="434951985"/>
+    <nd ref="434951972"/>
+    <nd ref="456345606"/>
+    <tag k="attribution" v="GeoBase®"/>
+    <tag k="geobase:acquisitionTechnique" v="GPS"/>
+    <tag k="geobase:datasetName" v="NRN:British Columbia"/>
+    <tag k="geobase:uuid" v="7dac8bc2f51811dc83ba000ea65e52d8;9bca24b0f51911dc83ba000ea65e52d8"/>
+    <tag k="highway" v="service"/>
+    <tag k="is_in" v="Victoria,British Columbia"/>
+    <tag k="lanes" v="2"/>
+    <tag k="source" v="Geobase_Import_2009"/>
+  </way>
+  <way id="37320158" version="3" timestamp="2010-08-22T18:29:38Z" uid="307202" user="alester" changeset="5564005">
+    <nd ref="434951991"/>
+    <nd ref="434951985"/>
+    <nd ref="874313217"/>
+    <nd ref="434951972"/>
+    <nd ref="456345606"/>
+    <tag k="attribution" v="GeoBase®"/>
+    <tag k="geobase:acquisitionTechnique" v="GPS"/>
+    <tag k="geobase:datasetName" v="NRN:British Columbia"/>
+    <tag k="geobase:uuid" v="7dac8bc2f51811dc83ba000ea65e52d8;9bca24b0f51911dc83ba000ea65e52d8"/>
+    <tag k="highway" v="service"/>
+    <tag k="is_in" v="Victoria,British Columbia"/>
+    <tag k="lanes" v="2"/>
+    <tag k="source" v="Geobase_Import_2009"/>
+  </way>
+  <way id="37320158" version="4" timestamp="2011-11-28T22:31:46Z" uid="307202" user="alester" changeset="9983103">
+    <nd ref="434951991"/>
+    <nd ref="434951985"/>
+    <nd ref="874313217"/>
+    <nd ref="434951972"/>
+    <nd ref="456345606"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="37320158" version="5" timestamp="2012-03-01T22:24:12Z" uid="147510" user="woodpeck_fixbot" changeset="10842511"/>
+  <way id="37320159" version="1" timestamp="2009-07-06T03:04:07Z" uid="38528" user="acrosscanadatrails" changeset="1745292">
+    <nd ref="434951980"/>
+    <nd ref="434951970"/>
+    <nd ref="434951985"/>
+    <tag k="attribution" v="GeoBase®"/>
+    <tag k="geobase:acquisitionTechnique" v="GPS"/>
+    <tag k="geobase:datasetName" v="NRN:British Columbia"/>
+    <tag k="geobase:uuid" v="602fb5f4f51a11dc83ba000ea65e52d8"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="is_in" v="Victoria,British Columbia"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Tyee Road"/>
+    <tag k="source" v="Geobase_Import_2009"/>
+  </way>
+  <way id="37320159" version="2" timestamp="2010-02-05T02:29:34Z" uid="143129" user="petersfreeman" changeset="3795360">
+    <nd ref="434951980"/>
+    <nd ref="434951970"/>
+    <nd ref="434951985"/>
+    <tag k="attribution" v="GeoBase®"/>
+    <tag k="geobase:acquisitionTechnique" v="GPS"/>
+    <tag k="geobase:datasetName" v="NRN:British Columbia"/>
+    <tag k="geobase:uuid" v="602fb5f4f51a11dc83ba000ea65e52d8"/>
+    <tag k="highway" v="service"/>
+    <tag k="is_in" v="Victoria,British Columbia"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Tyee Road"/>
+    <tag k="source" v="Geobase_Import_2009"/>
+  </way>
+  <way id="37320159" version="3" timestamp="2011-11-28T22:31:45Z" uid="307202" user="alester" changeset="9983103">
+    <nd ref="434951980"/>
+    <nd ref="434951970"/>
+    <nd ref="434951985"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="37320159" version="4" timestamp="2012-03-01T22:24:12Z" uid="147510" user="woodpeck_fixbot" changeset="10842511"/>
+  <way id="37320160" version="1" timestamp="2009-07-06T03:04:07Z" uid="38528" user="acrosscanadatrails" changeset="1745292">
+    <nd ref="434951985"/>
+    <nd ref="434951972"/>
+    <tag k="attribution" v="GeoBase®"/>
+    <tag k="geobase:acquisitionTechnique" v="GPS"/>
+    <tag k="geobase:datasetName" v="NRN:British Columbia"/>
+    <tag k="geobase:uuid" v="9bca24b0f51911dc83ba000ea65e52d8"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="is_in" v="Victoria,British Columbia"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Wilson Street"/>
+    <tag k="source" v="Geobase_Import_2009"/>
+  </way>
+  <way id="37320160" version="2" timestamp="2009-08-04T18:58:13Z" uid="38528" user="acrosscanadatrails" changeset="2038851">
+    <nd ref="434951985"/>
+    <nd ref="434951972"/>
+    <nd ref="456345606"/>
+    <tag k="attribution" v="GeoBase®"/>
+    <tag k="geobase:acquisitionTechnique" v="GPS"/>
+    <tag k="geobase:datasetName" v="NRN:British Columbia"/>
+    <tag k="geobase:uuid" v="9bca24b0f51911dc83ba000ea65e52d8"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="is_in" v="Victoria,British Columbia"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Wilson Street"/>
+    <tag k="source" v="Geobase_Import_2009"/>
+  </way>
+  <way id="37320160" version="3" timestamp="2010-02-05T02:30:17Z" uid="143129" user="petersfreeman" changeset="3795360"/>
+  <way id="37320161" version="1" timestamp="2009-07-06T03:04:08Z" uid="38528" user="acrosscanadatrails" changeset="1745292">
+    <nd ref="434951978"/>
+    <nd ref="434951975"/>
+    <nd ref="434951982"/>
+    <tag k="attribution" v="GeoBase®"/>
+    <tag k="geobase:acquisitionTechnique" v="GPS"/>
+    <tag k="geobase:datasetName" v="NRN:British Columbia"/>
+    <tag k="geobase:uuid" v="52e903364cde11db8123000ea65e52d8"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="is_in" v="Victoria,British Columbia"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Central Spur"/>
+    <tag k="source" v="Geobase_Import_2009"/>
+  </way>
+  <way id="37320161" version="2" timestamp="2010-08-22T18:29:34Z" uid="307202" user="alester" changeset="5564005">
+    <nd ref="434951978"/>
+    <nd ref="874313294"/>
+    <nd ref="434951975"/>
+    <nd ref="434951982"/>
+    <tag k="attribution" v="GeoBase®"/>
+    <tag k="geobase:acquisitionTechnique" v="GPS"/>
+    <tag k="geobase:datasetName" v="NRN:British Columbia"/>
+    <tag k="geobase:uuid" v="52e903364cde11db8123000ea65e52d8"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="is_in" v="Victoria,British Columbia"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Central Spur Road"/>
+    <tag k="source" v="Geobase_Import_2009"/>
+  </way>
+  <way id="37320161" version="3" timestamp="2011-11-29T01:24:41Z" uid="307202" user="alester" changeset="9983942">
+    <nd ref="434951978"/>
+    <nd ref="874313294"/>
+    <nd ref="434951975"/>
+    <nd ref="434951982"/>
+    <tag k="attribution" v="GeoBase®"/>
+    <tag k="geobase:acquisitionTechnique" v="GPS"/>
+    <tag k="geobase:datasetName" v="NRN:British Columbia"/>
+    <tag k="geobase:uuid" v="52e903364cde11db8123000ea65e52d8"/>
+    <tag k="highway" v="service"/>
+    <tag k="is_in" v="Victoria,British Columbia"/>
+    <tag k="lanes" v="2"/>
+    <tag k="source" v="Geobase_Import_2009"/>
+  </way>
+  <way id="37320161" version="4" timestamp="2012-03-01T22:24:13Z" uid="147510" user="woodpeck_fixbot" changeset="10842511"/>
+  <way id="37320162" version="1" timestamp="2009-07-06T03:04:08Z" uid="38528" user="acrosscanadatrails" changeset="1745292">
+    <nd ref="434951994"/>
+    <nd ref="434951967"/>
+    <tag k="attribution" v="GeoBase®"/>
+    <tag k="geobase:acquisitionTechnique" v="GPS"/>
+    <tag k="geobase:datasetName" v="NRN:British Columbia"/>
+    <tag k="geobase:uuid" v="4cf0b05e968311d99c9f000ea65e52d8"/>
+    <tag k="highway" v="residential"/>
+    <tag k="is_in" v="Victoria,British Columbia"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Central Spur"/>
+    <tag k="source" v="Geobase_Import_2009"/>
+  </way>
+  <way id="37320162" version="2" timestamp="2010-08-22T18:30:09Z" uid="307202" user="alester" changeset="5564005"/>
+  <way id="37320163" version="1" timestamp="2009-07-06T03:04:08Z" uid="38528" user="acrosscanadatrails" changeset="1745292">
+    <nd ref="434951987"/>
+    <nd ref="434951994"/>
+    <tag k="attribution" v="GeoBase®"/>
+    <tag k="geobase:acquisitionTechnique" v="GPS"/>
+    <tag k="geobase:datasetName" v="NRN:British Columbia"/>
+    <tag k="geobase:uuid" v="7d7076d44cde11db8123000ea65e52d8"/>
+    <tag k="highway" v="residential"/>
+    <tag k="is_in" v="Victoria,British Columbia"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Regatta Landing"/>
+    <tag k="source" v="Geobase_Import_2009"/>
+  </way>
+  <way id="37320163" version="2" timestamp="2010-02-26T03:28:28Z" uid="143129" user="petersfreeman" changeset="3977408">
+    <nd ref="653985928"/>
+    <nd ref="434951994"/>
+    <tag k="attribution" v="GeoBase®"/>
+    <tag k="geobase:acquisitionTechnique" v="GPS"/>
+    <tag k="geobase:datasetName" v="NRN:British Columbia"/>
+    <tag k="geobase:uuid" v="7d7076d44cde11db8123000ea65e52d8"/>
+    <tag k="highway" v="residential"/>
+    <tag k="is_in" v="Victoria,British Columbia"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Regatta Landing"/>
+    <tag k="source" v="Geobase_Import_2009"/>
+  </way>
+  <way id="37320163" version="3" timestamp="2011-11-23T22:41:36Z" uid="307202" user="alester" changeset="9927392"/>
+  <way id="37320164" version="1" timestamp="2009-07-06T03:04:08Z" uid="38528" user="acrosscanadatrails" changeset="1745292">
+    <nd ref="434951994"/>
+    <nd ref="434951954"/>
+    <tag k="attribution" v="GeoBase®"/>
+    <tag k="geobase:acquisitionTechnique" v="GPS"/>
+    <tag k="geobase:datasetName" v="NRN:British Columbia"/>
+    <tag k="geobase:uuid" v="6d8559924cde11db8123000ea65e52d8"/>
+    <tag k="highway" v="residential"/>
+    <tag k="is_in" v="Victoria,British Columbia"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Regatta Landing"/>
+    <tag k="source" v="Geobase_Import_2009"/>
+  </way>
+  <way id="37320164" version="2" timestamp="2011-11-23T22:41:16Z" uid="307202" user="alester" changeset="9927392">
+    <nd ref="653985928"/>
+    <nd ref="434951994"/>
+    <nd ref="434951954"/>
+    <tag k="attribution" v="GeoBase®"/>
+    <tag k="geobase:acquisitionTechnique" v="GPS"/>
+    <tag k="geobase:datasetName" v="NRN:British Columbia"/>
+    <tag k="geobase:uuid" v="6d8559924cde11db8123000ea65e52d8"/>
+    <tag k="highway" v="residential"/>
+    <tag k="is_in" v="Victoria,British Columbia"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Regatta Landing"/>
+    <tag k="source" v="Geobase_Import_2009"/>
+  </way>
+  <way id="37320164" version="3" timestamp="2012-03-01T22:24:13Z" uid="147510" user="woodpeck_fixbot" changeset="10842511"/>
+  <way id="37320165" version="1" timestamp="2009-07-06T03:04:08Z" uid="38528" user="acrosscanadatrails" changeset="1745292">
+    <nd ref="434951999"/>
+    <nd ref="434951988"/>
+    <tag k="attribution" v="GeoBase®"/>
+    <tag k="geobase:acquisitionTechnique" v="GPS"/>
+    <tag k="geobase:datasetName" v="NRN:British Columbia"/>
+    <tag k="geobase:uuid" v="85760c12f51711dc83ba000ea65e52d8"/>
+    <tag k="highway" v="residential"/>
+    <tag k="is_in" v="Victoria,British Columbia"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Sitkum Road"/>
+    <tag k="source" v="Geobase_Import_2009"/>
+  </way>
+  <way id="37320165" version="2" timestamp="2012-01-30T13:16:12Z" uid="147510" user="woodpeck_fixbot" changeset="10538137"/>
+  <way id="37320166" version="1" timestamp="2009-07-06T03:04:08Z" uid="38528" user="acrosscanadatrails" changeset="1745292">
+    <nd ref="434951996"/>
+    <nd ref="434951950"/>
+    <nd ref="434951956"/>
+    <nd ref="434951988"/>
+    <tag k="attribution" v="GeoBase®"/>
+    <tag k="geobase:acquisitionTechnique" v="GPS"/>
+    <tag k="geobase:datasetName" v="NRN:British Columbia"/>
+    <tag k="geobase:uuid" v="98aee88af51711dc83ba000ea65e52d8"/>
+    <tag k="highway" v="residential"/>
+    <tag k="is_in" v="Victoria,British Columbia"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Sitkum Road"/>
+    <tag k="source" v="Geobase_Import_2009"/>
+  </way>
+  <way id="37320166" version="2" timestamp="2010-08-22T18:29:55Z" uid="307202" user="alester" changeset="5564005">
+    <nd ref="434951996"/>
+    <nd ref="434951950"/>
+    <nd ref="434951956"/>
+    <nd ref="874313225"/>
+    <nd ref="434951988"/>
+    <tag k="attribution" v="GeoBase®"/>
+    <tag k="geobase:acquisitionTechnique" v="GPS"/>
+    <tag k="geobase:datasetName" v="NRN:British Columbia"/>
+    <tag k="geobase:uuid" v="98aee88af51711dc83ba000ea65e52d8"/>
+    <tag k="highway" v="residential"/>
+    <tag k="is_in" v="Victoria,British Columbia"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Sitkum Road"/>
+    <tag k="source" v="Geobase_Import_2009"/>
+  </way>
+  <way id="37320166" version="3" timestamp="2011-11-28T23:00:07Z" uid="307202" user="alester" changeset="9983291">
+    <nd ref="434951996"/>
+    <nd ref="434951950"/>
+    <nd ref="434951956"/>
+    <nd ref="1522169579"/>
+    <nd ref="874313225"/>
+    <nd ref="434951988"/>
+    <tag k="attribution" v="GeoBase®"/>
+    <tag k="geobase:acquisitionTechnique" v="GPS"/>
+    <tag k="geobase:datasetName" v="NRN:British Columbia"/>
+    <tag k="geobase:uuid" v="98aee88af51711dc83ba000ea65e52d8"/>
+    <tag k="highway" v="residential"/>
+    <tag k="is_in" v="Victoria,British Columbia"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Sitkum Road"/>
+    <tag k="source" v="Geobase_Import_2009"/>
+  </way>
+  <way id="37320166" version="4" timestamp="2012-03-01T22:24:14Z" uid="147510" user="woodpeck_fixbot" changeset="10842511"/>
+  <way id="37320167" version="1" timestamp="2009-07-06T03:04:08Z" uid="38528" user="acrosscanadatrails" changeset="1745292">
+    <nd ref="434951967"/>
+    <nd ref="434951952"/>
+    <nd ref="434951971"/>
+    <nd ref="434951969"/>
+    <nd ref="434951973"/>
+    <tag k="attribution" v="GeoBase®"/>
+    <tag k="geobase:acquisitionTechnique" v="GPS"/>
+    <tag k="geobase:datasetName" v="NRN:British Columbia"/>
+    <tag k="geobase:uuid" v="19463f8a968311d99c9f000ea65e52d8"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="is_in" v="Victoria,British Columbia"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Central Spur"/>
+    <tag k="source" v="Geobase_Import_2009"/>
+  </way>
+  <way id="37320167" version="2" timestamp="2010-08-22T18:29:28Z" uid="307202" user="alester" changeset="5564005">
+    <nd ref="434951967"/>
+    <nd ref="434951952"/>
+    <nd ref="434951971"/>
+    <nd ref="434951969"/>
+    <nd ref="434951973"/>
+    <tag k="attribution" v="GeoBase®"/>
+    <tag k="geobase:acquisitionTechnique" v="GPS"/>
+    <tag k="geobase:datasetName" v="NRN:British Columbia"/>
+    <tag k="geobase:uuid" v="19463f8a968311d99c9f000ea65e52d8"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="is_in" v="Victoria,British Columbia"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Central Spur Road"/>
+    <tag k="source" v="Geobase_Import_2009"/>
+  </way>
+  <way id="37320167" version="3" timestamp="2011-11-29T01:24:41Z" uid="307202" user="alester" changeset="9983942">
+    <nd ref="434951967"/>
+    <nd ref="434951952"/>
+    <nd ref="434951971"/>
+    <nd ref="434951969"/>
+    <nd ref="434951973"/>
+    <tag k="attribution" v="GeoBase®"/>
+    <tag k="geobase:acquisitionTechnique" v="GPS"/>
+    <tag k="geobase:datasetName" v="NRN:British Columbia"/>
+    <tag k="geobase:uuid" v="19463f8a968311d99c9f000ea65e52d8"/>
+    <tag k="highway" v="service"/>
+    <tag k="is_in" v="Victoria,British Columbia"/>
+    <tag k="lanes" v="2"/>
+    <tag k="source" v="Geobase_Import_2009"/>
+  </way>
+  <way id="37320167" version="4" timestamp="2012-03-01T22:24:18Z" uid="147510" user="woodpeck_fixbot" changeset="10842511"/>
+  <way id="37320168" version="1" timestamp="2009-07-06T03:04:09Z" uid="38528" user="acrosscanadatrails" changeset="1745292">
+    <nd ref="434951980"/>
+    <nd ref="434951955"/>
+    <tag k="attribution" v="GeoBase®"/>
+    <tag k="geobase:acquisitionTechnique" v="GPS"/>
+    <tag k="geobase:datasetName" v="NRN:British Columbia"/>
+    <tag k="geobase:uuid" v="9d345e92f51911dc83ba000ea65e52d8"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="is_in" v="Victoria,British Columbia"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Tyee Road"/>
+    <tag k="source" v="Geobase_Import_2009"/>
+  </way>
+  <way id="37320168" version="2" timestamp="2009-08-04T18:58:13Z" uid="38528" user="acrosscanadatrails" changeset="2038851">
+    <nd ref="434951980"/>
+    <nd ref="456345598"/>
+    <tag k="attribution" v="GeoBase®"/>
+    <tag k="geobase:acquisitionTechnique" v="GPS"/>
+    <tag k="geobase:datasetName" v="NRN:British Columbia"/>
+    <tag k="geobase:uuid" v="9d345e92f51911dc83ba000ea65e52d8"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="is_in" v="Victoria,British Columbia"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Tyee Road"/>
+    <tag k="source" v="Geobase_Import_2009"/>
+  </way>
+  <way id="37320168" version="3" timestamp="2010-02-05T02:29:34Z" uid="143129" user="petersfreeman" changeset="3795360">
+    <nd ref="434951980"/>
+    <nd ref="456345598"/>
+    <tag k="attribution" v="GeoBase®"/>
+    <tag k="geobase:acquisitionTechnique" v="GPS"/>
+    <tag k="geobase:datasetName" v="NRN:British Columbia"/>
+    <tag k="geobase:uuid" v="9d345e92f51911dc83ba000ea65e52d8"/>
+    <tag k="highway" v="service"/>
+    <tag k="is_in" v="Victoria,British Columbia"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Tyee Road"/>
+    <tag k="source" v="Geobase_Import_2009"/>
+  </way>
+  <way id="37320168" version="4" timestamp="2010-08-22T18:29:41Z" uid="307202" user="alester" changeset="5564005">
+    <nd ref="434951980"/>
+    <nd ref="874313200"/>
+    <nd ref="456345598"/>
+    <tag k="attribution" v="GeoBase®"/>
+    <tag k="geobase:acquisitionTechnique" v="GPS"/>
+    <tag k="geobase:datasetName" v="NRN:British Columbia"/>
+    <tag k="geobase:uuid" v="9d345e92f51911dc83ba000ea65e52d8"/>
+    <tag k="highway" v="service"/>
+    <tag k="is_in" v="Victoria,British Columbia"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Tyee Road"/>
+    <tag k="source" v="Geobase_Import_2009"/>
+  </way>
+  <way id="37320168" version="5" timestamp="2011-11-28T22:31:45Z" uid="307202" user="alester" changeset="9983103">
+    <nd ref="434951980"/>
+    <nd ref="874313200"/>
+    <nd ref="456345598"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="37320168" version="6" timestamp="2012-03-01T22:24:19Z" uid="147510" user="woodpeck_fixbot" changeset="10842511"/>
+  <way id="37320169" version="1" timestamp="2009-07-06T03:04:09Z" uid="38528" user="acrosscanadatrails" changeset="1745292">
+    <nd ref="434951961"/>
+    <nd ref="434951998"/>
+    <nd ref="434951976"/>
+    <nd ref="434951959"/>
+    <nd ref="434951999"/>
+    <tag k="attribution" v="GeoBase®"/>
+    <tag k="geobase:acquisitionTechnique" v="GPS"/>
+    <tag k="geobase:datasetName" v="NRN:British Columbia"/>
+    <tag k="geobase:uuid" v="85e805e0f51911dc83ba000ea65e52d8"/>
+    <tag k="highway" v="residential"/>
+    <tag k="is_in" v="Victoria,British Columbia"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Saghalie Road"/>
+    <tag k="source" v="Geobase_Import_2009"/>
+  </way>
+  <way id="37320169" version="2" timestamp="2012-01-30T13:16:12Z" uid="147510" user="woodpeck_fixbot" changeset="10538137"/>
+  <way id="37320170" version="1" timestamp="2009-07-06T03:04:09Z" uid="38528" user="acrosscanadatrails" changeset="1745292">
+    <nd ref="434951965"/>
+    <nd ref="434951983"/>
+    <nd ref="434951990"/>
+    <nd ref="434951999"/>
+    <tag k="attribution" v="GeoBase®"/>
+    <tag k="geobase:acquisitionTechnique" v="GPS"/>
+    <tag k="geobase:datasetName" v="NRN:British Columbia"/>
+    <tag k="geobase:uuid" v="fdf75d92f51911dc83ba000ea65e52d8"/>
+    <tag k="highway" v="residential"/>
+    <tag k="is_in" v="Victoria,British Columbia"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Sitkum Road"/>
+    <tag k="source" v="Geobase_Import_2009"/>
+  </way>
+  <way id="37320170" version="2" timestamp="2009-10-11T04:58:55Z" uid="184217" user="Anansi" changeset="2810026">
+    <nd ref="520395490"/>
+    <nd ref="434951965"/>
+    <nd ref="434951983"/>
+    <nd ref="434951990"/>
+    <nd ref="434951999"/>
+    <tag k="attribution" v="GeoBase®"/>
+    <tag k="geobase:acquisitionTechnique" v="GPS"/>
+    <tag k="geobase:datasetName" v="NRN:British Columbia"/>
+    <tag k="geobase:uuid" v="fdf75d92f51911dc83ba000ea65e52d8"/>
+    <tag k="highway" v="residential"/>
+    <tag k="is_in" v="Victoria,British Columbia"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Sitkum Road"/>
+    <tag k="source" v="Geobase_Import_2009"/>
+  </way>
+  <way id="37320170" version="3" timestamp="2010-08-22T18:29:29Z" uid="307202" user="alester" changeset="5564005">
+    <nd ref="520395490"/>
+    <nd ref="874313265"/>
+    <nd ref="434951965"/>
+    <nd ref="434951983"/>
+    <nd ref="434951990"/>
+    <nd ref="434951999"/>
+    <tag k="attribution" v="GeoBase®"/>
+    <tag k="geobase:acquisitionTechnique" v="GPS"/>
+    <tag k="geobase:datasetName" v="NRN:British Columbia"/>
+    <tag k="geobase:uuid" v="fdf75d92f51911dc83ba000ea65e52d8"/>
+    <tag k="highway" v="residential"/>
+    <tag k="is_in" v="Victoria,British Columbia"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Sitkum Road"/>
+    <tag k="source" v="Geobase_Import_2009"/>
+  </way>
+  <way id="37320170" version="4" timestamp="2011-11-24T23:05:55Z" uid="307202" user="alester" changeset="9938631">
+    <nd ref="520395490"/>
+    <nd ref="874313265"/>
+    <nd ref="434951965"/>
+    <nd ref="434951983"/>
+    <nd ref="434951990"/>
+    <nd ref="1516002480"/>
+    <nd ref="434951999"/>
+    <tag k="attribution" v="GeoBase®"/>
+    <tag k="geobase:acquisitionTechnique" v="GPS"/>
+    <tag k="geobase:datasetName" v="NRN:British Columbia"/>
+    <tag k="geobase:uuid" v="fdf75d92f51911dc83ba000ea65e52d8"/>
+    <tag k="highway" v="residential"/>
+    <tag k="is_in" v="Victoria,British Columbia"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Sitkum Road"/>
+    <tag k="source" v="Geobase_Import_2009"/>
+  </way>
+  <way id="37320170" version="5" timestamp="2012-01-30T21:14:48Z" uid="492807" user="mattropolis" changeset="10543936">
+    <nd ref="520395490"/>
+    <nd ref="874313265"/>
+    <nd ref="1612243967"/>
+    <nd ref="434951965"/>
+    <nd ref="434951983"/>
+    <nd ref="434951990"/>
+    <nd ref="1516002480"/>
+    <nd ref="434951999"/>
+    <tag k="attribution" v="GeoBase®"/>
+    <tag k="geobase:acquisitionTechnique" v="GPS"/>
+    <tag k="geobase:datasetName" v="NRN:British Columbia"/>
+    <tag k="geobase:uuid" v="fdf75d92f51911dc83ba000ea65e52d8"/>
+    <tag k="highway" v="residential"/>
+    <tag k="is_in" v="Victoria,British Columbia"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Sitkum Road"/>
+    <tag k="source" v="Geobase_Import_2009"/>
+  </way>
+  <way id="37320170" version="6" timestamp="2012-03-01T22:24:20Z" uid="147510" user="woodpeck_fixbot" changeset="10842511"/>
+  <way id="37320179" version="1" timestamp="2009-07-06T03:05:21Z" uid="4467" user="Rosscoe" changeset="1745294">
+    <nd ref="434952239"/>
+    <nd ref="434952240"/>
+    <nd ref="434952241"/>
+    <nd ref="434952242"/>
+    <nd ref="434952239"/>
+    <tag k="leisure" v="golf_course"/>
+    <tag k="source" v="landsat"/>
+    <tag k="sport" v="golf"/>
+  </way>
+  <way id="37320180" version="5" timestamp="2011-02-24T06:25:24Z" uid="4467" user="Rosscoe" changeset="7378898">
+    <nd ref="434952243"/>
+    <nd ref="434952270"/>
+    <nd ref="434952254"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="37320196" version="2" timestamp="2010-07-09T05:03:43Z" uid="74617" user="JohnSmith" changeset="5170986">
+    <nd ref="245092732"/>
+    <nd ref="316394161"/>
+    <nd ref="316394123"/>
+    <nd ref="30859263"/>
+    <nd ref="316394170"/>
+    <nd ref="316394488"/>
+    <nd ref="316394234"/>
+    <nd ref="245092733"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Stevens Road"/>
+  </way>
+  <way id="37320196" version="3" timestamp="2012-01-19T01:04:43Z" uid="147510" user="woodpeck_fixbot" changeset="10432847">
+    <nd ref="245092732"/>
+    <nd ref="316394161"/>
+    <nd ref="316394123"/>
+    <nd ref="30859263"/>
+    <nd ref="316394170"/>
+    <nd ref="316394488"/>
+    <nd ref="316394234"/>
+    <nd ref="245092733"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Stevens Road"/>
+  </way>
+  <way id="37320210" version="3" timestamp="2011-02-24T06:25:37Z" uid="4467" user="Rosscoe" changeset="7378898">
+    <nd ref="434952676"/>
+    <nd ref="1169463372"/>
+    <nd ref="1169463352"/>
+    <nd ref="1169463379"/>
+    <nd ref="434952676"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="37320216" version="3" timestamp="2010-04-04T01:14:19Z" uid="20587" user="balrog-kun" changeset="4318136">
+    <nd ref="434952798"/>
+    <nd ref="434952806"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Whirlwind Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="El Paso, CO"/>
+    <tag k="tiger:name_base" v="Whirlwind"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="105549951:105549952:105549965:105549966:105549962:105569878:105549955:105547368"/>
+    <tag k="tiger:zip_left" v="80918"/>
+    <tag k="tiger:zip_right" v="80918"/>
+  </way>
+  <way id="37320217" version="3" timestamp="2010-04-04T01:14:19Z" uid="20587" user="balrog-kun" changeset="4318136">
+    <nd ref="434952807"/>
+    <nd ref="434952808"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Whirlwind Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="El Paso, CO"/>
+    <tag k="tiger:name_base" v="Whirlwind"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="105549951:105549952:105549965:105549966:105549962:105569878:105549955:105547368"/>
+    <tag k="tiger:zip_left" v="80918"/>
+    <tag k="tiger:zip_right" v="80918"/>
+  </way>
+  <way id="37320357" version="9" timestamp="2010-04-04T01:14:20Z" uid="20587" user="balrog-kun" changeset="4318136">
+    <nd ref="434954702"/>
+    <nd ref="434954703"/>
+    <nd ref="434954704"/>
+    <nd ref="434954701"/>
+    <nd ref="434954697"/>
+    <nd ref="434954696"/>
+    <nd ref="434954758"/>
+    <nd ref="434954757"/>
+    <nd ref="491418915"/>
+    <nd ref="434954753"/>
+    <nd ref="491412132"/>
+    <nd ref="434954756"/>
+    <nd ref="491412077"/>
+    <nd ref="491412261"/>
+    <nd ref="434954752"/>
+    <nd ref="434954751"/>
+    <nd ref="434954750"/>
+    <nd ref="434954745"/>
+    <nd ref="434954749"/>
+    <nd ref="434954748"/>
+    <nd ref="434954747"/>
+    <nd ref="491407873"/>
+    <nd ref="434954746"/>
+    <nd ref="434954744"/>
+    <nd ref="434954754"/>
+    <nd ref="595869723"/>
+    <nd ref="592836320"/>
+    <nd ref="434954755"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="West Littleton Boulevard"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="37320357" version="10" timestamp="2011-02-08T15:32:10Z" uid="139555" user="DavidJDBA" changeset="7227626">
+    <nd ref="434954702"/>
+    <nd ref="434954703"/>
+    <nd ref="434954704"/>
+    <nd ref="434954701"/>
+    <nd ref="434954697"/>
+    <nd ref="434954696"/>
+    <nd ref="434954758"/>
+    <nd ref="1142173696"/>
+    <nd ref="1142173690"/>
+    <nd ref="434954757"/>
+    <nd ref="491418915"/>
+    <nd ref="434954753"/>
+    <nd ref="491412132"/>
+    <nd ref="434954756"/>
+    <nd ref="491412077"/>
+    <nd ref="491412261"/>
+    <nd ref="434954752"/>
+    <nd ref="434954751"/>
+    <nd ref="434954750"/>
+    <nd ref="434954745"/>
+    <nd ref="434954749"/>
+    <nd ref="434954748"/>
+    <nd ref="434954747"/>
+    <nd ref="491407873"/>
+    <nd ref="434954746"/>
+    <nd ref="434954744"/>
+    <nd ref="434954754"/>
+    <nd ref="595869723"/>
+    <nd ref="592836320"/>
+    <nd ref="434954755"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="West Littleton Boulevard"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="37320357" version="11" timestamp="2011-03-28T19:26:20Z" uid="207745" user="NE2" changeset="7699216">
+    <nd ref="434954702"/>
+    <nd ref="434954703"/>
+    <nd ref="434954704"/>
+    <nd ref="434954701"/>
+    <nd ref="434954697"/>
+    <nd ref="434954696"/>
+    <nd ref="434954758"/>
+    <nd ref="1142173696"/>
+    <nd ref="1142173690"/>
+    <nd ref="434954757"/>
+    <nd ref="491418915"/>
+    <nd ref="434954753"/>
+    <nd ref="491412132"/>
+    <nd ref="434954756"/>
+    <nd ref="491412077"/>
+    <nd ref="491412261"/>
+    <nd ref="434954752"/>
+    <nd ref="434954751"/>
+    <nd ref="434954750"/>
+    <nd ref="434954745"/>
+    <nd ref="434954749"/>
+    <nd ref="434954748"/>
+    <nd ref="434954747"/>
+    <nd ref="491407873"/>
+    <nd ref="434954746"/>
+    <nd ref="434954744"/>
+    <nd ref="434954754"/>
+    <nd ref="595869723"/>
+    <nd ref="592836320"/>
+    <nd ref="434954755"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="West Littleton Boulevard"/>
+    <tag k="old_ref" v="SH 75"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="37320383" version="1" timestamp="2009-07-06T03:31:49Z" uid="74617" user="JohnSmith" changeset="1745329">
+    <nd ref="434953922"/>
+    <nd ref="434955533"/>
+    <nd ref="434955534"/>
+    <nd ref="434955535"/>
+    <nd ref="434955536"/>
+    <nd ref="416374086"/>
+    <tag k="highway" v="footway"/>
+    <tag k="name" v="Boulder Mount Hiking Trail"/>
+    <tag k="note" v="Approx. 1.6km each way, VERY VERY steep in places"/>
+    <tag k="source" v="extrapolation"/>
+  </way>
+  <way id="37320436" version="3" timestamp="2010-04-04T01:14:21Z" uid="20587" user="balrog-kun" changeset="4318136">
+    <nd ref="176050787"/>
+    <nd ref="176050788"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="-1"/>
+    <tag k="name" v="Washington Street"/>
+    <tag k="tiger:cfcc" v="A45"/>
+    <tag k="tiger:county" v="Adams, CO"/>
+    <tag k="tiger:name_base" v="Washington"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="177448464:177448470:177448471:177448439:177442225:177442226:177411790:177411791:177441101:177441102:177291533:177403974:177295306:177295329:177366948:177411733:177295330:177295331:177462333:177441121:177441123:177295340:177295542:177295543:177295551:17729"/>
+    <tag k="tiger:zip_left" v="80241"/>
+  </way>
+  <way id="37320436" version="4" timestamp="2010-04-27T23:19:28Z" uid="207745" user="NE2" changeset="4545858">
+    <nd ref="176050787"/>
+    <nd ref="176050788"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Washington Street"/>
+    <tag k="tiger:cfcc" v="A45"/>
+    <tag k="tiger:county" v="Adams, CO"/>
+    <tag k="tiger:name_base" v="Washington"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="177448464:177448470:177448471:177448439:177442225:177442226:177411790:177411791:177441101:177441102:177291533:177403974:177295306:177295329:177366948:177411733:177295330:177295331:177462333:177441121:177441123:177295340:177295542:177295543:177295551:17729"/>
+    <tag k="tiger:zip_left" v="80241"/>
+  </way>
+  <way id="37320437" version="8" timestamp="2010-04-04T01:14:21Z" uid="20587" user="balrog-kun" changeset="4318136">
+    <nd ref="176050788"/>
+    <nd ref="176035234"/>
+    <nd ref="176050790"/>
+    <nd ref="175977554"/>
+    <nd ref="175997837"/>
+    <nd ref="175932233"/>
+    <nd ref="176050792"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Washington Street"/>
+    <tag k="tiger:cfcc" v="A45"/>
+    <tag k="tiger:county" v="Adams, CO"/>
+    <tag k="tiger:name_base" v="Washington"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="177453368:177453372:177452715:177453387:177452707:177463082:177452708"/>
+    <tag k="tiger:zip_left" v="80241"/>
+  </way>
+  <way id="37320462" version="4" timestamp="2010-04-04T01:14:21Z" uid="20587" user="balrog-kun" changeset="4318136">
+    <nd ref="55779546"/>
+    <nd ref="416113314"/>
+    <nd ref="555933697"/>
+    <nd ref="555933709"/>
+    <nd ref="55825406"/>
+    <nd ref="55849714"/>
+    <nd ref="416113315"/>
+    <nd ref="555933749"/>
+    <nd ref="416113316"/>
+    <nd ref="416113317"/>
+    <nd ref="416113318"/>
+    <nd ref="55849716"/>
+    <nd ref="55849718"/>
+    <nd ref="55845674"/>
+    <nd ref="55754453"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Lemonwood Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="El Paso, CO"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="105562508:105562509:105510018"/>
+    <tag k="tiger:zip_left" v="80918"/>
+    <tag k="tiger:zip_right" v="80918"/>
+  </way>
+  <way id="37320462" version="5" timestamp="2011-02-10T19:13:36Z" uid="207745" user="NE2" changeset="7248075">
+    <nd ref="55779546"/>
+    <nd ref="416113314"/>
+    <nd ref="555933697"/>
+    <nd ref="555933709"/>
+    <nd ref="55825406"/>
+    <nd ref="55849714"/>
+    <nd ref="416113315"/>
+    <nd ref="555933749"/>
+    <nd ref="416113316"/>
+    <nd ref="416113317"/>
+    <nd ref="416113318"/>
+    <nd ref="55849716"/>
+    <nd ref="55849718"/>
+    <nd ref="55845674"/>
+    <nd ref="55754453"/>
+    <nd ref="1145726605"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Lemonwood Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="El Paso, CO"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="105562508:105562509:105510018"/>
+    <tag k="tiger:zip_left" v="80918"/>
+    <tag k="tiger:zip_right" v="80918"/>
+  </way>
+  <way id="37320487" version="5" timestamp="2011-02-24T06:25:29Z" uid="4467" user="Rosscoe" changeset="7378898">
+    <nd ref="434959947"/>
+    <nd ref="434951145"/>
+    <nd ref="434951144"/>
+    <nd ref="434951143"/>
+    <nd ref="434951142"/>
+    <nd ref="434951141"/>
+    <nd ref="434951140"/>
+    <nd ref="434951139"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Brentford Square"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="37320488" version="5" timestamp="2011-02-24T06:25:38Z" uid="4467" user="Rosscoe" changeset="7378898"/>
+  <way id="37320489" version="2" timestamp="2010-03-28T02:28:09Z" uid="20587" user="balrog-kun" changeset="4250871">
+    <nd ref="122716703"/>
+    <nd ref="122716714"/>
+    <nd ref="320822689"/>
+    <nd ref="122716717"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Vail Avenue"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Los Angeles, CA"/>
+    <tag k="tiger:name_base" v="Vail"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="141662712:141662717:141662718:141662721:141662722:141662724:141662804:141662806:141662809:141662811:141662813:141662815:141662817:141662819:141662726:141662852:141662854"/>
+    <tag k="tiger:zip_left" v="90278"/>
+    <tag k="tiger:zip_right" v="90278"/>
+  </way>
+  <way id="37320493" version="2" timestamp="2010-07-08T03:37:07Z" uid="74617" user="JohnSmith" changeset="5163091">
+    <nd ref="271887892"/>
+    <nd ref="271887893"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Edwin Street"/>
+  </way>
+  <way id="37320493" version="3" timestamp="2012-01-19T01:04:44Z" uid="147510" user="woodpeck_fixbot" changeset="10432847">
+    <nd ref="271887892"/>
+    <nd ref="271887893"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Edwin Street"/>
+  </way>
+  <way id="37320494" version="3" timestamp="2010-07-08T03:38:35Z" uid="74617" user="JohnSmith" changeset="5163091">
+    <nd ref="271889191"/>
+    <nd ref="271889192"/>
+    <nd ref="271889193"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Middlesex Avenue"/>
+  </way>
+  <way id="37320494" version="4" timestamp="2012-01-19T01:04:46Z" uid="147510" user="woodpeck_fixbot" changeset="10432847">
+    <nd ref="271889191"/>
+    <nd ref="271889192"/>
+    <nd ref="271889193"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Middlesex Avenue"/>
+  </way>
+  <way id="37320496" version="2" timestamp="2010-07-08T03:40:33Z" uid="74617" user="JohnSmith" changeset="5163091">
+    <nd ref="271889193"/>
+    <nd ref="271889194"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Suffolk Street"/>
+  </way>
+  <way id="37320496" version="3" timestamp="2012-01-19T01:04:47Z" uid="147510" user="woodpeck_fixbot" changeset="10432847">
+    <nd ref="271889193"/>
+    <nd ref="271889194"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Suffolk Street"/>
+  </way>
+  <way id="37320505" version="3" timestamp="2011-02-24T06:25:23Z" uid="4467" user="Rosscoe" changeset="7378898">
+    <nd ref="434959947"/>
+    <nd ref="434950866"/>
+    <nd ref="434960832"/>
+    <nd ref="434967510"/>
+    <nd ref="434961121"/>
+    <nd ref="434966269"/>
+    <nd ref="434961277"/>
+    <nd ref="434950867"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Brentford Square"/>
+  </way>
+  <way id="37320508" version="2" timestamp="2010-04-02T17:39:44Z" uid="20587" user="balrog-kun" changeset="4304500">
+    <nd ref="313422840"/>
+    <nd ref="434965489"/>
+    <nd ref="434965491"/>
+    <nd ref="434965478"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Broadway  East"/>
+  </way>
+  <way id="37320512" version="4" timestamp="2010-03-28T02:28:10Z" uid="20587" user="balrog-kun" changeset="4250871">
+    <nd ref="122716703"/>
+    <nd ref="320822681"/>
+    <nd ref="320822683"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Dufour Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Los Angeles, CA"/>
+    <tag k="tiger:name_base" v="Dufour"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="141582865:141662686:141662692:141662694"/>
+    <tag k="tiger:zip_left" v="90278"/>
+    <tag k="tiger:zip_right" v="90278"/>
+  </way>
+  <way id="37320512" version="5" timestamp="2011-06-05T20:58:58Z" uid="131193" user="bhami" changeset="8354388">
+    <nd ref="122716703"/>
+    <nd ref="320822681"/>
+    <nd ref="320822683"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="White Circle"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Los Angeles, CA"/>
+    <tag k="tiger:name_base" v="Dufour"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="141582865:141662686:141662692:141662694"/>
+    <tag k="tiger:zip_left" v="90278"/>
+    <tag k="tiger:zip_right" v="90278"/>
+  </way>
+  <way id="37320517" version="1" timestamp="2009-07-06T03:51:21Z" uid="61114" user="Trav" changeset="1745380">
+    <nd ref="164031462"/>
+    <nd ref="164028445"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Bangalley Way"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="37320517" version="2" timestamp="2010-01-19T13:40:06Z" uid="12203" user="brainwad" changeset="3658872">
+    <nd ref="164031462"/>
+    <nd ref="164028445"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Bangalley Way"/>
+    <tag k="source:maxspeed" v="state_limit"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="37320518" version="4" timestamp="2010-03-28T02:28:10Z" uid="20587" user="balrog-kun" changeset="4250871">
+    <nd ref="123536322"/>
+    <nd ref="434966790"/>
+    <nd ref="122650737"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Phelan Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Los Angeles, CA"/>
+    <tag k="tiger:name_base" v="Phelan"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="141662874:141662875:141662878:141662888:141662890:141662892:141662915:141662917:141662919:141662929:141662931:141662933:141662936:141662894:141663383:141663385:141663387"/>
+    <tag k="tiger:zip_left" v="90278"/>
+    <tag k="tiger:zip_right" v="90278"/>
+  </way>
+  <way id="37320519" version="6" timestamp="2011-02-24T06:25:36Z" uid="4467" user="Rosscoe" changeset="7378898">
+    <nd ref="434950862"/>
+    <nd ref="434966295"/>
+    <nd ref="436063433"/>
+    <nd ref="434967227"/>
+    <nd ref="434967225"/>
+    <nd ref="434966298"/>
+    <nd ref="434966267"/>
+    <tag k="highway" v="service"/>
+    <tag k="service" v="parking_aisle"/>
+  </way>
+  <way id="37320524" version="1" timestamp="2009-07-06T03:51:43Z" uid="61114" user="Trav" changeset="1745380">
+    <nd ref="164031911"/>
+    <nd ref="164030656"/>
+    <nd ref="164042101"/>
+    <nd ref="164040354"/>
+    <nd ref="164031809"/>
+    <nd ref="164048412"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Cannes Drive"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="37320524" version="2" timestamp="2010-07-07T23:25:56Z" uid="74617" user="JohnSmith" changeset="5162525">
+    <nd ref="164031911"/>
+    <nd ref="164030656"/>
+    <nd ref="164042101"/>
+    <nd ref="164040354"/>
+    <nd ref="164031809"/>
+    <nd ref="164048412"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Cannes Drive"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="37320524" version="3" timestamp="2012-01-19T01:04:48Z" uid="147510" user="woodpeck_fixbot" changeset="10432847">
+    <nd ref="164031911"/>
+    <nd ref="164030656"/>
+    <nd ref="164042101"/>
+    <nd ref="164040354"/>
+    <nd ref="164031809"/>
+    <nd ref="164048412"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Cannes Drive"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="37320525" version="1" timestamp="2009-07-06T03:51:44Z" uid="61114" user="Trav" changeset="1745380">
+    <nd ref="164048412"/>
+    <nd ref="164049474"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Net Road"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="37320525" version="2" timestamp="2010-07-07T23:27:35Z" uid="74617" user="JohnSmith" changeset="5162525">
+    <nd ref="164048412"/>
+    <nd ref="164049474"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Net Road"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="37320525" version="3" timestamp="2012-01-19T01:04:49Z" uid="147510" user="woodpeck_fixbot" changeset="10432847">
+    <nd ref="164048412"/>
+    <nd ref="164049474"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Net Road"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="37320528" version="1" timestamp="2009-07-06T03:51:49Z" uid="61114" user="Trav" changeset="1745380">
+    <nd ref="164029390"/>
+    <nd ref="164036404"/>
+    <nd ref="164042203"/>
+    <nd ref="164031189"/>
+    <nd ref="164049802"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Shore Brace"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="37320528" version="2" timestamp="2010-07-07T23:26:26Z" uid="74617" user="JohnSmith" changeset="5162525">
+    <nd ref="164029390"/>
+    <nd ref="164036404"/>
+    <nd ref="164042203"/>
+    <nd ref="164031189"/>
+    <nd ref="164049802"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Shore Brace"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="37320528" version="3" timestamp="2012-01-19T01:04:50Z" uid="147510" user="woodpeck_fixbot" changeset="10432847">
+    <nd ref="164029390"/>
+    <nd ref="164036404"/>
+    <nd ref="164042203"/>
+    <nd ref="164031189"/>
+    <nd ref="164049802"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Shore Brace"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="37320531" version="5" timestamp="2010-04-04T01:14:22Z" uid="20587" user="balrog-kun" changeset="4318136">
+    <nd ref="434967169"/>
+    <nd ref="434967170"/>
+    <nd ref="603459758"/>
+    <nd ref="293307541"/>
+    <nd ref="293307542"/>
+    <nd ref="293307544"/>
+    <nd ref="293307545"/>
+    <nd ref="293307546"/>
+    <nd ref="434967171"/>
+    <nd ref="293307548"/>
+    <nd ref="293307549"/>
+    <nd ref="293307551"/>
+    <nd ref="434967172"/>
+    <nd ref="293307552"/>
+    <nd ref="293307554"/>
+    <nd ref="293307555"/>
+    <nd ref="293307556"/>
+    <nd ref="293307558"/>
+    <nd ref="293307559"/>
+    <nd ref="293307562"/>
+    <nd ref="293307563"/>
+    <nd ref="293307564"/>
+    <nd ref="293307566"/>
+    <nd ref="293307567"/>
+    <nd ref="293307568"/>
+    <nd ref="293307569"/>
+    <nd ref="293307571"/>
+    <nd ref="293307572"/>
+    <nd ref="293307574"/>
+    <nd ref="293307575"/>
+    <nd ref="569833821"/>
+    <tag k="highway" v="cycleway"/>
+    <tag k="name" v="Little Dry Creek Trail"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="37320532" version="5" timestamp="2010-03-28T02:28:10Z" uid="20587" user="balrog-kun" changeset="4250871">
+    <nd ref="320822683"/>
+    <nd ref="123536322"/>
+    <tag k="highway" v="cycleway"/>
+    <tag k="name" v="Dufour Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Los Angeles, CA"/>
+    <tag k="tiger:name_base" v="Dufour"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="141582865:141662686:141662692:141662694"/>
+    <tag k="tiger:zip_left" v="90278"/>
+    <tag k="tiger:zip_right" v="90278"/>
+  </way>
+  <way id="37320533" version="2" timestamp="2010-04-04T01:14:22Z" uid="20587" user="balrog-kun" changeset="4318136">
+    <nd ref="434967111"/>
+    <nd ref="434967180"/>
+    <nd ref="434967181"/>
+    <nd ref="434967183"/>
+    <tag k="highway" v="cycleway"/>
+    <tag k="name" v="Little Dry Creek Trail"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="37320533" version="3" timestamp="2010-11-22T06:38:15Z" uid="117055" user="GPS_dr" changeset="6429106">
+    <nd ref="434967111"/>
+    <nd ref="434967180"/>
+    <nd ref="999080827"/>
+    <nd ref="434967181"/>
+    <nd ref="434967183"/>
+    <tag k="highway" v="cycleway"/>
+    <tag k="name" v="Little Dry Creek Trail"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="37320535" version="2" timestamp="2010-04-04T01:14:22Z" uid="20587" user="balrog-kun" changeset="4318136">
+    <nd ref="434967187"/>
+    <nd ref="434967188"/>
+    <tag k="highway" v="cycleway"/>
+    <tag k="name" v="Little Dry Creek Trail"/>
+    <tag k="surface" v="paved"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="37320536" version="3" timestamp="2010-04-04T01:14:23Z" uid="20587" user="balrog-kun" changeset="4318136">
+    <nd ref="434967188"/>
+    <nd ref="434967189"/>
+    <nd ref="434967190"/>
+    <nd ref="569833915"/>
+    <tag k="highway" v="cycleway"/>
+    <tag k="name" v="Little Dry Creek Trail"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="37320537" version="2" timestamp="2010-04-04T01:14:23Z" uid="20587" user="balrog-kun" changeset="4318136">
+    <nd ref="434967191"/>
+    <nd ref="434967192"/>
+    <nd ref="434967193"/>
+    <nd ref="434967194"/>
+    <nd ref="434967187"/>
+    <tag k="highway" v="cycleway"/>
+    <tag k="name" v="Little Dry Creek Trail"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="37320538" version="2" timestamp="2010-04-04T01:14:23Z" uid="20587" user="balrog-kun" changeset="4318136">
+    <nd ref="434967183"/>
+    <nd ref="434967191"/>
+    <tag k="highway" v="cycleway"/>
+    <tag k="layer" v="-1"/>
+    <tag k="name" v="Little Dry Creek Trail"/>
+    <tag k="surface" v="paved"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="37320541" version="1" timestamp="2009-07-06T03:52:09Z" uid="61114" user="Trav" changeset="1745380">
+    <nd ref="164034129"/>
+    <nd ref="164031526"/>
+    <nd ref="164034000"/>
+    <nd ref="164049569"/>
+    <nd ref="164033037"/>
+    <nd ref="164033376"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Park Avenue"/>
+    <tag k="note" v="FIXME: should be dual carriage way"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="37320541" version="2" timestamp="2010-07-07T23:24:45Z" uid="74617" user="JohnSmith" changeset="5162525">
+    <nd ref="164034129"/>
+    <nd ref="164031526"/>
+    <nd ref="164034000"/>
+    <nd ref="164049569"/>
+    <nd ref="164033037"/>
+    <nd ref="164033376"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Park Avenue"/>
+    <tag k="note" v="FIXME: should be dual carriage way"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="37320541" version="3" timestamp="2012-01-19T01:04:51Z" uid="147510" user="woodpeck_fixbot" changeset="10432847">
+    <nd ref="164034129"/>
+    <nd ref="164031526"/>
+    <nd ref="164034000"/>
+    <nd ref="164049569"/>
+    <nd ref="164033037"/>
+    <nd ref="164033376"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Park Avenue"/>
+    <tag k="note" v="FIXME: should be dual carriage way"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="37320542" version="1" timestamp="2009-07-06T03:52:10Z" uid="61114" user="Trav" changeset="1745380">
+    <nd ref="161592260"/>
+    <nd ref="161582581"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Avalon Parade"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="37320542" version="2" timestamp="2010-03-05T22:44:39Z" uid="7617" user="Franc" changeset="4045569">
+    <nd ref="161592260"/>
+    <nd ref="660861863"/>
+    <nd ref="161582581"/>
+    <nd ref="660861831"/>
+    <nd ref="246010393"/>
+    <nd ref="161570308"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Avalon Parade"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="37320542" version="3" timestamp="2010-07-07T23:27:19Z" uid="74617" user="JohnSmith" changeset="5162525">
+    <nd ref="161592260"/>
+    <nd ref="660861863"/>
+    <nd ref="161582581"/>
+    <nd ref="660861831"/>
+    <nd ref="246010393"/>
+    <nd ref="161570308"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Avalon Parade"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="37320542" version="4" timestamp="2012-01-19T01:04:53Z" uid="147510" user="woodpeck_fixbot" changeset="10432847">
+    <nd ref="161592260"/>
+    <nd ref="660861863"/>
+    <nd ref="161582581"/>
+    <nd ref="660861831"/>
+    <nd ref="246010393"/>
+    <nd ref="161570308"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Avalon Parade"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="37320543" version="1" timestamp="2009-07-06T03:52:16Z" uid="61114" user="Trav" changeset="1745380">
+    <nd ref="122944580"/>
+    <nd ref="122944582"/>
+    <nd ref="122944584"/>
+    <nd ref="122944585"/>
+    <nd ref="122944587"/>
+    <nd ref="122944588"/>
+    <nd ref="122944590"/>
+    <nd ref="122944591"/>
+    <nd ref="122944592"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="The Esplanade"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="37320544" version="1" timestamp="2009-07-06T03:52:21Z" uid="61114" user="Trav" changeset="1745380">
+    <nd ref="434967195"/>
+    <nd ref="434967196"/>
+    <nd ref="434967197"/>
+    <nd ref="124835846"/>
+    <nd ref="124835844"/>
+    <nd ref="124835843"/>
+    <nd ref="124835841"/>
+    <nd ref="124835840"/>
+    <nd ref="124835839"/>
+    <nd ref="124835837"/>
+    <nd ref="124835836"/>
+    <nd ref="124835835"/>
+    <nd ref="124835834"/>
+    <nd ref="124835833"/>
+    <nd ref="124835831"/>
+    <nd ref="124835830"/>
+    <nd ref="124835829"/>
+    <nd ref="124828852"/>
+    <nd ref="124828850"/>
+    <nd ref="124828848"/>
+    <nd ref="124828846"/>
+    <nd ref="124828313"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Lindley Avenue"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="37320544" version="2" timestamp="2010-07-07T23:35:40Z" uid="74617" user="JohnSmith" changeset="5162525">
+    <nd ref="434967195"/>
+    <nd ref="434967196"/>
+    <nd ref="434967197"/>
+    <nd ref="124835846"/>
+    <nd ref="124835844"/>
+    <nd ref="124835843"/>
+    <nd ref="124835841"/>
+    <nd ref="124835840"/>
+    <nd ref="124835839"/>
+    <nd ref="124835837"/>
+    <nd ref="124835836"/>
+    <nd ref="124835835"/>
+    <nd ref="124835834"/>
+    <nd ref="124835833"/>
+    <nd ref="124835831"/>
+    <nd ref="124835830"/>
+    <nd ref="124835829"/>
+    <nd ref="124828852"/>
+    <nd ref="124828850"/>
+    <nd ref="124828848"/>
+    <nd ref="124828846"/>
+    <nd ref="124828313"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Lindley Avenue"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="37320544" version="3" timestamp="2012-01-19T01:04:54Z" uid="147510" user="woodpeck_fixbot" changeset="10432847">
+    <nd ref="434967195"/>
+    <nd ref="434967196"/>
+    <nd ref="434967197"/>
+    <nd ref="124835846"/>
+    <nd ref="124835844"/>
+    <nd ref="124835843"/>
+    <nd ref="124835841"/>
+    <nd ref="124835840"/>
+    <nd ref="124835839"/>
+    <nd ref="124835837"/>
+    <nd ref="124835836"/>
+    <nd ref="124835835"/>
+    <nd ref="124835834"/>
+    <nd ref="124835833"/>
+    <nd ref="124835831"/>
+    <nd ref="124835830"/>
+    <nd ref="124835829"/>
+    <nd ref="124828852"/>
+    <nd ref="124828850"/>
+    <nd ref="124828848"/>
+    <nd ref="124828846"/>
+    <nd ref="124828313"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Lindley Avenue"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="37320545" version="1" timestamp="2009-07-06T03:52:22Z" uid="61114" user="Trav" changeset="1745380">
+    <nd ref="124838441"/>
+    <nd ref="124837217"/>
+    <nd ref="124838442"/>
+    <nd ref="124838444"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Goodwin Street"/>
+  </way>
+  <way id="37320545" version="2" timestamp="2010-01-23T12:11:03Z" uid="30201" user="rrankin" changeset="3690907">
+    <nd ref="124838441"/>
+    <nd ref="618623996"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Goodwin Street"/>
+  </way>
+  <way id="37320545" version="3" timestamp="2010-03-06T23:15:31Z" uid="7617" user="Franc" changeset="4056103">
+    <nd ref="124838441"/>
+    <nd ref="661629810"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Goodwin Street"/>
+  </way>
+  <way id="37320545" version="4" timestamp="2010-07-07T23:32:50Z" uid="74617" user="JohnSmith" changeset="5162525">
+    <nd ref="124838441"/>
+    <nd ref="661629810"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Goodwin Street"/>
+  </way>
+  <way id="37320545" version="5" timestamp="2012-01-19T01:04:56Z" uid="147510" user="woodpeck_fixbot" changeset="10432847">
+    <nd ref="124838441"/>
+    <nd ref="661629810"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Goodwin Street"/>
+  </way>
+  <way id="37320546" version="1" timestamp="2009-07-06T03:52:37Z" uid="61114" user="Trav" changeset="1745380">
+    <nd ref="434967199"/>
+    <nd ref="434967200"/>
+    <nd ref="434967201"/>
+    <nd ref="434967202"/>
+    <nd ref="434967203"/>
+    <nd ref="434967204"/>
+    <nd ref="434967205"/>
+    <nd ref="163540537"/>
+    <nd ref="362201740"/>
+    <nd ref="434967206"/>
+    <nd ref="434967207"/>
+    <nd ref="434967208"/>
+    <nd ref="434967209"/>
+    <nd ref="434967210"/>
+    <nd ref="434967211"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="James Wheeler Place"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="37320546" version="2" timestamp="2010-07-07T23:31:25Z" uid="74617" user="JohnSmith" changeset="5162525">
+    <nd ref="434967199"/>
+    <nd ref="434967200"/>
+    <nd ref="434967201"/>
+    <nd ref="434967202"/>
+    <nd ref="434967203"/>
+    <nd ref="434967204"/>
+    <nd ref="434967205"/>
+    <nd ref="163540537"/>
+    <nd ref="362201740"/>
+    <nd ref="434967206"/>
+    <nd ref="434967207"/>
+    <nd ref="434967208"/>
+    <nd ref="434967209"/>
+    <nd ref="434967210"/>
+    <nd ref="434967211"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="James Wheeler Place"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="37320546" version="3" timestamp="2012-01-19T01:04:57Z" uid="147510" user="woodpeck_fixbot" changeset="10432847">
+    <nd ref="434967199"/>
+    <nd ref="434967200"/>
+    <nd ref="434967201"/>
+    <nd ref="434967202"/>
+    <nd ref="434967203"/>
+    <nd ref="434967204"/>
+    <nd ref="434967205"/>
+    <nd ref="163540537"/>
+    <nd ref="362201740"/>
+    <nd ref="434967206"/>
+    <nd ref="434967207"/>
+    <nd ref="434967208"/>
+    <nd ref="434967209"/>
+    <nd ref="434967210"/>
+    <nd ref="434967211"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="James Wheeler Place"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="37320547" version="1" timestamp="2009-07-06T03:52:40Z" uid="61114" user="Trav" changeset="1745380">
+    <nd ref="124812028"/>
+    <nd ref="124812030"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="The Avenue"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="37320547" version="2" timestamp="2010-07-07T23:33:37Z" uid="74617" user="JohnSmith" changeset="5162525">
+    <nd ref="124812028"/>
+    <nd ref="124812030"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="The Avenue"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="37320547" version="3" timestamp="2012-01-19T01:04:59Z" uid="147510" user="woodpeck_fixbot" changeset="10432847">
+    <nd ref="124812028"/>
+    <nd ref="124812030"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="The Avenue"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="37320549" version="1" timestamp="2009-07-06T03:52:42Z" uid="61114" user="Trav" changeset="1745380">
+    <nd ref="124812437"/>
+    <nd ref="124812438"/>
+    <nd ref="124812439"/>
+    <nd ref="124812030"/>
+    <nd ref="124812031"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Jenkins Street"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="37320549" version="2" timestamp="2010-03-06T13:05:12Z" uid="7617" user="Franc" changeset="4049938">
+    <nd ref="124812437"/>
+    <nd ref="124812438"/>
+    <nd ref="124812439"/>
+    <nd ref="124812030"/>
+    <nd ref="661074132"/>
+    <nd ref="124812031"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Jenkins Street"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="37320549" version="3" timestamp="2010-07-07T23:31:14Z" uid="74617" user="JohnSmith" changeset="5162525">
+    <nd ref="124812437"/>
+    <nd ref="124812438"/>
+    <nd ref="124812439"/>
+    <nd ref="124812030"/>
+    <nd ref="661074132"/>
+    <nd ref="124812031"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Jenkins Street"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="37320549" version="4" timestamp="2012-01-19T01:05:00Z" uid="147510" user="woodpeck_fixbot" changeset="10432847">
+    <nd ref="124812437"/>
+    <nd ref="124812438"/>
+    <nd ref="124812439"/>
+    <nd ref="124812030"/>
+    <nd ref="661074132"/>
+    <nd ref="124812031"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Jenkins Street"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="37320567" version="2" timestamp="2010-03-28T02:28:10Z" uid="20587" user="balrog-kun" changeset="4250871">
+    <nd ref="122650737"/>
+    <nd ref="123536318"/>
+    <nd ref="122805227"/>
+    <nd ref="123322352"/>
+    <nd ref="122999733"/>
+    <nd ref="122757170"/>
+    <nd ref="122668573"/>
+    <nd ref="122931140"/>
+    <nd ref="321198817"/>
+    <nd ref="123536315"/>
+    <nd ref="123138883"/>
+    <nd ref="123230427"/>
+    <nd ref="122979843"/>
+    <nd ref="123536312"/>
+    <nd ref="122680117"/>
+    <nd ref="122924477"/>
+    <nd ref="122569861"/>
+    <nd ref="122945660"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Phelan Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Los Angeles, CA"/>
+    <tag k="tiger:name_base" v="Phelan"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="141662874:141662875:141662878:141662888:141662890:141662892:141662915:141662917:141662919:141662929:141662931:141662933:141662936:141662894:141663383:141663385:141663387"/>
+    <tag k="tiger:zip_left" v="90278"/>
+    <tag k="tiger:zip_right" v="90278"/>
+  </way>
+  <way id="37320568" version="1" timestamp="2009-07-06T03:53:57Z" uid="4467" user="Rosscoe" changeset="1745371">
+    <nd ref="31475665"/>
+    <nd ref="434968699"/>
+  </way>
+  <way id="37320568" version="2" timestamp="2009-07-12T23:53:36Z" uid="4467" user="Rosscoe" changeset="1812660">
+    <nd ref="31475665"/>
+    <nd ref="434968699"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="37320568" version="3" timestamp="2010-07-08T09:41:23Z" uid="74617" user="JohnSmith" changeset="5164427">
+    <nd ref="31475665"/>
+    <nd ref="434968699"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="37320568" version="4" timestamp="2011-11-03T11:49:27Z" uid="547843" user="Scott Pardon" changeset="9729669">
+    <nd ref="31475665"/>
+    <nd ref="434968699"/>
+    <nd ref="1490272569"/>
+    <nd ref="1490272441"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="37320568" version="5" timestamp="2011-11-03T12:07:34Z" uid="547843" user="Scott Pardon" changeset="9729669">
+    <nd ref="31475665"/>
+    <nd ref="434968699"/>
+    <nd ref="1490272569"/>
+    <nd ref="1490272441"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Douglas Street"/>
+  </way>
+  <way id="37320571" version="1" timestamp="2009-07-06T03:54:32Z" uid="74617" user="JohnSmith" changeset="1745387">
+    <nd ref="249199917"/>
+    <nd ref="249199916"/>
+    <nd ref="249199918"/>
+    <nd ref="249199919"/>
+    <nd ref="249199920"/>
+    <nd ref="249199921"/>
+    <nd ref="249199922"/>
+    <nd ref="249199923"/>
+    <nd ref="249199964"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Azure Avenue"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="37320571" version="2" timestamp="2009-08-12T04:01:19Z" uid="74617" user="JohnSmith" changeset="2114476">
+    <nd ref="249199917"/>
+    <nd ref="249199916"/>
+    <nd ref="249199918"/>
+    <nd ref="249199919"/>
+    <nd ref="249199920"/>
+    <nd ref="249199921"/>
+    <nd ref="249199922"/>
+    <nd ref="249199923"/>
+    <nd ref="249199964"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Azure Avenue"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="37320574" version="1" timestamp="2009-07-06T03:54:52Z" uid="4467" user="Rosscoe" changeset="1745371">
+    <nd ref="31475718"/>
+    <nd ref="434970136"/>
+  </way>
+  <way id="37320574" version="2" timestamp="2009-07-12T23:53:36Z" uid="4467" user="Rosscoe" changeset="1812660">
+    <nd ref="31475718"/>
+    <nd ref="434970136"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="37320574" version="3" timestamp="2010-07-08T09:40:40Z" uid="74617" user="JohnSmith" changeset="5164427">
+    <nd ref="31475718"/>
+    <nd ref="434970136"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="37320574" version="4" timestamp="2011-11-03T11:49:27Z" uid="547843" user="Scott Pardon" changeset="9729669">
+    <nd ref="31475718"/>
+    <nd ref="434970136"/>
+    <nd ref="1490272551"/>
+    <nd ref="1490272513"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="37320574" version="5" timestamp="2011-11-03T12:07:34Z" uid="547843" user="Scott Pardon" changeset="9729669">
+    <nd ref="31475718"/>
+    <nd ref="434970136"/>
+    <nd ref="1490272551"/>
+    <nd ref="1490272513"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Ramsay street"/>
+  </way>
+  <way id="37320575" version="4" timestamp="2011-02-24T06:25:33Z" uid="4467" user="Rosscoe" changeset="7378898">
+    <nd ref="434970906"/>
+    <nd ref="434970987"/>
+    <nd ref="30859292"/>
+    <nd ref="1169463367"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Lernes Street"/>
+  </way>
+  <way id="37320579" version="3" timestamp="2011-02-24T06:25:31Z" uid="4467" user="Rosscoe" changeset="7378898">
+    <nd ref="434971622"/>
+    <nd ref="115005395"/>
+    <nd ref="115017038"/>
+    <nd ref="115009224"/>
+    <nd ref="115009225"/>
+    <nd ref="694855784"/>
+    <nd ref="318293412"/>
+    <nd ref="318293410"/>
+    <nd ref="318293413"/>
+    <nd ref="115002864"/>
+    <nd ref="318293664"/>
+    <nd ref="318293715"/>
+    <nd ref="318293563"/>
+    <nd ref="268714764"/>
+    <nd ref="318293645"/>
+    <nd ref="115017926"/>
+    <nd ref="115009228"/>
+    <nd ref="115009230"/>
+    <nd ref="115009232"/>
+    <nd ref="115010780"/>
+    <nd ref="115005330"/>
+    <nd ref="115001333"/>
+    <nd ref="115009235"/>
+    <nd ref="115017954"/>
+    <nd ref="115018728"/>
+    <nd ref="115009237"/>
+    <nd ref="115009239"/>
+    <nd ref="115009241"/>
+    <nd ref="115009243"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Mt Pleasant Road"/>
+  </way>
+  <way id="37320579" version="4" timestamp="2011-09-11T10:19:01Z" uid="38690" user="emexes" changeset="9269443">
+    <nd ref="434971622"/>
+    <nd ref="115005395"/>
+    <nd ref="115017038"/>
+    <nd ref="115009224"/>
+    <nd ref="115009225"/>
+    <nd ref="694855784"/>
+    <nd ref="318293412"/>
+    <nd ref="318293410"/>
+    <nd ref="318293413"/>
+    <nd ref="115002864"/>
+    <nd ref="318293664"/>
+    <nd ref="318293715"/>
+    <nd ref="318293563"/>
+    <nd ref="268714764"/>
+    <nd ref="318293645"/>
+    <nd ref="115017926"/>
+    <nd ref="115009228"/>
+    <nd ref="115009230"/>
+    <nd ref="115009232"/>
+    <nd ref="115010780"/>
+    <nd ref="115005330"/>
+    <nd ref="115001333"/>
+    <nd ref="115009235"/>
+    <nd ref="115017954"/>
+    <nd ref="115018728"/>
+    <nd ref="115009237"/>
+    <nd ref="115009239"/>
+    <nd ref="115009241"/>
+    <nd ref="115009243"/>
+    <tag k="alt_name" v="Mt Pleasant Road"/>
+    <tag k="comment" v="Official name and most street signs are &quot;Mount&quot;, some street signs are &quot;Mt&quot;"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Mount Pleasant Road"/>
+  </way>
+  <way id="37320581" version="2" timestamp="2010-03-28T02:28:11Z" uid="20587" user="balrog-kun" changeset="4250871">
+    <nd ref="434969259"/>
+    <nd ref="122650737"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Robinson Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Los Angeles, CA"/>
+    <tag k="tiger:name_base" v="Robinson"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="141662876:141663125"/>
+    <tag k="tiger:zip_left" v="90278"/>
+  </way>
+  <way id="37320585" version="2" timestamp="2010-03-28T02:28:11Z" uid="20587" user="balrog-kun" changeset="4250871">
+    <nd ref="434971682"/>
+    <nd ref="122695010"/>
+    <nd ref="122695013"/>
+    <nd ref="122695014"/>
+    <nd ref="122695017"/>
+    <nd ref="321198813"/>
+    <nd ref="122695019"/>
+    <nd ref="122668576"/>
+    <nd ref="122695021"/>
+    <nd ref="122695023"/>
+    <nd ref="122695025"/>
+    <nd ref="122695027"/>
+    <nd ref="122695031"/>
+    <nd ref="122695033"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Felton Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Los Angeles, CA"/>
+    <tag k="tiger:name_base" v="Felton"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="141662897:141662902:141662904:141662906:141662908:141662938:141662940:141662942:141662944:141662946:141662948:141663405:141663409:141662949:141662899"/>
+    <tag k="tiger:zip_left" v="90278"/>
+    <tag k="tiger:zip_right" v="90278"/>
+  </way>
+  <way id="37320585" version="3" timestamp="2010-12-26T20:03:32Z" uid="363249" user="DaryllS" changeset="6771640">
+    <nd ref="434971682"/>
+    <nd ref="122695010"/>
+    <nd ref="122695013"/>
+    <nd ref="122695014"/>
+    <nd ref="122695017"/>
+    <nd ref="321198813"/>
+    <nd ref="122695019"/>
+    <nd ref="122668576"/>
+    <nd ref="122695021"/>
+    <nd ref="122695023"/>
+    <nd ref="122695025"/>
+    <nd ref="122695027"/>
+    <nd ref="122695031"/>
+    <nd ref="122695033"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Felton Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Los Angeles, CA"/>
+    <tag k="tiger:name_base" v="Felton"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="141662897:141662902:141662904:141662906:141662908:141662938:141662940:141662942:141662944:141662946:141662948:141663405:141663409:141662949:141662899"/>
+    <tag k="tiger:zip_left" v="90278"/>
+    <tag k="tiger:zip_right" v="90278"/>
+  </way>
+  <way id="37320586" version="1" timestamp="2009-07-06T03:56:32Z" uid="61114" user="Trav" changeset="1745391">
+    <nd ref="434972503"/>
+    <nd ref="434972544"/>
+    <nd ref="434972555"/>
+    <nd ref="434972559"/>
+    <nd ref="434972560"/>
+    <nd ref="434972567"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Aroona Road"/>
+    <tag k="source" v="GPS"/>
+    <tag k="source:name" v="survey"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="37320587" version="1" timestamp="2009-07-06T03:56:35Z" uid="61114" user="Trav" changeset="1745391">
+    <nd ref="31393308"/>
+    <nd ref="434972589"/>
+    <nd ref="434972605"/>
+    <nd ref="434972616"/>
+    <nd ref="434972628"/>
+    <nd ref="434972653"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Spicer Street"/>
+    <tag k="source" v="GPS"/>
+    <tag k="source:name" v="survey"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="37320588" version="2" timestamp="2011-02-24T06:25:32Z" uid="4467" user="Rosscoe" changeset="7378898">
+    <nd ref="316394110"/>
+    <nd ref="316394235"/>
+    <nd ref="316394590"/>
+    <nd ref="316394556"/>
+    <nd ref="316394585"/>
+    <nd ref="316394560"/>
+    <nd ref="316394564"/>
+    <nd ref="316394561"/>
+    <nd ref="660111027"/>
+    <nd ref="316394593"/>
+    <nd ref="436076190"/>
+    <nd ref="660112390"/>
+    <nd ref="436076187"/>
+    <nd ref="660112391"/>
+    <nd ref="660112374"/>
+    <nd ref="660112377"/>
+    <nd ref="436076784"/>
+    <nd ref="316394118"/>
+    <nd ref="434972834"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="McClares Road"/>
+  </way>
+  <way id="37320588" version="3" timestamp="2011-04-28T05:13:42Z" uid="6513" user="Glen" changeset="7990969">
+    <nd ref="316394110"/>
+    <nd ref="316394235"/>
+    <nd ref="316394590"/>
+    <nd ref="316394556"/>
+    <nd ref="316394585"/>
+    <nd ref="316394560"/>
+    <nd ref="316394564"/>
+    <nd ref="316394561"/>
+    <nd ref="660111027"/>
+    <nd ref="316394593"/>
+    <nd ref="436076190"/>
+    <nd ref="660112390"/>
+    <nd ref="436076187"/>
+    <nd ref="660112391"/>
+    <nd ref="660112374"/>
+    <nd ref="660112377"/>
+    <nd ref="1262998341"/>
+    <nd ref="436076784"/>
+    <nd ref="316394118"/>
+    <nd ref="434972834"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="McClares Road"/>
+  </way>
+  <way id="37320588" version="4" timestamp="2012-01-15T04:29:17Z" uid="11111" user="melb_guy" changeset="10394651">
+    <nd ref="316394110"/>
+    <nd ref="316394235"/>
+    <nd ref="316394590"/>
+    <nd ref="316394556"/>
+    <nd ref="316394585"/>
+    <nd ref="316394560"/>
+    <nd ref="316394564"/>
+    <nd ref="316394561"/>
+    <nd ref="660111027"/>
+    <nd ref="316394593"/>
+    <nd ref="436076190"/>
+    <nd ref="660112390"/>
+    <nd ref="436076187"/>
+    <nd ref="660112391"/>
+    <nd ref="660112374"/>
+    <nd ref="660112377"/>
+    <nd ref="1262998341"/>
+    <nd ref="436076784"/>
+    <nd ref="1590253151"/>
+    <nd ref="316394118"/>
+    <nd ref="434972834"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="McClares Road"/>
+  </way>
+  <way id="37320592" version="4" timestamp="2010-04-04T01:14:23Z" uid="20587" user="balrog-kun" changeset="4318136">
+    <nd ref="434974139"/>
+    <nd ref="434976209"/>
+    <nd ref="434974521"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Montebello Drive"/>
+  </way>
+  <way id="37320609" version="3" timestamp="2010-04-04T01:14:23Z" uid="20587" user="balrog-kun" changeset="4318136">
+    <nd ref="434975362"/>
+    <nd ref="434975658"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Montebello Drive"/>
+  </way>
+  <way id="37320612" version="3" timestamp="2010-03-22T06:32:54Z" uid="20587" user="balrog-kun" changeset="4199043">
+    <nd ref="37441209"/>
+    <nd ref="37441211"/>
+    <nd ref="37441213"/>
+    <nd ref="37414970"/>
+    <nd ref="37441216"/>
+    <nd ref="37441217"/>
+    <nd ref="617474919"/>
+    <nd ref="37441218"/>
+    <nd ref="37441220"/>
+    <nd ref="37441222"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="North Elm Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Clackamas, OR"/>
+    <tag k="tiger:name_base" v="Elm"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070808"/>
+    <tag k="tiger:tlid" v="157974970:157974971:157911579:157911593:157911595"/>
+    <tag k="tiger:zip_left" v="97013"/>
+    <tag k="tiger:zip_right" v="97013"/>
+  </way>
+  <way id="37320612" version="4" timestamp="2010-04-18T04:37:18Z" uid="97431" user="Dion Dock" changeset="4454142">
+    <nd ref="37441209"/>
+    <nd ref="37441211"/>
+    <nd ref="700680643"/>
+    <nd ref="37441213"/>
+    <nd ref="37414970"/>
+    <nd ref="700680646"/>
+    <nd ref="37441216"/>
+    <nd ref="37441217"/>
+    <nd ref="617474919"/>
+    <nd ref="37441218"/>
+    <nd ref="37441220"/>
+    <nd ref="37441222"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="North Elm Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Clackamas, OR"/>
+    <tag k="tiger:name_base" v="Elm"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070808"/>
+    <tag k="tiger:tlid" v="157974970:157974971:157911579:157911593:157911595"/>
+    <tag k="tiger:zip_left" v="97013"/>
+    <tag k="tiger:zip_right" v="97013"/>
+  </way>
+  <way id="37320612" version="5" timestamp="2011-07-28T18:36:25Z" uid="371688" user="betsy" changeset="8857176">
+    <nd ref="37441209"/>
+    <nd ref="37441211"/>
+    <nd ref="700680643"/>
+    <nd ref="37414970"/>
+    <nd ref="700680646"/>
+    <nd ref="37441216"/>
+    <nd ref="617474919"/>
+    <nd ref="37441218"/>
+    <nd ref="37441220"/>
+    <nd ref="37426049"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="North Elm Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Clackamas, OR"/>
+    <tag k="tiger:name_base" v="Elm"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070808"/>
+    <tag k="tiger:tlid" v="157974970:157974971:157911579:157911593:157911595"/>
+    <tag k="tiger:zip_left" v="97013"/>
+    <tag k="tiger:zip_right" v="97013"/>
+  </way>
+  <way id="37320612" version="6" timestamp="2012-01-16T19:02:15Z" uid="362111" user="Mele Sax-Barnett" changeset="10411011">
+    <nd ref="37441209"/>
+    <nd ref="700680643"/>
+    <nd ref="37414970"/>
+    <nd ref="700680646"/>
+    <nd ref="37441216"/>
+    <nd ref="617474919"/>
+    <nd ref="37441218"/>
+    <nd ref="37441220"/>
+    <nd ref="37426049"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="North Elm Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Clackamas, OR"/>
+    <tag k="tiger:name_base" v="Elm"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070808"/>
+    <tag k="tiger:tlid" v="157974970:157974971:157911579:157911593:157911595"/>
+    <tag k="tiger:zip_left" v="97013"/>
+    <tag k="tiger:zip_right" v="97013"/>
+  </way>
+  <way id="37320615" version="2" timestamp="2010-02-22T19:23:07Z" uid="171838" user="argrath" changeset="3946488">
+    <nd ref="57293865"/>
+    <nd ref="57294031"/>
+    <nd ref="57294028"/>
+    <nd ref="57294025"/>
+    <nd ref="57294023"/>
+    <nd ref="57294058"/>
+    <nd ref="57294030"/>
+    <nd ref="57294053"/>
+    <nd ref="57294045"/>
+    <nd ref="57294047"/>
+    <nd ref="57294059"/>
+    <nd ref="57294042"/>
+    <nd ref="57294073"/>
+    <nd ref="57294081"/>
+    <nd ref="57294050"/>
+    <nd ref="57294077"/>
+    <nd ref="57294062"/>
+    <nd ref="57294070"/>
+    <nd ref="57294079"/>
+    <nd ref="57294065"/>
+    <nd ref="57294089"/>
+    <nd ref="57294068"/>
+    <nd ref="57294092"/>
+    <nd ref="57294084"/>
+    <nd ref="57294090"/>
+    <nd ref="57294086"/>
+    <nd ref="57294085"/>
+    <nd ref="57293966"/>
+    <nd ref="57293955"/>
+    <nd ref="57293963"/>
+    <nd ref="57293950"/>
+    <nd ref="57293958"/>
+    <nd ref="57293953"/>
+    <nd ref="57293985"/>
+    <nd ref="57293986"/>
+    <nd ref="57293980"/>
+    <nd ref="57293983"/>
+    <nd ref="57293975"/>
+    <nd ref="57293978"/>
+    <nd ref="57293969"/>
+    <nd ref="57293972"/>
+    <nd ref="57294000"/>
+    <nd ref="57293997"/>
+    <nd ref="57293994"/>
+    <nd ref="57293992"/>
+    <nd ref="57293989"/>
+    <nd ref="57293988"/>
+    <tag k="note" v="old_coastline"/>
+    <tag k="source" v="PGS"/>
+  </way>
+  <way id="37320615" version="3" timestamp="2011-09-18T03:54:48Z" uid="146930" user="Tom_G3X" changeset="9329033"/>
+  <way id="37320616" version="3" timestamp="2010-04-04T01:14:23Z" uid="20587" user="balrog-kun" changeset="4318136">
+    <nd ref="434975358"/>
+    <nd ref="420796699"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Montebello Drive"/>
+  </way>
+  <way id="37320617" version="6" timestamp="2010-03-28T02:28:11Z" uid="20587" user="balrog-kun" changeset="4250871">
+    <nd ref="122945673"/>
+    <nd ref="122945675"/>
+    <nd ref="122945678"/>
+    <nd ref="122945682"/>
+    <nd ref="122945683"/>
+    <nd ref="122945686"/>
+    <nd ref="122945688"/>
+    <nd ref="122945690"/>
+    <nd ref="122694346"/>
+    <nd ref="122880808"/>
+    <nd ref="122945692"/>
+    <nd ref="122945694"/>
+    <nd ref="122819779"/>
+    <nd ref="122945654"/>
+    <nd ref="122945656"/>
+    <nd ref="122905946"/>
+    <nd ref="122945660"/>
+    <nd ref="122945662"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Ripley Avenue"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Los Angeles, CA"/>
+    <tag k="tiger:name_base" v="Ripley"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="141663407:141663410:141663412:141663402:141663403:141663414:141663589:141663591:141663592:141663393:141663395:141663397; 141663329:141663330:141663349:141663358:141663340:142454005:142454006:141583795:141583796:141583798:141583801"/>
+    <tag k="tiger:zip_left" v="90278"/>
+    <tag k="tiger:zip_right" v="90278"/>
+  </way>
+  <way id="37320617" version="7" timestamp="2011-12-05T07:28:24Z" uid="416346" user="Brian@Brea" changeset="10039721">
+    <nd ref="122945673"/>
+    <nd ref="122945675"/>
+    <nd ref="122945678"/>
+    <nd ref="122945682"/>
+    <nd ref="122945683"/>
+    <nd ref="122945686"/>
+    <nd ref="122945688"/>
+    <nd ref="122945690"/>
+    <nd ref="122694346"/>
+    <nd ref="122880808"/>
+    <nd ref="122945692"/>
+    <nd ref="122945694"/>
+    <nd ref="122819779"/>
+    <nd ref="1532476481"/>
+    <nd ref="122945654"/>
+    <nd ref="122945656"/>
+    <nd ref="122905946"/>
+    <nd ref="122945660"/>
+    <nd ref="122945662"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Ripley Avenue"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Los Angeles, CA"/>
+    <tag k="tiger:name_base" v="Ripley"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="141663407:141663410:141663412:141663402:141663403:141663414:141663589:141663591:141663592:141663393:141663395:141663397; 141663329:141663330:141663349:141663358:141663340:142454005:142454006:141583795:141583796:141583798:141583801"/>
+    <tag k="tiger:zip_left" v="90278"/>
+    <tag k="tiger:zip_right" v="90278"/>
+  </way>
+  <way id="37320005" version="4" timestamp="2012-07-19T17:22:06Z" uid="722137" user="OSMF Redaction Account" changeset="12341607"/>
+  <way id="37320022" version="6" timestamp="2012-07-19T22:48:36Z" uid="722137" user="OSMF Redaction Account" changeset="12350895">
+    <nd ref="434950861"/>
+    <nd ref="434953246"/>
+    <nd ref="434965367"/>
+    <nd ref="434950866"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="37320023" version="4" timestamp="2012-07-19T22:48:36Z" uid="722137" user="OSMF Redaction Account" changeset="12350895">
+    <nd ref="434950856"/>
+    <nd ref="434950860"/>
+    <tag k="highway" v="primary_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="37320037" version="3" timestamp="2012-07-19T13:35:25Z" uid="722137" user="OSMF Redaction Account" changeset="12329563">
+    <nd ref="429772002"/>
+    <nd ref="434950919"/>
+    <nd ref="434950920"/>
+    <nd ref="434950921"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="37320038" version="3" timestamp="2012-07-19T13:42:31Z" uid="722137" user="OSMF Redaction Account" changeset="12329977">
+    <nd ref="431033341"/>
+    <nd ref="434950926"/>
+    <nd ref="434950927"/>
+    <nd ref="434950928"/>
+    <nd ref="434950929"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Raymond Terrace"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="37320075" version="6" timestamp="2012-08-18T23:25:41Z" uid="46482" user="Leon K" changeset="12778409">
+    <nd ref="434951076"/>
+    <nd ref="1872028906"/>
+    <nd ref="434951077"/>
+    <nd ref="434951078"/>
+    <nd ref="434951079"/>
+    <nd ref="434951080"/>
+    <nd ref="434951083"/>
+    <nd ref="434951084"/>
+    <nd ref="434951085"/>
+    <nd ref="434951086"/>
+    <nd ref="434951087"/>
+    <nd ref="434951088"/>
+    <nd ref="434951089"/>
+    <nd ref="434951076"/>
+    <tag k="building" v="yes"/>
+    <tag k="layer" v="1"/>
+  </way>
+  <way id="37320104" version="7" timestamp="2012-09-05T09:19:03Z" uid="207745" user="NE2" changeset="12993133"/>
+  <way id="37320122" version="4" timestamp="2012-07-19T17:21:55Z" uid="722137" user="OSMF Redaction Account" changeset="12341607">
+    <nd ref="31677481"/>
+    <nd ref="434951150"/>
+    <nd ref="434951151"/>
+    <nd ref="434951152"/>
+    <nd ref="31677481"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="37320123" version="4" timestamp="2012-07-19T17:21:55Z" uid="722137" user="OSMF Redaction Account" changeset="12341607">
+    <nd ref="1507181404"/>
+    <nd ref="1507181401"/>
+    <nd ref="31677481"/>
+    <tag k="name" v="Heatleys Parade"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="37320147" version="3" timestamp="2012-07-19T17:22:05Z" uid="722137" user="OSMF Redaction Account" changeset="12341607"/>
+  <way id="37320148" version="2" timestamp="2012-07-19T17:22:05Z" uid="722137" user="OSMF Redaction Account" changeset="12341607"/>
+  <way id="37320149" version="2" timestamp="2012-07-19T17:22:05Z" uid="722137" user="OSMF Redaction Account" changeset="12341607"/>
+  <way id="37320179" version="2" timestamp="2012-07-19T17:22:05Z" uid="722137" user="OSMF Redaction Account" changeset="12341607"/>
+  <way id="37320210" version="4" timestamp="2012-07-19T22:47:18Z" uid="722137" user="OSMF Redaction Account" changeset="12350895">
+    <nd ref="434952676"/>
+    <nd ref="434952676"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="37320383" version="2" timestamp="2012-07-19T13:06:15Z" uid="722137" user="OSMF Redaction Account" changeset="12328011"/>
+  <way id="37320487" version="6" timestamp="2012-08-18T23:25:12Z" uid="46482" user="Leon K" changeset="12778409">
+    <nd ref="434951145"/>
+    <nd ref="434951144"/>
+    <nd ref="434951143"/>
+    <nd ref="434951142"/>
+    <nd ref="434951141"/>
+    <nd ref="434951140"/>
+    <nd ref="434951139"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Brentford Square"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="37320493" version="4" timestamp="2012-07-19T12:35:07Z" uid="722137" user="OSMF Redaction Account" changeset="12325517"/>
+  <way id="37320494" version="5" timestamp="2012-07-19T12:35:08Z" uid="722137" user="OSMF Redaction Account" changeset="12325517"/>
+  <way id="37320496" version="4" timestamp="2012-07-19T12:35:08Z" uid="722137" user="OSMF Redaction Account" changeset="12325517"/>
+  <way id="37320505" version="4" timestamp="2012-07-19T22:51:45Z" uid="722137" user="OSMF Redaction Account" changeset="12351024"/>
+  <way id="37320508" version="3" timestamp="2012-04-22T03:03:42Z" uid="447903" user="Glassman" changeset="11379725"/>
+  <way id="37320512" version="6" timestamp="2012-06-06T05:31:27Z" uid="104962" user="techlady" changeset="11812366">
+    <nd ref="122716703"/>
+    <nd ref="320822681"/>
+    <nd ref="1777729063"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="White Circle"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Los Angeles, CA"/>
+    <tag k="tiger:name_base" v="Dufour"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="141582865:141662686:141662692:141662694"/>
+    <tag k="tiger:zip_left" v="90278"/>
+    <tag k="tiger:zip_right" v="90278"/>
+  </way>
+  <way id="37320512" version="7" timestamp="2012-07-18T17:57:04Z" uid="722137" user="OSMF Redaction Account" changeset="12291276">
+    <nd ref="122716703"/>
+    <nd ref="1777729063"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="White Circle"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Los Angeles, CA"/>
+    <tag k="tiger:name_base" v="Dufour"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="141582865:141662686:141662692:141662694"/>
+    <tag k="tiger:zip_left" v="90278"/>
+    <tag k="tiger:zip_right" v="90278"/>
+  </way>
+  <way id="37320512" version="8" timestamp="2012-07-28T03:52:40Z" uid="262151" user="ToeBee" changeset="12518600">
+    <nd ref="122716703"/>
+    <nd ref="1840733174"/>
+    <nd ref="1777729063"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="White Circle"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Los Angeles, CA"/>
+    <tag k="tiger:name_base" v="Dufour"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="141582865:141662686:141662692:141662694"/>
+    <tag k="tiger:zip_left" v="90278"/>
+    <tag k="tiger:zip_right" v="90278"/>
+  </way>
+  <way id="37320517" version="3" timestamp="2012-07-19T16:02:44Z" uid="722137" user="OSMF Redaction Account" changeset="12337445"/>
+  <way id="37320518" version="5" timestamp="2012-06-06T05:31:27Z" uid="104962" user="techlady" changeset="11812366">
+    <nd ref="123536322"/>
+    <nd ref="1777729083"/>
+    <nd ref="434966790"/>
+    <nd ref="122650737"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Phelan Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Los Angeles, CA"/>
+    <tag k="tiger:name_base" v="Phelan"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="141662874:141662875:141662878:141662888:141662890:141662892:141662915:141662917:141662919:141662929:141662931:141662933:141662936:141662894:141663383:141663385:141663387"/>
+    <tag k="tiger:zip_left" v="90278"/>
+    <tag k="tiger:zip_right" v="90278"/>
+  </way>
+  <way id="37320524" version="4" timestamp="2012-07-19T16:02:44Z" uid="722137" user="OSMF Redaction Account" changeset="12337445"/>
+  <way id="37320525" version="4" timestamp="2012-07-19T16:02:44Z" uid="722137" user="OSMF Redaction Account" changeset="12337445"/>
+  <way id="37320528" version="4" timestamp="2012-07-19T15:25:34Z" uid="722137" user="OSMF Redaction Account" changeset="12334524"/>
+  <way id="37320532" version="6" timestamp="2012-06-06T05:31:30Z" uid="104962" user="techlady" changeset="11812366"/>
+  <way id="37320541" version="4" timestamp="2012-07-19T16:02:43Z" uid="722137" user="OSMF Redaction Account" changeset="12337445"/>
+  <way id="37320542" version="5" timestamp="2012-07-19T16:02:39Z" uid="722137" user="OSMF Redaction Account" changeset="12337445"/>
+  <way id="37320543" version="2" timestamp="2012-07-19T16:18:32Z" uid="722137" user="OSMF Redaction Account" changeset="12338502"/>
+  <way id="37320544" version="4" timestamp="2012-07-19T16:18:31Z" uid="722137" user="OSMF Redaction Account" changeset="12338502"/>
+  <way id="37320545" version="6" timestamp="2012-07-19T16:18:31Z" uid="722137" user="OSMF Redaction Account" changeset="12338502"/>
+  <way id="37320546" version="4" timestamp="2012-07-19T16:18:28Z" uid="722137" user="OSMF Redaction Account" changeset="12338502"/>
+  <way id="37320547" version="4" timestamp="2012-07-19T16:18:23Z" uid="722137" user="OSMF Redaction Account" changeset="12338502"/>
+  <way id="37320549" version="5" timestamp="2012-07-19T16:18:25Z" uid="722137" user="OSMF Redaction Account" changeset="12338502"/>
+  <way id="37320568" version="6" timestamp="2012-07-19T17:35:05Z" uid="722137" user="OSMF Redaction Account" changeset="12341950">
+    <nd ref="1490272569"/>
+    <nd ref="1490272441"/>
+    <tag k="name" v="Douglas Street"/>
+  </way>
+  <way id="37320571" version="3" timestamp="2012-07-19T13:23:17Z" uid="722137" user="OSMF Redaction Account" changeset="12328932"/>
+  <way id="37320574" version="6" timestamp="2012-07-19T17:35:06Z" uid="722137" user="OSMF Redaction Account" changeset="12341950">
+    <nd ref="1490272551"/>
+    <nd ref="1490272513"/>
+    <tag k="name" v="Ramsay street"/>
+  </way>
+  <way id="37320575" version="5" timestamp="2012-07-19T22:47:18Z" uid="722137" user="OSMF Redaction Account" changeset="12350895">
+    <nd ref="434970906"/>
+    <nd ref="434970987"/>
+    <nd ref="30859292"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Lernes Street"/>
+  </way>
+  <way id="37320579" version="5" timestamp="2012-07-19T22:48:39Z" uid="722137" user="OSMF Redaction Account" changeset="12350979">
+    <nd ref="115005395"/>
+    <nd ref="434971622"/>
+    <tag k="alt_name" v="Mt Pleasant Road"/>
+    <tag k="comment" v="Official name and most street signs are &quot;Mount&quot;, some street signs are &quot;Mt&quot;"/>
+    <tag k="highway" v="primary_link"/>
+  </way>
+  <way id="37320579" version="6" timestamp="2012-08-23T03:52:32Z" uid="95583" user="Geodes" changeset="12828021">
+    <nd ref="115009243"/>
+    <nd ref="115009241"/>
+    <nd ref="115009239"/>
+    <nd ref="115009237"/>
+    <nd ref="115018728"/>
+    <nd ref="115017954"/>
+    <nd ref="115009235"/>
+    <nd ref="115001333"/>
+    <nd ref="115005330"/>
+    <nd ref="115010780"/>
+    <nd ref="115009232"/>
+    <nd ref="115009230"/>
+    <nd ref="1878719964"/>
+    <nd ref="115009228"/>
+    <nd ref="318293645"/>
+    <nd ref="268714764"/>
+    <nd ref="318293563"/>
+    <nd ref="318293715"/>
+    <nd ref="318293664"/>
+    <nd ref="115002864"/>
+    <nd ref="318293413"/>
+    <nd ref="318293410"/>
+    <nd ref="318293412"/>
+    <nd ref="694855784"/>
+    <nd ref="115009225"/>
+    <nd ref="115009224"/>
+    <nd ref="115017038"/>
+    <nd ref="115005395"/>
+    <nd ref="434971622"/>
+    <tag k="alt_name" v="Mt Pleasant Road"/>
+    <tag k="comment" v="Official name and most street signs are &quot;Mount&quot;, some street signs are &quot;Mt&quot;"/>
+    <tag k="highway" v="tertiary"/>
+  </way>
+  <way id="37320579" version="7" timestamp="2012-08-23T04:14:15Z" uid="95583" user="Geodes" changeset="12828084">
+    <nd ref="115009243"/>
+    <nd ref="115009241"/>
+    <nd ref="115009239"/>
+    <nd ref="115009237"/>
+    <nd ref="115018728"/>
+    <nd ref="115017954"/>
+    <nd ref="115009235"/>
+    <nd ref="115001333"/>
+    <nd ref="115005330"/>
+    <nd ref="115010780"/>
+    <nd ref="115009230"/>
+    <nd ref="1878719964"/>
+    <nd ref="115009228"/>
+    <nd ref="318293645"/>
+    <nd ref="268714764"/>
+    <nd ref="1878748937"/>
+    <nd ref="318293715"/>
+    <nd ref="318293664"/>
+    <nd ref="115002864"/>
+    <nd ref="318293413"/>
+    <nd ref="318293410"/>
+    <nd ref="318293412"/>
+    <nd ref="694855784"/>
+    <nd ref="115009225"/>
+    <nd ref="115009224"/>
+    <nd ref="115017038"/>
+    <nd ref="115005395"/>
+    <nd ref="434971622"/>
+    <tag k="alt_name" v="Mt Pleasant Road"/>
+    <tag k="comment" v="Official name and most street signs are &quot;Mount&quot;, some street signs are &quot;Mt&quot;"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Mount Pleasant Road"/>
+  </way>
+  <way id="37320586" version="2" timestamp="2012-07-19T18:50:27Z" uid="722137" user="OSMF Redaction Account" changeset="12343783"/>
+  <way id="37320587" version="2" timestamp="2012-07-19T18:50:27Z" uid="722137" user="OSMF Redaction Account" changeset="12343783"/>
+  <way id="37320588" version="5" timestamp="2012-07-19T22:48:36Z" uid="722137" user="OSMF Redaction Account" changeset="12350895">
+    <nd ref="1262998341"/>
+    <nd ref="1590253151"/>
+    <nd ref="316394118"/>
+    <nd ref="434972834"/>
+    <tag k="highway" v="primary_link"/>
+  </way>
+  <way id="37320617" version="8" timestamp="2012-06-06T05:31:28Z" uid="104962" user="techlady" changeset="11812366">
+    <nd ref="122945673"/>
+    <nd ref="122945675"/>
+    <nd ref="122945678"/>
+    <nd ref="122945682"/>
+    <nd ref="122945683"/>
+    <nd ref="122945686"/>
+    <nd ref="122945688"/>
+    <nd ref="122945690"/>
+    <nd ref="122694346"/>
+    <nd ref="122880808"/>
+    <nd ref="122945692"/>
+    <nd ref="122945694"/>
+    <nd ref="1777729055"/>
+    <nd ref="122819779"/>
+    <nd ref="1532476481"/>
+    <nd ref="122945654"/>
+    <nd ref="122945656"/>
+    <nd ref="1777729062"/>
+    <nd ref="122905946"/>
+    <nd ref="122945660"/>
+    <nd ref="122945662"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Ripley Avenue"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Los Angeles, CA"/>
+    <tag k="tiger:name_base" v="Ripley"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="141663407:141663410:141663412:141663402:141663403:141663414:141663589:141663591:141663592:141663393:141663395:141663397; 141663329:141663330:141663349:141663358:141663340:142454005:142454006:141583795:141583796:141583798:141583801"/>
+    <tag k="tiger:zip_left" v="90278"/>
+    <tag k="tiger:zip_right" v="90278"/>
+  </way>
+</osm>

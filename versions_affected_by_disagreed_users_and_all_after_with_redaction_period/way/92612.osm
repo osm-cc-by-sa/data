@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="92612044" version="2" timestamp="2011-02-27T09:05:26Z" uid="4467" user="Rosscoe" changeset="7408016">
+    <nd ref="1074529708"/>
+    <nd ref="1074529693"/>
+    <nd ref="258335219"/>
+    <nd ref="527811294"/>
+    <tag k="attribution" v="Based on data from State of Queensland (Department of Environment and Resource Management) 2009"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="note" v="FIXME: DCDB indicates a right of way in this location. Needs a field survey to confirm highway type and actual alignment."/>
+    <tag k="source" v="au.qld.dcdb_lite"/>
+  </way>
+  <way id="92612046" version="2" timestamp="2011-02-27T09:05:27Z" uid="4467" user="Rosscoe" changeset="7408016">
+    <nd ref="1074529739"/>
+    <nd ref="1074529723"/>
+    <nd ref="1074529717"/>
+    <nd ref="366732209"/>
+    <tag k="highway" v="secondary_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="92612049" version="2" timestamp="2011-02-27T09:05:27Z" uid="4467" user="Rosscoe" changeset="7408016">
+    <nd ref="1074529718"/>
+    <nd ref="1074529694"/>
+    <nd ref="1074529690"/>
+    <tag k="highway" v="secondary_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="92612050" version="2" timestamp="2011-02-27T09:05:28Z" uid="4467" user="Rosscoe" changeset="7408016"/>
+  <way id="92612051" version="2" timestamp="2011-02-27T09:05:26Z" uid="4467" user="Rosscoe" changeset="7408016">
+    <nd ref="1074529721"/>
+    <nd ref="1074529715"/>
+    <nd ref="1074529742"/>
+    <tag k="highway" v="secondary_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="92612205" version="2" timestamp="2011-03-22T21:55:54Z" uid="16922" user="amai" changeset="7641887">
+    <nd ref="1213971089"/>
+    <nd ref="1213971222"/>
+    <nd ref="1213971165"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="92612205" version="3" timestamp="2012-02-18T11:36:46Z" uid="61891" user="stephankn" changeset="10719147"/>
+  <way id="92612302" version="1" timestamp="2010-12-31T03:03:36Z" uid="4467" user="Rosscoe" changeset="6816206">
+    <nd ref="725879896"/>
+    <nd ref="1074530620"/>
+    <nd ref="1074530621"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="92612307" version="1" timestamp="2010-12-31T03:03:36Z" uid="4467" user="Rosscoe" changeset="6816206">
+    <nd ref="631130672"/>
+    <nd ref="269866241"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Boulder Avenue"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="92612309" version="1" timestamp="2010-12-31T03:03:36Z" uid="4467" user="Rosscoe" changeset="6816206">
+    <nd ref="31204664"/>
+    <nd ref="1074530622"/>
+    <nd ref="1074530618"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="92612044" version="3" timestamp="2012-07-20T08:35:08Z" uid="722137" user="OSMF Redaction Account" changeset="12368463">
+    <nd ref="1074529708"/>
+    <nd ref="1074529693"/>
+    <nd ref="258335219"/>
+    <tag k="highway" v="tertiary_link"/>
+  </way>
+  <way id="92612051" version="3" timestamp="2012-07-20T08:35:08Z" uid="722137" user="OSMF Redaction Account" changeset="12368463">
+    <nd ref="1074529721"/>
+    <nd ref="1074529715"/>
+    <nd ref="1074529742"/>
+    <tag k="highway" v="tertiary_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="92612302" version="2" timestamp="2012-07-19T11:10:24Z" uid="722137" user="OSMF Redaction Account" changeset="12320750"/>
+  <way id="92612307" version="2" timestamp="2012-07-19T11:10:24Z" uid="722137" user="OSMF Redaction Account" changeset="12320750"/>
+  <way id="92612309" version="2" timestamp="2012-07-19T11:10:24Z" uid="722137" user="OSMF Redaction Account" changeset="12320750"/>
+</osm>

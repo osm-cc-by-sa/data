@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="107779473" version="2" timestamp="2011-04-16T01:56:27Z" uid="4467" user="Rosscoe" changeset="7874972">
+    <nd ref="1189186039"/>
+    <nd ref="1189186040"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Ethel Street"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="107779993" version="2" timestamp="2011-04-16T01:57:27Z" uid="4467" user="Rosscoe" changeset="7874975">
+    <nd ref="612761211"/>
+    <nd ref="612761212"/>
+    <nd ref="612761214"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Law Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="107779473" version="3" timestamp="2012-07-19T09:45:16Z" uid="722137" user="OSMF Redaction Account" changeset="12316692">
+    <nd ref="1189186040"/>
+    <nd ref="1189186039"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Ethel Street"/>
+    <tag k="oneway" v="-1"/>
+  </way>
+  <way id="107779993" version="3" timestamp="2012-07-19T09:45:20Z" uid="722137" user="OSMF Redaction Account" changeset="12316692">
+    <nd ref="612761211"/>
+    <nd ref="612761212"/>
+    <nd ref="612761214"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Law Street"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+</osm>

@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="60562057" version="1" timestamp="2010-05-29T14:52:05Z" uid="242497" user="cvl" changeset="4843525">
+    <nd ref="756588977"/>
+    <nd ref="756588988"/>
+    <nd ref="756588995"/>
+    <nd ref="756589002"/>
+    <nd ref="756589010"/>
+    <tag k="barrier" v="fence"/>
+  </way>
+  <way id="60562060" version="1" timestamp="2010-05-29T14:52:06Z" uid="242497" user="cvl" changeset="4843525">
+    <nd ref="756589010"/>
+    <nd ref="756589035"/>
+    <nd ref="756589044"/>
+    <nd ref="756589050"/>
+    <nd ref="756589056"/>
+    <nd ref="756589062"/>
+    <nd ref="756589067"/>
+    <tag k="barrier" v="wall"/>
+  </way>
+  <way id="60562810" version="2" timestamp="2011-02-16T10:58:19Z" uid="4467" user="Rosscoe" changeset="7302704">
+    <nd ref="258491979"/>
+    <nd ref="756599513"/>
+    <nd ref="756599518"/>
+    <nd ref="756599520"/>
+    <nd ref="756599523"/>
+    <nd ref="258491973"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Link Street"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="60562812" version="2" timestamp="2011-02-16T10:59:07Z" uid="4467" user="Rosscoe" changeset="7302704">
+    <nd ref="258491972"/>
+    <nd ref="1156217315"/>
+    <nd ref="258491973"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="60562057" version="2" timestamp="2012-07-19T17:16:16Z" uid="722137" user="OSMF Redaction Account" changeset="12341451"/>
+  <way id="60562060" version="2" timestamp="2012-07-19T17:16:15Z" uid="722137" user="OSMF Redaction Account" changeset="12341451"/>
+  <way id="60562810" version="3" timestamp="2012-07-20T07:23:26Z" uid="722137" user="OSMF Redaction Account" changeset="12365989">
+    <nd ref="258491979"/>
+    <nd ref="756599513"/>
+    <nd ref="756599518"/>
+    <nd ref="756599520"/>
+    <nd ref="756599523"/>
+    <nd ref="258491973"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Link Street"/>
+  </way>
+  <way id="60562810" version="4" timestamp="2012-07-22T10:28:35Z" uid="84700" user="Tim 001" changeset="12429878">
+    <nd ref="82262125"/>
+    <nd ref="258496001"/>
+    <nd ref="258491979"/>
+    <nd ref="756599513"/>
+    <nd ref="756599518"/>
+    <nd ref="756599520"/>
+    <nd ref="756599523"/>
+    <nd ref="258491973"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Link Street"/>
+  </way>
+  <way id="60562812" version="3" timestamp="2012-07-20T07:20:55Z" uid="722137" user="OSMF Redaction Account" changeset="12365930">
+    <nd ref="258491972"/>
+    <nd ref="258491973"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+</osm>

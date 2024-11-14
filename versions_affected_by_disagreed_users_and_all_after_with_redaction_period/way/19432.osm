@@ -1,0 +1,949 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="19432368" version="6" timestamp="2010-07-06T09:49:26Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="202046747"/>
+    <nd ref="170931998"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Wright Street"/>
+    <tag k="source" v="GPS"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="19432368" version="7" timestamp="2012-01-15T20:06:16Z" uid="147510" user="woodpeck_fixbot" changeset="10400850">
+    <nd ref="202046747"/>
+    <nd ref="170931998"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Wright Street"/>
+    <tag k="source" v="GPS"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="19432511" version="2" timestamp="2009-09-09T04:26:09Z" uid="99207" user="Lar Kiesel" changeset="2421062">
+    <nd ref="202090842"/>
+    <nd ref="490523315"/>
+    <tag k="highway" v="residential"/>
+    <tag k="layer" v="-1"/>
+    <tag k="name" v="State Highway 73"/>
+    <tag k="tiger:cfcc" v="A43"/>
+    <tag k="tiger:county" v="Cocke, TN"/>
+    <tag k="tiger:name_base" v="State Highway 73"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="132771947"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-fb0dbcba-fa1b-43d1-ad55-0e90f026b241"/>
+  </way>
+  <way id="19432511" version="3" timestamp="2010-04-08T12:08:13Z" uid="207745" user="NE2" changeset="4363590">
+    <nd ref="202090842"/>
+    <nd ref="490523315"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="State Highway 73"/>
+    <tag k="tiger:cfcc" v="A43"/>
+    <tag k="tiger:county" v="Cocke, TN"/>
+    <tag k="tiger:name_base" v="State Highway 73"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="132771947"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-fb0dbcba-fa1b-43d1-ad55-0e90f026b241"/>
+  </way>
+  <way id="19432511" version="4" timestamp="2011-05-01T01:37:50Z" uid="207745" user="NE2" changeset="8017232"/>
+  <way id="19432527" version="1" timestamp="2008-01-01T23:19:51Z" uid="6454" user="B10xxx" changeset="516422">
+    <nd ref="31192679"/>
+    <nd ref="31192876"/>
+    <tag k="created_by" v="Potlatch 0.6"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="19432527" version="2" timestamp="2009-08-28T12:13:11Z" uid="53867" user="Groppe" changeset="2289282">
+    <nd ref="31192679"/>
+    <nd ref="31192876"/>
+    <tag k="created_by" v="Potlatch 0.6"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Lorcher Straße"/>
+  </way>
+  <way id="19432527" version="3" timestamp="2012-01-18T16:58:54Z" uid="328555" user="peb12345" changeset="10429175"/>
+  <way id="19432586" version="2" timestamp="2009-09-09T04:26:15Z" uid="99207" user="Lar Kiesel" changeset="2421062">
+    <nd ref="202091660"/>
+    <nd ref="490523319"/>
+    <nd ref="202091667"/>
+    <nd ref="490523320"/>
+    <nd ref="202091671"/>
+    <nd ref="202091677"/>
+    <nd ref="202091680"/>
+    <nd ref="202091686"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Zanzabar Rd"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Cocke, TN"/>
+    <tag k="tiger:name_base" v="Zanzabar"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="132780510:132780513:132783631"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-fb0dbcba-fa1b-43d1-ad55-0e90f026b241"/>
+    <tag k="tiger:zip_left" v="37821"/>
+    <tag k="tiger:zip_right" v="37821"/>
+  </way>
+  <way id="19432610" version="2" timestamp="2010-03-27T23:27:26Z" uid="20587" user="balrog-kun" changeset="4250871">
+    <nd ref="60954491"/>
+    <nd ref="202091785"/>
+    <nd ref="202091793"/>
+    <nd ref="202091799"/>
+    <nd ref="202091810"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="Lincoln Boulevard"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="CA 1"/>
+  </way>
+  <way id="19432614" version="2" timestamp="2010-03-27T23:27:26Z" uid="20587" user="balrog-kun" changeset="4250871">
+    <nd ref="202091810"/>
+    <nd ref="21302837"/>
+    <nd ref="26427492"/>
+    <nd ref="202091568"/>
+    <nd ref="21302838"/>
+    <nd ref="60954491"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="Lincoln Boulevard"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="CA 1"/>
+  </way>
+  <way id="19432643" version="1" timestamp="2008-01-01T23:20:32Z" uid="6454" user="B10xxx" changeset="516422">
+    <nd ref="31192406"/>
+    <nd ref="202092111"/>
+    <nd ref="202092112"/>
+    <nd ref="202092113"/>
+    <nd ref="202092114"/>
+    <nd ref="202092115"/>
+    <nd ref="202092116"/>
+    <nd ref="202092117"/>
+    <nd ref="202092118"/>
+    <nd ref="69593494"/>
+    <tag k="created_by" v="Potlatch 0.6"/>
+  </way>
+  <way id="19432643" version="2" timestamp="2008-01-01T23:22:06Z" uid="6454" user="B10xxx" changeset="516422">
+    <nd ref="31192406"/>
+    <nd ref="202092111"/>
+    <nd ref="202092112"/>
+    <nd ref="202092113"/>
+    <nd ref="202092114"/>
+    <tag k="created_by" v="Potlatch 0.6"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="19432643" version="4" timestamp="2008-04-01T21:53:08Z" uid="17602" user="B10xyz" changeset="11942">
+    <nd ref="31192406"/>
+    <nd ref="202092111"/>
+    <nd ref="202092112"/>
+    <nd ref="202092113"/>
+    <nd ref="31191323"/>
+    <nd ref="202092114"/>
+    <tag k="created_by" v="Potlatch 0.6"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Wiesbadener Straße"/>
+  </way>
+  <way id="19432643" version="5" timestamp="2008-06-10T09:52:45Z" uid="17602" user="B10xyz" changeset="121881">
+    <nd ref="31192406"/>
+    <nd ref="269491923"/>
+    <nd ref="202092111"/>
+    <nd ref="202092112"/>
+    <nd ref="202092113"/>
+    <nd ref="31191323"/>
+    <nd ref="202092114"/>
+    <tag k="created_by" v="Potlatch 0.6"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Wiesbadener Straße"/>
+  </way>
+  <way id="19432643" version="6" timestamp="2008-12-22T11:43:31Z" uid="85114" user="netbui" changeset="540038">
+    <nd ref="31192406"/>
+    <nd ref="269491923"/>
+    <nd ref="202092111"/>
+    <nd ref="202092112"/>
+    <nd ref="202092113"/>
+    <nd ref="31191323"/>
+    <nd ref="202092114"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Wiesbadener Straße"/>
+  </way>
+  <way id="19432643" version="7" timestamp="2009-04-12T16:30:56Z" uid="116155" user="osmraid6" changeset="461491">
+    <nd ref="31192406"/>
+    <nd ref="269491923"/>
+    <nd ref="202092111"/>
+    <nd ref="202092112"/>
+    <nd ref="202092113"/>
+    <nd ref="31191323"/>
+    <nd ref="373348742"/>
+    <nd ref="202092114"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Wiesbadener Straße"/>
+  </way>
+  <way id="19432643" version="8" timestamp="2010-02-17T01:17:37Z" uid="94353" user="Fips" changeset="3897724">
+    <nd ref="202092111"/>
+    <nd ref="269491923"/>
+    <nd ref="31192406"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Wiesbadener Straße"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="19432643" version="9" timestamp="2012-01-18T16:58:56Z" uid="328555" user="peb12345" changeset="10429175"/>
+  <way id="19432668" version="1" timestamp="2008-01-01T23:20:37Z" uid="6454" user="B10xxx" changeset="516422">
+    <nd ref="202092114"/>
+    <nd ref="202092115"/>
+    <nd ref="202092116"/>
+    <nd ref="202092117"/>
+    <nd ref="202092118"/>
+    <nd ref="69593494"/>
+    <tag k="created_by" v="Potlatch 0.6"/>
+  </way>
+  <way id="19432668" version="2" timestamp="2008-01-01T23:22:14Z" uid="6454" user="B10xxx" changeset="516422">
+    <nd ref="202092114"/>
+    <nd ref="202092115"/>
+    <nd ref="202092116"/>
+    <nd ref="202092117"/>
+    <nd ref="202092118"/>
+    <nd ref="69593494"/>
+    <tag k="created_by" v="Potlatch 0.6"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="19432668" version="3" timestamp="2008-01-01T23:23:13Z" uid="6454" user="B10xxx" changeset="516422">
+    <nd ref="202092114"/>
+    <nd ref="202092115"/>
+    <nd ref="202092116"/>
+    <nd ref="202096438"/>
+    <nd ref="202092117"/>
+    <nd ref="202092118"/>
+    <nd ref="69593494"/>
+    <tag k="created_by" v="Potlatch 0.6"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="19432668" version="10" timestamp="2008-01-12T02:55:17Z" uid="6454" user="B10xxx" changeset="612006">
+    <nd ref="202092114"/>
+    <nd ref="202092115"/>
+    <nd ref="202092116"/>
+    <nd ref="202096438"/>
+    <nd ref="202092117"/>
+    <nd ref="202092118"/>
+    <nd ref="69593494"/>
+    <nd ref="204767412"/>
+    <nd ref="204767413"/>
+    <nd ref="204778365"/>
+    <nd ref="204767414"/>
+    <nd ref="204767415"/>
+    <nd ref="204767417"/>
+    <nd ref="204776576"/>
+    <nd ref="204767418"/>
+    <nd ref="219595079"/>
+    <nd ref="204767419"/>
+    <nd ref="204767420"/>
+    <nd ref="204767422"/>
+    <nd ref="204767423"/>
+    <tag k="created_by" v="Potlatch 0.6a"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Schönbergstraße"/>
+  </way>
+  <way id="19432668" version="11" timestamp="2008-01-12T02:55:26Z" uid="6454" user="B10xxx" changeset="612006">
+    <nd ref="202092114"/>
+    <nd ref="202092115"/>
+    <nd ref="202092116"/>
+    <nd ref="202096438"/>
+    <nd ref="202092117"/>
+    <nd ref="202092118"/>
+    <nd ref="69593494"/>
+    <nd ref="204767412"/>
+    <nd ref="204767413"/>
+    <nd ref="204778365"/>
+    <nd ref="204767414"/>
+    <nd ref="204767415"/>
+    <nd ref="204767417"/>
+    <nd ref="204776576"/>
+    <nd ref="204767418"/>
+    <nd ref="219595079"/>
+    <nd ref="204767419"/>
+    <nd ref="204767420"/>
+    <nd ref="204767422"/>
+    <nd ref="204767423"/>
+    <tag k="created_by" v="Potlatch 0.6a"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Schönbergstraße"/>
+  </way>
+  <way id="19432668" version="12" timestamp="2008-05-25T14:30:32Z" uid="23785" user="Simon Kokolakis" changeset="517807">
+    <nd ref="202092114"/>
+    <nd ref="202092115"/>
+    <nd ref="202092116"/>
+    <nd ref="202096438"/>
+    <nd ref="202092117"/>
+    <nd ref="266804425"/>
+    <nd ref="202092118"/>
+    <nd ref="69593494"/>
+    <nd ref="204767412"/>
+    <nd ref="204767413"/>
+    <nd ref="204778365"/>
+    <nd ref="204767414"/>
+    <nd ref="204767415"/>
+    <nd ref="204767417"/>
+    <nd ref="204776576"/>
+    <nd ref="204767418"/>
+    <nd ref="219595079"/>
+    <nd ref="204767419"/>
+    <nd ref="204767420"/>
+    <nd ref="204767422"/>
+    <nd ref="204767423"/>
+    <tag k="created_by" v="Potlatch 0.9a"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Schönbergstraße"/>
+  </way>
+  <way id="19432668" version="13" timestamp="2008-05-29T13:12:16Z" uid="17602" user="B10xyz" changeset="545452">
+    <nd ref="202092114"/>
+    <nd ref="202092115"/>
+    <nd ref="202092116"/>
+    <nd ref="202096438"/>
+    <nd ref="202092117"/>
+    <nd ref="266804425"/>
+    <nd ref="202092118"/>
+    <nd ref="267350926"/>
+    <nd ref="69593494"/>
+    <tag k="created_by" v="Potlatch 0.9a"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Schönbergstraße"/>
+  </way>
+  <way id="19432668" version="14" timestamp="2010-03-31T14:25:03Z" uid="28378" user="PHerison" changeset="4285754">
+    <nd ref="202092114"/>
+    <nd ref="202092115"/>
+    <nd ref="202092116"/>
+    <nd ref="202096438"/>
+    <nd ref="202092117"/>
+    <nd ref="266804425"/>
+    <nd ref="202092118"/>
+    <nd ref="267350926"/>
+    <nd ref="69593494"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Schönbergstraße"/>
+  </way>
+  <way id="19432668" version="15" timestamp="2010-08-26T18:30:19Z" uid="28378" user="PHerison" changeset="5601439">
+    <nd ref="202092114"/>
+    <nd ref="202092115"/>
+    <nd ref="881019748"/>
+    <nd ref="202092116"/>
+    <nd ref="202096438"/>
+    <nd ref="202092117"/>
+    <nd ref="266804425"/>
+    <nd ref="202092118"/>
+    <nd ref="267350926"/>
+    <nd ref="69593494"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Schönbergstraße"/>
+  </way>
+  <way id="19432668" version="16" timestamp="2010-09-16T13:30:26Z" uid="28378" user="PHerison" changeset="5795669">
+    <nd ref="202092114"/>
+    <nd ref="202092115"/>
+    <nd ref="881019748"/>
+    <nd ref="202092116"/>
+    <nd ref="202096438"/>
+    <nd ref="202092117"/>
+    <nd ref="266804425"/>
+    <nd ref="202092118"/>
+    <nd ref="914486953"/>
+    <nd ref="267350926"/>
+    <nd ref="69593494"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Schönbergstraße"/>
+  </way>
+  <way id="19432668" version="17" timestamp="2011-03-01T18:43:02Z" uid="212897" user="richtest" changeset="7431671">
+    <nd ref="202092114"/>
+    <nd ref="202092115"/>
+    <nd ref="881019748"/>
+    <nd ref="202092116"/>
+    <nd ref="202096438"/>
+    <nd ref="202092117"/>
+    <nd ref="266804425"/>
+    <nd ref="202092118"/>
+    <nd ref="914486953"/>
+    <nd ref="267350926"/>
+    <nd ref="69593494"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Schönbergstraße"/>
+  </way>
+  <way id="19432668" version="18" timestamp="2011-12-30T21:01:00Z" uid="328555" user="peb12345" changeset="10249660"/>
+  <way id="19432758" version="7" timestamp="2010-07-06T09:53:07Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="202046749"/>
+    <nd ref="202106884"/>
+    <nd ref="202106886"/>
+    <nd ref="202106290"/>
+    <nd ref="202106889"/>
+    <nd ref="787053753"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Main Avenue"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="19432758" version="8" timestamp="2012-01-15T20:06:18Z" uid="147510" user="woodpeck_fixbot" changeset="10400850">
+    <nd ref="202046749"/>
+    <nd ref="202106884"/>
+    <nd ref="202106886"/>
+    <nd ref="202106290"/>
+    <nd ref="202106889"/>
+    <nd ref="787053753"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Main Avenue"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="19432826" version="2" timestamp="2009-09-09T04:42:20Z" uid="99207" user="Lar Kiesel" changeset="2421062">
+    <nd ref="202093931"/>
+    <nd ref="202093933"/>
+    <nd ref="202093935"/>
+    <nd ref="202093936"/>
+    <nd ref="202093939"/>
+    <nd ref="202087482"/>
+    <nd ref="202093943"/>
+    <nd ref="202093946"/>
+    <nd ref="202093949"/>
+    <nd ref="202093951"/>
+    <nd ref="202093955"/>
+    <nd ref="202093958"/>
+    <nd ref="202093961"/>
+    <nd ref="202093963"/>
+    <nd ref="202093966"/>
+    <nd ref="202093971"/>
+    <nd ref="202093974"/>
+    <nd ref="202093978"/>
+    <nd ref="202093980"/>
+    <nd ref="202093983"/>
+    <nd ref="202093986"/>
+    <nd ref="202093989"/>
+    <nd ref="202093992"/>
+    <nd ref="202093995"/>
+    <nd ref="202093997"/>
+    <nd ref="202093999"/>
+    <nd ref="202094001"/>
+    <nd ref="202094003"/>
+    <nd ref="202094005"/>
+    <nd ref="202094007"/>
+    <nd ref="202094010"/>
+    <nd ref="202094013"/>
+    <nd ref="202094016"/>
+    <nd ref="202063913"/>
+    <nd ref="202094018"/>
+    <nd ref="202094020"/>
+    <nd ref="202094024"/>
+    <nd ref="202094026"/>
+    <nd ref="202063103"/>
+    <nd ref="202094028"/>
+    <nd ref="202094032"/>
+    <nd ref="202094035"/>
+    <nd ref="202094039"/>
+    <nd ref="202094042"/>
+    <nd ref="202094046"/>
+    <nd ref="202086848"/>
+    <nd ref="202094049"/>
+    <nd ref="202094052"/>
+    <nd ref="202094053"/>
+    <nd ref="202094056"/>
+    <nd ref="202094060"/>
+    <nd ref="202094063"/>
+    <nd ref="202094068"/>
+    <nd ref="202094071"/>
+    <nd ref="202094074"/>
+    <nd ref="202094077"/>
+    <nd ref="202094081"/>
+    <nd ref="202094084"/>
+    <nd ref="202094086"/>
+    <nd ref="202094089"/>
+    <nd ref="202094090"/>
+    <nd ref="202094092"/>
+    <nd ref="202094094"/>
+    <nd ref="202094096"/>
+    <nd ref="202094098"/>
+    <nd ref="202088593"/>
+    <nd ref="202094100"/>
+    <nd ref="202094101"/>
+    <nd ref="202094103"/>
+    <nd ref="202094105"/>
+    <nd ref="202094107"/>
+    <nd ref="202094110"/>
+    <nd ref="202094112"/>
+    <nd ref="202094114"/>
+    <nd ref="202094116"/>
+    <nd ref="202094118"/>
+    <nd ref="202094120"/>
+    <nd ref="202094122"/>
+    <nd ref="202094125"/>
+    <nd ref="202094128"/>
+    <nd ref="202094130"/>
+    <nd ref="202094133"/>
+    <nd ref="202094136"/>
+    <nd ref="202094139"/>
+    <nd ref="202094142"/>
+    <nd ref="202078746"/>
+    <nd ref="202094146"/>
+    <nd ref="202094149"/>
+    <nd ref="202094152"/>
+    <nd ref="202078735"/>
+    <nd ref="202094155"/>
+    <nd ref="202094159"/>
+    <nd ref="202094161"/>
+    <nd ref="202094163"/>
+    <nd ref="202094164"/>
+    <nd ref="202070948"/>
+    <nd ref="202094165"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="Cosby Hwy"/>
+    <tag k="name_1" v="State Highway 32"/>
+    <tag k="name_2" v="United States Highway 321"/>
+    <tag k="ref" v="US 321; TN 32"/>
+    <tag k="tiger:cfcc" v="A21"/>
+    <tag k="tiger:county" v="Cocke, TN"/>
+    <tag k="tiger:name_base" v="Cosby"/>
+    <tag k="tiger:name_base_1" v="State Highway 32"/>
+    <tag k="tiger:name_base_2" v="United States Highway 321"/>
+    <tag k="tiger:name_type" v="Hwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="132784024:132771626:132784011:132773302:132773303"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-fb0dbcba-fa1b-43d1-ad55-0e90f026b241"/>
+    <tag k="tiger:zip_left" v="37821"/>
+  </way>
+  <way id="19432826" version="3" timestamp="2009-09-10T02:35:14Z" uid="99207" user="Lar Kiesel" changeset="2431678">
+    <nd ref="202093931"/>
+    <nd ref="202093933"/>
+    <nd ref="202093935"/>
+    <nd ref="202093936"/>
+    <nd ref="202093939"/>
+    <nd ref="202087482"/>
+    <nd ref="202093943"/>
+    <nd ref="202093946"/>
+    <nd ref="202093949"/>
+    <nd ref="202093951"/>
+    <nd ref="202093955"/>
+    <nd ref="202093958"/>
+    <nd ref="202093961"/>
+    <nd ref="202093963"/>
+    <nd ref="202093966"/>
+    <nd ref="202093971"/>
+    <nd ref="202093974"/>
+    <nd ref="202093978"/>
+    <nd ref="202093980"/>
+    <nd ref="202093983"/>
+    <nd ref="202093986"/>
+    <nd ref="202093989"/>
+    <nd ref="202093992"/>
+    <nd ref="202093995"/>
+    <nd ref="202093997"/>
+    <nd ref="202093999"/>
+    <nd ref="202094001"/>
+    <nd ref="202094003"/>
+    <nd ref="202094005"/>
+    <nd ref="202094007"/>
+    <nd ref="202094010"/>
+    <nd ref="202094013"/>
+    <nd ref="202094016"/>
+    <nd ref="202063913"/>
+    <nd ref="202094018"/>
+    <nd ref="202094020"/>
+    <nd ref="202094024"/>
+    <nd ref="202094026"/>
+    <nd ref="202063103"/>
+    <nd ref="202094028"/>
+    <nd ref="202094032"/>
+    <nd ref="202094035"/>
+    <nd ref="202094039"/>
+    <nd ref="202094042"/>
+    <nd ref="202094046"/>
+    <nd ref="202086848"/>
+    <nd ref="202094049"/>
+    <nd ref="202094052"/>
+    <nd ref="202094053"/>
+    <nd ref="202094056"/>
+    <nd ref="202094060"/>
+    <nd ref="202094063"/>
+    <nd ref="202094068"/>
+    <nd ref="202094071"/>
+    <nd ref="202094074"/>
+    <nd ref="202094077"/>
+    <nd ref="202094081"/>
+    <nd ref="202094084"/>
+    <nd ref="202094086"/>
+    <nd ref="202094089"/>
+    <nd ref="202094090"/>
+    <nd ref="202094092"/>
+    <nd ref="202094094"/>
+    <nd ref="202094096"/>
+    <nd ref="202094098"/>
+    <nd ref="202088593"/>
+    <nd ref="202094100"/>
+    <nd ref="202094101"/>
+    <nd ref="202094103"/>
+    <nd ref="202094105"/>
+    <nd ref="202094107"/>
+    <nd ref="202094110"/>
+    <nd ref="202094112"/>
+    <nd ref="202094114"/>
+    <nd ref="202094116"/>
+    <nd ref="202094118"/>
+    <nd ref="202094120"/>
+    <nd ref="202094122"/>
+    <nd ref="202094125"/>
+    <nd ref="202094128"/>
+    <nd ref="202094130"/>
+    <nd ref="202094133"/>
+    <nd ref="202094136"/>
+    <nd ref="202094139"/>
+    <nd ref="202094142"/>
+    <nd ref="202078746"/>
+    <nd ref="202094146"/>
+    <nd ref="202094149"/>
+    <nd ref="202094152"/>
+    <nd ref="202078735"/>
+    <nd ref="202094155"/>
+    <nd ref="202094159"/>
+    <nd ref="202094161"/>
+    <nd ref="202094163"/>
+    <nd ref="202094164"/>
+    <nd ref="491834463"/>
+    <nd ref="202070948"/>
+    <nd ref="202094165"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="Cosby Hwy"/>
+    <tag k="name_1" v="State Highway 32"/>
+    <tag k="name_2" v="United States Highway 321"/>
+    <tag k="ref" v="US 321; TN 32"/>
+    <tag k="tiger:cfcc" v="A21"/>
+    <tag k="tiger:county" v="Cocke, TN"/>
+    <tag k="tiger:name_base" v="Cosby"/>
+    <tag k="tiger:name_base_1" v="State Highway 32"/>
+    <tag k="tiger:name_base_2" v="United States Highway 321"/>
+    <tag k="tiger:name_type" v="Hwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="132784024:132771626:132784011:132773302:132773303"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-fb0dbcba-fa1b-43d1-ad55-0e90f026b241"/>
+    <tag k="tiger:zip_left" v="37821"/>
+  </way>
+  <way id="19432826" version="4" timestamp="2009-09-13T19:26:21Z" uid="99207" user="Lar Kiesel" changeset="2474610">
+    <nd ref="202093931"/>
+    <nd ref="202093933"/>
+    <nd ref="202093935"/>
+    <nd ref="202093936"/>
+    <nd ref="202093939"/>
+    <nd ref="202087482"/>
+    <nd ref="202093943"/>
+    <nd ref="202093946"/>
+    <nd ref="202093949"/>
+    <nd ref="202093951"/>
+    <nd ref="202093955"/>
+    <nd ref="202093958"/>
+    <nd ref="202093961"/>
+    <nd ref="202093963"/>
+    <nd ref="202093966"/>
+    <nd ref="202093971"/>
+    <nd ref="202093974"/>
+    <nd ref="202093978"/>
+    <nd ref="202093980"/>
+    <nd ref="202093983"/>
+    <nd ref="202093986"/>
+    <nd ref="202093989"/>
+    <nd ref="202093992"/>
+    <nd ref="202093995"/>
+    <nd ref="202093997"/>
+    <nd ref="202093999"/>
+    <nd ref="202094001"/>
+    <nd ref="202094003"/>
+    <nd ref="202094005"/>
+    <nd ref="202094007"/>
+    <nd ref="202094010"/>
+    <nd ref="202094013"/>
+    <nd ref="202094016"/>
+    <nd ref="202063913"/>
+    <nd ref="202094018"/>
+    <nd ref="202094020"/>
+    <nd ref="202094024"/>
+    <nd ref="202094026"/>
+    <nd ref="202063103"/>
+    <nd ref="202094028"/>
+    <nd ref="202094032"/>
+    <nd ref="202094035"/>
+    <nd ref="202094039"/>
+    <nd ref="202094042"/>
+    <nd ref="202094046"/>
+    <nd ref="202086848"/>
+    <nd ref="202094049"/>
+    <nd ref="202094052"/>
+    <nd ref="202094053"/>
+    <nd ref="202094056"/>
+    <nd ref="202094060"/>
+    <nd ref="202094063"/>
+    <nd ref="202094068"/>
+    <nd ref="202094071"/>
+    <nd ref="202094074"/>
+    <nd ref="202094077"/>
+    <nd ref="202094081"/>
+    <nd ref="202094084"/>
+    <nd ref="202094086"/>
+    <nd ref="202094089"/>
+    <nd ref="202094090"/>
+    <nd ref="202094092"/>
+    <nd ref="202094094"/>
+    <nd ref="202094096"/>
+    <nd ref="202094098"/>
+    <nd ref="202088593"/>
+    <nd ref="202094100"/>
+    <nd ref="202094101"/>
+    <nd ref="202094103"/>
+    <nd ref="202094105"/>
+    <nd ref="202094107"/>
+    <nd ref="202094110"/>
+    <nd ref="202094112"/>
+    <nd ref="202094114"/>
+    <nd ref="202094116"/>
+    <nd ref="202094118"/>
+    <nd ref="202094120"/>
+    <nd ref="202094122"/>
+    <nd ref="202094125"/>
+    <nd ref="202094128"/>
+    <nd ref="202094130"/>
+    <nd ref="202094133"/>
+    <nd ref="202094136"/>
+    <nd ref="202094139"/>
+    <nd ref="202094142"/>
+    <nd ref="202078746"/>
+    <nd ref="202094146"/>
+    <nd ref="202094149"/>
+    <nd ref="202094152"/>
+    <nd ref="202078735"/>
+    <nd ref="202094155"/>
+    <nd ref="202094159"/>
+    <nd ref="202094161"/>
+    <nd ref="202094163"/>
+    <nd ref="202094164"/>
+    <nd ref="491834463"/>
+    <nd ref="202070948"/>
+    <nd ref="202094165"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="Cosby Hwy"/>
+    <tag k="name_1" v="State Highway 32"/>
+    <tag k="name_2" v="United States Highway 321"/>
+    <tag k="ref" v="US 321; SR 32"/>
+    <tag k="tiger:cfcc" v="A21"/>
+    <tag k="tiger:county" v="Cocke, TN"/>
+    <tag k="tiger:name_base" v="Cosby"/>
+    <tag k="tiger:name_base_1" v="State Highway 32"/>
+    <tag k="tiger:name_base_2" v="United States Highway 321"/>
+    <tag k="tiger:name_type" v="Hwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="132784024:132771626:132784011:132773302:132773303"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-fb0dbcba-fa1b-43d1-ad55-0e90f026b241"/>
+    <tag k="tiger:zip_left" v="37821"/>
+  </way>
+  <way id="19432826" version="5" timestamp="2010-02-26T06:19:31Z" uid="207745" user="NE2" changeset="3977836">
+    <nd ref="202093931"/>
+    <nd ref="202093933"/>
+    <nd ref="202093935"/>
+    <nd ref="202093936"/>
+    <nd ref="202093939"/>
+    <nd ref="202087482"/>
+    <nd ref="202093943"/>
+    <nd ref="202093946"/>
+    <nd ref="202093949"/>
+    <nd ref="202093951"/>
+    <nd ref="202093955"/>
+    <nd ref="202093958"/>
+    <nd ref="202093961"/>
+    <nd ref="202093963"/>
+    <nd ref="202093966"/>
+    <nd ref="202093971"/>
+    <nd ref="202093974"/>
+    <nd ref="202093978"/>
+    <nd ref="202093980"/>
+    <nd ref="202093983"/>
+    <nd ref="202093986"/>
+    <nd ref="202093989"/>
+    <nd ref="202093992"/>
+    <nd ref="202093995"/>
+    <nd ref="202093997"/>
+    <nd ref="202093999"/>
+    <nd ref="202094001"/>
+    <nd ref="202094003"/>
+    <nd ref="202094005"/>
+    <nd ref="202094007"/>
+    <nd ref="202094010"/>
+    <nd ref="202094013"/>
+    <nd ref="202094016"/>
+    <nd ref="202063913"/>
+    <nd ref="202094018"/>
+    <nd ref="202094020"/>
+    <nd ref="202094024"/>
+    <nd ref="202094026"/>
+    <nd ref="202063103"/>
+    <nd ref="202094028"/>
+    <nd ref="202094032"/>
+    <nd ref="202094035"/>
+    <nd ref="202094039"/>
+    <nd ref="202094042"/>
+    <nd ref="202094046"/>
+    <nd ref="202086848"/>
+    <nd ref="202094049"/>
+    <nd ref="202094052"/>
+    <nd ref="202094053"/>
+    <nd ref="202094056"/>
+    <nd ref="202094060"/>
+    <nd ref="202094063"/>
+    <nd ref="202094068"/>
+    <nd ref="202094071"/>
+    <nd ref="202094074"/>
+    <nd ref="202094077"/>
+    <nd ref="202094081"/>
+    <nd ref="202094084"/>
+    <nd ref="202094086"/>
+    <nd ref="202094089"/>
+    <nd ref="202094090"/>
+    <nd ref="202094092"/>
+    <nd ref="202094094"/>
+    <nd ref="202094096"/>
+    <nd ref="202094098"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Cosby Hwy"/>
+    <tag k="tiger:cfcc" v="A21"/>
+    <tag k="tiger:county" v="Cocke, TN"/>
+    <tag k="tiger:name_base" v="Cosby"/>
+    <tag k="tiger:name_base_1" v="State Highway 32"/>
+    <tag k="tiger:name_base_2" v="United States Highway 321"/>
+    <tag k="tiger:name_type" v="Hwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="132784024:132771626:132784011:132773302:132773303"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-fb0dbcba-fa1b-43d1-ad55-0e90f026b241"/>
+    <tag k="tiger:zip_left" v="37821"/>
+  </way>
+  <way id="19432826" version="6" timestamp="2011-10-11T15:47:03Z" uid="207745" user="NE2" changeset="9531596">
+    <nd ref="202093931"/>
+    <nd ref="202093933"/>
+    <nd ref="202093935"/>
+    <nd ref="202093936"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Cosby Hwy"/>
+    <tag k="tiger:cfcc" v="A21"/>
+    <tag k="tiger:county" v="Cocke, TN"/>
+    <tag k="tiger:name_base" v="Cosby"/>
+    <tag k="tiger:name_base_1" v="State Highway 32"/>
+    <tag k="tiger:name_base_2" v="United States Highway 321"/>
+    <tag k="tiger:name_type" v="Hwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="132784024:132771626:132784011:132773302:132773303"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-fb0dbcba-fa1b-43d1-ad55-0e90f026b241"/>
+    <tag k="tiger:zip_left" v="37821"/>
+  </way>
+  <way id="19432826" version="7" timestamp="2011-10-11T18:40:14Z" uid="207745" user="NE2" changeset="9533015">
+    <nd ref="202093931"/>
+    <nd ref="202093933"/>
+    <nd ref="202093935"/>
+    <nd ref="202093936"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Cosby Hwy"/>
+    <tag k="rcn" v="yes"/>
+    <tag k="tiger:cfcc" v="A21"/>
+    <tag k="tiger:county" v="Cocke, TN"/>
+    <tag k="tiger:name_base" v="Cosby"/>
+    <tag k="tiger:name_base_1" v="State Highway 32"/>
+    <tag k="tiger:name_base_2" v="United States Highway 321"/>
+    <tag k="tiger:name_type" v="Hwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="132784024:132771626:132784011:132773302:132773303"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-fb0dbcba-fa1b-43d1-ad55-0e90f026b241"/>
+    <tag k="tiger:zip_left" v="37821"/>
+  </way>
+  <way id="19432860" version="5" timestamp="2010-07-06T09:52:17Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="170931998"/>
+    <nd ref="202094630"/>
+    <nd ref="202094631"/>
+    <nd ref="202094633"/>
+    <nd ref="170929433"/>
+    <nd ref="202098853"/>
+    <nd ref="202098854"/>
+    <nd ref="202271942"/>
+    <nd ref="202271179"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Barton Parade"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="19432860" version="6" timestamp="2012-01-15T20:06:21Z" uid="147510" user="woodpeck_fixbot" changeset="10400850">
+    <nd ref="170931998"/>
+    <nd ref="202094630"/>
+    <nd ref="202094631"/>
+    <nd ref="202094633"/>
+    <nd ref="170929433"/>
+    <nd ref="202098853"/>
+    <nd ref="202098854"/>
+    <nd ref="202271942"/>
+    <nd ref="202271179"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Barton Parade"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="19432975" version="1" timestamp="2008-01-01T23:22:58Z" uid="6454" user="B10xxx" changeset="516422">
+    <nd ref="202096003"/>
+    <nd ref="202096005"/>
+    <nd ref="202096006"/>
+    <nd ref="202096008"/>
+    <nd ref="202096003"/>
+    <tag k="created_by" v="Potlatch 0.6"/>
+    <tag k="landuse" v="retail"/>
+  </way>
+  <way id="19432975" version="2" timestamp="2008-01-01T23:24:17Z" uid="6454" user="B10xxx" changeset="516422">
+    <nd ref="202096003"/>
+    <nd ref="202096005"/>
+    <nd ref="202096006"/>
+    <nd ref="202096008"/>
+    <nd ref="202096003"/>
+    <tag k="created_by" v="Potlatch 0.6"/>
+    <tag k="landuse" v="retail"/>
+  </way>
+  <way id="19432975" version="3" timestamp="2010-03-01T19:06:20Z" uid="28378" user="PHerison" changeset="4011167">
+    <nd ref="202096003"/>
+    <nd ref="202096005"/>
+    <nd ref="202096006"/>
+    <nd ref="202096008"/>
+    <nd ref="202096003"/>
+    <tag k="landuse" v="retail"/>
+  </way>
+  <way id="19432975" version="4" timestamp="2011-12-30T21:01:00Z" uid="328555" user="peb12345" changeset="10249660"/>
+  <way id="19432586" version="3" timestamp="2012-07-18T16:05:49Z" uid="722137" user="OSMF Redaction Account" changeset="12288168">
+    <nd ref="202091660"/>
+    <nd ref="202091667"/>
+    <nd ref="202091671"/>
+    <nd ref="202091677"/>
+    <nd ref="202091680"/>
+    <nd ref="202091686"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Zanzabar Rd"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Cocke, TN"/>
+    <tag k="tiger:name_base" v="Zanzabar"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="132780510:132780513:132783631"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-fb0dbcba-fa1b-43d1-ad55-0e90f026b241"/>
+    <tag k="tiger:zip_left" v="37821"/>
+    <tag k="tiger:zip_right" v="37821"/>
+  </way>
+  <way id="19432610" version="3" timestamp="2012-04-18T19:01:29Z" uid="104962" user="techlady" changeset="11347340"/>
+  <way id="19432614" version="3" timestamp="2012-04-18T19:01:29Z" uid="104962" user="techlady" changeset="11347340"/>
+</osm>

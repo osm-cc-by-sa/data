@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="100162302" version="2" timestamp="2011-02-19T20:21:14Z" uid="43863" user="Rundling" changeset="7336055">
+    <nd ref="1157775143"/>
+    <nd ref="1157775145"/>
+    <nd ref="1157775148"/>
+    <nd ref="1157775150"/>
+    <tag k="highway" v="residential"/>
+    <tag k="note" v="Zacko; Unverbunden; keine name"/>
+  </way>
+  <way id="100162302" version="3" timestamp="2011-02-19T22:38:05Z" uid="409082" user="Zacko" changeset="7337385">
+    <nd ref="1157775143"/>
+    <nd ref="1157775145"/>
+    <nd ref="1157775148"/>
+    <nd ref="1162322131"/>
+    <tag k="highway" v="track"/>
+    <tag k="note" v="Zacko; Unverbunden; keine name"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="100162302" version="4" timestamp="2011-02-20T09:43:42Z" uid="43863" user="Rundling" changeset="7339998">
+    <nd ref="1157775143"/>
+    <nd ref="1157775145"/>
+    <nd ref="1157775148"/>
+    <nd ref="1162322131"/>
+    <tag k="highway" v="track"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="100162302" version="5" timestamp="2011-03-02T19:21:18Z" uid="409082" user="Zacko" changeset="7440376">
+    <nd ref="1183265342"/>
+    <nd ref="1183265326"/>
+    <nd ref="1183265376"/>
+    <nd ref="1183265339"/>
+    <nd ref="1183265343"/>
+    <nd ref="1183265364"/>
+    <tag k="highway" v="track"/>
+    <tag k="surface" v="cobblestone"/>
+    <tag k="tracktype" v="grade2"/>
+  </way>
+</osm>

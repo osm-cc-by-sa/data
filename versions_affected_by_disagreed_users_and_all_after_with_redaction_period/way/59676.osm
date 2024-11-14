@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="59676493" version="1" timestamp="2010-05-20T02:31:40Z" uid="244897" user="M526244" changeset="4753521">
+    <nd ref="740274633"/>
+    <nd ref="740274663"/>
+    <nd ref="740274664"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Hall Court"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="59676493" version="2" timestamp="2010-07-07T07:17:51Z" uid="74617" user="JohnSmith" changeset="5156250">
+    <nd ref="740274633"/>
+    <nd ref="740274663"/>
+    <nd ref="740274664"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Hall Court"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="59676493" version="3" timestamp="2012-01-20T08:16:35Z" uid="147510" user="woodpeck_fixbot" changeset="10443754">
+    <nd ref="740274633"/>
+    <nd ref="740274663"/>
+    <nd ref="740274664"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Hall Court"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="59676874" version="2" timestamp="2010-07-27T08:51:43Z" uid="4467" user="Rosscoe" changeset="5327375"/>
+  <way id="59676875" version="3" timestamp="2010-07-27T08:51:45Z" uid="4467" user="Rosscoe" changeset="5327375"/>
+  <way id="59676876" version="2" timestamp="2010-07-27T08:51:02Z" uid="4467" user="Rosscoe" changeset="5327375">
+    <nd ref="740300031"/>
+    <nd ref="835191270"/>
+    <nd ref="740300033"/>
+    <nd ref="740300035"/>
+    <nd ref="740300038"/>
+    <nd ref="740300040"/>
+    <nd ref="740300031"/>
+    <tag k="amenity" v="parking"/>
+  </way>
+  <way id="59676878" version="2" timestamp="2010-07-27T08:51:44Z" uid="4467" user="Rosscoe" changeset="5327375"/>
+  <way id="59676493" version="4" timestamp="2012-07-19T16:56:50Z" uid="722137" user="OSMF Redaction Account" changeset="12340943"/>
+  <way id="59676876" version="3" timestamp="2012-06-25T03:37:00Z" uid="709684" user="gdal" changeset="12006734">
+    <nd ref="740300031"/>
+    <nd ref="835191270"/>
+    <nd ref="740300033"/>
+    <nd ref="740300035"/>
+    <nd ref="740300038"/>
+    <nd ref="740300040"/>
+    <nd ref="740300031"/>
+    <tag k="access" v="private"/>
+    <tag k="addr:city" v="Brighton"/>
+    <tag k="amenity" v="parking"/>
+    <tag k="name" v="Royal Brighton Yacht Club"/>
+  </way>
+  <way id="59676876" version="4" timestamp="2012-07-19T13:25:23Z" uid="722137" user="OSMF Redaction Account" changeset="12329050">
+    <nd ref="740300031"/>
+    <nd ref="740300033"/>
+    <nd ref="740300035"/>
+    <nd ref="740300038"/>
+    <nd ref="740300040"/>
+    <nd ref="740300031"/>
+    <tag k="access" v="private"/>
+    <tag k="addr:city" v="Brighton"/>
+    <tag k="name" v="Royal Brighton Yacht Club"/>
+  </way>
+</osm>

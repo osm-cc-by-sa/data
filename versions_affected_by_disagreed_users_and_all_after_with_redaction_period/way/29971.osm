@@ -1,0 +1,668 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="29971597" version="8" timestamp="2010-03-28T00:44:47Z" uid="20587" user="balrog-kun" changeset="4250871">
+    <nd ref="306093353"/>
+    <nd ref="367793426"/>
+    <nd ref="91035111"/>
+    <nd ref="91034180"/>
+    <tag k="cycleway" v="lane"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="41st Avenue"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Santa Cruz, CA"/>
+    <tag k="tiger:name_base" v="41st"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="125507880:125507882"/>
+    <tag k="tiger:zip_left" v="95073"/>
+    <tag k="tiger:zip_right" v="95073"/>
+  </way>
+  <way id="29971601" version="7" timestamp="2010-03-28T00:44:47Z" uid="20587" user="balrog-kun" changeset="4250871">
+    <nd ref="91034224"/>
+    <nd ref="306093385"/>
+    <nd ref="306093386"/>
+    <nd ref="367793379"/>
+    <nd ref="306093353"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="cycleway" v="lane"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="41st Avenue"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Santa Cruz, CA"/>
+    <tag k="tiger:name_base" v="41st"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="125507880:125507882"/>
+    <tag k="tiger:zip_left" v="95073"/>
+    <tag k="tiger:zip_right" v="95073"/>
+  </way>
+  <way id="29971927" version="1" timestamp="2009-01-07T07:09:40Z" uid="8807" user="brendanpuck" changeset="752317">
+    <nd ref="55156054"/>
+    <nd ref="329965355"/>
+    <nd ref="329965357"/>
+    <tag k="highway" v="living_street"/>
+    <tag k="name" v="Watt Avenue"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="29971927" version="2" timestamp="2009-08-09T05:08:29Z" uid="1679" user="andrewpmk" changeset="2081302">
+    <nd ref="375486612"/>
+    <nd ref="329965355"/>
+    <nd ref="329965357"/>
+    <tag k="highway" v="living_street"/>
+    <tag k="name" v="Watt Avenue"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="29971927" version="3" timestamp="2009-12-06T00:37:38Z" uid="30201" user="rrankin" changeset="3299922">
+    <nd ref="375486612"/>
+    <nd ref="329965355"/>
+    <nd ref="329965357"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Watt Avenue"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="29971927" version="4" timestamp="2010-07-08T03:06:56Z" uid="74617" user="JohnSmith" changeset="5163091">
+    <nd ref="375486612"/>
+    <nd ref="329965355"/>
+    <nd ref="329965357"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Watt Avenue"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="29971927" version="5" timestamp="2012-01-18T02:24:45Z" uid="147510" user="woodpeck_fixbot" changeset="10424025">
+    <nd ref="375486612"/>
+    <nd ref="329965355"/>
+    <nd ref="329965357"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Watt Avenue"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="29971928" version="1" timestamp="2009-01-07T07:09:41Z" uid="8807" user="brendanpuck" changeset="752317">
+    <nd ref="329965361"/>
+    <nd ref="47382966"/>
+    <tag k="created_by" v="Potlatch alpha"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Avenue of Africa"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="29971928" version="2" timestamp="2010-05-29T10:58:40Z" uid="7617" user="Franc" changeset="4841396">
+    <nd ref="755864106"/>
+    <nd ref="329965361"/>
+    <nd ref="47382966"/>
+    <nd ref="47382965"/>
+    <nd ref="755863963"/>
+    <nd ref="755863962"/>
+    <nd ref="47383212"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Avenue of Africa"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="29971929" version="1" timestamp="2009-01-07T07:09:42Z" uid="8807" user="brendanpuck" changeset="752317">
+    <nd ref="55156869"/>
+    <nd ref="329965362"/>
+    <nd ref="329965363"/>
+    <nd ref="329965364"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="29971929" version="2" timestamp="2010-05-29T09:31:50Z" uid="7617" user="Franc" changeset="4840788">
+    <nd ref="55156869"/>
+    <nd ref="755814830"/>
+    <nd ref="755814831"/>
+    <nd ref="329965362"/>
+    <nd ref="755814829"/>
+    <nd ref="329965363"/>
+    <nd ref="755814828"/>
+    <nd ref="329965364"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="29971929" version="3" timestamp="2010-12-26T11:10:54Z" uid="7617" user="Franc" changeset="6766987">
+    <nd ref="55156869"/>
+    <nd ref="755814830"/>
+    <nd ref="755814831"/>
+    <nd ref="329965362"/>
+    <nd ref="755814829"/>
+    <nd ref="329965363"/>
+    <nd ref="755814828"/>
+    <nd ref="329965364"/>
+    <tag k="fixme:sign:no" v="2010-12-26"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="29971930" version="1" timestamp="2009-01-07T07:09:43Z" uid="8807" user="brendanpuck" changeset="752317">
+    <nd ref="329965365"/>
+    <nd ref="329965370"/>
+    <nd ref="329965366"/>
+    <nd ref="329965368"/>
+    <nd ref="329965367"/>
+    <tag k="highway" v="service"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="29971930" version="2" timestamp="2010-05-29T09:31:50Z" uid="7617" user="Franc" changeset="4840788">
+    <nd ref="329965365"/>
+    <nd ref="329965370"/>
+    <nd ref="755814819"/>
+    <nd ref="329965366"/>
+    <nd ref="755814818"/>
+    <nd ref="329965368"/>
+    <nd ref="329965367"/>
+    <tag k="highway" v="service"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="29971930" version="3" timestamp="2010-12-26T11:13:28Z" uid="7617" user="Franc" changeset="6766987">
+    <nd ref="329965365"/>
+    <nd ref="329965370"/>
+    <nd ref="755814819"/>
+    <nd ref="329965366"/>
+    <nd ref="755814818"/>
+    <nd ref="329965368"/>
+    <nd ref="329965367"/>
+    <tag k="fixme:sign:no" v="2010-12-26"/>
+    <tag k="highway" v="service"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="29971931" version="1" timestamp="2009-01-07T07:09:44Z" uid="8807" user="brendanpuck" changeset="752317">
+    <nd ref="329965368"/>
+    <nd ref="329965369"/>
+    <nd ref="329965370"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="29971931" version="2" timestamp="2010-05-29T09:31:50Z" uid="7617" user="Franc" changeset="4840788">
+    <nd ref="329965368"/>
+    <nd ref="755814810"/>
+    <nd ref="755814817"/>
+    <nd ref="329965369"/>
+    <nd ref="329965370"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="29971931" version="3" timestamp="2010-12-26T11:13:00Z" uid="7617" user="Franc" changeset="6766987">
+    <nd ref="329965368"/>
+    <nd ref="755814810"/>
+    <nd ref="755814817"/>
+    <nd ref="329965369"/>
+    <nd ref="329965370"/>
+    <tag k="fixme:sign:no" v="2010-12-26"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="29971932" version="1" timestamp="2009-01-07T07:09:44Z" uid="8807" user="brendanpuck" changeset="752317">
+    <nd ref="329965371"/>
+    <nd ref="329965372"/>
+    <nd ref="329965377"/>
+    <nd ref="329965374"/>
+    <nd ref="329965373"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Thorpe Place"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="29971932" version="2" timestamp="2010-07-08T03:07:00Z" uid="74617" user="JohnSmith" changeset="5163091">
+    <nd ref="329965371"/>
+    <nd ref="329965372"/>
+    <nd ref="329965377"/>
+    <nd ref="329965374"/>
+    <nd ref="329965373"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Thorpe Place"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="29971932" version="3" timestamp="2010-12-26T11:10:00Z" uid="7617" user="Franc" changeset="6766987">
+    <nd ref="329965371"/>
+    <nd ref="329965372"/>
+    <nd ref="1065430158"/>
+    <nd ref="329965377"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Thorpe Place"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="29971932" version="4" timestamp="2012-01-18T02:24:47Z" uid="147510" user="woodpeck_fixbot" changeset="10424025">
+    <nd ref="329965371"/>
+    <nd ref="329965372"/>
+    <nd ref="1065430158"/>
+    <nd ref="329965377"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Thorpe Place"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="29971933" version="1" timestamp="2009-01-07T07:09:45Z" uid="8807" user="brendanpuck" changeset="752317">
+    <nd ref="329965374"/>
+    <nd ref="329965375"/>
+    <nd ref="329965376"/>
+    <nd ref="329965377"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="29971933" version="2" timestamp="2010-05-29T09:31:50Z" uid="7617" user="Franc" changeset="4840788">
+    <nd ref="329965374"/>
+    <nd ref="329965375"/>
+    <nd ref="755814816"/>
+    <nd ref="329965376"/>
+    <nd ref="329965377"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="29971933" version="3" timestamp="2010-12-26T11:09:31Z" uid="7617" user="Franc" changeset="6766987">
+    <nd ref="329965377"/>
+    <nd ref="329965374"/>
+    <nd ref="329965375"/>
+    <nd ref="755814816"/>
+    <nd ref="329965376"/>
+    <nd ref="329965377"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Thorpe Place"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="29971934" version="1" timestamp="2009-01-07T07:09:46Z" uid="8807" user="brendanpuck" changeset="752317">
+    <nd ref="329965379"/>
+    <nd ref="329965380"/>
+    <nd ref="329965381"/>
+    <nd ref="329965382"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="29971934" version="2" timestamp="2009-08-09T05:08:37Z" uid="1679" user="andrewpmk" changeset="2081302">
+    <nd ref="329965379"/>
+    <nd ref="372410857"/>
+    <nd ref="329965381"/>
+    <nd ref="329965382"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="29971935" version="1" timestamp="2009-01-07T07:09:47Z" uid="8807" user="brendanpuck" changeset="752317">
+    <nd ref="329965383"/>
+    <nd ref="329965384"/>
+    <nd ref="329965385"/>
+    <nd ref="329965386"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Cuthburt Place"/>
+  </way>
+  <way id="29971935" version="2" timestamp="2010-05-29T09:31:47Z" uid="7617" user="Franc" changeset="4840788">
+    <nd ref="329965383"/>
+    <nd ref="329965384"/>
+    <nd ref="755814764"/>
+    <nd ref="755814763"/>
+    <nd ref="755814767"/>
+    <nd ref="329965385"/>
+    <nd ref="755814768"/>
+    <nd ref="329965386"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Cuthburt Place"/>
+  </way>
+  <way id="29971935" version="3" timestamp="2010-07-08T03:07:06Z" uid="74617" user="JohnSmith" changeset="5163091">
+    <nd ref="329965383"/>
+    <nd ref="329965384"/>
+    <nd ref="755814764"/>
+    <nd ref="755814763"/>
+    <nd ref="755814767"/>
+    <nd ref="329965385"/>
+    <nd ref="755814768"/>
+    <nd ref="329965386"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Cuthburt Place"/>
+  </way>
+  <way id="29971935" version="4" timestamp="2012-01-18T02:24:48Z" uid="147510" user="woodpeck_fixbot" changeset="10424025">
+    <nd ref="329965383"/>
+    <nd ref="329965384"/>
+    <nd ref="755814764"/>
+    <nd ref="755814763"/>
+    <nd ref="755814767"/>
+    <nd ref="329965385"/>
+    <nd ref="755814768"/>
+    <nd ref="329965386"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Cuthburt Place"/>
+  </way>
+  <way id="29971936" version="1" timestamp="2009-01-07T07:09:48Z" uid="8807" user="brendanpuck" changeset="752317">
+    <nd ref="55157667"/>
+    <nd ref="329965383"/>
+    <nd ref="55157668"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Northam Avenue"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="29971936" version="2" timestamp="2010-05-29T09:31:47Z" uid="7617" user="Franc" changeset="4840788">
+    <nd ref="55157667"/>
+    <nd ref="755814765"/>
+    <nd ref="329965383"/>
+    <nd ref="55157668"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Northam Avenue"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="29971936" version="3" timestamp="2010-07-08T03:06:52Z" uid="74617" user="JohnSmith" changeset="5163091">
+    <nd ref="55157667"/>
+    <nd ref="755814765"/>
+    <nd ref="329965383"/>
+    <nd ref="55157668"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Northam Avenue"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="29971936" version="4" timestamp="2012-01-18T02:24:50Z" uid="147510" user="woodpeck_fixbot" changeset="10424025">
+    <nd ref="55157667"/>
+    <nd ref="755814765"/>
+    <nd ref="329965383"/>
+    <nd ref="55157668"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Northam Avenue"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="29971937" version="1" timestamp="2009-01-07T07:09:49Z" uid="8807" user="brendanpuck" changeset="752317">
+    <nd ref="55155809"/>
+    <nd ref="269674250"/>
+    <tag k="created_by" v="Potlatch alpha"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Bluegum Place"/>
+  </way>
+  <way id="29971937" version="2" timestamp="2010-07-08T03:07:05Z" uid="74617" user="JohnSmith" changeset="5163091">
+    <nd ref="55155809"/>
+    <nd ref="269674250"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Bluegum Place"/>
+  </way>
+  <way id="29971937" version="3" timestamp="2012-01-18T02:24:51Z" uid="147510" user="woodpeck_fixbot" changeset="10424025">
+    <nd ref="55155809"/>
+    <nd ref="269674250"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Bluegum Place"/>
+  </way>
+  <way id="29971956" version="8" timestamp="2010-05-17T15:36:55Z" uid="43967" user="railsnail" changeset="4729768">
+    <nd ref="329965442"/>
+    <nd ref="267005938"/>
+    <nd ref="737537327"/>
+    <nd ref="267005939"/>
+    <nd ref="267005943"/>
+    <nd ref="267005945"/>
+    <nd ref="401061440"/>
+    <nd ref="267005947"/>
+    <nd ref="401061429"/>
+    <nd ref="267005952"/>
+    <nd ref="632496140"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Weinstraße"/>
+  </way>
+  <way id="29971956" version="9" timestamp="2011-04-10T13:17:59Z" uid="115612" user="tyr_asd" changeset="7822803">
+    <nd ref="329965442"/>
+    <nd ref="1239787167"/>
+    <nd ref="267005938"/>
+    <nd ref="737537327"/>
+    <nd ref="267005939"/>
+    <nd ref="267005943"/>
+    <nd ref="267005945"/>
+    <nd ref="401061440"/>
+    <nd ref="267005947"/>
+    <nd ref="401061429"/>
+    <nd ref="267005952"/>
+    <nd ref="632496140"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Weinstraße"/>
+  </way>
+  <way id="29971956" version="10" timestamp="2012-01-08T20:15:10Z" uid="115612" user="tyr_asd" changeset="10336133">
+    <nd ref="329965442"/>
+    <nd ref="1239787167"/>
+    <nd ref="267005938"/>
+    <nd ref="1583198385"/>
+    <nd ref="1583198384"/>
+    <nd ref="267005943"/>
+    <nd ref="267005945"/>
+    <nd ref="401061440"/>
+    <nd ref="267005947"/>
+    <nd ref="401061429"/>
+    <nd ref="267005952"/>
+    <nd ref="632496140"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Weinstraße"/>
+  </way>
+  <way id="29971996" version="1" timestamp="2009-01-07T07:15:57Z" uid="8807" user="brendanpuck" changeset="752317">
+    <nd ref="329965684"/>
+    <nd ref="329965686"/>
+    <nd ref="329965688"/>
+    <nd ref="329965691"/>
+    <nd ref="329965684"/>
+    <tag k="amenity" v="bus_station"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="service" v="parking_aisle"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="29971997" version="1" timestamp="2009-01-07T07:15:58Z" uid="8807" user="brendanpuck" changeset="752317">
+    <nd ref="329965686"/>
+    <nd ref="329965708"/>
+    <nd ref="329965710"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="service" v="parking_aisle"/>
+  </way>
+  <way id="29971998" version="1" timestamp="2009-01-07T07:15:59Z" uid="8807" user="brendanpuck" changeset="752317">
+    <nd ref="329965712"/>
+    <nd ref="329965684"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="service" v="parking_aisle"/>
+  </way>
+  <way id="29971998" version="2" timestamp="2009-12-06T02:28:38Z" uid="30201" user="rrankin" changeset="3300209"/>
+  <way id="29971999" version="1" timestamp="2009-01-07T07:15:59Z" uid="8807" user="brendanpuck" changeset="752317">
+    <nd ref="329965715"/>
+    <nd ref="329965684"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="service" v="parking_aisle"/>
+  </way>
+  <way id="29971999" version="2" timestamp="2009-12-06T02:28:38Z" uid="30201" user="rrankin" changeset="3300209">
+    <nd ref="329965715"/>
+    <nd ref="582319557"/>
+    <nd ref="582319555"/>
+    <nd ref="582319559"/>
+    <nd ref="582319561"/>
+    <nd ref="329965686"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="service" v="parking_aisle"/>
+  </way>
+  <way id="29971927" version="6" timestamp="2012-07-20T07:18:06Z" uid="722137" user="OSMF Redaction Account" changeset="12365876"/>
+  <way id="29971928" version="3" timestamp="2012-07-09T14:08:11Z" uid="713671" user="auspod" changeset="12162664">
+    <nd ref="1818949123"/>
+    <nd ref="1818949198"/>
+    <nd ref="1818949218"/>
+    <nd ref="1818949190"/>
+    <nd ref="1818949065"/>
+    <nd ref="1818949179"/>
+    <nd ref="1818949225"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Avenue of Africa"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="29971928" version="4" timestamp="2012-07-20T07:11:39Z" uid="722137" user="OSMF Redaction Account" changeset="12365528">
+    <nd ref="1818949123"/>
+    <nd ref="1818949198"/>
+    <nd ref="1818949218"/>
+    <nd ref="1818949190"/>
+    <nd ref="1818949065"/>
+    <nd ref="1818949179"/>
+    <nd ref="1818949225"/>
+  </way>
+  <way id="29971928" version="5" timestamp="2012-07-30T21:17:17Z" uid="2585" user="rw_" changeset="12554189">
+    <nd ref="1818949123"/>
+    <nd ref="1818949198"/>
+    <nd ref="1818949218"/>
+    <nd ref="1818949190"/>
+    <nd ref="1818949065"/>
+    <nd ref="1818949179"/>
+    <nd ref="1818949225"/>
+    <tag k="highway" v="road"/>
+  </way>
+  <way id="29971928" version="6" timestamp="2012-08-18T06:34:55Z" uid="156866" user="bertboy" changeset="12769443">
+    <nd ref="1818949123"/>
+    <nd ref="1818949198"/>
+    <nd ref="1818949218"/>
+    <nd ref="1818949190"/>
+    <nd ref="1818949065"/>
+    <nd ref="1818949179"/>
+    <nd ref="1818949225"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="29971929" version="4" timestamp="2012-07-20T07:17:59Z" uid="722137" user="OSMF Redaction Account" changeset="12365876"/>
+  <way id="29971930" version="4" timestamp="2012-07-20T07:17:57Z" uid="722137" user="OSMF Redaction Account" changeset="12365840"/>
+  <way id="29971931" version="4" timestamp="2012-07-20T07:17:56Z" uid="722137" user="OSMF Redaction Account" changeset="12365840"/>
+  <way id="29971932" version="5" timestamp="2012-07-20T07:17:57Z" uid="722137" user="OSMF Redaction Account" changeset="12365840"/>
+  <way id="29971933" version="4" timestamp="2012-07-20T07:17:57Z" uid="722137" user="OSMF Redaction Account" changeset="12365840"/>
+  <way id="29971934" version="3" timestamp="2012-07-20T07:17:54Z" uid="722137" user="OSMF Redaction Account" changeset="12365840"/>
+  <way id="29971935" version="5" timestamp="2012-07-20T07:17:57Z" uid="722137" user="OSMF Redaction Account" changeset="12365840"/>
+  <way id="29971936" version="5" timestamp="2012-07-20T07:17:57Z" uid="722137" user="OSMF Redaction Account" changeset="12365840"/>
+  <way id="29971937" version="4" timestamp="2012-06-29T23:24:35Z" uid="713671" user="auspod" changeset="12061703">
+    <nd ref="1806676376"/>
+    <nd ref="1806676540"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Bluegum Place"/>
+  </way>
+  <way id="29971937" version="5" timestamp="2012-07-20T07:11:31Z" uid="722137" user="OSMF Redaction Account" changeset="12365528">
+    <nd ref="1806676376"/>
+    <nd ref="1806676540"/>
+  </way>
+  <way id="29971937" version="6" timestamp="2012-07-29T04:16:01Z" uid="2585" user="rw_" changeset="12530407">
+    <nd ref="1842185413"/>
+    <nd ref="1842185409"/>
+    <nd ref="1842185407"/>
+    <nd ref="1806676376"/>
+    <nd ref="1806676540"/>
+    <tag k="highway" v="road"/>
+  </way>
+  <way id="29971937" version="7" timestamp="2012-08-18T06:34:55Z" uid="156866" user="bertboy" changeset="12769443">
+    <nd ref="1842185413"/>
+    <nd ref="1842185409"/>
+    <nd ref="1842185407"/>
+    <nd ref="1806676376"/>
+    <nd ref="1806676540"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="29971937" version="8" timestamp="2012-08-22T09:31:39Z" uid="7523" user="inas" changeset="12818202">
+    <nd ref="1842185413"/>
+    <nd ref="1842185409"/>
+    <nd ref="1842185407"/>
+    <nd ref="1806676376"/>
+    <nd ref="1806676540"/>
+    <tag k="fixme" v="surveyme"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Blue Gum Place"/>
+    <tag k="note:fixme" v="sign points westwards only at eastern end of street, but doesn&apos;t look twisted or broken."/>
+    <tag k="source:name" v="sign (eastern end)"/>
+  </way>
+  <way id="29971956" version="11" timestamp="2012-05-31T19:21:13Z" uid="692701" user="Linusbz" changeset="11761199">
+    <nd ref="329965442"/>
+    <nd ref="1239787167"/>
+    <nd ref="267005938"/>
+    <nd ref="1583198385"/>
+    <nd ref="1583198384"/>
+    <nd ref="267005943"/>
+    <nd ref="267005945"/>
+    <nd ref="401061440"/>
+    <nd ref="267005947"/>
+    <nd ref="401061429"/>
+    <nd ref="267005952"/>
+    <nd ref="632496140"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Strada del Vino"/>
+  </way>
+  <way id="29971956" version="12" timestamp="2012-06-01T08:11:18Z" uid="115612" user="tyr_asd" changeset="11765122">
+    <nd ref="329965442"/>
+    <nd ref="1239787167"/>
+    <nd ref="267005938"/>
+    <nd ref="1583198385"/>
+    <nd ref="1583198384"/>
+    <nd ref="267005943"/>
+    <nd ref="267005945"/>
+    <nd ref="401061440"/>
+    <nd ref="267005947"/>
+    <nd ref="401061429"/>
+    <nd ref="267005952"/>
+    <nd ref="632496140"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Weinstraße - strada del Vino"/>
+    <tag k="name:de" v="Weinstraße"/>
+    <tag k="name:it" v="Strada del Vino"/>
+  </way>
+  <way id="29971956" version="13" timestamp="2012-07-16T16:02:43Z" uid="722137" user="OSMF Redaction Account" changeset="12247284">
+    <nd ref="329965442"/>
+    <nd ref="1239787167"/>
+    <nd ref="267005938"/>
+    <nd ref="1583198385"/>
+    <nd ref="1583198384"/>
+    <nd ref="267005943"/>
+    <nd ref="267005945"/>
+    <nd ref="401061440"/>
+    <nd ref="267005947"/>
+    <nd ref="401061429"/>
+    <nd ref="267005952"/>
+    <nd ref="632496140"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Weinstraße - strada del Vino"/>
+    <tag k="name:de" v="Weinstraße"/>
+    <tag k="name:it" v="Strada del Vino"/>
+  </way>
+  <way id="29971956" version="14" timestamp="2012-07-16T23:32:41Z" uid="115612" user="tyr_asd" changeset="12253530">
+    <nd ref="329965442"/>
+    <nd ref="1239787167"/>
+    <nd ref="267005938"/>
+    <nd ref="1583198385"/>
+    <nd ref="1583198384"/>
+    <nd ref="267005943"/>
+    <nd ref="267005945"/>
+    <nd ref="401061440"/>
+    <nd ref="267005947"/>
+    <nd ref="401061429"/>
+    <nd ref="267005952"/>
+    <nd ref="632496140"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Weinstraße - strada del Vino"/>
+    <tag k="name:de" v="Weinstraße"/>
+    <tag k="name:it" v="Strada del Vino"/>
+  </way>
+  <way id="29971956" version="15" timestamp="2012-09-06T10:09:56Z" uid="115612" user="tyr_asd" changeset="13007981">
+    <nd ref="329965442"/>
+    <nd ref="1239787167"/>
+    <nd ref="267005938"/>
+    <nd ref="1583198385"/>
+    <nd ref="1583198384"/>
+    <nd ref="267005943"/>
+    <nd ref="267005945"/>
+    <nd ref="401061440"/>
+    <nd ref="267005947"/>
+    <nd ref="401061429"/>
+    <nd ref="267005952"/>
+    <nd ref="632496140"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Weinstraße - Strada del Vino"/>
+    <tag k="name:de" v="Weinstraße"/>
+    <tag k="name:it" v="Strada del Vino"/>
+  </way>
+  <way id="29971996" version="2" timestamp="2012-07-20T07:17:44Z" uid="722137" user="OSMF Redaction Account" changeset="12365840"/>
+  <way id="29971997" version="2" timestamp="2012-07-20T07:17:46Z" uid="722137" user="OSMF Redaction Account" changeset="12365840"/>
+  <way id="29971999" version="3" timestamp="2012-07-20T07:17:44Z" uid="722137" user="OSMF Redaction Account" changeset="12365840"/>
+</osm>

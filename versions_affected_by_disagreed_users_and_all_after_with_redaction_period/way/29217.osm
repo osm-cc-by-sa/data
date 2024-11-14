@@ -1,0 +1,918 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="29217024" version="2" timestamp="2010-07-09T06:40:28Z" uid="74617" user="JohnSmith" changeset="5171134">
+    <nd ref="321367699"/>
+    <nd ref="321367722"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="source" v="yahoo"/>
+  </way>
+  <way id="29217024" version="3" timestamp="2012-01-18T00:52:04Z" uid="147510" user="woodpeck_fixbot" changeset="10423581">
+    <nd ref="321367699"/>
+    <nd ref="321367722"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="yahoo"/>
+  </way>
+  <way id="29217222" version="3" timestamp="2009-11-03T01:40:34Z" uid="36809" user="pfoten_weg_!_" changeset="3021530">
+    <nd ref="254067015"/>
+    <nd ref="255393539"/>
+    <nd ref="301510480"/>
+    <nd ref="254060826"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Potulicka"/>
+    <tag k="source" v="UMP-PL, ./UMP-Szczecin/src/SZCZECIN.ulice.txt"/>
+  </way>
+  <way id="29217300" version="4" timestamp="2009-11-03T02:04:09Z" uid="36809" user="pfoten_weg_!_" changeset="3021530">
+    <nd ref="307941728"/>
+    <nd ref="254060069"/>
+    <nd ref="307940357"/>
+    <nd ref="321590311"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Obotrycka"/>
+    <tag k="source" v="UMP-PL, ./UMP-Szczecin/src/SZCZECIN.ulice.txt"/>
+  </way>
+  <way id="29217301" version="6" timestamp="2009-04-10T11:07:06Z" uid="30632" user="antblant" changeset="370764">
+    <nd ref="321366671"/>
+    <nd ref="254060066"/>
+    <nd ref="254060071"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Obotrycka"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="UMP-PL, ./UMP-Szczecin/src/SZCZECIN.ulice.txt"/>
+  </way>
+  <way id="29217301" version="7" timestamp="2009-04-10T11:07:17Z" uid="30632" user="antblant" changeset="370764"/>
+  <way id="29217318" version="3" timestamp="2009-04-10T11:10:07Z" uid="30632" user="antblant" changeset="370764">
+    <nd ref="371444962"/>
+    <nd ref="321370107"/>
+    <nd ref="321370108"/>
+    <nd ref="321370107"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="highway" v="tertiary"/>
+  </way>
+  <way id="29217318" version="4" timestamp="2009-04-10T11:10:16Z" uid="30632" user="antblant" changeset="370764">
+    <nd ref="254060066"/>
+    <nd ref="321370107"/>
+    <nd ref="321370108"/>
+    <nd ref="321370107"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="highway" v="tertiary"/>
+  </way>
+  <way id="29217318" version="5" timestamp="2009-11-03T02:06:01Z" uid="36809" user="pfoten_weg_!_" changeset="3021530">
+    <nd ref="254060066"/>
+    <nd ref="321370107"/>
+    <nd ref="321370108"/>
+    <nd ref="321370107"/>
+    <tag k="highway" v="tertiary"/>
+  </way>
+  <way id="29217318" version="6" timestamp="2010-04-27T16:37:29Z" uid="30632" user="antblant" changeset="4542527">
+    <nd ref="254060066"/>
+    <nd ref="321370108"/>
+    <tag k="highway" v="tertiary"/>
+  </way>
+  <way id="29217378" version="1" timestamp="2008-12-23T22:25:30Z" uid="43863" user="Rundling" changeset="574593">
+    <nd ref="206278918"/>
+    <nd ref="206278913"/>
+    <nd ref="109400857"/>
+    <nd ref="109400854"/>
+    <nd ref="109400849"/>
+    <nd ref="109400845"/>
+    <nd ref="109400839"/>
+    <nd ref="109400835"/>
+    <nd ref="109400832"/>
+    <nd ref="109400827"/>
+    <nd ref="109400818"/>
+    <nd ref="109400816"/>
+    <nd ref="109400812"/>
+    <nd ref="109400794"/>
+    <tag k="created_by" v="Potlatch 0.8b"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Bahnhofstraße"/>
+  </way>
+  <way id="29217378" version="2" timestamp="2008-12-29T13:19:30Z" uid="72235" user="Basstoelpel" changeset="658173">
+    <nd ref="206278918"/>
+    <nd ref="322790579"/>
+    <nd ref="206278913"/>
+    <nd ref="109400857"/>
+    <nd ref="109400854"/>
+    <nd ref="109400849"/>
+    <nd ref="109400845"/>
+    <nd ref="109400839"/>
+    <nd ref="109400835"/>
+    <nd ref="109400832"/>
+    <nd ref="109400827"/>
+    <nd ref="109400818"/>
+    <nd ref="109400816"/>
+    <nd ref="109400812"/>
+    <nd ref="109400794"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Bahnhofstraße"/>
+  </way>
+  <way id="29217378" version="3" timestamp="2009-01-01T12:32:50Z" uid="72235" user="Basstoelpel" changeset="698550">
+    <nd ref="206278918"/>
+    <nd ref="322790579"/>
+    <nd ref="206278913"/>
+    <nd ref="109400854"/>
+    <nd ref="109400849"/>
+    <nd ref="109400845"/>
+    <nd ref="109400839"/>
+    <nd ref="109400835"/>
+    <nd ref="109400832"/>
+    <nd ref="109400827"/>
+    <nd ref="109400818"/>
+    <nd ref="109400816"/>
+    <nd ref="109400812"/>
+    <nd ref="109400794"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Bahnhofstraße"/>
+  </way>
+  <way id="29217378" version="4" timestamp="2009-01-01T14:13:49Z" uid="43863" user="Rundling" changeset="702079">
+    <nd ref="206278918"/>
+    <nd ref="322790579"/>
+    <nd ref="206278913"/>
+    <nd ref="109400854"/>
+    <nd ref="109400849"/>
+    <nd ref="109400845"/>
+    <nd ref="109400839"/>
+    <nd ref="109400835"/>
+    <nd ref="109400832"/>
+    <nd ref="109400827"/>
+    <nd ref="109400818"/>
+    <nd ref="109400816"/>
+    <nd ref="109400812"/>
+    <nd ref="109400794"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Bahnhofstraße"/>
+  </way>
+  <way id="29217378" version="5" timestamp="2009-01-22T11:22:26Z" uid="72235" user="Basstoelpel" changeset="823340">
+    <nd ref="206278918"/>
+    <nd ref="322790579"/>
+    <nd ref="206278913"/>
+    <nd ref="109400854"/>
+    <nd ref="109400849"/>
+    <nd ref="109400845"/>
+    <nd ref="109400839"/>
+    <nd ref="109400835"/>
+    <nd ref="109400832"/>
+    <nd ref="109400827"/>
+    <nd ref="109400818"/>
+    <nd ref="109400816"/>
+    <nd ref="109400812"/>
+    <nd ref="109400794"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Bahnhofstraße"/>
+    <tag k="postal_code" v="21398"/>
+  </way>
+  <way id="29217378" version="6" timestamp="2010-03-20T19:01:54Z" uid="129688" user="MHohmann" changeset="4183484">
+    <nd ref="206278918"/>
+    <nd ref="322790579"/>
+    <nd ref="206278913"/>
+    <nd ref="109400854"/>
+    <nd ref="109400849"/>
+    <nd ref="109400845"/>
+    <nd ref="109400839"/>
+    <nd ref="109400835"/>
+    <nd ref="109400832"/>
+    <nd ref="109400827"/>
+    <nd ref="109400818"/>
+    <nd ref="109400816"/>
+    <nd ref="109400812"/>
+    <nd ref="109400794"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Bahnhofstraße"/>
+    <tag k="postal_code" v="21398"/>
+    <tag k="ref" v="K 5"/>
+  </way>
+  <way id="29217502" version="3" timestamp="2011-01-08T23:09:28Z" uid="49111" user="Markus B" changeset="6910275">
+    <nd ref="61982938"/>
+    <nd ref="61971686"/>
+    <nd ref="1092651625"/>
+    <nd ref="321372335"/>
+    <nd ref="321372413"/>
+    <nd ref="321372414"/>
+    <nd ref="321372415"/>
+    <nd ref="1092651095"/>
+    <nd ref="321372416"/>
+    <nd ref="321372417"/>
+    <nd ref="321372418"/>
+    <nd ref="321372419"/>
+    <nd ref="321372420"/>
+    <nd ref="321372421"/>
+    <nd ref="321372422"/>
+    <nd ref="321372423"/>
+    <nd ref="321372424"/>
+    <nd ref="321372425"/>
+    <nd ref="321372426"/>
+    <nd ref="321372427"/>
+    <nd ref="1092651819"/>
+    <nd ref="1092650595"/>
+    <nd ref="1092651302"/>
+    <nd ref="1092649474"/>
+    <nd ref="321372428"/>
+    <nd ref="321372429"/>
+    <nd ref="321372430"/>
+    <nd ref="321372431"/>
+    <nd ref="321372432"/>
+    <nd ref="1092651536"/>
+    <nd ref="321372433"/>
+    <tag k="highway" v="unclassified"/>
+  </way>
+  <way id="29217502" version="4" timestamp="2011-04-25T18:10:21Z" uid="417063" user="Yiannisd" changeset="7966840">
+    <nd ref="61982938"/>
+    <nd ref="61971686"/>
+    <nd ref="1092651625"/>
+    <nd ref="321372335"/>
+    <nd ref="321372413"/>
+    <nd ref="321372414"/>
+    <nd ref="321372415"/>
+    <nd ref="1259925642"/>
+    <nd ref="1092651095"/>
+    <nd ref="321372416"/>
+    <nd ref="321372417"/>
+    <nd ref="321372418"/>
+    <nd ref="321372419"/>
+    <nd ref="321372420"/>
+    <nd ref="321372421"/>
+    <nd ref="321372422"/>
+    <nd ref="321372423"/>
+    <nd ref="321372424"/>
+    <nd ref="321372425"/>
+    <nd ref="321372426"/>
+    <nd ref="321372427"/>
+    <nd ref="1092651819"/>
+    <nd ref="1092650595"/>
+    <nd ref="1092651302"/>
+    <nd ref="1092649474"/>
+    <nd ref="321372428"/>
+    <nd ref="321372429"/>
+    <nd ref="321372430"/>
+    <nd ref="321372431"/>
+    <nd ref="321372432"/>
+    <nd ref="1092651536"/>
+    <nd ref="321372433"/>
+    <tag k="highway" v="unclassified"/>
+  </way>
+  <way id="29217502" version="5" timestamp="2011-04-26T10:30:21Z" uid="417063" user="Yiannisd" changeset="7972827">
+    <nd ref="61982938"/>
+    <nd ref="61971686"/>
+    <nd ref="1260601461"/>
+    <nd ref="1092651625"/>
+    <nd ref="321372335"/>
+    <nd ref="321372413"/>
+    <nd ref="321372414"/>
+    <nd ref="321372415"/>
+    <nd ref="1259925642"/>
+    <nd ref="1092651095"/>
+    <nd ref="321372416"/>
+    <nd ref="321372417"/>
+    <nd ref="321372418"/>
+    <nd ref="321372419"/>
+    <nd ref="321372420"/>
+    <nd ref="321372421"/>
+    <nd ref="321372422"/>
+    <nd ref="321372423"/>
+    <nd ref="321372424"/>
+    <nd ref="321372425"/>
+    <nd ref="321372426"/>
+    <nd ref="321372427"/>
+    <nd ref="1092651819"/>
+    <nd ref="1092650595"/>
+    <nd ref="1092651302"/>
+    <nd ref="1092649474"/>
+    <nd ref="321372428"/>
+    <nd ref="321372429"/>
+    <nd ref="321372430"/>
+    <nd ref="321372431"/>
+    <nd ref="321372432"/>
+    <nd ref="1092651536"/>
+    <nd ref="321372433"/>
+    <tag k="highway" v="unclassified"/>
+  </way>
+  <way id="29217541" version="1" timestamp="2008-12-23T22:29:45Z" uid="43863" user="Rundling" changeset="574593">
+    <nd ref="321372529"/>
+    <nd ref="110057880"/>
+    <nd ref="110057890"/>
+    <nd ref="110057894"/>
+    <nd ref="112149004"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="ref" v="K 28"/>
+  </way>
+  <way id="29217541" version="2" timestamp="2009-01-25T12:39:02Z" uid="93053" user="ABCLKLG" changeset="837742">
+    <nd ref="321372529"/>
+    <nd ref="110057880"/>
+    <nd ref="110057890"/>
+    <nd ref="110057894"/>
+    <nd ref="112149004"/>
+    <tag k="created_by" v="Merkaartor 0.12"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="ref" v="K 28"/>
+  </way>
+  <way id="29217541" version="3" timestamp="2009-05-17T20:07:03Z" uid="87429" user="k4r573n" changeset="1228746">
+    <nd ref="321372529"/>
+    <nd ref="110057880"/>
+    <nd ref="110057890"/>
+    <nd ref="110057894"/>
+    <nd ref="112149004"/>
+    <tag k="created_by" v="Merkaartor 0.12"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Hauptstraße"/>
+    <tag k="ref" v="K 28"/>
+  </way>
+  <way id="29217541" version="4" timestamp="2009-06-12T18:05:02Z" uid="87429" user="k4r573n" changeset="1498734">
+    <nd ref="321372529"/>
+    <nd ref="110057880"/>
+    <nd ref="110057890"/>
+    <nd ref="419293485"/>
+    <nd ref="110057894"/>
+    <nd ref="112149004"/>
+    <tag k="created_by" v="Merkaartor 0.12"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Hauptstraße"/>
+    <tag k="ref" v="K 28"/>
+  </way>
+  <way id="29217541" version="5" timestamp="2009-08-31T21:59:33Z" uid="87429" user="k4r573n" changeset="2332085">
+    <nd ref="321372529"/>
+    <nd ref="110057880"/>
+    <nd ref="110057890"/>
+    <nd ref="479506117"/>
+    <nd ref="419293485"/>
+    <nd ref="110057894"/>
+    <nd ref="112149004"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Hauptstraße"/>
+    <tag k="ref" v="K 28"/>
+  </way>
+  <way id="29217541" version="6" timestamp="2010-03-20T19:01:49Z" uid="129688" user="MHohmann" changeset="4183484">
+    <nd ref="321372529"/>
+    <nd ref="110057880"/>
+    <nd ref="110057890"/>
+    <nd ref="479506117"/>
+    <nd ref="419293485"/>
+    <nd ref="110057894"/>
+    <nd ref="112149004"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Hauptstraße"/>
+    <tag k="ref" v="K 2"/>
+  </way>
+  <way id="29217541" version="7" timestamp="2011-01-04T21:30:48Z" uid="87429" user="k4r573n" changeset="6866135">
+    <nd ref="321372529"/>
+    <nd ref="110057880"/>
+    <nd ref="479506117"/>
+    <nd ref="419293485"/>
+    <nd ref="110057894"/>
+    <nd ref="1082843850"/>
+    <nd ref="112149004"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Hauptstraße"/>
+    <tag k="ref" v="K 2"/>
+  </way>
+  <way id="29217541" version="8" timestamp="2011-01-04T21:47:28Z" uid="87429" user="k4r573n" changeset="6866320">
+    <nd ref="321372529"/>
+    <nd ref="110057880"/>
+    <nd ref="479506117"/>
+    <nd ref="419293485"/>
+    <nd ref="110057894"/>
+    <nd ref="1082865411"/>
+    <nd ref="1082843850"/>
+    <nd ref="112149004"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Hauptstraße"/>
+    <tag k="ref" v="K 2"/>
+  </way>
+  <way id="29217542" version="2" timestamp="2011-01-08T23:09:42Z" uid="49111" user="Markus B" changeset="6910275">
+    <nd ref="321372490"/>
+    <nd ref="321372533"/>
+    <nd ref="1092651075"/>
+    <nd ref="321372534"/>
+    <nd ref="321372535"/>
+    <nd ref="321372536"/>
+    <nd ref="1092650334"/>
+    <nd ref="1092649522"/>
+    <nd ref="321372537"/>
+    <nd ref="321372539"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="29217542" version="3" timestamp="2011-03-23T14:14:32Z" uid="101999" user="vanmhit" changeset="7646889">
+    <nd ref="321372490"/>
+    <nd ref="321372533"/>
+    <nd ref="1092651075"/>
+    <nd ref="321372534"/>
+    <nd ref="321372535"/>
+    <nd ref="321372536"/>
+    <nd ref="1092650334"/>
+    <nd ref="1092649522"/>
+    <nd ref="1185364920"/>
+    <nd ref="321372537"/>
+    <nd ref="1214873094"/>
+    <nd ref="321372539"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="29217542" version="4" timestamp="2011-04-25T18:10:16Z" uid="417063" user="Yiannisd" changeset="7966840">
+    <nd ref="321372490"/>
+    <nd ref="321372533"/>
+    <nd ref="1092651075"/>
+    <nd ref="321372534"/>
+    <nd ref="321372535"/>
+    <nd ref="321372536"/>
+    <nd ref="1092650334"/>
+    <nd ref="1092649522"/>
+    <nd ref="1185364920"/>
+    <nd ref="321372537"/>
+    <nd ref="1214873094"/>
+    <nd ref="321372539"/>
+    <tag k="highway" v="residential"/>
+    <tag k="int_name" v="Christoforou Kontokali"/>
+    <tag k="name" v="Χριστόφορου Κοντόκαλη"/>
+  </way>
+  <way id="29217542" version="5" timestamp="2011-04-25T20:51:19Z" uid="417063" user="Yiannisd" changeset="7967894">
+    <nd ref="321372490"/>
+    <nd ref="321372533"/>
+    <nd ref="1092651075"/>
+    <nd ref="321372534"/>
+    <nd ref="321372535"/>
+    <nd ref="321372536"/>
+    <nd ref="1260170894"/>
+    <nd ref="1092650334"/>
+    <nd ref="1092649522"/>
+    <nd ref="1185364920"/>
+    <nd ref="321372537"/>
+    <nd ref="1214873094"/>
+    <nd ref="321372539"/>
+    <tag k="highway" v="residential"/>
+    <tag k="int_name" v="Christoforou Kontokali"/>
+    <tag k="name" v="Χριστόφορου Κοντόκαλη"/>
+  </way>
+  <way id="29217542" version="6" timestamp="2011-04-26T11:04:59Z" uid="417063" user="Yiannisd" changeset="7972827">
+    <nd ref="321372490"/>
+    <nd ref="321372533"/>
+    <nd ref="1092651075"/>
+    <nd ref="321372534"/>
+    <nd ref="321372535"/>
+    <nd ref="321372536"/>
+    <nd ref="1260170894"/>
+    <nd ref="1092650334"/>
+    <nd ref="1092649522"/>
+    <nd ref="1185364920"/>
+    <nd ref="321372537"/>
+    <nd ref="1260627967"/>
+    <nd ref="1214873094"/>
+    <nd ref="321372539"/>
+    <tag k="highway" v="residential"/>
+    <tag k="int_name" v="Christoforou Kontokali"/>
+    <tag k="name" v="Χριστόφορου Κοντόκαλη"/>
+  </way>
+  <way id="29217734" version="1" timestamp="2008-12-23T22:37:49Z" uid="49111" user="Markus B" changeset="583207">
+    <nd ref="321373808"/>
+    <nd ref="321373809"/>
+    <nd ref="321373810"/>
+    <nd ref="321373811"/>
+    <nd ref="321373812"/>
+    <nd ref="321373813"/>
+    <nd ref="321373814"/>
+    <nd ref="321373815"/>
+    <nd ref="321373816"/>
+    <nd ref="321373818"/>
+    <nd ref="321373819"/>
+    <nd ref="321373820"/>
+    <nd ref="321373821"/>
+    <nd ref="321373822"/>
+    <nd ref="321373823"/>
+    <nd ref="321373824"/>
+    <nd ref="321373808"/>
+    <tag k="leisure" v="track"/>
+    <tag k="sport" v="athletics"/>
+  </way>
+  <way id="29217734" version="2" timestamp="2008-12-23T22:58:52Z" uid="49111" user="Markus B" changeset="583207">
+    <nd ref="321373808"/>
+    <nd ref="321373809"/>
+    <nd ref="321373810"/>
+    <nd ref="321373811"/>
+    <nd ref="321373812"/>
+    <nd ref="321373813"/>
+    <nd ref="321373814"/>
+    <nd ref="321373815"/>
+    <nd ref="321373816"/>
+    <nd ref="321373818"/>
+    <nd ref="321373819"/>
+    <nd ref="321373820"/>
+    <nd ref="321373821"/>
+    <nd ref="321373822"/>
+    <nd ref="321373823"/>
+    <nd ref="321373824"/>
+    <nd ref="321373808"/>
+    <tag k="leisure" v="track"/>
+    <tag k="source" v="DOP_LVA_BY_01"/>
+    <tag k="sport" v="athletics"/>
+  </way>
+  <way id="29217734" version="3" timestamp="2010-10-22T16:14:41Z" uid="152074" user="beweta" changeset="6137993">
+    <nd ref="321373808"/>
+    <nd ref="960439469"/>
+    <nd ref="321373809"/>
+    <nd ref="960439434"/>
+    <nd ref="321373810"/>
+    <nd ref="321373811"/>
+    <nd ref="321373812"/>
+    <nd ref="321373813"/>
+    <nd ref="321373814"/>
+    <nd ref="321373815"/>
+    <nd ref="321373816"/>
+    <nd ref="321373818"/>
+    <nd ref="321373819"/>
+    <nd ref="321373820"/>
+    <nd ref="321373821"/>
+    <nd ref="321373822"/>
+    <nd ref="321373823"/>
+    <nd ref="321373824"/>
+    <nd ref="321373808"/>
+    <tag k="leisure" v="track"/>
+    <tag k="source" v="DOP_LVA_BY_01"/>
+    <tag k="sport" v="athletics"/>
+  </way>
+  <way id="29217735" version="1" timestamp="2008-12-23T22:37:50Z" uid="49111" user="Markus B" changeset="583207">
+    <nd ref="321373825"/>
+    <nd ref="321373826"/>
+    <nd ref="321373828"/>
+    <nd ref="321373829"/>
+    <nd ref="321373825"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="soccer"/>
+  </way>
+  <way id="29217735" version="2" timestamp="2008-12-23T22:58:52Z" uid="49111" user="Markus B" changeset="583207">
+    <nd ref="321373825"/>
+    <nd ref="321373826"/>
+    <nd ref="321373828"/>
+    <nd ref="321373829"/>
+    <nd ref="321373825"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="source" v="DOP_LVA_BY_01"/>
+    <tag k="sport" v="soccer"/>
+  </way>
+  <way id="29217736" version="1" timestamp="2008-12-23T22:37:50Z" uid="49111" user="Markus B" changeset="583207">
+    <nd ref="321373830"/>
+    <nd ref="321373831"/>
+    <nd ref="321373832"/>
+    <nd ref="321373833"/>
+    <nd ref="321373834"/>
+    <nd ref="321373835"/>
+    <nd ref="321373837"/>
+    <nd ref="321373838"/>
+    <nd ref="321373839"/>
+    <nd ref="321373840"/>
+    <nd ref="321373830"/>
+    <tag k="amenity" v="hospital"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Kreiskrankenhaus"/>
+  </way>
+  <way id="29217736" version="2" timestamp="2008-12-23T22:58:52Z" uid="49111" user="Markus B" changeset="583207">
+    <nd ref="321373830"/>
+    <nd ref="321373831"/>
+    <nd ref="321373832"/>
+    <nd ref="321373833"/>
+    <nd ref="321373834"/>
+    <nd ref="321373835"/>
+    <nd ref="321373837"/>
+    <nd ref="321373838"/>
+    <nd ref="321373839"/>
+    <nd ref="321373840"/>
+    <nd ref="321373830"/>
+    <tag k="amenity" v="hospital"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Kreiskrankenhaus"/>
+    <tag k="source" v="DOP_LVA_BY_01"/>
+  </way>
+  <way id="29217736" version="3" timestamp="2008-12-28T15:16:20Z" uid="12178" user="edwin-ldbg" changeset="643686">
+    <nd ref="321373830"/>
+    <nd ref="321373831"/>
+    <nd ref="321373832"/>
+    <nd ref="321373833"/>
+    <nd ref="321373834"/>
+    <nd ref="321373835"/>
+    <nd ref="321373837"/>
+    <nd ref="321373838"/>
+    <nd ref="321373839"/>
+    <nd ref="321373840"/>
+    <nd ref="321373830"/>
+    <tag k="amenity" v="hospital"/>
+    <tag k="building" v="yes"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Kreiskrankenhaus"/>
+    <tag k="source" v="DOP_LVA_BY_01"/>
+  </way>
+  <way id="29217736" version="4" timestamp="2010-07-14T13:08:03Z" uid="59819" user="Fuss-im-Ohr" changeset="5216782">
+    <nd ref="321373830"/>
+    <nd ref="321373831"/>
+    <nd ref="321373832"/>
+    <nd ref="321373833"/>
+    <nd ref="321373834"/>
+    <nd ref="321373835"/>
+    <nd ref="321373837"/>
+    <nd ref="321373838"/>
+    <nd ref="321373839"/>
+    <nd ref="321373840"/>
+    <nd ref="321373830"/>
+    <tag k="addr:city" v="Parsberg"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="92331"/>
+    <tag k="addr:street" v="Lupburger Straße"/>
+    <tag k="amenity" v="hospital"/>
+    <tag k="building" v="yes"/>
+    <tag k="email" v="info@kkh-parsberg.de"/>
+    <tag k="emergency" v="fixme"/>
+    <tag k="fax" v="+49 9492 603-180"/>
+    <tag k="name" v="Kreiskrankenhaus"/>
+    <tag k="phone" v="+49 9492 603-0"/>
+    <tag k="source" v="DOP_LVA_BY_01"/>
+    <tag k="website" v="http://www.kkh-parsberg.de"/>
+  </way>
+  <way id="29217736" version="5" timestamp="2010-10-22T16:14:35Z" uid="152074" user="beweta" changeset="6137993">
+    <nd ref="321373830"/>
+    <nd ref="321373831"/>
+    <nd ref="321373832"/>
+    <nd ref="321373833"/>
+    <nd ref="321373834"/>
+    <nd ref="321373835"/>
+    <nd ref="321373837"/>
+    <nd ref="321373838"/>
+    <nd ref="321373839"/>
+    <nd ref="321373840"/>
+    <nd ref="321373830"/>
+    <tag k="addr:city" v="Parsberg"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="92331"/>
+    <tag k="addr:street" v="Lupburger Straße"/>
+    <tag k="amenity" v="hospital"/>
+    <tag k="building" v="yes"/>
+    <tag k="email" v="info@kkh-parsberg.de"/>
+    <tag k="emergency" v="fixme"/>
+    <tag k="fax" v="+49 9492 603-180"/>
+    <tag k="name" v="Kreiskrankenhaus Parsberg"/>
+    <tag k="phone" v="+49 9492 603-0"/>
+    <tag k="source" v="DOP_LVA_BY_01"/>
+    <tag k="website" v="http://www.kkh-parsberg.de"/>
+  </way>
+  <way id="29217746" version="3" timestamp="2010-04-03T13:43:50Z" uid="20587" user="balrog-kun" changeset="4312927">
+    <nd ref="321373796"/>
+    <nd ref="84428130"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="West 2550 South"/>
+    <tag k="name_1" v="West 2550 South Street"/>
+    <tag k="name_2" v="2550 South Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Weber, UT"/>
+    <tag k="tiger:name_base" v="2550 South"/>
+    <tag k="tiger:name_base_1" v="2550 South"/>
+    <tag k="tiger:name_base_2" v="2550"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_direction_prefix_2" v="W"/>
+    <tag k="tiger:name_direction_suffix_2" v="S"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:name_type_1" v="St"/>
+    <tag k="tiger:reviewed" v="yes"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="155691474:155691477:155691700:155691708:155691709:155705357:155705358:155691725:155691696:155691493:155706850:155706853:155706839:155706849:155694762:155694764:155706749:155694742:155691835:155691839:155709381:155709382:155709384:155709385:155694808:15569"/>
+    <tag k="tiger:zip_left" v="84401"/>
+    <tag k="tiger:zip_right" v="84401"/>
+  </way>
+  <way id="29217748" version="2" timestamp="2010-04-03T13:43:51Z" uid="20587" user="balrog-kun" changeset="4312927">
+    <nd ref="321373827"/>
+    <nd ref="321373817"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="40"/>
+    <tag k="name" v="South 4150 West"/>
+    <tag k="name_1" v="4150 West Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Weber, UT"/>
+    <tag k="tiger:name_base" v="4150 West"/>
+    <tag k="tiger:name_base_1" v="4150"/>
+    <tag k="tiger:name_direction_prefix_1" v="S"/>
+    <tag k="tiger:name_direction_suffix_1" v="W"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="yes"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="155691496:155691498:155706821"/>
+    <tag k="tiger:zip_left" v="84401"/>
+    <tag k="tiger:zip_right" v="84401"/>
+  </way>
+  <way id="29217748" version="3" timestamp="2010-11-21T11:04:15Z" uid="207745" user="NE2" changeset="6421269">
+    <nd ref="321373827"/>
+    <nd ref="321373817"/>
+    <tag k="FIXME" v="is the correct maxspeed 25 mph (40 km/h) or 40 mph?"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="40"/>
+    <tag k="name" v="South 4150 West"/>
+    <tag k="name_1" v="4150 West Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Weber, UT"/>
+    <tag k="tiger:name_base" v="4150 West"/>
+    <tag k="tiger:name_base_1" v="4150"/>
+    <tag k="tiger:name_direction_prefix_1" v="S"/>
+    <tag k="tiger:name_direction_suffix_1" v="W"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="yes"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="155691496:155691498:155706821"/>
+    <tag k="tiger:zip_left" v="84401"/>
+    <tag k="tiger:zip_right" v="84401"/>
+  </way>
+  <way id="29217750" version="2" timestamp="2010-04-03T13:43:51Z" uid="20587" user="balrog-kun" changeset="4312927">
+    <nd ref="321373817"/>
+    <nd ref="84425961"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="40"/>
+    <tag k="name" v="South 4150 West"/>
+    <tag k="name_1" v="4150 West Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Weber, UT"/>
+    <tag k="tiger:name_base" v="4150 West"/>
+    <tag k="tiger:name_base_1" v="4150"/>
+    <tag k="tiger:name_direction_prefix_1" v="S"/>
+    <tag k="tiger:name_direction_suffix_1" v="W"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="yes"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="155691496:155691498:155706821"/>
+    <tag k="tiger:zip_left" v="84401"/>
+    <tag k="tiger:zip_right" v="84401"/>
+  </way>
+  <way id="29217750" version="3" timestamp="2010-11-21T11:08:12Z" uid="207745" user="NE2" changeset="6421269">
+    <nd ref="321373817"/>
+    <nd ref="84425961"/>
+    <tag k="FIXME" v="is the correct maxspeed 25 mph (40 km/h) or 40 mph?"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="40"/>
+    <tag k="name" v="South 4150 West"/>
+    <tag k="name_1" v="4150 West Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Weber, UT"/>
+    <tag k="tiger:name_base" v="4150 West"/>
+    <tag k="tiger:name_base_1" v="4150"/>
+    <tag k="tiger:name_direction_prefix_1" v="S"/>
+    <tag k="tiger:name_direction_suffix_1" v="W"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="yes"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="155691496:155691498:155706821"/>
+    <tag k="tiger:zip_left" v="84401"/>
+    <tag k="tiger:zip_right" v="84401"/>
+  </way>
+  <way id="29217858" version="6" timestamp="2010-07-09T06:23:22Z" uid="74617" user="JohnSmith" changeset="5171134">
+    <nd ref="321374421"/>
+    <nd ref="321374477"/>
+    <nd ref="251730664"/>
+    <nd ref="321382090"/>
+    <nd ref="262138216"/>
+    <nd ref="251730668"/>
+    <nd ref="321374478"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Westall Street"/>
+    <tag k="source" v="yahoo"/>
+    <tag k="source_ref:name" v="http://osm.beldin.org/2009/03/dscf8269.jpg"/>
+  </way>
+  <way id="29217858" version="7" timestamp="2011-08-01T10:42:12Z" uid="428465" user="markinspace" changeset="8889307">
+    <nd ref="321374421"/>
+    <nd ref="321374477"/>
+    <nd ref="251730664"/>
+    <nd ref="321382090"/>
+    <nd ref="262138216"/>
+    <nd ref="251730668"/>
+    <nd ref="321374478"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="40"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Westall Street"/>
+    <tag k="source" v="yahoo"/>
+    <tag k="source_ref:name" v="http://osm.beldin.org/2009/03/dscf8269.jpg"/>
+  </way>
+  <way id="29217858" version="8" timestamp="2012-01-18T00:52:06Z" uid="147510" user="woodpeck_fixbot" changeset="10423581">
+    <nd ref="321374421"/>
+    <nd ref="321374477"/>
+    <nd ref="251730664"/>
+    <nd ref="321382090"/>
+    <nd ref="262138216"/>
+    <nd ref="251730668"/>
+    <nd ref="321374478"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Westall Street"/>
+    <tag k="source" v="yahoo"/>
+    <tag k="source_ref:name" v="http://osm.beldin.org/2009/03/dscf8269.jpg"/>
+  </way>
+  <way id="29217222" version="4" timestamp="2012-05-10T11:03:15Z" uid="338611" user="marek kleciak" changeset="11557493">
+    <nd ref="254067015"/>
+    <nd ref="255393539"/>
+    <nd ref="1747473450"/>
+    <nd ref="301510480"/>
+    <nd ref="254060826"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Potulicka"/>
+    <tag k="source" v="UMP-PL, ./UMP-Szczecin/src/SZCZECIN.ulice.txt"/>
+  </way>
+  <way id="29217222" version="5" timestamp="2012-07-26T12:32:55Z" uid="759123" user="Michael König" changeset="12496993">
+    <nd ref="254067015"/>
+    <nd ref="255393539"/>
+    <nd ref="1747473450"/>
+    <nd ref="301510480"/>
+    <nd ref="254060826"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Potulicka"/>
+    <tag k="old_name" v="Bellevuestraße"/>
+    <tag k="source" v="UMP-PL, ./UMP-Szczecin/src/SZCZECIN.ulice.txt"/>
+  </way>
+  <way id="29217300" version="5" timestamp="2012-07-17T09:47:24Z" uid="722137" user="OSMF Redaction Account" changeset="12262112">
+    <nd ref="307941728"/>
+    <nd ref="307940357"/>
+    <nd ref="321590311"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Obotrycka"/>
+    <tag k="source" v="UMP-PL, ./UMP-Szczecin/src/SZCZECIN.ulice.txt"/>
+  </way>
+  <way id="29217378" version="7" timestamp="2012-07-17T07:36:37Z" uid="722137" user="OSMF Redaction Account" changeset="12259614"/>
+  <way id="29217541" version="9" timestamp="2012-07-17T07:48:54Z" uid="722137" user="OSMF Redaction Account" changeset="12259807">
+    <nd ref="479506117"/>
+    <nd ref="419293485"/>
+    <nd ref="1082865411"/>
+    <nd ref="1082843850"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Hauptstraße"/>
+  </way>
+  <way id="29217541" version="10" timestamp="2012-07-17T21:48:56Z" uid="166598" user="Moonwalker" changeset="12272860">
+    <nd ref="110057870"/>
+    <nd ref="112149032"/>
+    <nd ref="1829190421"/>
+    <nd ref="110057880"/>
+    <nd ref="479506117"/>
+    <nd ref="419293485"/>
+    <nd ref="1082865411"/>
+    <nd ref="1082843850"/>
+    <nd ref="112149004"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Hauptstraße"/>
+    <tag k="ref" v="K 2"/>
+  </way>
+  <way id="29217541" version="11" timestamp="2012-08-26T17:37:08Z" uid="43566" user="anbr" changeset="12869413">
+    <nd ref="112149032"/>
+    <nd ref="110057870"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Hauptstraße"/>
+    <tag k="ref" v="K 2"/>
+  </way>
+  <way id="29217858" version="9" timestamp="2012-07-19T22:50:27Z" uid="722137" user="OSMF Redaction Account" changeset="12351002">
+    <nd ref="321374421"/>
+    <nd ref="321374477"/>
+    <nd ref="321382090"/>
+    <nd ref="262138216"/>
+    <nd ref="321374478"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Westall Street"/>
+    <tag k="source" v="yahoo"/>
+  </way>
+  <way id="29217858" version="10" timestamp="2012-09-01T10:26:17Z" uid="171576" user="Conquest" changeset="12940582">
+    <nd ref="321374421"/>
+    <nd ref="321374477"/>
+    <nd ref="321382090"/>
+    <nd ref="262138216"/>
+    <nd ref="1892933066"/>
+    <nd ref="321374478"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Westall Street"/>
+    <tag k="source" v="yahoo"/>
+  </way>
+  <way id="29217858" version="11" timestamp="2012-09-03T11:06:49Z" uid="801691" user="djwdjw" changeset="12965680">
+    <nd ref="321374421"/>
+    <nd ref="1896063358"/>
+    <nd ref="321374477"/>
+    <nd ref="1896063390"/>
+    <nd ref="321382090"/>
+    <nd ref="262138216"/>
+    <nd ref="1892933066"/>
+    <nd ref="321374478"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Westall Street"/>
+    <tag k="source" v="yahoo"/>
+  </way>
+</osm>

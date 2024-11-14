@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="34671078" version="5" timestamp="2010-04-07T13:37:51Z" uid="20587" user="balrog-kun" changeset="4353646">
+    <nd ref="403416609"/>
+    <nd ref="403413505"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Clear Creek Drive"/>
+  </way>
+  <way id="34671681" version="2" timestamp="2010-04-07T13:37:51Z" uid="20587" user="balrog-kun" changeset="4353646">
+    <nd ref="82314292"/>
+    <nd ref="403413499"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Browning Lane"/>
+  </way>
+  <way id="34671751" version="2" timestamp="2010-06-29T19:04:06Z" uid="74617" user="JohnSmith" changeset="5108182">
+    <nd ref="403419911"/>
+    <nd ref="403419912"/>
+    <nd ref="403419913"/>
+    <nd ref="403419915"/>
+    <nd ref="403419917"/>
+    <nd ref="403419911"/>
+    <tag k="fixme" v="sport=football is ambiguous, see http://wiki.osm.org/wiki/Football for more details"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="source" v="GPS"/>
+    <tag k="sport" v="football"/>
+  </way>
+  <way id="34671766" version="3" timestamp="2010-03-22T06:28:42Z" uid="20587" user="balrog-kun" changeset="4199043">
+    <nd ref="37763611"/>
+    <nd ref="37864023"/>
+    <nd ref="403417869"/>
+    <nd ref="638788043"/>
+    <nd ref="403417874"/>
+    <nd ref="403417878"/>
+    <nd ref="37828466"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Harrison Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Clatsop, OR"/>
+    <tag k="tiger:name_base" v="Harrison"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070808"/>
+    <tag k="tiger:tlid" v="159227584:159227377"/>
+  </way>
+  <way id="34671078" version="6" timestamp="2012-07-18T13:55:57Z" uid="722137" user="OSMF Redaction Account" changeset="12284119"/>
+  <way id="34671681" version="3" timestamp="2012-07-18T13:55:57Z" uid="722137" user="OSMF Redaction Account" changeset="12284119"/>
+  <way id="34671751" version="3" timestamp="2012-07-17T09:29:02Z" uid="722137" user="OSMF Redaction Account" changeset="12261713">
+    <nd ref="403419911"/>
+    <nd ref="403419912"/>
+    <nd ref="403419913"/>
+    <nd ref="403419915"/>
+    <nd ref="403419917"/>
+    <nd ref="403419911"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="source" v="GPS"/>
+    <tag k="sport" v="football"/>
+  </way>
+</osm>

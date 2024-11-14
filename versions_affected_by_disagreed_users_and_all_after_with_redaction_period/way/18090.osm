@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="18090488" version="4" timestamp="2010-07-06T08:45:31Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="186878759"/>
+    <nd ref="186931492"/>
+    <nd ref="186951037"/>
+    <nd ref="186951038"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Poet Street"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="18090488" version="5" timestamp="2012-01-15T18:47:02Z" uid="147510" user="woodpeck_fixbot" changeset="10400850">
+    <nd ref="186878759"/>
+    <nd ref="186931492"/>
+    <nd ref="186951037"/>
+    <nd ref="186951038"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Poet Street"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="18090538" version="3" timestamp="2010-07-30T05:50:00Z" uid="4467" user="Rosscoe" changeset="5351855">
+    <nd ref="186951038"/>
+    <nd ref="186951737"/>
+    <nd ref="179068251"/>
+    <tag k="highway" v="primary_link"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="18090967" version="6" timestamp="2009-12-09T20:23:49Z" uid="200463" user="harmagedon" changeset="3336536">
+    <nd ref="74030649"/>
+    <nd ref="186957192"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="18090969" version="4" timestamp="2009-12-09T20:23:52Z" uid="200463" user="harmagedon" changeset="3336536">
+    <nd ref="297040537"/>
+    <nd ref="186957288"/>
+    <nd ref="186957306"/>
+    <nd ref="297040751"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Karlínská"/>
+  </way>
+  <way id="18090970" version="3" timestamp="2009-12-09T20:23:54Z" uid="200463" user="harmagedon" changeset="3336536">
+    <nd ref="186957288"/>
+    <nd ref="186957294"/>
+    <nd ref="186957299"/>
+    <nd ref="186957306"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="18090538" version="4" timestamp="2012-07-20T07:59:20Z" uid="722137" user="OSMF Redaction Account" changeset="12367209">
+    <nd ref="186951038"/>
+    <nd ref="186951737"/>
+    <nd ref="179068251"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+</osm>

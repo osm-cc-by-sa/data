@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="98436744" version="2" timestamp="2011-02-20T09:38:03Z" uid="4467" user="Rosscoe" changeset="7339941">
+    <nd ref="1138950647"/>
+    <nd ref="1138950629"/>
+    <nd ref="531396187"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="98436745" version="2" timestamp="2011-02-20T09:37:51Z" uid="4467" user="Rosscoe" changeset="7339941">
+    <nd ref="679044944"/>
+    <nd ref="1138950644"/>
+    <nd ref="1138950647"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="98436746" version="2" timestamp="2011-02-20T09:38:05Z" uid="4467" user="Rosscoe" changeset="7339941"/>
+  <way id="98436748" version="2" timestamp="2011-02-20T09:37:50Z" uid="4467" user="Rosscoe" changeset="7339941">
+    <nd ref="249437665"/>
+    <nd ref="852255749"/>
+    <nd ref="852255865"/>
+    <nd ref="852255829"/>
+    <nd ref="249437671"/>
+    <nd ref="531395733"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Pryor Street"/>
+  </way>
+  <way id="98436754" version="2" timestamp="2011-02-20T09:38:05Z" uid="4467" user="Rosscoe" changeset="7339941"/>
+  <way id="98436755" version="2" timestamp="2011-02-20T09:38:06Z" uid="4467" user="Rosscoe" changeset="7339941"/>
+  <way id="98436757" version="2" timestamp="2011-02-20T09:38:05Z" uid="4467" user="Rosscoe" changeset="7339941"/>
+  <way id="98436744" version="3" timestamp="2012-07-19T20:42:23Z" uid="722137" user="OSMF Redaction Account" changeset="12346705">
+    <nd ref="1138950629"/>
+    <nd ref="531396187"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="98436744" version="4" timestamp="2012-07-23T05:42:45Z" uid="69319" user="Rhubarb" changeset="12444525"/>
+  <way id="98436745" version="3" timestamp="2012-07-19T20:42:23Z" uid="722137" user="OSMF Redaction Account" changeset="12346705">
+    <nd ref="1138950644"/>
+    <nd ref="1138950647"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="98436745" version="4" timestamp="2012-07-23T05:42:45Z" uid="69319" user="Rhubarb" changeset="12444525"/>
+  <way id="98436748" version="3" timestamp="2012-07-19T20:42:22Z" uid="722137" user="OSMF Redaction Account" changeset="12346705">
+    <nd ref="249437671"/>
+    <nd ref="531395733"/>
+    <tag k="highway" v="primary"/>
+  </way>
+  <way id="98436748" version="4" timestamp="2012-07-23T05:42:44Z" uid="69319" user="Rhubarb" changeset="12444525">
+    <nd ref="249437665"/>
+    <nd ref="852255749"/>
+    <nd ref="852255865"/>
+    <nd ref="1834946576"/>
+    <nd ref="852255829"/>
+    <nd ref="249437671"/>
+    <nd ref="531395733"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Pryor Street"/>
+    <tag k="source" v="bing"/>
+  </way>
+</osm>

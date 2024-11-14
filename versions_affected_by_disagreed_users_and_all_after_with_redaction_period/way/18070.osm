@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="18070714" version="3" timestamp="2010-02-15T07:03:31Z" uid="74617" user="JohnSmith" changeset="3880463">
+    <nd ref="186797329"/>
+    <nd ref="186798047"/>
+    <nd ref="186798049"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="service" v="private"/>
+  </way>
+  <way id="18070714" version="4" timestamp="2012-01-15T18:46:25Z" uid="147510" user="woodpeck_fixbot" changeset="10400850">
+    <nd ref="186797329"/>
+    <nd ref="186798047"/>
+    <nd ref="186798049"/>
+    <tag k="highway" v="service"/>
+    <tag k="service" v="private"/>
+  </way>
+  <way id="18070848" version="3" timestamp="2009-08-03T21:56:32Z" uid="4467" user="Rosscoe" changeset="2030748">
+    <nd ref="33525435"/>
+    <nd ref="186798984"/>
+    <nd ref="186798985"/>
+    <nd ref="186798987"/>
+    <nd ref="186798989"/>
+    <nd ref="186798990"/>
+    <nd ref="186798991"/>
+    <nd ref="273861469"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="18070848" version="4" timestamp="2010-05-12T10:53:25Z" uid="6513" user="Glen" changeset="4675818">
+    <nd ref="33525435"/>
+    <nd ref="730710049"/>
+    <nd ref="730710050"/>
+    <nd ref="186798984"/>
+    <nd ref="186798985"/>
+    <nd ref="186798987"/>
+    <nd ref="186798989"/>
+    <nd ref="186798990"/>
+    <nd ref="186798991"/>
+    <nd ref="273861469"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="18070916" version="3" timestamp="2009-08-03T21:56:31Z" uid="4467" user="Rosscoe" changeset="2030748">
+    <nd ref="186799208"/>
+    <nd ref="186799459"/>
+    <nd ref="186799461"/>
+    <nd ref="273861513"/>
+    <nd ref="97449211"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="18070980" version="4" timestamp="2010-07-06T08:44:57Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="186785830"/>
+    <nd ref="186799882"/>
+    <nd ref="186799884"/>
+    <nd ref="186799886"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="McGuire Street"/>
+  </way>
+  <way id="18070980" version="5" timestamp="2012-01-15T18:46:27Z" uid="147510" user="woodpeck_fixbot" changeset="10400850">
+    <nd ref="186785830"/>
+    <nd ref="186799882"/>
+    <nd ref="186799884"/>
+    <nd ref="186799886"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="McGuire Street"/>
+  </way>
+  <way id="18070848" version="5" timestamp="2012-07-19T09:50:42Z" uid="722137" user="OSMF Redaction Account" changeset="12316904">
+    <nd ref="33525435"/>
+    <nd ref="730710049"/>
+    <nd ref="730710050"/>
+    <nd ref="186798984"/>
+    <nd ref="186798985"/>
+    <nd ref="186798987"/>
+    <nd ref="186798989"/>
+    <nd ref="186798990"/>
+    <nd ref="186798991"/>
+    <nd ref="273861469"/>
+    <tag k="highway" v="motorway_link"/>
+  </way>
+  <way id="18070916" version="4" timestamp="2012-07-19T09:50:41Z" uid="722137" user="OSMF Redaction Account" changeset="12316904">
+    <nd ref="186799208"/>
+    <nd ref="186799459"/>
+    <nd ref="186799461"/>
+    <nd ref="273861513"/>
+    <nd ref="97449211"/>
+    <tag k="highway" v="motorway_link"/>
+  </way>
+</osm>

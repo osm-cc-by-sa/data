@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="92149523" version="1" timestamp="2010-12-28T21:55:34Z" uid="20587" user="balrog-kun" changeset="6792537">
+    <nd ref="1069868599"/>
+    <nd ref="260798822"/>
+    <tag k="highway" v="steps"/>
+  </way>
+  <way id="92149524" version="1" timestamp="2010-12-28T21:55:34Z" uid="20587" user="balrog-kun" changeset="6792537">
+    <nd ref="1069868581"/>
+    <nd ref="1069868582"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Powstańców Wielkopolskich"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="92149524" version="2" timestamp="2010-12-28T23:13:20Z" uid="20587" user="balrog-kun" changeset="6793649">
+    <nd ref="1069868581"/>
+    <nd ref="1069868582"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Powstańców Wielkopolskich"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="92149528" version="1" timestamp="2010-12-28T21:55:34Z" uid="20587" user="balrog-kun" changeset="6792537">
+    <nd ref="299810522"/>
+    <nd ref="299810526"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Garażowa"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="UMP-PL, ./UMP-Poznan/src/OBORNIKI_WIELKOPOLSKIE.ulice.txt"/>
+  </way>
+  <way id="92149531" version="1" timestamp="2010-12-28T21:55:34Z" uid="20587" user="balrog-kun" changeset="6792537">
+    <nd ref="831211570"/>
+    <nd ref="1069868599"/>
+    <nd ref="1069868585"/>
+    <nd ref="1069868553"/>
+    <nd ref="1069868513"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="92149532" version="1" timestamp="2010-12-28T21:55:34Z" uid="20587" user="balrog-kun" changeset="6792537">
+    <nd ref="1069868513"/>
+    <nd ref="1069868547"/>
+    <tag k="highway" v="footway"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="92149533" version="1" timestamp="2010-12-28T21:55:34Z" uid="20587" user="balrog-kun" changeset="6792537">
+    <nd ref="830790060"/>
+    <nd ref="1069868550"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="92149539" version="1" timestamp="2010-12-28T21:55:35Z" uid="20587" user="balrog-kun" changeset="6792537">
+    <nd ref="1069868547"/>
+    <nd ref="1069868519"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="92149540" version="1" timestamp="2010-12-28T21:55:35Z" uid="20587" user="balrog-kun" changeset="6792537">
+    <nd ref="1069868582"/>
+    <nd ref="831211784"/>
+    <nd ref="299810281"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Powstańców Wielkopolskich"/>
+    <tag k="source" v="UMP-PL, ./UMP-Poznan/src/OBORNIKI_WIELKOPOLSKIE.ulice.txt"/>
+  </way>
+  <way id="92149524" version="3" timestamp="2012-07-19T05:29:48Z" uid="475943" user="sir-mapalot" changeset="12309245">
+    <nd ref="1830428120"/>
+    <nd ref="1069868581"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Powstańców Wielkopolskich"/>
+  </way>
+  <way id="92149528" version="2" timestamp="2012-07-17T06:51:43Z" uid="722137" user="OSMF Redaction Account" changeset="12258876"/>
+  <way id="92149540" version="2" timestamp="2012-07-17T06:51:38Z" uid="722137" user="OSMF Redaction Account" changeset="12258876">
+    <nd ref="1069868582"/>
+    <nd ref="831211784"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Powstańców Wielkopolskich"/>
+    <tag k="source" v="UMP-PL, ./UMP-Poznan/src/OBORNIKI_WIELKOPOLSKIE.ulice.txt"/>
+  </way>
+  <way id="92149540" version="3" timestamp="2012-07-19T05:51:18Z" uid="475943" user="sir-mapalot" changeset="12309622">
+    <nd ref="1069868582"/>
+    <nd ref="831211784"/>
+    <nd ref="1830436004"/>
+    <nd ref="1830436000"/>
+    <nd ref="299810275"/>
+    <nd ref="414953463"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Powstańców Wielkopolskich"/>
+    <tag k="source" v="UMP-PL, ./UMP-Poznan/src/OBORNIKI_WIELKOPOLSKIE.ulice.txt"/>
+  </way>
+</osm>

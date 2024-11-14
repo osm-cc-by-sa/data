@@ -1,0 +1,818 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="42102058" version="2" timestamp="2010-12-18T22:07:59Z" uid="6269" user="Mueck" changeset="6701030"/>
+  <way id="42102122" version="2" timestamp="2010-06-29T20:49:56Z" uid="74617" user="JohnSmith" changeset="5109183">
+    <nd ref="523140870"/>
+    <nd ref="523140877"/>
+    <nd ref="523140887"/>
+    <nd ref="523140894"/>
+    <nd ref="523140870"/>
+    <tag k="fixme" v="sport=rugby is ambiguous, see http://wiki.osm.org/wiki/Tag:sport%3Drugby for more details"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="rugby"/>
+  </way>
+  <way id="42102122" version="3" timestamp="2010-12-03T07:58:21Z" uid="354722" user="Quandray" changeset="6522997">
+    <nd ref="523140870"/>
+    <nd ref="523140877"/>
+    <nd ref="523140887"/>
+    <nd ref="523140894"/>
+    <nd ref="523140870"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="rugby_union"/>
+  </way>
+  <way id="42102243" version="2" timestamp="2010-12-18T22:07:47Z" uid="6269" user="Mueck" changeset="6701030">
+    <nd ref="523139203"/>
+    <nd ref="1046428608"/>
+    <nd ref="523139206"/>
+    <nd ref="523139210"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Osterstraße"/>
+  </way>
+  <way id="42102243" version="3" timestamp="2011-02-13T18:59:36Z" uid="114813" user="Chrisuu" changeset="7279051">
+    <nd ref="523139203"/>
+    <nd ref="1046428608"/>
+    <nd ref="523139206"/>
+    <nd ref="523139210"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Osterstraße"/>
+    <tag k="surface" v="cobblestone"/>
+  </way>
+  <way id="42102243" version="4" timestamp="2011-03-08T20:12:34Z" uid="114813" user="Chrisuu" changeset="7497857">
+    <nd ref="523139203"/>
+    <nd ref="1046428608"/>
+    <nd ref="523139206"/>
+    <nd ref="523139210"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Osterstraße"/>
+    <tag k="surface" v="cobblestone"/>
+  </way>
+  <way id="42102243" version="5" timestamp="2011-03-08T20:24:01Z" uid="114813" user="Chrisuu" changeset="7497857">
+    <nd ref="1193271336"/>
+    <nd ref="523139203"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="surface" v="cobblestone"/>
+  </way>
+  <way id="42102752" version="7" timestamp="2010-03-28T11:00:18Z" uid="20587" user="balrog-kun" changeset="4254597">
+    <nd ref="523165439"/>
+    <nd ref="523168443"/>
+    <nd ref="523168451"/>
+    <nd ref="523168455"/>
+    <nd ref="523168461"/>
+    <nd ref="523168480"/>
+    <nd ref="523168483"/>
+    <nd ref="523168489"/>
+    <nd ref="523168498"/>
+    <nd ref="523168503"/>
+    <nd ref="523168506"/>
+    <nd ref="523168512"/>
+    <nd ref="523168519"/>
+    <nd ref="523168526"/>
+    <nd ref="314084643"/>
+    <nd ref="523169520"/>
+    <nd ref="524819762"/>
+    <nd ref="524819763"/>
+    <nd ref="524819764"/>
+    <nd ref="524819765"/>
+    <nd ref="524819766"/>
+    <nd ref="524819767"/>
+    <nd ref="272108063"/>
+    <nd ref="314084378"/>
+    <nd ref="314084375"/>
+    <nd ref="272108064"/>
+    <nd ref="314084380"/>
+    <nd ref="314083845"/>
+    <nd ref="523146140"/>
+    <nd ref="314083842"/>
+    <nd ref="523146164"/>
+    <nd ref="523146172"/>
+    <nd ref="53140972"/>
+    <nd ref="523146201"/>
+    <nd ref="523146212"/>
+    <nd ref="523146214"/>
+    <nd ref="53140975"/>
+    <nd ref="53140976"/>
+    <nd ref="53140979"/>
+    <nd ref="523143981"/>
+    <nd ref="523143985"/>
+    <nd ref="523144000"/>
+    <nd ref="53140981"/>
+    <nd ref="53140985"/>
+    <nd ref="523144012"/>
+    <nd ref="523144015"/>
+    <nd ref="53140989"/>
+    <nd ref="523144024"/>
+    <nd ref="523144028"/>
+    <nd ref="53140990"/>
+    <nd ref="53140992"/>
+    <nd ref="53140993"/>
+    <nd ref="53140998"/>
+    <nd ref="337234318"/>
+    <nd ref="337234319"/>
+    <nd ref="53140999"/>
+    <nd ref="53141002"/>
+    <nd ref="53141005"/>
+    <nd ref="53141007"/>
+    <nd ref="53141009"/>
+    <nd ref="337234317"/>
+    <nd ref="523140338"/>
+    <nd ref="523140346"/>
+    <nd ref="53141011"/>
+    <nd ref="53141013"/>
+    <nd ref="53141014"/>
+    <nd ref="53141018"/>
+    <nd ref="53141020"/>
+    <nd ref="523140384"/>
+    <nd ref="53141022"/>
+    <nd ref="53141024"/>
+    <nd ref="307464711"/>
+    <nd ref="53141027"/>
+    <nd ref="523154152"/>
+    <nd ref="523154159"/>
+    <nd ref="53141030"/>
+    <nd ref="523154180"/>
+    <nd ref="523154193"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Marshlands Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alameda, CA"/>
+    <tag k="tiger:name_base" v="Marshlands"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="125083810:125023819:125050517"/>
+  </way>
+  <way id="42102752" version="8" timestamp="2010-05-06T23:07:50Z" uid="65950" user="davetoo" changeset="4626354">
+    <nd ref="523165439"/>
+    <nd ref="523168443"/>
+    <nd ref="523168451"/>
+    <nd ref="523168455"/>
+    <nd ref="523168461"/>
+    <nd ref="523168480"/>
+    <nd ref="523168483"/>
+    <nd ref="523168489"/>
+    <nd ref="523168498"/>
+    <nd ref="523168503"/>
+    <nd ref="523168506"/>
+    <nd ref="523168512"/>
+    <nd ref="523168519"/>
+    <nd ref="523168526"/>
+    <nd ref="314084643"/>
+    <nd ref="523169520"/>
+    <nd ref="524819762"/>
+    <nd ref="524819763"/>
+    <nd ref="524819765"/>
+    <nd ref="272108063"/>
+    <nd ref="724669426"/>
+    <nd ref="314084378"/>
+    <nd ref="314084375"/>
+    <nd ref="314084380"/>
+    <nd ref="314083845"/>
+    <nd ref="523146140"/>
+    <nd ref="314083842"/>
+    <nd ref="523146164"/>
+    <nd ref="523146172"/>
+    <nd ref="53140972"/>
+    <nd ref="523146201"/>
+    <nd ref="523146212"/>
+    <nd ref="523146214"/>
+    <nd ref="53140975"/>
+    <nd ref="53140976"/>
+    <nd ref="53140979"/>
+    <nd ref="523143981"/>
+    <nd ref="523143985"/>
+    <nd ref="523144000"/>
+    <nd ref="53140981"/>
+    <nd ref="53140985"/>
+    <nd ref="523144012"/>
+    <nd ref="523144015"/>
+    <nd ref="53140989"/>
+    <nd ref="523144024"/>
+    <nd ref="523144028"/>
+    <nd ref="53140990"/>
+    <nd ref="53140992"/>
+    <nd ref="53140993"/>
+    <nd ref="53140998"/>
+    <nd ref="337234318"/>
+    <nd ref="337234319"/>
+    <nd ref="53140999"/>
+    <nd ref="53141002"/>
+    <nd ref="53141005"/>
+    <nd ref="53141007"/>
+    <nd ref="53141009"/>
+    <nd ref="337234317"/>
+    <nd ref="523140338"/>
+    <nd ref="523140346"/>
+    <nd ref="53141011"/>
+    <nd ref="53141013"/>
+    <nd ref="53141014"/>
+    <nd ref="53141018"/>
+    <nd ref="53141020"/>
+    <nd ref="523140384"/>
+    <nd ref="53141022"/>
+    <nd ref="53141024"/>
+    <nd ref="307464711"/>
+    <nd ref="53141027"/>
+    <nd ref="523154152"/>
+    <nd ref="523154159"/>
+    <nd ref="53141030"/>
+    <nd ref="523154180"/>
+    <nd ref="523154193"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Marshlands Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alameda, CA"/>
+    <tag k="tiger:name_base" v="Marshlands"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="125083810:125023819:125050517"/>
+  </way>
+  <way id="42102752" version="9" timestamp="2010-07-04T10:33:03Z" uid="28775" user="StellanL" changeset="5131485">
+    <nd ref="523165439"/>
+    <nd ref="523168443"/>
+    <nd ref="523168451"/>
+    <nd ref="523168455"/>
+    <nd ref="523168461"/>
+    <nd ref="523168480"/>
+    <nd ref="523168483"/>
+    <nd ref="523168489"/>
+    <nd ref="523168498"/>
+    <nd ref="523168503"/>
+    <nd ref="523168506"/>
+    <nd ref="523168512"/>
+    <nd ref="523168519"/>
+    <nd ref="523168526"/>
+    <nd ref="314084643"/>
+    <nd ref="523169520"/>
+    <nd ref="524819762"/>
+    <nd ref="524819763"/>
+    <nd ref="524819765"/>
+    <nd ref="272108063"/>
+    <nd ref="724669426"/>
+    <nd ref="314084378"/>
+    <nd ref="314084375"/>
+    <nd ref="314084380"/>
+    <nd ref="314083845"/>
+    <nd ref="523146140"/>
+    <nd ref="314083842"/>
+    <nd ref="523146164"/>
+    <nd ref="523146172"/>
+    <nd ref="53140972"/>
+    <nd ref="523146201"/>
+    <nd ref="523146212"/>
+    <nd ref="523146214"/>
+    <nd ref="53140975"/>
+    <nd ref="53140976"/>
+    <nd ref="53140979"/>
+    <nd ref="523143981"/>
+    <nd ref="523143985"/>
+    <nd ref="523144000"/>
+    <nd ref="53140981"/>
+    <nd ref="53140985"/>
+    <nd ref="523144012"/>
+    <nd ref="523144015"/>
+    <nd ref="53140989"/>
+    <nd ref="523144024"/>
+    <nd ref="523144028"/>
+    <nd ref="53140990"/>
+    <nd ref="53140992"/>
+    <nd ref="53140993"/>
+    <nd ref="53140998"/>
+    <nd ref="337234318"/>
+    <nd ref="337234319"/>
+    <nd ref="53140999"/>
+    <nd ref="53141002"/>
+    <nd ref="53141005"/>
+    <nd ref="53141007"/>
+    <nd ref="53141009"/>
+    <nd ref="337234317"/>
+    <nd ref="523140338"/>
+    <nd ref="523140346"/>
+    <nd ref="53141011"/>
+    <nd ref="53141013"/>
+    <nd ref="53141014"/>
+    <nd ref="53141018"/>
+    <nd ref="53141020"/>
+    <nd ref="523140384"/>
+    <nd ref="800194963"/>
+    <nd ref="53141022"/>
+    <nd ref="53141024"/>
+    <nd ref="307464711"/>
+    <nd ref="53141027"/>
+    <nd ref="523154152"/>
+    <nd ref="523154159"/>
+    <nd ref="53141030"/>
+    <nd ref="523154180"/>
+    <nd ref="523154193"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Marshlands Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alameda, CA"/>
+    <tag k="tiger:name_base" v="Marshlands"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="125083810:125023819:125050517"/>
+  </way>
+  <way id="42102752" version="10" timestamp="2010-07-06T20:19:43Z" uid="28775" user="StellanL" changeset="5154035">
+    <nd ref="523165439"/>
+    <nd ref="523168443"/>
+    <nd ref="523168451"/>
+    <nd ref="523168455"/>
+    <nd ref="523168461"/>
+    <nd ref="523168480"/>
+    <nd ref="523168483"/>
+    <nd ref="523168489"/>
+    <nd ref="523168498"/>
+    <nd ref="523168503"/>
+    <nd ref="523168506"/>
+    <nd ref="523168512"/>
+    <nd ref="523168519"/>
+    <nd ref="523168526"/>
+    <nd ref="314084643"/>
+    <nd ref="523169520"/>
+    <nd ref="524819762"/>
+    <nd ref="524819763"/>
+    <nd ref="524819765"/>
+    <nd ref="272108063"/>
+    <nd ref="724669426"/>
+    <nd ref="314084378"/>
+    <nd ref="314084375"/>
+    <nd ref="314084380"/>
+    <nd ref="314083845"/>
+    <nd ref="523146140"/>
+    <nd ref="314083842"/>
+    <nd ref="523146164"/>
+    <nd ref="523146172"/>
+    <nd ref="53140972"/>
+    <nd ref="523146201"/>
+    <nd ref="523146212"/>
+    <nd ref="523146214"/>
+    <nd ref="53140975"/>
+    <nd ref="53140976"/>
+    <nd ref="53140979"/>
+    <nd ref="523143981"/>
+    <nd ref="523143985"/>
+    <nd ref="523144000"/>
+    <nd ref="53140981"/>
+    <nd ref="53140985"/>
+    <nd ref="523144012"/>
+    <nd ref="523144015"/>
+    <nd ref="53140989"/>
+    <nd ref="523144024"/>
+    <nd ref="523144028"/>
+    <nd ref="53140990"/>
+    <nd ref="53140992"/>
+    <nd ref="53140993"/>
+    <nd ref="53140998"/>
+    <nd ref="337234318"/>
+    <nd ref="337234319"/>
+    <nd ref="53140999"/>
+    <nd ref="53141002"/>
+    <nd ref="53141005"/>
+    <nd ref="53141007"/>
+    <nd ref="53141009"/>
+    <nd ref="337234317"/>
+    <nd ref="523140338"/>
+    <nd ref="523140346"/>
+    <nd ref="53141011"/>
+    <nd ref="53141013"/>
+    <nd ref="53141014"/>
+    <nd ref="53141018"/>
+    <nd ref="53141020"/>
+    <nd ref="523140384"/>
+    <nd ref="800194963"/>
+    <nd ref="804261994"/>
+    <nd ref="53141022"/>
+    <nd ref="53141024"/>
+    <nd ref="307464711"/>
+    <nd ref="53141027"/>
+    <nd ref="804261897"/>
+    <nd ref="523154152"/>
+    <nd ref="523154159"/>
+    <nd ref="53141030"/>
+    <nd ref="523154180"/>
+    <nd ref="804261981"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Marshlands Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alameda, CA"/>
+    <tag k="tiger:name_base" v="Marshlands"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="125083810:125023819:125050517"/>
+  </way>
+  <way id="42102752" version="11" timestamp="2011-01-19T05:34:52Z" uid="201724" user="mk408" changeset="7017288">
+    <nd ref="523165439"/>
+    <nd ref="523168443"/>
+    <nd ref="523168451"/>
+    <nd ref="523168455"/>
+    <nd ref="523168461"/>
+    <nd ref="523168480"/>
+    <nd ref="523168483"/>
+    <nd ref="523168489"/>
+    <nd ref="523168498"/>
+    <nd ref="523168503"/>
+    <nd ref="523168506"/>
+    <nd ref="523168512"/>
+    <nd ref="523168519"/>
+    <nd ref="523168526"/>
+    <nd ref="314084643"/>
+    <nd ref="523169520"/>
+    <nd ref="524819762"/>
+    <nd ref="524819763"/>
+    <nd ref="524819765"/>
+    <nd ref="272108063"/>
+    <nd ref="724669426"/>
+    <nd ref="314084378"/>
+    <nd ref="314084375"/>
+    <nd ref="314084380"/>
+    <nd ref="314083845"/>
+    <nd ref="523146140"/>
+    <nd ref="314083842"/>
+    <nd ref="523146164"/>
+    <nd ref="523146172"/>
+    <nd ref="53140972"/>
+    <nd ref="523146201"/>
+    <nd ref="523146212"/>
+    <nd ref="523146214"/>
+    <nd ref="53140975"/>
+    <nd ref="53140976"/>
+    <nd ref="53140979"/>
+    <nd ref="523143981"/>
+    <nd ref="523143985"/>
+    <nd ref="523144000"/>
+    <nd ref="53140981"/>
+    <nd ref="53140985"/>
+    <nd ref="523144012"/>
+    <nd ref="523144015"/>
+    <nd ref="53140989"/>
+    <nd ref="523144024"/>
+    <nd ref="523144028"/>
+    <nd ref="53140990"/>
+    <nd ref="53140992"/>
+    <nd ref="53140993"/>
+    <nd ref="53140998"/>
+    <nd ref="337234318"/>
+    <nd ref="337234319"/>
+    <nd ref="53140999"/>
+    <nd ref="53141002"/>
+    <nd ref="53141005"/>
+    <nd ref="53141007"/>
+    <nd ref="53141009"/>
+    <nd ref="337234317"/>
+    <nd ref="523140338"/>
+    <nd ref="307464893"/>
+    <nd ref="53141011"/>
+    <nd ref="53141013"/>
+    <nd ref="53141014"/>
+    <nd ref="53141018"/>
+    <nd ref="53141020"/>
+    <nd ref="523140384"/>
+    <nd ref="800194963"/>
+    <nd ref="804261994"/>
+    <nd ref="53141022"/>
+    <nd ref="53141024"/>
+    <nd ref="307464711"/>
+    <nd ref="53141027"/>
+    <nd ref="804261897"/>
+    <nd ref="523154152"/>
+    <nd ref="523154159"/>
+    <nd ref="53141030"/>
+    <nd ref="523154180"/>
+    <nd ref="804261981"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Marshlands Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alameda, CA"/>
+    <tag k="tiger:name_base" v="Marshlands"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="125083810:125023819:125050517"/>
+  </way>
+  <way id="42102752" version="12" timestamp="2011-01-19T05:36:05Z" uid="201724" user="mk408" changeset="7017297">
+    <nd ref="523165439"/>
+    <nd ref="523168443"/>
+    <nd ref="523168451"/>
+    <nd ref="523168455"/>
+    <nd ref="523168461"/>
+    <nd ref="523168480"/>
+    <nd ref="523168483"/>
+    <nd ref="523168489"/>
+    <nd ref="523168498"/>
+    <nd ref="523168503"/>
+    <nd ref="523168506"/>
+    <nd ref="523168512"/>
+    <nd ref="523168519"/>
+    <nd ref="523168526"/>
+    <nd ref="314084643"/>
+    <nd ref="523169520"/>
+    <nd ref="524819762"/>
+    <nd ref="524819763"/>
+    <nd ref="524819765"/>
+    <nd ref="272108063"/>
+    <nd ref="724669426"/>
+    <nd ref="314084378"/>
+    <nd ref="314084375"/>
+    <nd ref="314084380"/>
+    <nd ref="314083845"/>
+    <nd ref="523146140"/>
+    <nd ref="314083842"/>
+    <nd ref="523146164"/>
+    <nd ref="523146172"/>
+    <nd ref="53140972"/>
+    <nd ref="523146201"/>
+    <nd ref="523146212"/>
+    <nd ref="523146214"/>
+    <nd ref="53140975"/>
+    <nd ref="53140976"/>
+    <nd ref="53140979"/>
+    <nd ref="523143981"/>
+    <nd ref="523143985"/>
+    <nd ref="523144000"/>
+    <nd ref="53140981"/>
+    <nd ref="53140985"/>
+    <nd ref="523144012"/>
+    <nd ref="523144015"/>
+    <nd ref="53140989"/>
+    <nd ref="523144024"/>
+    <nd ref="523144028"/>
+    <nd ref="53140990"/>
+    <nd ref="53140992"/>
+    <nd ref="53140993"/>
+    <nd ref="53140998"/>
+    <nd ref="337234318"/>
+    <nd ref="337234319"/>
+    <nd ref="53140999"/>
+    <nd ref="53141002"/>
+    <nd ref="53141005"/>
+    <nd ref="53141007"/>
+    <nd ref="53141009"/>
+    <nd ref="337234317"/>
+    <nd ref="523140338"/>
+    <nd ref="307464893"/>
+    <nd ref="53141011"/>
+    <nd ref="53141013"/>
+    <nd ref="53141014"/>
+    <nd ref="53141018"/>
+    <nd ref="53141020"/>
+    <nd ref="523140384"/>
+    <nd ref="800194963"/>
+    <nd ref="804261994"/>
+    <nd ref="53141022"/>
+    <nd ref="53141024"/>
+    <nd ref="307464711"/>
+    <nd ref="53141027"/>
+    <nd ref="804261897"/>
+    <nd ref="523154152"/>
+    <nd ref="523154159"/>
+    <nd ref="53141030"/>
+    <nd ref="1110056294"/>
+    <nd ref="523154180"/>
+    <nd ref="804261981"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Marshlands Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alameda, CA"/>
+    <tag k="tiger:name_base" v="Marshlands"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="125083810:125023819:125050517"/>
+  </way>
+  <way id="42102851" version="3" timestamp="2010-03-28T11:00:20Z" uid="20587" user="balrog-kun" changeset="4254597">
+    <nd ref="523166125"/>
+    <nd ref="523166934"/>
+    <nd ref="523166942"/>
+    <nd ref="523166951"/>
+    <nd ref="523166963"/>
+    <nd ref="523167010"/>
+    <nd ref="523167024"/>
+    <nd ref="523167037"/>
+    <nd ref="523167050"/>
+    <nd ref="523165439"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Marshlands Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alameda, CA"/>
+    <tag k="tiger:name_base" v="Marshlands"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="125083810:125023819:125050517"/>
+  </way>
+  <way id="42102851" version="4" timestamp="2010-05-06T23:07:52Z" uid="65950" user="davetoo" changeset="4626354">
+    <nd ref="523166125"/>
+    <nd ref="523166934"/>
+    <nd ref="523166942"/>
+    <nd ref="523166951"/>
+    <nd ref="523166963"/>
+    <nd ref="523167010"/>
+    <nd ref="523167024"/>
+    <nd ref="523167037"/>
+    <nd ref="523167050"/>
+    <nd ref="523165439"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Marshlands Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alameda, CA"/>
+    <tag k="tiger:name_base" v="Marshlands"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="125083810:125023819:125050517"/>
+  </way>
+  <way id="42102752" version="13" timestamp="2012-05-31T19:23:57Z" uid="482916" user="bill42" changeset="11761086">
+    <nd ref="523165439"/>
+    <nd ref="523168443"/>
+    <nd ref="523168451"/>
+    <nd ref="523168455"/>
+    <nd ref="523168461"/>
+    <nd ref="523168480"/>
+    <nd ref="523168483"/>
+    <nd ref="523168489"/>
+    <nd ref="523168498"/>
+    <nd ref="523168503"/>
+    <nd ref="523168506"/>
+    <nd ref="523168512"/>
+    <nd ref="523168519"/>
+    <nd ref="523168526"/>
+    <nd ref="314084643"/>
+    <nd ref="523169520"/>
+    <nd ref="524819762"/>
+    <nd ref="524819763"/>
+    <nd ref="1771732976"/>
+    <nd ref="524819765"/>
+    <nd ref="272108063"/>
+    <nd ref="724669426"/>
+    <nd ref="314084378"/>
+    <nd ref="314084375"/>
+    <nd ref="314084380"/>
+    <nd ref="314083845"/>
+    <nd ref="523146140"/>
+    <nd ref="314083842"/>
+    <nd ref="523146164"/>
+    <nd ref="523146172"/>
+    <nd ref="53140972"/>
+    <nd ref="523146201"/>
+    <nd ref="523146212"/>
+    <nd ref="523146214"/>
+    <nd ref="53140975"/>
+    <nd ref="53140976"/>
+    <nd ref="53140979"/>
+    <nd ref="523143981"/>
+    <nd ref="523143985"/>
+    <nd ref="523144000"/>
+    <nd ref="53140981"/>
+    <nd ref="53140985"/>
+    <nd ref="523144012"/>
+    <nd ref="523144015"/>
+    <nd ref="53140989"/>
+    <nd ref="523144024"/>
+    <nd ref="523144028"/>
+    <nd ref="53140990"/>
+    <nd ref="53140992"/>
+    <nd ref="53140993"/>
+    <nd ref="53140998"/>
+    <nd ref="337234318"/>
+    <nd ref="337234319"/>
+    <nd ref="53140999"/>
+    <nd ref="53141002"/>
+    <nd ref="53141005"/>
+    <nd ref="53141007"/>
+    <nd ref="53141009"/>
+    <nd ref="337234317"/>
+    <nd ref="523140338"/>
+    <nd ref="307464893"/>
+    <nd ref="53141011"/>
+    <nd ref="53141013"/>
+    <nd ref="53141014"/>
+    <nd ref="53141018"/>
+    <nd ref="53141020"/>
+    <nd ref="523140384"/>
+    <nd ref="800194963"/>
+    <nd ref="804261994"/>
+    <nd ref="53141022"/>
+    <nd ref="53141024"/>
+    <nd ref="307464711"/>
+    <nd ref="53141027"/>
+    <nd ref="804261897"/>
+    <nd ref="523154152"/>
+    <nd ref="523154159"/>
+    <nd ref="53141030"/>
+    <nd ref="1110056294"/>
+    <nd ref="523154180"/>
+    <nd ref="804261981"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Marshlands Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alameda, CA"/>
+    <tag k="tiger:name_base" v="Marshlands"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="125083810:125023819:125050517"/>
+  </way>
+  <way id="42102752" version="14" timestamp="2012-05-31T19:31:03Z" uid="482916" user="bill42" changeset="11761086">
+    <nd ref="523165439"/>
+    <nd ref="523168443"/>
+    <nd ref="523168451"/>
+    <nd ref="523168455"/>
+    <nd ref="523168461"/>
+    <nd ref="523168480"/>
+    <nd ref="523168483"/>
+    <nd ref="523168489"/>
+    <nd ref="523168498"/>
+    <nd ref="1771738597"/>
+    <nd ref="523168503"/>
+    <nd ref="523168506"/>
+    <nd ref="523168512"/>
+    <nd ref="523168519"/>
+    <nd ref="523168526"/>
+    <nd ref="314084643"/>
+    <nd ref="523169520"/>
+    <nd ref="524819762"/>
+    <nd ref="524819763"/>
+    <nd ref="1771738612"/>
+    <nd ref="1771732976"/>
+    <nd ref="524819765"/>
+    <nd ref="272108063"/>
+    <nd ref="1771738605"/>
+    <nd ref="724669426"/>
+    <nd ref="314084378"/>
+    <nd ref="314084375"/>
+    <nd ref="314084380"/>
+    <nd ref="314083845"/>
+    <nd ref="523146140"/>
+    <nd ref="314083842"/>
+    <nd ref="523146164"/>
+    <nd ref="523146172"/>
+    <nd ref="53140972"/>
+    <nd ref="523146201"/>
+    <nd ref="523146212"/>
+    <nd ref="523146214"/>
+    <nd ref="53140975"/>
+    <nd ref="53140976"/>
+    <nd ref="53140979"/>
+    <nd ref="523143981"/>
+    <nd ref="523143985"/>
+    <nd ref="523144000"/>
+    <nd ref="53140981"/>
+    <nd ref="53140985"/>
+    <nd ref="523144012"/>
+    <nd ref="523144015"/>
+    <nd ref="53140989"/>
+    <nd ref="523144024"/>
+    <nd ref="523144028"/>
+    <nd ref="53140990"/>
+    <nd ref="53140992"/>
+    <nd ref="53140993"/>
+    <nd ref="53140998"/>
+    <nd ref="337234318"/>
+    <nd ref="337234319"/>
+    <nd ref="53140999"/>
+    <nd ref="53141002"/>
+    <nd ref="53141005"/>
+    <nd ref="53141007"/>
+    <nd ref="53141009"/>
+    <nd ref="337234317"/>
+    <nd ref="523140338"/>
+    <nd ref="307464893"/>
+    <nd ref="53141011"/>
+    <nd ref="53141013"/>
+    <nd ref="53141014"/>
+    <nd ref="53141018"/>
+    <nd ref="53141020"/>
+    <nd ref="523140384"/>
+    <nd ref="800194963"/>
+    <nd ref="804261994"/>
+    <nd ref="53141022"/>
+    <nd ref="53141024"/>
+    <nd ref="307464711"/>
+    <nd ref="53141027"/>
+    <nd ref="804261897"/>
+    <nd ref="523154152"/>
+    <nd ref="523154159"/>
+    <nd ref="53141030"/>
+    <nd ref="1110056294"/>
+    <nd ref="523154180"/>
+    <nd ref="804261981"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Marshlands Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alameda, CA"/>
+    <tag k="tiger:name_base" v="Marshlands"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="125083810:125023819:125050517"/>
+  </way>
+</osm>

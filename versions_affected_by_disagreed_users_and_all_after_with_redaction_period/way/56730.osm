@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="56730376" version="2" timestamp="2010-07-27T15:08:30Z" uid="4467" user="Rosscoe" changeset="5330199"/>
+  <way id="56730647" version="1" timestamp="2010-04-28T07:40:01Z" uid="6975" user="ulfl" changeset="4547161">
+    <nd ref="59934635"/>
+    <nd ref="710051345"/>
+    <tag k="highway" v="unclassified"/>
+  </way>
+  <way id="56730647" version="2" timestamp="2012-01-14T11:09:01Z" uid="474183" user="ratrun" changeset="10386158">
+    <nd ref="59934635"/>
+    <nd ref="1589462072"/>
+    <nd ref="710051345"/>
+    <tag k="highway" v="unclassified"/>
+  </way>
+  <way id="56730831" version="2" timestamp="2010-07-25T08:08:00Z" uid="4467" user="Rosscoe" changeset="5309577">
+    <nd ref="21682072"/>
+    <nd ref="21682073"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Tweed Valley Way"/>
+  </way>
+  <way id="56730943" version="2" timestamp="2010-07-25T08:08:02Z" uid="4467" user="Rosscoe" changeset="5309577">
+    <nd ref="710074212"/>
+    <nd ref="710074214"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Pottsville Road"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="paved"/>
+    <tag k="survey" v="GPS"/>
+  </way>
+  <way id="56730647" version="3" timestamp="2012-04-13T20:26:08Z" uid="69102" user="Mathbau" changeset="11292053"/>
+  <way id="56730831" version="3" timestamp="2012-07-19T13:01:00Z" uid="722137" user="OSMF Redaction Account" changeset="12327664">
+    <nd ref="21682072"/>
+    <nd ref="21682073"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="Tweed Valley Way"/>
+  </way>
+  <way id="56730943" version="3" timestamp="2012-07-19T13:01:01Z" uid="722137" user="OSMF Redaction Account" changeset="12327664">
+    <nd ref="710074212"/>
+    <nd ref="710074214"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Pottsville Road"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="paved"/>
+    <tag k="survey" v="GPS"/>
+  </way>
+</osm>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="108285026" version="2" timestamp="2011-04-16T02:31:09Z" uid="4467" user="Rosscoe" changeset="7875042">
+    <nd ref="1242684695"/>
+    <nd ref="1242684622"/>
+    <nd ref="1242684669"/>
+    <nd ref="1246473453"/>
+    <tag k="highway" v="service"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="108285032" version="2" timestamp="2011-04-16T02:31:05Z" uid="4467" user="Rosscoe" changeset="7875042">
+    <nd ref="357792099"/>
+    <nd ref="1242684695"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="108285037" version="2" timestamp="2011-04-16T02:31:04Z" uid="4467" user="Rosscoe" changeset="7875042">
+    <nd ref="357792115"/>
+    <nd ref="1242684613"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="108285390" version="2" timestamp="2011-04-16T02:31:08Z" uid="4467" user="Rosscoe" changeset="7875042">
+    <nd ref="1242690412"/>
+    <nd ref="1242690414"/>
+    <nd ref="1242690420"/>
+    <nd ref="1242690419"/>
+    <nd ref="1242690412"/>
+    <tag k="amenity" v="parking"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="108285026" version="3" timestamp="2012-07-19T09:01:46Z" uid="722137" user="OSMF Redaction Account" changeset="12315041">
+    <nd ref="1242684695"/>
+    <nd ref="1242684622"/>
+    <nd ref="1242684669"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="108285032" version="3" timestamp="2012-07-19T09:01:49Z" uid="722137" user="OSMF Redaction Account" changeset="12315041">
+    <nd ref="357792099"/>
+    <nd ref="1242684695"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="108285037" version="3" timestamp="2012-07-19T09:01:49Z" uid="722137" user="OSMF Redaction Account" changeset="12315041">
+    <nd ref="1242684613"/>
+    <nd ref="357792115"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="-1"/>
+  </way>
+  <way id="108285390" version="3" timestamp="2012-07-19T09:01:49Z" uid="722137" user="OSMF Redaction Account" changeset="12315041">
+    <nd ref="1242690412"/>
+    <nd ref="1242690414"/>
+    <nd ref="1242690420"/>
+    <nd ref="1242690419"/>
+    <nd ref="1242690412"/>
+    <tag k="amenity" v="parking"/>
+  </way>
+</osm>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="48830642" version="2" timestamp="2010-06-29T19:05:16Z" uid="74617" user="JohnSmith" changeset="5108182">
+    <nd ref="619483005"/>
+    <nd ref="619483006"/>
+    <nd ref="619483007"/>
+    <nd ref="619483008"/>
+    <nd ref="619483005"/>
+    <tag k="fixme" v="sport=football is ambiguous, see http://wiki.osm.org/wiki/Football for more details"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="football"/>
+  </way>
+  <way id="48830642" version="3" timestamp="2010-11-24T08:47:53Z" uid="66391" user="geozeisig" changeset="6445125">
+    <nd ref="619483005"/>
+    <nd ref="619483006"/>
+    <nd ref="619483007"/>
+    <nd ref="619483008"/>
+    <nd ref="619483005"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="soccer"/>
+  </way>
+  <way id="48830729" version="5" timestamp="2011-03-02T10:19:23Z" uid="115477" user="wowik" changeset="7436444">
+    <nd ref="304145775"/>
+    <nd ref="619484455"/>
+    <nd ref="304145767"/>
+    <tag k="highway" v="service"/>
+    <tag k="living_street" v="yes"/>
+  </way>
+  <way id="48830729" version="6" timestamp="2011-06-12T09:41:21Z" uid="316868" user="LexIgnatov" changeset="8413366">
+    <nd ref="619484455"/>
+    <nd ref="1321480448"/>
+    <nd ref="1181300238"/>
+    <tag k="highway" v="service"/>
+    <tag k="living_street" v="yes"/>
+  </way>
+  <way id="48830760" version="3" timestamp="2011-03-02T10:19:23Z" uid="115477" user="wowik" changeset="7436444">
+    <nd ref="1181300465"/>
+    <nd ref="1181300119"/>
+    <nd ref="1181300350"/>
+    <nd ref="619484455"/>
+    <nd ref="619484464"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="48830760" version="4" timestamp="2011-06-12T09:41:22Z" uid="316868" user="LexIgnatov" changeset="8413366">
+    <nd ref="619484464"/>
+    <nd ref="619484455"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="48830760" version="5" timestamp="2011-10-05T22:18:20Z" uid="397326" user="trolleway" changeset="9482116">
+    <nd ref="619484464"/>
+    <nd ref="619484455"/>
+    <tag k="highway" v="service"/>
+    <tag k="living_street" v="yes"/>
+  </way>
+  <way id="48830729" version="7" timestamp="2012-05-23T06:39:45Z" uid="39086" user="AlexeyS" changeset="11678003"/>
+  <way id="48830760" version="6" timestamp="2012-05-23T06:39:46Z" uid="39086" user="AlexeyS" changeset="11678003"/>
+</osm>

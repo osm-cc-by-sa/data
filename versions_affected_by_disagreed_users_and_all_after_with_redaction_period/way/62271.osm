@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="62271373" version="6" timestamp="2010-06-29T19:16:42Z" uid="74617" user="JohnSmith" changeset="5108182">
+    <nd ref="778110374"/>
+    <nd ref="778110379"/>
+    <nd ref="778122186"/>
+    <nd ref="778134453"/>
+    <nd ref="778129635"/>
+    <nd ref="778110374"/>
+    <tag k="fixme" v="sport=football is ambiguous, see http://wiki.osm.org/wiki/Football for more details"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="football"/>
+  </way>
+  <way id="62271373" version="7" timestamp="2011-05-03T10:47:06Z" uid="94340" user="lslachciak" changeset="8038234">
+    <nd ref="778110379"/>
+    <nd ref="778122186"/>
+    <nd ref="778134453"/>
+    <nd ref="778129635"/>
+    <tag k="fixme" v="sport=football is ambiguous, see http://wiki.osm.org/wiki/Football for more details"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="football"/>
+  </way>
+  <way id="62271373" version="8" timestamp="2012-01-16T07:36:14Z" uid="98542" user="wajak" changeset="10406038"/>
+  <way id="62271412" version="3" timestamp="2010-08-15T14:42:17Z" uid="33382" user="de_muur" changeset="5500500">
+    <nd ref="773832717"/>
+    <nd ref="30401680"/>
+    <nd ref="21316796"/>
+    <nd ref="823318939"/>
+    <nd ref="26511662"/>
+    <tag k="cycleway" v="track"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Huckelriede"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="62271412" version="4" timestamp="2011-06-03T18:29:04Z" uid="42429" user="FK270673" changeset="8332158">
+    <nd ref="773832717"/>
+    <nd ref="30401680"/>
+    <nd ref="21316796"/>
+    <nd ref="823318939"/>
+    <nd ref="26511662"/>
+    <tag k="cycleway" v="track"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Huckelriede"/>
+    <tag k="power" v="underground_cable"/>
+    <tag k="surface" v="paved"/>
+    <tag k="voltage" v="110000"/>
+  </way>
+  <way id="62271412" version="5" timestamp="2012-07-17T12:01:35Z" uid="722137" user="OSMF Redaction Account" changeset="12264708">
+    <nd ref="773832717"/>
+    <nd ref="30401680"/>
+    <nd ref="21316796"/>
+    <nd ref="823318939"/>
+    <nd ref="26511662"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Huckelriede"/>
+    <tag k="power" v="underground_cable"/>
+    <tag k="voltage" v="110000"/>
+  </way>
+</osm>

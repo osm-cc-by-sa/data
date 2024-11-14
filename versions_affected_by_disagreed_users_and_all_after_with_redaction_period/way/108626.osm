@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="108626436" version="2" timestamp="2011-04-16T03:38:38Z" uid="4467" user="Rosscoe" changeset="7875153">
+    <nd ref="1245773574"/>
+    <nd ref="1245773570"/>
+    <tag k="highway" v="service"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="108626437" version="2" timestamp="2011-04-16T03:39:14Z" uid="4467" user="Rosscoe" changeset="7875153">
+    <nd ref="1246509194"/>
+    <nd ref="1245773579"/>
+    <nd ref="1245773574"/>
+    <tag k="highway" v="service"/>
+    <tag k="service" v="parking_aisle"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="108626436" version="3" timestamp="2012-07-19T12:39:38Z" uid="722137" user="OSMF Redaction Account" changeset="12325904">
+    <nd ref="1245773570"/>
+    <nd ref="1245773574"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="oneway" v="-1"/>
+  </way>
+  <way id="108626436" version="4" timestamp="2012-08-23T22:01:00Z" uid="418724" user="wintersportler" changeset="12838726">
+    <nd ref="1245773570"/>
+    <nd ref="1245773574"/>
+    <tag k="fixme" v="name"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="oneway" v="-1"/>
+  </way>
+  <way id="108626437" version="3" timestamp="2012-07-19T12:37:08Z" uid="722137" user="OSMF Redaction Account" changeset="12325642">
+    <nd ref="1245773579"/>
+    <nd ref="1245773574"/>
+    <tag k="highway" v="service"/>
+    <tag k="service" v="parking_aisle"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+</osm>

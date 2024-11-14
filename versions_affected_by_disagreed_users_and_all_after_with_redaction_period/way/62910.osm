@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="62910208" version="1" timestamp="2010-06-22T19:09:05Z" uid="8619" user="cetest" changeset="5053776">
+    <nd ref="782868794"/>
+    <nd ref="86002338"/>
+    <tag k="cycleway" v="track"/>
+    <tag k="highway" v="cycleway"/>
+  </way>
+  <way id="62910208" version="2" timestamp="2010-07-26T13:10:31Z" uid="203114" user="Jeroen Muris" changeset="5320926">
+    <nd ref="86002338"/>
+    <nd ref="782868794"/>
+    <tag k="highway" v="cycleway"/>
+  </way>
+  <way id="62910208" version="3" timestamp="2011-09-15T23:55:22Z" uid="191979" user="It&apos;s so funny" changeset="9312639"/>
+  <way id="62910213" version="1" timestamp="2010-06-22T19:09:05Z" uid="8619" user="cetest" changeset="5053776">
+    <nd ref="44610425"/>
+    <nd ref="44630594"/>
+    <nd ref="44637478"/>
+    <tag k="AND:importance_level" v="5"/>
+    <tag k="AND_nosr_r" v="15085217"/>
+    <tag k="cycleway" v="lane"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Schieveensedijk"/>
+  </way>
+  <way id="62910213" version="2" timestamp="2010-08-06T17:47:49Z" uid="12946" user="AND" changeset="5418933">
+    <nd ref="44610425"/>
+    <nd ref="44630594"/>
+    <nd ref="44637478"/>
+    <tag k="AND:importance_level" v="5"/>
+    <tag k="AND_nosr_r" v="15085217"/>
+    <tag k="cycleway" v="lane"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Schieveensedijk"/>
+  </way>
+  <way id="62910213" version="3" timestamp="2011-10-02T21:58:39Z" uid="191979" user="It&apos;s so funny" changeset="9455662"/>
+  <way id="62910219" version="1" timestamp="2010-06-22T19:09:05Z" uid="8619" user="cetest" changeset="5053776">
+    <nd ref="782868794"/>
+    <nd ref="44564363"/>
+    <tag k="AND:importance_level" v="2"/>
+    <tag k="AND_nosr_r" v="15085250"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Vliegveldweg"/>
+  </way>
+  <way id="62910219" version="2" timestamp="2010-07-26T13:10:33Z" uid="203114" user="Jeroen Muris" changeset="5320926">
+    <nd ref="782868794"/>
+    <nd ref="44564363"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Vliegveldweg"/>
+  </way>
+  <way id="62910219" version="3" timestamp="2011-09-15T23:55:18Z" uid="191979" user="It&apos;s so funny" changeset="9312639"/>
+</osm>

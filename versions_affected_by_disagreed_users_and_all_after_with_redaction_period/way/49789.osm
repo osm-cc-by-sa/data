@@ -1,0 +1,1561 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="49789236" version="3" timestamp="2010-03-28T11:47:23Z" uid="20587" user="balrog-kun" changeset="4254597">
+    <nd ref="48874943"/>
+    <nd ref="49482414"/>
+    <nd ref="49482415"/>
+    <nd ref="49482417"/>
+    <nd ref="632571970"/>
+    <nd ref="632571960"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Federal Boulevard"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="Federal"/>
+    <tag k="tiger:name_type" v="Blvd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195351554:195351672:195351683:195351588"/>
+    <tag k="tiger:zip_left" v="91945"/>
+    <tag k="tiger:zip_right" v="92114"/>
+  </way>
+  <way id="49789313" version="2" timestamp="2010-03-28T11:47:23Z" uid="20587" user="balrog-kun" changeset="4254597">
+    <nd ref="632574745"/>
+    <nd ref="632574753"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="State Highway 94"/>
+    <tag k="name_1" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195737250:195755430"/>
+  </way>
+  <way id="49789313" version="3" timestamp="2011-03-23T10:57:57Z" uid="238349" user="evil saltine" changeset="7645283">
+    <nd ref="632574745"/>
+    <nd ref="632574753"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="State Highway 94"/>
+    <tag k="name_1" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="CA 94"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195737250:195755430"/>
+  </way>
+  <way id="49789313" version="4" timestamp="2011-04-02T04:53:10Z" uid="48060" user="Sat" changeset="7740926">
+    <nd ref="632574745"/>
+    <nd ref="632574753"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="State Highway 94 East"/>
+    <tag k="name_1" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="CA 94 E"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195737250:195755430"/>
+  </way>
+  <way id="49789313" version="5" timestamp="2011-07-19T01:08:00Z" uid="473471" user="NE3" changeset="8764274">
+    <nd ref="632574745"/>
+    <nd ref="632574753"/>
+    <tag k="NHS" v="yes"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="State Highway 94 East"/>
+    <tag k="name_1" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="CA 94 E"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195737250:195755430"/>
+  </way>
+  <way id="49789313" version="6" timestamp="2011-07-29T11:06:25Z" uid="207745" user="NE2" changeset="8862241">
+    <nd ref="632574745"/>
+    <nd ref="632574753"/>
+    <tag k="NHS" v="yes"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="SR 94"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195737250:195755430"/>
+  </way>
+  <way id="49789313" version="7" timestamp="2011-10-16T08:31:53Z" uid="207745" user="NE2" changeset="9569847">
+    <nd ref="632574745"/>
+    <nd ref="632574753"/>
+    <tag k="NHS" v="yes"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="SR 94"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195737250:195755430"/>
+  </way>
+  <way id="49789313" version="8" timestamp="2011-11-25T14:39:39Z" uid="207745" user="NE2" changeset="9943893">
+    <nd ref="632574745"/>
+    <nd ref="632574753"/>
+    <tag k="NHS" v="yes"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="hgv:national_network" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="SR 94"/>
+    <tag k="source:hgv:national_network" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195737250:195755430"/>
+  </way>
+  <way id="49789313" version="9" timestamp="2011-11-25T17:13:23Z" uid="207745" user="NE2" changeset="9945963">
+    <nd ref="632574745"/>
+    <nd ref="632574753"/>
+    <tag k="NHS" v="yes"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="hgv:national_network" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="SR 94"/>
+    <tag k="source:hgv:national_network" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195737250:195755430"/>
+  </way>
+  <way id="49789314" version="2" timestamp="2010-03-28T11:47:24Z" uid="20587" user="balrog-kun" changeset="4254597">
+    <nd ref="632574753"/>
+    <nd ref="49330857"/>
+    <nd ref="295183269"/>
+    <nd ref="295183270"/>
+    <nd ref="295183271"/>
+    <nd ref="295183272"/>
+    <nd ref="295183273"/>
+    <nd ref="49331289"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="State Highway 94"/>
+    <tag k="name_1" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195737250:195755430"/>
+  </way>
+  <way id="49789314" version="3" timestamp="2011-03-23T10:58:00Z" uid="238349" user="evil saltine" changeset="7645283">
+    <nd ref="632574753"/>
+    <nd ref="49330857"/>
+    <nd ref="295183269"/>
+    <nd ref="295183270"/>
+    <nd ref="295183271"/>
+    <nd ref="295183272"/>
+    <nd ref="295183273"/>
+    <nd ref="49331289"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="State Highway 94"/>
+    <tag k="name_1" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="CA 94"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195737250:195755430"/>
+  </way>
+  <way id="49789314" version="4" timestamp="2011-04-02T04:53:10Z" uid="48060" user="Sat" changeset="7740926">
+    <nd ref="632574753"/>
+    <nd ref="49330857"/>
+    <nd ref="295183269"/>
+    <nd ref="295183270"/>
+    <nd ref="295183271"/>
+    <nd ref="295183272"/>
+    <nd ref="295183273"/>
+    <nd ref="49331289"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v=" State Highway 94 East"/>
+    <tag k="name_1" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="CA 94 E"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195737250:195755430"/>
+  </way>
+  <way id="49789314" version="5" timestamp="2011-04-02T17:44:42Z" uid="70696" user="xybot" changeset="7746222">
+    <nd ref="632574753"/>
+    <nd ref="49330857"/>
+    <nd ref="295183269"/>
+    <nd ref="295183270"/>
+    <nd ref="295183271"/>
+    <nd ref="295183272"/>
+    <nd ref="295183273"/>
+    <nd ref="49331289"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="State Highway 94 East"/>
+    <tag k="name_1" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="CA 94 E"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195737250:195755430"/>
+  </way>
+  <way id="49789314" version="6" timestamp="2011-07-19T01:08:01Z" uid="473471" user="NE3" changeset="8764274">
+    <nd ref="632574753"/>
+    <nd ref="49330857"/>
+    <nd ref="295183269"/>
+    <nd ref="295183270"/>
+    <nd ref="295183271"/>
+    <nd ref="295183272"/>
+    <nd ref="295183273"/>
+    <nd ref="49331289"/>
+    <tag k="NHS" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="State Highway 94 East"/>
+    <tag k="name_1" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="CA 94 E"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195737250:195755430"/>
+  </way>
+  <way id="49789314" version="7" timestamp="2011-07-29T11:06:35Z" uid="207745" user="NE2" changeset="8862241">
+    <nd ref="632574753"/>
+    <nd ref="49330857"/>
+    <nd ref="295183269"/>
+    <nd ref="295183270"/>
+    <nd ref="295183271"/>
+    <nd ref="295183272"/>
+    <nd ref="295183273"/>
+    <nd ref="49331289"/>
+    <tag k="NHS" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="name" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="SR 94"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195737250:195755430"/>
+  </way>
+  <way id="49789314" version="8" timestamp="2011-10-16T08:32:09Z" uid="207745" user="NE2" changeset="9569847">
+    <nd ref="632574753"/>
+    <nd ref="49330857"/>
+    <nd ref="295183269"/>
+    <nd ref="295183270"/>
+    <nd ref="295183271"/>
+    <nd ref="295183272"/>
+    <nd ref="295183273"/>
+    <nd ref="49331289"/>
+    <tag k="NHS" v="yes"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="name" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="SR 94"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195737250:195755430"/>
+  </way>
+  <way id="49789314" version="9" timestamp="2011-11-25T14:40:06Z" uid="207745" user="NE2" changeset="9943893">
+    <nd ref="632574753"/>
+    <nd ref="49330857"/>
+    <nd ref="295183269"/>
+    <nd ref="295183270"/>
+    <nd ref="295183271"/>
+    <nd ref="295183272"/>
+    <nd ref="295183273"/>
+    <nd ref="49331289"/>
+    <tag k="NHS" v="yes"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="hgv:national_network" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="name" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="SR 94"/>
+    <tag k="source:hgv:national_network" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195737250:195755430"/>
+  </way>
+  <way id="49789314" version="10" timestamp="2011-11-25T17:13:47Z" uid="207745" user="NE2" changeset="9945963">
+    <nd ref="632574753"/>
+    <nd ref="49330857"/>
+    <nd ref="295183269"/>
+    <nd ref="295183270"/>
+    <nd ref="295183271"/>
+    <nd ref="295183272"/>
+    <nd ref="295183273"/>
+    <nd ref="49331289"/>
+    <tag k="NHS" v="yes"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="hgv:national_network" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="name" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="SR 94"/>
+    <tag k="source:hgv:national_network" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195737250:195755430"/>
+  </way>
+  <way id="49789315" version="2" timestamp="2010-03-28T11:47:24Z" uid="20587" user="balrog-kun" changeset="4254597">
+    <nd ref="632574797"/>
+    <nd ref="48936065"/>
+    <nd ref="49330948"/>
+    <nd ref="49330949"/>
+    <nd ref="49330952"/>
+    <nd ref="49330955"/>
+    <nd ref="49330959"/>
+    <nd ref="49330964"/>
+    <nd ref="49330971"/>
+    <nd ref="49330974"/>
+    <nd ref="295180461"/>
+    <nd ref="49330976"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="State Highway 94"/>
+    <tag k="name_1" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195755844:195755845:195668619:195740661:195359281:195689139:195689140:195359508:195689078:195689079:195359510:195669884:195669885:195669888:195669891:195700894:195401529:195740705:195669867:195744839:195359261:195351540:195351544:195690059:195690060:19535"/>
+  </way>
+  <way id="49789315" version="3" timestamp="2011-03-23T10:58:06Z" uid="238349" user="evil saltine" changeset="7645283">
+    <nd ref="632574797"/>
+    <nd ref="48936065"/>
+    <nd ref="49330948"/>
+    <nd ref="49330949"/>
+    <nd ref="49330952"/>
+    <nd ref="49330955"/>
+    <nd ref="49330959"/>
+    <nd ref="49330964"/>
+    <nd ref="49330971"/>
+    <nd ref="49330974"/>
+    <nd ref="295180461"/>
+    <nd ref="49330976"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="State Highway 94"/>
+    <tag k="name_1" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="CA 94"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195755844:195755845:195668619:195740661:195359281:195689139:195689140:195359508:195689078:195689079:195359510:195669884:195669885:195669888:195669891:195700894:195401529:195740705:195669867:195744839:195359261:195351540:195351544:195690059:195690060:19535"/>
+  </way>
+  <way id="49789315" version="4" timestamp="2011-04-02T04:42:03Z" uid="48060" user="Sat" changeset="7740926">
+    <nd ref="632574797"/>
+    <nd ref="48936065"/>
+    <nd ref="49330948"/>
+    <nd ref="49330949"/>
+    <nd ref="49330952"/>
+    <nd ref="49330955"/>
+    <nd ref="49330959"/>
+    <nd ref="49330964"/>
+    <nd ref="49330971"/>
+    <nd ref="49330974"/>
+    <nd ref="295180461"/>
+    <nd ref="49330976"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="State Highway 94 West"/>
+    <tag k="name_1" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="CA 94 W"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195755844:195755845:195668619:195740661:195359281:195689139:195689140:195359508:195689078:195689079:195359510:195669884:195669885:195669888:195669891:195700894:195401529:195740705:195669867:195744839:195359261:195351540:195351544:195690059:195690060:19535"/>
+  </way>
+  <way id="49789315" version="5" timestamp="2011-04-30T02:23:25Z" uid="238349" user="evil saltine" changeset="8008218">
+    <nd ref="632574797"/>
+    <nd ref="48936065"/>
+    <nd ref="49330948"/>
+    <nd ref="49330949"/>
+    <nd ref="49330952"/>
+    <nd ref="49330955"/>
+    <nd ref="49330959"/>
+    <nd ref="49330964"/>
+    <nd ref="49330971"/>
+    <nd ref="49330974"/>
+    <nd ref="49330976"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="State Highway 94 West"/>
+    <tag k="name_1" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="CA 94 W"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195755844:195755845:195668619:195740661:195359281:195689139:195689140:195359508:195689078:195689079:195359510:195669884:195669885:195669888:195669891:195700894:195401529:195740705:195669867:195744839:195359261:195351540:195351544:195690059:195690060:19535"/>
+  </way>
+  <way id="49789315" version="6" timestamp="2011-07-19T01:08:02Z" uid="473471" user="NE3" changeset="8764274">
+    <nd ref="632574797"/>
+    <nd ref="48936065"/>
+    <nd ref="49330948"/>
+    <nd ref="49330949"/>
+    <nd ref="49330952"/>
+    <nd ref="49330955"/>
+    <nd ref="49330959"/>
+    <nd ref="49330964"/>
+    <nd ref="49330971"/>
+    <nd ref="49330974"/>
+    <nd ref="49330976"/>
+    <tag k="NHS" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="State Highway 94 West"/>
+    <tag k="name_1" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="CA 94 W"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195755844:195755845:195668619:195740661:195359281:195689139:195689140:195359508:195689078:195689079:195359510:195669884:195669885:195669888:195669891:195700894:195401529:195740705:195669867:195744839:195359261:195351540:195351544:195690059:195690060:19535"/>
+  </way>
+  <way id="49789315" version="7" timestamp="2011-07-29T11:06:16Z" uid="207745" user="NE2" changeset="8862241">
+    <nd ref="632574797"/>
+    <nd ref="48936065"/>
+    <nd ref="49330948"/>
+    <nd ref="49330949"/>
+    <nd ref="49330952"/>
+    <nd ref="49330955"/>
+    <nd ref="49330959"/>
+    <nd ref="49330964"/>
+    <nd ref="49330971"/>
+    <nd ref="49330974"/>
+    <nd ref="49330976"/>
+    <tag k="NHS" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="name" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="SR 94"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195755844:195755845:195668619:195740661:195359281:195689139:195689140:195359508:195689078:195689079:195359510:195669884:195669885:195669888:195669891:195700894:195401529:195740705:195669867:195744839:195359261:195351540:195351544:195690059:195690060:19535"/>
+  </way>
+  <way id="49789315" version="8" timestamp="2011-10-16T08:31:47Z" uid="207745" user="NE2" changeset="9569847">
+    <nd ref="632574797"/>
+    <nd ref="48936065"/>
+    <nd ref="49330948"/>
+    <nd ref="49330949"/>
+    <nd ref="49330952"/>
+    <nd ref="49330955"/>
+    <nd ref="49330959"/>
+    <nd ref="49330964"/>
+    <nd ref="49330971"/>
+    <nd ref="49330974"/>
+    <nd ref="49330976"/>
+    <tag k="NHS" v="yes"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="name" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="SR 94"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195755844:195755845:195668619:195740661:195359281:195689139:195689140:195359508:195689078:195689079:195359510:195669884:195669885:195669888:195669891:195700894:195401529:195740705:195669867:195744839:195359261:195351540:195351544:195690059:195690060:19535"/>
+  </way>
+  <way id="49789315" version="9" timestamp="2011-11-25T14:39:29Z" uid="207745" user="NE2" changeset="9943893">
+    <nd ref="632574797"/>
+    <nd ref="48936065"/>
+    <nd ref="49330948"/>
+    <nd ref="49330949"/>
+    <nd ref="49330952"/>
+    <nd ref="49330955"/>
+    <nd ref="49330959"/>
+    <nd ref="49330964"/>
+    <nd ref="49330971"/>
+    <nd ref="49330974"/>
+    <nd ref="49330976"/>
+    <tag k="NHS" v="yes"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="hgv:national_network" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="name" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="SR 94"/>
+    <tag k="source:hgv:national_network" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195755844:195755845:195668619:195740661:195359281:195689139:195689140:195359508:195689078:195689079:195359510:195669884:195669885:195669888:195669891:195700894:195401529:195740705:195669867:195744839:195359261:195351540:195351544:195690059:195690060:19535"/>
+  </way>
+  <way id="49789315" version="10" timestamp="2011-11-25T17:13:06Z" uid="207745" user="NE2" changeset="9945963">
+    <nd ref="632574797"/>
+    <nd ref="48936065"/>
+    <nd ref="49330948"/>
+    <nd ref="49330949"/>
+    <nd ref="49330952"/>
+    <nd ref="49330955"/>
+    <nd ref="49330959"/>
+    <nd ref="49330964"/>
+    <nd ref="49330971"/>
+    <nd ref="49330974"/>
+    <nd ref="49330976"/>
+    <tag k="NHS" v="yes"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="hgv:national_network" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="name" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="SR 94"/>
+    <tag k="source:hgv:national_network" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195755844:195755845:195668619:195740661:195359281:195689139:195689140:195359508:195689078:195689079:195359510:195669884:195669885:195669888:195669891:195700894:195401529:195740705:195669867:195744839:195359261:195351540:195351544:195690059:195690060:19535"/>
+  </way>
+  <way id="49789317" version="2" timestamp="2010-03-28T11:47:24Z" uid="20587" user="balrog-kun" changeset="4254597">
+    <nd ref="632574831"/>
+    <nd ref="632574797"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="State Highway 94"/>
+    <tag k="name_1" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195755844:195755845:195668619:195740661:195359281:195689139:195689140:195359508:195689078:195689079:195359510:195669884:195669885:195669888:195669891:195700894:195401529:195740705:195669867:195744839:195359261:195351540:195351544:195690059:195690060:19535"/>
+  </way>
+  <way id="49789317" version="3" timestamp="2011-03-23T10:58:15Z" uid="238349" user="evil saltine" changeset="7645283">
+    <nd ref="632574831"/>
+    <nd ref="632574797"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="State Highway 94"/>
+    <tag k="name_1" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="CA 94"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195755844:195755845:195668619:195740661:195359281:195689139:195689140:195359508:195689078:195689079:195359510:195669884:195669885:195669888:195669891:195700894:195401529:195740705:195669867:195744839:195359261:195351540:195351544:195690059:195690060:19535"/>
+  </way>
+  <way id="49789317" version="4" timestamp="2011-04-02T04:53:10Z" uid="48060" user="Sat" changeset="7740926">
+    <nd ref="632574831"/>
+    <nd ref="632574797"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="State Highway 94 West"/>
+    <tag k="name_1" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="CA 94 W"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195755844:195755845:195668619:195740661:195359281:195689139:195689140:195359508:195689078:195689079:195359510:195669884:195669885:195669888:195669891:195700894:195401529:195740705:195669867:195744839:195359261:195351540:195351544:195690059:195690060:19535"/>
+  </way>
+  <way id="49789317" version="5" timestamp="2011-07-19T01:08:04Z" uid="473471" user="NE3" changeset="8764274">
+    <nd ref="632574831"/>
+    <nd ref="632574797"/>
+    <tag k="NHS" v="yes"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="State Highway 94 West"/>
+    <tag k="name_1" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="CA 94 W"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195755844:195755845:195668619:195740661:195359281:195689139:195689140:195359508:195689078:195689079:195359510:195669884:195669885:195669888:195669891:195700894:195401529:195740705:195669867:195744839:195359261:195351540:195351544:195690059:195690060:19535"/>
+  </way>
+  <way id="49789317" version="6" timestamp="2011-07-29T11:06:25Z" uid="207745" user="NE2" changeset="8862241">
+    <nd ref="632574831"/>
+    <nd ref="632574797"/>
+    <tag k="NHS" v="yes"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="SR 94"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195755844:195755845:195668619:195740661:195359281:195689139:195689140:195359508:195689078:195689079:195359510:195669884:195669885:195669888:195669891:195700894:195401529:195740705:195669867:195744839:195359261:195351540:195351544:195690059:195690060:19535"/>
+  </way>
+  <way id="49789317" version="7" timestamp="2011-10-16T08:32:00Z" uid="207745" user="NE2" changeset="9569847">
+    <nd ref="632574831"/>
+    <nd ref="632574797"/>
+    <tag k="NHS" v="yes"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="SR 94"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195755844:195755845:195668619:195740661:195359281:195689139:195689140:195359508:195689078:195689079:195359510:195669884:195669885:195669888:195669891:195700894:195401529:195740705:195669867:195744839:195359261:195351540:195351544:195690059:195690060:19535"/>
+  </way>
+  <way id="49789317" version="8" timestamp="2011-11-25T14:39:49Z" uid="207745" user="NE2" changeset="9943893">
+    <nd ref="632574831"/>
+    <nd ref="632574797"/>
+    <tag k="NHS" v="yes"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="hgv:national_network" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="SR 94"/>
+    <tag k="source:hgv:national_network" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195755844:195755845:195668619:195740661:195359281:195689139:195689140:195359508:195689078:195689079:195359510:195669884:195669885:195669888:195669891:195700894:195401529:195740705:195669867:195744839:195359261:195351540:195351544:195690059:195690060:19535"/>
+  </way>
+  <way id="49789317" version="9" timestamp="2011-11-25T17:13:19Z" uid="207745" user="NE2" changeset="9945963">
+    <nd ref="632574831"/>
+    <nd ref="632574797"/>
+    <tag k="NHS" v="yes"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="hgv:national_network" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="SR 94"/>
+    <tag k="source:hgv:national_network" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195755844:195755845:195668619:195740661:195359281:195689139:195689140:195359508:195689078:195689079:195359510:195669884:195669885:195669888:195669891:195700894:195401529:195740705:195669867:195744839:195359261:195351540:195351544:195690059:195690060:19535"/>
+  </way>
+  <way id="49789337" version="2" timestamp="2010-03-28T11:47:24Z" uid="20587" user="balrog-kun" changeset="4254597">
+    <nd ref="632576108"/>
+    <nd ref="49330928"/>
+    <nd ref="49330929"/>
+    <nd ref="49330930"/>
+    <nd ref="49330932"/>
+    <nd ref="49330933"/>
+    <nd ref="49330936"/>
+    <nd ref="49330938"/>
+    <nd ref="49330941"/>
+    <nd ref="295182429"/>
+    <nd ref="632574831"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="State Highway 94"/>
+    <tag k="name_1" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195755844:195755845:195668619:195740661:195359281:195689139:195689140:195359508:195689078:195689079:195359510:195669884:195669885:195669888:195669891:195700894:195401529:195740705:195669867:195744839:195359261:195351540:195351544:195690059:195690060:19535"/>
+  </way>
+  <way id="49789337" version="3" timestamp="2011-03-23T10:58:07Z" uid="238349" user="evil saltine" changeset="7645283">
+    <nd ref="632576108"/>
+    <nd ref="49330928"/>
+    <nd ref="49330929"/>
+    <nd ref="49330930"/>
+    <nd ref="49330932"/>
+    <nd ref="49330933"/>
+    <nd ref="49330936"/>
+    <nd ref="49330938"/>
+    <nd ref="49330941"/>
+    <nd ref="295182429"/>
+    <nd ref="632574831"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="State Highway 94"/>
+    <tag k="name_1" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="CA 94"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195755844:195755845:195668619:195740661:195359281:195689139:195689140:195359508:195689078:195689079:195359510:195669884:195669885:195669888:195669891:195700894:195401529:195740705:195669867:195744839:195359261:195351540:195351544:195690059:195690060:19535"/>
+  </way>
+  <way id="49789337" version="4" timestamp="2011-04-02T04:53:11Z" uid="48060" user="Sat" changeset="7740926">
+    <nd ref="632576108"/>
+    <nd ref="49330928"/>
+    <nd ref="49330929"/>
+    <nd ref="49330930"/>
+    <nd ref="49330932"/>
+    <nd ref="49330933"/>
+    <nd ref="49330936"/>
+    <nd ref="49330938"/>
+    <nd ref="49330941"/>
+    <nd ref="295182429"/>
+    <nd ref="632574831"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="State Highway 94 West"/>
+    <tag k="name_1" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="CA 94 W"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195755844:195755845:195668619:195740661:195359281:195689139:195689140:195359508:195689078:195689079:195359510:195669884:195669885:195669888:195669891:195700894:195401529:195740705:195669867:195744839:195359261:195351540:195351544:195690059:195690060:19535"/>
+  </way>
+  <way id="49789337" version="5" timestamp="2011-07-19T01:08:02Z" uid="473471" user="NE3" changeset="8764274">
+    <nd ref="632576108"/>
+    <nd ref="49330928"/>
+    <nd ref="49330929"/>
+    <nd ref="49330930"/>
+    <nd ref="49330932"/>
+    <nd ref="49330933"/>
+    <nd ref="49330936"/>
+    <nd ref="49330938"/>
+    <nd ref="49330941"/>
+    <nd ref="295182429"/>
+    <nd ref="632574831"/>
+    <tag k="NHS" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="State Highway 94 West"/>
+    <tag k="name_1" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="CA 94 W"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195755844:195755845:195668619:195740661:195359281:195689139:195689140:195359508:195689078:195689079:195359510:195669884:195669885:195669888:195669891:195700894:195401529:195740705:195669867:195744839:195359261:195351540:195351544:195690059:195690060:19535"/>
+  </way>
+  <way id="49789337" version="6" timestamp="2011-07-29T11:06:17Z" uid="207745" user="NE2" changeset="8862241">
+    <nd ref="632576108"/>
+    <nd ref="49330928"/>
+    <nd ref="49330929"/>
+    <nd ref="49330930"/>
+    <nd ref="49330932"/>
+    <nd ref="49330933"/>
+    <nd ref="49330936"/>
+    <nd ref="49330938"/>
+    <nd ref="49330941"/>
+    <nd ref="295182429"/>
+    <nd ref="632574831"/>
+    <tag k="NHS" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="name" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="SR 94"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195755844:195755845:195668619:195740661:195359281:195689139:195689140:195359508:195689078:195689079:195359510:195669884:195669885:195669888:195669891:195700894:195401529:195740705:195669867:195744839:195359261:195351540:195351544:195690059:195690060:19535"/>
+  </way>
+  <way id="49789337" version="7" timestamp="2011-10-16T08:31:46Z" uid="207745" user="NE2" changeset="9569847">
+    <nd ref="632576108"/>
+    <nd ref="49330928"/>
+    <nd ref="49330929"/>
+    <nd ref="49330930"/>
+    <nd ref="49330932"/>
+    <nd ref="49330933"/>
+    <nd ref="49330936"/>
+    <nd ref="49330938"/>
+    <nd ref="49330941"/>
+    <nd ref="295182429"/>
+    <nd ref="632574831"/>
+    <tag k="NHS" v="yes"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="name" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="SR 94"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195755844:195755845:195668619:195740661:195359281:195689139:195689140:195359508:195689078:195689079:195359510:195669884:195669885:195669888:195669891:195700894:195401529:195740705:195669867:195744839:195359261:195351540:195351544:195690059:195690060:19535"/>
+  </way>
+  <way id="49789337" version="8" timestamp="2011-11-25T14:39:30Z" uid="207745" user="NE2" changeset="9943893">
+    <nd ref="632576108"/>
+    <nd ref="49330928"/>
+    <nd ref="49330929"/>
+    <nd ref="49330930"/>
+    <nd ref="49330932"/>
+    <nd ref="49330933"/>
+    <nd ref="49330936"/>
+    <nd ref="49330938"/>
+    <nd ref="49330941"/>
+    <nd ref="295182429"/>
+    <nd ref="632574831"/>
+    <tag k="NHS" v="yes"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="hgv:national_network" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="name" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="SR 94"/>
+    <tag k="source:hgv:national_network" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195755844:195755845:195668619:195740661:195359281:195689139:195689140:195359508:195689078:195689079:195359510:195669884:195669885:195669888:195669891:195700894:195401529:195740705:195669867:195744839:195359261:195351540:195351544:195690059:195690060:19535"/>
+  </way>
+  <way id="49789337" version="9" timestamp="2011-11-25T17:13:07Z" uid="207745" user="NE2" changeset="9945963">
+    <nd ref="632576108"/>
+    <nd ref="49330928"/>
+    <nd ref="49330929"/>
+    <nd ref="49330930"/>
+    <nd ref="49330932"/>
+    <nd ref="49330933"/>
+    <nd ref="49330936"/>
+    <nd ref="49330938"/>
+    <nd ref="49330941"/>
+    <nd ref="295182429"/>
+    <nd ref="632574831"/>
+    <tag k="NHS" v="yes"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="hgv:national_network" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="name" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="SR 94"/>
+    <tag k="source:hgv:national_network" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195755844:195755845:195668619:195740661:195359281:195689139:195689140:195359508:195689078:195689079:195359510:195669884:195669885:195669888:195669891:195700894:195401529:195740705:195669867:195744839:195359261:195351540:195351544:195690059:195690060:19535"/>
+  </way>
+  <way id="49789339" version="2" timestamp="2010-03-28T11:47:25Z" uid="20587" user="balrog-kun" changeset="4254597">
+    <nd ref="295184086"/>
+    <nd ref="632576108"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="State Highway 94"/>
+    <tag k="name_1" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195755844:195755845:195668619:195740661:195359281:195689139:195689140:195359508:195689078:195689079:195359510:195669884:195669885:195669888:195669891:195700894:195401529:195740705:195669867:195744839:195359261:195351540:195351544:195690059:195690060:19535"/>
+  </way>
+  <way id="49789339" version="3" timestamp="2011-03-23T10:58:15Z" uid="238349" user="evil saltine" changeset="7645283">
+    <nd ref="295184086"/>
+    <nd ref="632576108"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="State Highway 94"/>
+    <tag k="name_1" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="CA 94"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195755844:195755845:195668619:195740661:195359281:195689139:195689140:195359508:195689078:195689079:195359510:195669884:195669885:195669888:195669891:195700894:195401529:195740705:195669867:195744839:195359261:195351540:195351544:195690059:195690060:19535"/>
+  </way>
+  <way id="49789339" version="4" timestamp="2011-04-02T04:53:11Z" uid="48060" user="Sat" changeset="7740926">
+    <nd ref="295184086"/>
+    <nd ref="632576108"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="State Highway 94 West"/>
+    <tag k="name_1" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="CA 94 W"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195755844:195755845:195668619:195740661:195359281:195689139:195689140:195359508:195689078:195689079:195359510:195669884:195669885:195669888:195669891:195700894:195401529:195740705:195669867:195744839:195359261:195351540:195351544:195690059:195690060:19535"/>
+  </way>
+  <way id="49789339" version="5" timestamp="2011-07-19T01:08:04Z" uid="473471" user="NE3" changeset="8764274">
+    <nd ref="295184086"/>
+    <nd ref="632576108"/>
+    <tag k="NHS" v="yes"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="State Highway 94 West"/>
+    <tag k="name_1" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="CA 94 W"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195755844:195755845:195668619:195740661:195359281:195689139:195689140:195359508:195689078:195689079:195359510:195669884:195669885:195669888:195669891:195700894:195401529:195740705:195669867:195744839:195359261:195351540:195351544:195690059:195690060:19535"/>
+  </way>
+  <way id="49789339" version="6" timestamp="2011-07-29T11:06:25Z" uid="207745" user="NE2" changeset="8862241">
+    <nd ref="295184086"/>
+    <nd ref="632576108"/>
+    <tag k="NHS" v="yes"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="SR 94"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195755844:195755845:195668619:195740661:195359281:195689139:195689140:195359508:195689078:195689079:195359510:195669884:195669885:195669888:195669891:195700894:195401529:195740705:195669867:195744839:195359261:195351540:195351544:195690059:195690060:19535"/>
+  </way>
+  <way id="49789339" version="7" timestamp="2011-10-16T08:31:56Z" uid="207745" user="NE2" changeset="9569847">
+    <nd ref="295184086"/>
+    <nd ref="632576108"/>
+    <tag k="NHS" v="yes"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="SR 94"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195755844:195755845:195668619:195740661:195359281:195689139:195689140:195359508:195689078:195689079:195359510:195669884:195669885:195669888:195669891:195700894:195401529:195740705:195669867:195744839:195359261:195351540:195351544:195690059:195690060:19535"/>
+  </way>
+  <way id="49789339" version="8" timestamp="2011-11-25T14:39:53Z" uid="207745" user="NE2" changeset="9943893">
+    <nd ref="295184086"/>
+    <nd ref="632576108"/>
+    <tag k="NHS" v="yes"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="hgv:national_network" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="SR 94"/>
+    <tag k="source:hgv:national_network" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195755844:195755845:195668619:195740661:195359281:195689139:195689140:195359508:195689078:195689079:195359510:195669884:195669885:195669888:195669891:195700894:195401529:195740705:195669867:195744839:195359261:195351540:195351544:195690059:195690060:19535"/>
+  </way>
+  <way id="49789339" version="9" timestamp="2011-11-25T17:13:24Z" uid="207745" user="NE2" changeset="9945963">
+    <nd ref="295184086"/>
+    <nd ref="632576108"/>
+    <tag k="NHS" v="yes"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="hgv:national_network" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="SR 94"/>
+    <tag k="source:hgv:national_network" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195755844:195755845:195668619:195740661:195359281:195689139:195689140:195359508:195689078:195689079:195359510:195669884:195669885:195669888:195669891:195700894:195401529:195740705:195669867:195744839:195359261:195351540:195351544:195690059:195690060:19535"/>
+  </way>
+  <way id="49789342" version="2" timestamp="2010-03-28T11:47:25Z" uid="20587" user="balrog-kun" changeset="4254597">
+    <nd ref="632576199"/>
+    <nd ref="49331281"/>
+    <nd ref="49331276"/>
+    <nd ref="49331274"/>
+    <nd ref="49331272"/>
+    <nd ref="49331270"/>
+    <nd ref="49331265"/>
+    <nd ref="49331263"/>
+    <nd ref="295185304"/>
+    <nd ref="417773817"/>
+    <nd ref="295185517"/>
+    <nd ref="49331259"/>
+    <nd ref="49331258"/>
+    <nd ref="49331257"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="State Highway 94"/>
+    <tag k="name_1" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195740746:195740749:195740721:195740724:195740731:195740732:195740735:195744848:195740713:195755853:195755855:195755857:195755858:195755859:195740756:195740759:195744843:195744844:195669902:195755850:195669917:195669918:195755842:195755847:195755848:19574"/>
+  </way>
+  <way id="49789342" version="3" timestamp="2011-03-23T10:58:03Z" uid="238349" user="evil saltine" changeset="7645283">
+    <nd ref="632576199"/>
+    <nd ref="49331281"/>
+    <nd ref="49331276"/>
+    <nd ref="49331274"/>
+    <nd ref="49331272"/>
+    <nd ref="49331270"/>
+    <nd ref="49331265"/>
+    <nd ref="49331263"/>
+    <nd ref="295185304"/>
+    <nd ref="417773817"/>
+    <nd ref="295185517"/>
+    <nd ref="49331259"/>
+    <nd ref="49331258"/>
+    <nd ref="49331257"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="State Highway 94"/>
+    <tag k="name_1" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="CA 94"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195740746:195740749:195740721:195740724:195740731:195740732:195740735:195744848:195740713:195755853:195755855:195755857:195755858:195755859:195740756:195740759:195744843:195744844:195669902:195755850:195669917:195669918:195755842:195755847:195755848:19574"/>
+  </way>
+  <way id="49789342" version="4" timestamp="2011-04-02T04:53:11Z" uid="48060" user="Sat" changeset="7740926">
+    <nd ref="632576199"/>
+    <nd ref="49331281"/>
+    <nd ref="49331276"/>
+    <nd ref="49331274"/>
+    <nd ref="49331272"/>
+    <nd ref="49331270"/>
+    <nd ref="49331265"/>
+    <nd ref="49331263"/>
+    <nd ref="295185304"/>
+    <nd ref="417773817"/>
+    <nd ref="295185517"/>
+    <nd ref="49331259"/>
+    <nd ref="49331258"/>
+    <nd ref="49331257"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="State Highway 94 East"/>
+    <tag k="name_1" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="CA 94 E"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195740746:195740749:195740721:195740724:195740731:195740732:195740735:195744848:195740713:195755853:195755855:195755857:195755858:195755859:195740756:195740759:195744843:195744844:195669902:195755850:195669917:195669918:195755842:195755847:195755848:19574"/>
+  </way>
+  <way id="49789342" version="5" timestamp="2011-07-19T01:07:59Z" uid="473471" user="NE3" changeset="8764274">
+    <nd ref="632576199"/>
+    <nd ref="49331281"/>
+    <nd ref="49331276"/>
+    <nd ref="49331274"/>
+    <nd ref="49331272"/>
+    <nd ref="49331270"/>
+    <nd ref="49331265"/>
+    <nd ref="49331263"/>
+    <nd ref="295185304"/>
+    <nd ref="417773817"/>
+    <nd ref="295185517"/>
+    <nd ref="49331259"/>
+    <nd ref="49331258"/>
+    <nd ref="49331257"/>
+    <tag k="NHS" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="State Highway 94 East"/>
+    <tag k="name_1" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="CA 94 E"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195740746:195740749:195740721:195740724:195740731:195740732:195740735:195744848:195740713:195755853:195755855:195755857:195755858:195755859:195740756:195740759:195744843:195744844:195669902:195755850:195669917:195669918:195755842:195755847:195755848:19574"/>
+  </way>
+  <way id="49789342" version="6" timestamp="2011-07-29T11:06:20Z" uid="207745" user="NE2" changeset="8862241">
+    <nd ref="632576199"/>
+    <nd ref="49331281"/>
+    <nd ref="49331276"/>
+    <nd ref="49331274"/>
+    <nd ref="49331272"/>
+    <nd ref="49331270"/>
+    <nd ref="49331265"/>
+    <nd ref="49331263"/>
+    <nd ref="295185304"/>
+    <nd ref="417773817"/>
+    <nd ref="295185517"/>
+    <nd ref="49331259"/>
+    <nd ref="49331258"/>
+    <nd ref="49331257"/>
+    <tag k="NHS" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="name" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="SR 94"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195740746:195740749:195740721:195740724:195740731:195740732:195740735:195744848:195740713:195755853:195755855:195755857:195755858:195755859:195740756:195740759:195744843:195744844:195669902:195755850:195669917:195669918:195755842:195755847:195755848:19574"/>
+  </way>
+  <way id="49789342" version="7" timestamp="2011-10-16T08:31:49Z" uid="207745" user="NE2" changeset="9569847">
+    <nd ref="632576199"/>
+    <nd ref="49331281"/>
+    <nd ref="49331276"/>
+    <nd ref="49331274"/>
+    <nd ref="49331272"/>
+    <nd ref="49331270"/>
+    <nd ref="49331265"/>
+    <nd ref="49331263"/>
+    <nd ref="295185304"/>
+    <nd ref="417773817"/>
+    <nd ref="295185517"/>
+    <nd ref="49331259"/>
+    <nd ref="49331258"/>
+    <nd ref="49331257"/>
+    <tag k="NHS" v="yes"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="name" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="SR 94"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195740746:195740749:195740721:195740724:195740731:195740732:195740735:195744848:195740713:195755853:195755855:195755857:195755858:195755859:195740756:195740759:195744843:195744844:195669902:195755850:195669917:195669918:195755842:195755847:195755848:19574"/>
+  </way>
+  <way id="49789342" version="8" timestamp="2011-11-25T14:39:34Z" uid="207745" user="NE2" changeset="9943893">
+    <nd ref="632576199"/>
+    <nd ref="49331281"/>
+    <nd ref="49331276"/>
+    <nd ref="49331274"/>
+    <nd ref="49331272"/>
+    <nd ref="49331270"/>
+    <nd ref="49331265"/>
+    <nd ref="49331263"/>
+    <nd ref="295185304"/>
+    <nd ref="417773817"/>
+    <nd ref="295185517"/>
+    <nd ref="49331259"/>
+    <nd ref="49331258"/>
+    <nd ref="49331257"/>
+    <tag k="NHS" v="yes"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="hgv:national_network" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="name" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="SR 94"/>
+    <tag k="source:hgv:national_network" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195740746:195740749:195740721:195740724:195740731:195740732:195740735:195744848:195740713:195755853:195755855:195755857:195755858:195755859:195740756:195740759:195744843:195744844:195669902:195755850:195669917:195669918:195755842:195755847:195755848:19574"/>
+  </way>
+  <way id="49789342" version="9" timestamp="2011-11-25T17:13:13Z" uid="207745" user="NE2" changeset="9945963">
+    <nd ref="632576199"/>
+    <nd ref="49331281"/>
+    <nd ref="49331276"/>
+    <nd ref="49331274"/>
+    <nd ref="49331272"/>
+    <nd ref="49331270"/>
+    <nd ref="49331265"/>
+    <nd ref="49331263"/>
+    <nd ref="295185304"/>
+    <nd ref="417773817"/>
+    <nd ref="295185517"/>
+    <nd ref="49331259"/>
+    <nd ref="49331258"/>
+    <nd ref="49331257"/>
+    <tag k="NHS" v="yes"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="hgv:national_network" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="name" v="Martin Luther King Jr Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="SR 94"/>
+    <tag k="source:hgv:national_network" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="State Highway 94"/>
+    <tag k="tiger:name_base_1" v="Martin Luther King Jr"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195740746:195740749:195740721:195740724:195740731:195740732:195740735:195744848:195740713:195755853:195755855:195755857:195755858:195755859:195740756:195740759:195744843:195744844:195669902:195755850:195669917:195669918:195755842:195755847:195755848:19574"/>
+  </way>
+  <way id="49789519" version="1" timestamp="2010-02-07T17:18:45Z" uid="43967" user="railsnail" changeset="3816234">
+    <nd ref="632588344"/>
+    <nd ref="632588347"/>
+    <nd ref="632588350"/>
+    <nd ref="632588354"/>
+    <nd ref="632588372"/>
+    <nd ref="559934001"/>
+  </way>
+  <way id="49789519" version="2" timestamp="2010-02-07T17:18:52Z" uid="43967" user="railsnail" changeset="3816234">
+    <nd ref="632588344"/>
+    <nd ref="632588347"/>
+    <nd ref="632588350"/>
+    <nd ref="632588354"/>
+    <nd ref="632588372"/>
+    <nd ref="559934001"/>
+    <tag k="boat" v="no"/>
+    <tag k="waterway" v="stream"/>
+  </way>
+  <way id="49789519" version="3" timestamp="2010-05-13T16:38:33Z" uid="43967" user="railsnail" changeset="4687861">
+    <nd ref="732512077"/>
+    <nd ref="632588344"/>
+    <nd ref="632588347"/>
+    <nd ref="632588350"/>
+    <nd ref="632588354"/>
+    <nd ref="632588372"/>
+    <nd ref="559934001"/>
+    <tag k="boat" v="no"/>
+    <tag k="waterway" v="stream"/>
+  </way>
+  <way id="49789519" version="4" timestamp="2010-11-04T18:56:44Z" uid="43967" user="railsnail" changeset="6290769">
+    <nd ref="732512077"/>
+    <nd ref="632588344"/>
+    <nd ref="632588347"/>
+    <nd ref="632588350"/>
+    <nd ref="632588354"/>
+    <nd ref="976744964"/>
+    <nd ref="632588372"/>
+    <nd ref="559934001"/>
+    <tag k="boat" v="no"/>
+    <tag k="waterway" v="stream"/>
+  </way>
+  <way id="49789771" version="2" timestamp="2010-03-28T11:47:30Z" uid="20587" user="balrog-kun" changeset="4254597">
+    <nd ref="49464430"/>
+    <nd ref="49464432"/>
+    <nd ref="49464434"/>
+    <nd ref="49464436"/>
+    <nd ref="49464438"/>
+    <nd ref="49464440"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Spring Gardens Road"/>
+    <tag k="note" v="FIXME"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="San Diego, CA"/>
+    <tag k="tiger:name_base" v="Spring Gardens"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="195690131"/>
+    <tag k="tiger:zip_left" v="91941"/>
+    <tag k="tiger:zip_right" v="91941"/>
+  </way>
+  <way id="49789519" version="5" timestamp="2012-05-09T19:18:57Z" uid="45481" user="borisC" changeset="11552464"/>
+</osm>

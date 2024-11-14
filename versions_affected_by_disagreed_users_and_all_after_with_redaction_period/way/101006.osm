@@ -1,0 +1,3323 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="101006040" version="1" timestamp="2011-02-22T16:40:08Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="1166675396"/>
+    <nd ref="1166675799"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="layer" v="1"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/WOLOMIN.drogi.txt)"/>
+  </way>
+  <way id="101006045" version="1" timestamp="2011-02-22T16:40:09Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="1166675651"/>
+    <nd ref="1166675424"/>
+    <tag k="highway" v="track"/>
+  </way>
+  <way id="101006045" version="2" timestamp="2011-09-09T22:09:05Z" uid="489358" user="poktam" changeset="9258471">
+    <nd ref="1166675651"/>
+    <nd ref="1166675424"/>
+    <tag k="description" v="Drogi wewnętrzne na terenie Stacji uzdatniania wody"/>
+    <tag k="highway" v="service"/>
+    <tag k="service" v="driveway"/>
+  </way>
+  <way id="101006045" version="3" timestamp="2011-11-20T16:52:41Z" uid="489358" user="poktam" changeset="9886636">
+    <nd ref="1166675651"/>
+    <nd ref="1510038569"/>
+    <nd ref="1166675424"/>
+    <tag k="description" v="Drogi wewnętrzne na terenie Stacji uzdatniania wody"/>
+    <tag k="highway" v="service"/>
+    <tag k="service" v="driveway"/>
+  </way>
+  <way id="101006046" version="1" timestamp="2011-02-22T16:40:09Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="1153250254"/>
+    <nd ref="1153105571"/>
+    <nd ref="1153105580"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="101006046" version="2" timestamp="2011-08-16T14:11:41Z" uid="373244" user="Tomaszg" changeset="9037199">
+    <nd ref="1153250254"/>
+    <nd ref="1153105571"/>
+    <nd ref="1153105580"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Kościelna"/>
+  </way>
+  <way id="101006047" version="1" timestamp="2011-02-22T16:40:09Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="348951490"/>
+    <nd ref="348951887"/>
+    <nd ref="348953048"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Wacława Nałkowskiego"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/KOBYLKA.ulice.txt)"/>
+  </way>
+  <way id="101006054" version="1" timestamp="2011-02-22T16:40:10Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="348964251"/>
+    <nd ref="348944753"/>
+    <tag k="addr:city" v="Nadma"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Rzeczna"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/WOLOMIN.drogi.txt)"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="101006054" version="2" timestamp="2011-08-19T13:27:36Z" uid="373244" user="Tomaszg" changeset="9065513"/>
+  <way id="101006056" version="1" timestamp="2011-02-22T16:40:10Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="348963897"/>
+    <nd ref="348952539"/>
+    <nd ref="1022809609"/>
+    <nd ref="348952533"/>
+    <nd ref="348952490"/>
+    <nd ref="348952518"/>
+    <tag k="addr:city" v="Kobyłka"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Wygonowa"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/KOBYLKA.ulice.txt)"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="101006056" version="2" timestamp="2011-04-15T00:28:58Z" uid="165509" user="koszatek" changeset="7866135">
+    <nd ref="348963897"/>
+    <nd ref="348952539"/>
+    <nd ref="1022809609"/>
+    <nd ref="348952533"/>
+    <nd ref="348952490"/>
+    <nd ref="348952518"/>
+    <tag k="addr:city" v="Kobyłka"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Wygonowa"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="101006056" version="3" timestamp="2011-10-01T09:26:55Z" uid="403964" user="bartekent" changeset="9441119">
+    <nd ref="348963897"/>
+    <nd ref="1450503525"/>
+    <nd ref="348952539"/>
+    <nd ref="1022809609"/>
+    <nd ref="348952533"/>
+    <nd ref="348952490"/>
+    <nd ref="348952518"/>
+    <tag k="addr:city" v="Kobyłka"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Wygonowa"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="101006056" version="4" timestamp="2011-10-01T18:12:49Z" uid="403964" user="bartekent" changeset="9444620">
+    <nd ref="348963897"/>
+    <nd ref="1450966017"/>
+    <nd ref="1450503525"/>
+    <nd ref="348952539"/>
+    <nd ref="1022809609"/>
+    <nd ref="348952533"/>
+    <nd ref="348952490"/>
+    <nd ref="348952518"/>
+    <tag k="addr:city" v="Kobyłka"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Wygonowa"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="101006060" version="1" timestamp="2011-02-22T16:40:10Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="1166675732"/>
+    <nd ref="1166675386"/>
+    <nd ref="1166675558"/>
+    <tag k="highway" v="track"/>
+  </way>
+  <way id="101006060" version="2" timestamp="2011-09-09T22:09:05Z" uid="489358" user="poktam" changeset="9258471">
+    <nd ref="1166675732"/>
+    <nd ref="1166675386"/>
+    <nd ref="1166675558"/>
+    <tag k="description" v="Drogi wewnętrzne na terenie Stacji uzdatniania wody"/>
+    <tag k="highway" v="service"/>
+    <tag k="service" v="driveway"/>
+  </way>
+  <way id="101006061" version="1" timestamp="2011-02-22T16:40:10Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="348963913"/>
+    <nd ref="1022804262"/>
+    <nd ref="1022799704"/>
+    <nd ref="348952527"/>
+    <nd ref="1022803113"/>
+    <nd ref="1022799075"/>
+    <nd ref="1022804650"/>
+    <tag k="addr:city" v="Kobyłka"/>
+    <tag k="addr:street" v="Władysława Łokietka"/>
+    <tag k="highway" v="living_street"/>
+  </way>
+  <way id="101006061" version="2" timestamp="2011-10-01T09:26:55Z" uid="403964" user="bartekent" changeset="9441119">
+    <nd ref="348963913"/>
+    <nd ref="1450503316"/>
+    <nd ref="1450503422"/>
+    <nd ref="1022804262"/>
+    <nd ref="1022799704"/>
+    <nd ref="1450503439"/>
+    <nd ref="348952527"/>
+    <nd ref="1022803113"/>
+    <nd ref="1022799075"/>
+    <nd ref="1022804650"/>
+    <tag k="addr:city" v="Kobyłka"/>
+    <tag k="addr:street" v="Władysława Łokietka"/>
+    <tag k="highway" v="living_street"/>
+  </way>
+  <way id="101006067" version="1" timestamp="2011-02-22T16:40:11Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="1166675842"/>
+    <nd ref="1166675358"/>
+    <nd ref="1166675424"/>
+    <nd ref="1166675648"/>
+    <tag k="highway" v="track"/>
+  </way>
+  <way id="101006067" version="2" timestamp="2011-09-09T22:09:05Z" uid="489358" user="poktam" changeset="9258471">
+    <nd ref="1166675842"/>
+    <nd ref="1166675358"/>
+    <nd ref="1166675424"/>
+    <nd ref="1166675648"/>
+    <tag k="description" v="Drogi wewnętrzne na terenie Stacji uzdatniania wody"/>
+    <tag k="highway" v="service"/>
+    <tag k="service" v="driveway"/>
+  </way>
+  <way id="101006070" version="1" timestamp="2011-02-22T16:40:12Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="348946626"/>
+    <nd ref="348946624"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Nowa"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/RADZYMIN.ulice.txt)"/>
+  </way>
+  <way id="101006070" version="2" timestamp="2011-11-06T19:32:47Z" uid="550251" user="Kamil Wrzosek" changeset="9758832">
+    <nd ref="348946626"/>
+    <nd ref="348946624"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Nowa"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/RADZYMIN.ulice.txt)"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="101006071" version="1" timestamp="2011-02-22T16:40:12Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="52808673"/>
+    <nd ref="52808677"/>
+    <nd ref="52808680"/>
+    <nd ref="52808705"/>
+    <nd ref="699594639"/>
+    <nd ref="52808708"/>
+    <nd ref="52808714"/>
+    <nd ref="52808718"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Wolska"/>
+  </way>
+  <way id="101006071" version="2" timestamp="2011-08-11T11:50:07Z" uid="373244" user="Tomaszg" changeset="8984476">
+    <nd ref="52808673"/>
+    <nd ref="52808677"/>
+    <nd ref="52808680"/>
+    <nd ref="52808705"/>
+    <nd ref="699594639"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Wolska"/>
+  </way>
+  <way id="101006071" version="3" timestamp="2011-08-16T13:51:03Z" uid="373244" user="Tomaszg" changeset="9037199">
+    <nd ref="52808673"/>
+    <nd ref="52808677"/>
+    <nd ref="1401047602"/>
+    <nd ref="52808680"/>
+    <nd ref="52808705"/>
+    <nd ref="699594639"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="40"/>
+    <tag k="name" v="Wolska"/>
+  </way>
+  <way id="101006071" version="4" timestamp="2011-09-23T15:45:26Z" uid="373244" user="Tomekg" changeset="9377748">
+    <nd ref="52808673"/>
+    <nd ref="52808677"/>
+    <nd ref="1401047602"/>
+    <nd ref="52808680"/>
+    <nd ref="52808705"/>
+    <nd ref="1442872155"/>
+    <nd ref="699594639"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="40"/>
+    <tag k="name" v="Wolska"/>
+  </way>
+  <way id="101006071" version="5" timestamp="2011-09-23T16:06:43Z" uid="373244" user="Tomekg" changeset="9377748">
+    <nd ref="52808673"/>
+    <nd ref="52808677"/>
+    <nd ref="1401047602"/>
+    <nd ref="52808680"/>
+    <nd ref="1442949413"/>
+    <nd ref="52808705"/>
+    <nd ref="1442949408"/>
+    <nd ref="1442949410"/>
+    <nd ref="1442872155"/>
+    <nd ref="699594639"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="40"/>
+    <tag k="name" v="Wolska"/>
+  </way>
+  <way id="101006074" version="1" timestamp="2011-02-22T16:40:13Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="390295893"/>
+    <nd ref="1166675586"/>
+    <nd ref="1166675421"/>
+    <nd ref="1166675905"/>
+    <nd ref="1166675678"/>
+    <nd ref="1166675520"/>
+    <nd ref="1166675891"/>
+    <nd ref="1166675721"/>
+    <tag k="highway" v="track"/>
+  </way>
+  <way id="101006077" version="1" timestamp="2011-02-22T16:40:13Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="1166675482"/>
+    <nd ref="1166675370"/>
+    <nd ref="1166675789"/>
+    <nd ref="1166675604"/>
+    <nd ref="1166675437"/>
+    <nd ref="1166675853"/>
+    <nd ref="1166675654"/>
+    <tag k="highway" v="living_street"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="101006077" version="2" timestamp="2011-08-25T10:47:58Z" uid="489358" user="poktam" changeset="9120208">
+    <nd ref="1166675482"/>
+    <nd ref="1166675370"/>
+    <nd ref="1166675789"/>
+    <nd ref="1166675604"/>
+    <nd ref="1166675437"/>
+    <nd ref="1166675853"/>
+    <nd ref="1166675654"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="101006077" version="3" timestamp="2011-08-25T14:24:46Z" uid="489358" user="poktam" changeset="9121776">
+    <nd ref="1166675482"/>
+    <nd ref="1166675370"/>
+    <nd ref="1166675789"/>
+    <nd ref="1166675604"/>
+    <nd ref="1166675437"/>
+    <nd ref="1166675853"/>
+    <nd ref="1166675654"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Bursztynowa"/>
+    <tag k="source" v="survey and Bing"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="101006080" version="1" timestamp="2011-02-22T16:40:14Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="1166675532"/>
+    <nd ref="1166675698"/>
+    <nd ref="1166675912"/>
+    <nd ref="1166675545"/>
+    <nd ref="1166675709"/>
+    <nd ref="1166675890"/>
+    <nd ref="1166675502"/>
+    <nd ref="1166675760"/>
+    <nd ref="1166675676"/>
+    <nd ref="1166675462"/>
+    <nd ref="1166675866"/>
+    <nd ref="1166675911"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="101006080" version="2" timestamp="2011-08-25T10:47:57Z" uid="489358" user="poktam" changeset="9120208">
+    <nd ref="1166675532"/>
+    <nd ref="1166675698"/>
+    <nd ref="1166675912"/>
+    <nd ref="1166675545"/>
+    <nd ref="1166675709"/>
+    <nd ref="1166675890"/>
+    <nd ref="1166675502"/>
+    <nd ref="1166675760"/>
+    <nd ref="1166675676"/>
+    <nd ref="1166675462"/>
+    <nd ref="1166675866"/>
+    <nd ref="1166675911"/>
+    <tag k="highway" v="path"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="101006080" version="3" timestamp="2011-11-20T16:52:39Z" uid="489358" user="poktam" changeset="9886636">
+    <nd ref="1166675532"/>
+    <nd ref="1166675698"/>
+    <nd ref="1166675912"/>
+    <nd ref="1166675545"/>
+    <nd ref="1166675709"/>
+    <nd ref="1166675890"/>
+    <nd ref="1166675502"/>
+    <nd ref="1166675760"/>
+    <nd ref="1166675676"/>
+    <nd ref="1166675462"/>
+    <tag k="highway" v="path"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="101006080" version="4" timestamp="2011-11-21T21:43:14Z" uid="489358" user="poktam" changeset="9902378">
+    <nd ref="1166675532"/>
+    <nd ref="1166675698"/>
+    <nd ref="1166675912"/>
+    <nd ref="1166675545"/>
+    <nd ref="1166675709"/>
+    <nd ref="1511984612"/>
+    <nd ref="1511984609"/>
+    <nd ref="1166675890"/>
+    <nd ref="1166675502"/>
+    <nd ref="1166675760"/>
+    <nd ref="1166675676"/>
+    <nd ref="1166675462"/>
+    <tag k="highway" v="path"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="101006081" version="1" timestamp="2011-02-22T16:40:14Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="1166675590"/>
+    <nd ref="1166675558"/>
+    <nd ref="1166675776"/>
+    <nd ref="1166675754"/>
+    <nd ref="1166675584"/>
+    <nd ref="1166675418"/>
+    <nd ref="1166675839"/>
+    <nd ref="1166675842"/>
+    <tag k="highway" v="track"/>
+  </way>
+  <way id="101006081" version="2" timestamp="2011-09-09T22:09:06Z" uid="489358" user="poktam" changeset="9258471">
+    <nd ref="1166675590"/>
+    <nd ref="1166675558"/>
+    <nd ref="1166675776"/>
+    <nd ref="1166675754"/>
+    <nd ref="1166675584"/>
+    <nd ref="1166675418"/>
+    <nd ref="1166675839"/>
+    <nd ref="1166675842"/>
+    <tag k="description" v="Drogi wewnętrzne na terenie Stacji uzdatniania wody"/>
+    <tag k="highway" v="service"/>
+    <tag k="service" v="driveway"/>
+  </way>
+  <way id="101006082" version="1" timestamp="2011-02-22T16:40:15Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="1158990966"/>
+    <nd ref="1166675745"/>
+    <nd ref="1166675823"/>
+    <nd ref="1166675654"/>
+    <nd ref="1166675562"/>
+    <nd ref="1166675403"/>
+    <nd ref="1166675830"/>
+    <nd ref="1166675634"/>
+    <tag k="highway" v="living_street"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="101006082" version="2" timestamp="2011-08-25T10:47:58Z" uid="489358" user="poktam" changeset="9120208">
+    <nd ref="1158990966"/>
+    <nd ref="1166675745"/>
+    <nd ref="1166675823"/>
+    <nd ref="1166675654"/>
+    <nd ref="1166675562"/>
+    <nd ref="1166675403"/>
+    <nd ref="1166675830"/>
+    <nd ref="1166675634"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="101006082" version="3" timestamp="2011-08-25T14:24:48Z" uid="489358" user="poktam" changeset="9121776">
+    <nd ref="1158990966"/>
+    <nd ref="1166675745"/>
+    <nd ref="1166675823"/>
+    <nd ref="1166675654"/>
+    <nd ref="1166675562"/>
+    <nd ref="1166675403"/>
+    <nd ref="1166675830"/>
+    <nd ref="1166675634"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rubinowa"/>
+    <tag k="source" v="survey and Bing"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="101006083" version="1" timestamp="2011-02-22T16:40:15Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="348964071"/>
+    <nd ref="1022807730"/>
+    <nd ref="335727938"/>
+    <tag k="addr:city" v="Ossów"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Matarewicza"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/WOLOMIN.drogi.txt)"/>
+  </way>
+  <way id="101006083" version="2" timestamp="2011-10-04T19:45:01Z" uid="403964" user="bartekent" changeset="9472205">
+    <nd ref="348964071"/>
+    <nd ref="1455269351"/>
+    <nd ref="1455269329"/>
+    <nd ref="1455269331"/>
+    <nd ref="1455269476"/>
+    <nd ref="1455269448"/>
+    <nd ref="1022807730"/>
+    <nd ref="335727938"/>
+    <tag k="addr:city" v="Ossów"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Matarewicza"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/WOLOMIN.drogi.txt)"/>
+  </way>
+  <way id="101006083" version="3" timestamp="2011-10-04T20:09:07Z" uid="403964" user="bartekent" changeset="9472205">
+    <nd ref="348964071"/>
+    <nd ref="1455302310"/>
+    <nd ref="1455302399"/>
+    <nd ref="1455302445"/>
+    <nd ref="1455302235"/>
+    <nd ref="1455302157"/>
+    <nd ref="1455302253"/>
+    <nd ref="1455269351"/>
+    <nd ref="1455269329"/>
+    <nd ref="1455269331"/>
+    <nd ref="1455269476"/>
+    <nd ref="1455269448"/>
+    <nd ref="1022807730"/>
+    <nd ref="335727938"/>
+    <tag k="addr:city" v="Ossów"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Matarewicza"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/WOLOMIN.drogi.txt)"/>
+  </way>
+  <way id="101006084" version="1" timestamp="2011-02-22T16:40:15Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="348963845"/>
+    <nd ref="348952176"/>
+    <nd ref="1022801961"/>
+    <nd ref="348951496"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Reczajska"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/KOBYLKA.ulice.txt)"/>
+  </way>
+  <way id="101006084" version="2" timestamp="2011-04-15T00:29:05Z" uid="165509" user="koszatek" changeset="7866135">
+    <nd ref="348963845"/>
+    <nd ref="348952176"/>
+    <nd ref="1244999197"/>
+    <nd ref="1022801961"/>
+    <nd ref="348951496"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Reczajska"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/KOBYLKA.ulice.txt)"/>
+  </way>
+  <way id="101006084" version="3" timestamp="2012-03-06T18:55:39Z" uid="165509" user="koszatek" changeset="10893209">
+    <nd ref="348963845"/>
+    <nd ref="348952176"/>
+    <nd ref="1244999197"/>
+    <nd ref="1022801961"/>
+    <nd ref="348951496"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Reczajska"/>
+  </way>
+  <way id="101006085" version="1" timestamp="2011-02-22T16:40:16Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="348963913"/>
+    <nd ref="348963914"/>
+    <nd ref="348963916"/>
+    <nd ref="348963918"/>
+    <nd ref="348963922"/>
+    <nd ref="348952651"/>
+    <tag k="highway" v="footway"/>
+    <tag k="marked_trail_green" v="yes"/>
+    <tag k="name" v="zielony"/>
+    <tag k="note" v="MZ-5073-z  SIERAKÓW. PKS ZIELONKA. PKP 38,2km"/>
+    <tag k="ref" v="Zielony szlak"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/WARSZAWA.szlaki.topo.txt)"/>
+  </way>
+  <way id="101006085" version="2" timestamp="2011-10-02T20:01:17Z" uid="403964" user="bartekent" changeset="9454205">
+    <nd ref="348963913"/>
+    <nd ref="348963914"/>
+    <nd ref="348963916"/>
+    <nd ref="348963918"/>
+    <nd ref="348963922"/>
+    <nd ref="1452833447"/>
+    <nd ref="1452833464"/>
+    <nd ref="348952651"/>
+    <tag k="highway" v="footway"/>
+    <tag k="marked_trail_green" v="yes"/>
+    <tag k="name" v="zielony"/>
+    <tag k="note" v="MZ-5073-z  SIERAKÓW. PKS ZIELONKA. PKP 38,2km"/>
+    <tag k="ref" v="Zielony szlak"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/WARSZAWA.szlaki.topo.txt)"/>
+  </way>
+  <way id="101006087" version="1" timestamp="2011-02-22T16:40:17Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="1166675799"/>
+    <nd ref="348944025"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/WOLOMIN.drogi.txt)"/>
+  </way>
+  <way id="101006087" version="2" timestamp="2012-01-28T20:39:27Z" uid="186174" user="michal_f" changeset="10524867">
+    <nd ref="1166675799"/>
+    <nd ref="348944025"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/WOLOMIN.drogi.txt)"/>
+  </way>
+  <way id="101006088" version="1" timestamp="2011-02-22T16:40:17Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="348964073"/>
+    <nd ref="348964069"/>
+    <nd ref="348964063"/>
+    <nd ref="348964057"/>
+    <nd ref="348964067"/>
+    <nd ref="348964061"/>
+    <nd ref="348964027"/>
+    <nd ref="348964017"/>
+    <nd ref="348964015"/>
+    <nd ref="348964036"/>
+    <nd ref="348964019"/>
+    <nd ref="348964008"/>
+    <nd ref="348964010"/>
+    <nd ref="348964029"/>
+    <nd ref="348964042"/>
+    <nd ref="348964033"/>
+    <nd ref="348964031"/>
+    <nd ref="348964112"/>
+    <nd ref="348964034"/>
+    <nd ref="348964025"/>
+    <nd ref="348964023"/>
+    <nd ref="348964044"/>
+    <nd ref="348963885"/>
+    <nd ref="348963884"/>
+    <nd ref="348963882"/>
+    <nd ref="348963880"/>
+    <nd ref="348964102"/>
+    <nd ref="348964103"/>
+    <nd ref="348964096"/>
+    <nd ref="348964100"/>
+    <nd ref="348963870"/>
+    <tag k="highway" v="footway"/>
+    <tag k="marked_trail_green" v="yes"/>
+    <tag k="name" v="zielony"/>
+    <tag k="note" v="MZ-5073-z  SIERAKÓW. PKS ZIELONKA. PKP 38,2km"/>
+    <tag k="ref" v="Zielony szlak"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/WARSZAWA.szlaki.topo.txt)"/>
+  </way>
+  <way id="101006090" version="1" timestamp="2011-02-22T16:40:19Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="348963937"/>
+    <nd ref="348963935"/>
+    <nd ref="348963925"/>
+    <nd ref="348963923"/>
+    <nd ref="348963872"/>
+    <nd ref="348963874"/>
+    <nd ref="348963975"/>
+    <nd ref="348963973"/>
+    <nd ref="348963911"/>
+    <tag k="highway" v="footway"/>
+    <tag k="marked_trail_green" v="yes"/>
+    <tag k="name" v="zielony"/>
+    <tag k="note" v="MZ-5073-z  SIERAKÓW. PKS ZIELONKA. PKP 38,2km"/>
+    <tag k="ref" v="Zielony szlak"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/WARSZAWA.szlaki.topo.txt)"/>
+  </way>
+  <way id="101006092" version="1" timestamp="2011-02-22T16:40:19Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="1153105402"/>
+    <nd ref="1153105588"/>
+    <nd ref="1153105522"/>
+    <nd ref="1153105457"/>
+    <nd ref="1153105475"/>
+    <nd ref="1153105419"/>
+    <nd ref="1153105583"/>
+    <nd ref="1153105536"/>
+    <nd ref="1153105449"/>
+    <nd ref="1153105396"/>
+    <nd ref="1153105567"/>
+    <nd ref="1153105515"/>
+    <nd ref="1153105576"/>
+    <nd ref="1153105533"/>
+    <nd ref="1153105471"/>
+    <nd ref="1153105395"/>
+    <nd ref="1153105579"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="101006092" version="2" timestamp="2011-08-11T12:18:10Z" uid="373244" user="Tomaszg" changeset="8985059">
+    <nd ref="1153105402"/>
+    <nd ref="1153105588"/>
+    <nd ref="1153105522"/>
+    <nd ref="1153105457"/>
+    <nd ref="1153105475"/>
+    <nd ref="1153105419"/>
+    <nd ref="1153105583"/>
+    <nd ref="1153105536"/>
+    <nd ref="1153105449"/>
+    <nd ref="1153105396"/>
+    <nd ref="1153105567"/>
+    <nd ref="1153105515"/>
+    <nd ref="1153105576"/>
+    <nd ref="1153105533"/>
+    <nd ref="1153105471"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="101006092" version="3" timestamp="2011-08-16T14:11:41Z" uid="373244" user="Tomaszg" changeset="9037199">
+    <nd ref="1153105402"/>
+    <nd ref="1153105588"/>
+    <nd ref="1153105522"/>
+    <nd ref="1153105457"/>
+    <nd ref="1153105475"/>
+    <nd ref="1153105419"/>
+    <nd ref="1153105583"/>
+    <nd ref="1153105536"/>
+    <nd ref="1153105449"/>
+    <nd ref="1153105396"/>
+    <nd ref="1153105567"/>
+    <nd ref="1153105515"/>
+    <nd ref="1153105576"/>
+    <nd ref="1153105533"/>
+    <nd ref="1153105471"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Dworcowa"/>
+  </way>
+  <way id="101006093" version="1" timestamp="2011-02-22T16:40:20Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="348947113"/>
+    <nd ref="348947104"/>
+    <nd ref="348947111"/>
+    <nd ref="348947110"/>
+    <nd ref="348947150"/>
+    <nd ref="348947108"/>
+    <nd ref="348947115"/>
+    <nd ref="812156002"/>
+    <nd ref="348947114"/>
+    <nd ref="348947093"/>
+    <nd ref="348947094"/>
+    <nd ref="348947081"/>
+    <nd ref="348947070"/>
+    <tag k="marked_trail_green" v="yes"/>
+    <tag k="name" v="zielony rowerowy"/>
+    <tag k="ref" v="Zielony szlak"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/WARSZAWA.szlaki.topo.txt)"/>
+  </way>
+  <way id="101006093" version="2" timestamp="2011-02-22T16:51:08Z" uid="20587" user="balrog-kun" changeset="7364993"/>
+  <way id="101006095" version="1" timestamp="2011-02-22T16:40:20Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="1166675887"/>
+    <nd ref="1166675467"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="101006096" version="1" timestamp="2011-02-22T16:40:20Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="348964073"/>
+    <nd ref="348944325"/>
+    <nd ref="348944328"/>
+    <nd ref="348944331"/>
+    <nd ref="348944317"/>
+    <nd ref="348944329"/>
+    <nd ref="348944314"/>
+    <nd ref="348944315"/>
+    <nd ref="348943408"/>
+    <tag k="highway" v="track"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/WOLOMIN.drogi.txt)"/>
+  </way>
+  <way id="101006097" version="1" timestamp="2011-02-22T16:40:21Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="348946033"/>
+    <nd ref="348946022"/>
+    <tag k="highway" v="cycleway"/>
+    <tag k="marked_trail_green" v="yes"/>
+    <tag k="name" v="zielony rowerowy"/>
+    <tag k="ref" v="Zielony szlak"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/WARSZAWA.szlaki.topo.txt)"/>
+  </way>
+  <way id="101006097" version="2" timestamp="2011-08-19T15:35:34Z" uid="373244" user="Tomaszg" changeset="9066740">
+    <nd ref="348946033"/>
+    <nd ref="348946022"/>
+    <tag k="highway" v="footway"/>
+    <tag k="marked_trail_green" v="yes"/>
+    <tag k="ref" v="Zielony szlak"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/WARSZAWA.szlaki.topo.txt)"/>
+  </way>
+  <way id="101006098" version="1" timestamp="2011-02-22T16:40:21Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="348963981"/>
+    <nd ref="348951978"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/WOLOMIN.drogi.txt)"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="101006098" version="2" timestamp="2011-12-08T00:49:16Z" uid="467703" user="Zbigniew Czernik" changeset="10062110">
+    <nd ref="348963981"/>
+    <nd ref="348951978"/>
+    <tag k="highway" v="track"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/WOLOMIN.drogi.txt)"/>
+    <tag k="tracktype" v="grade1"/>
+  </way>
+  <way id="101006098" version="3" timestamp="2012-03-12T01:27:43Z" uid="475943" user="sir-mapalot" changeset="10950314">
+    <nd ref="348963981"/>
+    <nd ref="348951978"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/WOLOMIN.drogi.txt)"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="101006099" version="1" timestamp="2011-02-22T16:40:22Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="348951490"/>
+    <nd ref="1022796706"/>
+    <nd ref="1022803171"/>
+    <nd ref="348952910"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Wspólna"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/KOBYLKA.ulice.txt)"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="101006099" version="2" timestamp="2011-12-08T00:47:43Z" uid="467703" user="Zbigniew Czernik" changeset="10062110">
+    <nd ref="348951490"/>
+    <nd ref="1022796706"/>
+    <nd ref="1022803171"/>
+    <nd ref="348952910"/>
+    <tag k="highway" v="track"/>
+    <tag k="name" v="Wspólna"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/KOBYLKA.ulice.txt)"/>
+    <tag k="tracktype" v="grade1"/>
+  </way>
+  <way id="101006099" version="3" timestamp="2011-12-27T19:11:50Z" uid="467703" user="Zbigniew Czernik" changeset="10216998">
+    <nd ref="348951490"/>
+    <nd ref="1022796706"/>
+    <nd ref="1022803171"/>
+    <nd ref="348952910"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Wspólna"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/KOBYLKA.ulice.txt)"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="101006101" version="1" timestamp="2011-02-22T16:40:22Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="348946624"/>
+    <nd ref="348946599"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Nowa"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/RADZYMIN.ulice.txt)"/>
+  </way>
+  <way id="101006101" version="2" timestamp="2011-11-06T19:32:47Z" uid="550251" user="Kamil Wrzosek" changeset="9758832">
+    <nd ref="348946624"/>
+    <nd ref="1493515979"/>
+    <nd ref="348946599"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Nowa"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/RADZYMIN.ulice.txt)"/>
+  </way>
+  <way id="101006101" version="3" timestamp="2011-11-06T19:39:49Z" uid="550251" user="Kamil Wrzosek" changeset="9758904">
+    <nd ref="348946624"/>
+    <nd ref="1493515979"/>
+    <nd ref="348946599"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Nowa"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/RADZYMIN.ulice.txt)"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="101006103" version="1" timestamp="2011-02-22T16:40:23Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="1166675644"/>
+    <nd ref="1166675479"/>
+    <nd ref="1166675772"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="101006103" version="2" timestamp="2011-07-22T10:58:33Z" uid="489358" user="poktam" changeset="8796445">
+    <nd ref="1166675644"/>
+    <nd ref="1166675479"/>
+    <nd ref="1166675772"/>
+    <tag k="highway" v="unclassified"/>
+  </way>
+  <way id="101006104" version="1" timestamp="2011-02-22T16:40:23Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="1166675750"/>
+    <nd ref="1166675617"/>
+    <tag k="highway" v="track"/>
+  </way>
+  <way id="101006104" version="2" timestamp="2011-11-20T16:52:41Z" uid="489358" user="poktam" changeset="9886636">
+    <nd ref="1166675750"/>
+    <nd ref="1166675617"/>
+    <tag k="highway" v="service"/>
+    <tag k="service" v="driveway"/>
+    <tag k="source" v="survey and Bing"/>
+  </way>
+  <way id="101006105" version="1" timestamp="2011-02-22T16:40:23Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="348946022"/>
+    <nd ref="1022796860"/>
+    <nd ref="1022806445"/>
+    <tag k="highway" v="cycleway"/>
+  </way>
+  <way id="101006105" version="2" timestamp="2011-08-19T15:35:34Z" uid="373244" user="Tomaszg" changeset="9066740">
+    <nd ref="348946022"/>
+    <nd ref="1022796860"/>
+    <nd ref="1022806445"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="101006106" version="1" timestamp="2011-02-22T16:40:24Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="1166675703"/>
+    <nd ref="1166675623"/>
+    <nd ref="1166675459"/>
+    <nd ref="1166675864"/>
+    <nd ref="1166675672"/>
+    <nd ref="1166675496"/>
+    <nd ref="1166675860"/>
+    <nd ref="1166675664"/>
+    <nd ref="1166675487"/>
+    <nd ref="1166675882"/>
+    <nd ref="1166675703"/>
+    <tag k="landuse" v="allotments"/>
+  </way>
+  <way id="101006106" version="2" timestamp="2011-07-22T16:43:24Z" uid="489358" user="poktam" changeset="8799243">
+    <nd ref="1166675703"/>
+    <nd ref="1166675623"/>
+    <nd ref="1166675459"/>
+    <nd ref="1166675864"/>
+    <nd ref="1166675672"/>
+    <nd ref="1166675496"/>
+    <nd ref="1166675860"/>
+    <nd ref="1166675664"/>
+    <nd ref="1166675487"/>
+    <nd ref="1166675882"/>
+    <nd ref="1166675703"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <way id="101006107" version="1" timestamp="2011-02-22T16:40:24Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="292775175"/>
+    <nd ref="1166675869"/>
+    <nd ref="1166675684"/>
+    <nd ref="1166675529"/>
+    <tag k="highway" v="living_street"/>
+  </way>
+  <way id="101006107" version="2" timestamp="2011-08-19T12:38:37Z" uid="373244" user="Tomaszg" changeset="9065513">
+    <nd ref="292775175"/>
+    <nd ref="1166675869"/>
+    <nd ref="1166675684"/>
+    <nd ref="1166675529"/>
+    <nd ref="348946663"/>
+    <tag k="highway" v="living_street"/>
+  </way>
+  <way id="101006109" version="1" timestamp="2011-02-22T16:40:24Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="216206129"/>
+    <nd ref="1153105602"/>
+    <nd ref="1153105539"/>
+    <nd ref="216206137"/>
+    <nd ref="1153105582"/>
+    <nd ref="1154775441"/>
+    <nd ref="216206148"/>
+    <nd ref="216206152"/>
+    <nd ref="216206157"/>
+    <nd ref="1154775683"/>
+    <nd ref="216206168"/>
+    <nd ref="1154775427"/>
+    <nd ref="216206174"/>
+    <nd ref="1154775527"/>
+    <nd ref="216206183"/>
+    <nd ref="1153105579"/>
+    <nd ref="1154775347"/>
+    <nd ref="389148230"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Jana Kazimierza"/>
+    <tag k="ref" v="633"/>
+  </way>
+  <way id="101006109" version="2" timestamp="2011-04-07T20:19:07Z" uid="91056" user="Yarl" changeset="7798284">
+    <nd ref="216206129"/>
+    <nd ref="1153105602"/>
+    <nd ref="1153105539"/>
+    <nd ref="216206137"/>
+    <nd ref="1153105582"/>
+    <nd ref="1154775441"/>
+    <nd ref="216206148"/>
+    <nd ref="216206152"/>
+    <nd ref="216206157"/>
+    <nd ref="1154775683"/>
+    <nd ref="216206168"/>
+    <nd ref="1154775427"/>
+    <nd ref="216206174"/>
+    <nd ref="1154775527"/>
+    <nd ref="1153105579"/>
+    <nd ref="1236535415"/>
+    <nd ref="1154775347"/>
+    <nd ref="389148230"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Jana Kazimierza"/>
+    <tag k="ref" v="633"/>
+  </way>
+  <way id="101006109" version="3" timestamp="2011-07-17T15:36:51Z" uid="471205" user="Marcin Kiernozek" changeset="8749222">
+    <nd ref="216206129"/>
+    <nd ref="1153105602"/>
+    <nd ref="1153105539"/>
+    <nd ref="216206137"/>
+    <nd ref="1153105582"/>
+    <nd ref="1154775441"/>
+    <nd ref="216206148"/>
+    <nd ref="216206152"/>
+    <nd ref="216206157"/>
+    <nd ref="1154775683"/>
+    <nd ref="216206168"/>
+    <nd ref="1154775427"/>
+    <nd ref="216206174"/>
+    <nd ref="1154775527"/>
+    <nd ref="1153105579"/>
+    <nd ref="1236535415"/>
+    <nd ref="1154775347"/>
+    <nd ref="1364633311"/>
+    <nd ref="389148230"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Jana Kazimierza"/>
+    <tag k="ref" v="633"/>
+  </way>
+  <way id="101006109" version="4" timestamp="2011-08-11T12:18:11Z" uid="373244" user="Tomaszg" changeset="8985059">
+    <nd ref="216206129"/>
+    <nd ref="1153105602"/>
+    <nd ref="1153105539"/>
+    <nd ref="216206137"/>
+    <nd ref="1153105582"/>
+    <nd ref="1154775441"/>
+    <nd ref="216206148"/>
+    <nd ref="216206152"/>
+    <nd ref="216206157"/>
+    <nd ref="1154775683"/>
+    <nd ref="216206168"/>
+    <nd ref="1154775427"/>
+    <nd ref="216206174"/>
+    <nd ref="1154775527"/>
+    <nd ref="1153105579"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Jana Kazimierza"/>
+    <tag k="ref" v="633"/>
+  </way>
+  <way id="101006111" version="1" timestamp="2011-02-22T16:40:25Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="1166675389"/>
+    <nd ref="1166675880"/>
+    <nd ref="1166675611"/>
+    <nd ref="1166675456"/>
+    <tag k="highway" v="living_street"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="101006111" version="2" timestamp="2011-08-25T10:47:58Z" uid="489358" user="poktam" changeset="9120208">
+    <nd ref="1166675389"/>
+    <nd ref="1166675880"/>
+    <nd ref="1166675611"/>
+    <nd ref="1166675456"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="101006111" version="3" timestamp="2011-10-12T10:17:43Z" uid="489358" user="poktam" changeset="9537505">
+    <nd ref="1166675389"/>
+    <nd ref="1166675880"/>
+    <nd ref="1463814534"/>
+    <nd ref="1166675611"/>
+    <nd ref="1463814537"/>
+    <nd ref="1166675456"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="101006111" version="4" timestamp="2011-11-11T17:27:09Z" uid="550251" user="Kamil Wrzosek" changeset="9798280">
+    <nd ref="1498945341"/>
+    <nd ref="1166675389"/>
+    <nd ref="1166675880"/>
+    <nd ref="1463814534"/>
+    <nd ref="1166675611"/>
+    <nd ref="1463814537"/>
+    <nd ref="1166675456"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="101006112" version="1" timestamp="2011-02-22T16:40:25Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="348947070"/>
+    <nd ref="348947083"/>
+    <nd ref="348947080"/>
+    <tag k="marked_trail_green" v="yes"/>
+    <tag k="name" v="zielony rowerowy"/>
+    <tag k="ref" v="Zielony szlak"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/WARSZAWA.szlaki.topo.txt)"/>
+  </way>
+  <way id="101006112" version="2" timestamp="2011-02-22T16:51:08Z" uid="20587" user="balrog-kun" changeset="7364993"/>
+  <way id="101006114" version="1" timestamp="2011-02-22T16:40:25Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="348955903"/>
+    <nd ref="348956015"/>
+    <tag k="addr:city" v="Stanisławów Pierwszy"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Graniczna"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/LEGIONOWO.drogi.txt)"/>
+  </way>
+  <way id="101006116" version="1" timestamp="2011-02-22T16:40:26Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="1166675639"/>
+    <nd ref="1166675471"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="101006116" version="2" timestamp="2011-08-25T14:24:47Z" uid="489358" user="poktam" changeset="9121776">
+    <nd ref="1166675639"/>
+    <nd ref="1166675471"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Elizy Orzeszkowej"/>
+    <tag k="source" v="survey and Bing"/>
+  </way>
+  <way id="101006117" version="1" timestamp="2011-02-22T16:40:26Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="348963937"/>
+    <nd ref="348945535"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Radzymińska"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/WOLOMIN.drogi.txt)"/>
+  </way>
+  <way id="101006119" version="1" timestamp="2011-02-22T16:40:26Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="348963981"/>
+    <nd ref="348963983"/>
+    <nd ref="348963977"/>
+    <tag k="highway" v="footway"/>
+    <tag k="marked_trail_green" v="yes"/>
+    <tag k="name" v="zielony"/>
+    <tag k="note" v="MZ-5073-z  SIERAKÓW. PKS ZIELONKA. PKP 38,2km"/>
+    <tag k="ref" v="Zielony szlak"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/WARSZAWA.szlaki.topo.txt)"/>
+  </way>
+  <way id="101006120" version="1" timestamp="2011-02-22T16:40:27Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="348947080"/>
+    <nd ref="1153250223"/>
+    <nd ref="1153250423"/>
+    <nd ref="1153250263"/>
+    <nd ref="1153250054"/>
+    <nd ref="1153249929"/>
+    <nd ref="1153250351"/>
+    <nd ref="1153250177"/>
+    <nd ref="1153250000"/>
+    <nd ref="1153250516"/>
+    <nd ref="1153249913"/>
+    <nd ref="1153250408"/>
+    <nd ref="1153250171"/>
+    <tag k="highway" v="track"/>
+    <tag k="surface" v="gravel"/>
+    <tag k="tracktype" v="grade2"/>
+  </way>
+  <way id="101006122" version="1" timestamp="2011-02-22T16:40:27Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="348946191"/>
+    <nd ref="348946202"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Kolejowa"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/ZIELONKA.ulice.txt)"/>
+  </way>
+  <way id="101006122" version="2" timestamp="2011-04-15T00:28:42Z" uid="165509" user="koszatek" changeset="7866135">
+    <nd ref="348946191"/>
+    <nd ref="1244999153"/>
+    <nd ref="348946202"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Kolejowa"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/ZIELONKA.ulice.txt)"/>
+  </way>
+  <way id="101006122" version="3" timestamp="2012-03-06T18:55:19Z" uid="165509" user="koszatek" changeset="10893209">
+    <nd ref="348946191"/>
+    <nd ref="1244999153"/>
+    <nd ref="348946202"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Kolejowa"/>
+  </way>
+  <way id="101006124" version="1" timestamp="2011-02-22T16:40:27Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="1166675542"/>
+    <nd ref="1166675617"/>
+    <nd ref="1166675911"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="101006124" version="2" timestamp="2011-11-20T16:52:35Z" uid="489358" user="poktam" changeset="9886636">
+    <nd ref="1166675542"/>
+    <nd ref="1166675617"/>
+    <nd ref="1166675911"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Dębowa"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="101006125" version="1" timestamp="2011-02-22T16:40:27Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="348963893"/>
+    <nd ref="348952638"/>
+    <nd ref="348952642"/>
+    <nd ref="348952566"/>
+    <nd ref="348952531"/>
+    <nd ref="348952527"/>
+    <nd ref="348952523"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Kazimierza Wielkiego"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/KOBYLKA.ulice.txt)"/>
+  </way>
+  <way id="101006127" version="1" timestamp="2011-02-22T16:40:28Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="1166675386"/>
+    <nd ref="1166675714"/>
+    <nd ref="1166675548"/>
+    <nd ref="1166675362"/>
+    <nd ref="1166675590"/>
+    <nd ref="1166675648"/>
+    <nd ref="1166675779"/>
+    <nd ref="1166675591"/>
+    <nd ref="1166675433"/>
+    <nd ref="1166675651"/>
+    <nd ref="1166675845"/>
+    <tag k="highway" v="track"/>
+  </way>
+  <way id="101006127" version="2" timestamp="2011-09-09T22:09:05Z" uid="489358" user="poktam" changeset="9258471">
+    <nd ref="1166675386"/>
+    <nd ref="1166675714"/>
+    <nd ref="1166675548"/>
+    <nd ref="1166675362"/>
+    <nd ref="1166675590"/>
+    <nd ref="1166675648"/>
+    <nd ref="1166675779"/>
+    <nd ref="1166675591"/>
+    <nd ref="1166675433"/>
+    <nd ref="1166675651"/>
+    <nd ref="1166675845"/>
+    <tag k="description" v="Drogi wewnętrzne na terenie Stacji uzdatniania wody"/>
+    <tag k="highway" v="service"/>
+    <tag k="service" v="driveway"/>
+  </way>
+  <way id="101006128" version="1" timestamp="2011-02-22T16:40:28Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="1153105456"/>
+    <nd ref="216206129"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Jana Kazimierza"/>
+    <tag k="ref" v="633"/>
+  </way>
+  <way id="101006130" version="1" timestamp="2011-02-22T16:40:28Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="348947091"/>
+    <nd ref="348947098"/>
+    <nd ref="348947097"/>
+    <nd ref="348947096"/>
+    <nd ref="348947113"/>
+    <tag k="marked_trail_green" v="yes"/>
+    <tag k="name" v="zielony rowerowy"/>
+    <tag k="ref" v="Zielony szlak"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/WARSZAWA.szlaki.topo.txt)"/>
+  </way>
+  <way id="101006130" version="2" timestamp="2011-02-22T16:51:08Z" uid="20587" user="balrog-kun" changeset="7364993"/>
+  <way id="101006131" version="1" timestamp="2011-02-22T16:40:28Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="1166675589"/>
+    <nd ref="1166675772"/>
+    <nd ref="1166675426"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="101006131" version="2" timestamp="2011-07-22T10:58:33Z" uid="489358" user="poktam" changeset="8796445">
+    <nd ref="1166675589"/>
+    <nd ref="1166675772"/>
+    <nd ref="1166675426"/>
+    <tag k="highway" v="unclassified"/>
+  </way>
+  <way id="101006133" version="1" timestamp="2011-02-22T16:40:29Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="1166675559"/>
+    <nd ref="1166675401"/>
+    <nd ref="1166675827"/>
+    <nd ref="1166675620"/>
+    <tag k="highway" v="track"/>
+  </way>
+  <way id="101006133" version="2" timestamp="2011-11-20T16:52:42Z" uid="489358" user="poktam" changeset="9886636">
+    <nd ref="1166675559"/>
+    <nd ref="1166675401"/>
+    <nd ref="1166675827"/>
+    <nd ref="1166675620"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="survey and Bing"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="101006134" version="1" timestamp="2011-02-22T16:40:29Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="348964253"/>
+    <nd ref="348944748"/>
+    <nd ref="348944747"/>
+    <tag k="addr:city" v="Nadma"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Rzeczna"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/WOLOMIN.drogi.txt)"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="101006134" version="2" timestamp="2011-10-28T19:04:13Z" uid="489358" user="poktam" changeset="9679301">
+    <nd ref="348964253"/>
+    <nd ref="1483912463"/>
+    <nd ref="348944748"/>
+    <nd ref="348944747"/>
+    <tag k="addr:city" v="Nadma"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Rzeczna"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/WOLOMIN.drogi.txt)"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="101006134" version="3" timestamp="2011-12-25T22:56:21Z" uid="467703" user="Zbigniew Czernik" changeset="10203345">
+    <nd ref="348964253"/>
+    <nd ref="1483912463"/>
+    <nd ref="348944748"/>
+    <nd ref="348944747"/>
+    <tag k="addr:city" v="Nadma"/>
+    <tag k="highway" v="track"/>
+    <tag k="name" v="Rzeczna"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/WOLOMIN.drogi.txt)"/>
+    <tag k="surface" v="unpaved"/>
+    <tag k="tracktype" v="grade1"/>
+  </way>
+  <way id="101006134" version="4" timestamp="2011-12-27T19:11:34Z" uid="467703" user="Zbigniew Czernik" changeset="10216998">
+    <nd ref="348964253"/>
+    <nd ref="1483912463"/>
+    <nd ref="348944748"/>
+    <nd ref="348944747"/>
+    <tag k="addr:city" v="Nadma"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rzeczna"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/WOLOMIN.drogi.txt)"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="101006135" version="1" timestamp="2011-02-22T16:40:29Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="348963870"/>
+    <nd ref="348943435"/>
+    <tag k="addr:city" v="Turów"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Józefa Hallera"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/WOLOMIN.drogi.txt)"/>
+  </way>
+  <way id="101006135" version="2" timestamp="2011-10-04T19:45:01Z" uid="403964" user="bartekent" changeset="9472205">
+    <nd ref="348963870"/>
+    <nd ref="1455269239"/>
+    <nd ref="1455269136"/>
+    <nd ref="1455269532"/>
+    <nd ref="1455269130"/>
+    <nd ref="1455269588"/>
+    <nd ref="1455269301"/>
+    <nd ref="348943435"/>
+    <tag k="addr:city" v="Turów"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Józefa Hallera"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/WOLOMIN.drogi.txt)"/>
+  </way>
+  <way id="101006136" version="1" timestamp="2011-02-22T16:40:29Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="348952393"/>
+    <nd ref="348952383"/>
+    <tag k="addr:city" v="Kobyłka"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Wojciecha Odrowąża Pieniążka"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/KOBYLKA.ulice.txt)"/>
+  </way>
+  <way id="101006136" version="2" timestamp="2011-04-15T00:28:52Z" uid="165509" user="koszatek" changeset="7866135">
+    <nd ref="348952393"/>
+    <nd ref="348952383"/>
+    <tag k="addr:city" v="Kobyłka"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Wojciecha Odrowąża Pieniążka"/>
+  </way>
+  <way id="101006137" version="1" timestamp="2011-02-22T16:40:29Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="1166675580"/>
+    <nd ref="1166675505"/>
+    <nd ref="1166675836"/>
+    <nd ref="1166675637"/>
+    <tag k="highway" v="track"/>
+  </way>
+  <way id="101006138" version="1" timestamp="2011-02-22T16:40:30Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="1166675661"/>
+    <nd ref="1166675881"/>
+    <nd ref="1166675696"/>
+    <tag k="highway" v="track"/>
+  </way>
+  <way id="101006138" version="2" timestamp="2011-11-20T16:52:35Z" uid="489358" user="poktam" changeset="9886636">
+    <nd ref="1166675661"/>
+    <nd ref="1166675881"/>
+    <nd ref="1166675696"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Bażancia"/>
+    <tag k="source" v="survey and Bing"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="101006140" version="1" timestamp="2011-02-22T16:40:30Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="1166675358"/>
+    <nd ref="1166675776"/>
+    <tag k="highway" v="track"/>
+  </way>
+  <way id="101006140" version="2" timestamp="2011-09-09T22:09:05Z" uid="489358" user="poktam" changeset="9258471">
+    <nd ref="1166675358"/>
+    <nd ref="1166675776"/>
+    <tag k="description" v="Drogi wewnętrzne na terenie Stacji uzdatniania wody"/>
+    <tag k="highway" v="service"/>
+    <tag k="service" v="driveway"/>
+  </way>
+  <way id="101006141" version="1" timestamp="2011-02-22T16:40:30Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="348955954"/>
+    <nd ref="348955913"/>
+    <tag k="addr:city" v="Nowolipie"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Nowolipie"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/LEGIONOWO.drogi.txt)"/>
+  </way>
+  <way id="101006141" version="2" timestamp="2012-01-20T17:28:32Z" uid="91056" user="Yarl" changeset="10448600">
+    <nd ref="348955954"/>
+    <nd ref="348955913"/>
+    <tag k="addr:city" v="Nowolipie"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Nowolipie"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="101006142" version="1" timestamp="2011-02-22T16:40:30Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="348952651"/>
+    <nd ref="348963893"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Kazimierza Wielkiego"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/KOBYLKA.ulice.txt)"/>
+  </way>
+  <way id="101006143" version="1" timestamp="2011-02-22T16:40:30Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="52808603"/>
+    <nd ref="1153250039"/>
+    <nd ref="52808608"/>
+    <nd ref="1153249910"/>
+    <nd ref="1153250236"/>
+    <nd ref="52808612"/>
+    <nd ref="52808614"/>
+    <nd ref="52808615"/>
+    <nd ref="702912642"/>
+    <nd ref="52808668"/>
+    <nd ref="702912630"/>
+    <nd ref="52808673"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Wolska"/>
+  </way>
+  <way id="101006143" version="2" timestamp="2011-08-11T11:11:34Z" uid="373244" user="Tomaszg" changeset="8984476">
+    <nd ref="52808603"/>
+    <nd ref="1153250039"/>
+    <nd ref="52808608"/>
+    <nd ref="1153249910"/>
+    <nd ref="1153250236"/>
+    <nd ref="52808612"/>
+    <nd ref="52808614"/>
+    <nd ref="52808615"/>
+    <nd ref="702912642"/>
+    <nd ref="52808668"/>
+    <nd ref="702912630"/>
+    <nd ref="52808673"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="40"/>
+    <tag k="name" v="Wolska"/>
+  </way>
+  <way id="101006143" version="3" timestamp="2011-08-16T13:51:03Z" uid="373244" user="Tomaszg" changeset="9037199">
+    <nd ref="52808603"/>
+    <nd ref="1153250039"/>
+    <nd ref="1153249910"/>
+    <nd ref="1153250236"/>
+    <nd ref="52808612"/>
+    <nd ref="52808614"/>
+    <nd ref="52808615"/>
+    <nd ref="702912642"/>
+    <nd ref="702912630"/>
+    <nd ref="52808673"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="40"/>
+    <tag k="name" v="Wolska"/>
+  </way>
+  <way id="101006143" version="4" timestamp="2011-09-05T18:39:14Z" uid="373244" user="Tomaszg" changeset="9219925">
+    <nd ref="52808603"/>
+    <nd ref="1153250039"/>
+    <nd ref="1153249910"/>
+    <nd ref="1153250236"/>
+    <nd ref="52808612"/>
+    <nd ref="52808614"/>
+    <nd ref="1424311805"/>
+    <nd ref="52808615"/>
+    <nd ref="702912642"/>
+    <nd ref="702912630"/>
+    <nd ref="52808673"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="40"/>
+    <tag k="name" v="Wolska"/>
+  </way>
+  <way id="101006145" version="1" timestamp="2011-02-22T16:40:31Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="348963845"/>
+    <nd ref="348963844"/>
+    <nd ref="348963755"/>
+    <nd ref="348963757"/>
+    <tag k="highway" v="footway"/>
+    <tag k="marked_trail_green" v="yes"/>
+    <tag k="name" v="zielony"/>
+    <tag k="note" v="MZ-5073-z  SIERAKÓW. PKS ZIELONKA. PKP 38,2km"/>
+    <tag k="ref" v="Zielony szlak"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/WARSZAWA.szlaki.topo.txt)"/>
+  </way>
+  <way id="101006147" version="1" timestamp="2011-02-22T16:40:31Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="1153105482"/>
+    <nd ref="1153105402"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="101006147" version="2" timestamp="2011-08-16T14:11:41Z" uid="373244" user="Tomaszg" changeset="9037199">
+    <nd ref="1153105482"/>
+    <nd ref="1153105402"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Dworcowa"/>
+  </way>
+  <way id="101006148" version="1" timestamp="2011-02-22T16:40:31Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="348960594"/>
+    <nd ref="348959150"/>
+    <nd ref="348960690"/>
+    <nd ref="348960669"/>
+    <nd ref="348960667"/>
+    <nd ref="348959149"/>
+    <nd ref="348959145"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Leopolda Lisa-Kuli"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/MARKI.ulice.txt)"/>
+  </way>
+  <way id="101006148" version="2" timestamp="2011-02-22T16:51:08Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="348960594"/>
+    <nd ref="348959150"/>
+    <tag k="highway" v="residential"/>
+    <tag k="marked_trail_black" v="yes"/>
+    <tag k="name" v="Leopolda Lisa-Kuli"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/MARKI.ulice.txt)"/>
+  </way>
+  <way id="101006149" version="1" timestamp="2011-02-22T16:40:31Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="1166675907"/>
+    <nd ref="1166675862"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="101006149" version="2" timestamp="2011-11-20T16:52:40Z" uid="489358" user="poktam" changeset="9886636">
+    <nd ref="1166675907"/>
+    <nd ref="1166675862"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="survey and Bing"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="101006150" version="1" timestamp="2011-02-22T16:40:31Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="1166675552"/>
+    <nd ref="1166675365"/>
+    <nd ref="1166675681"/>
+    <nd ref="1166675523"/>
+    <tag k="highway" v="living_street"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="101006150" version="2" timestamp="2011-08-25T10:47:58Z" uid="489358" user="poktam" changeset="9120208">
+    <nd ref="1166675552"/>
+    <nd ref="1166675365"/>
+    <nd ref="1166675681"/>
+    <nd ref="1166675523"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="101006150" version="3" timestamp="2011-10-12T10:17:42Z" uid="489358" user="poktam" changeset="9537505">
+    <nd ref="1166675552"/>
+    <nd ref="1463814574"/>
+    <nd ref="1166675365"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Marii Skłodowskiej"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="101006150" version="4" timestamp="2011-11-20T16:52:38Z" uid="489358" user="poktam" changeset="9886636">
+    <nd ref="1166675552"/>
+    <nd ref="1463814574"/>
+    <nd ref="1166675365"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Marii Skłodowskiej-Curie"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="101006152" version="1" timestamp="2011-02-22T16:40:32Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="348949372"/>
+    <nd ref="1166675369"/>
+    <tag k="waterway" v="drain"/>
+  </way>
+  <way id="101006153" version="1" timestamp="2011-02-22T16:40:32Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="1166675883"/>
+    <nd ref="1166675823"/>
+    <tag k="highway" v="living_street"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="101006153" version="2" timestamp="2011-08-25T10:47:58Z" uid="489358" user="poktam" changeset="9120208">
+    <nd ref="1166675883"/>
+    <nd ref="1166675823"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="101006153" version="3" timestamp="2011-08-25T14:24:46Z" uid="489358" user="poktam" changeset="9121776">
+    <nd ref="1412219427"/>
+    <nd ref="1412219426"/>
+    <nd ref="1412219425"/>
+    <nd ref="1412219424"/>
+    <nd ref="1412219420"/>
+    <nd ref="1412219419"/>
+    <nd ref="1412219417"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Brylantowa"/>
+    <tag k="source" v="survey and Bing"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="101006154" version="1" timestamp="2011-02-22T16:40:32Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="1022806445"/>
+    <nd ref="348960350"/>
+    <nd ref="348960547"/>
+    <nd ref="348959153"/>
+    <nd ref="348960212"/>
+    <nd ref="348960539"/>
+    <nd ref="348960543"/>
+    <nd ref="348960562"/>
+    <nd ref="348960566"/>
+    <nd ref="348960555"/>
+    <nd ref="348960558"/>
+    <nd ref="348960578"/>
+    <nd ref="348960781"/>
+    <nd ref="348960570"/>
+    <nd ref="348960574"/>
+    <nd ref="348960594"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Zajączka"/>
+    <tag k="note" v="Nie dochodzi do Pilsudskiego"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/MARKI.ulice.txt)"/>
+  </way>
+  <way id="101006154" version="2" timestamp="2011-10-03T20:27:49Z" uid="403964" user="bartekent" changeset="9464033">
+    <nd ref="1022806445"/>
+    <nd ref="348960350"/>
+    <nd ref="1454255635"/>
+    <nd ref="348960547"/>
+    <nd ref="348959153"/>
+    <nd ref="348960212"/>
+    <nd ref="348960539"/>
+    <nd ref="348960543"/>
+    <nd ref="348960562"/>
+    <nd ref="348960566"/>
+    <nd ref="348960555"/>
+    <nd ref="348960558"/>
+    <nd ref="348960578"/>
+    <nd ref="348960781"/>
+    <nd ref="348960570"/>
+    <nd ref="348960574"/>
+    <nd ref="348960594"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Zajączka"/>
+    <tag k="note" v="Nie dochodzi do Pilsudskiego"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/MARKI.ulice.txt)"/>
+  </way>
+  <way id="101006155" version="1" timestamp="2011-02-22T16:40:32Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="348963893"/>
+    <nd ref="348963895"/>
+    <nd ref="348963897"/>
+    <tag k="highway" v="footway"/>
+    <tag k="marked_trail_green" v="yes"/>
+    <tag k="name" v="zielony"/>
+    <tag k="note" v="MZ-5073-z  SIERAKÓW. PKS ZIELONKA. PKP 38,2km"/>
+    <tag k="ref" v="Zielony szlak"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/WARSZAWA.szlaki.topo.txt)"/>
+  </way>
+  <way id="101006155" version="2" timestamp="2011-10-01T18:12:49Z" uid="403964" user="bartekent" changeset="9444620">
+    <nd ref="348963893"/>
+    <nd ref="348963895"/>
+    <nd ref="1450966030"/>
+    <nd ref="348963897"/>
+    <tag k="highway" v="footway"/>
+    <tag k="marked_trail_green" v="yes"/>
+    <tag k="name" v="zielony"/>
+    <tag k="note" v="MZ-5073-z  SIERAKÓW. PKS ZIELONKA. PKP 38,2km"/>
+    <tag k="ref" v="Zielony szlak"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/WARSZAWA.szlaki.topo.txt)"/>
+  </way>
+  <way id="101006155" version="3" timestamp="2011-10-02T20:01:17Z" uid="403964" user="bartekent" changeset="9454205">
+    <nd ref="348963893"/>
+    <nd ref="1452833519"/>
+    <nd ref="1452832985"/>
+    <nd ref="348963895"/>
+    <nd ref="1450966030"/>
+    <nd ref="348963897"/>
+    <tag k="highway" v="footway"/>
+    <tag k="marked_trail_green" v="yes"/>
+    <tag k="name" v="zielony"/>
+    <tag k="note" v="MZ-5073-z  SIERAKÓW. PKS ZIELONKA. PKP 38,2km"/>
+    <tag k="ref" v="Zielony szlak"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/WARSZAWA.szlaki.topo.txt)"/>
+  </way>
+  <way id="101006157" version="1" timestamp="2011-02-22T16:40:33Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="348953048"/>
+    <nd ref="1022802373"/>
+    <nd ref="348953055"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Nadarzyńska"/>
+    <tag k="reg_ref" v="634"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/KOBYLKA.ulice.txt)"/>
+  </way>
+  <way id="101006157" version="2" timestamp="2011-11-07T01:05:55Z" uid="467703" user="Zbigniew Czernik" changeset="9761452">
+    <nd ref="348953048"/>
+    <nd ref="1022802373"/>
+    <nd ref="348953055"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Nadarzyńska"/>
+    <tag k="ref" v="634"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/KOBYLKA.ulice.txt)"/>
+  </way>
+  <way id="101006157" version="3" timestamp="2011-11-07T01:10:47Z" uid="467703" user="Zbigniew Czernik" changeset="9761452">
+    <nd ref="348953048"/>
+    <nd ref="1022802373"/>
+    <nd ref="348953055"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Nadarzyńska"/>
+    <tag k="ref" v="634"/>
+  </way>
+  <way id="101006159" version="1" timestamp="2011-02-22T16:40:33Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="348946025"/>
+    <nd ref="348946024"/>
+    <nd ref="348946012"/>
+    <nd ref="348946013"/>
+    <tag k="highway" v="cycleway"/>
+    <tag k="marked_trail_green" v="yes"/>
+    <tag k="name" v="zielony czarny rowerowy"/>
+    <tag k="ref" v="Zielony szlak"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/WARSZAWA.szlaki.topo.txt)"/>
+  </way>
+  <way id="101006159" version="2" timestamp="2011-02-22T16:51:08Z" uid="20587" user="balrog-kun" changeset="7364993"/>
+  <way id="101006160" version="1" timestamp="2011-02-22T16:40:33Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="1166675727"/>
+    <nd ref="1166675517"/>
+    <tag k="highway" v="living_street"/>
+  </way>
+  <way id="101006160" version="2" timestamp="2011-08-25T10:47:57Z" uid="489358" user="poktam" changeset="9120208">
+    <nd ref="1166675727"/>
+    <nd ref="1166675517"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="101006161" version="1" timestamp="2011-02-22T16:40:33Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="1166675909"/>
+    <nd ref="1166675667"/>
+    <nd ref="1166675492"/>
+    <nd ref="1166675887"/>
+    <nd ref="390295884"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="101006162" version="1" timestamp="2011-02-22T16:40:34Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="348945551"/>
+    <nd ref="348945550"/>
+    <nd ref="348945589"/>
+    <nd ref="348945588"/>
+    <nd ref="348945586"/>
+    <nd ref="348944306"/>
+    <tag k="addr:city" v="Kobyłka"/>
+    <tag k="addr:street" v="Gościniec"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/WOLOMIN.drogi.txt)"/>
+  </way>
+  <way id="101006162" version="2" timestamp="2011-09-27T22:13:13Z" uid="403964" user="bartekent" changeset="9415357">
+    <nd ref="348945551"/>
+    <nd ref="348945550"/>
+    <nd ref="348945589"/>
+    <nd ref="348945588"/>
+    <nd ref="1447505100"/>
+    <nd ref="348945586"/>
+    <nd ref="1447505243"/>
+    <nd ref="348944306"/>
+    <tag k="addr:city" v="Kobyłka"/>
+    <tag k="addr:street" v="Gościniec"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/WOLOMIN.drogi.txt)"/>
+  </way>
+  <way id="101006162" version="3" timestamp="2011-10-02T19:20:39Z" uid="403964" user="bartekent" changeset="9454205">
+    <nd ref="348945551"/>
+    <nd ref="348945550"/>
+    <nd ref="348945589"/>
+    <nd ref="348945588"/>
+    <nd ref="1447505100"/>
+    <nd ref="348945586"/>
+    <nd ref="1447505243"/>
+    <nd ref="1452743391"/>
+    <nd ref="348944306"/>
+    <tag k="addr:city" v="Kobyłka"/>
+    <tag k="addr:street" v="Gościniec"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/WOLOMIN.drogi.txt)"/>
+  </way>
+  <way id="101006163" version="1" timestamp="2011-02-22T16:40:34Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="335727938"/>
+    <nd ref="1022806093"/>
+    <nd ref="861500834"/>
+    <nd ref="1022804669"/>
+    <nd ref="1022809248"/>
+    <nd ref="1022802728"/>
+    <nd ref="1022809383"/>
+    <nd ref="348944914"/>
+    <nd ref="1022799487"/>
+    <nd ref="1022805034"/>
+    <nd ref="1022801958"/>
+    <nd ref="348943921"/>
+    <tag k="addr:city" v="Ossów"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Matarewicza"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/WOLOMIN.drogi.txt)"/>
+  </way>
+  <way id="101006163" version="2" timestamp="2011-10-04T19:45:02Z" uid="403964" user="bartekent" changeset="9472205">
+    <nd ref="335727938"/>
+    <nd ref="1022806093"/>
+    <nd ref="861500834"/>
+    <nd ref="1455269478"/>
+    <nd ref="1022804669"/>
+    <nd ref="1455269426"/>
+    <nd ref="1022809248"/>
+    <nd ref="1022802728"/>
+    <nd ref="1022809383"/>
+    <nd ref="348944914"/>
+    <nd ref="1022799487"/>
+    <nd ref="1022805034"/>
+    <nd ref="1022801958"/>
+    <nd ref="1455269401"/>
+    <nd ref="1455269543"/>
+    <nd ref="1455269396"/>
+    <nd ref="348943921"/>
+    <tag k="addr:city" v="Ossów"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Matarewicza"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/WOLOMIN.drogi.txt)"/>
+  </way>
+  <way id="101006165" version="1" timestamp="2011-02-22T16:40:35Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="348963757"/>
+    <nd ref="1022804579"/>
+    <nd ref="348953048"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Nadarzyńska"/>
+    <tag k="reg_ref" v="634"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/KOBYLKA.ulice.txt)"/>
+  </way>
+  <way id="101006165" version="2" timestamp="2011-11-07T01:05:14Z" uid="467703" user="Zbigniew Czernik" changeset="9761452">
+    <nd ref="348963757"/>
+    <nd ref="1022804579"/>
+    <nd ref="348953048"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Nadarzyńska"/>
+    <tag k="ref" v="634"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/KOBYLKA.ulice.txt)"/>
+  </way>
+  <way id="101006165" version="3" timestamp="2011-11-07T01:08:12Z" uid="467703" user="Zbigniew Czernik" changeset="9761452">
+    <nd ref="348963757"/>
+    <nd ref="1022804579"/>
+    <nd ref="348953048"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Nadarzyńska"/>
+    <tag k="ref" v="634"/>
+  </way>
+  <way id="101006166" version="1" timestamp="2011-02-22T16:40:35Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="348946033"/>
+    <nd ref="348960888"/>
+    <nd ref="348960813"/>
+    <nd ref="348960328"/>
+    <nd ref="348946051"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Słoneczna"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/MARKI.ulice.txt)"/>
+  </way>
+  <way id="101006166" version="2" timestamp="2011-08-19T15:42:54Z" uid="373244" user="Tomaszg" changeset="9066740">
+    <nd ref="348946033"/>
+    <nd ref="348960888"/>
+    <nd ref="348960813"/>
+    <nd ref="348960328"/>
+    <nd ref="348946051"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Słoneczna"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/MARKI.ulice.txt)"/>
+  </way>
+  <way id="101006166" version="3" timestamp="2011-10-15T09:23:55Z" uid="403964" user="bartekent" changeset="9561757">
+    <nd ref="348946033"/>
+    <nd ref="348960888"/>
+    <nd ref="348960813"/>
+    <nd ref="1467986556"/>
+    <nd ref="348960328"/>
+    <nd ref="348946051"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Słoneczna"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/MARKI.ulice.txt)"/>
+  </way>
+  <way id="101006166" version="4" timestamp="2012-01-30T20:28:38Z" uid="467703" user="Zbigniew Czernik" changeset="10543477">
+    <nd ref="348946033"/>
+    <nd ref="348960888"/>
+    <nd ref="348960813"/>
+    <nd ref="1467986556"/>
+    <nd ref="348960328"/>
+    <nd ref="348946051"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Słoneczna"/>
+  </way>
+  <way id="101006168" version="1" timestamp="2011-02-22T16:40:35Z" uid="20587" user="balrog-kun" changeset="7364993">
+    <nd ref="348964251"/>
+    <nd ref="348964283"/>
+    <nd ref="348964281"/>
+    <nd ref="348964259"/>
+    <nd ref="348964257"/>
+    <nd ref="348964262"/>
+    <nd ref="348964260"/>
+    <nd ref="348964266"/>
+    <nd ref="348964264"/>
+    <nd ref="1022801259"/>
+    <nd ref="348964293"/>
+    <nd ref="348964295"/>
+    <nd ref="348964274"/>
+    <nd ref="348964272"/>
+    <nd ref="348964277"/>
+    <nd ref="1022805926"/>
+    <nd ref="348964275"/>
+    <nd ref="348963905"/>
+    <nd ref="348963903"/>
+    <nd ref="348963876"/>
+    <nd ref="348963878"/>
+    <nd ref="348963952"/>
+    <nd ref="348963950"/>
+    <nd ref="348963941"/>
+    <nd ref="348963939"/>
+    <nd ref="348945551"/>
+    <tag k="highway" v="footway"/>
+    <tag k="marked_trail_green" v="yes"/>
+    <tag k="name" v="zielony"/>
+    <tag k="note" v="MZ-5073-z  SIERAKÓW. PKS ZIELONKA. PKP 38,2km"/>
+    <tag k="ref" v="Zielony szlak"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/WARSZAWA.szlaki.topo.txt)"/>
+  </way>
+  <way id="101006168" version="2" timestamp="2011-09-29T00:54:38Z" uid="403964" user="bartekent" changeset="9423479">
+    <nd ref="348964251"/>
+    <nd ref="348964283"/>
+    <nd ref="348964281"/>
+    <nd ref="348964259"/>
+    <nd ref="348964257"/>
+    <nd ref="348964262"/>
+    <nd ref="348964260"/>
+    <nd ref="348964266"/>
+    <nd ref="348964264"/>
+    <nd ref="1022801259"/>
+    <nd ref="348964293"/>
+    <nd ref="348964295"/>
+    <nd ref="348964274"/>
+    <nd ref="348964272"/>
+    <nd ref="348964277"/>
+    <nd ref="1022805926"/>
+    <nd ref="348964275"/>
+    <nd ref="348963905"/>
+    <nd ref="348963903"/>
+    <nd ref="348963876"/>
+    <nd ref="348963878"/>
+    <nd ref="348963952"/>
+    <nd ref="348963950"/>
+    <nd ref="1448554568"/>
+    <nd ref="348963941"/>
+    <nd ref="348963939"/>
+    <nd ref="348945551"/>
+    <tag k="highway" v="footway"/>
+    <tag k="marked_trail_green" v="yes"/>
+    <tag k="name" v="zielony"/>
+    <tag k="note" v="MZ-5073-z  SIERAKÓW. PKS ZIELONKA. PKP 38,2km"/>
+    <tag k="ref" v="Zielony szlak"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/WARSZAWA.szlaki.topo.txt)"/>
+  </way>
+  <way id="101006260" version="2" timestamp="2011-03-12T11:12:32Z" uid="66036" user="h4v" changeset="7531933">
+    <nd ref="1166677615"/>
+    <nd ref="1166677623"/>
+    <nd ref="1166677647"/>
+    <nd ref="1166677605"/>
+    <nd ref="1166677630"/>
+    <nd ref="1166677634"/>
+    <nd ref="1166677645"/>
+    <nd ref="1166677648"/>
+    <nd ref="1166677609"/>
+    <nd ref="1166677613"/>
+    <nd ref="1166677611"/>
+    <nd ref="1166677644"/>
+    <nd ref="1166677598"/>
+    <nd ref="1166677593"/>
+    <nd ref="1166677621"/>
+    <nd ref="1166677603"/>
+    <nd ref="1166677601"/>
+    <nd ref="1166677597"/>
+    <nd ref="1166677646"/>
+    <nd ref="1166677628"/>
+    <nd ref="1166677633"/>
+    <nd ref="1166677600"/>
+    <nd ref="1166677615"/>
+    <tag k="area" v="yes"/>
+    <tag k="layer" v="1"/>
+    <tag k="railway" v="platform"/>
+  </way>
+  <way id="101006260" version="3" timestamp="2011-03-13T18:11:15Z" uid="66036" user="h4v" changeset="7548340">
+    <nd ref="1166677615"/>
+    <nd ref="1166677623"/>
+    <nd ref="1166677647"/>
+    <nd ref="1166677605"/>
+    <nd ref="1166677630"/>
+    <nd ref="1166677634"/>
+    <nd ref="1166677645"/>
+    <nd ref="1166677648"/>
+    <nd ref="1166677609"/>
+    <nd ref="1166677613"/>
+    <nd ref="1166677611"/>
+    <nd ref="1166677598"/>
+    <nd ref="1166677593"/>
+    <nd ref="1166677621"/>
+    <nd ref="1166677603"/>
+    <nd ref="1166677601"/>
+    <nd ref="1166677597"/>
+    <nd ref="1166677646"/>
+    <nd ref="1166677628"/>
+    <nd ref="1166677633"/>
+    <nd ref="1166677600"/>
+    <nd ref="1166677615"/>
+    <tag k="area" v="yes"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="2"/>
+    <tag k="railway" v="platform"/>
+  </way>
+  <way id="101006260" version="4" timestamp="2011-03-20T22:33:21Z" uid="338611" user="marek kleciak" changeset="7622734">
+    <nd ref="1166677615"/>
+    <nd ref="1166677623"/>
+    <nd ref="1166677647"/>
+    <nd ref="1166677605"/>
+    <nd ref="1166677630"/>
+    <nd ref="1166677634"/>
+    <nd ref="1166677645"/>
+    <nd ref="1166677648"/>
+    <nd ref="1166677609"/>
+    <nd ref="1166677613"/>
+    <nd ref="1166677611"/>
+    <nd ref="1166677598"/>
+    <nd ref="1166677593"/>
+    <nd ref="1166677621"/>
+    <nd ref="1166677603"/>
+    <nd ref="1166677601"/>
+    <nd ref="1166677597"/>
+    <nd ref="1166677646"/>
+    <nd ref="1166677628"/>
+    <nd ref="1166677633"/>
+    <nd ref="1166677600"/>
+    <nd ref="1166677615"/>
+    <tag k="area" v="yes"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="peron 2"/>
+    <tag k="railway" v="platform"/>
+  </way>
+  <way id="101006262" version="3" timestamp="2011-03-12T11:12:28Z" uid="66036" user="h4v" changeset="7531933">
+    <nd ref="1166677629"/>
+    <nd ref="1166677638"/>
+    <nd ref="1166677622"/>
+    <nd ref="1166677606"/>
+    <nd ref="1166677631"/>
+    <nd ref="1166677599"/>
+    <nd ref="1166698321"/>
+    <nd ref="1166698336"/>
+    <nd ref="1166698328"/>
+    <nd ref="1166698332"/>
+    <nd ref="1166677612"/>
+    <nd ref="1166677602"/>
+    <nd ref="1166677618"/>
+    <nd ref="1166677595"/>
+    <nd ref="1166677636"/>
+    <nd ref="1166677649"/>
+    <nd ref="1166677620"/>
+    <nd ref="1166677639"/>
+    <nd ref="1166677635"/>
+    <nd ref="1166677594"/>
+    <nd ref="1166677650"/>
+    <nd ref="1166677629"/>
+    <tag k="area" v="yes"/>
+    <tag k="layer" v="1"/>
+    <tag k="railway" v="platform"/>
+  </way>
+  <way id="101006262" version="4" timestamp="2011-03-13T18:11:12Z" uid="66036" user="h4v" changeset="7548340">
+    <nd ref="1166677629"/>
+    <nd ref="1166677638"/>
+    <nd ref="1166677622"/>
+    <nd ref="1166677606"/>
+    <nd ref="1166677631"/>
+    <nd ref="1166677599"/>
+    <nd ref="1166698321"/>
+    <nd ref="1166698336"/>
+    <nd ref="1166698328"/>
+    <nd ref="1166698332"/>
+    <nd ref="1166677612"/>
+    <nd ref="1166677602"/>
+    <nd ref="1166677618"/>
+    <nd ref="1166677595"/>
+    <nd ref="1166677636"/>
+    <nd ref="1166677649"/>
+    <nd ref="1166677620"/>
+    <nd ref="1166677639"/>
+    <nd ref="1166677635"/>
+    <nd ref="1166677594"/>
+    <nd ref="1166677650"/>
+    <nd ref="1166677629"/>
+    <tag k="area" v="yes"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="3"/>
+    <tag k="railway" v="platform"/>
+  </way>
+  <way id="101006262" version="5" timestamp="2011-03-20T22:32:41Z" uid="338611" user="marek kleciak" changeset="7622734">
+    <nd ref="1166677629"/>
+    <nd ref="1166677638"/>
+    <nd ref="1166677622"/>
+    <nd ref="1166677606"/>
+    <nd ref="1166677631"/>
+    <nd ref="1166677599"/>
+    <nd ref="1166698321"/>
+    <nd ref="1166698336"/>
+    <nd ref="1166698328"/>
+    <nd ref="1166698332"/>
+    <nd ref="1166677612"/>
+    <nd ref="1166677602"/>
+    <nd ref="1166677618"/>
+    <nd ref="1166677595"/>
+    <nd ref="1166677636"/>
+    <nd ref="1166677649"/>
+    <nd ref="1166677620"/>
+    <nd ref="1166677639"/>
+    <nd ref="1166677635"/>
+    <nd ref="1166677594"/>
+    <nd ref="1166677650"/>
+    <nd ref="1166677629"/>
+    <tag k="area" v="yes"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="peron 3"/>
+    <tag k="railway" v="platform"/>
+  </way>
+  <way id="101006363" version="1" timestamp="2011-02-22T16:42:00Z" uid="115477" user="wowik" changeset="7365016">
+    <nd ref="1166679023"/>
+    <nd ref="1166678858"/>
+    <nd ref="1166679067"/>
+    <nd ref="1166678741"/>
+    <nd ref="1166678945"/>
+    <nd ref="1166678620"/>
+    <nd ref="1166678817"/>
+    <nd ref="1166679043"/>
+    <nd ref="1166678710"/>
+    <nd ref="1166678914"/>
+    <nd ref="1166678600"/>
+    <nd ref="1166678790"/>
+    <nd ref="1166678998"/>
+    <nd ref="1166678681"/>
+    <nd ref="1166678883"/>
+    <nd ref="1166679081"/>
+    <nd ref="1166678765"/>
+    <nd ref="1166678966"/>
+    <nd ref="1166679023"/>
+    <tag k="natural" v="water"/>
+  </way>
+  <way id="101006365" version="1" timestamp="2011-02-22T16:42:00Z" uid="115477" user="wowik" changeset="7365016">
+    <nd ref="654990554"/>
+    <nd ref="654990559"/>
+    <nd ref="654990563"/>
+    <nd ref="654990567"/>
+    <nd ref="654990570"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="101006367" version="1" timestamp="2011-02-22T16:42:00Z" uid="115477" user="wowik" changeset="7365016">
+    <nd ref="660895917"/>
+    <nd ref="660895915"/>
+    <nd ref="660895914"/>
+    <tag k="highway" v="unclassified"/>
+  </way>
+  <way id="101006372" version="1" timestamp="2011-02-22T16:42:00Z" uid="115477" user="wowik" changeset="7365016">
+    <nd ref="1166678654"/>
+    <nd ref="1166679020"/>
+    <nd ref="1166678694"/>
+    <nd ref="1166678895"/>
+    <nd ref="1166679095"/>
+    <nd ref="1166678785"/>
+    <nd ref="1166678985"/>
+    <nd ref="1166678662"/>
+    <nd ref="1166678864"/>
+    <nd ref="1166679068"/>
+    <nd ref="1166678743"/>
+    <nd ref="1166678948"/>
+    <nd ref="1166678627"/>
+    <nd ref="1166678829"/>
+    <nd ref="1166679044"/>
+    <nd ref="1166678711"/>
+    <nd ref="1166678916"/>
+    <nd ref="1166678602"/>
+    <nd ref="1166678793"/>
+    <nd ref="1166679009"/>
+    <nd ref="1166678686"/>
+    <nd ref="1166678888"/>
+    <nd ref="1166679085"/>
+    <nd ref="1166678771"/>
+    <nd ref="1166678971"/>
+    <nd ref="1166678646"/>
+    <nd ref="1166678856"/>
+    <nd ref="1166679064"/>
+    <nd ref="1166678738"/>
+    <nd ref="1166678942"/>
+    <nd ref="1166678618"/>
+    <nd ref="1166678815"/>
+    <nd ref="1166679028"/>
+    <nd ref="1166678707"/>
+    <nd ref="1166678908"/>
+    <nd ref="1166679097"/>
+    <nd ref="1166678786"/>
+    <nd ref="1166678988"/>
+    <nd ref="1166678666"/>
+    <nd ref="1166678866"/>
+    <nd ref="1166679069"/>
+    <nd ref="1166678747"/>
+    <nd ref="1166678952"/>
+    <nd ref="1166678630"/>
+    <nd ref="1166678833"/>
+    <nd ref="1166679045"/>
+    <nd ref="1166678712"/>
+    <nd ref="1166678917"/>
+    <nd ref="1166678603"/>
+    <nd ref="1166678805"/>
+    <nd ref="1166678654"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="boundary" v="administrative"/>
+  </way>
+  <way id="101006372" version="2" timestamp="2011-07-28T11:41:57Z" uid="411448" user="Beefeater" changeset="8853752">
+    <nd ref="1166678654"/>
+    <nd ref="1166679020"/>
+    <nd ref="1166678694"/>
+    <nd ref="1166678895"/>
+    <nd ref="1166679095"/>
+    <nd ref="1166678785"/>
+    <nd ref="1166678985"/>
+    <nd ref="1166678662"/>
+    <nd ref="1166678864"/>
+    <nd ref="1166679068"/>
+    <nd ref="1166678743"/>
+    <nd ref="1166678948"/>
+    <nd ref="1166678627"/>
+    <nd ref="1166678829"/>
+    <nd ref="1166679044"/>
+    <nd ref="1166678711"/>
+    <nd ref="1166678916"/>
+    <nd ref="1166678602"/>
+    <nd ref="1166678793"/>
+    <nd ref="1166679009"/>
+    <nd ref="1166678686"/>
+    <nd ref="1166678888"/>
+    <nd ref="1166679085"/>
+    <nd ref="1166678771"/>
+    <nd ref="1166678971"/>
+    <nd ref="1166678646"/>
+    <nd ref="1166678856"/>
+    <nd ref="1166679064"/>
+    <nd ref="1166678738"/>
+    <nd ref="1166678942"/>
+    <nd ref="1166678618"/>
+    <nd ref="1166678815"/>
+    <nd ref="1166679028"/>
+    <nd ref="1166678707"/>
+    <nd ref="1166678908"/>
+    <nd ref="1166679097"/>
+    <nd ref="1166678786"/>
+    <nd ref="1166678988"/>
+    <nd ref="1166678666"/>
+    <nd ref="1166678866"/>
+    <nd ref="1166679069"/>
+    <nd ref="1166678747"/>
+    <nd ref="1166678952"/>
+    <nd ref="1376655408"/>
+    <nd ref="1166678630"/>
+    <nd ref="1166678833"/>
+    <nd ref="1166679045"/>
+    <nd ref="1166678712"/>
+    <nd ref="1166678917"/>
+    <nd ref="1166678603"/>
+    <nd ref="1166678805"/>
+    <nd ref="1166678654"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="boundary" v="administrative"/>
+  </way>
+  <way id="101006372" version="3" timestamp="2011-07-29T13:50:35Z" uid="411448" user="Beefeater" changeset="8863598">
+    <nd ref="1166678654"/>
+    <nd ref="1166679095"/>
+    <nd ref="1166678662"/>
+    <nd ref="1166678864"/>
+    <nd ref="1166678815"/>
+    <nd ref="1166679028"/>
+    <nd ref="1166678707"/>
+    <nd ref="1166678908"/>
+    <nd ref="1166678988"/>
+    <nd ref="1166678666"/>
+    <nd ref="1166679069"/>
+    <nd ref="1166678747"/>
+    <nd ref="1376655408"/>
+    <nd ref="1166678630"/>
+    <nd ref="1166678833"/>
+    <nd ref="1166679045"/>
+    <nd ref="1166678712"/>
+    <nd ref="1166678917"/>
+    <nd ref="1166678603"/>
+    <nd ref="1166678805"/>
+    <nd ref="1166678654"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="boundary" v="administrative"/>
+  </way>
+  <way id="101006372" version="4" timestamp="2011-08-26T16:26:21Z" uid="347929" user="hint" changeset="9130237">
+    <nd ref="1166678654"/>
+    <nd ref="1166679095"/>
+    <nd ref="1166678662"/>
+    <nd ref="1166678864"/>
+    <nd ref="1166678815"/>
+    <nd ref="1166679028"/>
+    <nd ref="1166678707"/>
+    <nd ref="1166678908"/>
+    <nd ref="1166678988"/>
+    <nd ref="1166678666"/>
+    <nd ref="1166679069"/>
+    <nd ref="1166678747"/>
+    <nd ref="1376655408"/>
+    <nd ref="1166678630"/>
+    <nd ref="1166678833"/>
+    <nd ref="1166679045"/>
+    <nd ref="1166678712"/>
+    <nd ref="1166678917"/>
+    <nd ref="1166678603"/>
+    <nd ref="1166678805"/>
+    <nd ref="1166678654"/>
+  </way>
+  <way id="101006372" version="5" timestamp="2011-10-03T17:38:14Z" uid="411448" user="Beefeater" changeset="9462402">
+    <nd ref="1166678654"/>
+    <nd ref="1166679095"/>
+    <nd ref="1166678662"/>
+    <nd ref="1166678864"/>
+    <nd ref="1166678815"/>
+    <nd ref="1166679028"/>
+    <nd ref="1166678707"/>
+    <nd ref="1166678908"/>
+    <nd ref="1166678988"/>
+    <nd ref="1166678666"/>
+    <nd ref="1166679069"/>
+    <nd ref="1166678747"/>
+    <nd ref="1376655408"/>
+    <nd ref="1166678630"/>
+    <nd ref="1166678833"/>
+    <nd ref="1166679045"/>
+    <nd ref="1166678712"/>
+    <nd ref="1166678917"/>
+    <nd ref="1166678603"/>
+    <nd ref="1166678805"/>
+    <nd ref="1166678654"/>
+    <tag k="landuse" v="residential"/>
+    <tag k="name" v="Спиридово"/>
+  </way>
+  <way id="101006372" version="6" timestamp="2012-02-09T12:29:44Z" uid="277330" user="xande almeida" changeset="10633379">
+    <nd ref="1166678654"/>
+    <nd ref="1166679095"/>
+    <nd ref="1166678662"/>
+    <nd ref="1166678864"/>
+    <nd ref="1166678815"/>
+    <nd ref="1166679028"/>
+    <nd ref="1166678707"/>
+    <nd ref="1166678908"/>
+    <nd ref="1166678988"/>
+    <nd ref="1166678666"/>
+    <nd ref="1166679069"/>
+    <nd ref="1166678747"/>
+    <nd ref="1376655408"/>
+    <nd ref="1166678630"/>
+    <nd ref="1166678833"/>
+    <nd ref="1166679045"/>
+    <nd ref="1166678712"/>
+    <nd ref="1166678917"/>
+    <nd ref="1166678603"/>
+    <nd ref="1166678805"/>
+    <nd ref="1166678654"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <way id="101006377" version="1" timestamp="2011-02-22T16:42:01Z" uid="115477" user="wowik" changeset="7365016">
+    <nd ref="1166678621"/>
+    <nd ref="1166678990"/>
+    <nd ref="1166678667"/>
+    <nd ref="1166678868"/>
+    <nd ref="1166679070"/>
+    <nd ref="1166678748"/>
+    <nd ref="1166678956"/>
+    <nd ref="1166678631"/>
+    <nd ref="1166678835"/>
+    <nd ref="1166679048"/>
+    <nd ref="1166678621"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="boundary" v="administrative"/>
+  </way>
+  <way id="101006377" version="2" timestamp="2011-08-26T16:26:22Z" uid="347929" user="hint" changeset="9130237">
+    <nd ref="1166678621"/>
+    <nd ref="1166678990"/>
+    <nd ref="1166678667"/>
+    <nd ref="1166678868"/>
+    <nd ref="1166679070"/>
+    <nd ref="1166678748"/>
+    <nd ref="1166678956"/>
+    <nd ref="1166678631"/>
+    <nd ref="1166678835"/>
+    <nd ref="1166679048"/>
+    <nd ref="1166678621"/>
+  </way>
+  <way id="101006377" version="3" timestamp="2011-10-11T15:38:19Z" uid="65083" user="deep125" changeset="9531589">
+    <nd ref="1166678621"/>
+    <nd ref="1166678990"/>
+    <nd ref="1166678667"/>
+    <nd ref="1166678868"/>
+    <nd ref="1166679070"/>
+    <nd ref="1166678748"/>
+    <nd ref="1166678956"/>
+    <nd ref="1166678631"/>
+    <nd ref="1166678835"/>
+    <nd ref="1166679048"/>
+    <nd ref="1166678621"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <way id="101006381" version="1" timestamp="2011-02-22T16:42:01Z" uid="115477" user="wowik" changeset="7365016">
+    <nd ref="660895918"/>
+    <nd ref="660895919"/>
+    <nd ref="660895916"/>
+    <nd ref="660895917"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="101006381" version="2" timestamp="2011-10-24T14:26:34Z" uid="102437" user="_solitary_" changeset="9643954">
+    <nd ref="660895918"/>
+    <nd ref="1479119277"/>
+    <nd ref="660895919"/>
+    <nd ref="660895916"/>
+    <nd ref="660895917"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="101006382" version="1" timestamp="2011-02-22T16:42:01Z" uid="115477" user="wowik" changeset="7365016">
+    <nd ref="1166678732"/>
+    <nd ref="1166679088"/>
+    <nd ref="660896028"/>
+    <nd ref="1166678614"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="101006382" version="2" timestamp="2011-06-25T06:58:46Z" uid="102437" user="_solitary_" changeset="8539333"/>
+  <way id="101006386" version="1" timestamp="2011-02-22T16:42:01Z" uid="115477" user="wowik" changeset="7365016">
+    <nd ref="1166678659"/>
+    <nd ref="1166679040"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="101006386" version="2" timestamp="2011-06-25T06:58:45Z" uid="102437" user="_solitary_" changeset="8539333"/>
+  <way id="101006387" version="1" timestamp="2011-02-22T16:42:01Z" uid="115477" user="wowik" changeset="7365016">
+    <nd ref="1166678819"/>
+    <nd ref="1166678669"/>
+    <nd ref="1166678870"/>
+    <nd ref="1166679075"/>
+    <nd ref="1166678754"/>
+    <nd ref="1166678958"/>
+    <nd ref="1166678633"/>
+    <nd ref="1166678837"/>
+    <nd ref="1166679050"/>
+    <nd ref="1166678713"/>
+    <nd ref="1166678927"/>
+    <nd ref="1166678609"/>
+    <nd ref="1166679042"/>
+    <nd ref="1166678709"/>
+    <nd ref="1166678913"/>
+    <nd ref="1166678599"/>
+    <nd ref="1166678788"/>
+    <nd ref="1166678995"/>
+    <nd ref="1166678679"/>
+    <nd ref="1166678881"/>
+    <nd ref="1166679079"/>
+    <nd ref="1166678762"/>
+    <nd ref="1166678962"/>
+    <nd ref="1166678640"/>
+    <nd ref="1166678841"/>
+    <nd ref="1166678819"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="boundary" v="administrative"/>
+  </way>
+  <way id="101006387" version="2" timestamp="2011-08-26T16:26:23Z" uid="347929" user="hint" changeset="9130237">
+    <nd ref="1166678819"/>
+    <nd ref="1166678669"/>
+    <nd ref="1166678870"/>
+    <nd ref="1166679075"/>
+    <nd ref="1166678754"/>
+    <nd ref="1166678958"/>
+    <nd ref="1166678633"/>
+    <nd ref="1166678837"/>
+    <nd ref="1166679050"/>
+    <nd ref="1166678713"/>
+    <nd ref="1166678927"/>
+    <nd ref="1166678609"/>
+    <nd ref="1166679042"/>
+    <nd ref="1166678709"/>
+    <nd ref="1166678913"/>
+    <nd ref="1166678599"/>
+    <nd ref="1166678788"/>
+    <nd ref="1166678995"/>
+    <nd ref="1166678679"/>
+    <nd ref="1166678881"/>
+    <nd ref="1166679079"/>
+    <nd ref="1166678762"/>
+    <nd ref="1166678962"/>
+    <nd ref="1166678640"/>
+    <nd ref="1166678841"/>
+    <nd ref="1166678819"/>
+  </way>
+  <way id="101006387" version="3" timestamp="2011-10-17T17:17:15Z" uid="411448" user="Beefeater" changeset="9584003">
+    <nd ref="1166678819"/>
+    <nd ref="1166678669"/>
+    <nd ref="1166678870"/>
+    <nd ref="1166679075"/>
+    <nd ref="1166678754"/>
+    <nd ref="1166678958"/>
+    <nd ref="1166678633"/>
+    <nd ref="1166678837"/>
+    <nd ref="1166679050"/>
+    <nd ref="1166678713"/>
+    <nd ref="1166678927"/>
+    <nd ref="1166678609"/>
+    <nd ref="1166679042"/>
+    <nd ref="1166678709"/>
+    <nd ref="1166678913"/>
+    <nd ref="1166678599"/>
+    <nd ref="1166678788"/>
+    <nd ref="1166678995"/>
+    <nd ref="1166678679"/>
+    <nd ref="1166678881"/>
+    <nd ref="1166679079"/>
+    <nd ref="1166678762"/>
+    <nd ref="1166678962"/>
+    <nd ref="1166678640"/>
+    <nd ref="1166678841"/>
+    <nd ref="1166678819"/>
+    <tag k="landuse" v="residential"/>
+    <tag k="name" v="Слободка"/>
+  </way>
+  <way id="101006389" version="1" timestamp="2011-02-22T16:42:02Z" uid="115477" user="wowik" changeset="7365016">
+    <nd ref="654990570"/>
+    <nd ref="654990571"/>
+    <nd ref="654990572"/>
+    <nd ref="654990573"/>
+    <nd ref="654990576"/>
+    <nd ref="654990579"/>
+    <nd ref="654990582"/>
+    <nd ref="654990586"/>
+    <nd ref="654990589"/>
+    <nd ref="654990593"/>
+    <nd ref="654990597"/>
+    <nd ref="654990601"/>
+    <nd ref="654990604"/>
+    <nd ref="654990608"/>
+    <nd ref="654990612"/>
+    <nd ref="654990616"/>
+    <nd ref="654990622"/>
+    <nd ref="654990625"/>
+    <nd ref="654990634"/>
+    <nd ref="654990635"/>
+    <nd ref="654990639"/>
+    <nd ref="448141884"/>
+    <tag k="highway" v="unclassified"/>
+  </way>
+  <way id="101006389" version="2" timestamp="2011-07-28T11:41:58Z" uid="411448" user="Beefeater" changeset="8853752">
+    <nd ref="654990570"/>
+    <nd ref="654990571"/>
+    <nd ref="654990572"/>
+    <nd ref="654990573"/>
+    <nd ref="654990576"/>
+    <nd ref="654990579"/>
+    <nd ref="654990582"/>
+    <nd ref="654990586"/>
+    <nd ref="654990589"/>
+    <nd ref="654990593"/>
+    <nd ref="654990597"/>
+    <nd ref="654990601"/>
+    <nd ref="654990604"/>
+    <nd ref="654990608"/>
+    <nd ref="654990612"/>
+    <nd ref="654990616"/>
+    <nd ref="654990622"/>
+    <nd ref="654990625"/>
+    <nd ref="654990634"/>
+    <nd ref="654990635"/>
+    <nd ref="654990639"/>
+    <nd ref="448141884"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="101006389" version="3" timestamp="2011-07-31T11:15:32Z" uid="168188" user="s-s-s" changeset="8879879">
+    <nd ref="654990570"/>
+    <nd ref="654990571"/>
+    <nd ref="654990572"/>
+    <nd ref="654990573"/>
+    <nd ref="654990576"/>
+    <nd ref="654990579"/>
+    <nd ref="654990582"/>
+    <nd ref="654990586"/>
+    <nd ref="654990589"/>
+    <nd ref="654990593"/>
+    <nd ref="654990597"/>
+    <nd ref="654990601"/>
+    <nd ref="654990604"/>
+    <nd ref="654990608"/>
+    <nd ref="654990612"/>
+    <nd ref="654990616"/>
+    <nd ref="654990622"/>
+    <nd ref="654990625"/>
+    <nd ref="654990634"/>
+    <nd ref="654990635"/>
+    <nd ref="654990639"/>
+    <nd ref="448141884"/>
+    <tag k="highway" v="unclassified"/>
+  </way>
+  <way id="101006389" version="4" timestamp="2011-10-24T14:26:33Z" uid="102437" user="_solitary_" changeset="9643954">
+    <nd ref="654990570"/>
+    <nd ref="654990571"/>
+    <nd ref="654990572"/>
+    <nd ref="654990573"/>
+    <nd ref="654990576"/>
+    <nd ref="654990579"/>
+    <nd ref="654990582"/>
+    <nd ref="654990586"/>
+    <nd ref="654990589"/>
+    <nd ref="654990593"/>
+    <nd ref="654990597"/>
+    <nd ref="654990601"/>
+    <nd ref="654990604"/>
+    <nd ref="654990608"/>
+    <nd ref="654990612"/>
+    <nd ref="654990616"/>
+    <nd ref="654990622"/>
+    <nd ref="654990625"/>
+    <nd ref="654990634"/>
+    <nd ref="654990635"/>
+    <nd ref="1479119289"/>
+    <nd ref="654990639"/>
+    <nd ref="1479119286"/>
+    <nd ref="1479119282"/>
+    <nd ref="1479119280"/>
+    <nd ref="1479119284"/>
+    <nd ref="448141884"/>
+    <tag k="highway" v="unclassified"/>
+  </way>
+  <way id="101006392" version="1" timestamp="2011-02-22T16:42:02Z" uid="115477" user="wowik" changeset="7365016">
+    <nd ref="1166679011"/>
+    <nd ref="1166678846"/>
+    <nd ref="1166679061"/>
+    <nd ref="1166678716"/>
+    <nd ref="1166678934"/>
+    <nd ref="1166678612"/>
+    <nd ref="1166678810"/>
+    <nd ref="1166679019"/>
+    <nd ref="1166678691"/>
+    <nd ref="1166678892"/>
+    <nd ref="1166679094"/>
+    <nd ref="1166679011"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="boundary" v="administrative"/>
+  </way>
+  <way id="101006392" version="2" timestamp="2011-08-26T16:26:24Z" uid="347929" user="hint" changeset="9130237">
+    <nd ref="1166679011"/>
+    <nd ref="1166678846"/>
+    <nd ref="1166679061"/>
+    <nd ref="1166678716"/>
+    <nd ref="1166678934"/>
+    <nd ref="1166678612"/>
+    <nd ref="1166678810"/>
+    <nd ref="1166679019"/>
+    <nd ref="1166678691"/>
+    <nd ref="1166678892"/>
+    <nd ref="1166679094"/>
+    <nd ref="1166679011"/>
+  </way>
+  <way id="101006392" version="3" timestamp="2011-10-03T17:38:15Z" uid="411448" user="Beefeater" changeset="9462402">
+    <nd ref="1166679011"/>
+    <nd ref="1166678846"/>
+    <nd ref="1166679061"/>
+    <nd ref="1166678716"/>
+    <nd ref="1166678934"/>
+    <nd ref="1166678612"/>
+    <nd ref="1166678810"/>
+    <nd ref="1166679019"/>
+    <nd ref="1166678691"/>
+    <nd ref="1166678892"/>
+    <nd ref="1166679094"/>
+    <nd ref="1166679011"/>
+    <tag k="landuse" v="residential"/>
+    <tag k="name" v="Верхние Выселки"/>
+  </way>
+  <way id="101006392" version="4" timestamp="2012-02-09T12:29:42Z" uid="277330" user="xande almeida" changeset="10633379">
+    <nd ref="1166679011"/>
+    <nd ref="1166678846"/>
+    <nd ref="1166679061"/>
+    <nd ref="1166678716"/>
+    <nd ref="1166678934"/>
+    <nd ref="1166678612"/>
+    <nd ref="1166678810"/>
+    <nd ref="1166679019"/>
+    <nd ref="1166678691"/>
+    <nd ref="1166678892"/>
+    <nd ref="1166679094"/>
+    <nd ref="1166679011"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <way id="101006395" version="1" timestamp="2011-02-22T16:42:02Z" uid="115477" user="wowik" changeset="7365016">
+    <nd ref="1166678812"/>
+    <nd ref="1166678861"/>
+    <nd ref="1166678656"/>
+    <nd ref="1166678975"/>
+    <nd ref="1166678784"/>
+    <nd ref="1166679093"/>
+    <nd ref="1166678891"/>
+    <nd ref="1166678688"/>
+    <nd ref="1166679015"/>
+    <nd ref="1166678808"/>
+    <nd ref="1166678610"/>
+    <nd ref="1166678930"/>
+    <nd ref="1166678715"/>
+    <nd ref="1166679052"/>
+    <nd ref="1166678844"/>
+    <nd ref="1166678757"/>
+    <nd ref="1166678601"/>
+    <nd ref="1166678791"/>
+    <nd ref="1166679001"/>
+    <nd ref="1166678684"/>
+    <nd ref="1166678885"/>
+    <nd ref="1166679084"/>
+    <nd ref="1166678769"/>
+    <nd ref="1166678968"/>
+    <nd ref="1166678643"/>
+    <nd ref="1166678853"/>
+    <nd ref="1166679062"/>
+    <nd ref="1166678735"/>
+    <nd ref="1166678937"/>
+    <nd ref="1166678616"/>
+    <nd ref="1166678812"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="boundary" v="administrative"/>
+  </way>
+  <way id="101006395" version="2" timestamp="2011-08-26T16:26:25Z" uid="347929" user="hint" changeset="9130237">
+    <nd ref="1166678812"/>
+    <nd ref="1166678861"/>
+    <nd ref="1166678656"/>
+    <nd ref="1166678975"/>
+    <nd ref="1166678784"/>
+    <nd ref="1166679093"/>
+    <nd ref="1166678891"/>
+    <nd ref="1166678688"/>
+    <nd ref="1166679015"/>
+    <nd ref="1166678808"/>
+    <nd ref="1166678610"/>
+    <nd ref="1166678930"/>
+    <nd ref="1166678715"/>
+    <nd ref="1166679052"/>
+    <nd ref="1166678844"/>
+    <nd ref="1166678757"/>
+    <nd ref="1166678601"/>
+    <nd ref="1166678791"/>
+    <nd ref="1166679001"/>
+    <nd ref="1166678684"/>
+    <nd ref="1166678885"/>
+    <nd ref="1166679084"/>
+    <nd ref="1166678769"/>
+    <nd ref="1166678968"/>
+    <nd ref="1166678643"/>
+    <nd ref="1166678853"/>
+    <nd ref="1166679062"/>
+    <nd ref="1166678735"/>
+    <nd ref="1166678937"/>
+    <nd ref="1166678616"/>
+    <nd ref="1166678812"/>
+  </way>
+  <way id="101006395" version="3" timestamp="2011-10-17T17:17:16Z" uid="411448" user="Beefeater" changeset="9584003">
+    <nd ref="1166678812"/>
+    <nd ref="1166678861"/>
+    <nd ref="1166678656"/>
+    <nd ref="1166678975"/>
+    <nd ref="1166678784"/>
+    <nd ref="1166679093"/>
+    <nd ref="1166678891"/>
+    <nd ref="1166678688"/>
+    <nd ref="1166679015"/>
+    <nd ref="1166678808"/>
+    <nd ref="1166678610"/>
+    <nd ref="1166678930"/>
+    <nd ref="1166678715"/>
+    <nd ref="1166679052"/>
+    <nd ref="1166678844"/>
+    <nd ref="1166678757"/>
+    <nd ref="1166678601"/>
+    <nd ref="1166678791"/>
+    <nd ref="1166679001"/>
+    <nd ref="1166678684"/>
+    <nd ref="1166678885"/>
+    <nd ref="1166679084"/>
+    <nd ref="1166678769"/>
+    <nd ref="1166678968"/>
+    <nd ref="1166678643"/>
+    <nd ref="1166678853"/>
+    <nd ref="1166679062"/>
+    <nd ref="1166678735"/>
+    <nd ref="1166678937"/>
+    <nd ref="1166678616"/>
+    <nd ref="1166678812"/>
+    <tag k="landuse" v="residential"/>
+    <tag k="name" v="Кувалдино"/>
+  </way>
+  <way id="101006395" version="4" timestamp="2012-02-09T12:29:45Z" uid="277330" user="xande almeida" changeset="10633379">
+    <nd ref="1166678812"/>
+    <nd ref="1166678861"/>
+    <nd ref="1166678656"/>
+    <nd ref="1166678975"/>
+    <nd ref="1166678784"/>
+    <nd ref="1166679093"/>
+    <nd ref="1166678891"/>
+    <nd ref="1166678688"/>
+    <nd ref="1166679015"/>
+    <nd ref="1166678808"/>
+    <nd ref="1166678610"/>
+    <nd ref="1166678930"/>
+    <nd ref="1166678715"/>
+    <nd ref="1166679052"/>
+    <nd ref="1166678844"/>
+    <nd ref="1166678757"/>
+    <nd ref="1166678601"/>
+    <nd ref="1166678791"/>
+    <nd ref="1166679001"/>
+    <nd ref="1166678684"/>
+    <nd ref="1166678885"/>
+    <nd ref="1166679084"/>
+    <nd ref="1166678769"/>
+    <nd ref="1166678968"/>
+    <nd ref="1166678643"/>
+    <nd ref="1166678853"/>
+    <nd ref="1166679062"/>
+    <nd ref="1166678735"/>
+    <nd ref="1166678937"/>
+    <nd ref="1166678616"/>
+    <nd ref="1166678812"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <way id="101006398" version="1" timestamp="2011-02-22T16:42:03Z" uid="115477" user="wowik" changeset="7365016">
+    <nd ref="1166678746"/>
+    <nd ref="1166678597"/>
+    <nd ref="1166678787"/>
+    <nd ref="1166678993"/>
+    <nd ref="1166678671"/>
+    <nd ref="1166678879"/>
+    <nd ref="1166679077"/>
+    <nd ref="1166678760"/>
+    <nd ref="1166678960"/>
+    <nd ref="1166678637"/>
+    <nd ref="1166678838"/>
+    <nd ref="1166678746"/>
+    <tag k="natural" v="water"/>
+  </way>
+  <way id="101006040" version="2" timestamp="2012-07-24T18:49:58Z" uid="722137" user="OSMF Redaction Account" changeset="12473689"/>
+  <way id="101006046" version="3" timestamp="2012-08-24T11:08:47Z" uid="373244" user="Tomekg" changeset="12843212">
+    <nd ref="1153250254"/>
+    <nd ref="1153105571"/>
+    <nd ref="1153105580"/>
+    <tag k="addr:village" v="Nieporęt"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Kościelna"/>
+  </way>
+  <way id="101006047" version="2" timestamp="2012-07-24T18:34:06Z" uid="722137" user="OSMF Redaction Account" changeset="12473364">
+    <nd ref="348951490"/>
+    <nd ref="348953048"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Wacława Nałkowskiego"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/KOBYLKA.ulice.txt)"/>
+  </way>
+  <way id="101006056" version="5" timestamp="2012-07-24T18:33:59Z" uid="722137" user="OSMF Redaction Account" changeset="12473364">
+    <nd ref="348963897"/>
+    <nd ref="1450966017"/>
+    <nd ref="1450503525"/>
+    <nd ref="1022809609"/>
+    <nd ref="348952533"/>
+    <nd ref="348952490"/>
+    <nd ref="348952518"/>
+    <tag k="addr:city" v="Kobyłka"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Wygonowa"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="101006056" version="6" timestamp="2012-09-01T03:22:47Z" uid="760215" user="pnorman redaction revert" changeset="12938278">
+    <nd ref="348963897"/>
+    <nd ref="1450966017"/>
+    <nd ref="1450503525"/>
+    <nd ref="348952533"/>
+    <nd ref="348952490"/>
+    <nd ref="348952518"/>
+    <tag k="addr:city" v="Kobyłka"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Wygonowa"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="101006061" version="3" timestamp="2012-07-24T18:33:54Z" uid="722137" user="OSMF Redaction Account" changeset="12473364">
+    <nd ref="348963913"/>
+    <nd ref="1450503316"/>
+    <nd ref="1450503422"/>
+    <nd ref="1022804262"/>
+    <nd ref="1022799704"/>
+    <nd ref="1450503439"/>
+    <nd ref="1022803113"/>
+    <nd ref="1022799075"/>
+    <nd ref="1022804650"/>
+    <tag k="addr:city" v="Kobyłka"/>
+    <tag k="addr:street" v="Władysława Łokietka"/>
+    <tag k="highway" v="living_street"/>
+  </way>
+  <way id="101006070" version="3" timestamp="2012-07-24T18:30:12Z" uid="722137" user="OSMF Redaction Account" changeset="12473283"/>
+  <way id="101006071" version="6" timestamp="2012-08-30T10:18:57Z" uid="373244" user="Tomekg" changeset="12915097">
+    <nd ref="52808673"/>
+    <nd ref="52808677"/>
+    <nd ref="1401047602"/>
+    <nd ref="52808680"/>
+    <nd ref="1442949413"/>
+    <nd ref="1889591132"/>
+    <nd ref="52808705"/>
+    <nd ref="1442949408"/>
+    <nd ref="1442949410"/>
+    <nd ref="1442872155"/>
+    <nd ref="699594639"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="40"/>
+    <tag k="name" v="Wolska"/>
+  </way>
+  <way id="101006077" version="4" timestamp="2012-08-12T21:19:14Z" uid="489358" user="poktam" changeset="12707250"/>
+  <way id="101006084" version="4" timestamp="2012-09-01T00:18:49Z" uid="822843" user="zamekzamek" changeset="12937744"/>
+  <way id="101006085" version="3" timestamp="2012-07-24T18:33:48Z" uid="722137" user="OSMF Redaction Account" changeset="12473364">
+    <nd ref="348963913"/>
+    <nd ref="1452833447"/>
+    <nd ref="1452833464"/>
+    <nd ref="348952651"/>
+    <tag k="highway" v="footway"/>
+    <tag k="marked_trail_green" v="yes"/>
+    <tag k="name" v="zielony"/>
+    <tag k="note" v="MZ-5073-z  SIERAKÓW. PKS ZIELONKA. PKP 38,2km"/>
+    <tag k="ref" v="Zielony szlak"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/WARSZAWA.szlaki.topo.txt)"/>
+  </way>
+  <way id="101006087" version="3" timestamp="2012-07-24T18:49:57Z" uid="722137" user="OSMF Redaction Account" changeset="12473689"/>
+  <way id="101006088" version="2" timestamp="2012-07-24T18:34:10Z" uid="722137" user="OSMF Redaction Account" changeset="12473364">
+    <nd ref="348964073"/>
+    <nd ref="348963870"/>
+    <tag k="highway" v="footway"/>
+    <tag k="marked_trail_green" v="yes"/>
+    <tag k="name" v="zielony"/>
+    <tag k="note" v="MZ-5073-z  SIERAKÓW. PKS ZIELONKA. PKP 38,2km"/>
+    <tag k="ref" v="Zielony szlak"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/WARSZAWA.szlaki.topo.txt)"/>
+  </way>
+  <way id="101006090" version="2" timestamp="2012-07-24T18:33:47Z" uid="722137" user="OSMF Redaction Account" changeset="12473364">
+    <nd ref="348963937"/>
+    <nd ref="348963911"/>
+    <tag k="highway" v="footway"/>
+    <tag k="marked_trail_green" v="yes"/>
+    <tag k="name" v="zielony"/>
+    <tag k="note" v="MZ-5073-z  SIERAKÓW. PKS ZIELONKA. PKP 38,2km"/>
+    <tag k="ref" v="Zielony szlak"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/WARSZAWA.szlaki.topo.txt)"/>
+  </way>
+  <way id="101006092" version="4" timestamp="2012-08-24T11:08:47Z" uid="373244" user="Tomekg" changeset="12843212">
+    <nd ref="1153105402"/>
+    <nd ref="1153105588"/>
+    <nd ref="1153105522"/>
+    <nd ref="1153105457"/>
+    <nd ref="1153105475"/>
+    <nd ref="1153105419"/>
+    <nd ref="1153105583"/>
+    <nd ref="1153105536"/>
+    <nd ref="1153105449"/>
+    <nd ref="1153105396"/>
+    <nd ref="1153105567"/>
+    <nd ref="1153105515"/>
+    <nd ref="1153105576"/>
+    <nd ref="1153105533"/>
+    <nd ref="1153105471"/>
+    <tag k="addr:village" v="Nieporęt"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Dworcowa"/>
+  </way>
+  <way id="101006092" version="5" timestamp="2012-08-31T15:20:14Z" uid="373244" user="Tomekg" changeset="12932026">
+    <nd ref="1153105402"/>
+    <nd ref="1153105588"/>
+    <nd ref="1153105522"/>
+    <nd ref="1153105457"/>
+    <nd ref="1153105475"/>
+    <nd ref="1153105419"/>
+    <nd ref="1153105583"/>
+    <nd ref="1153105536"/>
+    <nd ref="1153105449"/>
+    <nd ref="1153105396"/>
+    <nd ref="1153105567"/>
+    <nd ref="1153105515"/>
+    <nd ref="1153105576"/>
+    <nd ref="1153105533"/>
+    <nd ref="1153105471"/>
+    <tag k="addr:postcode" v="05-126"/>
+    <tag k="addr:village" v="Nieporęt"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Dworcowa"/>
+  </way>
+  <way id="101006096" version="2" timestamp="2012-07-24T18:34:35Z" uid="722137" user="OSMF Redaction Account" changeset="12473364"/>
+  <way id="101006097" version="3" timestamp="2012-07-24T18:59:52Z" uid="722137" user="OSMF Redaction Account" changeset="12473931"/>
+  <way id="101006098" version="4" timestamp="2012-07-24T18:34:42Z" uid="722137" user="OSMF Redaction Account" changeset="12473364"/>
+  <way id="101006099" version="4" timestamp="2012-07-24T18:34:06Z" uid="722137" user="OSMF Redaction Account" changeset="12473364">
+    <nd ref="348951490"/>
+    <nd ref="1022796706"/>
+    <nd ref="1022803171"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Wspólna"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/KOBYLKA.ulice.txt)"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="101006099" version="5" timestamp="2012-08-30T19:12:21Z" uid="760215" user="pnorman redaction revert" changeset="12922090">
+    <nd ref="348951490"/>
+    <nd ref="1022796706"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Wspólna"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/KOBYLKA.ulice.txt)"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="101006099" version="6" timestamp="2012-09-01T03:22:47Z" uid="760215" user="pnorman redaction revert" changeset="12938278"/>
+  <way id="101006101" version="4" timestamp="2012-07-24T18:30:12Z" uid="722137" user="OSMF Redaction Account" changeset="12473283"/>
+  <way id="101006109" version="5" timestamp="2012-08-24T11:08:47Z" uid="373244" user="Tomekg" changeset="12843212">
+    <nd ref="216206129"/>
+    <nd ref="1153105602"/>
+    <nd ref="1153105539"/>
+    <nd ref="216206137"/>
+    <nd ref="1153105582"/>
+    <nd ref="1154775441"/>
+    <nd ref="216206148"/>
+    <nd ref="216206152"/>
+    <nd ref="216206157"/>
+    <nd ref="1154775683"/>
+    <nd ref="1880640729"/>
+    <nd ref="216206168"/>
+    <nd ref="1154775427"/>
+    <nd ref="216206174"/>
+    <nd ref="1154775527"/>
+    <nd ref="1153105579"/>
+    <tag k="addr:village" v="Nieporęt"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Jana Kazimierza"/>
+    <tag k="ref" v="633"/>
+  </way>
+  <way id="101006114" version="2" timestamp="2012-07-24T18:54:37Z" uid="722137" user="OSMF Redaction Account" changeset="12473786"/>
+  <way id="101006117" version="2" timestamp="2012-07-24T18:34:50Z" uid="722137" user="OSMF Redaction Account" changeset="12473364"/>
+  <way id="101006119" version="2" timestamp="2012-07-24T18:34:35Z" uid="722137" user="OSMF Redaction Account" changeset="12473364"/>
+  <way id="101006122" version="4" timestamp="2012-07-24T18:41:53Z" uid="722137" user="OSMF Redaction Account" changeset="12473514"/>
+  <way id="101006125" version="2" timestamp="2012-07-24T18:34:34Z" uid="722137" user="OSMF Redaction Account" changeset="12473364"/>
+  <way id="101006128" version="2" timestamp="2012-08-24T11:08:48Z" uid="373244" user="Tomekg" changeset="12843212">
+    <nd ref="1153105456"/>
+    <nd ref="216206129"/>
+    <tag k="addr:village" v="Nieporęt"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Jana Kazimierza"/>
+    <tag k="ref" v="633"/>
+  </way>
+  <way id="101006134" version="5" timestamp="2012-07-24T18:29:51Z" uid="722137" user="OSMF Redaction Account" changeset="12473283">
+    <nd ref="348964253"/>
+    <nd ref="1483912463"/>
+    <nd ref="348944747"/>
+    <tag k="addr:city" v="Nadma"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rzeczna"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/WOLOMIN.drogi.txt)"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="101006135" version="3" timestamp="2012-07-24T18:34:19Z" uid="722137" user="OSMF Redaction Account" changeset="12473364">
+    <nd ref="1455269239"/>
+    <nd ref="1455269136"/>
+    <nd ref="1455269532"/>
+    <nd ref="1455269130"/>
+    <nd ref="1455269588"/>
+    <nd ref="1455269301"/>
+  </way>
+  <way id="101006135" version="4" timestamp="2012-07-27T10:44:10Z" uid="244754" user="Janjko" changeset="12509707">
+    <nd ref="1455269239"/>
+    <nd ref="1455269136"/>
+    <nd ref="1455269532"/>
+    <nd ref="1455269130"/>
+    <nd ref="1455269588"/>
+    <nd ref="1455269301"/>
+    <nd ref="348943435"/>
+    <tag k="highway" v="unclassified"/>
+  </way>
+  <way id="101006136" version="3" timestamp="2012-07-24T18:34:46Z" uid="722137" user="OSMF Redaction Account" changeset="12473364"/>
+  <way id="101006141" version="3" timestamp="2012-07-24T18:54:38Z" uid="722137" user="OSMF Redaction Account" changeset="12473786"/>
+  <way id="101006142" version="2" timestamp="2012-07-24T18:34:50Z" uid="722137" user="OSMF Redaction Account" changeset="12473364"/>
+  <way id="101006145" version="2" timestamp="2012-07-24T18:34:07Z" uid="722137" user="OSMF Redaction Account" changeset="12473364">
+    <nd ref="348963845"/>
+    <nd ref="348963757"/>
+    <tag k="highway" v="footway"/>
+    <tag k="marked_trail_green" v="yes"/>
+    <tag k="name" v="zielony"/>
+    <tag k="note" v="MZ-5073-z  SIERAKÓW. PKS ZIELONKA. PKP 38,2km"/>
+    <tag k="ref" v="Zielony szlak"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/WARSZAWA.szlaki.topo.txt)"/>
+  </way>
+  <way id="101006147" version="3" timestamp="2012-08-24T11:08:48Z" uid="373244" user="Tomekg" changeset="12843212">
+    <nd ref="1153105482"/>
+    <nd ref="1153105402"/>
+    <tag k="addr:village" v="Nieporęt"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Dworcowa"/>
+  </way>
+  <way id="101006147" version="4" timestamp="2012-08-31T15:20:14Z" uid="373244" user="Tomekg" changeset="12932026">
+    <nd ref="1153105482"/>
+    <nd ref="1153105402"/>
+    <tag k="addr:postcode" v="05-126"/>
+    <tag k="addr:village" v="Nieporęt"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Dworcowa"/>
+  </way>
+  <way id="101006148" version="3" timestamp="2012-04-27T08:27:25Z" uid="440545" user="manieq" changeset="11430473"/>
+  <way id="101006153" version="4" timestamp="2012-08-12T21:19:13Z" uid="489358" user="poktam" changeset="12707250">
+    <nd ref="1412219427"/>
+    <nd ref="1412219426"/>
+    <nd ref="1412219425"/>
+    <nd ref="1412219424"/>
+    <nd ref="1412219420"/>
+    <nd ref="1412219419"/>
+    <nd ref="1863602503"/>
+    <nd ref="1863602501"/>
+    <nd ref="1863602499"/>
+    <nd ref="1863602496"/>
+    <nd ref="1166675482"/>
+    <nd ref="1166675634"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Brylantowa"/>
+    <tag k="source" v="survey and Bing"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="101006154" version="3" timestamp="2012-07-24T18:58:43Z" uid="722137" user="OSMF Redaction Account" changeset="12473903">
+    <nd ref="1022806445"/>
+    <nd ref="348960350"/>
+    <nd ref="1454255635"/>
+    <nd ref="348959153"/>
+    <nd ref="348960212"/>
+    <nd ref="348960539"/>
+    <nd ref="348960543"/>
+    <nd ref="348960562"/>
+    <nd ref="348960566"/>
+    <nd ref="348960555"/>
+    <nd ref="348960558"/>
+    <nd ref="348960578"/>
+    <nd ref="348960781"/>
+    <nd ref="348960570"/>
+    <nd ref="348960574"/>
+    <nd ref="348960594"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Zajączka"/>
+    <tag k="note" v="Nie dochodzi do Pilsudskiego"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/MARKI.ulice.txt)"/>
+  </way>
+  <way id="101006155" version="4" timestamp="2012-07-24T18:33:57Z" uid="722137" user="OSMF Redaction Account" changeset="12473364">
+    <nd ref="348963893"/>
+    <nd ref="1452833519"/>
+    <nd ref="1452832985"/>
+    <nd ref="1450966030"/>
+    <nd ref="348963897"/>
+    <tag k="highway" v="footway"/>
+    <tag k="marked_trail_green" v="yes"/>
+    <tag k="name" v="zielony"/>
+    <tag k="note" v="MZ-5073-z  SIERAKÓW. PKS ZIELONKA. PKP 38,2km"/>
+    <tag k="ref" v="Zielony szlak"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/WARSZAWA.szlaki.topo.txt)"/>
+  </way>
+  <way id="101006157" version="4" timestamp="2012-07-27T10:44:10Z" uid="244754" user="Janjko" changeset="12509707">
+    <nd ref="348953048"/>
+    <nd ref="1022802373"/>
+    <nd ref="348953055"/>
+    <nd ref="1022798543"/>
+    <nd ref="1839678152"/>
+    <nd ref="1839678139"/>
+    <nd ref="1839678134"/>
+    <nd ref="1839678158"/>
+    <nd ref="1839678115"/>
+    <nd ref="1839678095"/>
+    <nd ref="1022804798"/>
+    <nd ref="1839678137"/>
+    <nd ref="1839678124"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Nadarzyńska"/>
+    <tag k="ref" v="634"/>
+  </way>
+  <way id="101006157" version="5" timestamp="2012-08-07T16:56:43Z" uid="186174" user="michal_f" changeset="12647927">
+    <nd ref="348953048"/>
+    <nd ref="1022802373"/>
+    <nd ref="348953055"/>
+    <nd ref="1022798543"/>
+    <nd ref="1839678152"/>
+    <nd ref="1839678139"/>
+    <nd ref="1839678134"/>
+    <nd ref="1839678158"/>
+    <nd ref="1855891926"/>
+    <nd ref="1839678115"/>
+    <nd ref="1839678095"/>
+    <nd ref="1022804798"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Nadarzyńska"/>
+    <tag k="ref" v="634"/>
+  </way>
+  <way id="101006157" version="6" timestamp="2012-09-02T19:43:20Z" uid="822843" user="zamekzamek" changeset="12958490">
+    <nd ref="348953048"/>
+    <nd ref="1022802373"/>
+    <nd ref="348953055"/>
+    <nd ref="1895282499"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Nadarzyńska"/>
+    <tag k="ref" v="634"/>
+  </way>
+  <way id="101006162" version="4" timestamp="2012-07-24T18:33:40Z" uid="722137" user="OSMF Redaction Account" changeset="12473364">
+    <nd ref="1447505100"/>
+    <nd ref="1447505243"/>
+    <nd ref="1452743391"/>
+    <nd ref="348944306"/>
+    <tag k="addr:city" v="Kobyłka"/>
+    <tag k="addr:street" v="Gościniec"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/WOLOMIN.drogi.txt)"/>
+  </way>
+  <way id="101006166" version="5" timestamp="2012-07-28T16:46:20Z" uid="212207" user="SunCobalt" changeset="12525500">
+    <nd ref="348960817"/>
+    <nd ref="348946033"/>
+    <nd ref="348960888"/>
+    <nd ref="348960813"/>
+    <nd ref="1467986556"/>
+    <nd ref="348960328"/>
+    <nd ref="348946051"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Słoneczna"/>
+  </way>
+  <way id="101006168" version="3" timestamp="2012-07-24T18:33:42Z" uid="722137" user="OSMF Redaction Account" changeset="12473364">
+    <nd ref="348964251"/>
+    <nd ref="348964283"/>
+    <nd ref="348964281"/>
+    <nd ref="348964259"/>
+    <nd ref="348964257"/>
+    <nd ref="348964262"/>
+    <nd ref="348964260"/>
+    <nd ref="348964266"/>
+    <nd ref="348964264"/>
+    <nd ref="1022801259"/>
+    <nd ref="348964293"/>
+    <nd ref="348964295"/>
+    <nd ref="348964274"/>
+    <nd ref="348964272"/>
+    <nd ref="348964277"/>
+    <nd ref="1022805926"/>
+    <nd ref="348964275"/>
+    <nd ref="1448554568"/>
+    <tag k="highway" v="footway"/>
+    <tag k="marked_trail_green" v="yes"/>
+    <tag k="name" v="zielony"/>
+    <tag k="note" v="MZ-5073-z  SIERAKÓW. PKS ZIELONKA. PKP 38,2km"/>
+    <tag k="ref" v="Zielony szlak"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/WARSZAWA.szlaki.topo.txt)"/>
+  </way>
+  <way id="101006168" version="4" timestamp="2012-07-24T18:40:57Z" uid="722137" user="OSMF Redaction Account" changeset="12473514">
+    <nd ref="348964251"/>
+    <nd ref="1022801259"/>
+    <nd ref="1022805926"/>
+    <nd ref="348964275"/>
+    <nd ref="1448554568"/>
+    <tag k="highway" v="footway"/>
+    <tag k="marked_trail_green" v="yes"/>
+    <tag k="name" v="zielony"/>
+    <tag k="note" v="MZ-5073-z  SIERAKÓW. PKS ZIELONKA. PKP 38,2km"/>
+    <tag k="ref" v="Zielony szlak"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/WARSZAWA.szlaki.topo.txt)"/>
+  </way>
+  <way id="101006168" version="5" timestamp="2012-09-01T03:22:47Z" uid="760215" user="pnorman redaction revert" changeset="12938278">
+    <nd ref="348964251"/>
+    <nd ref="348964275"/>
+    <nd ref="1448554568"/>
+    <tag k="highway" v="footway"/>
+    <tag k="marked_trail_green" v="yes"/>
+    <tag k="name" v="zielony"/>
+    <tag k="note" v="MZ-5073-z  SIERAKÓW. PKS ZIELONKA. PKP 38,2km"/>
+    <tag k="ref" v="Zielony szlak"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 14:17:02 02/20/09 (UMP-Warszawa/src/WARSZAWA.szlaki.topo.txt)"/>
+  </way>
+  <way id="101006260" version="5" timestamp="2012-07-24T14:10:28Z" uid="722137" user="OSMF Redaction Account" changeset="12467414">
+    <nd ref="1166677615"/>
+    <nd ref="1166677623"/>
+    <nd ref="1166677647"/>
+    <nd ref="1166677605"/>
+    <nd ref="1166677630"/>
+    <nd ref="1166677634"/>
+    <nd ref="1166677645"/>
+    <nd ref="1166677648"/>
+    <nd ref="1166677609"/>
+    <nd ref="1166677613"/>
+    <nd ref="1166677611"/>
+    <nd ref="1166677598"/>
+    <nd ref="1166677593"/>
+    <nd ref="1166677621"/>
+    <nd ref="1166677603"/>
+    <nd ref="1166677601"/>
+    <nd ref="1166677597"/>
+    <nd ref="1166677646"/>
+    <nd ref="1166677628"/>
+    <nd ref="1166677633"/>
+    <nd ref="1166677600"/>
+    <nd ref="1166677615"/>
+    <tag k="name" v="peron 2"/>
+    <tag k="railway" v="platform"/>
+  </way>
+  <way id="101006260" version="6" timestamp="2012-08-16T13:36:40Z" uid="682301" user="Yaper" changeset="12750959">
+    <nd ref="1166677615"/>
+    <nd ref="1166677623"/>
+    <nd ref="1166677647"/>
+    <nd ref="1166677605"/>
+    <nd ref="1166677630"/>
+    <nd ref="1166677634"/>
+    <nd ref="1166677645"/>
+    <nd ref="1166677648"/>
+    <nd ref="1166677609"/>
+    <nd ref="1166677613"/>
+    <nd ref="1166677611"/>
+    <nd ref="1166677598"/>
+    <nd ref="1166677593"/>
+    <nd ref="1166677621"/>
+    <nd ref="1166677603"/>
+    <nd ref="1166677601"/>
+    <nd ref="1166677597"/>
+    <nd ref="1166677646"/>
+    <nd ref="1166677628"/>
+    <nd ref="1166677633"/>
+    <nd ref="1166677600"/>
+    <nd ref="1166677615"/>
+    <tag k="area" v="yes"/>
+    <tag k="name" v="peron 2"/>
+    <tag k="railway" v="platform"/>
+  </way>
+  <way id="101006262" version="6" timestamp="2012-07-24T14:10:28Z" uid="722137" user="OSMF Redaction Account" changeset="12467414">
+    <nd ref="1166677629"/>
+    <nd ref="1166677638"/>
+    <nd ref="1166677622"/>
+    <nd ref="1166677606"/>
+    <nd ref="1166677631"/>
+    <nd ref="1166677599"/>
+    <nd ref="1166698321"/>
+    <nd ref="1166698336"/>
+    <nd ref="1166698328"/>
+    <nd ref="1166698332"/>
+    <nd ref="1166677612"/>
+    <nd ref="1166677602"/>
+    <nd ref="1166677618"/>
+    <nd ref="1166677595"/>
+    <nd ref="1166677636"/>
+    <nd ref="1166677649"/>
+    <nd ref="1166677620"/>
+    <nd ref="1166677639"/>
+    <nd ref="1166677635"/>
+    <nd ref="1166677594"/>
+    <nd ref="1166677650"/>
+    <nd ref="1166677629"/>
+    <tag k="name" v="peron 3"/>
+    <tag k="railway" v="platform"/>
+  </way>
+  <way id="101006262" version="7" timestamp="2012-08-16T13:36:40Z" uid="682301" user="Yaper" changeset="12750959">
+    <nd ref="1166677629"/>
+    <nd ref="1166677638"/>
+    <nd ref="1166677622"/>
+    <nd ref="1166677606"/>
+    <nd ref="1166677631"/>
+    <nd ref="1166677599"/>
+    <nd ref="1166698321"/>
+    <nd ref="1166698336"/>
+    <nd ref="1166698328"/>
+    <nd ref="1166698332"/>
+    <nd ref="1166677612"/>
+    <nd ref="1166677602"/>
+    <nd ref="1166677618"/>
+    <nd ref="1166677595"/>
+    <nd ref="1166677636"/>
+    <nd ref="1166677649"/>
+    <nd ref="1166677620"/>
+    <nd ref="1166677639"/>
+    <nd ref="1166677635"/>
+    <nd ref="1166677594"/>
+    <nd ref="1166677650"/>
+    <nd ref="1166677629"/>
+    <tag k="area" v="yes"/>
+    <tag k="name" v="peron 3"/>
+    <tag k="railway" v="platform"/>
+  </way>
+  <way id="101006262" version="8" timestamp="2012-08-27T11:16:33Z" uid="371095" user="Polimerek" changeset="12877636">
+    <nd ref="1166677629"/>
+    <nd ref="1885143880"/>
+    <nd ref="1166677638"/>
+    <nd ref="1166677622"/>
+    <nd ref="1166677606"/>
+    <nd ref="1166677631"/>
+    <nd ref="1166677599"/>
+    <nd ref="1166698321"/>
+    <nd ref="1166698336"/>
+    <nd ref="1166698328"/>
+    <nd ref="1166698332"/>
+    <nd ref="1166677612"/>
+    <nd ref="1166677602"/>
+    <nd ref="1166677618"/>
+    <nd ref="1166677595"/>
+    <nd ref="1166677636"/>
+    <nd ref="1166677649"/>
+    <nd ref="1166677620"/>
+    <nd ref="1166677639"/>
+    <nd ref="1166677635"/>
+    <nd ref="1885143883"/>
+    <nd ref="1166677594"/>
+    <nd ref="1166677650"/>
+    <nd ref="1166677629"/>
+    <tag k="area" v="yes"/>
+    <tag k="name" v="peron 3"/>
+    <tag k="railway" v="platform"/>
+  </way>
+  <way id="101006363" version="2" timestamp="2012-07-20T14:59:25Z" uid="722137" user="OSMF Redaction Account" changeset="12380500"/>
+  <way id="101006365" version="2" timestamp="2012-07-20T14:59:25Z" uid="722137" user="OSMF Redaction Account" changeset="12380500"/>
+  <way id="101006367" version="2" timestamp="2012-07-20T14:59:25Z" uid="722137" user="OSMF Redaction Account" changeset="12380500"/>
+  <way id="101006372" version="7" timestamp="2012-07-20T14:59:25Z" uid="722137" user="OSMF Redaction Account" changeset="12380500"/>
+  <way id="101006377" version="4" timestamp="2012-07-20T14:59:25Z" uid="722137" user="OSMF Redaction Account" changeset="12380500"/>
+  <way id="101006381" version="3" timestamp="2012-07-20T14:59:25Z" uid="722137" user="OSMF Redaction Account" changeset="12380500"/>
+  <way id="101006387" version="4" timestamp="2012-07-20T14:59:53Z" uid="722137" user="OSMF Redaction Account" changeset="12380510"/>
+  <way id="101006389" version="5" timestamp="2012-07-20T14:59:23Z" uid="722137" user="OSMF Redaction Account" changeset="12380500">
+    <nd ref="1479119289"/>
+    <nd ref="1479119286"/>
+    <nd ref="1479119282"/>
+    <nd ref="1479119280"/>
+    <nd ref="1479119284"/>
+  </way>
+  <way id="101006392" version="5" timestamp="2012-07-20T14:59:25Z" uid="722137" user="OSMF Redaction Account" changeset="12380500"/>
+  <way id="101006395" version="5" timestamp="2012-07-20T14:59:25Z" uid="722137" user="OSMF Redaction Account" changeset="12380500"/>
+  <way id="101006398" version="2" timestamp="2012-07-20T15:00:22Z" uid="722137" user="OSMF Redaction Account" changeset="12380517"/>
+</osm>

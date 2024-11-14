@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="106765031" version="2" timestamp="2011-04-12T16:26:11Z" uid="4467" user="Rosscoe" changeset="7844178">
+    <nd ref="441509620"/>
+    <nd ref="1227853870"/>
+    <nd ref="600649777"/>
+    <nd ref="441397123"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Ritchie Street"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="106765032" version="2" timestamp="2011-04-12T16:24:24Z" uid="4467" user="Rosscoe" changeset="7844178">
+    <nd ref="441509620"/>
+    <nd ref="428709066"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Dexter Street"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="106765031" version="3" timestamp="2012-07-19T06:51:48Z" uid="722137" user="OSMF Redaction Account" changeset="12310810">
+    <nd ref="441509620"/>
+    <nd ref="1227853870"/>
+    <nd ref="600649777"/>
+    <nd ref="441397123"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Ritchie Street"/>
+  </way>
+  <way id="106765032" version="3" timestamp="2012-07-19T06:51:48Z" uid="722137" user="OSMF Redaction Account" changeset="12310810">
+    <nd ref="441509620"/>
+    <nd ref="428709066"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Dexter Street"/>
+  </way>
+</osm>

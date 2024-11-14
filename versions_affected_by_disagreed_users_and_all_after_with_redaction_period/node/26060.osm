@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <node id="260603191" version="3" timestamp="2008-07-06T09:04:33Z" uid="6975" user="ulfl" changeset="407266" lat="48.359166" lon="11.5794155">
+    <tag k="power" v="generator"/>
+    <tag k="power_source" v="hydro"/>
+  </node>
+  <node id="260603191" version="4" timestamp="2011-06-04T02:11:56Z" uid="297482" user="don-vip" changeset="8335625" lat="48.359166" lon="11.5794155">
+    <tag k="generator:source" v="hydro"/>
+    <tag k="power" v="generator"/>
+    <tag k="power_source" v="hydro"/>
+  </node>
+  <node id="260603191" version="5" timestamp="2011-10-09T17:34:55Z" uid="72235" user="Basstoelpel" changeset="9515101" lat="48.359166" lon="11.5794155">
+    <tag k="addr:city" v="Fahrenzhausen"/>
+    <tag k="addr:postcode" v="85777"/>
+    <tag k="generator:method" v="run-of-the-river"/>
+    <tag k="generator:rating" v="1.420 kW"/>
+    <tag k="generator:source" v="hydro"/>
+    <tag k="name" v="Kraftwerk Weng"/>
+    <tag k="operator" v="Emmer&amp;Reitter"/>
+    <tag k="power" v="generator"/>
+  </node>
+  <node id="260603191" version="6" timestamp="2011-10-15T13:56:28Z" uid="92274" user="adjuva" changeset="9563226" lat="48.359166" lon="11.5794155">
+    <tag k="addr:city" v="Fahrenzhausen"/>
+    <tag k="addr:postcode" v="85777"/>
+    <tag k="generator:method" v="run-of-the-river"/>
+    <tag k="generator:output:electricity" v="1.420 kW"/>
+    <tag k="generator:source" v="hydro"/>
+    <tag k="name" v="Kraftwerk Weng"/>
+    <tag k="operator" v="Emmer&amp;Reitter"/>
+    <tag k="power" v="generator"/>
+  </node>
+  <node id="260603490" version="4" timestamp="2010-04-14T14:04:14Z" uid="7617" user="Franc" changeset="4422774" lat="-33.7743428" lon="150.9478485"/>
+  <node id="260604545" version="3" timestamp="2010-07-28T20:12:53Z" uid="74617" user="JohnSmith" changeset="5339329" lat="49.7905728" lon="10.0276941">
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant" v="pillar"/>
+  </node>
+  <node id="260604545" version="4" timestamp="2010-07-30T17:47:28Z" uid="74617" user="JohnSmith" changeset="5356742" lat="49.7905728" lon="10.0276941">
+    <tag k="amenity" v="fire_hydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant" v="pillar"/>
+  </node>
+  <node id="260604545" version="5" timestamp="2010-10-12T15:40:46Z" uid="26348" user="Rodolphe Quiédeville" changeset="6022037" lat="49.7905728" lon="10.0276941">
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant" v="pillar"/>
+  </node>
+  <node id="260604545" version="6" timestamp="2010-10-19T09:05:44Z" uid="26348" user="Rodolphe Quiédeville" changeset="6094812" lat="49.7905728" lon="10.0276941">
+    <tag k="amenity" v="fire_hydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant" v="pillar"/>
+  </node>
+  <node id="260604545" version="7" timestamp="2011-06-26T15:09:25Z" uid="26299" user="uboot" changeset="8552753" lat="49.7905728" lon="10.0276941">
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+  </node>
+  <node id="260604545" version="8" timestamp="2012-03-27T18:24:01Z" uid="67540" user="Cobra" changeset="11118954" lat="49.7905728" lon="10.0276941">
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="odbl" v="clean"/>
+  </node>
+  <node id="260609308" version="2" timestamp="2008-09-14T20:03:20Z" uid="6975" user="ulfl" changeset="640534" lat="52.1889493" lon="11.0444871">
+    <tag k="amenity" v="bank"/>
+    <tag k="atm" v="yes"/>
+    <tag k="name" v="Sparkasse"/>
+  </node>
+</osm>

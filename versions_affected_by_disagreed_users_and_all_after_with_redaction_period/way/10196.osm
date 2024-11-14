@@ -1,0 +1,817 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="10196303" version="24" timestamp="2010-08-16T01:57:40Z" uid="4467" user="Rosscoe" changeset="5505701">
+    <nd ref="119091704"/>
+    <nd ref="862413176"/>
+    <nd ref="119092961"/>
+    <nd ref="119094990"/>
+    <nd ref="862413129"/>
+    <nd ref="119085064"/>
+    <nd ref="119085068"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="Old Cleveland Road"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="10196303" version="25" timestamp="2011-08-04T22:52:37Z" uid="349913" user="Peter W34" changeset="8924239">
+    <nd ref="119091704"/>
+    <nd ref="862413176"/>
+    <nd ref="119092961"/>
+    <nd ref="119094990"/>
+    <nd ref="862413129"/>
+    <nd ref="119085064"/>
+    <nd ref="119085068"/>
+    <tag k="highway" v="primary"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Old Cleveland Road"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="10196364" version="27" timestamp="2010-03-21T05:55:35Z" uid="74617" user="JohnSmith" changeset="4187446"/>
+  <way id="10196481" version="3" timestamp="2010-04-02T22:24:33Z" uid="20587" user="balrog-kun" changeset="4308010">
+    <nd ref="84278134"/>
+    <nd ref="84278138"/>
+    <nd ref="84278139"/>
+    <nd ref="84278142"/>
+    <nd ref="84278144"/>
+    <nd ref="84325374"/>
+    <nd ref="667629619"/>
+    <nd ref="667629611"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Dessert Hills Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Washington, UT"/>
+    <tag k="tiger:name_base" v="Dessert Hills"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="166198752; 166198753:166167388"/>
+  </way>
+  <way id="10196481" version="4" timestamp="2012-01-26T19:05:45Z" uid="63936" user="MojaveNC" changeset="10506080">
+    <nd ref="84278134"/>
+    <nd ref="84278138"/>
+    <nd ref="84278139"/>
+    <nd ref="84278142"/>
+    <nd ref="84278144"/>
+    <nd ref="84325374"/>
+    <nd ref="667629619"/>
+    <nd ref="667629611"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Desert Hills Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Washington, UT"/>
+    <tag k="tiger:name_base" v="Dessert Hills"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="166198752; 166198753:166167388"/>
+  </way>
+  <way id="10196643" version="4" timestamp="2010-04-02T22:24:34Z" uid="20587" user="balrog-kun" changeset="4308010">
+    <nd ref="84281105"/>
+    <nd ref="84281107"/>
+    <nd ref="669232907"/>
+    <nd ref="669232908"/>
+    <nd ref="669232909"/>
+    <nd ref="84333387"/>
+    <nd ref="84333389"/>
+    <nd ref="84321636"/>
+    <nd ref="84307055"/>
+    <nd ref="84298211"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Willow Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Washington, UT"/>
+    <tag k="tiger:name_base" v="Willow"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="166171651; 166167351"/>
+  </way>
+  <way id="10196662" version="3" timestamp="2010-07-06T10:13:00Z" uid="74617" user="JohnSmith" changeset="5147679">
+    <nd ref="84281475"/>
+    <nd ref="84281742"/>
+    <nd ref="84281743"/>
+    <nd ref="84281744"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="10196662" version="4" timestamp="2011-11-26T04:37:36Z" uid="22094" user="Chadzopkyo" changeset="9951565">
+    <nd ref="84281475"/>
+    <nd ref="84281743"/>
+    <nd ref="84281744"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="10196662" version="5" timestamp="2012-01-15T09:22:47Z" uid="147510" user="woodpeck_fixbot" changeset="10395278">
+    <nd ref="84281475"/>
+    <nd ref="84281743"/>
+    <nd ref="84281744"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="10196665" version="1" timestamp="2007-10-23T07:25:35Z" uid="7617" user="Franc" changeset="296276">
+    <nd ref="84281420"/>
+    <nd ref="84281675"/>
+    <nd ref="84281423"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Hampson Avenue"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="10196665" version="2" timestamp="2009-12-30T02:14:51Z" uid="12203" user="brainwad" changeset="3486874">
+    <nd ref="84281420"/>
+    <nd ref="84281675"/>
+    <nd ref="84281423"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Hampson Avenue"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="state_limit"/>
+  </way>
+  <way id="10196668" version="1" timestamp="2007-10-23T07:25:35Z" uid="7617" user="Franc" changeset="296276">
+    <nd ref="84281424"/>
+    <nd ref="84281601"/>
+    <nd ref="84281615"/>
+    <nd ref="84281636"/>
+    <nd ref="84281499"/>
+    <nd ref="84281456"/>
+    <nd ref="84281564"/>
+    <nd ref="84281584"/>
+    <nd ref="84281549"/>
+    <nd ref="84281539"/>
+    <nd ref="84281427"/>
+    <nd ref="84281462"/>
+    <nd ref="84281519"/>
+    <nd ref="84281432"/>
+    <nd ref="84281648"/>
+    <nd ref="84281438"/>
+    <nd ref="84281658"/>
+    <nd ref="84281667"/>
+    <nd ref="84281480"/>
+    <nd ref="84281424"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="layer" v="-1"/>
+    <tag k="leisure" v="park"/>
+  </way>
+  <way id="10196668" version="2" timestamp="2008-05-15T12:10:57Z" uid="7617" user="Franc" changeset="451517">
+    <nd ref="84281424"/>
+    <nd ref="84281601"/>
+    <nd ref="84281615"/>
+    <nd ref="84281636"/>
+    <nd ref="84281499"/>
+    <nd ref="84281456"/>
+    <nd ref="84281564"/>
+    <nd ref="84281584"/>
+    <nd ref="84281549"/>
+    <nd ref="84281539"/>
+    <nd ref="84281427"/>
+    <nd ref="84281462"/>
+    <nd ref="84281519"/>
+    <nd ref="264661283"/>
+    <nd ref="84281432"/>
+    <nd ref="84281648"/>
+    <nd ref="84281438"/>
+    <nd ref="84281658"/>
+    <nd ref="84281667"/>
+    <nd ref="84281480"/>
+    <nd ref="84281424"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="leisure" v="park"/>
+    <tag k="name" v="Quarry Reserve"/>
+  </way>
+  <way id="10196668" version="3" timestamp="2010-11-21T10:39:53Z" uid="7617" user="Franc" changeset="6421193">
+    <nd ref="84281424"/>
+    <nd ref="84281601"/>
+    <nd ref="84281615"/>
+    <nd ref="84281636"/>
+    <nd ref="84281499"/>
+    <nd ref="84281456"/>
+    <nd ref="84281564"/>
+    <nd ref="84281584"/>
+    <nd ref="997582765"/>
+    <nd ref="997582696"/>
+    <nd ref="997582645"/>
+    <nd ref="84281549"/>
+    <nd ref="84281539"/>
+    <nd ref="997582743"/>
+    <nd ref="997582614"/>
+    <nd ref="84281427"/>
+    <nd ref="997582733"/>
+    <nd ref="84281462"/>
+    <nd ref="997582693"/>
+    <nd ref="84281519"/>
+    <nd ref="997582770"/>
+    <nd ref="264661283"/>
+    <nd ref="84281432"/>
+    <nd ref="84281648"/>
+    <nd ref="84281438"/>
+    <nd ref="84281658"/>
+    <nd ref="84281667"/>
+    <nd ref="84281480"/>
+    <nd ref="84281424"/>
+    <tag k="leisure" v="park"/>
+    <tag k="name" v="Quarry Reserve"/>
+  </way>
+  <way id="10196670" version="1" timestamp="2007-10-23T07:25:36Z" uid="7617" user="Franc" changeset="296276">
+    <nd ref="84281676"/>
+    <nd ref="84281678"/>
+    <nd ref="84281685"/>
+    <nd ref="84281693"/>
+    <nd ref="84268110"/>
+    <nd ref="84281699"/>
+    <nd ref="84257381"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Johnston Parade"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="10196670" version="2" timestamp="2007-10-23T08:12:56Z" uid="7617" user="Franc" changeset="296276">
+    <nd ref="84281676"/>
+    <nd ref="84281678"/>
+    <nd ref="84281685"/>
+    <nd ref="84281693"/>
+    <nd ref="84268110"/>
+    <nd ref="84281699"/>
+    <nd ref="84257381"/>
+    <nd ref="84326296"/>
+    <nd ref="84326276"/>
+    <nd ref="84265180"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Johnston Parade"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="10196670" version="3" timestamp="2009-12-30T02:14:49Z" uid="12203" user="brainwad" changeset="3486874">
+    <nd ref="84281676"/>
+    <nd ref="84281678"/>
+    <nd ref="84281685"/>
+    <nd ref="84281693"/>
+    <nd ref="84268110"/>
+    <nd ref="84281699"/>
+    <nd ref="84257381"/>
+    <nd ref="84326296"/>
+    <nd ref="84326276"/>
+    <nd ref="84265180"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Johnston Parade"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="state_limit"/>
+  </way>
+  <way id="10196670" version="4" timestamp="2010-11-21T10:40:01Z" uid="7617" user="Franc" changeset="6421193">
+    <nd ref="84281676"/>
+    <nd ref="84281678"/>
+    <nd ref="84281685"/>
+    <nd ref="84281693"/>
+    <nd ref="84268110"/>
+    <nd ref="84281699"/>
+    <nd ref="84257381"/>
+    <nd ref="84326296"/>
+    <nd ref="997582651"/>
+    <nd ref="997582676"/>
+    <nd ref="997582736"/>
+    <nd ref="84326276"/>
+    <nd ref="84265180"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Johnston Parade"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="state_limit"/>
+  </way>
+  <way id="10196670" version="5" timestamp="2011-06-05T06:33:23Z" uid="7617" user="Franc" changeset="8345494">
+    <nd ref="84281676"/>
+    <nd ref="84281685"/>
+    <nd ref="84281693"/>
+    <nd ref="84268110"/>
+    <nd ref="84281699"/>
+    <nd ref="84257381"/>
+    <nd ref="84326296"/>
+    <nd ref="997582651"/>
+    <nd ref="997582676"/>
+    <nd ref="997582736"/>
+    <nd ref="84326276"/>
+    <nd ref="84265180"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Johnston Parade"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="state_limit"/>
+  </way>
+  <way id="10196672" version="1" timestamp="2007-10-23T07:25:37Z" uid="7617" user="Franc" changeset="296276">
+    <nd ref="84281713"/>
+    <nd ref="84281720"/>
+    <nd ref="84281728"/>
+    <nd ref="84281739"/>
+    <nd ref="84281748"/>
+    <nd ref="84268148"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Cantrill Avenue"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="10196672" version="2" timestamp="2009-12-30T02:14:31Z" uid="12203" user="brainwad" changeset="3486874">
+    <nd ref="84281713"/>
+    <nd ref="84281720"/>
+    <nd ref="84281728"/>
+    <nd ref="84281739"/>
+    <nd ref="84281748"/>
+    <nd ref="84268148"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Cantrill Avenue"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="state_limit"/>
+  </way>
+  <way id="10196674" version="1" timestamp="2007-10-23T07:25:38Z" uid="7617" user="Franc" changeset="296276">
+    <nd ref="84281758"/>
+    <nd ref="84281783"/>
+    <nd ref="84281788"/>
+    <nd ref="84281772"/>
+    <nd ref="84281739"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Ryan Avenue"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="10196674" version="2" timestamp="2009-12-30T02:14:51Z" uid="12203" user="brainwad" changeset="3486874">
+    <nd ref="84281758"/>
+    <nd ref="84281783"/>
+    <nd ref="84281788"/>
+    <nd ref="84281772"/>
+    <nd ref="84281739"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Ryan Avenue"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="state_limit"/>
+  </way>
+  <way id="10196688" version="5" timestamp="2010-03-23T03:56:24Z" uid="244897" user="M526244" changeset="4208973"/>
+  <way id="10196831" version="1" timestamp="2007-10-23T07:28:38Z" uid="7617" user="Franc" changeset="296276">
+    <nd ref="48722822"/>
+    <nd ref="18320609"/>
+    <tag k="created_by" v="Potlatch alpha"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Moverly Road"/>
+    <tag k="source" v="Yahoo Imagery"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="10196831" version="2" timestamp="2007-10-23T07:32:22Z" uid="7617" user="Franc" changeset="296276">
+    <nd ref="48722822"/>
+    <nd ref="84287149"/>
+    <nd ref="84287106"/>
+    <nd ref="18320609"/>
+    <tag k="created_by" v="Potlatch alpha"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Moverly Road"/>
+    <tag k="source" v="Yahoo Imagery"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="10196831" version="3" timestamp="2007-10-23T07:35:12Z" uid="7617" user="Franc" changeset="296276">
+    <nd ref="48722822"/>
+    <nd ref="84289440"/>
+    <nd ref="84289428"/>
+    <nd ref="84289421"/>
+    <nd ref="84287149"/>
+    <nd ref="84287106"/>
+    <nd ref="18320609"/>
+    <tag k="created_by" v="Potlatch alpha"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Moverly Road"/>
+    <tag k="source" v="Yahoo Imagery"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="10196831" version="4" timestamp="2007-10-23T07:37:46Z" uid="7617" user="Franc" changeset="296276">
+    <nd ref="48722822"/>
+    <nd ref="84291937"/>
+    <nd ref="84289440"/>
+    <nd ref="84289428"/>
+    <nd ref="84289421"/>
+    <nd ref="84287149"/>
+    <nd ref="84287106"/>
+    <nd ref="18320609"/>
+    <tag k="created_by" v="Potlatch alpha"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Moverly Road"/>
+    <tag k="source" v="Yahoo Imagery"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="10196831" version="5" timestamp="2009-12-27T03:35:23Z" uid="12203" user="brainwad" changeset="3460027">
+    <nd ref="48722822"/>
+    <nd ref="84291937"/>
+    <nd ref="84289440"/>
+    <nd ref="84289428"/>
+    <nd ref="84289421"/>
+    <nd ref="84287149"/>
+    <nd ref="84287106"/>
+    <nd ref="18320609"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Moverly Road"/>
+    <tag k="source" v="Yahoo Imagery"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="10196831" version="6" timestamp="2009-12-29T15:01:24Z" uid="12203" user="brainwad" changeset="3481945">
+    <nd ref="48722822"/>
+    <nd ref="84291937"/>
+    <nd ref="84289440"/>
+    <nd ref="84289428"/>
+    <nd ref="600901121"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Moverly Road"/>
+    <tag k="source" v="Yahoo Imagery"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="10196831" version="7" timestamp="2010-01-04T12:01:52Z" uid="7617" user="Franc" changeset="3536528">
+    <nd ref="48722822"/>
+    <nd ref="84291937"/>
+    <nd ref="604319204"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Moverly Road"/>
+    <tag k="source" v="Yahoo Imagery"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="10196831" version="8" timestamp="2010-04-17T12:45:59Z" uid="4467" user="Rosscoe" changeset="4447346">
+    <nd ref="699716481"/>
+    <nd ref="699716469"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Moverly Road"/>
+    <tag k="source" v="Yahoo Imagery"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="10196831" version="9" timestamp="2010-09-15T09:46:18Z" uid="79475" user="AlexOnTheBus" changeset="5785269">
+    <nd ref="699716481"/>
+    <nd ref="699716469"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Moverly Road"/>
+    <tag k="source" v="Yahoo Imagery"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="10196846" version="8" timestamp="2010-03-21T05:55:35Z" uid="74617" user="JohnSmith" changeset="4187446"/>
+  <way id="10196878" version="19" timestamp="2009-07-25T16:02:11Z" uid="74617" user="JohnSmith" changeset="1935763">
+    <nd ref="84333207"/>
+    <nd ref="84333209"/>
+    <nd ref="84333210"/>
+    <nd ref="84333211"/>
+    <nd ref="84333213"/>
+    <nd ref="84331898"/>
+    <nd ref="84331899"/>
+    <nd ref="84331900"/>
+    <nd ref="84331901"/>
+    <nd ref="84331902"/>
+    <nd ref="84318926"/>
+    <nd ref="84318927"/>
+    <nd ref="84318929"/>
+    <nd ref="84318930"/>
+    <nd ref="84318932"/>
+    <nd ref="84318910"/>
+    <nd ref="84318920"/>
+    <nd ref="84318936"/>
+    <nd ref="84307476"/>
+    <nd ref="269636658"/>
+    <nd ref="84307477"/>
+    <nd ref="84307478"/>
+    <nd ref="84307479"/>
+    <nd ref="84307480"/>
+    <nd ref="84306582"/>
+    <nd ref="178205920"/>
+    <nd ref="84306584"/>
+    <nd ref="84306585"/>
+    <nd ref="84306587"/>
+    <nd ref="84306588"/>
+    <nd ref="84306589"/>
+    <nd ref="84306591"/>
+    <nd ref="84303614"/>
+    <nd ref="84303615"/>
+    <nd ref="84303616"/>
+    <nd ref="84303617"/>
+    <nd ref="84303619"/>
+    <nd ref="84303621"/>
+    <nd ref="84303622"/>
+    <nd ref="84297005"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="Old Cleveland Road"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="10196878" version="20" timestamp="2010-03-21T05:44:18Z" uid="74617" user="JohnSmith" changeset="4187422">
+    <nd ref="84343041"/>
+    <nd ref="84343042"/>
+    <nd ref="84343043"/>
+    <nd ref="84343044"/>
+    <nd ref="84343045"/>
+    <nd ref="84343046"/>
+    <nd ref="84343047"/>
+    <nd ref="84340842"/>
+    <nd ref="638916340"/>
+    <nd ref="84340843"/>
+    <nd ref="84340844"/>
+    <nd ref="84340845"/>
+    <nd ref="84340846"/>
+    <nd ref="84340847"/>
+    <nd ref="84340848"/>
+    <nd ref="84340849"/>
+    <nd ref="84340850"/>
+    <nd ref="84338676"/>
+    <nd ref="84338678"/>
+    <nd ref="84338680"/>
+    <nd ref="84338681"/>
+    <nd ref="84336239"/>
+    <nd ref="84336241"/>
+    <nd ref="84336242"/>
+    <nd ref="84336243"/>
+    <nd ref="84336244"/>
+    <nd ref="84336246"/>
+    <nd ref="84336247"/>
+    <nd ref="84336248"/>
+    <nd ref="84336249"/>
+    <nd ref="84336251"/>
+    <nd ref="84336252"/>
+    <nd ref="84336253"/>
+    <nd ref="84336254"/>
+    <nd ref="84336256"/>
+    <nd ref="84336257"/>
+    <nd ref="84333207"/>
+    <nd ref="84333209"/>
+    <nd ref="84333210"/>
+    <nd ref="84333211"/>
+    <nd ref="84333213"/>
+    <nd ref="84331898"/>
+    <nd ref="84331899"/>
+    <nd ref="84331900"/>
+    <nd ref="84331901"/>
+    <nd ref="84331902"/>
+    <nd ref="84318926"/>
+    <nd ref="84318927"/>
+    <nd ref="84318929"/>
+    <nd ref="84318930"/>
+    <nd ref="84318932"/>
+    <nd ref="84318910"/>
+    <nd ref="84318920"/>
+    <nd ref="84318936"/>
+    <nd ref="84307476"/>
+    <nd ref="269636658"/>
+    <nd ref="84307477"/>
+    <nd ref="84307478"/>
+    <nd ref="84307479"/>
+    <nd ref="84307480"/>
+    <nd ref="84306582"/>
+    <nd ref="178205920"/>
+    <nd ref="84306584"/>
+    <nd ref="84306585"/>
+    <nd ref="84306587"/>
+    <nd ref="84306588"/>
+    <nd ref="84306589"/>
+    <nd ref="84306591"/>
+    <nd ref="84303614"/>
+    <nd ref="84303615"/>
+    <nd ref="84303616"/>
+    <nd ref="84303617"/>
+    <nd ref="84303619"/>
+    <nd ref="84303621"/>
+    <nd ref="84303622"/>
+    <nd ref="84297005"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="Old Cleveland Road"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="10196878" version="21" timestamp="2010-03-21T05:55:31Z" uid="74617" user="JohnSmith" changeset="4187446">
+    <nd ref="84343041"/>
+    <nd ref="84343042"/>
+    <nd ref="84343043"/>
+    <nd ref="84343044"/>
+    <nd ref="84343045"/>
+    <nd ref="84343046"/>
+    <nd ref="84343047"/>
+    <nd ref="84340842"/>
+    <nd ref="638916340"/>
+    <nd ref="84340843"/>
+    <nd ref="84340844"/>
+    <nd ref="84340845"/>
+    <nd ref="84340846"/>
+    <nd ref="84340847"/>
+    <nd ref="84340848"/>
+    <nd ref="84340849"/>
+    <nd ref="84340850"/>
+    <nd ref="84338676"/>
+    <nd ref="84338678"/>
+    <nd ref="84338680"/>
+    <nd ref="84338681"/>
+    <nd ref="84336239"/>
+    <nd ref="84336241"/>
+    <nd ref="84336242"/>
+    <nd ref="84336243"/>
+    <nd ref="84336244"/>
+    <nd ref="84336246"/>
+    <nd ref="84336247"/>
+    <nd ref="84336248"/>
+    <nd ref="84336249"/>
+    <nd ref="84336251"/>
+    <nd ref="84336252"/>
+    <nd ref="84336253"/>
+    <nd ref="84336254"/>
+    <nd ref="84336256"/>
+    <nd ref="84336257"/>
+    <nd ref="84333207"/>
+    <nd ref="84333209"/>
+    <nd ref="84333210"/>
+    <nd ref="84333211"/>
+    <nd ref="84333213"/>
+    <nd ref="84331898"/>
+    <nd ref="84331899"/>
+    <nd ref="84331900"/>
+    <nd ref="84331901"/>
+    <nd ref="84331902"/>
+    <nd ref="84318926"/>
+    <nd ref="84318927"/>
+    <nd ref="84318929"/>
+    <nd ref="84318930"/>
+    <nd ref="84318932"/>
+    <nd ref="84318910"/>
+    <nd ref="84318920"/>
+    <nd ref="84318936"/>
+    <nd ref="84307476"/>
+    <nd ref="269636658"/>
+    <nd ref="84307477"/>
+    <nd ref="84307478"/>
+    <nd ref="84307479"/>
+    <nd ref="84307480"/>
+    <nd ref="84306582"/>
+    <nd ref="178205920"/>
+    <nd ref="84306584"/>
+    <nd ref="84306585"/>
+    <nd ref="84306587"/>
+    <nd ref="84306588"/>
+    <nd ref="84306589"/>
+    <nd ref="84306591"/>
+    <nd ref="84303614"/>
+    <nd ref="84303615"/>
+    <nd ref="84303616"/>
+    <nd ref="84303617"/>
+    <nd ref="84303619"/>
+    <nd ref="84303621"/>
+    <nd ref="84303622"/>
+    <nd ref="84297005"/>
+    <nd ref="84297006"/>
+    <nd ref="84297007"/>
+    <nd ref="84297008"/>
+    <nd ref="84297009"/>
+    <nd ref="84297011"/>
+    <nd ref="84295754"/>
+    <nd ref="84295755"/>
+    <nd ref="84295756"/>
+    <nd ref="84295757"/>
+    <nd ref="84295758"/>
+    <nd ref="84295759"/>
+    <nd ref="84295760"/>
+    <nd ref="84295761"/>
+    <nd ref="84295762"/>
+    <nd ref="84295763"/>
+    <nd ref="84295764"/>
+    <nd ref="84295765"/>
+    <nd ref="84295766"/>
+    <nd ref="248000281"/>
+    <nd ref="84295767"/>
+    <nd ref="84295768"/>
+    <nd ref="247999358"/>
+    <nd ref="84290340"/>
+    <nd ref="247984836"/>
+    <nd ref="247984837"/>
+    <nd ref="84287969"/>
+    <nd ref="84288013"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="Old Cleveland Road"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="10196878" version="22" timestamp="2010-03-21T08:47:21Z" uid="74617" user="JohnSmith" changeset="4188149">
+    <nd ref="84343041"/>
+    <nd ref="84343042"/>
+    <nd ref="84343043"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="Old Cleveland Road"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="10196303" version="26" timestamp="2012-07-20T03:12:46Z" uid="722137" user="OSMF Redaction Account" changeset="12359122">
+    <nd ref="119091704"/>
+    <nd ref="119092961"/>
+    <nd ref="119094990"/>
+    <nd ref="119085064"/>
+    <nd ref="119085068"/>
+    <tag k="highway" v="primary"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Old Cleveland Road"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="10196643" version="5" timestamp="2012-07-20T10:39:41Z" uid="78871" user="ocotillo" changeset="12371510">
+    <nd ref="84281105"/>
+    <nd ref="84281107"/>
+    <nd ref="669232907"/>
+    <nd ref="669232908"/>
+    <nd ref="669232909"/>
+    <nd ref="84333387"/>
+    <nd ref="84333389"/>
+    <nd ref="84321636"/>
+    <nd ref="1831925082"/>
+    <nd ref="84307055"/>
+    <nd ref="84298211"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Willow Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Washington, UT"/>
+    <tag k="tiger:name_base" v="Willow"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="166171651; 166167351"/>
+  </way>
+  <way id="10196665" version="3" timestamp="2012-07-19T17:35:31Z" uid="722137" user="OSMF Redaction Account" changeset="12342011"/>
+  <way id="10196668" version="4" timestamp="2012-07-20T01:03:29Z" uid="722137" user="OSMF Redaction Account" changeset="12354122"/>
+  <way id="10196670" version="6" timestamp="2012-07-12T11:43:58Z" uid="713671" user="auspod" changeset="12195017">
+    <nd ref="84281676"/>
+    <nd ref="84281685"/>
+    <nd ref="84281693"/>
+    <nd ref="84268110"/>
+    <nd ref="84281699"/>
+    <nd ref="84257381"/>
+    <nd ref="1822854282"/>
+    <nd ref="1822854159"/>
+    <nd ref="1822853822"/>
+    <nd ref="1822854131"/>
+    <nd ref="1822854193"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Johnston Parade"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="state_limit"/>
+  </way>
+  <way id="10196670" version="7" timestamp="2012-07-19T17:33:41Z" uid="722137" user="OSMF Redaction Account" changeset="12341917">
+    <nd ref="84281676"/>
+    <nd ref="84281685"/>
+    <nd ref="1822854282"/>
+    <nd ref="1822854159"/>
+    <nd ref="1822853822"/>
+    <nd ref="1822854131"/>
+    <nd ref="1822854193"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Johnston Parade"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="state_limit"/>
+  </way>
+  <way id="10196670" version="8" timestamp="2012-07-20T00:56:40Z" uid="722137" user="OSMF Redaction Account" changeset="12353633">
+    <nd ref="1822854282"/>
+    <nd ref="1822854159"/>
+    <nd ref="1822853822"/>
+    <nd ref="1822854131"/>
+    <nd ref="1822854193"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="source:maxspeed" v="state_limit"/>
+  </way>
+  <way id="10196670" version="9" timestamp="2012-07-26T15:18:09Z" uid="18675" user="JeLuF" changeset="12500338">
+    <nd ref="1822854282"/>
+    <nd ref="1822854159"/>
+    <nd ref="1822853822"/>
+    <nd ref="1822854131"/>
+    <nd ref="1822854193"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:maxspeed" v="state_limit"/>
+  </way>
+  <way id="10196672" version="3" timestamp="2012-07-19T17:33:42Z" uid="722137" user="OSMF Redaction Account" changeset="12341917">
+    <nd ref="84281713"/>
+    <nd ref="84281720"/>
+    <nd ref="84281728"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Cantrill Avenue"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="state_limit"/>
+  </way>
+  <way id="10196672" version="4" timestamp="2012-07-20T01:03:27Z" uid="722137" user="OSMF Redaction Account" changeset="12354122"/>
+  <way id="10196674" version="3" timestamp="2012-07-19T17:35:39Z" uid="722137" user="OSMF Redaction Account" changeset="12342011"/>
+  <way id="10196831" version="10" timestamp="2012-07-12T11:44:09Z" uid="713671" user="auspod" changeset="12195017">
+    <nd ref="1822854340"/>
+    <nd ref="1822853912"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Moverly Road"/>
+    <tag k="source" v="Yahoo Imagery"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="10196831" version="11" timestamp="2012-07-20T00:57:37Z" uid="722137" user="OSMF Redaction Account" changeset="12353764">
+    <nd ref="1822854340"/>
+    <nd ref="1822853912"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="50"/>
+  </way>
+  <way id="10196878" version="23" timestamp="2012-07-20T03:14:52Z" uid="722137" user="OSMF Redaction Account" changeset="12359185"/>
+</osm>

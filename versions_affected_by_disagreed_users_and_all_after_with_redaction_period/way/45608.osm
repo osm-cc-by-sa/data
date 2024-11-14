@@ -1,0 +1,887 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="45608128" version="1" timestamp="2009-12-05T03:36:44Z" uid="7617" user="Franc" changeset="3293076">
+    <nd ref="60007132"/>
+    <nd ref="288586724"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Peel Street"/>
+    <tag k="source" v="yahoo_imagery"/>
+  </way>
+  <way id="45608128" version="2" timestamp="2009-12-05T08:56:45Z" uid="7617" user="Franc" changeset="3293681">
+    <nd ref="60007132"/>
+    <nd ref="581732790"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Peel Street"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="45608128" version="3" timestamp="2010-07-08T02:01:30Z" uid="74617" user="JohnSmith" changeset="5162525">
+    <nd ref="60007132"/>
+    <nd ref="581732790"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Peel Street"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="45608128" version="4" timestamp="2012-01-19T12:24:44Z" uid="147510" user="woodpeck_fixbot" changeset="10436041">
+    <nd ref="60007132"/>
+    <nd ref="581732790"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Peel Street"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="45608129" version="1" timestamp="2009-12-05T03:36:44Z" uid="7617" user="Franc" changeset="3293076">
+    <nd ref="581451620"/>
+    <nd ref="581451621"/>
+    <nd ref="581451622"/>
+    <nd ref="581451623"/>
+    <nd ref="581451624"/>
+    <nd ref="581451625"/>
+    <nd ref="581451626"/>
+    <nd ref="581451620"/>
+    <tag k="leisure" v="park"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="45608129" version="2" timestamp="2010-01-25T09:26:19Z" uid="7617" user="Franc" changeset="3709079">
+    <nd ref="581451620"/>
+    <nd ref="581451621"/>
+    <nd ref="581451622"/>
+    <nd ref="581451623"/>
+    <nd ref="581451624"/>
+    <nd ref="581451625"/>
+    <nd ref="581451626"/>
+    <nd ref="581451620"/>
+    <tag k="leisure" v="park"/>
+    <tag k="name" v="Arbutus Park"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="45608130" version="1" timestamp="2009-12-05T03:36:44Z" uid="7617" user="Franc" changeset="3293076">
+    <nd ref="581451629"/>
+    <nd ref="581451630"/>
+    <nd ref="581451631"/>
+    <nd ref="581451632"/>
+    <nd ref="581451629"/>
+    <tag k="leisure" v="park"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="45608152" version="2" timestamp="2010-07-25T22:26:16Z" uid="4467" user="Rosscoe" changeset="5317245">
+    <nd ref="581452371"/>
+    <nd ref="581452355"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Kawana Way"/>
+  </way>
+  <way id="45608160" version="2" timestamp="2010-04-07T14:07:29Z" uid="20587" user="balrog-kun" changeset="4353646">
+    <nd ref="81608460"/>
+    <nd ref="81843839"/>
+    <nd ref="282710326"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="North Walton Walker Boulevard"/>
+    <tag k="name_1" v="State Highway Loop 12"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Walton Walker"/>
+    <tag k="tiger:name_base_1" v="State Highway Loop 12"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="Blvd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102977401:103197692:103197693:102983626:102894799:103267122:103181529:103181531:103228092:103228107:103226568:103226572:103266691:103266960:103226495:103227102:103191948:103191949:103191954:103191955:102939774:102939733:102939752:103192974:103192975:10319"/>
+    <tag k="tiger:zip_left" v="75212"/>
+    <tag k="tiger:zip_right" v="75212"/>
+  </way>
+  <way id="45608160" version="3" timestamp="2011-03-12T09:45:00Z" uid="207745" user="NE2" changeset="7531086">
+    <nd ref="81608460"/>
+    <nd ref="81843839"/>
+    <nd ref="282710326"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="North Walton Walker Boulevard"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="Loop 12"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Walton Walker"/>
+    <tag k="tiger:name_base_1" v="State Highway Loop 12"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="Blvd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102977401:103197692:103197693:102983626:102894799:103267122:103181529:103181531:103228092:103228107:103226568:103226572:103266691:103266960:103226495:103227102:103191948:103191949:103191954:103191955:102939774:102939733:102939752:103192974:103192975:10319"/>
+    <tag k="tiger:zip_left" v="75212"/>
+    <tag k="tiger:zip_right" v="75212"/>
+  </way>
+  <way id="45608160" version="4" timestamp="2011-07-23T14:38:07Z" uid="207745" user="NE2" changeset="8806856">
+    <nd ref="81608460"/>
+    <nd ref="81843839"/>
+    <nd ref="282710326"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="North Walton Walker Boulevard"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="Loop 12"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Walton Walker"/>
+    <tag k="tiger:name_base_1" v="State Highway Loop 12"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="Blvd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102977401:103197692:103197693:102983626:102894799:103267122:103181529:103181531:103228092:103228107:103226568:103226572:103266691:103266960:103226495:103227102:103191948:103191949:103191954:103191955:102939774:102939733:102939752:103192974:103192975:10319"/>
+    <tag k="tiger:zip_left" v="75212"/>
+    <tag k="tiger:zip_right" v="75212"/>
+  </way>
+  <way id="45608160" version="5" timestamp="2011-11-28T13:26:39Z" uid="207745" user="NE2" changeset="9977040">
+    <nd ref="81608460"/>
+    <nd ref="81843839"/>
+    <nd ref="282710326"/>
+    <tag k="hazmat" v="designated"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="North Walton Walker Boulevard"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Walton Walker"/>
+    <tag k="tiger:name_base_1" v="State Highway Loop 12"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="Blvd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102977401:103197692:103197693:102983626:102894799:103267122:103181529:103181531:103228092:103228107:103226568:103226572:103266691:103266960:103226495:103227102:103191948:103191949:103191954:103191955:102939774:102939733:102939752:103192974:103192975:10319"/>
+    <tag k="tiger:zip_left" v="75212"/>
+    <tag k="tiger:zip_right" v="75212"/>
+  </way>
+  <way id="45608160" version="6" timestamp="2012-01-03T09:38:24Z" uid="207745" user="NE2" changeset="10279358">
+    <nd ref="81608460"/>
+    <nd ref="81843839"/>
+    <nd ref="282710326"/>
+    <tag k="hazmat" v="designated"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="North Walton Walker Boulevard"/>
+    <tag k="old_ref" v="Spur 348"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Walton Walker"/>
+    <tag k="tiger:name_base_1" v="State Highway Loop 12"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="Blvd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102977401:103197692:103197693:102983626:102894799:103267122:103181529:103181531:103228092:103228107:103226568:103226572:103266691:103266960:103226495:103227102:103191948:103191949:103191954:103191955:102939774:102939733:102939752:103192974:103192975:10319"/>
+    <tag k="tiger:zip_left" v="75212"/>
+    <tag k="tiger:zip_right" v="75212"/>
+  </way>
+  <way id="45608161" version="2" timestamp="2010-04-07T14:07:30Z" uid="20587" user="balrog-kun" changeset="4353646">
+    <nd ref="81543697"/>
+    <nd ref="81844134"/>
+    <nd ref="81844135"/>
+    <nd ref="81844136"/>
+    <nd ref="81844138"/>
+    <nd ref="81844141"/>
+    <nd ref="81844142"/>
+    <nd ref="81844144"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="North Walton Walker Blvd; State Loop 12"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="TX Loop 12"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Walton Walker"/>
+    <tag k="tiger:name_base_1" v="State Highway LP 12"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="Blvd"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102893578:103269856:103236968:103268825:103268826:103236959:103269364:103269365:103268797:103268944:103234777:103234779:103268942:103268780:103268783:103268784:103268683:103234373:103201614:103203264:103203265"/>
+  </way>
+  <way id="45608161" version="3" timestamp="2010-04-09T16:18:55Z" uid="37392" user="25or6to4" changeset="4374580">
+    <nd ref="81543697"/>
+    <nd ref="81844134"/>
+    <nd ref="81844135"/>
+    <nd ref="81844136"/>
+    <nd ref="81844138"/>
+    <nd ref="81844141"/>
+    <nd ref="81844142"/>
+    <nd ref="81844144"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="North Walton Walker Blvd; State Loop 12"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="Loop 12"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Walton Walker"/>
+    <tag k="tiger:name_base_1" v="State Highway LP 12"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="Blvd"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102893578:103269856:103236968:103268825:103268826:103236959:103269364:103269365:103268797:103268944:103234777:103234779:103268942:103268780:103268783:103268784:103268683:103234373:103201614:103203264:103203265"/>
+  </way>
+  <way id="45608161" version="4" timestamp="2010-12-24T04:51:43Z" uid="207745" user="NE2" changeset="6751594">
+    <nd ref="81543697"/>
+    <nd ref="81844134"/>
+    <nd ref="81844135"/>
+    <nd ref="81844136"/>
+    <nd ref="81844138"/>
+    <nd ref="81844141"/>
+    <nd ref="81844142"/>
+    <nd ref="81844144"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="North Walton Walker Boulevard"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="Loop 12"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Walton Walker"/>
+    <tag k="tiger:name_base_1" v="State Highway LP 12"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="Blvd"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102893578:103269856:103236968:103268825:103268826:103236959:103269364:103269365:103268797:103268944:103234777:103234779:103268942:103268780:103268783:103268784:103268683:103234373:103201614:103203264:103203265"/>
+  </way>
+  <way id="45608161" version="5" timestamp="2011-07-23T14:38:16Z" uid="207745" user="NE2" changeset="8806856">
+    <nd ref="81543697"/>
+    <nd ref="81844134"/>
+    <nd ref="81844135"/>
+    <nd ref="81844136"/>
+    <nd ref="81844138"/>
+    <nd ref="81844141"/>
+    <nd ref="81844142"/>
+    <nd ref="81844144"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="North Walton Walker Boulevard"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="Loop 12"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Walton Walker"/>
+    <tag k="tiger:name_base_1" v="State Highway LP 12"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="Blvd"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102893578:103269856:103236968:103268825:103268826:103236959:103269364:103269365:103268797:103268944:103234777:103234779:103268942:103268780:103268783:103268784:103268683:103234373:103201614:103203264:103203265"/>
+  </way>
+  <way id="45608161" version="6" timestamp="2011-11-28T13:26:52Z" uid="207745" user="NE2" changeset="9977040">
+    <nd ref="81543697"/>
+    <nd ref="81844135"/>
+    <nd ref="81844136"/>
+    <nd ref="81844138"/>
+    <nd ref="81844141"/>
+    <nd ref="81844142"/>
+    <nd ref="81844144"/>
+    <tag k="hazmat" v="designated"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="North Walton Walker Boulevard"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="Loop 12"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Walton Walker"/>
+    <tag k="tiger:name_base_1" v="State Highway LP 12"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="Blvd"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102893578:103269856:103236968:103268825:103268826:103236959:103269364:103269365:103268797:103268944:103234777:103234779:103268942:103268780:103268783:103268784:103268683:103234373:103201614:103203264:103203265"/>
+  </way>
+  <way id="45608161" version="7" timestamp="2012-01-03T09:38:32Z" uid="207745" user="NE2" changeset="10279358">
+    <nd ref="81543697"/>
+    <nd ref="81844135"/>
+    <nd ref="81844136"/>
+    <nd ref="81844138"/>
+    <nd ref="81844141"/>
+    <nd ref="81844142"/>
+    <nd ref="81844144"/>
+    <tag k="hazmat" v="designated"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="North Walton Walker Boulevard"/>
+    <tag k="old_ref" v="Spur 348"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="Loop 12"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Walton Walker"/>
+    <tag k="tiger:name_base_1" v="State Highway LP 12"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="Blvd"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102893578:103269856:103236968:103268825:103268826:103236959:103269364:103269365:103268797:103268944:103234777:103234779:103268942:103268780:103268783:103268784:103268683:103234373:103201614:103203264:103203265"/>
+  </way>
+  <way id="45608162" version="2" timestamp="2010-04-07T14:07:30Z" uid="20587" user="balrog-kun" changeset="4353646">
+    <nd ref="81692179"/>
+    <nd ref="81988727"/>
+    <nd ref="81988725"/>
+    <nd ref="81988724"/>
+    <nd ref="81988723"/>
+    <nd ref="81839537"/>
+    <nd ref="81839422"/>
+    <nd ref="81561201"/>
+    <nd ref="81550340"/>
+    <nd ref="81988718"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="West Northwest Highway; State Loop 12"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="TX Loop 12"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Northwest"/>
+    <tag k="tiger:name_base_1" v="State Highway LP 12"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="Hwy"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="103269866:103237294:103237303:103269442:103237310:103237311:103237312:103237332:103241331:103237295:103237601:103237599:103269499:103237442:103237443:103237553:103269500:103269430:103269435:103237304:103238857:103237314:103269878:103238871:103269477:10326"/>
+  </way>
+  <way id="45608162" version="3" timestamp="2010-04-09T16:18:53Z" uid="37392" user="25or6to4" changeset="4374580">
+    <nd ref="81692179"/>
+    <nd ref="81988727"/>
+    <nd ref="81988725"/>
+    <nd ref="81988724"/>
+    <nd ref="81988723"/>
+    <nd ref="81839537"/>
+    <nd ref="81839422"/>
+    <nd ref="81561201"/>
+    <nd ref="81550340"/>
+    <nd ref="81988718"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="West Northwest Highway; State Loop 12"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="Loop 12"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Northwest"/>
+    <tag k="tiger:name_base_1" v="State Highway LP 12"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="Hwy"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="103269866:103237294:103237303:103269442:103237310:103237311:103237312:103237332:103241331:103237295:103237601:103237599:103269499:103237442:103237443:103237553:103269500:103269430:103269435:103237304:103238857:103237314:103269878:103238871:103269477:10326"/>
+  </way>
+  <way id="45608162" version="4" timestamp="2010-12-22T11:44:03Z" uid="207745" user="NE2" changeset="6734550">
+    <nd ref="81692179"/>
+    <nd ref="81988727"/>
+    <nd ref="81988725"/>
+    <nd ref="81988724"/>
+    <nd ref="81988723"/>
+    <nd ref="81839537"/>
+    <nd ref="81839422"/>
+    <nd ref="81561201"/>
+    <nd ref="81550340"/>
+    <nd ref="81988718"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="West Northwest Highway; State Loop 12"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="Loop 12"/>
+    <tag k="source:hgv" v="Dallas City Code section 28-71"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Northwest"/>
+    <tag k="tiger:name_base_1" v="State Highway LP 12"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="Hwy"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="103269866:103237294:103237303:103269442:103237310:103237311:103237312:103237332:103241331:103237295:103237601:103237599:103269499:103237442:103237443:103237553:103269500:103269430:103269435:103237304:103238857:103237314:103269878:103238871:103269477:10326"/>
+  </way>
+  <way id="45608162" version="5" timestamp="2010-12-24T04:45:01Z" uid="207745" user="NE2" changeset="6751594">
+    <nd ref="81692179"/>
+    <nd ref="81988727"/>
+    <nd ref="81988725"/>
+    <nd ref="81988724"/>
+    <nd ref="81988723"/>
+    <nd ref="81839537"/>
+    <nd ref="81839422"/>
+    <nd ref="81561201"/>
+    <nd ref="81550340"/>
+    <nd ref="81988718"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="West Northwest Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="Loop 12"/>
+    <tag k="source:hgv" v="Dallas City Code section 28-71"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Northwest"/>
+    <tag k="tiger:name_base_1" v="State Highway LP 12"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="Hwy"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="103269866:103237294:103237303:103269442:103237310:103237311:103237312:103237332:103241331:103237295:103237601:103237599:103269499:103237442:103237443:103237553:103269500:103269430:103269435:103237304:103238857:103237314:103269878:103238871:103269477:10326"/>
+  </way>
+  <way id="45608162" version="6" timestamp="2011-07-08T00:15:55Z" uid="145781" user="Mara" changeset="8662313">
+    <nd ref="81692179"/>
+    <nd ref="81988727"/>
+    <nd ref="81988725"/>
+    <nd ref="81988724"/>
+    <nd ref="81988723"/>
+    <nd ref="81839537"/>
+    <nd ref="81839422"/>
+    <nd ref="81561201"/>
+    <nd ref="1353178016"/>
+    <nd ref="81550340"/>
+    <nd ref="81988718"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="West Northwest Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="Loop 12"/>
+    <tag k="source:hgv" v="Dallas City Code section 28-71"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Northwest"/>
+    <tag k="tiger:name_base_1" v="State Highway LP 12"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="Hwy"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="103269866:103237294:103237303:103269442:103237310:103237311:103237312:103237332:103241331:103237295:103237601:103237599:103269499:103237442:103237443:103237553:103269500:103269430:103269435:103237304:103238857:103237314:103269878:103238871:103269477:10326"/>
+  </way>
+  <way id="45608162" version="7" timestamp="2012-01-06T06:43:01Z" uid="207745" user="NE2" changeset="10308242">
+    <nd ref="81692179"/>
+    <nd ref="81988727"/>
+    <nd ref="81988725"/>
+    <nd ref="81988724"/>
+    <nd ref="81988723"/>
+    <nd ref="81839537"/>
+    <nd ref="81839422"/>
+    <nd ref="81561201"/>
+    <nd ref="1353178016"/>
+    <nd ref="81550340"/>
+    <nd ref="81988718"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="West Northwest Highway"/>
+    <tag k="old_ref" v="SH 114"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="Loop 12"/>
+    <tag k="source:hgv" v="Dallas City Code section 28-71"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Northwest"/>
+    <tag k="tiger:name_base_1" v="State Highway LP 12"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="Hwy"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="103269866:103237294:103237303:103269442:103237310:103237311:103237312:103237332:103241331:103237295:103237601:103237599:103269499:103237442:103237443:103237553:103269500:103269430:103269435:103237304:103238857:103237314:103269878:103238871:103269477:10326"/>
+  </way>
+  <way id="45608163" version="2" timestamp="2010-04-07T14:07:31Z" uid="20587" user="balrog-kun" changeset="4353646">
+    <nd ref="81608444"/>
+    <nd ref="82027953"/>
+    <nd ref="82027955"/>
+    <nd ref="82027960"/>
+    <nd ref="81692177"/>
+    <nd ref="81692179"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="West Service Road"/>
+    <tag k="note" v="frontage"/>
+    <tag k="tiger:cfcc" v="A64"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="W Service Road"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="103203298:103203299:102976721"/>
+  </way>
+  <way id="45608163" version="3" timestamp="2010-04-09T16:18:55Z" uid="37392" user="25or6to4" changeset="4374580">
+    <nd ref="81608444"/>
+    <nd ref="82027953"/>
+    <nd ref="82027955"/>
+    <nd ref="82027960"/>
+    <nd ref="81692177"/>
+    <nd ref="81692179"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="West Service Road"/>
+    <tag k="note" v="frontage"/>
+    <tag k="ref" v="Loop 12"/>
+    <tag k="tiger:cfcc" v="A64"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="W Service Road"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="103203298:103203299:102976721"/>
+  </way>
+  <way id="45608163" version="4" timestamp="2011-07-08T00:41:19Z" uid="145781" user="Mara" changeset="8662379">
+    <nd ref="81608444"/>
+    <nd ref="82027953"/>
+    <nd ref="82027955"/>
+    <nd ref="82027960"/>
+    <nd ref="81692177"/>
+    <nd ref="81692179"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="West Service Road"/>
+    <tag k="note" v="frontage"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="Loop 12"/>
+    <tag k="tiger:cfcc" v="A64"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="W Service Road"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="103203298:103203299:102976721"/>
+  </way>
+  <way id="45608163" version="5" timestamp="2011-11-28T13:34:29Z" uid="207745" user="NE2" changeset="9977040">
+    <nd ref="81608444"/>
+    <nd ref="82027955"/>
+    <nd ref="82027960"/>
+    <nd ref="81692177"/>
+    <nd ref="81692179"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="West Service Road"/>
+    <tag k="note" v="frontage"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="Loop 12"/>
+    <tag k="tiger:cfcc" v="A64"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="W Service Road"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="103203298:103203299:102976721"/>
+  </way>
+  <way id="45608479" version="2" timestamp="2010-07-25T22:26:18Z" uid="4467" user="Rosscoe" changeset="5317245">
+    <nd ref="106777986"/>
+    <nd ref="106777988"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Kawana Island Boulevard"/>
+  </way>
+  <way id="45608682" version="2" timestamp="2009-12-18T01:06:58Z" uid="4467" user="Rosscoe" changeset="3397798">
+    <nd ref="581457068"/>
+    <nd ref="581457069"/>
+    <nd ref="581457070"/>
+    <nd ref="581457067"/>
+    <nd ref="581457046"/>
+    <nd ref="581457047"/>
+    <nd ref="581457048"/>
+    <nd ref="595483603"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="45608682" version="3" timestamp="2010-07-06T17:46:02Z" uid="74617" user="JohnSmith" changeset="5152225">
+    <nd ref="581457068"/>
+    <nd ref="581457069"/>
+    <nd ref="581457070"/>
+    <nd ref="581457067"/>
+    <nd ref="581457046"/>
+    <nd ref="581457047"/>
+    <nd ref="581457048"/>
+    <nd ref="595483603"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="45608682" version="4" timestamp="2012-01-19T12:24:45Z" uid="147510" user="woodpeck_fixbot" changeset="10436041">
+    <nd ref="581457068"/>
+    <nd ref="581457069"/>
+    <nd ref="581457070"/>
+    <nd ref="581457067"/>
+    <nd ref="581457046"/>
+    <nd ref="581457047"/>
+    <nd ref="581457048"/>
+    <nd ref="595483603"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="45608683" version="2" timestamp="2009-12-18T01:06:48Z" uid="4467" user="Rosscoe" changeset="3397798">
+    <nd ref="595483602"/>
+    <nd ref="581457050"/>
+    <nd ref="581457051"/>
+    <nd ref="581457052"/>
+    <nd ref="581457058"/>
+    <nd ref="581457059"/>
+    <nd ref="581457061"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="45608683" version="3" timestamp="2010-07-06T17:43:56Z" uid="74617" user="JohnSmith" changeset="5152225">
+    <nd ref="595483602"/>
+    <nd ref="581457050"/>
+    <nd ref="581457051"/>
+    <nd ref="581457052"/>
+    <nd ref="581457058"/>
+    <nd ref="581457059"/>
+    <nd ref="581457061"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="45608683" version="4" timestamp="2012-01-19T12:24:48Z" uid="147510" user="woodpeck_fixbot" changeset="10436041">
+    <nd ref="595483602"/>
+    <nd ref="581457050"/>
+    <nd ref="581457051"/>
+    <nd ref="581457052"/>
+    <nd ref="581457058"/>
+    <nd ref="581457059"/>
+    <nd ref="581457061"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="45608690" version="2" timestamp="2010-07-06T17:46:44Z" uid="74617" user="JohnSmith" changeset="5152225">
+    <nd ref="581457061"/>
+    <nd ref="581457066"/>
+    <nd ref="581457063"/>
+    <nd ref="581457086"/>
+    <nd ref="581457079"/>
+    <nd ref="581457084"/>
+    <nd ref="581457080"/>
+    <nd ref="581457083"/>
+    <nd ref="581457082"/>
+    <nd ref="581457076"/>
+    <nd ref="581457072"/>
+    <nd ref="581457075"/>
+    <nd ref="581457068"/>
+    <nd ref="581457074"/>
+    <nd ref="581457064"/>
+    <nd ref="581457065"/>
+    <nd ref="581457061"/>
+    <tag k="highway" v="residential"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="45608690" version="3" timestamp="2012-01-19T12:24:49Z" uid="147510" user="woodpeck_fixbot" changeset="10436041">
+    <nd ref="581457061"/>
+    <nd ref="581457066"/>
+    <nd ref="581457063"/>
+    <nd ref="581457086"/>
+    <nd ref="581457079"/>
+    <nd ref="581457084"/>
+    <nd ref="581457080"/>
+    <nd ref="581457083"/>
+    <nd ref="581457082"/>
+    <nd ref="581457076"/>
+    <nd ref="581457072"/>
+    <nd ref="581457075"/>
+    <nd ref="581457068"/>
+    <nd ref="581457074"/>
+    <nd ref="581457064"/>
+    <nd ref="581457065"/>
+    <nd ref="581457061"/>
+    <tag k="highway" v="residential"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="45608768" version="2" timestamp="2010-07-06T17:47:22Z" uid="74617" user="JohnSmith" changeset="5152225">
+    <nd ref="581462013"/>
+    <nd ref="581462019"/>
+    <nd ref="581462004"/>
+    <tag k="access" v="permissive"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="45608768" version="3" timestamp="2012-01-19T12:24:52Z" uid="147510" user="woodpeck_fixbot" changeset="10436041">
+    <nd ref="581462013"/>
+    <nd ref="581462019"/>
+    <nd ref="581462004"/>
+    <tag k="access" v="permissive"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="45608769" version="2" timestamp="2010-07-06T17:45:20Z" uid="74617" user="JohnSmith" changeset="5152225">
+    <nd ref="581462004"/>
+    <nd ref="581462003"/>
+    <nd ref="581462002"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="45608769" version="3" timestamp="2012-01-19T12:24:55Z" uid="147510" user="woodpeck_fixbot" changeset="10436041">
+    <nd ref="581462004"/>
+    <nd ref="581462003"/>
+    <nd ref="581462002"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="45608772" version="3" timestamp="2010-07-06T17:45:57Z" uid="74617" user="JohnSmith" changeset="5152225">
+    <nd ref="581461988"/>
+    <nd ref="581461989"/>
+    <nd ref="581461991"/>
+    <nd ref="581461995"/>
+    <nd ref="581461996"/>
+    <nd ref="581461998"/>
+    <tag k="access" v="permissive"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="45608772" version="4" timestamp="2011-04-15T15:32:34Z" uid="4467" user="Rosscoe" changeset="7870642">
+    <nd ref="581461988"/>
+    <nd ref="581461989"/>
+    <nd ref="581461991"/>
+    <nd ref="581461995"/>
+    <nd ref="581461996"/>
+    <nd ref="581461998"/>
+    <tag k="access" v="permissive"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="45608772" version="5" timestamp="2012-01-19T12:24:56Z" uid="147510" user="woodpeck_fixbot" changeset="10436041">
+    <nd ref="581461988"/>
+    <nd ref="581461989"/>
+    <nd ref="581461991"/>
+    <nd ref="581461995"/>
+    <nd ref="581461996"/>
+    <nd ref="581461998"/>
+    <tag k="access" v="permissive"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="45608773" version="3" timestamp="2010-07-06T17:43:48Z" uid="74617" user="JohnSmith" changeset="5152225">
+    <nd ref="581461998"/>
+    <nd ref="581461999"/>
+    <nd ref="581462011"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="45608773" version="4" timestamp="2011-04-15T15:32:13Z" uid="4467" user="Rosscoe" changeset="7870642">
+    <nd ref="581461998"/>
+    <nd ref="581461999"/>
+    <nd ref="581462011"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="45608773" version="5" timestamp="2012-01-19T12:24:58Z" uid="147510" user="woodpeck_fixbot" changeset="10436041">
+    <nd ref="581461998"/>
+    <nd ref="581461999"/>
+    <nd ref="581462011"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="45608128" version="5" timestamp="2012-07-22T04:20:17Z" uid="722137" user="OSMF Redaction Account" changeset="12425262"/>
+  <way id="45608129" version="3" timestamp="2012-07-22T04:20:09Z" uid="722137" user="OSMF Redaction Account" changeset="12425262"/>
+  <way id="45608130" version="2" timestamp="2012-07-22T04:20:08Z" uid="722137" user="OSMF Redaction Account" changeset="12425262"/>
+  <way id="45608152" version="3" timestamp="2012-07-19T15:37:31Z" uid="722137" user="OSMF Redaction Account" changeset="12335506">
+    <nd ref="581452371"/>
+    <nd ref="581452355"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="Kawana Way"/>
+  </way>
+  <way id="45608163" version="6" timestamp="2012-08-21T02:26:20Z" uid="207745" user="NE2" changeset="12803049">
+    <nd ref="81608444"/>
+    <nd ref="82027955"/>
+    <nd ref="82027960"/>
+    <nd ref="81692177"/>
+    <nd ref="81692179"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="West Service Road"/>
+    <tag k="note" v="frontage"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="Loop 12"/>
+    <tag k="tiger:cfcc" v="A64"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="W Service Road"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="103203298:103203299:102976721"/>
+  </way>
+  <way id="45608479" version="3" timestamp="2012-07-19T15:05:51Z" uid="722137" user="OSMF Redaction Account" changeset="12333097"/>
+  <way id="45608682" version="5" timestamp="2012-07-19T14:13:46Z" uid="722137" user="OSMF Redaction Account" changeset="12331001">
+    <nd ref="581457068"/>
+    <nd ref="581457069"/>
+    <nd ref="581457070"/>
+    <nd ref="581457067"/>
+    <nd ref="581457046"/>
+    <nd ref="581457047"/>
+    <nd ref="581457048"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="45608682" version="6" timestamp="2012-08-30T13:13:17Z" uid="38548" user="PesceVerde" changeset="12917847">
+    <nd ref="581457068"/>
+    <nd ref="581457069"/>
+    <nd ref="581457070"/>
+    <nd ref="581457067"/>
+    <nd ref="581457046"/>
+    <nd ref="310728310"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="45608683" version="5" timestamp="2012-07-19T14:13:46Z" uid="722137" user="OSMF Redaction Account" changeset="12331001">
+    <nd ref="581457050"/>
+    <nd ref="581457051"/>
+    <nd ref="581457052"/>
+    <nd ref="581457058"/>
+    <nd ref="581457059"/>
+    <nd ref="581457061"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="45608683" version="6" timestamp="2012-08-30T13:13:16Z" uid="38548" user="PesceVerde" changeset="12917847">
+    <nd ref="310728309"/>
+    <nd ref="581457052"/>
+    <nd ref="581457058"/>
+    <nd ref="581457059"/>
+    <nd ref="581457061"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="45608772" version="6" timestamp="2012-07-19T14:15:06Z" uid="722137" user="OSMF Redaction Account" changeset="12331073">
+    <nd ref="581461988"/>
+    <nd ref="581461989"/>
+    <nd ref="581461991"/>
+    <nd ref="581461995"/>
+    <nd ref="581461996"/>
+    <nd ref="581461998"/>
+    <tag k="access" v="permissive"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="45608773" version="6" timestamp="2012-07-19T14:15:06Z" uid="722137" user="OSMF Redaction Account" changeset="12331073">
+    <nd ref="581461998"/>
+    <nd ref="581461999"/>
+    <nd ref="581462011"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+</osm>

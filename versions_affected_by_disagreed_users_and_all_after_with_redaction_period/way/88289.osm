@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="88289349" version="3" timestamp="2011-03-13T16:20:09Z" uid="33382" user="de_muur" changeset="7547010">
+    <nd ref="1025529116"/>
+    <nd ref="1077251605"/>
+    <nd ref="254331553"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="88289349" version="4" timestamp="2011-12-11T18:37:24Z" uid="57645" user="KartoGrapHiti" changeset="10092775">
+    <nd ref="1025529116"/>
+    <nd ref="1077251605"/>
+    <nd ref="254331553"/>
+    <tag k="footway" v="no"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="88289378" version="2" timestamp="2011-03-13T16:20:09Z" uid="33382" user="de_muur" changeset="7547010">
+    <nd ref="1025529063"/>
+    <nd ref="1025529116"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="88289378" version="3" timestamp="2011-12-11T18:37:24Z" uid="57645" user="KartoGrapHiti" changeset="10092775">
+    <nd ref="1025529063"/>
+    <nd ref="1025529116"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="footway" v="no"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="88289383" version="2" timestamp="2011-03-13T19:52:58Z" uid="33382" user="de_muur" changeset="7549575">
+    <nd ref="267825459"/>
+    <nd ref="267825458"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Neu Holtum"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="88289349" version="5" timestamp="2012-07-18T14:48:05Z" uid="722137" user="OSMF Redaction Account" changeset="12285653">
+    <nd ref="1025529116"/>
+    <nd ref="1077251605"/>
+    <nd ref="254331553"/>
+    <tag k="footway" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+  </way>
+  <way id="88289349" version="6" timestamp="2012-07-29T12:00:46Z" uid="57645" user="KartoGrapHiti" changeset="12534071">
+    <nd ref="1025529116"/>
+    <nd ref="1077251605"/>
+    <nd ref="254331553"/>
+    <tag k="footway" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lcn" v="yes"/>
+    <tag k="maxspeed" v="50"/>
+  </way>
+  <way id="88289378" version="4" timestamp="2012-07-18T14:48:04Z" uid="722137" user="OSMF Redaction Account" changeset="12285653">
+    <nd ref="1025529063"/>
+    <nd ref="1025529116"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="footway" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+  </way>
+  <way id="88289383" version="3" timestamp="2012-07-18T14:42:44Z" uid="722137" user="OSMF Redaction Account" changeset="12285483">
+    <nd ref="267825459"/>
+    <nd ref="267825458"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Neu Holtum"/>
+  </way>
+  <way id="88289383" version="4" timestamp="2012-09-09T12:30:52Z" uid="57645" user="KartoGrapHiti" changeset="13043827">
+    <nd ref="267825459"/>
+    <nd ref="267825458"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lcn" v="yes"/>
+    <tag k="name" v="Neu Holtum"/>
+  </way>
+</osm>

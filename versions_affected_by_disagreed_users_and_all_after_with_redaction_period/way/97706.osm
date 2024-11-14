@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="97706047" version="1" timestamp="2011-02-01T16:53:26Z" uid="43863" user="Rundling" changeset="7156550">
+    <nd ref="1131146594"/>
+    <nd ref="893146203"/>
+    <tag k="highway" v="track"/>
+    <tag k="tracktype" v="grade3"/>
+  </way>
+  <way id="97706047" version="2" timestamp="2011-06-04T21:58:54Z" uid="292562" user="WMWDe" changeset="8343620"/>
+  <way id="97706048" version="1" timestamp="2011-02-01T16:53:27Z" uid="43863" user="Rundling" changeset="7156550">
+    <nd ref="1131146598"/>
+    <nd ref="313867068"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="frequency" v="16.7"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="200"/>
+    <tag k="name" v="Hannover-Hamburg"/>
+    <tag k="railway" v="rail"/>
+    <tag k="voltage" v="15000"/>
+  </way>
+  <way id="97706048" version="2" timestamp="2011-11-01T09:32:43Z" uid="42429" user="FK270673" changeset="9710454">
+    <nd ref="1131146598"/>
+    <nd ref="313867068"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="frequency" v="16.7"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="200"/>
+    <tag k="name" v="Hannover-Hamburg"/>
+    <tag k="railway" v="rail"/>
+    <tag k="voltage" v="15000"/>
+  </way>
+  <way id="97706049" version="1" timestamp="2011-02-01T16:53:27Z" uid="43863" user="Rundling" changeset="7156550">
+    <nd ref="313867068"/>
+    <nd ref="320009511"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="frequency" v="16.7"/>
+    <tag k="maxspeed" v="200"/>
+    <tag k="name" v="Hannover-Hamburg"/>
+    <tag k="railway" v="rail"/>
+    <tag k="voltage" v="15000"/>
+  </way>
+  <way id="97706049" version="2" timestamp="2011-04-07T12:35:43Z" uid="83876" user="BurnyB" changeset="7794248">
+    <nd ref="313867068"/>
+    <nd ref="1235922815"/>
+    <nd ref="1235922888"/>
+    <nd ref="1235922745"/>
+    <nd ref="320009511"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="frequency" v="16.7"/>
+    <tag k="maxspeed" v="200"/>
+    <tag k="name" v="Hannover-Hamburg"/>
+    <tag k="railway" v="rail"/>
+    <tag k="voltage" v="15000"/>
+  </way>
+  <way id="97706049" version="3" timestamp="2011-11-01T09:32:55Z" uid="42429" user="FK270673" changeset="9710454">
+    <nd ref="313867068"/>
+    <nd ref="1235922815"/>
+    <nd ref="1235922888"/>
+    <nd ref="1235922745"/>
+    <nd ref="320009511"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="frequency" v="16.7"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="maxspeed" v="200"/>
+    <tag k="name" v="Hannover-Hamburg"/>
+    <tag k="railway" v="rail"/>
+    <tag k="voltage" v="15000"/>
+  </way>
+  <way id="97706048" version="3" timestamp="2012-04-07T19:25:40Z" uid="123364" user="Tronikon" changeset="11217856"/>
+  <way id="97706049" version="4" timestamp="2012-04-07T19:25:40Z" uid="123364" user="Tronikon" changeset="11217856"/>
+</osm>

@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="60043046" version="3" timestamp="2010-07-09T03:52:42Z" uid="74617" user="JohnSmith" changeset="5170825">
+    <nd ref="746286434"/>
+    <nd ref="746286771"/>
+    <nd ref="746286777"/>
+    <nd ref="746286778"/>
+    <nd ref="746286779"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Celadon Street"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="60043046" version="4" timestamp="2012-01-20T08:30:13Z" uid="147510" user="woodpeck_fixbot" changeset="10443754">
+    <nd ref="746286434"/>
+    <nd ref="746286771"/>
+    <nd ref="746286777"/>
+    <nd ref="746286778"/>
+    <nd ref="746286779"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Celadon Street"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="60043746" version="2" timestamp="2010-08-04T17:37:11Z" uid="9581" user="Lobelt" changeset="5401263">
+    <nd ref="414631278"/>
+    <nd ref="414631276"/>
+    <tag k="cables" v="2"/>
+    <tag k="frequency" v="16.7"/>
+    <tag k="name" v="Eichenberg - Nörten-Hardenberg"/>
+    <tag k="operator" v="DB_Energie"/>
+    <tag k="power" v="line"/>
+    <tag k="voltage" v="110000"/>
+    <tag k="wires" v="single"/>
+  </way>
+  <way id="60043750" version="2" timestamp="2010-08-04T17:47:56Z" uid="9581" user="Lobelt" changeset="5401263">
+    <nd ref="414631279"/>
+    <nd ref="414631276"/>
+    <tag k="cables" v="2"/>
+    <tag k="frequency" v="16.7"/>
+    <tag k="name" v="Bebra - Eichenberg"/>
+    <tag k="operator" v="DB_Energie"/>
+    <tag k="power" v="line"/>
+    <tag k="voltage" v="110000"/>
+    <tag k="wires" v="single"/>
+  </way>
+  <way id="60043979" version="2" timestamp="2010-07-09T03:51:53Z" uid="74617" user="JohnSmith" changeset="5170825">
+    <nd ref="746271498"/>
+    <nd ref="746287042"/>
+    <nd ref="746287043"/>
+    <nd ref="746287044"/>
+    <nd ref="746287045"/>
+    <nd ref="746287046"/>
+    <nd ref="746287047"/>
+    <nd ref="746287048"/>
+    <nd ref="746287049"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Amarath Circuit"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="60043979" version="3" timestamp="2012-01-20T08:30:16Z" uid="147510" user="woodpeck_fixbot" changeset="10443754">
+    <nd ref="746271498"/>
+    <nd ref="746287042"/>
+    <nd ref="746287043"/>
+    <nd ref="746287044"/>
+    <nd ref="746287045"/>
+    <nd ref="746287046"/>
+    <nd ref="746287047"/>
+    <nd ref="746287048"/>
+    <nd ref="746287049"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Amarath Circuit"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="60043746" version="3" timestamp="2012-08-04T11:22:24Z" uid="13203" user="bahnpirat" changeset="12607698">
+    <nd ref="414631278"/>
+    <nd ref="414631276"/>
+    <nd ref="1851359100"/>
+    <nd ref="1851359089"/>
+    <tag k="cables" v="2"/>
+    <tag k="frequency" v="16.7"/>
+    <tag k="name" v="Nörten-Hardenberg2"/>
+    <tag k="operator" v="DB_Energie"/>
+    <tag k="power" v="line"/>
+    <tag k="ref" v="2"/>
+    <tag k="voltage" v="110000"/>
+    <tag k="wires" v="single"/>
+  </way>
+  <way id="60043750" version="3" timestamp="2012-08-04T11:22:25Z" uid="13203" user="bahnpirat" changeset="12607698">
+    <nd ref="414631279"/>
+    <nd ref="414631276"/>
+    <nd ref="1851359058"/>
+    <nd ref="1851359059"/>
+    <tag k="cables" v="2"/>
+    <tag k="frequency" v="16.7"/>
+    <tag k="name" v="Bebra2"/>
+    <tag k="operator" v="DB_Energie"/>
+    <tag k="power" v="line"/>
+    <tag k="ref" v="2"/>
+    <tag k="voltage" v="110000"/>
+    <tag k="wires" v="single"/>
+  </way>
+</osm>

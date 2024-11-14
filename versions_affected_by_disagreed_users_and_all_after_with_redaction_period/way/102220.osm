@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="102220181" version="1" timestamp="2011-02-28T22:33:00Z" uid="30632" user="antblant" changeset="7425414">
+    <nd ref="1179703852"/>
+    <nd ref="258267144"/>
+    <nd ref="1179703800"/>
+    <nd ref="258267187"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="source" v="UMP-PL, ./UMP-Gdansk/src/inne.ulice.txt"/>
+  </way>
+  <way id="102220181" version="2" timestamp="2011-04-23T11:25:39Z" uid="98542" user="wajak" changeset="7942721">
+    <nd ref="1179703852"/>
+    <nd ref="1256609922"/>
+    <nd ref="258267144"/>
+    <nd ref="1179703800"/>
+    <nd ref="258267187"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="102220182" version="1" timestamp="2011-02-28T22:33:01Z" uid="30632" user="antblant" changeset="7425414">
+    <nd ref="1179703852"/>
+    <nd ref="258258261"/>
+    <nd ref="258258262"/>
+    <nd ref="258258267"/>
+    <nd ref="258258268"/>
+    <nd ref="258258265"/>
+    <nd ref="258257858"/>
+    <tag k="highway" v="track"/>
+    <tag k="source" v="UMP-PL, ./UMP-Gdansk/src/inne.ulice.txt"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="102220181" version="3" timestamp="2012-07-25T03:23:04Z" uid="722137" user="OSMF Redaction Account" changeset="12480355">
+    <nd ref="1179703852"/>
+    <nd ref="1256609922"/>
+    <nd ref="1179703800"/>
+    <nd ref="258267187"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="102220182" version="2" timestamp="2012-07-25T03:23:02Z" uid="722137" user="OSMF Redaction Account" changeset="12480355">
+    <nd ref="1179703852"/>
+    <nd ref="258257858"/>
+    <tag k="highway" v="track"/>
+    <tag k="source" v="UMP-PL, ./UMP-Gdansk/src/inne.ulice.txt"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="102220182" version="3" timestamp="2012-08-07T15:19:23Z" uid="513431" user="WoGraSo" changeset="12645482"/>
+</osm>

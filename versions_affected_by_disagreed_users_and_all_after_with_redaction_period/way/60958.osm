@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="60958566" version="2" timestamp="2010-06-29T19:11:41Z" uid="74617" user="JohnSmith" changeset="5108182">
+    <nd ref="763091501"/>
+    <nd ref="763091510"/>
+    <nd ref="763091520"/>
+    <nd ref="763091529"/>
+    <nd ref="763091501"/>
+    <tag k="fixme" v="sport=football is ambiguous, see http://wiki.osm.org/wiki/Football for more details"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="football"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="60958566" version="3" timestamp="2010-08-09T13:02:41Z" uid="67296" user="Andy Sinclair" changeset="5443641">
+    <nd ref="763091501"/>
+    <nd ref="763091510"/>
+    <nd ref="763091520"/>
+    <nd ref="763091529"/>
+    <nd ref="763091501"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="soccer"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="60958566" version="4" timestamp="2012-01-01T20:02:35Z" uid="158204" user="RichardCorbin" changeset="10264948"/>
+  <way id="60958779" version="3" timestamp="2010-12-20T13:37:29Z" uid="6269" user="Mueck" changeset="6716052">
+    <nd ref="560067186"/>
+    <nd ref="560067189"/>
+    <nd ref="1051580750"/>
+    <nd ref="471286426"/>
+    <nd ref="1051580496"/>
+    <nd ref="471286428"/>
+    <tag k="bicycle" v="designated"/>
+    <tag k="foot" v="designated"/>
+    <tag k="highway" v="path"/>
+    <tag k="segregated" v="no"/>
+    <tag k="width" v="2"/>
+  </way>
+  <way id="60958779" version="4" timestamp="2011-03-02T19:14:16Z" uid="114813" user="Chrisuu" changeset="7440210">
+    <nd ref="560067186"/>
+    <nd ref="560067189"/>
+    <nd ref="1051580750"/>
+    <nd ref="471286426"/>
+    <nd ref="1051580496"/>
+    <nd ref="471286428"/>
+    <tag k="bicycle" v="designated"/>
+    <tag k="foot" v="designated"/>
+    <tag k="highway" v="path"/>
+    <tag k="segregated" v="no"/>
+    <tag k="surface" v="gravel"/>
+    <tag k="width" v="2"/>
+  </way>
+  <way id="60958847" version="3" timestamp="2011-01-24T04:58:57Z" uid="23543" user="jkjk" changeset="7069720">
+    <nd ref="763096161"/>
+    <nd ref="763096164"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="PNC 2006"/>
+  </way>
+  <way id="60958779" version="5" timestamp="2012-07-17T10:04:24Z" uid="722137" user="OSMF Redaction Account" changeset="12262519">
+    <nd ref="560067186"/>
+    <nd ref="560067189"/>
+    <nd ref="471286426"/>
+    <nd ref="471286428"/>
+    <tag k="bicycle" v="designated"/>
+    <tag k="foot" v="designated"/>
+    <tag k="highway" v="path"/>
+    <tag k="segregated" v="no"/>
+    <tag k="surface" v="gravel"/>
+    <tag k="width" v="2"/>
+  </way>
+  <way id="60958779" version="6" timestamp="2012-08-14T21:01:19Z" uid="114813" user="Chrisuu" changeset="12731120">
+    <nd ref="560067186"/>
+    <nd ref="560067189"/>
+    <nd ref="471286426"/>
+    <nd ref="471286428"/>
+    <nd ref="1866376751"/>
+    <tag k="bicycle" v="designated"/>
+    <tag k="foot" v="designated"/>
+    <tag k="highway" v="path"/>
+    <tag k="segregated" v="no"/>
+    <tag k="surface" v="gravel"/>
+    <tag k="width" v="2"/>
+  </way>
+  <way id="60958779" version="7" timestamp="2012-08-14T21:05:20Z" uid="114813" user="Chrisuu" changeset="12731120">
+    <nd ref="560067186"/>
+    <nd ref="560067189"/>
+    <nd ref="1866385681"/>
+    <nd ref="471286426"/>
+    <nd ref="1866385679"/>
+    <nd ref="471286428"/>
+    <nd ref="1866376751"/>
+    <tag k="bicycle" v="designated"/>
+    <tag k="foot" v="designated"/>
+    <tag k="highway" v="path"/>
+    <tag k="segregated" v="no"/>
+    <tag k="surface" v="gravel"/>
+    <tag k="width" v="2"/>
+  </way>
+  <way id="60958847" version="4" timestamp="2012-04-07T16:06:15Z" uid="1700" user="Diego Guidotti" changeset="11215814">
+    <nd ref="763096161"/>
+    <nd ref="1706007076"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="PNC 2006"/>
+  </way>
+  <way id="60958847" version="5" timestamp="2012-05-06T13:29:35Z" uid="217070" user="Davio" changeset="11518472">
+    <nd ref="763096161"/>
+    <nd ref="1706007076"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="frequency" v="50"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="name" v="Bologna-Firenze (alta velocità)"/>
+    <tag k="operator" v="RFI"/>
+    <tag k="railway" v="rail"/>
+    <tag k="source" v="PNC 2006"/>
+    <tag k="voltage" v="25000"/>
+  </way>
+</osm>

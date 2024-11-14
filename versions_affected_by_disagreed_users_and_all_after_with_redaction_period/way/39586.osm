@@ -1,0 +1,643 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="39586058" version="2" timestamp="2010-04-03T13:53:45Z" uid="20587" user="balrog-kun" changeset="4312927">
+    <nd ref="84878643"/>
+    <nd ref="84850970"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="South 2200  East"/>
+    <tag k="name_1" v="South 2200 East Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Utah, UT"/>
+    <tag k="tiger:name_base" v="2200"/>
+    <tag k="tiger:name_base_1" v="2200 East"/>
+    <tag k="tiger:name_direction_prefix" v="S"/>
+    <tag k="tiger:name_direction_prefix_1" v="S"/>
+    <tag k="tiger:name_direction_suffix" v="E"/>
+    <tag k="tiger:name_type_1" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070830"/>
+    <tag k="tiger:tlid" v="134201584:134202012:134217936:134201607:134217941"/>
+  </way>
+  <way id="39586077" version="3" timestamp="2010-06-29T19:06:13Z" uid="74617" user="JohnSmith" changeset="5108182">
+    <nd ref="474503500"/>
+    <nd ref="474503503"/>
+    <nd ref="474503506"/>
+    <nd ref="474503510"/>
+    <nd ref="474503500"/>
+    <tag k="fixme" v="sport=football is ambiguous, see http://wiki.osm.org/wiki/Football for more details"/>
+    <tag k="leisure" v="stadium"/>
+    <tag k="name" v="Campo de Fútbol Municipal"/>
+    <tag k="sport" v="football"/>
+  </way>
+  <way id="39586077" version="4" timestamp="2012-02-29T21:00:41Z" uid="162411" user="kalh" changeset="10831689">
+    <nd ref="474503500"/>
+    <nd ref="474503503"/>
+    <nd ref="474503506"/>
+    <nd ref="474503510"/>
+    <nd ref="474503500"/>
+    <tag k="leisure" v="stadium"/>
+    <tag k="name" v="Campo de Fútbol Municipal"/>
+    <tag k="sport" v="soccer"/>
+  </way>
+  <way id="39586100" version="1" timestamp="2009-08-26T13:01:27Z" uid="33382" user="de_muur" changeset="2267356">
+    <nd ref="474505728"/>
+    <nd ref="267658621"/>
+    <nd ref="274745954"/>
+    <nd ref="267658622"/>
+    <nd ref="274745960"/>
+    <nd ref="267658623"/>
+    <nd ref="295127041"/>
+    <nd ref="267658624"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Am Schießstand"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="39586100" version="2" timestamp="2011-04-25T19:45:39Z" uid="57645" user="KartoGrapHiti" changeset="7968035">
+    <nd ref="474505728"/>
+    <nd ref="267658621"/>
+    <nd ref="274745954"/>
+    <nd ref="267658622"/>
+    <nd ref="274745960"/>
+    <nd ref="267658623"/>
+    <nd ref="295127041"/>
+    <nd ref="1260059821"/>
+    <nd ref="267658624"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Am Schießstand"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="39586100" version="3" timestamp="2011-10-22T13:15:09Z" uid="42429" user="FK270673" changeset="9623884">
+    <nd ref="474505728"/>
+    <nd ref="267658621"/>
+    <nd ref="1476338057"/>
+    <nd ref="1476338107"/>
+    <nd ref="1476338188"/>
+    <nd ref="1476338211"/>
+    <nd ref="295127041"/>
+    <nd ref="1260059821"/>
+    <nd ref="267658624"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Am Schießstand"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="39586100" version="4" timestamp="2011-10-22T15:02:19Z" uid="42429" user="FK270673" changeset="9624843"/>
+  <way id="39586101" version="1" timestamp="2009-08-26T13:01:27Z" uid="33382" user="de_muur" changeset="2267356">
+    <nd ref="474505773"/>
+    <nd ref="474505775"/>
+    <nd ref="474505777"/>
+    <nd ref="474505779"/>
+    <tag k="highway" v="path"/>
+    <tag k="smoothness" v="very_bad"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="39586102" version="1" timestamp="2009-08-26T13:01:27Z" uid="33382" user="de_muur" changeset="2267356">
+    <nd ref="474505773"/>
+    <nd ref="474505780"/>
+    <nd ref="474505782"/>
+    <nd ref="474505784"/>
+    <nd ref="474505786"/>
+    <nd ref="474505788"/>
+    <nd ref="474505791"/>
+    <nd ref="474505793"/>
+    <nd ref="474505795"/>
+    <nd ref="474505797"/>
+    <nd ref="474505753"/>
+    <tag k="highway" v="path"/>
+    <tag k="smoothness" v="very_bad"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="39586103" version="1" timestamp="2009-08-26T13:01:27Z" uid="33382" user="de_muur" changeset="2267356">
+    <nd ref="474505797"/>
+    <nd ref="295127046"/>
+    <tag k="highway" v="path"/>
+    <tag k="smoothness" v="very_bad"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="39586103" version="2" timestamp="2010-07-04T13:53:44Z" uid="29975" user="OxKing" changeset="5132645">
+    <nd ref="474505797"/>
+    <nd ref="800496027"/>
+    <nd ref="295127046"/>
+    <tag k="highway" v="path"/>
+    <tag k="smoothness" v="very_bad"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="39586688" version="3" timestamp="2010-07-21T14:03:27Z" uid="4467" user="Rosscoe" changeset="5279172">
+    <nd ref="827528997"/>
+    <nd ref="29829086"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey;nearmap"/>
+  </way>
+  <way id="39586688" version="4" timestamp="2011-05-20T09:06:41Z" uid="46482" user="Leon K" changeset="8196709">
+    <nd ref="827528997"/>
+    <nd ref="29829086"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Eastern Freeway Onramp"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey;nearmap"/>
+  </way>
+  <way id="39586688" version="5" timestamp="2011-11-27T13:34:50Z" uid="11111" user="melb_guy" changeset="9966742">
+    <nd ref="827528997"/>
+    <nd ref="29829086"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Eastern Freeway Onramp"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="39586736" version="3" timestamp="2010-04-06T10:54:40Z" uid="74617" user="JohnSmith" changeset="4341925">
+    <nd ref="266725523"/>
+    <nd ref="266076304"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Hoddle Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey;Yahoo"/>
+  </way>
+  <way id="39586736" version="4" timestamp="2010-07-21T14:03:53Z" uid="4467" user="Rosscoe" changeset="5279172">
+    <nd ref="266725523"/>
+    <nd ref="266076304"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Hoddle Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey;nearmap"/>
+  </way>
+  <way id="39586736" version="5" timestamp="2011-11-27T13:34:50Z" uid="11111" user="melb_guy" changeset="9966742">
+    <nd ref="266725523"/>
+    <nd ref="1519470989"/>
+    <nd ref="266076304"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="70"/>
+    <tag k="name" v="Hoddle Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="39586839" version="4" timestamp="2010-07-15T16:33:54Z" uid="107674" user="GeoCounter" changeset="5228088">
+    <nd ref="526490"/>
+    <nd ref="369045771"/>
+    <nd ref="369045773"/>
+    <nd ref="526487"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Carl-Ulrich-Straße"/>
+    <tag k="ref" v="L 3117"/>
+  </way>
+  <way id="39586839" version="5" timestamp="2011-10-07T18:12:00Z" uid="65364" user="Harry99" changeset="9496297">
+    <nd ref="526490"/>
+    <nd ref="369045771"/>
+    <nd ref="1457947967"/>
+    <nd ref="369045773"/>
+    <nd ref="526487"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Carl-Ulrich-Straße"/>
+    <tag k="ref" v="L 3117"/>
+  </way>
+  <way id="39586839" version="6" timestamp="2011-10-11T13:26:16Z" uid="65364" user="Harry99" changeset="9530358">
+    <nd ref="526490"/>
+    <nd ref="369045771"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="name" v="Carl-Ulrich-Straße"/>
+    <tag k="ref" v="L 3117"/>
+    <tag k="source" v="HiRes Aerial Iagery"/>
+  </way>
+  <way id="39586839" version="7" timestamp="2011-10-11T14:23:37Z" uid="65364" user="Harry99" changeset="9530358">
+    <nd ref="526490"/>
+    <nd ref="369045771"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="name" v="Carl-Ulrich-Straße"/>
+    <tag k="ref" v="L 3117"/>
+    <tag k="source" v="HiRes Aerial Imagery"/>
+  </way>
+  <way id="39586839" version="8" timestamp="2012-01-26T22:06:42Z" uid="65364" user="Harry99" changeset="10507784">
+    <nd ref="526490"/>
+    <nd ref="1606979079"/>
+    <nd ref="369045771"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="name" v="Carl-Ulrich-Straße"/>
+    <tag k="ref" v="L 3117"/>
+    <tag k="source" v="HiRes Aerial Imagery"/>
+  </way>
+  <way id="39586912" version="2" timestamp="2010-04-07T13:47:52Z" uid="20587" user="balrog-kun" changeset="4353646">
+    <nd ref="81822722"/>
+    <nd ref="81822724"/>
+    <nd ref="81822726"/>
+    <nd ref="81538115"/>
+    <nd ref="81822727"/>
+    <nd ref="81822731"/>
+    <nd ref="81822734"/>
+    <nd ref="81822737"/>
+    <nd ref="81822738"/>
+    <nd ref="81822739"/>
+    <nd ref="81822740"/>
+    <nd ref="81822741"/>
+    <nd ref="81822743"/>
+    <nd ref="81676043"/>
+    <nd ref="81822745"/>
+    <nd ref="81822747"/>
+    <nd ref="81822749"/>
+    <nd ref="81822751"/>
+    <nd ref="81822753"/>
+    <nd ref="81822755"/>
+    <nd ref="81822757"/>
+    <nd ref="81822759"/>
+    <nd ref="81822760"/>
+    <nd ref="81822761"/>
+    <nd ref="81822762"/>
+    <nd ref="81822763"/>
+    <nd ref="81822764"/>
+    <nd ref="81822766"/>
+    <nd ref="81757428"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="West Wintergreen Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Wintergreen"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102954860:102972739:102972737:102972742:102954896:102954943:102954946:102954947:102954948:102954954:102954955:102954957:102954962:103188632:103188633:102954897:102959253:102959267:102959503:102959505:102959268"/>
+    <tag k="tiger:zip_left" v="75134"/>
+    <tag k="tiger:zip_right" v="75134"/>
+  </way>
+  <way id="39586917" version="3" timestamp="2010-04-06T10:54:38Z" uid="74617" user="JohnSmith" changeset="4341925">
+    <nd ref="31560672"/>
+    <nd ref="586461079"/>
+    <nd ref="586461081"/>
+    <nd ref="31560673"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Barkly Street"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="39586917" version="4" timestamp="2010-05-15T04:58:33Z" uid="201443" user="stevage" changeset="4702745">
+    <nd ref="31560672"/>
+    <nd ref="586461079"/>
+    <nd ref="586461081"/>
+    <nd ref="734840326"/>
+    <nd ref="31560673"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Barkly Street"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="39586982" version="1" timestamp="2009-08-26T13:38:28Z" uid="33382" user="de_muur" changeset="2267687">
+    <nd ref="331262494"/>
+    <nd ref="331262490"/>
+    <nd ref="331262496"/>
+    <tag k="highway" v="track"/>
+    <tag k="surface" v="unpaved"/>
+    <tag k="tracktype" v="grade4"/>
+  </way>
+  <way id="39586983" version="1" timestamp="2009-08-26T13:38:28Z" uid="33382" user="de_muur" changeset="2267687">
+    <nd ref="474546179"/>
+    <nd ref="474546188"/>
+    <nd ref="474546190"/>
+    <nd ref="474546192"/>
+    <tag k="highway" v="track"/>
+    <tag k="surface" v="unpaved"/>
+    <tag k="tracktype" v="grade4"/>
+  </way>
+  <way id="39586984" version="1" timestamp="2009-08-26T13:38:28Z" uid="33382" user="de_muur" changeset="2267687">
+    <nd ref="474546172"/>
+    <nd ref="474546193"/>
+    <tag k="highway" v="track"/>
+    <tag k="surface" v="unpaved"/>
+    <tag k="tracktype" v="grade5"/>
+  </way>
+  <way id="39586985" version="1" timestamp="2009-08-26T13:38:29Z" uid="33382" user="de_muur" changeset="2267687">
+    <nd ref="474546163"/>
+    <nd ref="474546195"/>
+    <tag k="highway" v="track"/>
+    <tag k="surface" v="unpaved"/>
+    <tag k="tracktype" v="grade5"/>
+  </way>
+  <way id="39586986" version="1" timestamp="2009-08-26T13:38:29Z" uid="33382" user="de_muur" changeset="2267687">
+    <nd ref="474546123"/>
+    <nd ref="474546196"/>
+    <nd ref="474546197"/>
+    <nd ref="474546199"/>
+    <nd ref="474546200"/>
+    <nd ref="474546201"/>
+    <nd ref="474546203"/>
+    <nd ref="474546204"/>
+    <nd ref="474546206"/>
+    <nd ref="474546207"/>
+    <nd ref="474546208"/>
+    <nd ref="474546211"/>
+    <nd ref="474546212"/>
+    <nd ref="474546214"/>
+    <nd ref="474546215"/>
+    <nd ref="474546217"/>
+    <nd ref="474546218"/>
+    <nd ref="474546219"/>
+    <tag k="highway" v="track"/>
+    <tag k="surface" v="unpaved"/>
+    <tag k="tracktype" v="grade5"/>
+  </way>
+  <way id="39586987" version="1" timestamp="2009-08-26T13:38:29Z" uid="33382" user="de_muur" changeset="2267687">
+    <nd ref="474546124"/>
+    <nd ref="474546222"/>
+    <nd ref="474546223"/>
+    <nd ref="474546224"/>
+    <nd ref="474546225"/>
+    <nd ref="474546226"/>
+    <nd ref="474546227"/>
+    <nd ref="474546231"/>
+    <nd ref="474546229"/>
+    <nd ref="474546232"/>
+    <nd ref="474546234"/>
+    <nd ref="474546235"/>
+    <nd ref="474546237"/>
+    <nd ref="474546238"/>
+    <nd ref="474546240"/>
+    <nd ref="474546241"/>
+    <nd ref="474546244"/>
+    <nd ref="474546245"/>
+    <nd ref="474546246"/>
+    <nd ref="474546247"/>
+    <tag k="highway" v="track"/>
+    <tag k="surface" v="unpaved"/>
+    <tag k="tracktype" v="grade5"/>
+  </way>
+  <way id="39586988" version="1" timestamp="2009-08-26T13:38:29Z" uid="33382" user="de_muur" changeset="2267687">
+    <nd ref="36800984"/>
+    <nd ref="331264053"/>
+    <nd ref="462320221"/>
+    <nd ref="462320223"/>
+    <nd ref="462320225"/>
+    <nd ref="462320213"/>
+    <tag k="highway" v="track"/>
+    <tag k="surface" v="unpaved"/>
+    <tag k="tracktype" v="grade5"/>
+  </way>
+  <way id="39586988" version="2" timestamp="2009-10-05T10:17:32Z" uid="13203" user="bahnpirat" changeset="2748082">
+    <nd ref="36800984"/>
+    <nd ref="331264053"/>
+    <nd ref="462320221"/>
+    <nd ref="462320225"/>
+    <nd ref="462320213"/>
+    <tag k="highway" v="track"/>
+    <tag k="surface" v="unpaved"/>
+    <tag k="tracktype" v="grade5"/>
+  </way>
+  <way id="39586989" version="1" timestamp="2009-08-26T13:38:29Z" uid="33382" user="de_muur" changeset="2267687">
+    <nd ref="474546249"/>
+    <nd ref="474546248"/>
+    <nd ref="36800984"/>
+    <tag k="highway" v="track"/>
+    <tag k="surface" v="paved"/>
+    <tag k="tracktype" v="grade1"/>
+  </way>
+  <way id="39586990" version="1" timestamp="2009-08-26T13:38:29Z" uid="33382" user="de_muur" changeset="2267687">
+    <nd ref="474546248"/>
+    <nd ref="474546254"/>
+    <tag k="highway" v="track"/>
+    <tag k="note" v="to be continued"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="39586991" version="1" timestamp="2009-08-26T13:38:29Z" uid="33382" user="de_muur" changeset="2267687">
+    <nd ref="474546192"/>
+    <nd ref="474546249"/>
+    <tag k="highway" v="track"/>
+    <tag k="surface" v="unpaved"/>
+    <tag k="tracktype" v="grade3"/>
+  </way>
+  <way id="39586992" version="1" timestamp="2009-08-26T13:38:29Z" uid="33382" user="de_muur" changeset="2267687">
+    <nd ref="474546192"/>
+    <nd ref="474546255"/>
+    <tag k="highway" v="track"/>
+    <tag k="note" v="to be continued"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="39586992" version="2" timestamp="2010-01-02T17:05:15Z" uid="57645" user="KartoGrapHiti" changeset="3520360">
+    <nd ref="474546192"/>
+    <nd ref="474546255"/>
+    <nd ref="603133978"/>
+    <tag k="highway" v="track"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="39586993" version="1" timestamp="2009-08-26T13:38:30Z" uid="33382" user="de_muur" changeset="2267687">
+    <nd ref="411752863"/>
+    <nd ref="474546256"/>
+    <tag k="highway" v="track"/>
+    <tag k="surface" v="cobblestone"/>
+    <tag k="tracktype" v="grade1"/>
+  </way>
+  <way id="39586994" version="1" timestamp="2009-08-26T13:38:30Z" uid="33382" user="de_muur" changeset="2267687">
+    <nd ref="474546265"/>
+    <nd ref="474546266"/>
+    <nd ref="474546268"/>
+    <nd ref="474546269"/>
+    <tag k="highway" v="track"/>
+    <tag k="surface" v="unpaved"/>
+    <tag k="tracktype" v="grade4"/>
+  </way>
+  <way id="39586995" version="1" timestamp="2009-08-26T13:38:30Z" uid="33382" user="de_muur" changeset="2267687">
+    <nd ref="474546269"/>
+    <nd ref="474546270"/>
+    <tag k="highway" v="track"/>
+    <tag k="note" v="to be continued"/>
+    <tag k="surface" v="unpaved"/>
+    <tag k="tracktype" v="grade4"/>
+  </way>
+  <way id="39586996" version="1" timestamp="2009-08-26T13:38:30Z" uid="33382" user="de_muur" changeset="2267687">
+    <nd ref="474546269"/>
+    <nd ref="474546271"/>
+    <nd ref="474546256"/>
+    <tag k="highway" v="track"/>
+    <tag k="surface" v="unpaved"/>
+    <tag k="tracktype" v="grade4"/>
+  </way>
+  <way id="39586997" version="1" timestamp="2009-08-26T13:38:30Z" uid="33382" user="de_muur" changeset="2267687">
+    <nd ref="474546265"/>
+    <nd ref="474546272"/>
+    <nd ref="474546273"/>
+    <nd ref="474546274"/>
+    <nd ref="474546276"/>
+    <nd ref="474546277"/>
+    <nd ref="474546278"/>
+    <nd ref="474546279"/>
+    <nd ref="474546280"/>
+    <tag k="highway" v="track"/>
+    <tag k="surface" v="unpaved"/>
+    <tag k="tracktype" v="grade4"/>
+  </way>
+  <way id="39586997" version="2" timestamp="2010-05-02T19:55:46Z" uid="57645" user="KartoGrapHiti" changeset="4589312">
+    <nd ref="474546265"/>
+    <nd ref="474546272"/>
+    <nd ref="474546273"/>
+    <nd ref="474546274"/>
+    <nd ref="474546278"/>
+    <nd ref="474546280"/>
+    <tag k="highway" v="track"/>
+    <tag k="surface" v="unpaved"/>
+    <tag k="tracktype" v="grade4"/>
+  </way>
+  <way id="39586997" version="3" timestamp="2011-07-14T08:32:01Z" uid="192181" user="hennie90" changeset="8719641">
+    <nd ref="474546265"/>
+    <nd ref="474546272"/>
+    <nd ref="474546273"/>
+    <nd ref="474546274"/>
+    <nd ref="474546278"/>
+    <nd ref="1361199863"/>
+    <nd ref="1361200034"/>
+    <nd ref="474546280"/>
+    <tag k="highway" v="track"/>
+    <tag k="surface" v="unpaved"/>
+    <tag k="tracktype" v="grade4"/>
+  </way>
+  <way id="39586997" version="4" timestamp="2012-03-18T09:59:04Z" uid="57645" user="KartoGrapHiti" changeset="11016637">
+    <nd ref="474546265"/>
+    <nd ref="474546272"/>
+    <nd ref="474546273"/>
+    <nd ref="474546274"/>
+    <nd ref="1679513159"/>
+    <nd ref="1361199863"/>
+    <nd ref="1361200034"/>
+    <nd ref="474546280"/>
+    <tag k="highway" v="track"/>
+    <tag k="surface" v="unpaved"/>
+    <tag k="tracktype" v="grade4"/>
+  </way>
+  <way id="39586998" version="1" timestamp="2009-08-26T13:38:31Z" uid="33382" user="de_muur" changeset="2267687">
+    <nd ref="474546280"/>
+    <nd ref="474546281"/>
+    <nd ref="474546283"/>
+    <nd ref="474546284"/>
+    <tag k="highway" v="track"/>
+    <tag k="surface" v="unpaved"/>
+    <tag k="tracktype" v="grade3"/>
+  </way>
+  <way id="39586998" version="2" timestamp="2010-05-02T19:55:51Z" uid="57645" user="KartoGrapHiti" changeset="4589312">
+    <nd ref="474546280"/>
+    <nd ref="474546281"/>
+    <nd ref="474546284"/>
+    <tag k="highway" v="track"/>
+    <tag k="surface" v="unpaved"/>
+    <tag k="tracktype" v="grade3"/>
+  </way>
+  <way id="39586999" version="1" timestamp="2009-08-26T13:38:31Z" uid="33382" user="de_muur" changeset="2267687">
+    <nd ref="474546278"/>
+    <nd ref="474546287"/>
+    <tag k="highway" v="track"/>
+    <tag k="note" v="to be continued"/>
+    <tag k="surface" v="unpaved"/>
+    <tag k="tracktype" v="grade4"/>
+  </way>
+  <way id="39586999" version="2" timestamp="2012-03-18T09:59:22Z" uid="57645" user="KartoGrapHiti" changeset="11016637"/>
+  <way id="39586101" version="2" timestamp="2012-07-19T02:17:32Z" uid="722137" user="OSMF Redaction Account" changeset="12304876"/>
+  <way id="39586102" version="2" timestamp="2012-07-19T02:17:32Z" uid="722137" user="OSMF Redaction Account" changeset="12304876"/>
+  <way id="39586103" version="3" timestamp="2012-07-19T02:17:32Z" uid="722137" user="OSMF Redaction Account" changeset="12304876"/>
+  <way id="39586688" version="6" timestamp="2012-07-19T11:58:17Z" uid="722137" user="OSMF Redaction Account" changeset="12323357"/>
+  <way id="39586736" version="6" timestamp="2012-07-19T11:50:17Z" uid="722137" user="OSMF Redaction Account" changeset="12322905">
+    <nd ref="266725523"/>
+    <nd ref="1519470989"/>
+    <nd ref="266076304"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="70"/>
+    <tag k="name" v="Hoddle Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="39586839" version="9" timestamp="2012-07-15T14:28:05Z" uid="162465" user="ckol" changeset="12229886">
+    <nd ref="526490"/>
+    <nd ref="1606979079"/>
+    <nd ref="369045771"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="name" v="Carl-Ulrich-Straße"/>
+    <tag k="ref" v="L 3117"/>
+    <tag k="source" v="HiRes aerial imagery"/>
+  </way>
+  <way id="39586839" version="10" timestamp="2012-08-16T13:03:47Z" uid="638346" user="Mison" changeset="12749927">
+    <nd ref="526490"/>
+    <nd ref="1606979079"/>
+    <nd ref="369045771"/>
+    <tag k="embankment" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="name" v="Carl-Ulrich-Straße"/>
+    <tag k="ref" v="L 3117"/>
+    <tag k="source" v="HiRes aerial imagery"/>
+  </way>
+  <way id="39586839" version="11" timestamp="2012-09-02T13:21:08Z" uid="638346" user="Mison" changeset="12954138">
+    <nd ref="526490"/>
+    <nd ref="1606979079"/>
+    <tag k="embankment" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="name" v="Carl-Ulrich-Straße"/>
+    <tag k="ref" v="L 3117"/>
+    <tag k="source" v="HiRes aerial imagery"/>
+  </way>
+  <way id="39586982" version="2" timestamp="2012-07-19T02:17:33Z" uid="722137" user="OSMF Redaction Account" changeset="12304876"/>
+  <way id="39586983" version="2" timestamp="2012-07-19T02:17:33Z" uid="722137" user="OSMF Redaction Account" changeset="12304876"/>
+  <way id="39586984" version="2" timestamp="2012-07-19T02:17:34Z" uid="722137" user="OSMF Redaction Account" changeset="12304876"/>
+  <way id="39586985" version="2" timestamp="2012-07-19T02:17:34Z" uid="722137" user="OSMF Redaction Account" changeset="12304876"/>
+  <way id="39586986" version="2" timestamp="2012-07-19T02:17:33Z" uid="722137" user="OSMF Redaction Account" changeset="12304876"/>
+  <way id="39586987" version="2" timestamp="2012-07-19T02:17:33Z" uid="722137" user="OSMF Redaction Account" changeset="12304876"/>
+  <way id="39586988" version="3" timestamp="2012-07-19T02:17:32Z" uid="722137" user="OSMF Redaction Account" changeset="12304876"/>
+  <way id="39586989" version="2" timestamp="2012-07-19T02:17:32Z" uid="722137" user="OSMF Redaction Account" changeset="12304876"/>
+  <way id="39586990" version="2" timestamp="2012-07-19T02:17:32Z" uid="722137" user="OSMF Redaction Account" changeset="12304876"/>
+  <way id="39586991" version="2" timestamp="2012-07-19T02:17:33Z" uid="722137" user="OSMF Redaction Account" changeset="12304876"/>
+  <way id="39586992" version="3" timestamp="2012-07-19T02:17:33Z" uid="722137" user="OSMF Redaction Account" changeset="12304876"/>
+  <way id="39586993" version="2" timestamp="2012-07-19T02:17:36Z" uid="722137" user="OSMF Redaction Account" changeset="12304876"/>
+  <way id="39586994" version="2" timestamp="2012-07-19T02:17:37Z" uid="722137" user="OSMF Redaction Account" changeset="12304876"/>
+  <way id="39586995" version="2" timestamp="2012-07-19T02:17:37Z" uid="722137" user="OSMF Redaction Account" changeset="12304876"/>
+  <way id="39586996" version="2" timestamp="2012-07-19T02:17:37Z" uid="722137" user="OSMF Redaction Account" changeset="12304876"/>
+  <way id="39586997" version="5" timestamp="2012-07-19T02:12:05Z" uid="722137" user="OSMF Redaction Account" changeset="12304797">
+    <nd ref="474546265"/>
+    <nd ref="474546272"/>
+    <nd ref="474546273"/>
+    <nd ref="474546274"/>
+    <nd ref="1679513159"/>
+    <nd ref="1361199863"/>
+    <nd ref="1361200034"/>
+    <tag k="highway" v="track"/>
+    <tag k="surface" v="unpaved"/>
+    <tag k="tracktype" v="grade4"/>
+  </way>
+  <way id="39586997" version="6" timestamp="2012-07-19T02:17:03Z" uid="722137" user="OSMF Redaction Account" changeset="12304876">
+    <nd ref="1679513159"/>
+    <nd ref="1361199863"/>
+    <nd ref="1361200034"/>
+  </way>
+  <way id="39586997" version="7" timestamp="2012-08-03T16:38:57Z" uid="327011" user="wetterwolke" changeset="12600289">
+    <nd ref="1679513159"/>
+    <nd ref="1361199863"/>
+    <nd ref="1361200034"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="track"/>
+  </way>
+  <way id="39586997" version="8" timestamp="2012-08-10T07:18:52Z" uid="58095" user="BudBundi" changeset="12676508">
+    <nd ref="1679513159"/>
+    <nd ref="1361199863"/>
+    <nd ref="1361200034"/>
+    <nd ref="1859796584"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="track"/>
+  </way>
+  <way id="39586998" version="3" timestamp="2012-07-19T02:12:22Z" uid="722137" user="OSMF Redaction Account" changeset="12304797"/>
+</osm>

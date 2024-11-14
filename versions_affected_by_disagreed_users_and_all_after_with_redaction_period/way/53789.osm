@@ -1,0 +1,3832 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="53789096" version="6" timestamp="2010-04-06T01:27:31Z" uid="74617" user="JohnSmith" changeset="4340057">
+    <nd ref="679018763"/>
+    <nd ref="679024520"/>
+    <nd ref="679018771"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Toorak Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="53789096" version="7" timestamp="2011-04-10T07:35:15Z" uid="4467" user="Rosscoe" changeset="7819936"/>
+  <way id="53789143" version="1" timestamp="2010-03-31T07:16:04Z" uid="99207" user="Lar Kiesel" changeset="4282937">
+    <nd ref="679019000"/>
+    <nd ref="114018601"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Norfork Southern Railroad"/>
+    <tag k="old_name" v="Southern Railroad"/>
+    <tag k="railway" v="rail"/>
+    <tag k="tiger:cfcc" v="B11"/>
+    <tag k="tiger:county" v="Richland, SC"/>
+    <tag k="tiger:name_base" v="Southern Railroad"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="71806550:71808131:71808133:71808135:71808137:71808138:71873171:71873172:71840723:71859285:71840473:71808120:71808533:71808158:71808113:71808115:71808117:71808118:71850152:71873692:71808107:71808109:71869027:71850020:71808100:71822282:71869086:71836419:718"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-0250b25a-3ed9-45b1-b84e-45e4a188563e"/>
+  </way>
+  <way id="53789144" version="1" timestamp="2010-03-31T07:16:04Z" uid="99207" user="Lar Kiesel" changeset="4282937">
+    <nd ref="114018601"/>
+    <nd ref="658263713"/>
+    <nd ref="658263719"/>
+    <nd ref="658262567"/>
+    <tag k="name" v="Norfork Southern Railroad"/>
+    <tag k="old_name" v="Southern Railroad"/>
+    <tag k="railway" v="rail"/>
+    <tag k="tiger:cfcc" v="B11"/>
+    <tag k="tiger:county" v="Richland, SC"/>
+    <tag k="tiger:name_base" v="Southern Railroad"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="71806550:71808131:71808133:71808135:71808137:71808138:71873171:71873172:71840723:71859285:71840473:71808120:71808533:71808158:71808113:71808115:71808117:71808118:71850152:71873692:71808107:71808109:71869027:71850020:71808100:71822282:71869086:71836419:718"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-0250b25a-3ed9-45b1-b84e-45e4a188563e"/>
+  </way>
+  <way id="53789148" version="1" timestamp="2010-03-31T07:16:26Z" uid="99207" user="Lar Kiesel" changeset="4282937">
+    <nd ref="113999385"/>
+    <nd ref="113999382"/>
+    <nd ref="113999379"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="State Highway 277"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="SC 277"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Richland, SC"/>
+    <tag k="tiger:name_base" v="State Highway 277"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="71871491:71845310:71871720"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-0250b25a-3ed9-45b1-b84e-45e4a188563e"/>
+  </way>
+  <way id="53789148" version="2" timestamp="2011-07-26T07:48:09Z" uid="207745" user="NE2" changeset="8832920">
+    <nd ref="113999385"/>
+    <nd ref="113999382"/>
+    <nd ref="113999379"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="State Highway 277"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="SC 277"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Richland, SC"/>
+    <tag k="tiger:name_base" v="State Highway 277"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="71871491:71845310:71871720"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-0250b25a-3ed9-45b1-b84e-45e4a188563e"/>
+  </way>
+  <way id="53789148" version="3" timestamp="2011-11-24T22:06:15Z" uid="207745" user="NE2" changeset="9937881">
+    <nd ref="113999385"/>
+    <nd ref="113999382"/>
+    <nd ref="113999379"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="hgv:national_network" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="SC 277"/>
+    <tag k="source:hgv:national_network" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Richland, SC"/>
+    <tag k="tiger:name_base" v="State Highway 277"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="71871491:71845310:71871720"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-0250b25a-3ed9-45b1-b84e-45e4a188563e"/>
+  </way>
+  <way id="53789149" version="1" timestamp="2010-03-31T07:16:31Z" uid="99207" user="Lar Kiesel" changeset="4282937">
+    <nd ref="530206722"/>
+    <nd ref="530206729"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="State Highway 277"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="SC 277"/>
+  </way>
+  <way id="53789149" version="2" timestamp="2011-07-26T07:48:04Z" uid="207745" user="NE2" changeset="8832920">
+    <nd ref="530206722"/>
+    <nd ref="530206729"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="State Highway 277"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="SC 277"/>
+  </way>
+  <way id="53789149" version="3" timestamp="2011-11-24T22:06:11Z" uid="207745" user="NE2" changeset="9937881">
+    <nd ref="530206722"/>
+    <nd ref="530206729"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="hgv:national_network" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="SC 277"/>
+    <tag k="source:hgv:national_network" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23"/>
+  </way>
+  <way id="53789150" version="1" timestamp="2010-03-31T07:16:31Z" uid="99207" user="Lar Kiesel" changeset="4282937">
+    <nd ref="530206729"/>
+    <nd ref="530206731"/>
+    <nd ref="530206733"/>
+    <nd ref="530206735"/>
+    <nd ref="530206738"/>
+    <nd ref="530206742"/>
+    <nd ref="530206746"/>
+    <nd ref="530206748"/>
+    <nd ref="530210605"/>
+    <nd ref="530206751"/>
+    <nd ref="530206753"/>
+    <nd ref="530206756"/>
+    <nd ref="530206760"/>
+    <nd ref="530206764"/>
+    <nd ref="530206765"/>
+    <nd ref="530206769"/>
+    <nd ref="530206771"/>
+    <nd ref="530206775"/>
+    <nd ref="530210630"/>
+    <nd ref="530210631"/>
+    <nd ref="530210595"/>
+    <nd ref="530210632"/>
+    <nd ref="530210633"/>
+    <nd ref="530210634"/>
+    <nd ref="530210635"/>
+    <nd ref="530210636"/>
+    <nd ref="530289035"/>
+    <nd ref="530210637"/>
+    <nd ref="530210638"/>
+    <nd ref="530287484"/>
+    <nd ref="530210639"/>
+    <nd ref="530210640"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="State Highway 277"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="SC 277"/>
+  </way>
+  <way id="53789150" version="2" timestamp="2011-07-26T07:48:09Z" uid="207745" user="NE2" changeset="8832920">
+    <nd ref="530206729"/>
+    <nd ref="530206731"/>
+    <nd ref="530206733"/>
+    <nd ref="530206735"/>
+    <nd ref="530206738"/>
+    <nd ref="530206742"/>
+    <nd ref="530206746"/>
+    <nd ref="530206748"/>
+    <nd ref="530210605"/>
+    <nd ref="530206751"/>
+    <nd ref="530206753"/>
+    <nd ref="530206756"/>
+    <nd ref="530206760"/>
+    <nd ref="530206764"/>
+    <nd ref="530206765"/>
+    <nd ref="530206769"/>
+    <nd ref="530206771"/>
+    <nd ref="530206775"/>
+    <nd ref="530210630"/>
+    <nd ref="530210631"/>
+    <nd ref="530210595"/>
+    <nd ref="530210632"/>
+    <nd ref="530210633"/>
+    <nd ref="530210634"/>
+    <nd ref="530210635"/>
+    <nd ref="530210636"/>
+    <nd ref="530289035"/>
+    <nd ref="530210637"/>
+    <nd ref="530210638"/>
+    <nd ref="530287484"/>
+    <nd ref="530210639"/>
+    <nd ref="530210640"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="State Highway 277"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="SC 277"/>
+  </way>
+  <way id="53789150" version="3" timestamp="2011-11-24T22:06:15Z" uid="207745" user="NE2" changeset="9937881">
+    <nd ref="530206729"/>
+    <nd ref="530206731"/>
+    <nd ref="530206733"/>
+    <nd ref="530206735"/>
+    <nd ref="530206738"/>
+    <nd ref="530206742"/>
+    <nd ref="530206746"/>
+    <nd ref="530206748"/>
+    <nd ref="530210605"/>
+    <nd ref="530206751"/>
+    <nd ref="530206753"/>
+    <nd ref="530206756"/>
+    <nd ref="530206760"/>
+    <nd ref="530206764"/>
+    <nd ref="530206765"/>
+    <nd ref="530206769"/>
+    <nd ref="530206771"/>
+    <nd ref="530206775"/>
+    <nd ref="530210630"/>
+    <nd ref="530210631"/>
+    <nd ref="530210595"/>
+    <nd ref="530210632"/>
+    <nd ref="530210633"/>
+    <nd ref="530210634"/>
+    <nd ref="530210635"/>
+    <nd ref="530210636"/>
+    <nd ref="530289035"/>
+    <nd ref="530210637"/>
+    <nd ref="530210638"/>
+    <nd ref="530287484"/>
+    <nd ref="530210639"/>
+    <nd ref="530210640"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="hgv:national_network" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="SC 277"/>
+    <tag k="source:hgv:national_network" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23"/>
+  </way>
+  <way id="53789151" version="1" timestamp="2010-03-31T07:16:32Z" uid="99207" user="Lar Kiesel" changeset="4282937">
+    <nd ref="113999379"/>
+    <nd ref="113999376"/>
+    <nd ref="113999373"/>
+    <nd ref="113999370"/>
+    <nd ref="113999367"/>
+    <nd ref="113999364"/>
+    <nd ref="113999361"/>
+    <nd ref="113999358"/>
+    <nd ref="113999355"/>
+    <nd ref="113999353"/>
+    <nd ref="113999350"/>
+    <nd ref="530206965"/>
+    <nd ref="530206967"/>
+    <nd ref="530206969"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="State Highway 277"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="SC 277"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Richland, SC"/>
+    <tag k="tiger:name_base" v="State Highway 277"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="71871491:71845310:71871720"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-0250b25a-3ed9-45b1-b84e-45e4a188563e"/>
+  </way>
+  <way id="53789151" version="2" timestamp="2011-07-26T07:48:04Z" uid="207745" user="NE2" changeset="8832920">
+    <nd ref="113999379"/>
+    <nd ref="113999376"/>
+    <nd ref="113999373"/>
+    <nd ref="113999370"/>
+    <nd ref="113999367"/>
+    <nd ref="113999364"/>
+    <nd ref="113999361"/>
+    <nd ref="113999358"/>
+    <nd ref="113999355"/>
+    <nd ref="113999353"/>
+    <nd ref="113999350"/>
+    <nd ref="530206965"/>
+    <nd ref="530206967"/>
+    <nd ref="530206969"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="State Highway 277"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="SC 277"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Richland, SC"/>
+    <tag k="tiger:name_base" v="State Highway 277"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="71871491:71845310:71871720"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-0250b25a-3ed9-45b1-b84e-45e4a188563e"/>
+  </way>
+  <way id="53789151" version="3" timestamp="2011-11-24T22:06:04Z" uid="207745" user="NE2" changeset="9937881">
+    <nd ref="113999379"/>
+    <nd ref="113999376"/>
+    <nd ref="113999373"/>
+    <nd ref="113999370"/>
+    <nd ref="113999367"/>
+    <nd ref="113999364"/>
+    <nd ref="113999361"/>
+    <nd ref="113999358"/>
+    <nd ref="113999355"/>
+    <nd ref="113999353"/>
+    <nd ref="113999350"/>
+    <nd ref="530206965"/>
+    <nd ref="530206967"/>
+    <nd ref="530206969"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="hgv:national_network" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="SC 277"/>
+    <tag k="source:hgv:national_network" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Richland, SC"/>
+    <tag k="tiger:name_base" v="State Highway 277"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="71871491:71845310:71871720"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-0250b25a-3ed9-45b1-b84e-45e4a188563e"/>
+  </way>
+  <way id="53789173" version="1" timestamp="2010-03-31T07:18:56Z" uid="38528" user="acrosscanadatrails" changeset="4282948">
+    <nd ref="679019435"/>
+    <nd ref="679019448"/>
+    <nd ref="679019433"/>
+    <tag k="attribution" v="Ontario Ministry Of Natural Resources"/>
+    <tag k="highway" v="path"/>
+    <tag k="note" v="Where no GPS tracks actually connect to a road, no connection is made"/>
+    <tag k="source" v="Land Information Ontario _ Trails database"/>
+    <tag k="source:2" v="area GPS tracks"/>
+    <tag k="usage" v="not yet known"/>
+  </way>
+  <way id="53789173" version="2" timestamp="2010-03-31T07:27:12Z" uid="38528" user="acrosscanadatrails" changeset="4282995">
+    <nd ref="679019435"/>
+    <nd ref="679020908"/>
+    <nd ref="679020906"/>
+    <nd ref="679020907"/>
+    <nd ref="679019448"/>
+    <nd ref="679020932"/>
+    <nd ref="679020905"/>
+    <nd ref="679020904"/>
+    <nd ref="679019433"/>
+    <tag k="attribution" v="Ontario Ministry Of Natural Resources"/>
+    <tag k="highway" v="path"/>
+    <tag k="note" v="Where no GPS tracks actually connect to a road, no connection is made"/>
+    <tag k="source" v="Land Information Ontario _ Trails database"/>
+    <tag k="source:2" v="area GPS tracks"/>
+    <tag k="usage" v="not yet known"/>
+  </way>
+  <way id="53789173" version="3" timestamp="2012-01-30T04:19:06Z" uid="28895" user="PurpleMustang" changeset="10536602"/>
+  <way id="53789174" version="1" timestamp="2010-03-31T07:18:58Z" uid="38528" user="acrosscanadatrails" changeset="4282948">
+    <nd ref="679019433"/>
+    <nd ref="679019436"/>
+    <nd ref="679019437"/>
+    <tag k="attribution" v="Ontario Ministry Of Natural Resources"/>
+    <tag k="highway" v="path"/>
+    <tag k="note" v="Where no GPS tracks actually connect to a road, no connection is made"/>
+    <tag k="source" v="Land Information Ontario _ Trails database"/>
+    <tag k="source:2" v="area GPS tracks"/>
+    <tag k="usage" v="not yet known"/>
+  </way>
+  <way id="53789174" version="2" timestamp="2010-03-31T08:04:31Z" uid="38528" user="acrosscanadatrails" changeset="4283231">
+    <nd ref="679019433"/>
+    <nd ref="679019436"/>
+    <nd ref="679032921"/>
+    <nd ref="679032923"/>
+    <nd ref="679032922"/>
+    <nd ref="679032927"/>
+    <nd ref="679019437"/>
+    <tag k="attribution" v="Ontario Ministry Of Natural Resources"/>
+    <tag k="highway" v="path"/>
+    <tag k="note" v="Where no GPS tracks actually connect to a road, no connection is made"/>
+    <tag k="source" v="Land Information Ontario _ Trails database"/>
+    <tag k="source:2" v="area GPS tracks"/>
+    <tag k="usage" v="not yet known"/>
+  </way>
+  <way id="53789174" version="3" timestamp="2012-01-30T04:19:06Z" uid="28895" user="PurpleMustang" changeset="10536602"/>
+  <way id="53789175" version="1" timestamp="2010-03-31T07:18:58Z" uid="38528" user="acrosscanadatrails" changeset="4282948">
+    <nd ref="679019558"/>
+    <nd ref="679019559"/>
+    <nd ref="679019561"/>
+    <nd ref="679019560"/>
+    <nd ref="679019545"/>
+    <nd ref="679019546"/>
+    <nd ref="679019547"/>
+    <nd ref="679019548"/>
+    <nd ref="679019549"/>
+    <nd ref="679019550"/>
+    <nd ref="679019551"/>
+    <nd ref="679019552"/>
+    <nd ref="679019541"/>
+    <nd ref="679019542"/>
+    <nd ref="679019543"/>
+    <nd ref="679019525"/>
+    <nd ref="679019526"/>
+    <nd ref="679019527"/>
+    <nd ref="679019528"/>
+    <nd ref="679019529"/>
+    <nd ref="679019530"/>
+    <nd ref="679019531"/>
+    <nd ref="679019532"/>
+    <nd ref="679019518"/>
+    <nd ref="679019519"/>
+    <nd ref="679019520"/>
+    <nd ref="679019521"/>
+    <nd ref="679019522"/>
+    <nd ref="679019523"/>
+    <nd ref="679019524"/>
+    <nd ref="679019514"/>
+    <nd ref="679019515"/>
+    <nd ref="679019517"/>
+    <nd ref="679019504"/>
+    <nd ref="679019505"/>
+    <nd ref="679019506"/>
+    <nd ref="679019507"/>
+    <nd ref="679019508"/>
+    <nd ref="679019509"/>
+    <nd ref="679019510"/>
+    <nd ref="679019511"/>
+    <nd ref="679019512"/>
+    <nd ref="679019513"/>
+    <nd ref="679019503"/>
+    <nd ref="679019481"/>
+    <nd ref="679019482"/>
+    <nd ref="679019483"/>
+    <nd ref="679019484"/>
+    <nd ref="679019485"/>
+    <nd ref="679019486"/>
+    <nd ref="679019487"/>
+    <nd ref="679019488"/>
+    <nd ref="679019489"/>
+    <nd ref="679019490"/>
+    <nd ref="679019491"/>
+    <nd ref="679019492"/>
+    <nd ref="679019475"/>
+    <nd ref="679019477"/>
+    <nd ref="679019478"/>
+    <nd ref="679019479"/>
+    <nd ref="679019480"/>
+    <nd ref="679019468"/>
+    <nd ref="679019469"/>
+    <nd ref="679019470"/>
+    <nd ref="679019471"/>
+    <nd ref="679019472"/>
+    <nd ref="679019453"/>
+    <nd ref="679019454"/>
+    <nd ref="679019455"/>
+    <nd ref="679019447"/>
+    <nd ref="679019457"/>
+    <nd ref="679019450"/>
+    <nd ref="679019451"/>
+    <nd ref="679019441"/>
+    <nd ref="679019440"/>
+    <nd ref="679019442"/>
+    <nd ref="679019433"/>
+    <tag k="attribution" v="Ontario Ministry Of Natural Resources"/>
+    <tag k="highway" v="path"/>
+    <tag k="note" v="Where no GPS tracks actually connect to a road, no connection is made"/>
+    <tag k="source" v="Land Information Ontario _ Trails database"/>
+    <tag k="source:2" v="area GPS tracks"/>
+    <tag k="usage" v="not yet known"/>
+  </way>
+  <way id="53789175" version="2" timestamp="2010-03-31T07:27:12Z" uid="38528" user="acrosscanadatrails" changeset="4282995">
+    <nd ref="679019558"/>
+    <nd ref="679021030"/>
+    <nd ref="679019559"/>
+    <nd ref="679021029"/>
+    <nd ref="679019561"/>
+    <nd ref="679021027"/>
+    <nd ref="679019560"/>
+    <nd ref="679021031"/>
+    <nd ref="679019545"/>
+    <nd ref="679021024"/>
+    <nd ref="679019546"/>
+    <nd ref="679019547"/>
+    <nd ref="679019548"/>
+    <nd ref="679019549"/>
+    <nd ref="679019550"/>
+    <nd ref="679021023"/>
+    <nd ref="679019551"/>
+    <nd ref="679019552"/>
+    <nd ref="679019541"/>
+    <nd ref="679021022"/>
+    <nd ref="679019542"/>
+    <nd ref="679019543"/>
+    <nd ref="679019525"/>
+    <nd ref="679019526"/>
+    <nd ref="679019527"/>
+    <nd ref="679019528"/>
+    <nd ref="679019529"/>
+    <nd ref="679019530"/>
+    <nd ref="679019531"/>
+    <nd ref="679019532"/>
+    <nd ref="679019518"/>
+    <nd ref="679019519"/>
+    <nd ref="679019520"/>
+    <nd ref="679021009"/>
+    <nd ref="679019521"/>
+    <nd ref="679019522"/>
+    <nd ref="679019523"/>
+    <nd ref="679019524"/>
+    <nd ref="679019514"/>
+    <nd ref="679021008"/>
+    <nd ref="679019515"/>
+    <nd ref="679019517"/>
+    <nd ref="679019504"/>
+    <nd ref="679021007"/>
+    <nd ref="679019505"/>
+    <nd ref="679019506"/>
+    <nd ref="679019507"/>
+    <nd ref="679019508"/>
+    <nd ref="679019509"/>
+    <nd ref="679019510"/>
+    <nd ref="679019511"/>
+    <nd ref="679019512"/>
+    <nd ref="679019513"/>
+    <nd ref="679019503"/>
+    <nd ref="679019481"/>
+    <nd ref="679019482"/>
+    <nd ref="679019483"/>
+    <nd ref="679019484"/>
+    <nd ref="679019485"/>
+    <nd ref="679019486"/>
+    <nd ref="679019487"/>
+    <nd ref="679019488"/>
+    <nd ref="679019489"/>
+    <nd ref="679019490"/>
+    <nd ref="679019491"/>
+    <nd ref="679020993"/>
+    <nd ref="679019492"/>
+    <nd ref="679019475"/>
+    <nd ref="679019477"/>
+    <nd ref="679019478"/>
+    <nd ref="679020992"/>
+    <nd ref="679019479"/>
+    <nd ref="679019480"/>
+    <nd ref="679019468"/>
+    <nd ref="679019469"/>
+    <nd ref="679019470"/>
+    <nd ref="679019471"/>
+    <nd ref="679020984"/>
+    <nd ref="679020985"/>
+    <nd ref="679020987"/>
+    <nd ref="679020961"/>
+    <nd ref="679020962"/>
+    <nd ref="679019472"/>
+    <nd ref="679020963"/>
+    <nd ref="679020965"/>
+    <nd ref="679020966"/>
+    <nd ref="679020964"/>
+    <nd ref="679020967"/>
+    <nd ref="679020968"/>
+    <nd ref="679020960"/>
+    <nd ref="679020959"/>
+    <nd ref="679019453"/>
+    <nd ref="679020953"/>
+    <nd ref="679020958"/>
+    <nd ref="679020954"/>
+    <nd ref="679020956"/>
+    <nd ref="679020957"/>
+    <nd ref="679020950"/>
+    <nd ref="679020955"/>
+    <nd ref="679020951"/>
+    <nd ref="679019454"/>
+    <nd ref="679020952"/>
+    <nd ref="679020948"/>
+    <nd ref="679020934"/>
+    <nd ref="679019455"/>
+    <nd ref="679020933"/>
+    <nd ref="679019447"/>
+    <nd ref="679020935"/>
+    <nd ref="679019457"/>
+    <nd ref="679020937"/>
+    <nd ref="679020936"/>
+    <nd ref="679020926"/>
+    <nd ref="679020927"/>
+    <nd ref="679020928"/>
+    <nd ref="679019450"/>
+    <nd ref="679020930"/>
+    <nd ref="679020929"/>
+    <nd ref="679020931"/>
+    <nd ref="679019451"/>
+    <nd ref="679020917"/>
+    <nd ref="679020918"/>
+    <nd ref="679020919"/>
+    <nd ref="679019441"/>
+    <nd ref="679020909"/>
+    <nd ref="679020910"/>
+    <nd ref="679019440"/>
+    <nd ref="679020912"/>
+    <nd ref="679020911"/>
+    <nd ref="679020913"/>
+    <nd ref="679020914"/>
+    <nd ref="679019442"/>
+    <nd ref="679020915"/>
+    <nd ref="679020916"/>
+    <nd ref="679020899"/>
+    <nd ref="679020900"/>
+    <nd ref="679020901"/>
+    <nd ref="679020903"/>
+    <nd ref="679019433"/>
+    <tag k="attribution" v="Ontario Ministry Of Natural Resources"/>
+    <tag k="highway" v="path"/>
+    <tag k="note" v="Where no GPS tracks actually connect to a road, no connection is made"/>
+    <tag k="source" v="Land Information Ontario _ Trails database"/>
+    <tag k="source:2" v="area GPS tracks"/>
+    <tag k="usage" v="not yet known"/>
+  </way>
+  <way id="53789175" version="3" timestamp="2010-03-31T07:32:46Z" uid="38528" user="acrosscanadatrails" changeset="4283038">
+    <nd ref="679019558"/>
+    <nd ref="679021030"/>
+    <nd ref="679019559"/>
+    <nd ref="679021029"/>
+    <nd ref="679019561"/>
+    <nd ref="679021027"/>
+    <nd ref="679019560"/>
+    <tag k="attribution" v="Ontario Ministry Of Natural Resources"/>
+    <tag k="highway" v="path"/>
+    <tag k="note" v="Where no GPS tracks actually connect to a road, no connection is made"/>
+    <tag k="source" v="Land Information Ontario _ Trails database"/>
+    <tag k="source:2" v="area GPS tracks"/>
+    <tag k="usage" v="not yet known"/>
+  </way>
+  <way id="53789175" version="4" timestamp="2012-01-30T04:19:05Z" uid="28895" user="PurpleMustang" changeset="10536602"/>
+  <way id="53789176" version="1" timestamp="2010-03-31T07:18:59Z" uid="38528" user="acrosscanadatrails" changeset="4282948">
+    <nd ref="679019437"/>
+    <nd ref="679019438"/>
+    <nd ref="679019443"/>
+    <nd ref="679019444"/>
+    <nd ref="679019446"/>
+    <nd ref="679019445"/>
+    <nd ref="679019439"/>
+    <nd ref="679019458"/>
+    <nd ref="679019459"/>
+    <nd ref="679019452"/>
+    <nd ref="679019460"/>
+    <nd ref="679019461"/>
+    <nd ref="679019465"/>
+    <nd ref="679019466"/>
+    <nd ref="679019462"/>
+    <nd ref="679019467"/>
+    <nd ref="679019474"/>
+    <nd ref="679019473"/>
+    <nd ref="679019498"/>
+    <nd ref="679019499"/>
+    <nd ref="679019493"/>
+    <nd ref="679019500"/>
+    <nd ref="679019494"/>
+    <nd ref="679019501"/>
+    <nd ref="679019502"/>
+    <nd ref="679019495"/>
+    <nd ref="679019496"/>
+    <nd ref="679019533"/>
+    <nd ref="679019536"/>
+    <nd ref="679019534"/>
+    <nd ref="679019538"/>
+    <nd ref="679019539"/>
+    <nd ref="679019535"/>
+    <nd ref="679019540"/>
+    <nd ref="679019554"/>
+    <nd ref="679019544"/>
+    <nd ref="679019562"/>
+    <nd ref="679019558"/>
+    <tag k="attribution" v="Ontario Ministry Of Natural Resources"/>
+    <tag k="highway" v="path"/>
+    <tag k="note" v="Where no GPS tracks actually connect to a road, no connection is made"/>
+    <tag k="source" v="Land Information Ontario _ Trails database"/>
+    <tag k="source:2" v="area GPS tracks"/>
+    <tag k="usage" v="not yet known"/>
+  </way>
+  <way id="53789176" version="2" timestamp="2010-03-31T07:27:13Z" uid="38528" user="acrosscanadatrails" changeset="4282995">
+    <nd ref="679019437"/>
+    <nd ref="679020924"/>
+    <nd ref="679019438"/>
+    <nd ref="679019443"/>
+    <nd ref="679020922"/>
+    <nd ref="679019444"/>
+    <nd ref="679020921"/>
+    <nd ref="679019446"/>
+    <nd ref="679020920"/>
+    <nd ref="679019445"/>
+    <nd ref="679020925"/>
+    <nd ref="679019439"/>
+    <nd ref="679019458"/>
+    <nd ref="679020941"/>
+    <nd ref="679020940"/>
+    <nd ref="679019459"/>
+    <nd ref="679020939"/>
+    <nd ref="679020938"/>
+    <nd ref="679019452"/>
+    <nd ref="679020945"/>
+    <nd ref="679020946"/>
+    <nd ref="679020944"/>
+    <nd ref="679019460"/>
+    <nd ref="679020942"/>
+    <nd ref="679020943"/>
+    <nd ref="679020947"/>
+    <nd ref="679020969"/>
+    <nd ref="679020975"/>
+    <nd ref="679020980"/>
+    <nd ref="679020974"/>
+    <nd ref="679019461"/>
+    <nd ref="679020973"/>
+    <nd ref="679019465"/>
+    <nd ref="679020972"/>
+    <nd ref="679019466"/>
+    <nd ref="679019462"/>
+    <nd ref="679020970"/>
+    <nd ref="679020971"/>
+    <nd ref="679020981"/>
+    <nd ref="679019467"/>
+    <nd ref="679020983"/>
+    <nd ref="679019474"/>
+    <nd ref="679020989"/>
+    <nd ref="679019473"/>
+    <nd ref="679020990"/>
+    <nd ref="679020994"/>
+    <nd ref="679019498"/>
+    <nd ref="679020997"/>
+    <nd ref="679020996"/>
+    <nd ref="679019499"/>
+    <nd ref="679020995"/>
+    <nd ref="679020998"/>
+    <nd ref="679019493"/>
+    <nd ref="679019500"/>
+    <nd ref="679019494"/>
+    <nd ref="679020999"/>
+    <nd ref="679019501"/>
+    <nd ref="679021004"/>
+    <nd ref="679021005"/>
+    <nd ref="679019502"/>
+    <nd ref="679021002"/>
+    <nd ref="679019495"/>
+    <nd ref="679021003"/>
+    <nd ref="679019496"/>
+    <nd ref="679021001"/>
+    <nd ref="679021000"/>
+    <nd ref="679021006"/>
+    <nd ref="679019533"/>
+    <nd ref="679021013"/>
+    <nd ref="679019536"/>
+    <nd ref="679021015"/>
+    <nd ref="679021014"/>
+    <nd ref="679019534"/>
+    <nd ref="679021012"/>
+    <nd ref="679021011"/>
+    <nd ref="679019538"/>
+    <nd ref="679021016"/>
+    <nd ref="679021017"/>
+    <nd ref="679021018"/>
+    <nd ref="679019539"/>
+    <nd ref="679021019"/>
+    <nd ref="679019535"/>
+    <nd ref="679021020"/>
+    <nd ref="679019540"/>
+    <nd ref="679021021"/>
+    <nd ref="679019554"/>
+    <nd ref="679021025"/>
+    <nd ref="679019544"/>
+    <nd ref="679021026"/>
+    <nd ref="679021034"/>
+    <nd ref="679021035"/>
+    <nd ref="679019562"/>
+    <nd ref="679021036"/>
+    <nd ref="679021033"/>
+    <nd ref="679021032"/>
+    <nd ref="679019558"/>
+    <tag k="attribution" v="Ontario Ministry Of Natural Resources"/>
+    <tag k="highway" v="path"/>
+    <tag k="note" v="Where no GPS tracks actually connect to a road, no connection is made"/>
+    <tag k="source" v="Land Information Ontario _ Trails database"/>
+    <tag k="source:2" v="area GPS tracks"/>
+    <tag k="usage" v="not yet known"/>
+  </way>
+  <way id="53789176" version="3" timestamp="2010-03-31T08:04:31Z" uid="38528" user="acrosscanadatrails" changeset="4283231">
+    <nd ref="679019558"/>
+    <nd ref="679021032"/>
+    <nd ref="679021033"/>
+    <nd ref="679021036"/>
+    <nd ref="679019562"/>
+    <nd ref="679021035"/>
+    <nd ref="679021034"/>
+    <nd ref="679021026"/>
+    <nd ref="679019544"/>
+    <nd ref="679021025"/>
+    <nd ref="679019554"/>
+    <nd ref="679021021"/>
+    <nd ref="679019540"/>
+    <nd ref="679021020"/>
+    <nd ref="679019535"/>
+    <nd ref="679021019"/>
+    <nd ref="679019539"/>
+    <nd ref="679021018"/>
+    <nd ref="679021017"/>
+    <nd ref="679021016"/>
+    <nd ref="679019538"/>
+    <nd ref="679021011"/>
+    <nd ref="679021012"/>
+    <nd ref="679019534"/>
+    <nd ref="679021014"/>
+    <nd ref="679021015"/>
+    <nd ref="679019536"/>
+    <nd ref="679021013"/>
+    <nd ref="679019533"/>
+    <nd ref="679021006"/>
+    <nd ref="679021000"/>
+    <nd ref="679021001"/>
+    <nd ref="679019496"/>
+    <nd ref="679021003"/>
+    <nd ref="679019495"/>
+    <nd ref="679021002"/>
+    <nd ref="679019502"/>
+    <nd ref="679021005"/>
+    <nd ref="679021004"/>
+    <nd ref="679019501"/>
+    <nd ref="679020999"/>
+    <nd ref="679019494"/>
+    <nd ref="679019500"/>
+    <nd ref="679019493"/>
+    <nd ref="679020998"/>
+    <nd ref="679020995"/>
+    <nd ref="679019499"/>
+    <nd ref="679020996"/>
+    <nd ref="679020997"/>
+    <nd ref="679019498"/>
+    <nd ref="679020994"/>
+    <nd ref="679020990"/>
+    <nd ref="679019473"/>
+    <nd ref="679020989"/>
+    <nd ref="679019474"/>
+    <nd ref="679020983"/>
+    <nd ref="679019467"/>
+    <nd ref="679020981"/>
+    <nd ref="679020971"/>
+    <nd ref="679020970"/>
+    <nd ref="679019462"/>
+    <nd ref="679019466"/>
+    <nd ref="679020972"/>
+    <nd ref="679019465"/>
+    <nd ref="679020973"/>
+    <nd ref="679019461"/>
+    <nd ref="679020974"/>
+    <nd ref="679020980"/>
+    <nd ref="679020975"/>
+    <nd ref="679020969"/>
+    <nd ref="679020947"/>
+    <nd ref="679020943"/>
+    <nd ref="679020942"/>
+    <nd ref="679019460"/>
+    <nd ref="679020944"/>
+    <nd ref="679020946"/>
+    <nd ref="679020945"/>
+    <nd ref="679019452"/>
+    <nd ref="679020938"/>
+    <nd ref="679020939"/>
+    <nd ref="679019459"/>
+    <nd ref="679020940"/>
+    <nd ref="679020941"/>
+    <nd ref="679019458"/>
+    <nd ref="679019439"/>
+    <nd ref="679020925"/>
+    <nd ref="679019445"/>
+    <nd ref="679020920"/>
+    <nd ref="679019446"/>
+    <nd ref="679020921"/>
+    <nd ref="679019444"/>
+    <nd ref="679020922"/>
+    <nd ref="679019443"/>
+    <nd ref="679019438"/>
+    <nd ref="679020924"/>
+    <nd ref="679032928"/>
+    <nd ref="679019437"/>
+    <tag k="attribution" v="Ontario Ministry Of Natural Resources"/>
+    <tag k="highway" v="path"/>
+    <tag k="note" v="Where no GPS tracks actually connect to a road, no connection is made"/>
+    <tag k="source" v="Land Information Ontario _ Trails database"/>
+    <tag k="source:2" v="area GPS tracks"/>
+    <tag k="usage" v="not yet known"/>
+  </way>
+  <way id="53789176" version="4" timestamp="2012-01-30T04:19:06Z" uid="28895" user="PurpleMustang" changeset="10536602"/>
+  <way id="53789177" version="1" timestamp="2010-03-31T07:18:59Z" uid="38528" user="acrosscanadatrails" changeset="4282948">
+    <nd ref="679019558"/>
+    <nd ref="679019557"/>
+    <nd ref="679019556"/>
+    <nd ref="679019555"/>
+    <nd ref="679019563"/>
+    <nd ref="679019564"/>
+    <nd ref="413142545"/>
+    <tag k="attribution" v="Ontario Ministry Of Natural Resources"/>
+    <tag k="highway" v="path"/>
+    <tag k="note" v="Where no GPS tracks actually connect to a road, no connection is made"/>
+    <tag k="source" v="Land Information Ontario _ Trails database"/>
+    <tag k="source:2" v="area GPS tracks"/>
+    <tag k="usage" v="not yet known"/>
+  </way>
+  <way id="53789177" version="2" timestamp="2010-03-31T07:27:14Z" uid="38528" user="acrosscanadatrails" changeset="4282995">
+    <nd ref="679019558"/>
+    <nd ref="679019557"/>
+    <nd ref="679019556"/>
+    <nd ref="679021042"/>
+    <nd ref="679019555"/>
+    <nd ref="679021041"/>
+    <nd ref="679021038"/>
+    <nd ref="679021040"/>
+    <nd ref="679021037"/>
+    <nd ref="679019563"/>
+    <nd ref="679021044"/>
+    <nd ref="679019564"/>
+    <nd ref="679021043"/>
+    <nd ref="413142545"/>
+    <tag k="attribution" v="Ontario Ministry Of Natural Resources"/>
+    <tag k="highway" v="path"/>
+    <tag k="note" v="Where no GPS tracks actually connect to a road, no connection is made"/>
+    <tag k="source" v="Land Information Ontario _ Trails database"/>
+    <tag k="source:2" v="area GPS tracks"/>
+    <tag k="usage" v="not yet known"/>
+  </way>
+  <way id="53789177" version="3" timestamp="2012-01-30T04:19:06Z" uid="28895" user="PurpleMustang" changeset="10536602"/>
+  <way id="53789206" version="6" timestamp="2010-04-06T01:27:31Z" uid="74617" user="JohnSmith" changeset="4340057">
+    <nd ref="679019870"/>
+    <nd ref="679020775"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Toorak Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="53789206" version="7" timestamp="2010-06-30T15:26:37Z" uid="79475" user="AlexOnTheBus" changeset="5114216">
+    <nd ref="679019870"/>
+    <nd ref="679020775"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Toorak Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="53789206" version="8" timestamp="2010-07-14T22:37:26Z" uid="79475" user="AlexOnTheBus" changeset="5222555">
+    <nd ref="679022302"/>
+    <nd ref="679029558"/>
+    <nd ref="679019870"/>
+    <nd ref="679020775"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Toorak Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="53789206" version="9" timestamp="2011-04-10T07:35:03Z" uid="4467" user="Rosscoe" changeset="7819936">
+    <nd ref="679019850"/>
+    <nd ref="679020775"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Toorak Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="53789206" version="10" timestamp="2011-11-10T12:08:34Z" uid="206929" user="Supt_of_Printing" changeset="9788307">
+    <nd ref="679019850"/>
+    <nd ref="1497204364"/>
+    <nd ref="1497204373"/>
+    <nd ref="679020775"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="53789206" version="11" timestamp="2012-01-20T11:41:08Z" uid="211804" user="KenS" changeset="10445426"/>
+  <way id="53789207" version="7" timestamp="2010-04-06T01:27:31Z" uid="74617" user="JohnSmith" changeset="4340057">
+    <nd ref="679019851"/>
+    <nd ref="679022302"/>
+    <nd ref="679029558"/>
+    <nd ref="679019870"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Toorak Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="53789207" version="8" timestamp="2010-06-30T15:25:50Z" uid="79475" user="AlexOnTheBus" changeset="5114216">
+    <nd ref="679019851"/>
+    <nd ref="679022302"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Toorak Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="53789207" version="9" timestamp="2010-07-14T22:37:15Z" uid="79475" user="AlexOnTheBus" changeset="5222555">
+    <nd ref="679019851"/>
+    <nd ref="679022302"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Toorak Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="53789207" version="10" timestamp="2010-07-14T22:40:31Z" uid="79475" user="AlexOnTheBus" changeset="5222555">
+    <nd ref="30002220"/>
+    <nd ref="679030783"/>
+    <nd ref="679030784"/>
+    <nd ref="679030752"/>
+    <nd ref="576883508"/>
+    <nd ref="310953907"/>
+    <nd ref="203404705"/>
+    <nd ref="679019848"/>
+    <nd ref="679030570"/>
+    <nd ref="679019849"/>
+    <nd ref="679019850"/>
+    <nd ref="679019851"/>
+    <nd ref="679022302"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Toorak Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="53789207" version="11" timestamp="2011-04-10T07:34:51Z" uid="4467" user="Rosscoe" changeset="7819936">
+    <nd ref="1239503184"/>
+    <nd ref="679030783"/>
+    <nd ref="679030784"/>
+    <nd ref="576883508"/>
+    <nd ref="310953907"/>
+    <nd ref="203404705"/>
+    <nd ref="679030570"/>
+    <nd ref="679019849"/>
+    <nd ref="679027153"/>
+    <nd ref="679019850"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Toorak Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="53789207" version="12" timestamp="2011-11-10T12:08:34Z" uid="206929" user="Supt_of_Printing" changeset="9788307">
+    <nd ref="1239503184"/>
+    <nd ref="1497204341"/>
+    <nd ref="679030783"/>
+    <nd ref="679030784"/>
+    <nd ref="576883508"/>
+    <nd ref="310953907"/>
+    <nd ref="203404705"/>
+    <nd ref="679030570"/>
+    <nd ref="679019849"/>
+    <nd ref="679027153"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Toorak Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="53789207" version="13" timestamp="2012-01-20T11:44:50Z" uid="211804" user="KenS" changeset="10445456">
+    <nd ref="1239503184"/>
+    <nd ref="1497204341"/>
+    <nd ref="679030783"/>
+    <nd ref="679030784"/>
+    <nd ref="576883508"/>
+    <nd ref="310953907"/>
+    <nd ref="203404705"/>
+    <nd ref="679030570"/>
+    <nd ref="679019849"/>
+    <nd ref="1598827597"/>
+    <nd ref="679027153"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Toorak Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="53789213" version="6" timestamp="2010-04-06T01:27:30Z" uid="74617" user="JohnSmith" changeset="4340057">
+    <nd ref="679019902"/>
+    <nd ref="679020667"/>
+    <nd ref="679019904"/>
+    <nd ref="679020769"/>
+    <nd ref="679019906"/>
+    <nd ref="277329454"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Toorak Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="53789213" version="7" timestamp="2010-06-30T15:25:56Z" uid="79475" user="AlexOnTheBus" changeset="5114216">
+    <nd ref="679019902"/>
+    <nd ref="679020667"/>
+    <nd ref="679019904"/>
+    <nd ref="679020769"/>
+    <nd ref="679019906"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Toorak Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="53789213" version="8" timestamp="2010-06-30T15:26:02Z" uid="79475" user="AlexOnTheBus" changeset="5114216">
+    <nd ref="679019902"/>
+    <nd ref="679020667"/>
+    <nd ref="679019904"/>
+    <nd ref="679020769"/>
+    <nd ref="679019906"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Toorak Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="53789213" version="9" timestamp="2010-07-14T22:36:26Z" uid="79475" user="AlexOnTheBus" changeset="5222555">
+    <nd ref="679019902"/>
+    <nd ref="679020667"/>
+    <nd ref="679019904"/>
+    <nd ref="679020769"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Toorak Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="53789213" version="10" timestamp="2010-07-14T22:40:45Z" uid="79475" user="AlexOnTheBus" changeset="5222555">
+    <nd ref="679019902"/>
+    <nd ref="679020667"/>
+    <nd ref="679019904"/>
+    <nd ref="679020769"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Toorak Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="53789213" version="11" timestamp="2010-07-14T22:40:48Z" uid="79475" user="AlexOnTheBus" changeset="5222555">
+    <nd ref="679019932"/>
+    <nd ref="679019920"/>
+    <nd ref="679019902"/>
+    <nd ref="679020667"/>
+    <nd ref="679019904"/>
+    <nd ref="679020769"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Toorak Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="53789213" version="12" timestamp="2011-03-08T03:35:27Z" uid="320632" user="Zulu99" changeset="7490917">
+    <nd ref="679019932"/>
+    <nd ref="679019920"/>
+    <nd ref="679019902"/>
+    <nd ref="679020667"/>
+    <nd ref="679019904"/>
+    <nd ref="679019906"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Toorak Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="53789213" version="13" timestamp="2011-04-10T07:34:54Z" uid="4467" user="Rosscoe" changeset="7819936">
+    <nd ref="679019932"/>
+    <nd ref="679027163"/>
+    <nd ref="679019906"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Toorak Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="53789213" version="14" timestamp="2011-11-10T12:08:34Z" uid="206929" user="Supt_of_Printing" changeset="9788307">
+    <nd ref="679019932"/>
+    <nd ref="679027163"/>
+    <nd ref="1497204327"/>
+    <nd ref="679019906"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="53789213" version="15" timestamp="2012-01-20T11:41:08Z" uid="211804" user="KenS" changeset="10445426"/>
+  <way id="53789215" version="5" timestamp="2010-04-06T01:27:30Z" uid="74617" user="JohnSmith" changeset="4340057">
+    <nd ref="679019932"/>
+    <nd ref="679019920"/>
+    <nd ref="679019902"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Toorak Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="53789215" version="6" timestamp="2010-06-30T15:26:17Z" uid="79475" user="AlexOnTheBus" changeset="5114216">
+    <nd ref="679019932"/>
+    <nd ref="679019920"/>
+    <nd ref="679019902"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Toorak Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="53789215" version="7" timestamp="2010-07-14T22:40:48Z" uid="79475" user="AlexOnTheBus" changeset="5222555"/>
+  <way id="53789267" version="5" timestamp="2010-04-06T01:27:32Z" uid="74617" user="JohnSmith" changeset="4340057">
+    <nd ref="679022286"/>
+    <nd ref="679019932"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Toorak Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="53789267" version="6" timestamp="2010-06-30T15:26:31Z" uid="79475" user="AlexOnTheBus" changeset="5114216">
+    <nd ref="679022286"/>
+    <nd ref="679019932"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Toorak Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="53789267" version="7" timestamp="2012-01-20T11:41:08Z" uid="211804" user="KenS" changeset="10445426"/>
+  <way id="53789304" version="6" timestamp="2011-04-10T07:35:02Z" uid="4467" user="Rosscoe" changeset="7819936">
+    <nd ref="27163340"/>
+    <nd ref="679014112"/>
+    <nd ref="679014113"/>
+    <nd ref="679020719"/>
+    <nd ref="679020720"/>
+    <nd ref="679020722"/>
+    <nd ref="679019906"/>
+    <nd ref="679022296"/>
+    <nd ref="679020775"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="name" v="Toorak Road Offramp"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="53789304" version="7" timestamp="2011-11-10T12:08:35Z" uid="206929" user="Supt_of_Printing" changeset="9788307">
+    <nd ref="27163340"/>
+    <nd ref="1497204321"/>
+    <nd ref="679014112"/>
+    <nd ref="679014113"/>
+    <nd ref="679020719"/>
+    <nd ref="679020720"/>
+    <nd ref="1497204367"/>
+    <nd ref="679020722"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="53789304" version="8" timestamp="2012-01-20T11:41:07Z" uid="211804" user="KenS" changeset="10445426">
+    <nd ref="27163340"/>
+    <nd ref="1497204321"/>
+    <nd ref="679014112"/>
+    <nd ref="679014113"/>
+    <nd ref="679020719"/>
+    <nd ref="679020720"/>
+    <nd ref="1497204367"/>
+    <nd ref="679020722"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="lanes" v="2"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="53789306" version="4" timestamp="2010-04-06T01:27:32Z" uid="74617" user="JohnSmith" changeset="4340057">
+    <nd ref="679020775"/>
+    <nd ref="679019871"/>
+    <nd ref="679018763"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Toorak Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="53789306" version="5" timestamp="2010-07-14T22:39:32Z" uid="79475" user="AlexOnTheBus" changeset="5222555">
+    <nd ref="679020775"/>
+    <nd ref="679018763"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Toorak Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="53789306" version="6" timestamp="2011-04-10T07:34:55Z" uid="4467" user="Rosscoe" changeset="7819936">
+    <nd ref="679020775"/>
+    <nd ref="679024520"/>
+    <nd ref="1239503227"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Toorak Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="53789306" version="7" timestamp="2011-11-10T12:08:35Z" uid="206929" user="Supt_of_Printing" changeset="9788307">
+    <nd ref="679020775"/>
+    <nd ref="679024520"/>
+    <nd ref="1239503227"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="53789306" version="8" timestamp="2012-01-20T11:41:09Z" uid="211804" user="KenS" changeset="10445426"/>
+  <way id="53789392" version="6" timestamp="2011-04-10T07:35:16Z" uid="4467" user="Rosscoe" changeset="7819936"/>
+  <way id="53789394" version="12" timestamp="2011-04-10T07:35:16Z" uid="4467" user="Rosscoe" changeset="7819936"/>
+  <way id="53789404" version="2" timestamp="2010-07-09T04:03:13Z" uid="74617" user="JohnSmith" changeset="5170825">
+    <nd ref="310008435"/>
+    <nd ref="310008445"/>
+    <nd ref="310008551"/>
+    <nd ref="310008549"/>
+    <nd ref="275570107"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Grandview Grove"/>
+  </way>
+  <way id="53789404" version="3" timestamp="2012-01-20T05:00:52Z" uid="147510" user="woodpeck_fixbot" changeset="10442986">
+    <nd ref="310008435"/>
+    <nd ref="310008445"/>
+    <nd ref="310008551"/>
+    <nd ref="310008549"/>
+    <nd ref="275570107"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Grandview Grove"/>
+  </way>
+  <way id="53789404" version="4" timestamp="2012-03-25T10:13:28Z" uid="211804" user="KenS" changeset="11093306">
+    <nd ref="310008435"/>
+    <nd ref="310008445"/>
+    <nd ref="310008551"/>
+    <nd ref="310008549"/>
+    <nd ref="1690179725"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Grandview Grove"/>
+  </way>
+  <way id="53789405" version="3" timestamp="2010-04-06T01:27:32Z" uid="74617" user="JohnSmith" changeset="4340057">
+    <nd ref="60017847"/>
+    <nd ref="679022286"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Toorak Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="53789405" version="4" timestamp="2011-11-10T12:08:36Z" uid="206929" user="Supt_of_Printing" changeset="9788307">
+    <nd ref="60017847"/>
+    <nd ref="679022286"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="53789405" version="5" timestamp="2012-01-20T11:41:01Z" uid="211804" user="KenS" changeset="10445426">
+    <nd ref="60017847"/>
+    <nd ref="679022286"/>
+    <nd ref="679019932"/>
+    <nd ref="1497204327"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Toorak Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap,bing"/>
+  </way>
+  <way id="53789405" version="6" timestamp="2012-01-20T11:44:51Z" uid="211804" user="KenS" changeset="10445456">
+    <nd ref="60017847"/>
+    <nd ref="679022286"/>
+    <nd ref="679019932"/>
+    <nd ref="1598827598"/>
+    <nd ref="1497204327"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Toorak Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap,bing"/>
+  </way>
+  <way id="53789420" version="1" timestamp="2010-03-31T07:32:45Z" uid="38528" user="acrosscanadatrails" changeset="4283038">
+    <nd ref="679019560"/>
+    <nd ref="679022542"/>
+    <nd ref="679022544"/>
+    <nd ref="679022545"/>
+    <nd ref="679022546"/>
+    <nd ref="679022547"/>
+    <nd ref="679022548"/>
+    <nd ref="679022549"/>
+    <nd ref="679022550"/>
+    <nd ref="679022551"/>
+    <nd ref="679022552"/>
+    <nd ref="679022553"/>
+    <nd ref="679022554"/>
+    <nd ref="413242524"/>
+    <tag k="attribution" v="Ontario Ministry Of Natural Resources"/>
+    <tag k="highway" v="path"/>
+    <tag k="note" v="Where no GPS tracks actually connect to a road, no connection is made"/>
+    <tag k="source" v="Land Information Ontario _ Trails database"/>
+    <tag k="source:2" v="area GPS tracks"/>
+    <tag k="usage" v="not yet known"/>
+  </way>
+  <way id="53789420" version="2" timestamp="2010-03-31T07:39:24Z" uid="38528" user="acrosscanadatrails" changeset="4283076">
+    <nd ref="679019560"/>
+    <nd ref="679023847"/>
+    <nd ref="679023851"/>
+    <nd ref="679023849"/>
+    <nd ref="679023850"/>
+    <nd ref="679022542"/>
+    <nd ref="679023848"/>
+    <nd ref="679022544"/>
+    <nd ref="679023855"/>
+    <nd ref="679023857"/>
+    <nd ref="679023858"/>
+    <nd ref="679023856"/>
+    <nd ref="679023853"/>
+    <nd ref="679023859"/>
+    <nd ref="679023854"/>
+    <nd ref="679023852"/>
+    <nd ref="679023867"/>
+    <nd ref="679022545"/>
+    <nd ref="679023862"/>
+    <nd ref="679022546"/>
+    <nd ref="679023860"/>
+    <nd ref="679023863"/>
+    <nd ref="679023861"/>
+    <nd ref="679023868"/>
+    <nd ref="679023866"/>
+    <nd ref="679023864"/>
+    <nd ref="679023873"/>
+    <nd ref="679023871"/>
+    <nd ref="679023869"/>
+    <nd ref="679023872"/>
+    <nd ref="679023870"/>
+    <nd ref="679022547"/>
+    <nd ref="679023874"/>
+    <nd ref="679023875"/>
+    <nd ref="679023884"/>
+    <nd ref="679023879"/>
+    <nd ref="679023878"/>
+    <nd ref="679023876"/>
+    <nd ref="679023882"/>
+    <nd ref="679023881"/>
+    <nd ref="679023877"/>
+    <nd ref="679023880"/>
+    <nd ref="679023883"/>
+    <nd ref="679023885"/>
+    <nd ref="679023886"/>
+    <nd ref="679023890"/>
+    <nd ref="679023889"/>
+    <nd ref="679022548"/>
+    <nd ref="679023887"/>
+    <nd ref="679023888"/>
+    <nd ref="679023894"/>
+    <nd ref="679023896"/>
+    <nd ref="679023893"/>
+    <nd ref="679023898"/>
+    <nd ref="679023892"/>
+    <nd ref="679023891"/>
+    <nd ref="679023897"/>
+    <nd ref="679023895"/>
+    <nd ref="679023899"/>
+    <nd ref="679023900"/>
+    <nd ref="679023901"/>
+    <nd ref="679023903"/>
+    <nd ref="679023904"/>
+    <nd ref="679023906"/>
+    <nd ref="679023905"/>
+    <nd ref="679023907"/>
+    <nd ref="679022549"/>
+    <nd ref="679023909"/>
+    <nd ref="679023908"/>
+    <nd ref="679023914"/>
+    <nd ref="679023913"/>
+    <nd ref="679023916"/>
+    <nd ref="679023915"/>
+    <nd ref="679023910"/>
+    <nd ref="679023912"/>
+    <nd ref="679023911"/>
+    <nd ref="679023917"/>
+    <nd ref="679023922"/>
+    <nd ref="679023918"/>
+    <nd ref="679023923"/>
+    <nd ref="679022550"/>
+    <nd ref="679023924"/>
+    <nd ref="679023920"/>
+    <nd ref="679023925"/>
+    <nd ref="679023919"/>
+    <nd ref="679023926"/>
+    <nd ref="679023928"/>
+    <nd ref="679023927"/>
+    <nd ref="679023930"/>
+    <nd ref="679023929"/>
+    <nd ref="679023931"/>
+    <nd ref="679022551"/>
+    <nd ref="679023933"/>
+    <nd ref="679023932"/>
+    <nd ref="679023936"/>
+    <nd ref="679023935"/>
+    <nd ref="679023938"/>
+    <nd ref="679023937"/>
+    <nd ref="679023939"/>
+    <nd ref="679023934"/>
+    <nd ref="679023941"/>
+    <nd ref="679023942"/>
+    <nd ref="679023940"/>
+    <nd ref="679023943"/>
+    <nd ref="679023949"/>
+    <nd ref="679023951"/>
+    <nd ref="679023952"/>
+    <nd ref="679023950"/>
+    <nd ref="679023953"/>
+    <nd ref="679022552"/>
+    <nd ref="679023955"/>
+    <nd ref="679023954"/>
+    <nd ref="679023956"/>
+    <nd ref="679023957"/>
+    <nd ref="679023959"/>
+    <nd ref="679023960"/>
+    <nd ref="679022553"/>
+    <nd ref="679023962"/>
+    <nd ref="679023961"/>
+    <nd ref="679023963"/>
+    <nd ref="679023958"/>
+    <nd ref="679023966"/>
+    <nd ref="679023965"/>
+    <nd ref="679023967"/>
+    <nd ref="679023944"/>
+    <nd ref="679023946"/>
+    <nd ref="679023945"/>
+    <nd ref="679023947"/>
+    <nd ref="679023969"/>
+    <nd ref="679023968"/>
+    <nd ref="679023973"/>
+    <nd ref="679023971"/>
+    <nd ref="679023970"/>
+    <nd ref="679023972"/>
+    <nd ref="679023974"/>
+    <nd ref="679022554"/>
+    <nd ref="413242524"/>
+    <tag k="attribution" v="Ontario Ministry Of Natural Resources"/>
+    <tag k="highway" v="path"/>
+    <tag k="note" v="Where no GPS tracks actually connect to a road, no connection is made"/>
+    <tag k="source" v="Land Information Ontario _ Trails database"/>
+    <tag k="source:2" v="area GPS tracks"/>
+    <tag k="usage" v="not yet known"/>
+  </way>
+  <way id="53789420" version="3" timestamp="2010-04-16T08:05:13Z" uid="38528" user="acrosscanadatrails" changeset="4436652">
+    <nd ref="679019560"/>
+    <nd ref="679023847"/>
+    <nd ref="679023851"/>
+    <nd ref="679023849"/>
+    <nd ref="679023850"/>
+    <nd ref="679022542"/>
+    <nd ref="679023848"/>
+    <nd ref="679022544"/>
+    <nd ref="679023855"/>
+    <nd ref="679023857"/>
+    <nd ref="679023858"/>
+    <nd ref="679023856"/>
+    <nd ref="679023853"/>
+    <nd ref="679023859"/>
+    <nd ref="679023854"/>
+    <nd ref="679023852"/>
+    <nd ref="679023867"/>
+    <nd ref="679022545"/>
+    <nd ref="679023862"/>
+    <nd ref="679022546"/>
+    <nd ref="679023860"/>
+    <nd ref="679023863"/>
+    <nd ref="679023861"/>
+    <nd ref="679023868"/>
+    <nd ref="679023866"/>
+    <nd ref="679023864"/>
+    <nd ref="679023873"/>
+    <nd ref="679023871"/>
+    <nd ref="679023869"/>
+    <nd ref="679023872"/>
+    <nd ref="679023870"/>
+    <nd ref="679022547"/>
+    <nd ref="679023874"/>
+    <nd ref="679023875"/>
+    <nd ref="679023884"/>
+    <nd ref="679023879"/>
+    <nd ref="679023878"/>
+    <nd ref="679023876"/>
+    <nd ref="679023882"/>
+    <nd ref="679023881"/>
+    <nd ref="679023877"/>
+    <nd ref="679023880"/>
+    <nd ref="679023883"/>
+    <nd ref="679023885"/>
+    <nd ref="679023886"/>
+    <nd ref="679023890"/>
+    <nd ref="679023889"/>
+    <nd ref="679022548"/>
+    <nd ref="679023887"/>
+    <nd ref="679023888"/>
+    <nd ref="679023894"/>
+    <nd ref="679023896"/>
+    <nd ref="679023893"/>
+    <nd ref="679023898"/>
+    <nd ref="679023892"/>
+    <nd ref="679023891"/>
+    <nd ref="679023897"/>
+    <nd ref="679023895"/>
+    <nd ref="679023899"/>
+    <nd ref="679023900"/>
+    <nd ref="679023901"/>
+    <nd ref="679023903"/>
+    <nd ref="679023904"/>
+    <nd ref="679023906"/>
+    <nd ref="679023905"/>
+    <nd ref="679023907"/>
+    <nd ref="679022549"/>
+    <nd ref="679023909"/>
+    <nd ref="679023908"/>
+    <nd ref="679023914"/>
+    <nd ref="679023913"/>
+    <nd ref="679023916"/>
+    <nd ref="679023915"/>
+    <nd ref="679023910"/>
+    <nd ref="679023912"/>
+    <nd ref="679023911"/>
+    <nd ref="679023917"/>
+    <nd ref="679023922"/>
+    <nd ref="679023918"/>
+    <nd ref="679023923"/>
+    <nd ref="679022550"/>
+    <nd ref="679023924"/>
+    <nd ref="679023920"/>
+    <nd ref="679023925"/>
+    <nd ref="679023919"/>
+    <nd ref="679023926"/>
+    <nd ref="679023928"/>
+    <nd ref="679023927"/>
+    <nd ref="679023930"/>
+    <nd ref="679023929"/>
+    <nd ref="679023931"/>
+    <nd ref="679022551"/>
+    <nd ref="679023933"/>
+    <nd ref="679023932"/>
+    <nd ref="679023936"/>
+    <nd ref="679023935"/>
+    <nd ref="679023938"/>
+    <nd ref="679023937"/>
+    <nd ref="679023939"/>
+    <nd ref="679023934"/>
+    <nd ref="679023941"/>
+    <nd ref="679023942"/>
+    <nd ref="679023940"/>
+    <nd ref="679023943"/>
+    <nd ref="679023949"/>
+    <nd ref="679023951"/>
+    <nd ref="679023952"/>
+    <nd ref="679023950"/>
+    <nd ref="679023953"/>
+    <nd ref="679022552"/>
+    <nd ref="679023955"/>
+    <nd ref="679023954"/>
+    <nd ref="679023956"/>
+    <nd ref="679023957"/>
+    <nd ref="679023959"/>
+    <nd ref="679023960"/>
+    <nd ref="679022553"/>
+    <tag k="attribution" v="Ontario Ministry Of Natural Resources"/>
+    <tag k="highway" v="path"/>
+    <tag k="note" v="Where no GPS tracks actually connect to a road, no connection is made"/>
+    <tag k="source" v="Land Information Ontario _ Trails database"/>
+    <tag k="source:2" v="area GPS tracks"/>
+    <tag k="usage" v="not yet known"/>
+  </way>
+  <way id="53789420" version="4" timestamp="2012-01-30T04:19:05Z" uid="28895" user="PurpleMustang" changeset="10536602"/>
+  <way id="53789421" version="1" timestamp="2010-03-31T07:32:46Z" uid="38528" user="acrosscanadatrails" changeset="4283038">
+    <nd ref="679019433"/>
+    <nd ref="679020903"/>
+    <nd ref="679020901"/>
+    <nd ref="679020900"/>
+    <nd ref="679020899"/>
+    <nd ref="679020916"/>
+    <nd ref="679020915"/>
+    <nd ref="679019442"/>
+    <nd ref="679020914"/>
+    <nd ref="679020913"/>
+    <nd ref="679020911"/>
+    <nd ref="679020912"/>
+    <nd ref="679019440"/>
+    <nd ref="679020910"/>
+    <nd ref="679020909"/>
+    <nd ref="679019441"/>
+    <nd ref="679020919"/>
+    <nd ref="679020918"/>
+    <nd ref="679020917"/>
+    <nd ref="679019451"/>
+    <nd ref="679020931"/>
+    <nd ref="679020929"/>
+    <nd ref="679020930"/>
+    <nd ref="679019450"/>
+    <nd ref="679020928"/>
+    <nd ref="679020927"/>
+    <nd ref="679020926"/>
+    <nd ref="679020936"/>
+    <nd ref="679020937"/>
+    <nd ref="679019457"/>
+    <nd ref="679020935"/>
+    <nd ref="679019447"/>
+    <nd ref="679020933"/>
+    <nd ref="679019455"/>
+    <nd ref="679020934"/>
+    <nd ref="679020948"/>
+    <nd ref="679020952"/>
+    <nd ref="679019454"/>
+    <nd ref="679020951"/>
+    <nd ref="679020955"/>
+    <nd ref="679020950"/>
+    <nd ref="679020957"/>
+    <nd ref="679020956"/>
+    <nd ref="679020954"/>
+    <nd ref="679020958"/>
+    <nd ref="679020953"/>
+    <nd ref="679019453"/>
+    <nd ref="679020959"/>
+    <nd ref="679020960"/>
+    <nd ref="679020968"/>
+    <nd ref="679020967"/>
+    <nd ref="679020964"/>
+    <nd ref="679020966"/>
+    <nd ref="679020965"/>
+    <nd ref="679020963"/>
+    <nd ref="679019472"/>
+    <nd ref="679020962"/>
+    <nd ref="679020961"/>
+    <nd ref="679020987"/>
+    <nd ref="679020985"/>
+    <nd ref="679020984"/>
+    <nd ref="679019471"/>
+    <nd ref="679019470"/>
+    <nd ref="679019469"/>
+    <nd ref="679019468"/>
+    <nd ref="679019480"/>
+    <nd ref="679019479"/>
+    <nd ref="679020992"/>
+    <nd ref="679019478"/>
+    <nd ref="679019477"/>
+    <nd ref="679019475"/>
+    <nd ref="679019492"/>
+    <nd ref="679020993"/>
+    <nd ref="679019491"/>
+    <nd ref="679019490"/>
+    <nd ref="679019489"/>
+    <nd ref="679019488"/>
+    <nd ref="679019487"/>
+    <nd ref="679019486"/>
+    <nd ref="679019485"/>
+    <nd ref="679019484"/>
+    <nd ref="679019483"/>
+    <nd ref="679019482"/>
+    <nd ref="679019481"/>
+    <nd ref="679019503"/>
+    <nd ref="679019513"/>
+    <nd ref="679019512"/>
+    <nd ref="679019511"/>
+    <nd ref="679019510"/>
+    <nd ref="679019509"/>
+    <nd ref="679019508"/>
+    <nd ref="679019507"/>
+    <nd ref="679019506"/>
+    <nd ref="679019505"/>
+    <nd ref="679021007"/>
+    <nd ref="679019504"/>
+    <nd ref="679019517"/>
+    <nd ref="679019515"/>
+    <nd ref="679021008"/>
+    <nd ref="679019514"/>
+    <nd ref="679019524"/>
+    <nd ref="679019523"/>
+    <nd ref="679019522"/>
+    <nd ref="679019521"/>
+    <nd ref="679021009"/>
+    <nd ref="679019520"/>
+    <nd ref="679019519"/>
+    <nd ref="679019518"/>
+    <nd ref="679019532"/>
+    <nd ref="679019531"/>
+    <nd ref="679019530"/>
+    <nd ref="679019529"/>
+    <nd ref="679019528"/>
+    <nd ref="679019527"/>
+    <nd ref="679019526"/>
+    <nd ref="679019525"/>
+    <nd ref="679019543"/>
+    <nd ref="679019542"/>
+    <nd ref="679021022"/>
+    <nd ref="679019541"/>
+    <nd ref="679019552"/>
+    <nd ref="679019551"/>
+    <nd ref="679021023"/>
+    <nd ref="679019550"/>
+    <nd ref="679019549"/>
+    <nd ref="679019548"/>
+    <nd ref="679019547"/>
+    <nd ref="679019546"/>
+    <nd ref="679021024"/>
+    <nd ref="679019545"/>
+    <nd ref="679021031"/>
+    <nd ref="679019560"/>
+    <tag k="attribution" v="Ontario Ministry Of Natural Resources"/>
+    <tag k="highway" v="path"/>
+    <tag k="note" v="Where no GPS tracks actually connect to a road, no connection is made"/>
+    <tag k="source" v="Land Information Ontario _ Trails database"/>
+    <tag k="source:2" v="area GPS tracks"/>
+    <tag k="usage" v="not yet known"/>
+  </way>
+  <way id="53789421" version="2" timestamp="2012-01-30T04:19:05Z" uid="28895" user="PurpleMustang" changeset="10536602"/>
+  <way id="53789524" version="2" timestamp="2010-07-07T22:50:23Z" uid="74617" user="JohnSmith" changeset="5162525">
+    <nd ref="65670379"/>
+    <nd ref="65669714"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Calver Avenue"/>
+  </way>
+  <way id="53789524" version="3" timestamp="2012-01-20T05:00:53Z" uid="147510" user="woodpeck_fixbot" changeset="10442986">
+    <nd ref="65670379"/>
+    <nd ref="65669714"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Calver Avenue"/>
+  </way>
+  <way id="53789525" version="2" timestamp="2010-07-07T22:52:49Z" uid="74617" user="JohnSmith" changeset="5162525">
+    <nd ref="65669225"/>
+    <nd ref="65668852"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Calver Avenue"/>
+  </way>
+  <way id="53789525" version="3" timestamp="2012-01-20T05:00:54Z" uid="147510" user="woodpeck_fixbot" changeset="10442986">
+    <nd ref="65669225"/>
+    <nd ref="65668852"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Calver Avenue"/>
+  </way>
+  <way id="53789529" version="3" timestamp="2011-04-10T07:34:58Z" uid="4467" user="Rosscoe" changeset="7819936">
+    <nd ref="21643817"/>
+    <nd ref="644625127"/>
+    <nd ref="350896955"/>
+    <nd ref="311443588"/>
+    <nd ref="357489955"/>
+    <nd ref="311443521"/>
+    <nd ref="28829642"/>
+    <nd ref="311690353"/>
+    <nd ref="311443271"/>
+    <nd ref="644621814"/>
+    <nd ref="350895985"/>
+    <nd ref="311443357"/>
+    <nd ref="311443401"/>
+    <nd ref="350894657"/>
+    <nd ref="28829643"/>
+    <nd ref="315023942"/>
+    <nd ref="311690832"/>
+    <nd ref="315023981"/>
+    <nd ref="697200872"/>
+    <nd ref="1239503216"/>
+    <nd ref="354125605"/>
+    <nd ref="514496081"/>
+    <nd ref="315024025"/>
+    <nd ref="1239503189"/>
+    <nd ref="315024026"/>
+    <nd ref="514496101"/>
+    <nd ref="315024021"/>
+    <nd ref="462762805"/>
+    <nd ref="28829628"/>
+    <tag k="cycleway" v="lane"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Auburn Road"/>
+  </way>
+  <way id="53789529" version="4" timestamp="2011-07-13T03:38:08Z" uid="201443" user="stevage" changeset="8708665">
+    <nd ref="21643817"/>
+    <nd ref="644625127"/>
+    <nd ref="350896955"/>
+    <nd ref="311443588"/>
+    <nd ref="1360051258"/>
+    <nd ref="357489955"/>
+    <nd ref="1360051256"/>
+    <nd ref="311443521"/>
+    <nd ref="28829642"/>
+    <nd ref="311690353"/>
+    <nd ref="311443271"/>
+    <nd ref="644621814"/>
+    <nd ref="350895985"/>
+    <nd ref="311443357"/>
+    <nd ref="311443401"/>
+    <nd ref="350894657"/>
+    <nd ref="28829643"/>
+    <nd ref="315023942"/>
+    <nd ref="311690832"/>
+    <nd ref="315023981"/>
+    <nd ref="697200872"/>
+    <nd ref="1239503216"/>
+    <nd ref="354125605"/>
+    <nd ref="514496081"/>
+    <nd ref="315024025"/>
+    <nd ref="1239503189"/>
+    <nd ref="315024026"/>
+    <nd ref="514496101"/>
+    <nd ref="315024021"/>
+    <nd ref="462762805"/>
+    <nd ref="28829628"/>
+    <tag k="cycleway" v="lane"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Auburn Road"/>
+  </way>
+  <way id="53789529" version="5" timestamp="2012-01-20T11:40:58Z" uid="211804" user="KenS" changeset="10445426">
+    <nd ref="21643817"/>
+    <nd ref="644625127"/>
+    <nd ref="350896955"/>
+    <nd ref="311443588"/>
+    <nd ref="1360051258"/>
+    <nd ref="357489955"/>
+    <nd ref="1360051256"/>
+    <nd ref="311443521"/>
+    <nd ref="28829642"/>
+    <nd ref="311690353"/>
+    <nd ref="311443271"/>
+    <nd ref="644621814"/>
+    <nd ref="350895985"/>
+    <nd ref="311443357"/>
+    <nd ref="311443401"/>
+    <nd ref="350894657"/>
+    <nd ref="28829643"/>
+    <nd ref="315023942"/>
+    <nd ref="311690832"/>
+    <nd ref="315023981"/>
+    <nd ref="697200872"/>
+    <nd ref="1239503216"/>
+    <nd ref="354125605"/>
+    <nd ref="514496081"/>
+    <nd ref="315024025"/>
+    <nd ref="1239503189"/>
+    <nd ref="315024026"/>
+    <nd ref="514496101"/>
+    <nd ref="315024021"/>
+    <nd ref="462762805"/>
+    <nd ref="28829628"/>
+    <tag k="cycleway" v="lane"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Auburn Road"/>
+  </way>
+  <way id="53789530" version="2" timestamp="2011-04-10T07:35:02Z" uid="4467" user="Rosscoe" changeset="7819936">
+    <nd ref="462762758"/>
+    <nd ref="679024255"/>
+    <nd ref="679024256"/>
+    <nd ref="679024257"/>
+    <nd ref="679024259"/>
+    <nd ref="462762746"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="53789530" version="3" timestamp="2011-11-10T12:08:37Z" uid="206929" user="Supt_of_Printing" changeset="9788307">
+    <nd ref="462762758"/>
+    <nd ref="679024255"/>
+    <nd ref="679024256"/>
+    <nd ref="679024257"/>
+    <nd ref="679024259"/>
+    <nd ref="462762746"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="oneway" v="-1"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="53789533" version="1" timestamp="2010-03-31T07:42:20Z" uid="74617" user="JohnSmith" changeset="4283094">
+    <nd ref="630096554"/>
+    <nd ref="630096558"/>
+    <nd ref="630096563"/>
+    <nd ref="679024364"/>
+    <nd ref="630096566"/>
+    <nd ref="679024361"/>
+    <nd ref="679024358"/>
+    <nd ref="679024357"/>
+    <nd ref="630096569"/>
+    <nd ref="679024355"/>
+    <nd ref="630096575"/>
+    <nd ref="679024352"/>
+    <nd ref="630096578"/>
+    <nd ref="679024350"/>
+    <nd ref="679024349"/>
+    <nd ref="679024346"/>
+    <nd ref="630096581"/>
+    <nd ref="679024343"/>
+    <nd ref="630096584"/>
+    <nd ref="630096590"/>
+    <nd ref="679024340"/>
+    <nd ref="630096597"/>
+    <nd ref="679024338"/>
+    <nd ref="679024337"/>
+    <nd ref="630096603"/>
+    <nd ref="679024335"/>
+    <nd ref="630096609"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Burnt Bridge Creek Deviation"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="53789533" version="2" timestamp="2010-06-28T07:49:25Z" uid="299678" user="peteramjet" changeset="5095437">
+    <nd ref="630096554"/>
+    <nd ref="630096558"/>
+    <nd ref="630096563"/>
+    <nd ref="679024364"/>
+    <nd ref="630096566"/>
+    <nd ref="679024361"/>
+    <nd ref="679024358"/>
+    <nd ref="679024357"/>
+    <nd ref="630096569"/>
+    <nd ref="679024355"/>
+    <nd ref="630096575"/>
+    <nd ref="679024352"/>
+    <nd ref="630096578"/>
+    <nd ref="679024350"/>
+    <nd ref="679024349"/>
+    <nd ref="679024346"/>
+    <nd ref="630096581"/>
+    <nd ref="679024343"/>
+    <nd ref="630096584"/>
+    <nd ref="630096590"/>
+    <nd ref="679024340"/>
+    <nd ref="630096597"/>
+    <nd ref="679024338"/>
+    <nd ref="679024337"/>
+    <nd ref="630096603"/>
+    <nd ref="679024335"/>
+    <nd ref="630096609"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Burnt Bridge Creek Deviation"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="MR10"/>
+  </way>
+  <way id="53789533" version="3" timestamp="2010-07-08T10:25:15Z" uid="299678" user="peteramjet" changeset="5164989">
+    <nd ref="630096554"/>
+    <nd ref="630096558"/>
+    <nd ref="630096563"/>
+    <nd ref="679024364"/>
+    <nd ref="630096566"/>
+    <nd ref="679024361"/>
+    <nd ref="679024358"/>
+    <nd ref="679024357"/>
+    <nd ref="630096569"/>
+    <nd ref="679024355"/>
+    <nd ref="630096575"/>
+    <nd ref="679024352"/>
+    <nd ref="630096578"/>
+    <nd ref="679024350"/>
+    <nd ref="679024349"/>
+    <nd ref="679024346"/>
+    <nd ref="630096581"/>
+    <nd ref="679024343"/>
+    <nd ref="630096584"/>
+    <nd ref="630096590"/>
+    <nd ref="679024340"/>
+    <nd ref="630096597"/>
+    <nd ref="679024338"/>
+    <nd ref="679024337"/>
+    <nd ref="630096603"/>
+    <nd ref="679024335"/>
+    <nd ref="630096609"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Burnt Bridge Creek Deviation"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="53789533" version="4" timestamp="2012-02-02T01:38:57Z" uid="54784" user="Tom Hollander" changeset="10564136">
+    <nd ref="630096554"/>
+    <nd ref="630096558"/>
+    <nd ref="630096563"/>
+    <nd ref="679024364"/>
+    <nd ref="630096566"/>
+    <nd ref="679024361"/>
+    <nd ref="679024358"/>
+    <nd ref="679024357"/>
+    <nd ref="630096569"/>
+    <nd ref="679024355"/>
+    <nd ref="630096575"/>
+    <nd ref="679024352"/>
+    <nd ref="630096578"/>
+    <nd ref="679024350"/>
+    <nd ref="679024349"/>
+    <nd ref="679024346"/>
+    <nd ref="630096581"/>
+    <nd ref="679024343"/>
+    <nd ref="630096584"/>
+    <nd ref="630096590"/>
+    <nd ref="679024340"/>
+    <nd ref="630096597"/>
+    <nd ref="679024338"/>
+    <nd ref="679024337"/>
+    <nd ref="630096603"/>
+    <nd ref="679024335"/>
+    <nd ref="630096609"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Burnt Bridge Creek Deviation"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="MR10"/>
+  </way>
+  <way id="53789534" version="1" timestamp="2010-03-31T07:42:21Z" uid="74617" user="JohnSmith" changeset="4283094">
+    <nd ref="630096737"/>
+    <nd ref="679024372"/>
+    <nd ref="679024371"/>
+    <nd ref="630096739"/>
+    <nd ref="679024370"/>
+    <nd ref="630096742"/>
+    <nd ref="679024373"/>
+    <nd ref="630096745"/>
+    <nd ref="662196822"/>
+    <nd ref="21398178"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Burnt Bridge Creek Deviation"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="53789534" version="2" timestamp="2010-06-28T07:49:03Z" uid="299678" user="peteramjet" changeset="5095437">
+    <nd ref="630096737"/>
+    <nd ref="679024372"/>
+    <nd ref="679024371"/>
+    <nd ref="630096739"/>
+    <nd ref="679024370"/>
+    <nd ref="630096742"/>
+    <nd ref="679024373"/>
+    <nd ref="630096745"/>
+    <nd ref="662196822"/>
+    <nd ref="21398178"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Burnt Bridge Creek Deviation"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="MR10"/>
+  </way>
+  <way id="53789534" version="3" timestamp="2010-07-08T10:26:59Z" uid="299678" user="peteramjet" changeset="5164989">
+    <nd ref="630096737"/>
+    <nd ref="679024372"/>
+    <nd ref="679024371"/>
+    <nd ref="630096739"/>
+    <nd ref="679024370"/>
+    <nd ref="630096742"/>
+    <nd ref="679024373"/>
+    <nd ref="630096745"/>
+    <nd ref="662196822"/>
+    <nd ref="21398178"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Burnt Bridge Creek Deviation"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="53789534" version="4" timestamp="2012-02-02T01:38:58Z" uid="54784" user="Tom Hollander" changeset="10564136">
+    <nd ref="630096737"/>
+    <nd ref="679024372"/>
+    <nd ref="679024371"/>
+    <nd ref="630096739"/>
+    <nd ref="679024370"/>
+    <nd ref="630096742"/>
+    <nd ref="679024373"/>
+    <nd ref="630096745"/>
+    <nd ref="662196822"/>
+    <nd ref="21398178"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Burnt Bridge Creek Deviation"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="MR10"/>
+  </way>
+  <way id="53789551" version="6" timestamp="2011-04-10T07:34:50Z" uid="4467" user="Rosscoe" changeset="7819936">
+    <nd ref="27162455"/>
+    <nd ref="679037687"/>
+    <nd ref="679037688"/>
+    <nd ref="679037629"/>
+    <nd ref="277329494"/>
+    <nd ref="27162572"/>
+    <nd ref="679018606"/>
+    <nd ref="27162581"/>
+    <nd ref="679018625"/>
+    <nd ref="27162909"/>
+    <nd ref="679018636"/>
+    <nd ref="679018637"/>
+    <nd ref="679018638"/>
+    <nd ref="679018639"/>
+    <nd ref="679018642"/>
+    <nd ref="679024520"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="53789551" version="7" timestamp="2011-11-02T09:53:23Z" uid="46482" user="Leon K" changeset="9720198">
+    <nd ref="27162455"/>
+    <nd ref="679037687"/>
+    <nd ref="679037688"/>
+    <nd ref="679037629"/>
+    <nd ref="277329494"/>
+    <nd ref="27162572"/>
+    <nd ref="679018606"/>
+    <nd ref="27162581"/>
+    <nd ref="679018625"/>
+    <nd ref="27162909"/>
+    <nd ref="679018636"/>
+    <nd ref="679018637"/>
+    <nd ref="679018638"/>
+    <nd ref="679018639"/>
+    <nd ref="679018642"/>
+    <nd ref="679024520"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="website" v="www.citylink.com.au"/>
+  </way>
+  <way id="53789551" version="8" timestamp="2011-11-10T12:08:37Z" uid="206929" user="Supt_of_Printing" changeset="9788307">
+    <nd ref="27162455"/>
+    <nd ref="679037687"/>
+    <nd ref="679037688"/>
+    <nd ref="679037629"/>
+    <nd ref="277329494"/>
+    <nd ref="27162572"/>
+    <nd ref="679018606"/>
+    <nd ref="27162581"/>
+    <nd ref="679018625"/>
+    <nd ref="27162909"/>
+    <nd ref="679018636"/>
+    <nd ref="679018637"/>
+    <nd ref="1497204370"/>
+    <nd ref="1497204309"/>
+    <nd ref="679018638"/>
+    <nd ref="679018639"/>
+    <nd ref="679018642"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="website" v="www.citylink.com.au"/>
+  </way>
+  <way id="53789555" version="1" timestamp="2010-03-31T07:44:09Z" uid="253183" user="Bastioh" changeset="4283102">
+    <nd ref="282888458"/>
+    <nd ref="678437970"/>
+    <nd ref="678437968"/>
+    <nd ref="282888457"/>
+    <nd ref="393997874"/>
+    <nd ref="282888456"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Krögerberg"/>
+  </way>
+  <way id="53789555" version="2" timestamp="2010-03-31T16:39:44Z" uid="63375" user="Divjo" changeset="4286986">
+    <nd ref="282888458"/>
+    <nd ref="678437970"/>
+    <nd ref="678437968"/>
+    <nd ref="282888457"/>
+    <nd ref="393997874"/>
+    <nd ref="282888456"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Krögerberg"/>
+  </way>
+  <way id="53789555" version="3" timestamp="2011-11-21T11:54:17Z" uid="63107" user="brogo" changeset="9896285">
+    <nd ref="1511424261"/>
+    <nd ref="1511424265"/>
+    <nd ref="678437968"/>
+    <nd ref="282888457"/>
+    <nd ref="393997874"/>
+    <nd ref="282888456"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Krögerberg"/>
+  </way>
+  <way id="53789555" version="4" timestamp="2012-02-16T13:00:30Z" uid="63107" user="brogo" changeset="10701396"/>
+  <way id="53789585" version="2" timestamp="2010-04-07T14:38:45Z" uid="20587" user="balrog-kun" changeset="4353646">
+    <nd ref="114889357"/>
+    <nd ref="115078611"/>
+    <nd ref="115078612"/>
+    <nd ref="115078613"/>
+    <nd ref="115078616"/>
+    <nd ref="115078619"/>
+    <nd ref="115078622"/>
+    <nd ref="115078623"/>
+    <nd ref="115078624"/>
+    <nd ref="115078626"/>
+    <nd ref="115078629"/>
+    <nd ref="115078632"/>
+    <nd ref="115078635"/>
+    <nd ref="114982177"/>
+    <nd ref="114981689"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Meriwether Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Caddo, LA"/>
+    <tag k="tiger:name_base" v="Meriwether"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="57476027:57432079:57484662:57488476"/>
+    <tag k="tiger:zip_left" v="71109"/>
+    <tag k="tiger:zip_right" v="71109"/>
+  </way>
+  <way id="53789600" version="6" timestamp="2011-04-10T07:35:13Z" uid="4467" user="Rosscoe" changeset="7819936">
+    <nd ref="679027163"/>
+    <nd ref="679022296"/>
+    <nd ref="679019850"/>
+    <nd ref="679022334"/>
+    <nd ref="679022333"/>
+    <nd ref="679022090"/>
+    <nd ref="679022096"/>
+    <nd ref="679022098"/>
+    <nd ref="679022101"/>
+    <nd ref="679022103"/>
+    <nd ref="679021984"/>
+    <nd ref="27162615"/>
+    <nd ref="679021990"/>
+    <nd ref="679021992"/>
+    <nd ref="679021948"/>
+    <nd ref="27162580"/>
+    <nd ref="679021904"/>
+    <nd ref="27162576"/>
+    <nd ref="679021900"/>
+    <nd ref="679036936"/>
+    <nd ref="679038093"/>
+    <nd ref="679038094"/>
+    <nd ref="679038095"/>
+    <nd ref="679038096"/>
+    <nd ref="679038098"/>
+    <nd ref="679038099"/>
+    <nd ref="679038100"/>
+    <nd ref="679038102"/>
+    <nd ref="679038103"/>
+    <nd ref="679038104"/>
+    <nd ref="679038105"/>
+    <nd ref="679038106"/>
+    <nd ref="679038107"/>
+    <nd ref="27162364"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="name" v="CityLink Onramp"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="toll" v="yes"/>
+  </way>
+  <way id="53789600" version="7" timestamp="2011-11-02T09:53:23Z" uid="46482" user="Leon K" changeset="9720198">
+    <nd ref="679027163"/>
+    <nd ref="679022296"/>
+    <nd ref="679019850"/>
+    <nd ref="679022334"/>
+    <nd ref="679022333"/>
+    <nd ref="679022090"/>
+    <nd ref="679022096"/>
+    <nd ref="679022098"/>
+    <nd ref="679022101"/>
+    <nd ref="679022103"/>
+    <nd ref="679021984"/>
+    <nd ref="27162615"/>
+    <nd ref="679021990"/>
+    <nd ref="679021992"/>
+    <nd ref="679021948"/>
+    <nd ref="27162580"/>
+    <nd ref="679021904"/>
+    <nd ref="27162576"/>
+    <nd ref="679021900"/>
+    <nd ref="679036936"/>
+    <nd ref="679038093"/>
+    <nd ref="679038094"/>
+    <nd ref="679038095"/>
+    <nd ref="679038096"/>
+    <nd ref="679038098"/>
+    <nd ref="679038099"/>
+    <nd ref="679038100"/>
+    <nd ref="679038102"/>
+    <nd ref="679038103"/>
+    <nd ref="679038104"/>
+    <nd ref="679038105"/>
+    <nd ref="679038106"/>
+    <nd ref="679038107"/>
+    <nd ref="27162364"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="name" v="CityLink Onramp"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="toll" v="yes"/>
+    <tag k="website" v="www.citylink.com.au"/>
+  </way>
+  <way id="53789600" version="8" timestamp="2011-11-10T12:08:40Z" uid="206929" user="Supt_of_Printing" changeset="9788307"/>
+  <way id="53789601" version="7" timestamp="2011-04-10T07:35:16Z" uid="4467" user="Rosscoe" changeset="7819936"/>
+  <way id="53789941" version="1" timestamp="2010-03-31T07:53:41Z" uid="99207" user="Lar Kiesel" changeset="4283155">
+    <nd ref="395229250"/>
+    <nd ref="679029530"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Interstate Highway 77"/>
+    <tag k="name_1" v="Southeastern Beltway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 77"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="Richland, SC"/>
+    <tag k="tiger:name_base" v="I-77"/>
+    <tag k="tiger:name_base_1" v="Southeastern Beltway"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="71872205:71841809:71849256:71849257:71841785:71871631:71841788"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-0250b25a-3ed9-45b1-b84e-45e4a188563e"/>
+  </way>
+  <way id="53789941" version="2" timestamp="2011-07-18T00:27:02Z" uid="473471" user="NE3" changeset="8753660">
+    <nd ref="395229250"/>
+    <nd ref="679029530"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Southeastern Beltway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 77"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="Richland, SC"/>
+    <tag k="tiger:name_base" v="I-77"/>
+    <tag k="tiger:name_base_1" v="Southeastern Beltway"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="71872205:71841809:71849256:71849257:71841785:71871631:71841788"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-0250b25a-3ed9-45b1-b84e-45e4a188563e"/>
+  </way>
+  <way id="53789941" version="3" timestamp="2011-11-24T22:07:36Z" uid="207745" user="NE2" changeset="9937881">
+    <nd ref="395229250"/>
+    <nd ref="679029530"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="foot" v="no"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="horse" v="no"/>
+    <tag k="lanes" v="3"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Southeastern Beltway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 77"/>
+    <tag k="sidewalk" v="none"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="Richland, SC"/>
+    <tag k="tiger:name_base" v="I-77"/>
+    <tag k="tiger:name_base_1" v="Southeastern Beltway"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="71872205:71841809:71849256:71849257:71841785:71871631:71841788"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-0250b25a-3ed9-45b1-b84e-45e4a188563e"/>
+  </way>
+  <way id="53789942" version="1" timestamp="2010-03-31T07:53:42Z" uid="99207" user="Lar Kiesel" changeset="4283155">
+    <nd ref="679029530"/>
+    <nd ref="114006217"/>
+    <nd ref="114006219"/>
+    <nd ref="395283161"/>
+    <nd ref="113938893"/>
+    <nd ref="113945713"/>
+    <nd ref="114006223"/>
+    <nd ref="113969676"/>
+    <nd ref="113961043"/>
+    <nd ref="114006228"/>
+    <nd ref="113971348"/>
+    <nd ref="114006230"/>
+    <nd ref="395283943"/>
+    <nd ref="113971369"/>
+    <nd ref="412104720"/>
+    <nd ref="114006232"/>
+    <nd ref="395285619"/>
+    <nd ref="114006235"/>
+    <nd ref="395285680"/>
+    <nd ref="114006239"/>
+    <nd ref="395284431"/>
+    <nd ref="412104723"/>
+    <nd ref="395284433"/>
+    <nd ref="412104728"/>
+    <nd ref="114006242"/>
+    <nd ref="114006244"/>
+    <nd ref="395291613"/>
+    <nd ref="114006246"/>
+    <nd ref="113944226"/>
+    <nd ref="113944145"/>
+    <nd ref="114006248"/>
+    <nd ref="113979433"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="Interstate Highway 77"/>
+    <tag k="name_1" v="Southeastern Beltway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 77"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="Richland, SC"/>
+    <tag k="tiger:name_base" v="I-77"/>
+    <tag k="tiger:name_base_1" v="Southeastern Beltway"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="71872205:71841809:71849256:71849257:71841785:71871631:71841788"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-0250b25a-3ed9-45b1-b84e-45e4a188563e"/>
+  </way>
+  <way id="53789942" version="2" timestamp="2010-04-10T01:55:32Z" uid="99207" user="Lar Kiesel" changeset="4378984">
+    <nd ref="679029530"/>
+    <nd ref="114006217"/>
+    <nd ref="114006219"/>
+    <nd ref="691133475"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="Interstate Highway 77"/>
+    <tag k="name_1" v="Southeastern Beltway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 77"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="Richland, SC"/>
+    <tag k="tiger:name_base" v="I-77"/>
+    <tag k="tiger:name_base_1" v="Southeastern Beltway"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="71872205:71841809:71849256:71849257:71841785:71871631:71841788"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-0250b25a-3ed9-45b1-b84e-45e4a188563e"/>
+  </way>
+  <way id="53789942" version="3" timestamp="2010-05-20T07:38:46Z" uid="252811" user="rickmastfan67" changeset="4754307">
+    <nd ref="679029530"/>
+    <nd ref="114006217"/>
+    <nd ref="114006219"/>
+    <nd ref="740438160"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="Interstate Highway 77"/>
+    <tag k="name_1" v="Southeastern Beltway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 77"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="Richland, SC"/>
+    <tag k="tiger:name_base" v="I-77"/>
+    <tag k="tiger:name_base_1" v="Southeastern Beltway"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="71872205:71841809:71849256:71849257:71841785:71871631:71841788"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-0250b25a-3ed9-45b1-b84e-45e4a188563e"/>
+  </way>
+  <way id="53789942" version="4" timestamp="2011-07-18T00:27:16Z" uid="473471" user="NE3" changeset="8753660">
+    <nd ref="679029530"/>
+    <nd ref="114006217"/>
+    <nd ref="114006219"/>
+    <nd ref="740438160"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="Southeastern Beltway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 77"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="Richland, SC"/>
+    <tag k="tiger:name_base" v="I-77"/>
+    <tag k="tiger:name_base_1" v="Southeastern Beltway"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="71872205:71841809:71849256:71849257:71841785:71871631:71841788"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-0250b25a-3ed9-45b1-b84e-45e4a188563e"/>
+  </way>
+  <way id="53789942" version="5" timestamp="2011-11-24T22:08:04Z" uid="207745" user="NE2" changeset="9937881">
+    <nd ref="679029530"/>
+    <nd ref="114006217"/>
+    <nd ref="114006219"/>
+    <nd ref="740438160"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="foot" v="no"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="horse" v="no"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="Southeastern Beltway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 77"/>
+    <tag k="sidewalk" v="none"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="Richland, SC"/>
+    <tag k="tiger:name_base" v="I-77"/>
+    <tag k="tiger:name_base_1" v="Southeastern Beltway"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="71872205:71841809:71849256:71849257:71841785:71871631:71841788"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-0250b25a-3ed9-45b1-b84e-45e4a188563e"/>
+  </way>
+  <way id="53789943" version="1" timestamp="2010-03-31T07:53:46Z" uid="99207" user="Lar Kiesel" changeset="4283155">
+    <nd ref="395229259"/>
+    <nd ref="679029536"/>
+    <nd ref="395229260"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="name" v="Interstate Highway 77"/>
+    <tag k="name_1" v="Southeastern Beltway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 77"/>
+  </way>
+  <way id="53789943" version="2" timestamp="2011-07-18T00:27:13Z" uid="473471" user="NE3" changeset="8753660">
+    <nd ref="395229259"/>
+    <nd ref="679029536"/>
+    <nd ref="395229260"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="name" v="Southeastern Beltway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 77"/>
+  </way>
+  <way id="53789943" version="3" timestamp="2011-11-24T22:07:50Z" uid="207745" user="NE2" changeset="9937881">
+    <nd ref="395229259"/>
+    <nd ref="679029536"/>
+    <nd ref="395229260"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="foot" v="no"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="horse" v="no"/>
+    <tag k="lanes" v="3"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="name" v="Southeastern Beltway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 77"/>
+    <tag k="sidewalk" v="none"/>
+  </way>
+  <way id="53789944" version="1" timestamp="2010-03-31T07:53:47Z" uid="99207" user="Lar Kiesel" changeset="4283155">
+    <nd ref="395229260"/>
+    <nd ref="395229251"/>
+    <nd ref="412106338"/>
+    <nd ref="395229252"/>
+    <nd ref="412106339"/>
+    <nd ref="395229253"/>
+    <nd ref="395229038"/>
+    <nd ref="412106340"/>
+    <nd ref="395229039"/>
+    <nd ref="412106341"/>
+    <nd ref="395229020"/>
+    <nd ref="412106342"/>
+    <nd ref="395229021"/>
+    <nd ref="412106343"/>
+    <nd ref="395229022"/>
+    <nd ref="395229023"/>
+    <nd ref="412106344"/>
+    <nd ref="395229024"/>
+    <nd ref="395229025"/>
+    <nd ref="395228703"/>
+    <nd ref="395227793"/>
+    <nd ref="395227544"/>
+    <nd ref="395227545"/>
+    <nd ref="395227589"/>
+    <nd ref="395227583"/>
+    <nd ref="395227546"/>
+    <nd ref="395227547"/>
+    <nd ref="395227129"/>
+    <nd ref="571794394"/>
+    <nd ref="395226272"/>
+    <nd ref="395227142"/>
+    <nd ref="395226218"/>
+    <nd ref="395226206"/>
+    <nd ref="395226208"/>
+    <nd ref="395226209"/>
+    <nd ref="395226210"/>
+    <nd ref="395226211"/>
+    <nd ref="395226212"/>
+    <nd ref="395226065"/>
+    <nd ref="405138616"/>
+    <nd ref="395226066"/>
+    <nd ref="395226069"/>
+    <nd ref="395226011"/>
+    <nd ref="395226013"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="name" v="Interstate Highway 77"/>
+    <tag k="name_1" v="Southeastern Beltway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 77"/>
+  </way>
+  <way id="53789944" version="2" timestamp="2010-05-20T05:45:34Z" uid="252811" user="rickmastfan67" changeset="4753961">
+    <nd ref="395229260"/>
+    <nd ref="395229251"/>
+    <nd ref="412106338"/>
+    <nd ref="395229252"/>
+    <nd ref="412106339"/>
+    <nd ref="395229253"/>
+    <nd ref="395229038"/>
+    <nd ref="412106340"/>
+    <nd ref="395229039"/>
+    <nd ref="412106341"/>
+    <nd ref="395229020"/>
+    <nd ref="412106342"/>
+    <nd ref="395229021"/>
+    <nd ref="412106343"/>
+    <nd ref="395229022"/>
+    <nd ref="395229023"/>
+    <nd ref="412106344"/>
+    <nd ref="395229024"/>
+    <nd ref="395229025"/>
+    <nd ref="395228703"/>
+    <nd ref="395227793"/>
+    <nd ref="395227544"/>
+    <nd ref="395227545"/>
+    <nd ref="395227589"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="name" v="Interstate Highway 77"/>
+    <tag k="name_1" v="Southeastern Beltway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 77"/>
+  </way>
+  <way id="53789944" version="3" timestamp="2010-05-20T06:29:20Z" uid="252811" user="rickmastfan67" changeset="4753961">
+    <nd ref="395229260"/>
+    <nd ref="395229251"/>
+    <nd ref="412106338"/>
+    <nd ref="395229252"/>
+    <nd ref="412106339"/>
+    <nd ref="395229253"/>
+    <nd ref="395229038"/>
+    <nd ref="412106340"/>
+    <nd ref="395229039"/>
+    <nd ref="412106341"/>
+    <nd ref="395229020"/>
+    <nd ref="412106342"/>
+    <nd ref="395229021"/>
+    <nd ref="412106343"/>
+    <nd ref="395229022"/>
+    <nd ref="395229023"/>
+    <nd ref="412106344"/>
+    <nd ref="395229024"/>
+    <nd ref="740385037"/>
+    <nd ref="395229025"/>
+    <nd ref="395228703"/>
+    <nd ref="395227793"/>
+    <nd ref="395227544"/>
+    <nd ref="395227545"/>
+    <nd ref="395227589"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="name" v="Interstate Highway 77"/>
+    <tag k="name_1" v="Southeastern Beltway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 77"/>
+  </way>
+  <way id="53789944" version="4" timestamp="2011-07-18T00:27:08Z" uid="473471" user="NE3" changeset="8753660">
+    <nd ref="395229260"/>
+    <nd ref="395229251"/>
+    <nd ref="412106338"/>
+    <nd ref="395229252"/>
+    <nd ref="412106339"/>
+    <nd ref="395229253"/>
+    <nd ref="395229038"/>
+    <nd ref="412106340"/>
+    <nd ref="395229039"/>
+    <nd ref="412106341"/>
+    <nd ref="395229020"/>
+    <nd ref="412106342"/>
+    <nd ref="395229021"/>
+    <nd ref="412106343"/>
+    <nd ref="395229022"/>
+    <nd ref="395229023"/>
+    <nd ref="412106344"/>
+    <nd ref="395229024"/>
+    <nd ref="740385037"/>
+    <nd ref="395229025"/>
+    <nd ref="395228703"/>
+    <nd ref="395227793"/>
+    <nd ref="395227544"/>
+    <nd ref="395227545"/>
+    <nd ref="395227589"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="name" v="Southeastern Beltway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 77"/>
+  </way>
+  <way id="53789944" version="5" timestamp="2011-11-24T22:07:43Z" uid="207745" user="NE2" changeset="9937881">
+    <nd ref="395229260"/>
+    <nd ref="395229251"/>
+    <nd ref="412106338"/>
+    <nd ref="395229252"/>
+    <nd ref="412106339"/>
+    <nd ref="395229253"/>
+    <nd ref="395229038"/>
+    <nd ref="412106340"/>
+    <nd ref="395229039"/>
+    <nd ref="412106341"/>
+    <nd ref="395229020"/>
+    <nd ref="412106342"/>
+    <nd ref="395229021"/>
+    <nd ref="412106343"/>
+    <nd ref="395229022"/>
+    <nd ref="395229023"/>
+    <nd ref="412106344"/>
+    <nd ref="395229024"/>
+    <nd ref="740385037"/>
+    <nd ref="395229025"/>
+    <nd ref="395228703"/>
+    <nd ref="395227793"/>
+    <nd ref="395227544"/>
+    <nd ref="395227545"/>
+    <nd ref="395227589"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="foot" v="no"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="horse" v="no"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="name" v="Southeastern Beltway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 77"/>
+    <tag k="sidewalk" v="none"/>
+  </way>
+  <way id="53789945" version="5" timestamp="2011-04-10T07:35:01Z" uid="4467" user="Rosscoe" changeset="7819936">
+    <nd ref="27162909"/>
+    <nd ref="679029682"/>
+    <nd ref="679029566"/>
+    <nd ref="679029572"/>
+    <nd ref="679019850"/>
+    <nd ref="679029555"/>
+    <nd ref="679029550"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="name" v="Toorak Road Offramp"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="53789945" version="6" timestamp="2011-11-10T12:08:32Z" uid="206929" user="Supt_of_Printing" changeset="9788307">
+    <nd ref="27162909"/>
+    <nd ref="1497204372"/>
+    <nd ref="1497204363"/>
+    <nd ref="679029682"/>
+    <nd ref="679029566"/>
+    <nd ref="1497204354"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="53789948" version="1" timestamp="2010-03-31T07:54:03Z" uid="99207" user="Lar Kiesel" changeset="4283155">
+    <nd ref="114454761"/>
+    <nd ref="679029584"/>
+    <nd ref="114454763"/>
+    <nd ref="114454767"/>
+    <nd ref="114454775"/>
+    <nd ref="114454776"/>
+    <nd ref="114454779"/>
+    <nd ref="114454783"/>
+    <nd ref="114454730"/>
+    <tag k="name" v="CSX Transport"/>
+    <tag k="old_name" v="Seaboard System Railroad"/>
+    <tag k="railway" v="rail"/>
+    <tag k="tiger:cfcc" v="B11"/>
+    <tag k="tiger:county" v="Sumter, SC"/>
+    <tag k="tiger:name_base" v="Seaboard System Railroad"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="202674973:202705046:202705047:202665289:202713552"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-42a59318-1c73-4671-8329-577631b494dd"/>
+  </way>
+  <way id="53789948" version="2" timestamp="2010-04-13T06:35:53Z" uid="99207" user="Lar Kiesel" changeset="4410898">
+    <nd ref="114454761"/>
+    <nd ref="679029584"/>
+    <nd ref="114454763"/>
+    <nd ref="114454767"/>
+    <nd ref="114454775"/>
+    <nd ref="114454776"/>
+    <nd ref="114454779"/>
+    <nd ref="114454783"/>
+    <nd ref="114454730"/>
+    <tag k="name" v="Eastover"/>
+    <tag k="old_name" v="Seaboard System Railroad"/>
+    <tag k="operator" v="CSX Transport"/>
+    <tag k="railway" v="rail"/>
+    <tag k="tiger:cfcc" v="B11"/>
+    <tag k="tiger:county" v="Sumter, SC"/>
+    <tag k="tiger:name_base" v="Seaboard System Railroad"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="202674973:202705046:202705047:202665289:202713552"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-42a59318-1c73-4671-8329-577631b494dd"/>
+  </way>
+  <way id="53789948" version="3" timestamp="2010-04-13T06:39:55Z" uid="99207" user="Lar Kiesel" changeset="4410898">
+    <nd ref="114454761"/>
+    <nd ref="679029584"/>
+    <nd ref="114454763"/>
+    <nd ref="114454767"/>
+    <nd ref="114454775"/>
+    <nd ref="114454776"/>
+    <nd ref="114454779"/>
+    <nd ref="114454783"/>
+    <nd ref="114454730"/>
+    <tag k="name" v="CSX Transport"/>
+    <tag k="old_name" v="Seaboard System Railroad"/>
+    <tag k="operator" v="CSX Transport"/>
+    <tag k="railway" v="rail"/>
+    <tag k="tiger:cfcc" v="B11"/>
+    <tag k="tiger:county" v="Sumter, SC"/>
+    <tag k="tiger:name_base" v="Seaboard System Railroad"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="202674973:202705046:202705047:202665289:202713552"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-42a59318-1c73-4671-8329-577631b494dd"/>
+  </way>
+  <way id="53789950" version="5" timestamp="2011-04-10T07:35:16Z" uid="4467" user="Rosscoe" changeset="7819936"/>
+  <way id="53789956" version="6" timestamp="2011-04-10T07:35:16Z" uid="4467" user="Rosscoe" changeset="7819936"/>
+  <way id="53789957" version="1" timestamp="2010-03-31T07:54:27Z" uid="99207" user="Lar Kiesel" changeset="4283155">
+    <nd ref="114026099"/>
+    <nd ref="114026102"/>
+    <nd ref="113936105"/>
+    <nd ref="114026104"/>
+    <nd ref="114026107"/>
+    <nd ref="113935568"/>
+    <nd ref="114026110"/>
+    <nd ref="113975952"/>
+    <nd ref="679029611"/>
+    <nd ref="114026114"/>
+    <nd ref="114026115"/>
+    <nd ref="679029614"/>
+    <nd ref="114026118"/>
+    <nd ref="113975939"/>
+    <nd ref="114026120"/>
+    <nd ref="113975948"/>
+    <nd ref="113985124"/>
+    <nd ref="679029626"/>
+    <nd ref="679029629"/>
+    <nd ref="114026126"/>
+    <nd ref="114026127"/>
+    <nd ref="114026130"/>
+    <nd ref="114026132"/>
+    <nd ref="114026135"/>
+    <nd ref="114026137"/>
+    <nd ref="114042866"/>
+    <nd ref="114026143"/>
+    <nd ref="114026146"/>
+    <nd ref="114051477"/>
+    <nd ref="114037053"/>
+    <nd ref="114026152"/>
+    <nd ref="114026154"/>
+    <nd ref="114026156"/>
+    <nd ref="114026158"/>
+    <nd ref="679029654"/>
+    <nd ref="114026161"/>
+    <nd ref="114026163"/>
+    <nd ref="679029658"/>
+    <nd ref="679029661"/>
+    <nd ref="114026171"/>
+    <nd ref="114093523"/>
+    <nd ref="679029663"/>
+    <nd ref="114026181"/>
+    <nd ref="114026183"/>
+    <nd ref="114026187"/>
+    <nd ref="679029665"/>
+    <nd ref="114026190"/>
+    <nd ref="114026192"/>
+    <nd ref="679029666"/>
+    <nd ref="114026194"/>
+    <nd ref="114026197"/>
+    <nd ref="679029668"/>
+    <nd ref="114026199"/>
+    <nd ref="114026200"/>
+    <nd ref="113960797"/>
+    <nd ref="679029672"/>
+    <nd ref="679029674"/>
+    <nd ref="114026206"/>
+    <nd ref="114026208"/>
+    <nd ref="114090654"/>
+    <nd ref="114026216"/>
+    <nd ref="679029684"/>
+    <nd ref="114031386"/>
+    <nd ref="114026221"/>
+    <nd ref="114026223"/>
+    <nd ref="679029686"/>
+    <nd ref="113936285"/>
+    <nd ref="114026227"/>
+    <nd ref="114026230"/>
+    <nd ref="114043953"/>
+    <nd ref="679029687"/>
+    <nd ref="679029689"/>
+    <nd ref="114026235"/>
+    <nd ref="114026237"/>
+    <nd ref="114095933"/>
+    <nd ref="114026242"/>
+    <nd ref="113965742"/>
+    <nd ref="114026247"/>
+    <nd ref="114026249"/>
+    <nd ref="114026252"/>
+    <nd ref="114026255"/>
+    <nd ref="114026256"/>
+    <nd ref="114026259"/>
+    <nd ref="114026261"/>
+    <nd ref="114026264"/>
+    <nd ref="114026266"/>
+    <nd ref="114026271"/>
+    <nd ref="114076836"/>
+    <nd ref="114026275"/>
+    <nd ref="114048037"/>
+    <nd ref="114026281"/>
+    <nd ref="114026283"/>
+    <nd ref="114026285"/>
+    <nd ref="114026289"/>
+    <nd ref="113998054"/>
+    <nd ref="114026293"/>
+    <nd ref="461502511"/>
+    <tag k="name" v="CSX Transport"/>
+    <tag k="railway" v="rail"/>
+    <tag k="tiger:cfcc" v="B11"/>
+    <tag k="tiger:county" v="Richland, SC"/>
+    <tag k="tiger:name_base" v="Csx Railroad"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="71831005:71846944:71831076:71831619:71831656:71831661:71831806:71831784:71831625:71831057:71834130:71832184:71832179:71869827:71841743:71829763:71829885:71843183:71846919:71839243:71846939:71830451:71851089:71830469:71851090:71830471:71830475:71815304:718"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-0250b25a-3ed9-45b1-b84e-45e4a188563e"/>
+  </way>
+  <way id="53789957" version="2" timestamp="2010-04-13T06:35:56Z" uid="99207" user="Lar Kiesel" changeset="4410898">
+    <nd ref="114026099"/>
+    <nd ref="114026102"/>
+    <nd ref="113936105"/>
+    <nd ref="114026104"/>
+    <nd ref="114026107"/>
+    <nd ref="113935568"/>
+    <nd ref="114026110"/>
+    <nd ref="113975952"/>
+    <nd ref="679029611"/>
+    <nd ref="114026114"/>
+    <nd ref="114026115"/>
+    <nd ref="679029614"/>
+    <nd ref="114026118"/>
+    <nd ref="113975939"/>
+    <nd ref="114026120"/>
+    <nd ref="113975948"/>
+    <nd ref="113985124"/>
+    <nd ref="679029626"/>
+    <nd ref="679029629"/>
+    <nd ref="114026126"/>
+    <nd ref="114026127"/>
+    <nd ref="114026130"/>
+    <nd ref="114026132"/>
+    <nd ref="114026135"/>
+    <nd ref="114026137"/>
+    <nd ref="114042866"/>
+    <nd ref="114026143"/>
+    <nd ref="114026146"/>
+    <nd ref="114051477"/>
+    <nd ref="114037053"/>
+    <nd ref="114026152"/>
+    <nd ref="114026154"/>
+    <nd ref="114026156"/>
+    <nd ref="114026158"/>
+    <nd ref="679029654"/>
+    <nd ref="114026161"/>
+    <nd ref="114026163"/>
+    <nd ref="679029658"/>
+    <nd ref="679029661"/>
+    <nd ref="114026171"/>
+    <nd ref="114093523"/>
+    <nd ref="679029663"/>
+    <nd ref="114026181"/>
+    <nd ref="114026183"/>
+    <nd ref="114026187"/>
+    <nd ref="679029665"/>
+    <nd ref="114026190"/>
+    <nd ref="114026192"/>
+    <nd ref="679029666"/>
+    <nd ref="114026194"/>
+    <nd ref="114026197"/>
+    <nd ref="679029668"/>
+    <nd ref="114026199"/>
+    <nd ref="114026200"/>
+    <nd ref="113960797"/>
+    <nd ref="679029672"/>
+    <nd ref="679029674"/>
+    <nd ref="114026206"/>
+    <nd ref="114026208"/>
+    <nd ref="114090654"/>
+    <nd ref="114026216"/>
+    <nd ref="679029684"/>
+    <nd ref="114031386"/>
+    <nd ref="114026221"/>
+    <nd ref="114026223"/>
+    <nd ref="679029686"/>
+    <nd ref="113936285"/>
+    <nd ref="114026227"/>
+    <nd ref="114026230"/>
+    <nd ref="114043953"/>
+    <nd ref="679029687"/>
+    <nd ref="679029689"/>
+    <nd ref="114026235"/>
+    <nd ref="114026237"/>
+    <nd ref="114095933"/>
+    <nd ref="114026242"/>
+    <nd ref="113965742"/>
+    <nd ref="114026247"/>
+    <nd ref="114026249"/>
+    <nd ref="114026252"/>
+    <nd ref="114026255"/>
+    <nd ref="114026256"/>
+    <nd ref="114026259"/>
+    <nd ref="114026261"/>
+    <nd ref="114026264"/>
+    <nd ref="114026266"/>
+    <nd ref="114026271"/>
+    <nd ref="114076836"/>
+    <nd ref="114026275"/>
+    <nd ref="114048037"/>
+    <nd ref="114026281"/>
+    <nd ref="114026283"/>
+    <nd ref="114026285"/>
+    <nd ref="114026289"/>
+    <nd ref="113998054"/>
+    <nd ref="114026293"/>
+    <nd ref="461502511"/>
+    <tag k="name" v="Eastover"/>
+    <tag k="operator" v="CSX Transport"/>
+    <tag k="railway" v="rail"/>
+    <tag k="tiger:cfcc" v="B11"/>
+    <tag k="tiger:county" v="Richland, SC"/>
+    <tag k="tiger:name_base" v="Csx Railroad"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="71831005:71846944:71831076:71831619:71831656:71831661:71831806:71831784:71831625:71831057:71834130:71832184:71832179:71869827:71841743:71829763:71829885:71843183:71846919:71839243:71846939:71830451:71851089:71830469:71851090:71830471:71830475:71815304:718"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-0250b25a-3ed9-45b1-b84e-45e4a188563e"/>
+  </way>
+  <way id="53789957" version="3" timestamp="2010-04-13T06:39:57Z" uid="99207" user="Lar Kiesel" changeset="4410898">
+    <nd ref="114026099"/>
+    <nd ref="114026102"/>
+    <nd ref="113936105"/>
+    <nd ref="114026104"/>
+    <nd ref="114026107"/>
+    <nd ref="113935568"/>
+    <nd ref="114026110"/>
+    <nd ref="113975952"/>
+    <nd ref="679029611"/>
+    <nd ref="114026114"/>
+    <nd ref="114026115"/>
+    <nd ref="679029614"/>
+    <nd ref="114026118"/>
+    <nd ref="113975939"/>
+    <nd ref="114026120"/>
+    <nd ref="113975948"/>
+    <nd ref="113985124"/>
+    <nd ref="679029626"/>
+    <nd ref="679029629"/>
+    <nd ref="114026126"/>
+    <nd ref="114026127"/>
+    <nd ref="114026130"/>
+    <nd ref="114026132"/>
+    <nd ref="114026135"/>
+    <nd ref="114026137"/>
+    <nd ref="114042866"/>
+    <nd ref="114026143"/>
+    <nd ref="114026146"/>
+    <nd ref="114051477"/>
+    <nd ref="114037053"/>
+    <nd ref="114026152"/>
+    <nd ref="114026154"/>
+    <nd ref="114026156"/>
+    <nd ref="114026158"/>
+    <nd ref="679029654"/>
+    <nd ref="114026161"/>
+    <nd ref="114026163"/>
+    <nd ref="679029658"/>
+    <nd ref="679029661"/>
+    <nd ref="114026171"/>
+    <nd ref="114093523"/>
+    <nd ref="679029663"/>
+    <nd ref="114026181"/>
+    <nd ref="114026183"/>
+    <nd ref="114026187"/>
+    <nd ref="679029665"/>
+    <nd ref="114026190"/>
+    <nd ref="114026192"/>
+    <nd ref="679029666"/>
+    <nd ref="114026194"/>
+    <nd ref="114026197"/>
+    <nd ref="679029668"/>
+    <nd ref="114026199"/>
+    <nd ref="114026200"/>
+    <nd ref="113960797"/>
+    <nd ref="679029672"/>
+    <nd ref="679029674"/>
+    <nd ref="114026206"/>
+    <nd ref="114026208"/>
+    <nd ref="114090654"/>
+    <nd ref="114026216"/>
+    <nd ref="679029684"/>
+    <nd ref="114031386"/>
+    <nd ref="114026221"/>
+    <nd ref="114026223"/>
+    <nd ref="679029686"/>
+    <nd ref="113936285"/>
+    <nd ref="114026227"/>
+    <nd ref="114026230"/>
+    <nd ref="114043953"/>
+    <nd ref="679029687"/>
+    <nd ref="679029689"/>
+    <nd ref="114026235"/>
+    <nd ref="114026237"/>
+    <nd ref="114095933"/>
+    <nd ref="114026242"/>
+    <nd ref="113965742"/>
+    <nd ref="114026247"/>
+    <nd ref="114026249"/>
+    <nd ref="114026252"/>
+    <nd ref="114026255"/>
+    <nd ref="114026256"/>
+    <nd ref="114026259"/>
+    <nd ref="114026261"/>
+    <nd ref="114026264"/>
+    <nd ref="114026266"/>
+    <nd ref="114026271"/>
+    <nd ref="114076836"/>
+    <nd ref="114026275"/>
+    <nd ref="114048037"/>
+    <nd ref="114026281"/>
+    <nd ref="114026283"/>
+    <nd ref="114026285"/>
+    <nd ref="114026289"/>
+    <nd ref="113998054"/>
+    <nd ref="114026293"/>
+    <nd ref="461502511"/>
+    <tag k="name" v="CSX Transport"/>
+    <tag k="operator" v="CSX Transport"/>
+    <tag k="railway" v="rail"/>
+    <tag k="tiger:cfcc" v="B11"/>
+    <tag k="tiger:county" v="Richland, SC"/>
+    <tag k="tiger:name_base" v="Csx Railroad"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="71831005:71846944:71831076:71831619:71831656:71831661:71831806:71831784:71831625:71831057:71834130:71832184:71832179:71869827:71841743:71829763:71829885:71843183:71846919:71839243:71846939:71830451:71851089:71830469:71851090:71830471:71830475:71815304:718"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-0250b25a-3ed9-45b1-b84e-45e4a188563e"/>
+  </way>
+  <way id="53789961" version="2" timestamp="2010-05-11T04:49:42Z" uid="4467" user="Rosscoe" changeset="4665541">
+    <nd ref="679029700"/>
+    <nd ref="292434127"/>
+    <nd ref="292434395"/>
+    <nd ref="292527794"/>
+    <nd ref="292434396"/>
+    <nd ref="292527507"/>
+    <nd ref="292527199"/>
+    <nd ref="292526814"/>
+    <nd ref="292526313"/>
+    <nd ref="729467164"/>
+    <nd ref="729467173"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Banyule Road"/>
+  </way>
+  <way id="53789961" version="3" timestamp="2010-05-11T05:26:37Z" uid="4467" user="Rosscoe" changeset="4665618">
+    <nd ref="679029700"/>
+    <nd ref="729485086"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Banyule Road"/>
+  </way>
+  <way id="53789961" version="4" timestamp="2010-06-22T10:29:28Z" uid="305410" user="Ramen1960" changeset="5049989">
+    <nd ref="679029700"/>
+    <nd ref="729485086"/>
+    <nd ref="679029700"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Banyule Road"/>
+  </way>
+  <way id="53789961" version="5" timestamp="2011-10-06T12:24:15Z" uid="349913" user="Peter W34" changeset="9484820"/>
+  <way id="53789963" version="1" timestamp="2010-03-31T07:54:42Z" uid="99207" user="Lar Kiesel" changeset="4283155">
+    <nd ref="114042867"/>
+    <nd ref="114025221"/>
+    <nd ref="113972786"/>
+    <nd ref="114017141"/>
+    <nd ref="114042868"/>
+    <nd ref="114042870"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Joyner"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Richland, SC"/>
+    <tag k="tiger:name_base" v="Joyner"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="71812409:71812423:71812428:71813021:71812437:71814683:71812446:71812414"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-0250b25a-3ed9-45b1-b84e-45e4a188563e"/>
+    <tag k="tiger:zip_left" v="29044"/>
+    <tag k="tiger:zip_right" v="29044"/>
+  </way>
+  <way id="53789964" version="1" timestamp="2010-03-31T07:54:49Z" uid="99207" user="Lar Kiesel" changeset="4283155">
+    <nd ref="114035797"/>
+    <nd ref="114025226"/>
+    <nd ref="114035798"/>
+    <nd ref="114035800"/>
+    <nd ref="113979471"/>
+    <nd ref="114035803"/>
+    <nd ref="114035805"/>
+    <nd ref="114022342"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Henry St"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Richland, SC"/>
+    <tag k="tiger:name_base" v="Henry"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="71812709:71812712:71812714:71812430:71812435:71813017"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-0250b25a-3ed9-45b1-b84e-45e4a188563e"/>
+  </way>
+  <way id="53789965" version="1" timestamp="2010-03-31T07:54:50Z" uid="99207" user="Lar Kiesel" changeset="4283155">
+    <nd ref="114051480"/>
+    <nd ref="114025229"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Weston St"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Richland, SC"/>
+    <tag k="tiger:name_base" v="Weston"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="71812420:71812425:71813015"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-0250b25a-3ed9-45b1-b84e-45e4a188563e"/>
+    <tag k="tiger:zip_left" v="29044"/>
+    <tag k="tiger:zip_right" v="29044"/>
+  </way>
+  <way id="53789983" version="2" timestamp="2011-04-10T07:35:11Z" uid="4467" user="Rosscoe" changeset="7819936">
+    <nd ref="679029709"/>
+    <nd ref="679030565"/>
+    <nd ref="679030568"/>
+    <nd ref="679030570"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="53789983" version="3" timestamp="2011-11-10T12:08:32Z" uid="206929" user="Supt_of_Printing" changeset="9788307">
+    <nd ref="679029709"/>
+    <nd ref="679030565"/>
+    <nd ref="679030568"/>
+    <nd ref="1497204357"/>
+    <nd ref="679030570"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="53789985" version="1" timestamp="2010-03-31T07:55:33Z" uid="38528" user="acrosscanadatrails" changeset="4283168">
+    <nd ref="679030719"/>
+    <nd ref="679030721"/>
+    <nd ref="679030722"/>
+    <nd ref="679030723"/>
+    <nd ref="679030724"/>
+    <nd ref="679030725"/>
+    <nd ref="679030726"/>
+    <nd ref="679030727"/>
+    <nd ref="679030728"/>
+    <nd ref="679030729"/>
+    <nd ref="679030730"/>
+    <nd ref="679030710"/>
+    <nd ref="679030711"/>
+    <nd ref="679030712"/>
+    <nd ref="679030713"/>
+    <nd ref="679030714"/>
+    <nd ref="679030715"/>
+    <nd ref="679030716"/>
+    <nd ref="679030717"/>
+    <nd ref="679030718"/>
+    <nd ref="679030699"/>
+    <nd ref="679030700"/>
+    <nd ref="679030701"/>
+    <nd ref="679030702"/>
+    <nd ref="679030703"/>
+    <nd ref="679030704"/>
+    <nd ref="679030705"/>
+    <nd ref="679030706"/>
+    <nd ref="679030707"/>
+    <nd ref="679030708"/>
+    <nd ref="679030709"/>
+    <nd ref="679030689"/>
+    <nd ref="679030690"/>
+    <nd ref="679030691"/>
+    <nd ref="679030692"/>
+    <nd ref="679030693"/>
+    <nd ref="679030694"/>
+    <nd ref="679030695"/>
+    <nd ref="679030696"/>
+    <nd ref="679030697"/>
+    <nd ref="679030678"/>
+    <nd ref="679030679"/>
+    <nd ref="679030680"/>
+    <nd ref="679030681"/>
+    <nd ref="679030682"/>
+    <nd ref="679030683"/>
+    <nd ref="679030684"/>
+    <nd ref="679030685"/>
+    <nd ref="679030686"/>
+    <nd ref="679030687"/>
+    <nd ref="679030688"/>
+    <nd ref="679030669"/>
+    <nd ref="679030670"/>
+    <nd ref="679030671"/>
+    <nd ref="679030672"/>
+    <nd ref="679030673"/>
+    <nd ref="679030675"/>
+    <nd ref="679030676"/>
+    <nd ref="679030663"/>
+    <nd ref="679030664"/>
+    <nd ref="679030662"/>
+    <nd ref="679030665"/>
+    <nd ref="679030666"/>
+    <nd ref="679030667"/>
+    <nd ref="679030668"/>
+    <nd ref="679030647"/>
+    <nd ref="679030648"/>
+    <nd ref="679030649"/>
+    <nd ref="679030650"/>
+    <nd ref="679030651"/>
+    <nd ref="679030652"/>
+    <nd ref="679030653"/>
+    <nd ref="679030654"/>
+    <nd ref="679030655"/>
+    <nd ref="679030656"/>
+    <nd ref="679030657"/>
+    <nd ref="679030659"/>
+    <nd ref="679030660"/>
+    <nd ref="679030661"/>
+    <nd ref="679030632"/>
+    <nd ref="679030633"/>
+    <nd ref="679030634"/>
+    <nd ref="679030635"/>
+    <nd ref="679030637"/>
+    <nd ref="679030638"/>
+    <nd ref="679030639"/>
+    <nd ref="679030640"/>
+    <nd ref="679030641"/>
+    <nd ref="679030642"/>
+    <nd ref="679030643"/>
+    <nd ref="679030644"/>
+    <nd ref="679030645"/>
+    <nd ref="679030646"/>
+    <nd ref="679030629"/>
+    <nd ref="679030630"/>
+    <nd ref="679030631"/>
+    <nd ref="679030627"/>
+    <nd ref="679030628"/>
+    <nd ref="679030622"/>
+    <nd ref="679030623"/>
+    <nd ref="679030624"/>
+    <nd ref="679030625"/>
+    <nd ref="679030626"/>
+    <tag k="attribution" v="Natural Resources Canada"/>
+    <tag k="name" v="Colpoy&apos;s Creek"/>
+    <tag k="source" v="Toporama NRCan WMS layer 2010"/>
+    <tag k="waterway" v="stream"/>
+    <tag k="waterway:type" v="creek"/>
+  </way>
+  <way id="53789985" version="2" timestamp="2011-05-11T16:12:41Z" uid="62654" user="fuego" changeset="8113646"/>
+  <way id="53789143" version="2" timestamp="2012-04-11T22:59:55Z" uid="169004" user="oldtopos" changeset="11271214"/>
+  <way id="53789144" version="2" timestamp="2012-04-11T22:59:55Z" uid="169004" user="oldtopos" changeset="11271214"/>
+  <way id="53789148" version="4" timestamp="2012-04-04T23:56:52Z" uid="169004" user="oldtopos" changeset="11183637"/>
+  <way id="53789149" version="4" timestamp="2012-04-04T23:56:49Z" uid="169004" user="oldtopos" changeset="11183637"/>
+  <way id="53789150" version="4" timestamp="2012-04-04T23:56:50Z" uid="169004" user="oldtopos" changeset="11183637"/>
+  <way id="53789151" version="4" timestamp="2012-04-04T23:56:51Z" uid="169004" user="oldtopos" changeset="11183637"/>
+  <way id="53789207" version="14" timestamp="2012-07-20T00:23:09Z" uid="722137" user="OSMF Redaction Account" changeset="12352151">
+    <nd ref="1497204341"/>
+    <nd ref="679030783"/>
+    <nd ref="679030784"/>
+    <nd ref="576883508"/>
+    <nd ref="310953907"/>
+    <nd ref="203404705"/>
+    <nd ref="679030570"/>
+    <nd ref="679019849"/>
+    <nd ref="1598827597"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Toorak Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="53789207" version="15" timestamp="2012-07-21T14:05:19Z" uid="46482" user="Leon K" changeset="12411211">
+    <nd ref="1239503184"/>
+    <nd ref="1497204341"/>
+    <nd ref="679030783"/>
+    <nd ref="679030784"/>
+    <nd ref="576883508"/>
+    <nd ref="310953907"/>
+    <nd ref="203404705"/>
+    <nd ref="679030570"/>
+    <nd ref="679019849"/>
+    <nd ref="1598827597"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Toorak Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="53789304" version="9" timestamp="2012-07-20T00:23:08Z" uid="722137" user="OSMF Redaction Account" changeset="12352151">
+    <nd ref="1497204321"/>
+    <nd ref="1497204367"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="lanes" v="2"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="53789304" version="10" timestamp="2012-07-21T14:06:57Z" uid="46482" user="Leon K" changeset="12411211">
+    <nd ref="1833169130"/>
+    <nd ref="1497204321"/>
+    <nd ref="1497204367"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="lanes" v="2"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="53789304" version="11" timestamp="2012-08-07T04:18:28Z" uid="46482" user="Leon K" changeset="12640994">
+    <nd ref="1833169130"/>
+    <nd ref="1497204321"/>
+    <nd ref="1497204367"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="lanes" v="2"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="53789529" version="6" timestamp="2012-06-24T01:47:51Z" uid="637652" user="steve91" changeset="11994972">
+    <nd ref="21643817"/>
+    <nd ref="644625127"/>
+    <nd ref="350896955"/>
+    <nd ref="311443588"/>
+    <nd ref="1360051258"/>
+    <nd ref="357489955"/>
+    <nd ref="1360051256"/>
+    <nd ref="311443521"/>
+    <nd ref="28829642"/>
+    <nd ref="311690353"/>
+    <nd ref="311443271"/>
+    <nd ref="644621814"/>
+    <nd ref="350895985"/>
+    <nd ref="311443357"/>
+    <nd ref="311443401"/>
+    <nd ref="350894657"/>
+    <nd ref="28829643"/>
+    <tag k="cycleway" v="lane"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Auburn Road"/>
+  </way>
+  <way id="53789529" version="7" timestamp="2012-07-20T00:22:12Z" uid="722137" user="OSMF Redaction Account" changeset="12352151">
+    <nd ref="1360051258"/>
+    <nd ref="1360051256"/>
+    <tag k="highway" v="trunk_link"/>
+  </way>
+  <way id="53789529" version="8" timestamp="2012-08-31T03:59:13Z" uid="714293" user="nqndwc" changeset="12925812">
+    <nd ref="304963931"/>
+    <nd ref="304958999"/>
+    <nd ref="21643817"/>
+    <nd ref="644625127"/>
+    <nd ref="350896955"/>
+    <nd ref="311443588"/>
+    <nd ref="1360051258"/>
+    <nd ref="1890998741"/>
+    <nd ref="311443521"/>
+    <nd ref="28829642"/>
+    <nd ref="311690353"/>
+    <nd ref="311443271"/>
+    <nd ref="644621814"/>
+    <nd ref="350895985"/>
+    <nd ref="311443357"/>
+    <nd ref="311443401"/>
+    <nd ref="350894657"/>
+    <nd ref="28829643"/>
+    <nd ref="315023942"/>
+    <nd ref="311690832"/>
+    <nd ref="1890998740"/>
+    <nd ref="315023981"/>
+    <nd ref="697200872"/>
+    <nd ref="354125605"/>
+    <nd ref="514496081"/>
+    <nd ref="315024025"/>
+    <nd ref="315024026"/>
+    <nd ref="514496101"/>
+    <nd ref="315024021"/>
+    <nd ref="462762805"/>
+    <nd ref="28829628"/>
+    <tag k="cycleway" v="lane"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Auburn Road"/>
+  </way>
+  <way id="53789530" version="4" timestamp="2012-07-20T00:23:07Z" uid="722137" user="OSMF Redaction Account" changeset="12352151">
+    <nd ref="462762758"/>
+    <nd ref="679024255"/>
+    <nd ref="679024256"/>
+    <nd ref="679024257"/>
+    <nd ref="679024259"/>
+    <nd ref="462762746"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="oneway" v="-1"/>
+  </way>
+  <way id="53789533" version="5" timestamp="2012-06-15T19:17:24Z" uid="705018" user="jinkson" changeset="11907933">
+    <nd ref="630096554"/>
+    <nd ref="630096558"/>
+    <nd ref="630096563"/>
+    <nd ref="679024364"/>
+    <nd ref="630096566"/>
+    <nd ref="679024361"/>
+    <nd ref="679024358"/>
+    <nd ref="679024357"/>
+    <nd ref="630096569"/>
+    <nd ref="679024355"/>
+    <nd ref="630096575"/>
+    <nd ref="679024352"/>
+    <nd ref="630096578"/>
+    <nd ref="679024350"/>
+    <nd ref="679024349"/>
+    <nd ref="679024346"/>
+    <nd ref="630096581"/>
+    <nd ref="679024343"/>
+    <nd ref="630096584"/>
+    <nd ref="630096590"/>
+    <nd ref="679024340"/>
+    <nd ref="630096597"/>
+    <nd ref="679024338"/>
+    <nd ref="679024337"/>
+    <nd ref="630096603"/>
+    <nd ref="679024335"/>
+    <nd ref="630096609"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Burnt Bridge Creek Deviation"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="MR10"/>
+  </way>
+  <way id="53789533" version="6" timestamp="2012-07-01T06:15:33Z" uid="705018" user="jinkson" changeset="12072237">
+    <nd ref="630096554"/>
+    <nd ref="630096558"/>
+    <nd ref="630096563"/>
+    <nd ref="679024364"/>
+    <nd ref="630096566"/>
+    <nd ref="679024361"/>
+    <nd ref="679024358"/>
+    <nd ref="679024357"/>
+    <nd ref="630096569"/>
+    <nd ref="679024355"/>
+    <nd ref="630096575"/>
+    <nd ref="679024352"/>
+    <nd ref="630096578"/>
+    <nd ref="679024350"/>
+    <nd ref="679024349"/>
+    <nd ref="679024346"/>
+    <nd ref="630096581"/>
+    <nd ref="679024343"/>
+    <nd ref="630096584"/>
+    <nd ref="630096590"/>
+    <nd ref="679024340"/>
+    <nd ref="630096597"/>
+    <nd ref="679024338"/>
+    <nd ref="679024337"/>
+    <nd ref="630096603"/>
+    <nd ref="679024335"/>
+    <nd ref="630096609"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="maxspeed:source" v="survey"/>
+    <tag k="name" v="Burnt Bridge Creek Deviation"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="MR10"/>
+  </way>
+  <way id="53789533" version="7" timestamp="2012-07-11T04:02:28Z" uid="705018" user="jinkson" changeset="12181541"/>
+  <way id="53789534" version="5" timestamp="2012-06-15T19:17:25Z" uid="705018" user="jinkson" changeset="11907933">
+    <nd ref="630096737"/>
+    <nd ref="679024372"/>
+    <nd ref="679024371"/>
+    <nd ref="630096739"/>
+    <nd ref="679024370"/>
+    <nd ref="630096742"/>
+    <nd ref="679024373"/>
+    <nd ref="630096745"/>
+    <nd ref="662196822"/>
+    <nd ref="21398178"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Burnt Bridge Creek Deviation"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="MR10"/>
+  </way>
+  <way id="53789534" version="6" timestamp="2012-07-01T06:15:33Z" uid="705018" user="jinkson" changeset="12072237">
+    <nd ref="630096737"/>
+    <nd ref="679024372"/>
+    <nd ref="679024371"/>
+    <nd ref="630096739"/>
+    <nd ref="679024370"/>
+    <nd ref="630096742"/>
+    <nd ref="679024373"/>
+    <nd ref="630096745"/>
+    <nd ref="662196822"/>
+    <nd ref="21398178"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="maxspeed:source" v="survey"/>
+    <tag k="name" v="Burnt Bridge Creek Deviation"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="MR10"/>
+  </way>
+  <way id="53789534" version="7" timestamp="2012-07-11T04:10:45Z" uid="705018" user="jinkson" changeset="12181541"/>
+  <way id="53789551" version="9" timestamp="2012-07-20T00:23:09Z" uid="722137" user="OSMF Redaction Account" changeset="12352151">
+    <nd ref="1497204370"/>
+    <nd ref="1497204309"/>
+    <nd ref="679018642"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="website" v="www.citylink.com.au"/>
+  </way>
+  <way id="53789551" version="10" timestamp="2012-07-21T14:06:57Z" uid="46482" user="Leon K" changeset="12411211">
+    <nd ref="27162455"/>
+    <nd ref="679037687"/>
+    <nd ref="679037688"/>
+    <nd ref="679037629"/>
+    <nd ref="277329494"/>
+    <nd ref="27162572"/>
+    <nd ref="679018606"/>
+    <nd ref="27162581"/>
+    <nd ref="679018625"/>
+    <nd ref="27162909"/>
+    <nd ref="1497204372"/>
+    <nd ref="679018636"/>
+    <nd ref="679018637"/>
+    <nd ref="1497204370"/>
+    <nd ref="1497204309"/>
+    <nd ref="679018642"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="name" v="Toorak Road Offramp"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="website" v="www.citylink.com.au"/>
+  </way>
+  <way id="53789941" version="4" timestamp="2012-04-06T00:50:21Z" uid="169004" user="oldtopos" changeset="11196041"/>
+  <way id="53789942" version="6" timestamp="2012-04-06T00:50:23Z" uid="169004" user="oldtopos" changeset="11196041"/>
+  <way id="53789943" version="4" timestamp="2012-04-06T00:50:24Z" uid="169004" user="oldtopos" changeset="11196041"/>
+  <way id="53789944" version="6" timestamp="2012-04-06T00:50:21Z" uid="169004" user="oldtopos" changeset="11196041"/>
+  <way id="53789945" version="7" timestamp="2012-07-20T00:23:07Z" uid="722137" user="OSMF Redaction Account" changeset="12352151">
+    <nd ref="1497204372"/>
+    <nd ref="1497204363"/>
+    <nd ref="1497204354"/>
+    <tag k="highway" v="primary_link"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="53789945" version="8" timestamp="2012-07-29T03:15:43Z" uid="400269" user="John Berkers" changeset="12530211">
+    <nd ref="1497204372"/>
+    <nd ref="1497204363"/>
+    <nd ref="1497204354"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="name" v="Toorak Road Offramp"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="website" v="www.citylink.com.au"/>
+  </way>
+  <way id="53789948" version="4" timestamp="2012-04-11T22:59:42Z" uid="169004" user="oldtopos" changeset="11271214"/>
+  <way id="53789957" version="4" timestamp="2012-04-11T04:49:35Z" uid="169004" user="oldtopos" changeset="11260521"/>
+  <way id="53789963" version="2" timestamp="2012-07-18T14:21:20Z" uid="722137" user="OSMF Redaction Account" changeset="12284885"/>
+  <way id="53789964" version="2" timestamp="2012-07-18T14:21:20Z" uid="722137" user="OSMF Redaction Account" changeset="12284885"/>
+  <way id="53789965" version="2" timestamp="2012-07-18T14:21:20Z" uid="722137" user="OSMF Redaction Account" changeset="12284885"/>
+</osm>

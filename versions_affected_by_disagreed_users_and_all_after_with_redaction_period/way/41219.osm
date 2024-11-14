@@ -1,0 +1,691 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="41219304" version="2" timestamp="2009-10-12T23:55:53Z" uid="36809" user="pfoten_weg_!_" changeset="2831782">
+    <nd ref="387995141"/>
+    <nd ref="387995147"/>
+    <nd ref="387995144"/>
+    <nd ref="387995138"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Angerweg"/>
+    <tag k="oneway" v="no"/>
+  </way>
+  <way id="41219304" version="3" timestamp="2011-12-26T23:13:43Z" uid="342705" user="KLMB" changeset="10211800">
+    <nd ref="387995141"/>
+    <nd ref="387995138"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Angerweg"/>
+    <tag k="oneway" v="no"/>
+  </way>
+  <way id="41219304" version="4" timestamp="2012-02-16T23:24:01Z" uid="342705" user="KLMB" changeset="10706900">
+    <nd ref="387995141"/>
+    <nd ref="1635867774"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Angerweg"/>
+    <tag k="oneway" v="no"/>
+  </way>
+  <way id="41219599" version="6" timestamp="2010-07-23T23:18:54Z" uid="9581" user="Lobelt" changeset="5299813">
+    <nd ref="60697809"/>
+    <nd ref="60697810"/>
+    <nd ref="146000024"/>
+    <nd ref="60697812"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Bismarckstraße"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="B 3"/>
+  </way>
+  <way id="41219599" version="7" timestamp="2011-03-07T00:22:29Z" uid="165061" user="keinname" changeset="7479948">
+    <nd ref="60697809"/>
+    <nd ref="60697810"/>
+    <nd ref="146000024"/>
+    <nd ref="60697812"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Bismarckstraße"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="B 3"/>
+    <tag k="source:maxspeed" v="DE:urban"/>
+    <tag k="zone:maxspeed" v="DE:urban"/>
+    <tag k="zone:traffic" v="DE:urban"/>
+  </way>
+  <way id="41219599" version="8" timestamp="2012-03-15T21:15:24Z" uid="136321" user="Teddy73" changeset="10992640"/>
+  <way id="41219782" version="2" timestamp="2010-04-07T13:54:15Z" uid="20587" user="balrog-kun" changeset="4353646">
+    <nd ref="82138218"/>
+    <nd ref="82138219"/>
+    <nd ref="81590890"/>
+    <nd ref="82138221"/>
+    <nd ref="82138223"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="I-635"/>
+    <tag k="name_1" v="Lyndon B Johnson Freeway"/>
+    <tag k="ref" v="I-635"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="I-635"/>
+    <tag k="tiger:name_base_1" v="Lyndon B Johnson"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102966539:102914925:103243560:103243562:103243565:103271111:103246896:103272031:103272450:103271115:103272036:103272041:103246906:103272086:102890137:103258415:103272089:103272090:103247052:102889896:102889903:102889907:103207640:103207672:103207673:10320"/>
+    <tag k="tiger:zip_left" v="75243"/>
+    <tag k="tiger:zip_right" v="75243"/>
+  </way>
+  <way id="41219782" version="3" timestamp="2010-12-19T03:11:14Z" uid="207745" user="NE2" changeset="6702408">
+    <nd ref="82138218"/>
+    <nd ref="82138219"/>
+    <nd ref="81590890"/>
+    <nd ref="82138221"/>
+    <nd ref="82138223"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="Lyndon B Johnson Freeway"/>
+    <tag k="ref" v="I 635"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="I-635"/>
+    <tag k="tiger:name_base_1" v="Lyndon B Johnson"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102966539:102914925:103243560:103243562:103243565:103271111:103246896:103272031:103272450:103271115:103272036:103272041:103246906:103272086:102890137:103258415:103272089:103272090:103247052:102889896:102889903:102889907:103207640:103207672:103207673:10320"/>
+    <tag k="tiger:zip_left" v="75243"/>
+    <tag k="tiger:zip_right" v="75243"/>
+  </way>
+  <way id="41219782" version="4" timestamp="2011-01-29T21:46:44Z" uid="145781" user="Mara" changeset="7127671">
+    <nd ref="82138218"/>
+    <nd ref="82138219"/>
+    <nd ref="81590890"/>
+    <nd ref="82138221"/>
+    <nd ref="82138223"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="Lyndon B Johnson Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 635"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="I-635"/>
+    <tag k="tiger:name_base_1" v="Lyndon B Johnson"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102966539:102914925:103243560:103243562:103243565:103271111:103246896:103272031:103272450:103271115:103272036:103272041:103246906:103272086:102890137:103258415:103272089:103272090:103247052:102889896:102889903:102889907:103207640:103207672:103207673:10320"/>
+    <tag k="tiger:zip_left" v="75243"/>
+    <tag k="tiger:zip_right" v="75243"/>
+  </way>
+  <way id="41219782" version="5" timestamp="2011-07-24T00:33:14Z" uid="207745" user="NE2" changeset="8811259">
+    <nd ref="82138218"/>
+    <nd ref="82138219"/>
+    <nd ref="81590890"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="hov" v="lane"/>
+    <tag k="lanes" v="4"/>
+    <tag k="name" v="Lyndon B Johnson Freeway"/>
+    <tag k="note:lanes" v="left lane is hov"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 635"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="I-635"/>
+    <tag k="tiger:name_base_1" v="Lyndon B Johnson"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102966539:102914925:103243560:103243562:103243565:103271111:103246896:103272031:103272450:103271115:103272036:103272041:103246906:103272086:102890137:103258415:103272089:103272090:103247052:102889896:102889903:102889907:103207640:103207672:103207673:10320"/>
+    <tag k="tiger:zip_left" v="75243"/>
+    <tag k="tiger:zip_right" v="75243"/>
+  </way>
+  <way id="41219782" version="6" timestamp="2011-11-28T13:13:34Z" uid="207745" user="NE2" changeset="9977040">
+    <nd ref="82138218"/>
+    <nd ref="82138219"/>
+    <nd ref="81590890"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="hov" v="lane"/>
+    <tag k="lanes" v="4"/>
+    <tag k="name" v="Lyndon B Johnson Freeway"/>
+    <tag k="note:lanes" v="left lane is hov"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 635"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="I-635"/>
+    <tag k="tiger:name_base_1" v="Lyndon B Johnson"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102966539:102914925:103243560:103243562:103243565:103271111:103246896:103272031:103272450:103271115:103272036:103272041:103246906:103272086:102890137:103258415:103272089:103272090:103247052:102889896:102889903:102889907:103207640:103207672:103207673:10320"/>
+    <tag k="tiger:zip_left" v="75243"/>
+    <tag k="tiger:zip_right" v="75243"/>
+  </way>
+  <way id="41219782" version="7" timestamp="2012-01-17T18:50:31Z" uid="207745" user="NE2" changeset="10420579">
+    <nd ref="82138218"/>
+    <nd ref="82138219"/>
+    <nd ref="81590890"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="hov" v="lane"/>
+    <tag k="lanes" v="4"/>
+    <tag k="name" v="Lyndon B Johnson Freeway"/>
+    <tag k="note:lanes" v="left lane is hov"/>
+    <tag k="old_ref" v="Loop 635"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 635"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="I-635"/>
+    <tag k="tiger:name_base_1" v="Lyndon B Johnson"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102966539:102914925:103243560:103243562:103243565:103271111:103246896:103272031:103272450:103271115:103272036:103272041:103246906:103272086:102890137:103258415:103272089:103272090:103247052:102889896:102889903:102889907:103207640:103207672:103207673:10320"/>
+    <tag k="tiger:zip_left" v="75243"/>
+    <tag k="tiger:zip_right" v="75243"/>
+  </way>
+  <way id="41219789" version="2" timestamp="2010-04-07T13:54:15Z" uid="20587" user="balrog-kun" changeset="4353646">
+    <nd ref="82138217"/>
+    <nd ref="81620569"/>
+    <nd ref="82138218"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="I-635"/>
+    <tag k="name_1" v="Lyndon B Johnson Freeway"/>
+    <tag k="ref" v="I-635"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="I-635"/>
+    <tag k="tiger:name_base_1" v="Lyndon B Johnson"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102966539:102914925:103243560:103243562:103243565:103271111:103246896:103272031:103272450:103271115:103272036:103272041:103246906:103272086:102890137:103258415:103272089:103272090:103247052:102889896:102889903:102889907:103207640:103207672:103207673:10320"/>
+    <tag k="tiger:zip_left" v="75243"/>
+    <tag k="tiger:zip_right" v="75243"/>
+  </way>
+  <way id="41219789" version="3" timestamp="2010-12-19T03:13:27Z" uid="207745" user="NE2" changeset="6702408">
+    <nd ref="82138217"/>
+    <nd ref="81620569"/>
+    <nd ref="82138218"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="Lyndon B Johnson Freeway"/>
+    <tag k="ref" v="I 635"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="I-635"/>
+    <tag k="tiger:name_base_1" v="Lyndon B Johnson"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102966539:102914925:103243560:103243562:103243565:103271111:103246896:103272031:103272450:103271115:103272036:103272041:103246906:103272086:102890137:103258415:103272089:103272090:103247052:102889896:102889903:102889907:103207640:103207672:103207673:10320"/>
+    <tag k="tiger:zip_left" v="75243"/>
+    <tag k="tiger:zip_right" v="75243"/>
+  </way>
+  <way id="41219789" version="4" timestamp="2011-01-29T21:46:46Z" uid="145781" user="Mara" changeset="7127671">
+    <nd ref="82138217"/>
+    <nd ref="81620569"/>
+    <nd ref="82138218"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="Lyndon B Johnson Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 635"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="I-635"/>
+    <tag k="tiger:name_base_1" v="Lyndon B Johnson"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102966539:102914925:103243560:103243562:103243565:103271111:103246896:103272031:103272450:103271115:103272036:103272041:103246906:103272086:102890137:103258415:103272089:103272090:103247052:102889896:102889903:102889907:103207640:103207672:103207673:10320"/>
+    <tag k="tiger:zip_left" v="75243"/>
+    <tag k="tiger:zip_right" v="75243"/>
+  </way>
+  <way id="41219789" version="5" timestamp="2011-07-24T00:32:55Z" uid="207745" user="NE2" changeset="8811259">
+    <nd ref="82138217"/>
+    <nd ref="81620569"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="hov" v="lane"/>
+    <tag k="lanes" v="5"/>
+    <tag k="name" v="Lyndon B Johnson Freeway"/>
+    <tag k="note:lanes" v="left lane is hov"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 635"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="I-635"/>
+    <tag k="tiger:name_base_1" v="Lyndon B Johnson"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102966539:102914925:103243560:103243562:103243565:103271111:103246896:103272031:103272450:103271115:103272036:103272041:103246906:103272086:102890137:103258415:103272089:103272090:103247052:102889896:102889903:102889907:103207640:103207672:103207673:10320"/>
+    <tag k="tiger:zip_left" v="75243"/>
+    <tag k="tiger:zip_right" v="75243"/>
+  </way>
+  <way id="41219789" version="6" timestamp="2011-11-28T13:13:06Z" uid="207745" user="NE2" changeset="9977040">
+    <nd ref="82138217"/>
+    <nd ref="81620569"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="hov" v="lane"/>
+    <tag k="lanes" v="5"/>
+    <tag k="name" v="Lyndon B Johnson Freeway"/>
+    <tag k="note:lanes" v="left lane is hov"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 635"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="I-635"/>
+    <tag k="tiger:name_base_1" v="Lyndon B Johnson"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102966539:102914925:103243560:103243562:103243565:103271111:103246896:103272031:103272450:103271115:103272036:103272041:103246906:103272086:102890137:103258415:103272089:103272090:103247052:102889896:102889903:102889907:103207640:103207672:103207673:10320"/>
+    <tag k="tiger:zip_left" v="75243"/>
+    <tag k="tiger:zip_right" v="75243"/>
+  </way>
+  <way id="41219789" version="7" timestamp="2012-01-17T18:50:20Z" uid="207745" user="NE2" changeset="10420579">
+    <nd ref="82138217"/>
+    <nd ref="81620569"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="hov" v="lane"/>
+    <tag k="lanes" v="5"/>
+    <tag k="name" v="Lyndon B Johnson Freeway"/>
+    <tag k="note:lanes" v="left lane is hov"/>
+    <tag k="old_ref" v="Loop 635"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 635"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="I-635"/>
+    <tag k="tiger:name_base_1" v="Lyndon B Johnson"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102966539:102914925:103243560:103243562:103243565:103271111:103246896:103272031:103272450:103271115:103272036:103272041:103246906:103272086:102890137:103258415:103272089:103272090:103247052:102889896:102889903:102889907:103207640:103207672:103207673:10320"/>
+    <tag k="tiger:zip_left" v="75243"/>
+    <tag k="tiger:zip_right" v="75243"/>
+  </way>
+  <way id="41219802" version="2" timestamp="2010-04-07T13:54:16Z" uid="20587" user="balrog-kun" changeset="4353646">
+    <nd ref="81540394"/>
+    <nd ref="82138217"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="I-635"/>
+    <tag k="name_1" v="Lyndon B Johnson Freeway"/>
+    <tag k="ref" v="I-635"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="I-635"/>
+    <tag k="tiger:name_base_1" v="Lyndon B Johnson"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102966539:102914925:103243560:103243562:103243565:103271111:103246896:103272031:103272450:103271115:103272036:103272041:103246906:103272086:102890137:103258415:103272089:103272090:103247052:102889896:102889903:102889907:103207640:103207672:103207673:10320"/>
+    <tag k="tiger:zip_left" v="75243"/>
+    <tag k="tiger:zip_right" v="75243"/>
+  </way>
+  <way id="41219802" version="3" timestamp="2010-12-19T03:13:21Z" uid="207745" user="NE2" changeset="6702408">
+    <nd ref="81540394"/>
+    <nd ref="82138217"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="Lyndon B Johnson Freeway"/>
+    <tag k="ref" v="I 635"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="I-635"/>
+    <tag k="tiger:name_base_1" v="Lyndon B Johnson"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102966539:102914925:103243560:103243562:103243565:103271111:103246896:103272031:103272450:103271115:103272036:103272041:103246906:103272086:102890137:103258415:103272089:103272090:103247052:102889896:102889903:102889907:103207640:103207672:103207673:10320"/>
+    <tag k="tiger:zip_left" v="75243"/>
+    <tag k="tiger:zip_right" v="75243"/>
+  </way>
+  <way id="41219802" version="4" timestamp="2011-01-29T21:46:38Z" uid="145781" user="Mara" changeset="7127671">
+    <nd ref="81540394"/>
+    <nd ref="82138217"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="Lyndon B Johnson Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 635"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="I-635"/>
+    <tag k="tiger:name_base_1" v="Lyndon B Johnson"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102966539:102914925:103243560:103243562:103243565:103271111:103246896:103272031:103272450:103271115:103272036:103272041:103246906:103272086:102890137:103258415:103272089:103272090:103247052:102889896:102889903:102889907:103207640:103207672:103207673:10320"/>
+    <tag k="tiger:zip_left" v="75243"/>
+    <tag k="tiger:zip_right" v="75243"/>
+  </way>
+  <way id="41219802" version="5" timestamp="2011-07-24T00:32:37Z" uid="207745" user="NE2" changeset="8811259">
+    <nd ref="81540394"/>
+    <nd ref="82138217"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="hov" v="lane"/>
+    <tag k="lanes" v="5"/>
+    <tag k="name" v="Lyndon B Johnson Freeway"/>
+    <tag k="note:lanes" v="left lane is hov"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 635"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="I-635"/>
+    <tag k="tiger:name_base_1" v="Lyndon B Johnson"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102966539:102914925:103243560:103243562:103243565:103271111:103246896:103272031:103272450:103271115:103272036:103272041:103246906:103272086:102890137:103258415:103272089:103272090:103247052:102889896:102889903:102889907:103207640:103207672:103207673:10320"/>
+    <tag k="tiger:zip_left" v="75243"/>
+    <tag k="tiger:zip_right" v="75243"/>
+  </way>
+  <way id="41219802" version="6" timestamp="2011-11-28T13:11:36Z" uid="207745" user="NE2" changeset="9977040">
+    <nd ref="81540394"/>
+    <nd ref="82138217"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="hov" v="lane"/>
+    <tag k="lanes" v="5"/>
+    <tag k="name" v="Lyndon B Johnson Freeway"/>
+    <tag k="note:lanes" v="left lane is hov"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 635"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="I-635"/>
+    <tag k="tiger:name_base_1" v="Lyndon B Johnson"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102966539:102914925:103243560:103243562:103243565:103271111:103246896:103272031:103272450:103271115:103272036:103272041:103246906:103272086:102890137:103258415:103272089:103272090:103247052:102889896:102889903:102889907:103207640:103207672:103207673:10320"/>
+    <tag k="tiger:zip_left" v="75243"/>
+    <tag k="tiger:zip_right" v="75243"/>
+  </way>
+  <way id="41219802" version="7" timestamp="2012-01-17T18:50:09Z" uid="207745" user="NE2" changeset="10420579">
+    <nd ref="81540394"/>
+    <nd ref="82138217"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="hov" v="lane"/>
+    <tag k="lanes" v="5"/>
+    <tag k="name" v="Lyndon B Johnson Freeway"/>
+    <tag k="note:lanes" v="left lane is hov"/>
+    <tag k="old_ref" v="Loop 635"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 635"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="I-635"/>
+    <tag k="tiger:name_base_1" v="Lyndon B Johnson"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102966539:102914925:103243560:103243562:103243565:103271111:103246896:103272031:103272450:103271115:103272036:103272041:103246906:103272086:102890137:103258415:103272089:103272090:103247052:102889896:102889903:102889907:103207640:103207672:103207673:10320"/>
+    <tag k="tiger:zip_left" v="75243"/>
+    <tag k="tiger:zip_right" v="75243"/>
+  </way>
+  <way id="41219813" version="2" timestamp="2010-04-07T13:54:16Z" uid="20587" user="balrog-kun" changeset="4353646">
+    <nd ref="81774480"/>
+    <nd ref="81774481"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Lyndon B Johnson Freeway"/>
+    <tag k="note" v="frontage"/>
+    <tag k="tiger:cfcc" v="A64"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Lyndon B Johnson"/>
+    <tag k="tiger:name_type" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102889870:102889725:102889731:102889849:102889855:102977340:102978478"/>
+  </way>
+  <way id="41219813" version="3" timestamp="2011-01-29T21:41:51Z" uid="145781" user="Mara" changeset="7127671">
+    <nd ref="81774480"/>
+    <nd ref="81774481"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Lyndon B Johnson Freeway"/>
+    <tag k="note" v="frontage"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A64"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Lyndon B Johnson"/>
+    <tag k="tiger:name_type" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102889870:102889725:102889731:102889849:102889855:102977340:102978478"/>
+  </way>
+  <way id="41219813" version="4" timestamp="2011-07-08T00:22:38Z" uid="145781" user="Mara" changeset="8662313">
+    <nd ref="81774480"/>
+    <nd ref="81774481"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Lyndon B Johnson Freeway"/>
+    <tag k="note" v="frontage"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A64"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Lyndon B Johnson"/>
+    <tag k="tiger:name_type" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102889870:102889725:102889731:102889849:102889855:102977340:102978478"/>
+  </way>
+  <way id="41219821" version="3" timestamp="2010-04-07T13:54:16Z" uid="20587" user="balrog-kun" changeset="4353646">
+    <nd ref="81774481"/>
+    <nd ref="81774483"/>
+    <nd ref="81774484"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Lyndon B Johnson Freeway"/>
+    <tag k="note" v="frontage"/>
+    <tag k="tiger:cfcc" v="A64"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Lyndon B Johnson"/>
+    <tag k="tiger:name_type" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102889870:102889725:102889731:102889849:102889855:102977340:102978478"/>
+  </way>
+  <way id="41219821" version="4" timestamp="2011-01-29T21:46:40Z" uid="145781" user="Mara" changeset="7127671">
+    <nd ref="81774481"/>
+    <nd ref="81774483"/>
+    <nd ref="81774484"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Lyndon B Johnson Freeway"/>
+    <tag k="note" v="frontage"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A64"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Lyndon B Johnson"/>
+    <tag k="tiger:name_type" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102889870:102889725:102889731:102889849:102889855:102977340:102978478"/>
+  </way>
+  <way id="41219821" version="5" timestamp="2011-07-08T00:22:38Z" uid="145781" user="Mara" changeset="8662313">
+    <nd ref="81774481"/>
+    <nd ref="81774483"/>
+    <nd ref="81774484"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Lyndon B Johnson Freeway"/>
+    <tag k="note" v="frontage"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A64"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Lyndon B Johnson"/>
+    <tag k="tiger:name_type" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102889870:102889725:102889731:102889849:102889855:102977340:102978478"/>
+  </way>
+  <way id="41219821" version="6" timestamp="2011-11-29T05:22:02Z" uid="365944" user="homeslice60148" changeset="9984575">
+    <nd ref="81774481"/>
+    <nd ref="81774483"/>
+    <nd ref="1522680249"/>
+    <nd ref="81774484"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Lyndon B Johnson Freeway"/>
+    <tag k="note" v="frontage"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A64"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="Lyndon B Johnson"/>
+    <tag k="tiger:name_type" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102889870:102889725:102889731:102889849:102889855:102977340:102978478"/>
+  </way>
+  <way id="41219846" version="2" timestamp="2010-04-07T13:54:17Z" uid="20587" user="balrog-kun" changeset="4353646">
+    <nd ref="503663591"/>
+    <nd ref="81540394"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="I-635"/>
+    <tag k="name_1" v="Lyndon B Johnson Freeway"/>
+    <tag k="ref" v="I-635"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="I-635"/>
+    <tag k="tiger:name_base_1" v="Lyndon B Johnson"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102966539:102914925:103243560:103243562:103243565:103271111:103246896:103272031:103272450:103271115:103272036:103272041:103246906:103272086:102890137:103258415:103272089:103272090:103247052:102889896:102889903:102889907:103207640:103207672:103207673:10320"/>
+    <tag k="tiger:zip_left" v="75243"/>
+    <tag k="tiger:zip_right" v="75243"/>
+  </way>
+  <way id="41219846" version="3" timestamp="2010-12-19T03:13:29Z" uid="207745" user="NE2" changeset="6702408">
+    <nd ref="503663591"/>
+    <nd ref="81540394"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="Lyndon B Johnson Freeway"/>
+    <tag k="ref" v="I 635"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="I-635"/>
+    <tag k="tiger:name_base_1" v="Lyndon B Johnson"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102966539:102914925:103243560:103243562:103243565:103271111:103246896:103272031:103272450:103271115:103272036:103272041:103246906:103272086:102890137:103258415:103272089:103272090:103247052:102889896:102889903:102889907:103207640:103207672:103207673:10320"/>
+    <tag k="tiger:zip_left" v="75243"/>
+    <tag k="tiger:zip_right" v="75243"/>
+  </way>
+  <way id="41219846" version="4" timestamp="2011-01-29T21:41:50Z" uid="145781" user="Mara" changeset="7127671">
+    <nd ref="503663591"/>
+    <nd ref="81540394"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="Lyndon B Johnson Freeway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 635"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="I-635"/>
+    <tag k="tiger:name_base_1" v="Lyndon B Johnson"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102966539:102914925:103243560:103243562:103243565:103271111:103246896:103272031:103272450:103271115:103272036:103272041:103246906:103272086:102890137:103258415:103272089:103272090:103247052:102889896:102889903:102889907:103207640:103207672:103207673:10320"/>
+    <tag k="tiger:zip_left" v="75243"/>
+    <tag k="tiger:zip_right" v="75243"/>
+  </way>
+  <way id="41219846" version="5" timestamp="2011-07-24T00:32:46Z" uid="207745" user="NE2" changeset="8811259">
+    <nd ref="503663591"/>
+    <nd ref="81540394"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="hov" v="lane"/>
+    <tag k="lanes" v="5"/>
+    <tag k="name" v="Lyndon B Johnson Freeway"/>
+    <tag k="note:lanes" v="left lane is hov"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 635"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="I-635"/>
+    <tag k="tiger:name_base_1" v="Lyndon B Johnson"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102966539:102914925:103243560:103243562:103243565:103271111:103246896:103272031:103272450:103271115:103272036:103272041:103246906:103272086:102890137:103258415:103272089:103272090:103247052:102889896:102889903:102889907:103207640:103207672:103207673:10320"/>
+    <tag k="tiger:zip_left" v="75243"/>
+    <tag k="tiger:zip_right" v="75243"/>
+  </way>
+  <way id="41219846" version="6" timestamp="2011-11-28T13:13:01Z" uid="207745" user="NE2" changeset="9977040">
+    <nd ref="503663591"/>
+    <nd ref="81540394"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="hov" v="lane"/>
+    <tag k="lanes" v="5"/>
+    <tag k="name" v="Lyndon B Johnson Freeway"/>
+    <tag k="note:lanes" v="left lane is hov"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 635"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="I-635"/>
+    <tag k="tiger:name_base_1" v="Lyndon B Johnson"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102966539:102914925:103243560:103243562:103243565:103271111:103246896:103272031:103272450:103271115:103272036:103272041:103246906:103272086:102890137:103258415:103272089:103272090:103247052:102889896:102889903:102889907:103207640:103207672:103207673:10320"/>
+    <tag k="tiger:zip_left" v="75243"/>
+    <tag k="tiger:zip_right" v="75243"/>
+  </way>
+  <way id="41219846" version="7" timestamp="2012-01-17T18:50:18Z" uid="207745" user="NE2" changeset="10420579">
+    <nd ref="503663591"/>
+    <nd ref="81540394"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="hov" v="lane"/>
+    <tag k="lanes" v="5"/>
+    <tag k="name" v="Lyndon B Johnson Freeway"/>
+    <tag k="note:lanes" v="left lane is hov"/>
+    <tag k="old_ref" v="Loop 635"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 635"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="Dallas, TX"/>
+    <tag k="tiger:name_base" v="I-635"/>
+    <tag k="tiger:name_base_1" v="Lyndon B Johnson"/>
+    <tag k="tiger:name_type_1" v="Fwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="102966539:102914925:103243560:103243562:103243565:103271111:103246896:103272031:103272450:103271115:103272036:103272041:103246906:103272086:102890137:103258415:103272089:103272090:103247052:102889896:102889903:102889907:103207640:103207672:103207673:10320"/>
+    <tag k="tiger:zip_left" v="75243"/>
+    <tag k="tiger:zip_right" v="75243"/>
+  </way>
+</osm>

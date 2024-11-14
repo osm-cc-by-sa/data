@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="91957485" version="2" timestamp="2011-04-30T11:41:29Z" uid="9581" user="Lobelt" changeset="8010951">
+    <nd ref="287629172"/>
+    <nd ref="287629176"/>
+    <nd ref="287629178"/>
+    <nd ref="287629179"/>
+    <nd ref="287629180"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Wormser Straße"/>
+  </way>
+  <way id="91957517" version="2" timestamp="2011-04-30T11:41:23Z" uid="9581" user="Lobelt" changeset="8010951">
+    <nd ref="287629179"/>
+    <nd ref="1068410631"/>
+    <nd ref="1068410771"/>
+    <nd ref="1068410666"/>
+    <nd ref="1068410821"/>
+    <nd ref="1068410706"/>
+    <nd ref="287629172"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="91957485" version="3" timestamp="2012-04-07T14:46:16Z" uid="328555" user="peb12345" changeset="11214843">
+    <nd ref="1705873392"/>
+    <nd ref="287629176"/>
+    <nd ref="287629178"/>
+    <nd ref="287629179"/>
+    <nd ref="287629180"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Wormser Straße"/>
+  </way>
+  <way id="91957485" version="4" timestamp="2012-07-17T11:03:21Z" uid="722137" user="OSMF Redaction Account" changeset="12263687">
+    <nd ref="1705873392"/>
+    <nd ref="287629176"/>
+    <nd ref="287629178"/>
+    <nd ref="287629179"/>
+    <nd ref="287629180"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Wormser Straße"/>
+  </way>
+  <way id="91957517" version="3" timestamp="2012-04-07T14:46:15Z" uid="328555" user="peb12345" changeset="11214843">
+    <nd ref="287629179"/>
+    <nd ref="1068410631"/>
+    <nd ref="1068410771"/>
+    <nd ref="1068410666"/>
+    <nd ref="1068410821"/>
+    <nd ref="1068410706"/>
+    <nd ref="1705873392"/>
+    <tag k="highway" v="service"/>
+  </way>
+</osm>

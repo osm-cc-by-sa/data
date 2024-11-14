@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="68763252" version="3" timestamp="2010-11-01T15:47:36Z" uid="9581" user="Lobelt" changeset="6256382">
+    <nd ref="826414293"/>
+    <nd ref="82570790"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="E 451"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="signals"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="overtaking:hgv" v="no"/>
+    <tag k="ref" v="A 5"/>
+    <tag k="source:maxspeed" v="DE:motorway"/>
+    <tag k="zone:traffic" v="DE:rural"/>
+  </way>
+  <way id="68763252" version="4" timestamp="2011-08-21T08:52:05Z" uid="30077" user="ChristianW" changeset="9081783">
+    <nd ref="826414293"/>
+    <nd ref="82570790"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="E 451"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="signals"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="overtaking:hgv" v="no"/>
+    <tag k="ref" v="A 5"/>
+    <tag k="source:lit" v="http://www.autobahn-bilder.de"/>
+    <tag k="source:maxspeed" v="DE:motorway"/>
+    <tag k="zone:traffic" v="DE:rural"/>
+  </way>
+  <way id="68763252" version="5" timestamp="2012-02-13T20:13:15Z" uid="10694" user="rockhock" changeset="10677022"/>
+</osm>

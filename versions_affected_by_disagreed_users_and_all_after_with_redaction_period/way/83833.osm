@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="83833118" version="2" timestamp="2011-02-06T12:56:13Z" uid="30632" user="antblant" changeset="7203169">
+    <nd ref="975973037"/>
+    <nd ref="1139019994"/>
+    <tag k="highway" v="path"/>
+  </way>
+  <way id="83833822" version="2" timestamp="2011-02-27T22:23:10Z" uid="30632" user="antblant" changeset="7416115">
+    <nd ref="248019178"/>
+    <nd ref="1178089381"/>
+    <nd ref="258238475"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Cisowa"/>
+    <tag k="source" v="UMP-PL, ./UMP-Gdansk/src/CZERSK.ulice.txt"/>
+  </way>
+  <way id="83833118" version="3" timestamp="2012-07-30T10:29:13Z" uid="47756" user="tunnelbauer" changeset="12546035"/>
+  <way id="83833822" version="3" timestamp="2012-05-29T19:22:01Z" uid="450508" user="kujawiak" changeset="11741454">
+    <nd ref="248019178"/>
+    <nd ref="1178089381"/>
+    <nd ref="258238475"/>
+    <tag k="access" v="Czersk"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Cisowa"/>
+    <tag k="source" v="UMP-PL, ./UMP-Gdansk/src/CZERSK.ulice.txt"/>
+  </way>
+  <way id="83833822" version="4" timestamp="2012-05-29T19:24:06Z" uid="450508" user="kujawiak" changeset="11741472">
+    <nd ref="248019178"/>
+    <nd ref="1178089381"/>
+    <nd ref="258238475"/>
+    <tag k="addr:city" v="Czersk"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Cisowa"/>
+    <tag k="source" v="UMP-PL, ./UMP-Gdansk/src/CZERSK.ulice.txt"/>
+  </way>
+  <way id="83833822" version="5" timestamp="2012-08-10T15:30:12Z" uid="513431" user="WoGraSo" changeset="12680695">
+    <nd ref="248019178"/>
+    <nd ref="1178089381"/>
+    <nd ref="258238475"/>
+    <nd ref="1860373900"/>
+    <tag k="addr:city" v="Czersk"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Cisowa"/>
+    <tag k="source" v="UMP-PL, ./UMP-Gdansk/src/CZERSK.ulice.txt"/>
+  </way>
+</osm>

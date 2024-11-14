@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="84137381" version="1" timestamp="2010-11-06T12:13:01Z" uid="33382" user="de_muur" changeset="6301860">
+    <nd ref="265593740"/>
+    <nd ref="267835796"/>
+    <nd ref="265593749"/>
+    <nd ref="978804438"/>
+    <nd ref="265593759"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Dorfstraße"/>
+    <tag k="ref" v="K 35"/>
+    <tag k="source:maxspeed" v="DE:urban"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="zone:traffic" v="DE:urban"/>
+  </way>
+  <way id="84137381" version="2" timestamp="2012-02-20T13:26:13Z" uid="55462" user="Lübeck" changeset="10740499"/>
+  <way id="84137382" version="1" timestamp="2010-11-06T12:13:03Z" uid="33382" user="de_muur" changeset="6301860">
+    <nd ref="375523624"/>
+    <nd ref="265593734"/>
+    <nd ref="507688881"/>
+    <nd ref="265593742"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Schleusenstraße"/>
+    <tag k="ref" v="K 35"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="84137382" version="2" timestamp="2012-03-06T19:49:42Z" uid="63107" user="brogo" changeset="10893761">
+    <nd ref="375523624"/>
+    <nd ref="265593734"/>
+    <nd ref="507688881"/>
+    <nd ref="265593742"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Schleusenstraße"/>
+    <tag k="ref" v="K 35"/>
+    <tag k="source:maxspeed" v="DE:urban"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="84137383" version="1" timestamp="2010-11-06T12:13:04Z" uid="33382" user="de_muur" changeset="6301860">
+    <nd ref="375523630"/>
+    <nd ref="375523874"/>
+    <nd ref="385110716"/>
+    <nd ref="385110715"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Vossbergweg"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="84137383" version="2" timestamp="2012-03-06T19:50:09Z" uid="63107" user="brogo" changeset="10893761">
+    <nd ref="1663001868"/>
+    <nd ref="375523874"/>
+    <nd ref="385110716"/>
+    <nd ref="385110715"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Vossbergweg"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="84137382" version="3" timestamp="2012-04-16T06:55:53Z" uid="63107" user="brogo" changeset="11318545"/>
+  <way id="84137383" version="3" timestamp="2012-07-17T06:00:19Z" uid="722137" user="OSMF Redaction Account" changeset="12258144"/>
+</osm>

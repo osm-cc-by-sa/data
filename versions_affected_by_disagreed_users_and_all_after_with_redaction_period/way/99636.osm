@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="99636029" version="2" timestamp="2011-03-13T15:22:11Z" uid="4467" user="Rosscoe" changeset="7546162">
+    <nd ref="253268051"/>
+    <nd ref="253455144"/>
+    <nd ref="18802202"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="cycleway" v="lane"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lcn" v="yes"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="George Street"/>
+    <tag k="source:maxspeed" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="99636032" version="2" timestamp="2011-03-13T15:22:32Z" uid="4467" user="Rosscoe" changeset="7546162">
+    <nd ref="253268052"/>
+    <nd ref="253161202"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="40"/>
+    <tag k="name" v="Renwick Street"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="40 Area"/>
+  </way>
+  <way id="99636029" version="3" timestamp="2012-07-20T00:58:48Z" uid="722137" user="OSMF Redaction Account" changeset="12353764">
+    <nd ref="253268051"/>
+    <nd ref="253455144"/>
+    <nd ref="18802202"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="cycleway" v="lane"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lcn" v="yes"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="George Street"/>
+  </way>
+  <way id="99636029" version="4" timestamp="2012-07-22T23:07:07Z" uid="717576" user="samuelrussell" changeset="12441756">
+    <nd ref="18802172"/>
+    <nd ref="253268051"/>
+    <nd ref="253455144"/>
+    <nd ref="18802202"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="cycleway" v="lane"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lcn" v="yes"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="George Street"/>
+  </way>
+  <way id="99636029" version="5" timestamp="2012-08-09T01:15:22Z" uid="717576" user="samuelrussell" changeset="12663645">
+    <nd ref="18802172"/>
+    <nd ref="253268051"/>
+    <nd ref="253455144"/>
+    <nd ref="1858057529"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="cycleway" v="lane"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lcn" v="yes"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="George Street"/>
+  </way>
+  <way id="99636032" version="3" timestamp="2012-07-20T01:02:18Z" uid="722137" user="OSMF Redaction Account" changeset="12354081"/>
+</osm>

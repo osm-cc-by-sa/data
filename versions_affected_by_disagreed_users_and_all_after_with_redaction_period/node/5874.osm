@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <node id="58747435" version="3" timestamp="2008-07-06T09:01:04Z" uid="6975" user="ulfl" changeset="407266" lat="52.5775059" lon="5.5291969">
+    <tag k="power" v="generator"/>
+    <tag k="power_source" v="fossil"/>
+  </node>
+  <node id="58747435" version="4" timestamp="2009-05-20T07:50:26Z" uid="6424" user="Lambertus" changeset="1259191" lat="52.5775101" lon="5.5291933">
+    <tag k="name" v="Flevocentrale"/>
+    <tag k="operator" v="Electrabel"/>
+    <tag k="power" v="generator"/>
+    <tag k="power:output" v="870MW"/>
+    <tag k="power_source" v="gas"/>
+    <tag k="url" v="http://www.electrabel.nl/Over-Electrabel/Onze-centrales/De-centrales/Flevocentrale.aspx"/>
+  </node>
+  <node id="58747435" version="5" timestamp="2011-06-04T00:43:17Z" uid="297482" user="don-vip" changeset="8335390" lat="52.5775101" lon="5.5291933">
+    <tag k="generator:source" v="gas"/>
+    <tag k="name" v="Flevocentrale"/>
+    <tag k="operator" v="Electrabel"/>
+    <tag k="power" v="generator"/>
+    <tag k="power:output" v="870MW"/>
+    <tag k="url" v="http://www.electrabel.nl/Over-Electrabel/Onze-centrales/De-centrales/Flevocentrale.aspx"/>
+  </node>
+  <node id="58747435" version="6" timestamp="2011-08-10T22:20:42Z" uid="92274" user="adjuva" changeset="8980800" lat="52.5775101" lon="5.5291933">
+    <tag k="generator:source" v="gas"/>
+    <tag k="name" v="Flevocentrale"/>
+    <tag k="operator" v="Electrabel"/>
+    <tag k="power" v="generator"/>
+    <tag k="power_rating" v="870 MW"/>
+    <tag k="url" v="http://www.electrabel.nl/Over-Electrabel/Onze-centrales/De-centrales/Flevocentrale.aspx"/>
+  </node>
+</osm>

@@ -1,0 +1,443 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="39480186" version="4" timestamp="2009-12-13T04:18:15Z" uid="4467" user="Rosscoe" changeset="3360394">
+    <nd ref="588229653"/>
+    <nd ref="472841162"/>
+    <tag k="access" v="off Fairbairn Rd only"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Wendy Way"/>
+  </way>
+  <way id="39480186" version="5" timestamp="2010-07-08T19:49:34Z" uid="74617" user="JohnSmith" changeset="5168730">
+    <nd ref="588229653"/>
+    <nd ref="472841162"/>
+    <tag k="access" v="off Fairbairn Rd only"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Wendy Way"/>
+  </way>
+  <way id="39480186" version="6" timestamp="2012-01-19T03:47:08Z" uid="147510" user="woodpeck_fixbot" changeset="10433650">
+    <nd ref="588229653"/>
+    <nd ref="472841162"/>
+    <tag k="access" v="off Fairbairn Rd only"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Wendy Way"/>
+  </way>
+  <way id="39480613" version="3" timestamp="2010-07-08T20:14:52Z" uid="74617" user="JohnSmith" changeset="5168730">
+    <nd ref="373003028"/>
+    <nd ref="373002835"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Powlett Street"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="39480613" version="4" timestamp="2012-01-19T03:47:09Z" uid="147510" user="woodpeck_fixbot" changeset="10433650">
+    <nd ref="373003028"/>
+    <nd ref="373002835"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Powlett Street"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="39480616" version="1" timestamp="2009-08-24T14:09:29Z" uid="103576" user="DiverCTH" changeset="2244807">
+    <nd ref="472873979"/>
+    <nd ref="201818403"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="layer" v="1"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I-75"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="Bradley, TN"/>
+    <tag k="tiger:name_base" v="I-75"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="57570073:57570075:57579410:57579400:57570630:57570099:57570131:57570088:57570635:57573542:57570150:57569956:57570101:57579412:57570133:57570637:57570152:57569953:57579532"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-dc225cf9-af66-4da0-983a-e1c545b1b8bb"/>
+    <tag k="type" v="dual_carriageway"/>
+  </way>
+  <way id="39480616" version="2" timestamp="2010-01-28T04:40:56Z" uid="207745" user="NE2" changeset="3732779">
+    <nd ref="472873979"/>
+    <nd ref="201818403"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="layer" v="1"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 75"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="Bradley, TN"/>
+    <tag k="tiger:name_base" v="I-75"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="57570073:57570075:57579410:57579400:57570630:57570099:57570131:57570088:57570635:57573542:57570150:57569956:57570101:57579412:57570133:57570637:57570152:57569953:57579532"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-dc225cf9-af66-4da0-983a-e1c545b1b8bb"/>
+    <tag k="type" v="dual_carriageway"/>
+  </way>
+  <way id="39480616" version="3" timestamp="2011-07-18T00:09:32Z" uid="473471" user="NE3" changeset="8753660">
+    <nd ref="472873979"/>
+    <nd ref="201818403"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 75"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="Bradley, TN"/>
+    <tag k="tiger:name_base" v="I-75"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="57570073:57570075:57579410:57579400:57570630:57570099:57570131:57570088:57570635:57573542:57570150:57569956:57570101:57579412:57570133:57570637:57570152:57569953:57579532"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-dc225cf9-af66-4da0-983a-e1c545b1b8bb"/>
+    <tag k="type" v="dual_carriageway"/>
+  </way>
+  <way id="39480616" version="4" timestamp="2011-11-24T10:16:46Z" uid="207745" user="NE2" changeset="9931216">
+    <nd ref="472873979"/>
+    <nd ref="201818403"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="foot" v="no"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="horse" v="no"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 75"/>
+    <tag k="sidewalk" v="none"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="Bradley, TN"/>
+    <tag k="tiger:name_base" v="I-75"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="57570073:57570075:57579410:57579400:57570630:57570099:57570131:57570088:57570635:57573542:57570150:57569956:57570101:57579412:57570133:57570637:57570152:57569953:57579532"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-dc225cf9-af66-4da0-983a-e1c545b1b8bb"/>
+    <tag k="type" v="dual_carriageway"/>
+  </way>
+  <way id="39480616" version="5" timestamp="2012-02-10T14:27:08Z" uid="14850" user="T_9er" changeset="10643845"/>
+  <way id="39480617" version="1" timestamp="2009-08-24T14:09:29Z" uid="103576" user="DiverCTH" changeset="2244807">
+    <nd ref="201818403"/>
+    <nd ref="201818409"/>
+    <nd ref="201818412"/>
+    <nd ref="201818417"/>
+    <nd ref="201818423"/>
+    <nd ref="201818435"/>
+    <nd ref="201818439"/>
+    <nd ref="201818451"/>
+    <nd ref="201818458"/>
+    <nd ref="201818462"/>
+    <nd ref="201818468"/>
+    <nd ref="201818472"/>
+    <nd ref="201818476"/>
+    <nd ref="201818481"/>
+    <nd ref="201818506"/>
+    <nd ref="201818515"/>
+    <nd ref="201818517"/>
+    <nd ref="201818523"/>
+    <nd ref="201818525"/>
+    <nd ref="201818530"/>
+    <nd ref="201818532"/>
+    <nd ref="201818538"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I-75"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="Bradley, TN"/>
+    <tag k="tiger:name_base" v="I-75"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="57570073:57570075:57579410:57579400:57570630:57570099:57570131:57570088:57570635:57573542:57570150:57569956:57570101:57579412:57570133:57570637:57570152:57569953:57579532"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-dc225cf9-af66-4da0-983a-e1c545b1b8bb"/>
+    <tag k="type" v="dual_carriageway"/>
+  </way>
+  <way id="39480617" version="2" timestamp="2009-09-20T00:44:52Z" uid="103576" user="DiverCTH" changeset="2540130">
+    <nd ref="201818403"/>
+    <nd ref="201818409"/>
+    <nd ref="201818412"/>
+    <nd ref="201818417"/>
+    <nd ref="201818423"/>
+    <nd ref="201818435"/>
+    <nd ref="201818439"/>
+    <nd ref="201818451"/>
+    <nd ref="201818458"/>
+    <nd ref="201818462"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I-75"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="Bradley, TN"/>
+    <tag k="tiger:name_base" v="I-75"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="57570073:57570075:57579410:57579400:57570630:57570099:57570131:57570088:57570635:57573542:57570150:57569956:57570101:57579412:57570133:57570637:57570152:57569953:57579532"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-dc225cf9-af66-4da0-983a-e1c545b1b8bb"/>
+    <tag k="type" v="dual_carriageway"/>
+  </way>
+  <way id="39480617" version="3" timestamp="2010-01-28T04:40:57Z" uid="207745" user="NE2" changeset="3732779">
+    <nd ref="201818403"/>
+    <nd ref="201818409"/>
+    <nd ref="201818412"/>
+    <nd ref="201818417"/>
+    <nd ref="201818423"/>
+    <nd ref="201818435"/>
+    <nd ref="201818439"/>
+    <nd ref="201818451"/>
+    <nd ref="201818458"/>
+    <nd ref="201818462"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 75"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="Bradley, TN"/>
+    <tag k="tiger:name_base" v="I-75"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="57570073:57570075:57579410:57579400:57570630:57570099:57570131:57570088:57570635:57573542:57570150:57569956:57570101:57579412:57570133:57570637:57570152:57569953:57579532"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-dc225cf9-af66-4da0-983a-e1c545b1b8bb"/>
+    <tag k="type" v="dual_carriageway"/>
+  </way>
+  <way id="39480617" version="4" timestamp="2011-07-18T00:06:00Z" uid="473471" user="NE3" changeset="8753660">
+    <nd ref="201818403"/>
+    <nd ref="201818409"/>
+    <nd ref="201818412"/>
+    <nd ref="201818417"/>
+    <nd ref="201818423"/>
+    <nd ref="201818435"/>
+    <nd ref="201818439"/>
+    <nd ref="201818451"/>
+    <nd ref="201818458"/>
+    <nd ref="201818462"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 75"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="Bradley, TN"/>
+    <tag k="tiger:name_base" v="I-75"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="57570073:57570075:57579410:57579400:57570630:57570099:57570131:57570088:57570635:57573542:57570150:57569956:57570101:57579412:57570133:57570637:57570152:57569953:57579532"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-dc225cf9-af66-4da0-983a-e1c545b1b8bb"/>
+    <tag k="type" v="dual_carriageway"/>
+  </way>
+  <way id="39480617" version="5" timestamp="2011-11-24T10:15:45Z" uid="207745" user="NE2" changeset="9931216">
+    <nd ref="201818403"/>
+    <nd ref="201818409"/>
+    <nd ref="201818412"/>
+    <nd ref="201818417"/>
+    <nd ref="201818423"/>
+    <nd ref="201818435"/>
+    <nd ref="201818439"/>
+    <nd ref="201818451"/>
+    <nd ref="201818458"/>
+    <nd ref="201818462"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="foot" v="no"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="horse" v="no"/>
+    <tag k="lanes" v="2"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 75"/>
+    <tag k="sidewalk" v="none"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="Bradley, TN"/>
+    <tag k="tiger:name_base" v="I-75"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="57570073:57570075:57579410:57579400:57570630:57570099:57570131:57570088:57570635:57573542:57570150:57569956:57570101:57579412:57570133:57570637:57570152:57569953:57579532"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-dc225cf9-af66-4da0-983a-e1c545b1b8bb"/>
+    <tag k="type" v="dual_carriageway"/>
+  </way>
+  <way id="39480617" version="6" timestamp="2012-02-10T14:27:06Z" uid="14850" user="T_9er" changeset="10643845"/>
+  <way id="39480673" version="1" timestamp="2009-08-24T14:12:49Z" uid="36809" user="pfoten_weg_!_" changeset="2244836">
+    <nd ref="472878755"/>
+    <nd ref="472878871"/>
+    <nd ref="472878775"/>
+    <nd ref="472878833"/>
+    <nd ref="472878853"/>
+    <nd ref="472878822"/>
+    <nd ref="472878784"/>
+    <nd ref="472878859"/>
+    <nd ref="472878847"/>
+    <nd ref="472878792"/>
+    <nd ref="472878731"/>
+    <nd ref="472878865"/>
+    <nd ref="472878767"/>
+    <nd ref="472878755"/>
+    <tag k="amenity" v="public_building"/>
+    <tag k="building" v="yes"/>
+    <tag k="discovered_by" v="RambaZamba"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="39480673" version="2" timestamp="2009-08-30T09:41:31Z" uid="156995" user="HampelZamba" changeset="2310659">
+    <nd ref="472878755"/>
+    <nd ref="472878871"/>
+    <nd ref="472878775"/>
+    <nd ref="472878833"/>
+    <nd ref="472878853"/>
+    <nd ref="472878822"/>
+    <nd ref="472878784"/>
+    <nd ref="472878859"/>
+    <nd ref="472878847"/>
+    <nd ref="472878792"/>
+    <nd ref="472878731"/>
+    <nd ref="472878865"/>
+    <nd ref="472878767"/>
+    <nd ref="472878755"/>
+    <tag k="amenity" v="public_building"/>
+    <tag k="building" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="39480673" version="3" timestamp="2009-09-01T10:51:56Z" uid="36809" user="pfoten_weg_!_" changeset="2335754">
+    <nd ref="472878755"/>
+    <nd ref="472878871"/>
+    <nd ref="472878775"/>
+    <nd ref="472878833"/>
+    <nd ref="472878853"/>
+    <nd ref="472878822"/>
+    <nd ref="472878784"/>
+    <nd ref="472878859"/>
+    <nd ref="472878847"/>
+    <nd ref="472878792"/>
+    <nd ref="472878731"/>
+    <nd ref="472878865"/>
+    <nd ref="472878767"/>
+    <nd ref="472878755"/>
+    <tag k="amenity" v="public_building"/>
+    <tag k="building" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="39480673" version="4" timestamp="2009-09-30T23:21:51Z" uid="86259" user="hasse_osm_korinthenkacker" changeset="2694753"/>
+  <way id="39480687" version="4" timestamp="2010-03-13T22:53:37Z" uid="34428" user="usm78-gis" changeset="4119917">
+    <nd ref="661009554"/>
+    <nd ref="661009555"/>
+    <nd ref="661009536"/>
+    <nd ref="661009535"/>
+    <nd ref="661009534"/>
+    <nd ref="661009533"/>
+    <nd ref="661009532"/>
+    <nd ref="661009562"/>
+    <nd ref="661009564"/>
+    <nd ref="472879598"/>
+    <nd ref="472879597"/>
+    <nd ref="665553844"/>
+    <nd ref="665553845"/>
+    <nd ref="665553846"/>
+    <nd ref="665553847"/>
+    <nd ref="665553848"/>
+    <nd ref="665553849"/>
+    <nd ref="665553850"/>
+    <nd ref="665553851"/>
+    <tag k="name" v="р. Бегуновка"/>
+    <tag k="waterway" v="river"/>
+  </way>
+  <way id="39480687" version="5" timestamp="2011-10-30T16:43:11Z" uid="370703" user="yaleks" changeset="9695554">
+    <nd ref="661009554"/>
+    <nd ref="661009555"/>
+    <nd ref="661009536"/>
+    <nd ref="661009535"/>
+    <nd ref="661009534"/>
+    <nd ref="661009533"/>
+    <nd ref="661009532"/>
+    <nd ref="661009562"/>
+    <nd ref="661009564"/>
+    <nd ref="472879598"/>
+    <nd ref="472879597"/>
+    <nd ref="665553844"/>
+    <nd ref="665553845"/>
+    <nd ref="665553846"/>
+    <nd ref="665553847"/>
+    <nd ref="665553848"/>
+    <nd ref="665553849"/>
+    <nd ref="665553850"/>
+    <nd ref="665553851"/>
+    <tag k="name" v="Бегуновка"/>
+    <tag k="waterway" v="river"/>
+  </way>
+  <way id="39480687" version="6" timestamp="2011-10-30T16:46:25Z" uid="370703" user="yaleks" changeset="9695597">
+    <nd ref="661009554"/>
+    <nd ref="661009555"/>
+    <nd ref="661009536"/>
+    <nd ref="661009535"/>
+    <nd ref="661009534"/>
+    <nd ref="661009533"/>
+    <nd ref="661009532"/>
+    <nd ref="661009562"/>
+    <nd ref="661009564"/>
+    <nd ref="472879598"/>
+    <nd ref="472879597"/>
+    <nd ref="665553844"/>
+    <nd ref="665553845"/>
+    <nd ref="665553846"/>
+    <nd ref="665553847"/>
+    <nd ref="665553848"/>
+    <nd ref="665553849"/>
+    <nd ref="665553850"/>
+    <nd ref="665553851"/>
+    <nd ref="1485914684"/>
+    <tag k="name" v="Бегуновка"/>
+    <tag k="waterway" v="river"/>
+  </way>
+  <way id="39480186" version="7" timestamp="2012-07-19T13:40:26Z" uid="722137" user="OSMF Redaction Account" changeset="12329827"/>
+  <way id="39480613" version="5" timestamp="2012-04-12T23:04:26Z" uid="211804" user="KenS" changeset="11282319">
+    <nd ref="373003028"/>
+    <nd ref="373002835"/>
+    <nd ref="370749868"/>
+    <nd ref="370751614"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Powlett Street"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="39480687" version="7" timestamp="2012-07-20T07:12:51Z" uid="722137" user="OSMF Redaction Account" changeset="12365635">
+    <nd ref="661009554"/>
+    <nd ref="661009555"/>
+    <nd ref="661009536"/>
+    <nd ref="661009535"/>
+    <nd ref="661009534"/>
+    <nd ref="661009533"/>
+    <nd ref="661009532"/>
+    <nd ref="661009562"/>
+    <nd ref="661009564"/>
+    <nd ref="472879598"/>
+    <nd ref="472879597"/>
+    <nd ref="665553844"/>
+    <nd ref="665553845"/>
+    <nd ref="665553846"/>
+    <nd ref="665553847"/>
+    <nd ref="665553848"/>
+    <nd ref="1485914684"/>
+    <tag k="name" v="Бегуновка"/>
+    <tag k="waterway" v="river"/>
+  </way>
+  <way id="39480687" version="8" timestamp="2012-07-20T08:16:45Z" uid="722137" user="OSMF Redaction Account" changeset="12367907">
+    <nd ref="661009554"/>
+    <nd ref="661009555"/>
+    <nd ref="661009536"/>
+    <nd ref="661009535"/>
+    <nd ref="661009534"/>
+    <nd ref="661009533"/>
+    <nd ref="661009532"/>
+    <nd ref="661009562"/>
+    <nd ref="661009564"/>
+    <nd ref="472879598"/>
+    <nd ref="472879597"/>
+    <nd ref="1485914684"/>
+    <tag k="name" v="Бегуновка"/>
+    <tag k="waterway" v="river"/>
+  </way>
+  <way id="39480687" version="9" timestamp="2012-09-08T08:29:54Z" uid="95117" user="one_half_3544" changeset="13031185">
+    <nd ref="661009554"/>
+    <nd ref="661009555"/>
+    <nd ref="661009536"/>
+    <nd ref="661009535"/>
+    <nd ref="661009534"/>
+    <nd ref="661009533"/>
+    <nd ref="661009532"/>
+    <nd ref="661009562"/>
+    <nd ref="661009564"/>
+    <nd ref="472879598"/>
+    <nd ref="472879597"/>
+    <nd ref="1485914684"/>
+    <tag k="name" v="река Бегуновка"/>
+    <tag k="waterway" v="river"/>
+    <tag k="wikipedia" v="ru:Ильменйоки"/>
+  </way>
+</osm>

@@ -1,0 +1,242 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="59567091" version="2" timestamp="2011-03-27T15:43:09Z" uid="9581" user="Lobelt" changeset="7687422">
+    <nd ref="390059681"/>
+    <nd ref="738894318"/>
+    <nd ref="738894319"/>
+    <nd ref="738894320"/>
+    <nd ref="738894323"/>
+    <nd ref="738894324"/>
+    <nd ref="738894325"/>
+    <nd ref="738894326"/>
+    <nd ref="738894327"/>
+    <nd ref="738894328"/>
+    <nd ref="738894334"/>
+    <nd ref="738894336"/>
+    <nd ref="1221625540"/>
+    <nd ref="1221624807"/>
+    <nd ref="1221625813"/>
+    <nd ref="667461765"/>
+    <nd ref="667461766"/>
+    <nd ref="667461767"/>
+    <nd ref="667461768"/>
+    <nd ref="667461769"/>
+    <nd ref="667461770"/>
+    <nd ref="667461771"/>
+    <nd ref="667461772"/>
+    <nd ref="667461773"/>
+    <nd ref="667461774"/>
+    <nd ref="667461775"/>
+    <nd ref="667461776"/>
+    <nd ref="667461777"/>
+    <nd ref="667461778"/>
+    <nd ref="667461779"/>
+    <nd ref="667461780"/>
+    <nd ref="667461781"/>
+    <nd ref="667461782"/>
+    <nd ref="667461783"/>
+    <tag k="highway" v="track"/>
+    <tag k="tracktype" v="grade2"/>
+  </way>
+  <way id="59567091" version="3" timestamp="2012-02-17T21:52:52Z" uid="60824" user="Carsten Güse" changeset="10715547"/>
+  <way id="59567516" version="1" timestamp="2010-05-18T19:54:50Z" uid="9581" user="Lobelt" changeset="4742236">
+    <nd ref="738896732"/>
+    <nd ref="738896736"/>
+    <tag k="power" v="line"/>
+  </way>
+  <way id="59567516" version="2" timestamp="2011-04-01T23:11:46Z" uid="92274" user="adjuva" changeset="7740297">
+    <nd ref="738896732"/>
+    <nd ref="738896736"/>
+    <tag k="cables" v="6"/>
+    <tag k="frequency" v="50"/>
+    <tag k="power" v="line"/>
+    <tag k="voltage" v="110000"/>
+    <tag k="wires" v="single"/>
+  </way>
+  <way id="59567516" version="3" timestamp="2011-12-03T13:16:18Z" uid="16112" user="Barthwo" changeset="10024444"/>
+  <way id="59567517" version="1" timestamp="2010-05-18T19:54:50Z" uid="9581" user="Lobelt" changeset="4742236">
+    <nd ref="738896738"/>
+    <nd ref="738896740"/>
+    <nd ref="738896742"/>
+    <nd ref="738896743"/>
+    <nd ref="738896738"/>
+    <tag k="power" v="station"/>
+  </way>
+  <way id="59567517" version="2" timestamp="2011-04-01T23:11:56Z" uid="92274" user="adjuva" changeset="7740297">
+    <nd ref="738896738"/>
+    <nd ref="738896740"/>
+    <nd ref="1228584937"/>
+    <nd ref="738896742"/>
+    <nd ref="738896743"/>
+    <nd ref="1228584902"/>
+    <nd ref="738896738"/>
+    <tag k="power" v="station"/>
+  </way>
+  <way id="59567517" version="3" timestamp="2011-12-03T13:16:18Z" uid="16112" user="Barthwo" changeset="10024444"/>
+  <way id="59567518" version="1" timestamp="2010-05-18T19:54:50Z" uid="9581" user="Lobelt" changeset="4742236">
+    <nd ref="738897231"/>
+    <nd ref="738897241"/>
+    <nd ref="738897271"/>
+    <nd ref="738897272"/>
+    <nd ref="738897231"/>
+    <tag k="power" v="station"/>
+  </way>
+  <way id="59567518" version="2" timestamp="2010-06-01T01:16:40Z" uid="13203" user="bahnpirat" changeset="4870895">
+    <nd ref="738897231"/>
+    <nd ref="738897272"/>
+    <nd ref="738897271"/>
+    <nd ref="738897241"/>
+    <nd ref="738897231"/>
+    <tag k="access" v="no"/>
+    <tag k="barrier" v="fence"/>
+    <tag k="fixme" v="name,operator"/>
+    <tag k="frequency" v="50"/>
+    <tag k="power" v="station"/>
+  </way>
+  <way id="59567518" version="3" timestamp="2011-06-28T23:55:14Z" uid="92274" user="adjuva" changeset="8576611">
+    <nd ref="738897231"/>
+    <nd ref="1342730438"/>
+    <nd ref="738897272"/>
+    <nd ref="738897271"/>
+    <nd ref="738897241"/>
+    <nd ref="738897231"/>
+    <tag k="access" v="no"/>
+    <tag k="barrier" v="fence"/>
+    <tag k="fixme" v="name,operator"/>
+    <tag k="frequency" v="50"/>
+    <tag k="power" v="station"/>
+  </way>
+  <way id="59567518" version="4" timestamp="2012-03-23T17:16:51Z" uid="92274" user="adjuva" changeset="11075913"/>
+  <way id="59567519" version="1" timestamp="2010-05-18T19:54:50Z" uid="9581" user="Lobelt" changeset="4742236">
+    <nd ref="738897237"/>
+    <nd ref="738897238"/>
+    <nd ref="738897239"/>
+    <nd ref="738897240"/>
+    <nd ref="738897237"/>
+    <tag k="power" v="station"/>
+  </way>
+  <way id="59567519" version="2" timestamp="2010-06-01T01:16:39Z" uid="13203" user="bahnpirat" changeset="4870895">
+    <nd ref="738897237"/>
+    <nd ref="738897240"/>
+    <nd ref="738897239"/>
+    <nd ref="738897238"/>
+    <nd ref="738897237"/>
+    <tag k="access" v="no"/>
+    <tag k="barrier" v="fence"/>
+    <tag k="frequency" v="16.7"/>
+    <tag k="layer" v="-1"/>
+    <tag k="name" v="Unterwerk Kaiserslautern"/>
+    <tag k="operator" v="DB_Energie"/>
+    <tag k="power" v="station"/>
+    <tag k="voltage" v="110000"/>
+  </way>
+  <way id="59567519" version="3" timestamp="2011-03-17T20:34:13Z" uid="92274" user="adjuva" changeset="7589512">
+    <nd ref="738897237"/>
+    <nd ref="738897240"/>
+    <nd ref="738897239"/>
+    <nd ref="738897238"/>
+    <nd ref="738897237"/>
+    <tag k="access" v="no"/>
+    <tag k="barrier" v="fence"/>
+    <tag k="frequency" v="16.7"/>
+    <tag k="layer" v="-1"/>
+    <tag k="name" v="Unterwerk Kaiserslautern"/>
+    <tag k="note" v="Das alte Unterwerk befand sich auf dem östlichem Nachbargelände."/>
+    <tag k="operator" v="DB_Energie"/>
+    <tag k="power" v="station"/>
+    <tag k="voltage" v="110000"/>
+  </way>
+  <way id="59567519" version="4" timestamp="2012-02-12T06:17:08Z" uid="92274" user="adjuva" changeset="10659867"/>
+  <way id="59567520" version="1" timestamp="2010-05-18T19:54:50Z" uid="9581" user="Lobelt" changeset="4742236">
+    <nd ref="738897481"/>
+    <nd ref="738897485"/>
+    <nd ref="738897487"/>
+    <nd ref="738897490"/>
+    <nd ref="738897491"/>
+    <nd ref="738897481"/>
+    <tag k="power" v="station"/>
+  </way>
+  <way id="59567520" version="2" timestamp="2011-04-01T23:12:01Z" uid="92274" user="adjuva" changeset="7740297">
+    <nd ref="738897481"/>
+    <nd ref="738897485"/>
+    <nd ref="738897487"/>
+    <nd ref="1228584766"/>
+    <nd ref="738897490"/>
+    <nd ref="738897491"/>
+    <nd ref="738897481"/>
+    <tag k="fenced" v="yes"/>
+    <tag k="power" v="station"/>
+  </way>
+  <way id="59567520" version="3" timestamp="2012-03-23T17:16:51Z" uid="92274" user="adjuva" changeset="11075913"/>
+  <way id="59567521" version="1" timestamp="2010-05-18T19:54:50Z" uid="9581" user="Lobelt" changeset="4742236">
+    <nd ref="738897552"/>
+    <nd ref="738897538"/>
+    <tag k="power" v="line"/>
+  </way>
+  <way id="59567521" version="2" timestamp="2011-06-28T23:55:17Z" uid="92274" user="adjuva" changeset="8576611">
+    <nd ref="738897552"/>
+    <nd ref="738897538"/>
+    <tag k="cables" v="3"/>
+    <tag k="frequency" v="50"/>
+    <tag k="power" v="line"/>
+    <tag k="voltage" v="110000"/>
+  </way>
+  <way id="59567521" version="3" timestamp="2012-02-26T20:37:24Z" uid="92274" user="adjuva" changeset="10802954"/>
+  <way id="59567522" version="1" timestamp="2010-05-18T19:54:51Z" uid="9581" user="Lobelt" changeset="4742236">
+    <nd ref="738897540"/>
+    <nd ref="738897541"/>
+    <nd ref="738897543"/>
+    <nd ref="738897544"/>
+    <nd ref="738897545"/>
+    <nd ref="738897546"/>
+    <nd ref="738897540"/>
+    <tag k="power" v="station"/>
+  </way>
+  <way id="59567522" version="2" timestamp="2011-06-28T23:55:12Z" uid="92274" user="adjuva" changeset="8576611">
+    <nd ref="738897540"/>
+    <nd ref="738897541"/>
+    <nd ref="738897543"/>
+    <nd ref="738897544"/>
+    <nd ref="1342730411"/>
+    <nd ref="738897545"/>
+    <nd ref="738897546"/>
+    <nd ref="738897540"/>
+    <tag k="fenced" v="yes"/>
+    <tag k="power" v="station"/>
+  </way>
+  <way id="59567522" version="3" timestamp="2012-02-26T20:37:24Z" uid="92274" user="adjuva" changeset="10802954"/>
+  <way id="59567523" version="1" timestamp="2010-05-18T19:54:51Z" uid="9581" user="Lobelt" changeset="4742236">
+    <nd ref="364165617"/>
+    <nd ref="738897929"/>
+    <nd ref="738897922"/>
+    <nd ref="738897924"/>
+    <nd ref="738897926"/>
+    <nd ref="738897912"/>
+    <nd ref="738897894"/>
+    <nd ref="738897896"/>
+    <nd ref="738897907"/>
+    <nd ref="738897910"/>
+    <nd ref="738897915"/>
+    <nd ref="738897917"/>
+    <nd ref="738897920"/>
+    <tag k="power" v="line"/>
+  </way>
+  <way id="59567523" version="2" timestamp="2012-02-14T20:07:10Z" uid="544675" user="Obelixx" changeset="10686665">
+    <nd ref="364165617"/>
+    <nd ref="738897929"/>
+    <nd ref="738897922"/>
+    <nd ref="738897924"/>
+    <nd ref="738897926"/>
+    <nd ref="738897912"/>
+    <nd ref="738897894"/>
+    <nd ref="738897896"/>
+    <nd ref="738897907"/>
+    <nd ref="738897910"/>
+    <nd ref="738897915"/>
+    <nd ref="738897917"/>
+    <nd ref="738897920"/>
+    <tag k="power" v="line"/>
+    <tag k="voltage" v="110000"/>
+  </way>
+  <way id="59567523" version="3" timestamp="2012-03-05T21:53:59Z" uid="72235" user="Basstoelpel" changeset="10885004"/>
+</osm>

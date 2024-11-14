@@ -1,0 +1,946 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="52241104" version="3" timestamp="2010-03-28T11:53:28Z" uid="20587" user="balrog-kun" changeset="4254597">
+    <nd ref="392520540"/>
+    <nd ref="415142568"/>
+    <nd ref="392522818"/>
+    <nd ref="415142602"/>
+    <nd ref="665037875"/>
+    <nd ref="54802823"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="45 mph"/>
+    <tag k="maxweight" v="6000 lbs"/>
+    <tag k="name" v="Day Creek Boulevard"/>
+    <tag k="source" v="survey;image;yahoo_imagery"/>
+    <tag k="source:maxweight" v="survey;image"/>
+    <tag k="source_ref" v="AM909_DSCS9852"/>
+    <tag k="source_ref:maxweight" v="AM909_DSCS9849"/>
+  </way>
+  <way id="52241105" version="2" timestamp="2010-03-28T11:53:29Z" uid="20587" user="balrog-kun" changeset="4254597">
+    <nd ref="54543992"/>
+    <nd ref="392520539"/>
+    <nd ref="415142469"/>
+    <nd ref="392520540"/>
+    <tag k="bicycle" v="lane"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="45 mph"/>
+    <tag k="name" v="Banyan Street"/>
+    <tag k="source" v="survey;image;yahoo_imagery"/>
+    <tag k="source:bicycle" v="survey;image"/>
+    <tag k="source:maxspeed" v="survey;image"/>
+    <tag k="source:maxspeed:children_present" v="survey;image"/>
+    <tag k="source_ref" v="AM909_DSCN0282"/>
+    <tag k="source_ref:bicycle" v="AM909_DSCS9844"/>
+    <tag k="source_ref:maxspeed" v="AM909_DSCS9840"/>
+    <tag k="source_ref:maxspeed:children_present" v="AM909_DSCS9839"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="San Bernardino, CA"/>
+    <tag k="tiger:name_base" v="Banyan"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="144701351:144701346:144701349:144701352:144701364:144701365:144701217:144701218:145225254:145225255:144707491:144979824:144979876:144979877:144707408:145219363:144697586:144635130:144635132:144635149:144635152:144635154:144635118:144635907:144635910:14463"/>
+    <tag k="tiger:zip_left" v="91737"/>
+    <tag k="tiger:zip_right" v="91737"/>
+  </way>
+  <way id="52241105" version="3" timestamp="2010-10-03T15:19:38Z" uid="92286" user="Paul Johnson" changeset="5945048">
+    <nd ref="54543992"/>
+    <nd ref="392520539"/>
+    <nd ref="415142469"/>
+    <nd ref="392520540"/>
+    <tag k="cycleway" v="lane"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="45 mph"/>
+    <tag k="name" v="Banyan Street"/>
+    <tag k="source" v="survey;image;yahoo_imagery"/>
+    <tag k="source:bicycle" v="survey;image"/>
+    <tag k="source:maxspeed" v="survey;image"/>
+    <tag k="source:maxspeed:children_present" v="survey;image"/>
+    <tag k="source_ref" v="AM909_DSCN0282"/>
+    <tag k="source_ref:bicycle" v="AM909_DSCS9844"/>
+    <tag k="source_ref:maxspeed" v="AM909_DSCS9840"/>
+    <tag k="source_ref:maxspeed:children_present" v="AM909_DSCS9839"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="San Bernardino, CA"/>
+    <tag k="tiger:name_base" v="Banyan"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+    <tag k="tiger:tlid" v="144701351:144701346:144701349:144701352:144701364:144701365:144701217:144701218:145225254:145225255:144707491:144979824:144979876:144979877:144707408:145219363:144697586:144635130:144635132:144635149:144635152:144635154:144635118:144635907:144635910:14463"/>
+    <tag k="tiger:zip_left" v="91737"/>
+    <tag k="tiger:zip_right" v="91737"/>
+  </way>
+  <way id="52241720" version="2" timestamp="2010-07-07T08:58:07Z" uid="74617" user="JohnSmith" changeset="5156250">
+    <nd ref="665033654"/>
+    <nd ref="665033655"/>
+    <nd ref="665033656"/>
+    <nd ref="665033657"/>
+    <nd ref="665033658"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="52241720" version="3" timestamp="2012-01-20T03:43:19Z" uid="147510" user="woodpeck_fixbot" changeset="10442986">
+    <nd ref="665033654"/>
+    <nd ref="665033655"/>
+    <nd ref="665033656"/>
+    <nd ref="665033657"/>
+    <nd ref="665033658"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="52241731" version="2" timestamp="2010-07-07T09:02:41Z" uid="74617" user="JohnSmith" changeset="5156250">
+    <nd ref="665033694"/>
+    <nd ref="64326160"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="McInnes Street"/>
+  </way>
+  <way id="52241731" version="3" timestamp="2012-01-20T03:43:20Z" uid="147510" user="woodpeck_fixbot" changeset="10442986">
+    <nd ref="665033694"/>
+    <nd ref="64326160"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="McInnes Street"/>
+  </way>
+  <way id="52241732" version="2" timestamp="2010-07-07T08:59:43Z" uid="74617" user="JohnSmith" changeset="5156250">
+    <nd ref="64326160"/>
+    <nd ref="64326162"/>
+    <nd ref="64326163"/>
+    <nd ref="77917696"/>
+    <nd ref="207734872"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="McInnes Street"/>
+  </way>
+  <way id="52241732" version="3" timestamp="2012-01-20T03:43:21Z" uid="147510" user="woodpeck_fixbot" changeset="10442986">
+    <nd ref="64326160"/>
+    <nd ref="64326162"/>
+    <nd ref="64326163"/>
+    <nd ref="77917696"/>
+    <nd ref="207734872"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="McInnes Street"/>
+  </way>
+  <way id="52241793" version="4" timestamp="2010-07-09T06:24:32Z" uid="74617" user="JohnSmith" changeset="5171128">
+    <nd ref="665034552"/>
+    <nd ref="665034553"/>
+    <nd ref="665034554"/>
+    <nd ref="665034555"/>
+    <nd ref="665034556"/>
+    <nd ref="665034557"/>
+    <nd ref="665034558"/>
+    <nd ref="665034559"/>
+    <nd ref="665034560"/>
+    <nd ref="665034561"/>
+    <nd ref="665034562"/>
+    <nd ref="665034563"/>
+    <nd ref="665034564"/>
+    <nd ref="665034565"/>
+    <nd ref="665034566"/>
+    <nd ref="665034567"/>
+    <nd ref="665034568"/>
+    <nd ref="665034569"/>
+    <nd ref="665034570"/>
+    <nd ref="665034571"/>
+    <nd ref="665034572"/>
+    <nd ref="665034573"/>
+    <nd ref="665034574"/>
+    <nd ref="665034575"/>
+    <nd ref="665034576"/>
+    <nd ref="665034577"/>
+    <nd ref="665034578"/>
+    <nd ref="665034579"/>
+    <nd ref="665034580"/>
+    <nd ref="665034581"/>
+    <nd ref="665034582"/>
+    <nd ref="665034583"/>
+    <nd ref="665034584"/>
+    <nd ref="665034585"/>
+    <nd ref="665034586"/>
+    <nd ref="665034587"/>
+    <nd ref="665034588"/>
+    <nd ref="665034589"/>
+    <nd ref="665034590"/>
+    <nd ref="665034442"/>
+    <nd ref="665034443"/>
+    <nd ref="665034444"/>
+    <nd ref="665034445"/>
+    <nd ref="665034446"/>
+    <nd ref="665034447"/>
+    <nd ref="665034448"/>
+    <nd ref="665034449"/>
+    <nd ref="665034450"/>
+    <nd ref="665034451"/>
+    <nd ref="665034452"/>
+    <nd ref="665034453"/>
+    <nd ref="665034454"/>
+    <nd ref="665034455"/>
+    <nd ref="665034456"/>
+    <nd ref="665034457"/>
+    <nd ref="665034458"/>
+    <nd ref="665034459"/>
+    <nd ref="665034460"/>
+    <nd ref="665034461"/>
+    <nd ref="665034462"/>
+    <nd ref="665034463"/>
+    <nd ref="665034464"/>
+    <nd ref="665034465"/>
+    <nd ref="665034466"/>
+    <nd ref="665034467"/>
+    <nd ref="665034468"/>
+    <nd ref="665034469"/>
+    <nd ref="665034470"/>
+    <nd ref="665034471"/>
+    <nd ref="665034472"/>
+    <nd ref="665034473"/>
+    <nd ref="665034474"/>
+    <nd ref="665034475"/>
+    <nd ref="665034476"/>
+    <nd ref="665034477"/>
+    <nd ref="665034478"/>
+    <nd ref="665034479"/>
+    <nd ref="665034480"/>
+    <nd ref="665034481"/>
+    <nd ref="665035114"/>
+    <nd ref="665034482"/>
+    <nd ref="665034483"/>
+    <nd ref="665034484"/>
+    <nd ref="665034485"/>
+    <nd ref="665034486"/>
+    <nd ref="665034487"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="52241793" version="5" timestamp="2011-04-21T12:44:43Z" uid="18846" user="Treadly" changeset="7924790">
+    <nd ref="665034552"/>
+    <nd ref="665034553"/>
+    <nd ref="665034554"/>
+    <nd ref="665034555"/>
+    <nd ref="665034556"/>
+    <nd ref="665034557"/>
+    <nd ref="665034558"/>
+    <nd ref="665034559"/>
+    <nd ref="665034560"/>
+    <nd ref="665034561"/>
+    <nd ref="665034562"/>
+    <nd ref="665034563"/>
+    <nd ref="665034564"/>
+    <nd ref="665034565"/>
+    <nd ref="665034566"/>
+    <nd ref="665034567"/>
+    <nd ref="665034568"/>
+    <nd ref="665034569"/>
+    <nd ref="665034570"/>
+    <nd ref="665034571"/>
+    <nd ref="665034572"/>
+    <nd ref="665034573"/>
+    <nd ref="665034574"/>
+    <nd ref="665034575"/>
+    <nd ref="665034576"/>
+    <nd ref="665034577"/>
+    <nd ref="665034578"/>
+    <nd ref="665034579"/>
+    <nd ref="665034580"/>
+    <nd ref="665034581"/>
+    <nd ref="665034582"/>
+    <nd ref="665034583"/>
+    <nd ref="665034584"/>
+    <nd ref="665034585"/>
+    <nd ref="665034586"/>
+    <nd ref="665034587"/>
+    <nd ref="665034588"/>
+    <nd ref="665034589"/>
+    <nd ref="665034590"/>
+    <nd ref="665034442"/>
+    <nd ref="665034443"/>
+    <nd ref="665034444"/>
+    <nd ref="665034445"/>
+    <nd ref="665034446"/>
+    <nd ref="665034447"/>
+    <nd ref="665034448"/>
+    <nd ref="665034449"/>
+    <nd ref="665034450"/>
+    <nd ref="665034451"/>
+    <nd ref="665034452"/>
+    <nd ref="665034453"/>
+    <nd ref="665034454"/>
+    <nd ref="665034455"/>
+    <nd ref="665034456"/>
+    <nd ref="665034457"/>
+    <nd ref="665034458"/>
+    <nd ref="665034459"/>
+    <nd ref="665034460"/>
+    <nd ref="665034461"/>
+    <nd ref="665034462"/>
+    <nd ref="665034463"/>
+    <nd ref="665034464"/>
+    <nd ref="665034465"/>
+    <nd ref="665034466"/>
+    <nd ref="665034467"/>
+    <nd ref="665034468"/>
+    <nd ref="665034469"/>
+    <nd ref="665034470"/>
+    <nd ref="665034471"/>
+    <nd ref="665034472"/>
+    <nd ref="665034473"/>
+    <nd ref="665034474"/>
+    <nd ref="665034475"/>
+    <nd ref="665034476"/>
+    <nd ref="665034477"/>
+    <nd ref="665034478"/>
+    <nd ref="665034479"/>
+    <nd ref="665034480"/>
+    <nd ref="665034481"/>
+    <nd ref="665035114"/>
+    <nd ref="665034482"/>
+    <nd ref="665034483"/>
+    <nd ref="665034484"/>
+    <nd ref="665034485"/>
+    <nd ref="665034486"/>
+    <nd ref="1253963585"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="52241793" version="6" timestamp="2012-01-20T03:43:23Z" uid="147510" user="woodpeck_fixbot" changeset="10442986">
+    <nd ref="665034552"/>
+    <nd ref="665034553"/>
+    <nd ref="665034554"/>
+    <nd ref="665034555"/>
+    <nd ref="665034556"/>
+    <nd ref="665034557"/>
+    <nd ref="665034558"/>
+    <nd ref="665034559"/>
+    <nd ref="665034560"/>
+    <nd ref="665034561"/>
+    <nd ref="665034562"/>
+    <nd ref="665034563"/>
+    <nd ref="665034564"/>
+    <nd ref="665034565"/>
+    <nd ref="665034566"/>
+    <nd ref="665034567"/>
+    <nd ref="665034568"/>
+    <nd ref="665034569"/>
+    <nd ref="665034570"/>
+    <nd ref="665034571"/>
+    <nd ref="665034572"/>
+    <nd ref="665034573"/>
+    <nd ref="665034574"/>
+    <nd ref="665034575"/>
+    <nd ref="665034576"/>
+    <nd ref="665034577"/>
+    <nd ref="665034578"/>
+    <nd ref="665034579"/>
+    <nd ref="665034580"/>
+    <nd ref="665034581"/>
+    <nd ref="665034582"/>
+    <nd ref="665034583"/>
+    <nd ref="665034584"/>
+    <nd ref="665034585"/>
+    <nd ref="665034586"/>
+    <nd ref="665034587"/>
+    <nd ref="665034588"/>
+    <nd ref="665034589"/>
+    <nd ref="665034590"/>
+    <nd ref="665034442"/>
+    <nd ref="665034443"/>
+    <nd ref="665034444"/>
+    <nd ref="665034445"/>
+    <nd ref="665034446"/>
+    <nd ref="665034447"/>
+    <nd ref="665034448"/>
+    <nd ref="665034449"/>
+    <nd ref="665034450"/>
+    <nd ref="665034451"/>
+    <nd ref="665034452"/>
+    <nd ref="665034453"/>
+    <nd ref="665034454"/>
+    <nd ref="665034455"/>
+    <nd ref="665034456"/>
+    <nd ref="665034457"/>
+    <nd ref="665034458"/>
+    <nd ref="665034459"/>
+    <nd ref="665034460"/>
+    <nd ref="665034461"/>
+    <nd ref="665034462"/>
+    <nd ref="665034463"/>
+    <nd ref="665034464"/>
+    <nd ref="665034465"/>
+    <nd ref="665034466"/>
+    <nd ref="665034467"/>
+    <nd ref="665034468"/>
+    <nd ref="665034469"/>
+    <nd ref="665034470"/>
+    <nd ref="665034471"/>
+    <nd ref="665034472"/>
+    <nd ref="665034473"/>
+    <nd ref="665034474"/>
+    <nd ref="665034475"/>
+    <nd ref="665034476"/>
+    <nd ref="665034477"/>
+    <nd ref="665034478"/>
+    <nd ref="665034479"/>
+    <nd ref="665034480"/>
+    <nd ref="665034481"/>
+    <nd ref="665035114"/>
+    <nd ref="665034482"/>
+    <nd ref="665034483"/>
+    <nd ref="665034484"/>
+    <nd ref="665034485"/>
+    <nd ref="665034486"/>
+    <nd ref="1253963585"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="52241817" version="3" timestamp="2010-07-09T06:18:03Z" uid="74617" user="JohnSmith" changeset="5171128">
+    <nd ref="665035032"/>
+    <nd ref="665035034"/>
+    <nd ref="665035037"/>
+    <nd ref="665035039"/>
+    <nd ref="665035042"/>
+    <nd ref="665035045"/>
+    <nd ref="665035048"/>
+    <nd ref="665035052"/>
+    <nd ref="665035054"/>
+    <nd ref="665035056"/>
+    <nd ref="665035059"/>
+    <nd ref="665035062"/>
+    <nd ref="665035064"/>
+    <nd ref="665035067"/>
+    <nd ref="665035069"/>
+    <nd ref="665035072"/>
+    <nd ref="665035116"/>
+    <nd ref="665035074"/>
+    <nd ref="665035077"/>
+    <nd ref="665035079"/>
+    <nd ref="665035082"/>
+    <nd ref="665035084"/>
+    <nd ref="665035086"/>
+    <nd ref="665035089"/>
+    <nd ref="665035092"/>
+    <nd ref="665035095"/>
+    <nd ref="665035097"/>
+    <nd ref="665034442"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="52241817" version="4" timestamp="2012-01-20T03:43:25Z" uid="147510" user="woodpeck_fixbot" changeset="10442986">
+    <nd ref="665035032"/>
+    <nd ref="665035034"/>
+    <nd ref="665035037"/>
+    <nd ref="665035039"/>
+    <nd ref="665035042"/>
+    <nd ref="665035045"/>
+    <nd ref="665035048"/>
+    <nd ref="665035052"/>
+    <nd ref="665035054"/>
+    <nd ref="665035056"/>
+    <nd ref="665035059"/>
+    <nd ref="665035062"/>
+    <nd ref="665035064"/>
+    <nd ref="665035067"/>
+    <nd ref="665035069"/>
+    <nd ref="665035072"/>
+    <nd ref="665035116"/>
+    <nd ref="665035074"/>
+    <nd ref="665035077"/>
+    <nd ref="665035079"/>
+    <nd ref="665035082"/>
+    <nd ref="665035084"/>
+    <nd ref="665035086"/>
+    <nd ref="665035089"/>
+    <nd ref="665035092"/>
+    <nd ref="665035095"/>
+    <nd ref="665035097"/>
+    <nd ref="665034442"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="52241835" version="2" timestamp="2010-07-09T06:15:41Z" uid="74617" user="JohnSmith" changeset="5171128">
+    <nd ref="665035115"/>
+    <nd ref="665035114"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="52241835" version="3" timestamp="2012-01-20T03:43:26Z" uid="147510" user="woodpeck_fixbot" changeset="10442986">
+    <nd ref="665035115"/>
+    <nd ref="665035114"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="52241836" version="2" timestamp="2010-07-09T06:19:59Z" uid="74617" user="JohnSmith" changeset="5171128">
+    <nd ref="665035117"/>
+    <nd ref="665035116"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="52241836" version="3" timestamp="2012-01-20T03:43:27Z" uid="147510" user="woodpeck_fixbot" changeset="10442986">
+    <nd ref="665035117"/>
+    <nd ref="665035116"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="52241928" version="2" timestamp="2010-03-22T07:37:08Z" uid="20587" user="balrog-kun" changeset="4199043">
+    <nd ref="287199881"/>
+    <nd ref="287199883"/>
+    <nd ref="287199885"/>
+    <nd ref="38874870"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Northwest Jackson School Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Washington, OR"/>
+    <tag k="tiger:name_base" v="Jackson School:Meek"/>
+    <tag k="tiger:name_direction_prefix" v="NW"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070808"/>
+    <tag k="tiger:tlid" v="158178380:158178413:158178415:158178417:158178420:158179188:158179201:158179203:158180077:158226031:158236434"/>
+    <tag k="tiger:zip_left" v="97124"/>
+    <tag k="tiger:zip_right" v="97124"/>
+  </way>
+  <way id="52241928" version="3" timestamp="2011-11-07T22:19:17Z" uid="362111" user="Mele Sax-Barnett" changeset="9769523">
+    <nd ref="287199881"/>
+    <nd ref="287199883"/>
+    <nd ref="1494679565"/>
+    <nd ref="1494679566"/>
+    <nd ref="1494679568"/>
+    <nd ref="287199885"/>
+    <nd ref="1494679569"/>
+    <nd ref="1494679570"/>
+    <nd ref="1494679572"/>
+    <nd ref="38874870"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Northwest Jackson School Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Washington, OR"/>
+    <tag k="tiger:name_base" v="Jackson School:Meek"/>
+    <tag k="tiger:name_direction_prefix" v="NW"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070808"/>
+    <tag k="tiger:tlid" v="158178380:158178413:158178415:158178417:158178420:158179188:158179201:158179203:158180077:158226031:158236434"/>
+    <tag k="tiger:zip_left" v="97124"/>
+    <tag k="tiger:zip_right" v="97124"/>
+  </way>
+  <way id="52241928" version="4" timestamp="2012-02-22T18:31:45Z" uid="63936" user="MojaveNC" changeset="10761579">
+    <nd ref="287199881"/>
+    <nd ref="287199883"/>
+    <nd ref="1494679565"/>
+    <nd ref="1494679566"/>
+    <nd ref="1494679568"/>
+    <nd ref="287199885"/>
+    <nd ref="1494679569"/>
+    <nd ref="1494679570"/>
+    <nd ref="1494679572"/>
+    <nd ref="38874870"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Northwest Jackson School Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Washington, OR"/>
+    <tag k="tiger:name_base" v="Jackson School:Meek"/>
+    <tag k="tiger:name_direction_prefix" v="NW"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070808"/>
+    <tag k="tiger:tlid" v="158178380:158178413:158178415:158178417:158178420:158179188:158179201:158179203:158180077:158226031:158236434"/>
+    <tag k="tiger:zip_left" v="97124"/>
+    <tag k="tiger:zip_right" v="97124"/>
+  </way>
+  <way id="52241929" version="2" timestamp="2010-03-22T07:37:08Z" uid="20587" user="balrog-kun" changeset="4199043">
+    <nd ref="287199879"/>
+    <nd ref="287199881"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Northwest Jackson School Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Washington, OR"/>
+    <tag k="tiger:name_base" v="Jackson School:Meek"/>
+    <tag k="tiger:name_direction_prefix" v="NW"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070808"/>
+    <tag k="tiger:tlid" v="158178380:158178413:158178415:158178417:158178420:158179188:158179201:158179203:158180077:158226031:158236434"/>
+    <tag k="tiger:zip_left" v="97124"/>
+    <tag k="tiger:zip_right" v="97124"/>
+  </way>
+  <way id="52241929" version="3" timestamp="2010-03-22T09:53:04Z" uid="92286" user="Paul Johnson" changeset="4200395">
+    <nd ref="287199879"/>
+    <nd ref="671928462"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Northwest Jackson School Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Washington, OR"/>
+    <tag k="tiger:name_base" v="Jackson School:Meek"/>
+    <tag k="tiger:name_direction_prefix" v="NW"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070808"/>
+    <tag k="tiger:tlid" v="158178380:158178413:158178415:158178417:158178420:158179188:158179201:158179203:158180077:158226031:158236434"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-fa49a608-adf2-4338-8828-4f80569842cc"/>
+    <tag k="tiger:zip_left" v="97124"/>
+    <tag k="tiger:zip_right" v="97124"/>
+  </way>
+  <way id="52241929" version="4" timestamp="2011-04-07T23:37:52Z" uid="393906" user="Grant Humphries" changeset="7799721">
+    <nd ref="287199879"/>
+    <nd ref="671928462"/>
+    <tag k="RLIS:localid" v="200505"/>
+    <tag k="RLIS:reviewed" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Northwest Jackson School Road"/>
+    <tag k="name_base" v="Jackson School"/>
+    <tag k="name_direction_prefix" v="Northwest"/>
+    <tag k="name_type" v="Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Washington, OR"/>
+    <tag k="tiger:name_base" v="Jackson School:Meek"/>
+    <tag k="tiger:name_direction_prefix" v="NW"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070808"/>
+    <tag k="tiger:tlid" v="158178380:158178413:158178415:158178417:158178420:158179188:158179201:158179203:158180077:158226031:158236434"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-fa49a608-adf2-4338-8828-4f80569842cc"/>
+    <tag k="tiger:zip_left" v="97124"/>
+    <tag k="tiger:zip_right" v="97124"/>
+    <tag k="zip_left" v="97124"/>
+    <tag k="zip_right" v="97124"/>
+  </way>
+  <way id="52241929" version="5" timestamp="2011-05-14T20:56:34Z" uid="393906" user="Grant Humphries" changeset="8145867">
+    <nd ref="287199879"/>
+    <nd ref="671928462"/>
+    <tag k="RLIS:localid" v="200505"/>
+    <tag k="RLIS:reviewed" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Northwest Jackson School Road"/>
+    <tag k="name_base" v="Jackson School"/>
+    <tag k="name_direction_prefix" v="Northwest"/>
+    <tag k="name_type" v="Road"/>
+    <tag k="zip_left" v="97124"/>
+    <tag k="zip_right" v="97124"/>
+  </way>
+  <way id="52241929" version="6" timestamp="2011-12-09T01:18:42Z" uid="372357" user="PJ Houser" changeset="10070060">
+    <nd ref="287199879"/>
+    <nd ref="671928462"/>
+    <tag k="RLIS:localid" v="200505"/>
+    <tag k="RLIS:reviewed" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Northwest Jackson School Road"/>
+    <tag k="zip_left" v="97124"/>
+    <tag k="zip_right" v="97124"/>
+  </way>
+  <way id="52241968" version="2" timestamp="2010-07-07T09:03:37Z" uid="74617" user="JohnSmith" changeset="5156250">
+    <nd ref="61440448"/>
+    <nd ref="665036308"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Hindmarsh Drive"/>
+  </way>
+  <way id="52241968" version="3" timestamp="2012-01-20T03:43:29Z" uid="147510" user="woodpeck_fixbot" changeset="10442986">
+    <nd ref="61440448"/>
+    <nd ref="665036308"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Hindmarsh Drive"/>
+  </way>
+  <way id="52241969" version="3" timestamp="2010-07-07T09:02:23Z" uid="74617" user="JohnSmith" changeset="5156250">
+    <nd ref="665036308"/>
+    <nd ref="61440449"/>
+    <nd ref="61440450"/>
+    <nd ref="61440451"/>
+    <nd ref="61440453"/>
+    <nd ref="61440454"/>
+    <nd ref="61440455"/>
+    <nd ref="665037452"/>
+    <nd ref="665037453"/>
+    <nd ref="61440460"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Hindmarsh Drive"/>
+  </way>
+  <way id="52241969" version="4" timestamp="2012-01-20T03:43:30Z" uid="147510" user="woodpeck_fixbot" changeset="10442986">
+    <nd ref="665036308"/>
+    <nd ref="61440449"/>
+    <nd ref="61440450"/>
+    <nd ref="61440451"/>
+    <nd ref="61440453"/>
+    <nd ref="61440454"/>
+    <nd ref="61440455"/>
+    <nd ref="665037452"/>
+    <nd ref="665037453"/>
+    <nd ref="61440460"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Hindmarsh Drive"/>
+  </way>
+  <way id="52241793" version="7" timestamp="2012-05-23T07:54:06Z" uid="261730" user="Davoz" changeset="11678104">
+    <nd ref="665034552"/>
+    <nd ref="665034553"/>
+    <nd ref="665034554"/>
+    <nd ref="665034555"/>
+    <nd ref="665034556"/>
+    <nd ref="665034557"/>
+    <nd ref="665034558"/>
+    <nd ref="665034559"/>
+    <nd ref="665034560"/>
+    <nd ref="665034561"/>
+    <nd ref="665034562"/>
+    <nd ref="665034563"/>
+    <nd ref="665034564"/>
+    <nd ref="665034565"/>
+    <nd ref="665034566"/>
+    <nd ref="665034567"/>
+    <nd ref="665034568"/>
+    <nd ref="665034569"/>
+    <nd ref="665034570"/>
+    <nd ref="665034571"/>
+    <nd ref="665034572"/>
+    <nd ref="665034573"/>
+    <nd ref="665034574"/>
+    <nd ref="665034575"/>
+    <nd ref="665034576"/>
+    <nd ref="665034577"/>
+    <nd ref="665034578"/>
+    <nd ref="665034579"/>
+    <nd ref="665034580"/>
+    <nd ref="665034581"/>
+    <nd ref="665034582"/>
+    <nd ref="665034583"/>
+    <nd ref="665034584"/>
+    <nd ref="665034585"/>
+    <nd ref="665034586"/>
+    <nd ref="665034587"/>
+    <nd ref="665034588"/>
+    <nd ref="665034589"/>
+    <nd ref="665034590"/>
+    <nd ref="665034442"/>
+    <nd ref="665034443"/>
+    <nd ref="665034444"/>
+    <nd ref="665034445"/>
+    <nd ref="665034446"/>
+    <nd ref="665034447"/>
+    <nd ref="665034448"/>
+    <nd ref="665034449"/>
+    <nd ref="665034450"/>
+    <nd ref="665034451"/>
+    <nd ref="665034452"/>
+    <nd ref="665034453"/>
+    <nd ref="665034454"/>
+    <nd ref="665034455"/>
+    <nd ref="665034456"/>
+    <nd ref="665034457"/>
+    <nd ref="665034458"/>
+    <nd ref="665034459"/>
+    <nd ref="665034460"/>
+    <nd ref="665034461"/>
+    <nd ref="665034462"/>
+    <nd ref="665034463"/>
+    <nd ref="665034464"/>
+    <nd ref="665034465"/>
+    <nd ref="665034466"/>
+    <nd ref="665034467"/>
+    <nd ref="665034468"/>
+    <nd ref="665034469"/>
+    <nd ref="665034470"/>
+    <nd ref="665034471"/>
+    <nd ref="665034472"/>
+    <nd ref="665034473"/>
+    <nd ref="665034474"/>
+    <nd ref="665034475"/>
+    <nd ref="665034476"/>
+    <nd ref="665034477"/>
+    <nd ref="665034478"/>
+    <nd ref="665034479"/>
+    <nd ref="665034480"/>
+    <nd ref="665034481"/>
+    <nd ref="665035114"/>
+    <nd ref="665034482"/>
+    <nd ref="665034483"/>
+    <nd ref="665034484"/>
+    <nd ref="665034485"/>
+    <nd ref="665034486"/>
+    <nd ref="1253963585"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="52241793" version="8" timestamp="2012-08-17T09:07:47Z" uid="418724" user="wintersportler" changeset="12759823">
+    <nd ref="665034552"/>
+    <nd ref="665034553"/>
+    <nd ref="665034554"/>
+    <nd ref="665034555"/>
+    <nd ref="665034556"/>
+    <nd ref="665034557"/>
+    <nd ref="665034558"/>
+    <nd ref="665034559"/>
+    <nd ref="665034560"/>
+    <nd ref="665034561"/>
+    <nd ref="665034562"/>
+    <nd ref="665034563"/>
+    <nd ref="665034564"/>
+    <nd ref="665034565"/>
+    <nd ref="665034566"/>
+    <nd ref="665034567"/>
+    <nd ref="665034568"/>
+    <nd ref="665034569"/>
+    <nd ref="665034570"/>
+    <nd ref="665034571"/>
+    <nd ref="665034572"/>
+    <nd ref="665034573"/>
+    <nd ref="665034574"/>
+    <nd ref="665034575"/>
+    <nd ref="665034576"/>
+    <nd ref="665034577"/>
+    <nd ref="665034578"/>
+    <nd ref="665034579"/>
+    <nd ref="665034580"/>
+    <nd ref="665034581"/>
+    <nd ref="665034582"/>
+    <nd ref="665034583"/>
+    <nd ref="665034584"/>
+    <nd ref="665034585"/>
+    <nd ref="665034586"/>
+    <nd ref="665034587"/>
+    <nd ref="665034588"/>
+    <nd ref="665034589"/>
+    <nd ref="665034590"/>
+    <nd ref="665034442"/>
+    <nd ref="665034443"/>
+    <nd ref="665034444"/>
+    <nd ref="665034445"/>
+    <nd ref="665034446"/>
+    <nd ref="665034447"/>
+    <nd ref="665034448"/>
+    <nd ref="665034449"/>
+    <nd ref="665034450"/>
+    <nd ref="665034451"/>
+    <nd ref="665034452"/>
+    <nd ref="665034453"/>
+    <nd ref="665034454"/>
+    <nd ref="665034455"/>
+    <nd ref="665034456"/>
+    <nd ref="665034457"/>
+    <nd ref="665034458"/>
+    <nd ref="665034459"/>
+    <nd ref="665034460"/>
+    <nd ref="665034461"/>
+    <nd ref="665034462"/>
+    <nd ref="665034463"/>
+    <nd ref="665034464"/>
+    <nd ref="665034465"/>
+    <nd ref="665034466"/>
+    <nd ref="665034467"/>
+    <nd ref="665034468"/>
+    <nd ref="665034469"/>
+    <nd ref="665034470"/>
+    <nd ref="665034471"/>
+    <nd ref="665034472"/>
+    <nd ref="665034473"/>
+    <nd ref="665034474"/>
+    <nd ref="665034475"/>
+    <nd ref="665034476"/>
+    <nd ref="665034477"/>
+    <nd ref="665034478"/>
+    <nd ref="665034479"/>
+    <nd ref="665034480"/>
+    <nd ref="665034481"/>
+    <nd ref="665035114"/>
+    <nd ref="665034482"/>
+    <nd ref="665034483"/>
+    <nd ref="665034484"/>
+    <nd ref="665034485"/>
+    <nd ref="665034486"/>
+    <nd ref="1253963585"/>
+    <tag k="fixme" v="name"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="52241817" version="5" timestamp="2012-05-23T07:54:07Z" uid="261730" user="Davoz" changeset="11678104">
+    <nd ref="665035032"/>
+    <nd ref="665035034"/>
+    <nd ref="665035037"/>
+    <nd ref="665035039"/>
+    <nd ref="665035042"/>
+    <nd ref="665035045"/>
+    <nd ref="665035048"/>
+    <nd ref="665035052"/>
+    <nd ref="665035054"/>
+    <nd ref="665035056"/>
+    <nd ref="665035059"/>
+    <nd ref="665035062"/>
+    <nd ref="665035064"/>
+    <nd ref="665035067"/>
+    <nd ref="665035069"/>
+    <nd ref="665035072"/>
+    <nd ref="665035116"/>
+    <nd ref="665035074"/>
+    <nd ref="665035077"/>
+    <nd ref="665035079"/>
+    <nd ref="665035082"/>
+    <nd ref="665035084"/>
+    <nd ref="665035086"/>
+    <nd ref="665035089"/>
+    <nd ref="665035092"/>
+    <nd ref="665035095"/>
+    <nd ref="665035097"/>
+    <nd ref="665034442"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="52241817" version="6" timestamp="2012-08-17T09:04:48Z" uid="418724" user="wintersportler" changeset="12759823">
+    <nd ref="665035032"/>
+    <nd ref="665035034"/>
+    <nd ref="665035037"/>
+    <nd ref="665035039"/>
+    <nd ref="665035042"/>
+    <nd ref="665035045"/>
+    <nd ref="665035048"/>
+    <nd ref="665035052"/>
+    <nd ref="665035054"/>
+    <nd ref="665035056"/>
+    <nd ref="665035059"/>
+    <nd ref="665035062"/>
+    <nd ref="665035064"/>
+    <nd ref="665035067"/>
+    <nd ref="665035069"/>
+    <nd ref="665035072"/>
+    <nd ref="665035116"/>
+    <nd ref="665035074"/>
+    <nd ref="665035077"/>
+    <nd ref="665035079"/>
+    <nd ref="665035082"/>
+    <nd ref="665035084"/>
+    <nd ref="665035086"/>
+    <nd ref="665035089"/>
+    <nd ref="665035092"/>
+    <nd ref="665035095"/>
+    <nd ref="665035097"/>
+    <nd ref="665034442"/>
+    <tag k="fixme" v="name"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="52241835" version="4" timestamp="2012-08-17T09:04:10Z" uid="418724" user="wintersportler" changeset="12759823">
+    <nd ref="665035115"/>
+    <nd ref="665035114"/>
+    <tag k="fixme" v="name"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="52241836" version="4" timestamp="2012-08-17T09:04:05Z" uid="418724" user="wintersportler" changeset="12759823">
+    <nd ref="665035117"/>
+    <nd ref="665035116"/>
+    <tag k="fixme" v="name"/>
+    <tag k="highway" v="residential"/>
+  </way>
+</osm>

@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="58177454" version="2" timestamp="2010-06-23T04:43:10Z" uid="4467" user="Rosscoe" changeset="5056189">
+    <nd ref="721625117"/>
+    <nd ref="721625149"/>
+    <nd ref="721625153"/>
+    <nd ref="721625157"/>
+    <nd ref="721625161"/>
+    <nd ref="721625163"/>
+    <nd ref="721625165"/>
+    <nd ref="721625167"/>
+    <nd ref="721625170"/>
+    <nd ref="721625173"/>
+    <nd ref="721625175"/>
+    <nd ref="721625180"/>
+    <nd ref="721625183"/>
+    <nd ref="721625104"/>
+    <nd ref="721625185"/>
+    <nd ref="721625188"/>
+    <nd ref="721625190"/>
+    <nd ref="721625192"/>
+    <nd ref="721625117"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="58177707" version="2" timestamp="2010-07-09T03:32:55Z" uid="74617" user="JohnSmith" changeset="5170739">
+    <nd ref="714638187"/>
+    <nd ref="714638190"/>
+    <nd ref="714638191"/>
+    <nd ref="714638192"/>
+    <nd ref="714638194"/>
+    <nd ref="714638195"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Terrell Court"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="58177707" version="3" timestamp="2012-01-20T07:02:53Z" uid="147510" user="woodpeck_fixbot" changeset="10443281">
+    <nd ref="714638187"/>
+    <nd ref="714638190"/>
+    <nd ref="714638191"/>
+    <nd ref="714638192"/>
+    <nd ref="714638194"/>
+    <nd ref="714638195"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Terrell Court"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="58177708" version="2" timestamp="2010-07-09T03:28:07Z" uid="74617" user="JohnSmith" changeset="5170739">
+    <nd ref="714649279"/>
+    <nd ref="714649457"/>
+    <nd ref="714649459"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Jordan Place"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="58177708" version="3" timestamp="2012-01-20T07:02:54Z" uid="147510" user="woodpeck_fixbot" changeset="10443281">
+    <nd ref="714649279"/>
+    <nd ref="714649457"/>
+    <nd ref="714649459"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Jordan Place"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="58177842" version="2" timestamp="2010-06-29T20:48:32Z" uid="74617" user="JohnSmith" changeset="5109183">
+    <nd ref="721651333"/>
+    <nd ref="721651332"/>
+    <nd ref="721651336"/>
+    <nd ref="721651335"/>
+    <nd ref="721651333"/>
+    <tag k="fixme" v="sport=rugby is ambiguous, see http://wiki.osm.org/wiki/Tag:sport%3Drugby for more details"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="rugby"/>
+  </way>
+  <way id="58177842" version="3" timestamp="2010-11-28T15:47:34Z" uid="78172" user="FabC" changeset="6479321">
+    <nd ref="721651333"/>
+    <nd ref="721651332"/>
+    <nd ref="721651336"/>
+    <nd ref="721651335"/>
+    <nd ref="721651333"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="rugby_league"/>
+  </way>
+  <way id="58177842" version="4" timestamp="2012-03-08T23:58:15Z" uid="573600" user="alex9446" changeset="10915124">
+    <nd ref="721651333"/>
+    <nd ref="721651332"/>
+    <nd ref="721651336"/>
+    <nd ref="721651335"/>
+    <nd ref="721651333"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="rugby_union"/>
+  </way>
+</osm>

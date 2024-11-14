@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="100458163" version="1" timestamp="2011-02-19T13:36:59Z" uid="4467" user="Rosscoe" changeset="7331881">
+    <nd ref="1161338811"/>
+    <nd ref="1161338812"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="100458163" version="2" timestamp="2011-05-16T08:19:56Z" uid="22094" user="Chadzopkyo" changeset="8160059">
+    <nd ref="1161338811"/>
+    <nd ref="1287473272"/>
+    <nd ref="1161338812"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Wivenhoe Circuit"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="100458165" version="1" timestamp="2011-02-19T13:36:59Z" uid="4467" user="Rosscoe" changeset="7331881">
+    <nd ref="304246762"/>
+    <nd ref="1161338795"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="100458165" version="2" timestamp="2011-08-30T09:15:28Z" uid="22094" user="Chadzopkyo" changeset="9165167">
+    <nd ref="304246762"/>
+    <nd ref="1417876428"/>
+    <nd ref="1161338795"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Patula Close"/>
+    <tag k="source" v="GPS"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="100458167" version="1" timestamp="2011-02-19T13:36:59Z" uid="4467" user="Rosscoe" changeset="7331881">
+    <nd ref="303917503"/>
+    <nd ref="1161338797"/>
+    <nd ref="1161338802"/>
+    <tag k="highway" v="secondary_link"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="100458167" version="2" timestamp="2011-05-16T08:19:45Z" uid="22094" user="Chadzopkyo" changeset="8160059">
+    <nd ref="303917503"/>
+    <nd ref="1161338797"/>
+    <nd ref="1161338802"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Lochwood Avenue"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="100458163" version="3" timestamp="2012-07-19T20:45:16Z" uid="722137" user="OSMF Redaction Account" changeset="12346769"/>
+  <way id="100458165" version="3" timestamp="2012-07-19T20:45:16Z" uid="722137" user="OSMF Redaction Account" changeset="12346769"/>
+  <way id="100458167" version="3" timestamp="2012-07-19T20:45:15Z" uid="722137" user="OSMF Redaction Account" changeset="12346769"/>
+</osm>

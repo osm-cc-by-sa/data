@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="72818983" version="1" timestamp="2010-08-16T23:50:32Z" uid="4467" user="Rosscoe" changeset="5513893">
+    <nd ref="848342689"/>
+    <nd ref="848342691"/>
+    <nd ref="775975285"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="72818988" version="1" timestamp="2010-08-16T23:50:33Z" uid="4467" user="Rosscoe" changeset="5513893">
+    <nd ref="864149270"/>
+    <nd ref="848342809"/>
+    <nd ref="848342812"/>
+    <nd ref="848342814"/>
+    <nd ref="848342555"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="72818988" version="2" timestamp="2010-08-17T00:04:37Z" uid="4467" user="Rosscoe" changeset="5513935">
+    <nd ref="864149270"/>
+    <nd ref="848342809"/>
+    <nd ref="848342812"/>
+    <nd ref="848342814"/>
+    <nd ref="848342555"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="72818994" version="1" timestamp="2010-08-16T23:50:34Z" uid="4467" user="Rosscoe" changeset="5513893">
+    <nd ref="456523450"/>
+    <nd ref="456526710"/>
+    <nd ref="61728865"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="New England Highway"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="72818994" version="2" timestamp="2012-01-08T05:09:56Z" uid="67896" user="mrpulley" changeset="10328121">
+    <nd ref="456523450"/>
+    <nd ref="456526710"/>
+    <nd ref="61728865"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="New England Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH15"/>
+  </way>
+  <way id="72818998" version="1" timestamp="2010-08-16T23:50:35Z" uid="4467" user="Rosscoe" changeset="5513893">
+    <nd ref="864149263"/>
+    <nd ref="344620260"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+  </way>
+  <way id="72818983" version="2" timestamp="2012-07-21T15:11:35Z" uid="722137" user="OSMF Redaction Account" changeset="12412984"/>
+  <way id="72818988" version="3" timestamp="2012-07-21T15:11:35Z" uid="722137" user="OSMF Redaction Account" changeset="12412984"/>
+  <way id="72818994" version="3" timestamp="2012-07-08T23:02:34Z" uid="717576" user="samuelrussell" changeset="12156365">
+    <nd ref="456523450"/>
+    <nd ref="456526710"/>
+    <nd ref="61728865"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="New England Highway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="rcn" v="yes"/>
+    <tag k="ref" v="NH15"/>
+  </way>
+  <way id="72818994" version="4" timestamp="2012-07-12T04:53:21Z" uid="705018" user="jinkson" changeset="12192203"/>
+  <way id="72818998" version="2" timestamp="2012-07-21T15:11:33Z" uid="722137" user="OSMF Redaction Account" changeset="12412984"/>
+</osm>

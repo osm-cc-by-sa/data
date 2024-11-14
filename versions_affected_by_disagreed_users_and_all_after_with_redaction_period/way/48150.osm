@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="48150913" version="2" timestamp="2010-07-08T20:15:42Z" uid="74617" user="JohnSmith" changeset="5168688">
+    <nd ref="611915323"/>
+    <nd ref="611915355"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="48150913" version="3" timestamp="2012-01-19T21:28:39Z" uid="147510" user="woodpeck_fixbot" changeset="10440306">
+    <nd ref="611915323"/>
+    <nd ref="611915355"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="48150932" version="2" timestamp="2010-09-08T17:33:28Z" uid="10712" user="Kraeml" changeset="5726101">
+    <nd ref="324010077"/>
+    <nd ref="611915892"/>
+    <nd ref="611915894"/>
+    <nd ref="611915897"/>
+    <nd ref="611915898"/>
+    <nd ref="374139404"/>
+    <tag k="highway" v="track"/>
+    <tag k="tracktype" v="grade2"/>
+  </way>
+  <way id="48150932" version="3" timestamp="2011-12-31T19:32:34Z" uid="11374" user="q_un_go" changeset="10257709">
+    <nd ref="1571914546"/>
+    <nd ref="1571914639"/>
+    <nd ref="324010077"/>
+    <nd ref="611915892"/>
+    <nd ref="611915894"/>
+    <nd ref="611915897"/>
+    <nd ref="611915898"/>
+    <nd ref="374139404"/>
+    <tag k="highway" v="track"/>
+    <tag k="tracktype" v="grade2"/>
+  </way>
+</osm>

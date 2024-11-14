@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="46204229" version="2" timestamp="2009-12-24T02:43:47Z" uid="6975" user="ulfl" changeset="3439641">
+    <nd ref="589160549"/>
+    <nd ref="589160552"/>
+    <nd ref="589160555"/>
+    <nd ref="589160558"/>
+    <nd ref="589160549"/>
+    <tag k="man_made" v="reservoir_covered"/>
+    <tag k="nhd:com_id" v="130614894"/>
+    <tag k="nhd:fcode" v="43613"/>
+    <tag k="nhd:ftype" v="Reservoir"/>
+    <tag k="nhd:reach_code" v="13020102020278"/>
+  </way>
+  <way id="46204542" version="2" timestamp="2010-07-09T17:21:19Z" uid="74617" user="JohnSmith" changeset="5175333">
+    <nd ref="181299969"/>
+    <nd ref="589189100"/>
+    <nd ref="589189104"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="46204542" version="3" timestamp="2012-01-19T15:07:26Z" uid="147510" user="woodpeck_fixbot" changeset="10436041">
+    <nd ref="181299969"/>
+    <nd ref="589189100"/>
+    <nd ref="589189104"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="46204973" version="3" timestamp="2010-10-04T18:19:08Z" uid="20587" user="balrog-kun" changeset="5956007">
+    <nd ref="589203157"/>
+    <nd ref="589203161"/>
+    <nd ref="589203165"/>
+    <nd ref="589203168"/>
+    <nd ref="589203157"/>
+    <tag k="addr:housenumber" v="56"/>
+    <tag k="addr:street" v="Antoniego Malczewskiego"/>
+    <tag k="building" v="undefined"/>
+  </way>
+  <way id="46204973" version="4" timestamp="2011-05-17T09:26:52Z" uid="52087" user="kocio" changeset="8169742">
+    <nd ref="589203157"/>
+    <nd ref="589203161"/>
+    <nd ref="589203165"/>
+    <nd ref="589203168"/>
+    <nd ref="589203157"/>
+    <tag k="addr:housenumber" v="56"/>
+    <tag k="addr:street" v="Antoniego Malczewskiego"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="46204542" version="4" timestamp="2012-08-23T00:35:52Z" uid="418724" user="wintersportler" changeset="12827412">
+    <nd ref="181299969"/>
+    <nd ref="589189100"/>
+    <nd ref="589189104"/>
+    <tag k="fixme" v="name"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+</osm>

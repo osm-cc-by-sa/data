@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="81570803" version="1" timestamp="2010-10-15T20:25:52Z" uid="96874" user="Quedel" changeset="6051410">
+    <nd ref="266823280"/>
+    <nd ref="266823240"/>
+    <nd ref="948196964"/>
+    <nd ref="266823308"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Breitscheidstraße"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="81570803" version="2" timestamp="2010-10-15T20:43:20Z" uid="96874" user="Quedel" changeset="6051410">
+    <nd ref="266823280"/>
+    <nd ref="266823240"/>
+    <nd ref="948196964"/>
+    <nd ref="266823308"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Breitscheidstraße"/>
+    <tag k="parking:condition:both" v="free"/>
+    <tag k="parking:lane:both" v="inline"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="81570804" version="1" timestamp="2010-10-15T20:25:52Z" uid="96874" user="Quedel" changeset="6051410">
+    <nd ref="253996532"/>
+    <nd ref="897127193"/>
+    <nd ref="316678702"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Stresemannstraße"/>
+    <tag k="parking:condition:both" v="free"/>
+    <tag k="parking:lane:left" v="inline"/>
+    <tag k="parking:lane:right" v="diagonal"/>
+  </way>
+  <way id="81570804" version="2" timestamp="2011-11-10T13:54:11Z" uid="490470" user="59rbc" changeset="9788948">
+    <nd ref="253996532"/>
+    <nd ref="897127193"/>
+    <nd ref="316678702"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Stresemannstraße"/>
+    <tag k="parking:condition:both" v="free"/>
+    <tag k="parking:lane:left" v="inline"/>
+    <tag k="parking:lane:right" v="diagonal"/>
+  </way>
+  <way id="81570806" version="1" timestamp="2010-10-15T20:25:52Z" uid="96874" user="Quedel" changeset="6051410">
+    <nd ref="287081484"/>
+    <nd ref="867312147"/>
+    <nd ref="287081485"/>
+    <nd ref="287081486"/>
+    <nd ref="287081487"/>
+    <nd ref="290174280"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Adelheidstraße"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:lane:both" v="no_parking"/>
+  </way>
+  <way id="81570806" version="2" timestamp="2011-04-26T19:53:26Z" uid="156263" user="tillea" changeset="7978961">
+    <nd ref="287081484"/>
+    <nd ref="867312147"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Adelheidstraße"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:lane:both" v="no_parking"/>
+  </way>
+  <way id="81570808" version="1" timestamp="2010-10-15T20:25:52Z" uid="96874" user="Quedel" changeset="6051410">
+    <nd ref="297471571"/>
+    <nd ref="297471576"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="81570803" version="3" timestamp="2012-07-17T08:32:20Z" uid="722137" user="OSMF Redaction Account" changeset="12260505"/>
+  <way id="81570804" version="3" timestamp="2012-07-17T08:32:09Z" uid="722137" user="OSMF Redaction Account" changeset="12260505"/>
+  <way id="81570806" version="3" timestamp="2012-07-17T08:32:09Z" uid="722137" user="OSMF Redaction Account" changeset="12260505"/>
+  <way id="81570808" version="2" timestamp="2012-07-17T08:32:11Z" uid="722137" user="OSMF Redaction Account" changeset="12260505"/>
+</osm>

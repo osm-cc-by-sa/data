@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="92870378" version="1" timestamp="2011-01-01T13:05:28Z" uid="30632" user="antblant" changeset="6827571">
+    <nd ref="1076876549"/>
+    <nd ref="1076876556"/>
+    <nd ref="1076876552"/>
+    <nd ref="1076876554"/>
+    <nd ref="1076876555"/>
+    <nd ref="1076876550"/>
+    <nd ref="1076876549"/>
+    <tag k="generator:source" v="coal"/>
+    <tag k="power" v="generator"/>
+  </way>
+  <way id="92870378" version="2" timestamp="2012-08-23T10:26:54Z" uid="717069" user="Ventlan" changeset="12829709">
+    <nd ref="1076876549"/>
+    <nd ref="1076876556"/>
+    <nd ref="1076876552"/>
+    <nd ref="1076876554"/>
+    <nd ref="1879122835"/>
+    <nd ref="1879122834"/>
+    <nd ref="1076876555"/>
+    <nd ref="1076876550"/>
+    <nd ref="1076876549"/>
+    <tag k="generator:method" v="combustion"/>
+    <tag k="generator:output:hot_water" v="yes"/>
+    <tag k="generator:source" v="coal"/>
+    <tag k="name" v="Ciepłownia Miejska"/>
+    <tag k="operator" v="Przedsiębiorstwo Energetyki Cieplnej Sp. z.o.o."/>
+    <tag k="power" v="generator"/>
+  </way>
+</osm>

@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="60495997" version="4" timestamp="2010-08-04T17:36:50Z" uid="9581" user="Lobelt" changeset="5401263">
+    <nd ref="754431152"/>
+    <nd ref="754431153"/>
+    <nd ref="754431158"/>
+    <nd ref="754431163"/>
+    <nd ref="754431169"/>
+    <nd ref="754431174"/>
+    <nd ref="754431175"/>
+    <tag k="cables" v="4"/>
+    <tag k="frequency" v="16.7"/>
+    <tag k="name" v="Kirchhellen - Mehrhoog"/>
+    <tag k="operator" v="DB_Energie"/>
+    <tag k="power" v="line"/>
+    <tag k="voltage" v="110000"/>
+    <tag k="wires" v="single"/>
+  </way>
+  <way id="60495997" version="5" timestamp="2010-12-16T02:10:28Z" uid="92274" user="adjuva" changeset="6673329">
+    <nd ref="1040403068"/>
+    <nd ref="754431152"/>
+    <nd ref="754431153"/>
+    <nd ref="754431158"/>
+    <nd ref="754431163"/>
+    <nd ref="754431169"/>
+    <nd ref="754431174"/>
+    <nd ref="754431175"/>
+    <tag k="cables" v="4"/>
+    <tag k="frequency" v="16.7"/>
+    <tag k="name" v="Kirchhellen - Mehrhoog"/>
+    <tag k="operator" v="DB_Energie"/>
+    <tag k="power" v="line"/>
+    <tag k="voltage" v="110000"/>
+    <tag k="wires" v="single"/>
+  </way>
+  <way id="60495997" version="6" timestamp="2011-05-02T11:09:36Z" uid="153031" user="ajoessen" changeset="8029648">
+    <nd ref="1040403068"/>
+    <nd ref="754431152"/>
+    <nd ref="754431153"/>
+    <nd ref="754431158"/>
+    <nd ref="754431163"/>
+    <nd ref="754431169"/>
+    <nd ref="754431174"/>
+    <nd ref="754431175"/>
+    <tag k="cables" v="4"/>
+    <tag k="frequency" v="16.7"/>
+    <tag k="name" v="Sw Kirchhellen - Mehrhoog"/>
+    <tag k="operator" v="DB_Energie"/>
+    <tag k="power" v="line"/>
+    <tag k="voltage" v="110000"/>
+    <tag k="wires" v="single"/>
+  </way>
+  <way id="60495997" version="7" timestamp="2011-06-24T08:32:12Z" uid="153031" user="ajoessen" changeset="8530074">
+    <nd ref="1040403068"/>
+    <nd ref="754431152"/>
+    <nd ref="754431153"/>
+    <nd ref="754431158"/>
+    <nd ref="754431163"/>
+    <nd ref="754431169"/>
+    <nd ref="754431174"/>
+    <nd ref="754431175"/>
+    <tag k="cables" v="4"/>
+    <tag k="frequency" v="16.7"/>
+    <tag k="name" v="Sw Kirchhellen - Mehrhoog"/>
+    <tag k="operator" v="DB_Energie"/>
+    <tag k="power" v="line"/>
+    <tag k="ref" v="0569"/>
+    <tag k="voltage" v="110000"/>
+    <tag k="wires" v="single"/>
+  </way>
+  <way id="60495998" version="3" timestamp="2010-08-04T17:43:22Z" uid="9581" user="Lobelt" changeset="5401263">
+    <nd ref="754431175"/>
+    <nd ref="754431178"/>
+    <nd ref="754431180"/>
+    <nd ref="754431184"/>
+    <nd ref="754431189"/>
+    <nd ref="754431194"/>
+    <nd ref="754431200"/>
+    <tag k="cables" v="12"/>
+    <tag k="description" v="220kV Pfalzdorf TR211+TR212; 110kV Xanten Ost+Bocholt Ost"/>
+    <tag k="frequency" v="50"/>
+    <tag k="operator" v="RWE"/>
+    <tag k="power" v="line"/>
+    <tag k="ref" v="2444"/>
+    <tag k="source" v="landsat"/>
+    <tag k="voltage" v="220000;110000"/>
+    <tag k="wires" v="double"/>
+  </way>
+  <way id="60495998" version="4" timestamp="2011-04-11T12:06:43Z" uid="153031" user="ajoessen" changeset="7832351">
+    <nd ref="754431175"/>
+    <nd ref="754431178"/>
+    <nd ref="754431180"/>
+    <nd ref="754431184"/>
+    <nd ref="754431189"/>
+    <nd ref="754431194"/>
+    <nd ref="754431200"/>
+    <tag k="cables" v="12"/>
+    <tag k="description" v="220kV Pfalzdorf TR211+TR212; 110kV Xanten Ost+Bocholt West"/>
+    <tag k="frequency" v="50"/>
+    <tag k="operator" v="RWE"/>
+    <tag k="power" v="line"/>
+    <tag k="ref" v="2444"/>
+    <tag k="source" v="landsat"/>
+    <tag k="voltage" v="220000;110000"/>
+    <tag k="wires" v="double;single"/>
+  </way>
+</osm>

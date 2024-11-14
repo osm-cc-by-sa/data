@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="42884424" version="2" timestamp="2010-08-07T17:35:00Z" uid="9581" user="Lobelt" changeset="5426361">
+    <nd ref="360789191"/>
+    <nd ref="360789240"/>
+    <nd ref="360789194"/>
+    <nd ref="360789196"/>
+    <nd ref="360789198"/>
+    <nd ref="360789200"/>
+    <nd ref="360789202"/>
+    <nd ref="360789205"/>
+    <nd ref="360789207"/>
+    <nd ref="360789209"/>
+    <nd ref="360789212"/>
+    <nd ref="360789215"/>
+    <nd ref="360789218"/>
+    <nd ref="360789220"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Mühlstraße"/>
+    <tag k="surface" v="paved"/>
+    <tag k="width" v="4"/>
+  </way>
+  <way id="42884426" version="2" timestamp="2010-08-07T17:34:47Z" uid="9581" user="Lobelt" changeset="5426361">
+    <nd ref="360789307"/>
+    <nd ref="360789320"/>
+    <nd ref="360789322"/>
+    <nd ref="360789325"/>
+    <nd ref="360789327"/>
+    <nd ref="360789328"/>
+    <nd ref="293350494"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="cycleway"/>
+    <tag k="surface" v="paved"/>
+    <tag k="width" v="2,5"/>
+  </way>
+  <way id="42884426" version="3" timestamp="2012-05-12T08:02:03Z" uid="7562" user="LosHawlos" changeset="11574179">
+    <nd ref="360789307"/>
+    <nd ref="360789320"/>
+    <nd ref="360789322"/>
+    <nd ref="360789325"/>
+    <nd ref="360789327"/>
+    <nd ref="360789328"/>
+    <nd ref="293350494"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="cycleway"/>
+    <tag k="old_name" v="Überwaldbahn"/>
+    <tag k="railway" v="abandoned"/>
+    <tag k="railway:end_date" v="1981-03-01"/>
+    <tag k="railway:start_date" v="1901"/>
+    <tag k="surface" v="paved"/>
+    <tag k="width" v="2,5"/>
+  </way>
+  <way id="42884426" version="4" timestamp="2012-07-17T00:00:54Z" uid="722137" user="OSMF Redaction Account" changeset="12253850">
+    <nd ref="360789307"/>
+    <nd ref="360789320"/>
+    <nd ref="360789322"/>
+    <nd ref="360789325"/>
+    <nd ref="360789327"/>
+    <nd ref="360789328"/>
+    <nd ref="293350494"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="highway" v="footway"/>
+    <tag k="old_name" v="Überwaldbahn"/>
+    <tag k="railway" v="abandoned"/>
+    <tag k="railway:end_date" v="1981-03-01"/>
+    <tag k="railway:start_date" v="1901"/>
+    <tag k="surface" v="unpaved"/>
+    <tag k="width" v="2,5"/>
+  </way>
+</osm>

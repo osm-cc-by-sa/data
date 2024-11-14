@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="79026566" version="3" timestamp="2010-10-07T17:10:48Z" uid="9581" user="Lobelt" changeset="5979695">
+    <nd ref="923911556"/>
+    <nd ref="923911554"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="-1"/>
+    <tag k="service" v="parking_aisle"/>
+    <tag k="surface" v="paving_stones"/>
+    <tag k="width" v="3"/>
+  </way>
+  <way id="79026566" version="4" timestamp="2010-10-11T20:00:10Z" uid="125832" user="tijuca" changeset="6015490">
+    <nd ref="923911556"/>
+    <nd ref="923911554"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="service" v="parking_aisle"/>
+    <tag k="surface" v="paving_stones"/>
+    <tag k="width" v="3"/>
+  </way>
+  <way id="79026566" version="5" timestamp="2012-02-17T21:06:42Z" uid="212079" user="atz" changeset="10715198"/>
+  <way id="79026571" version="2" timestamp="2010-10-07T17:10:49Z" uid="9581" user="Lobelt" changeset="5979695">
+    <nd ref="923911554"/>
+    <nd ref="304796889"/>
+    <nd ref="304796890"/>
+    <nd ref="304796891"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Industriestraße"/>
+    <tag k="surface" v="cobblestone"/>
+    <tag k="width" v="4"/>
+  </way>
+  <way id="79026571" version="3" timestamp="2011-12-30T10:25:58Z" uid="125832" user="tijuca" changeset="10243667"/>
+  <way id="79026573" version="2" timestamp="2010-10-07T17:11:12Z" uid="9581" user="Lobelt" changeset="5979695">
+    <nd ref="299470478"/>
+    <nd ref="587644291"/>
+    <nd ref="299470479"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Am Bahnhof"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="width" v="3"/>
+  </way>
+  <way id="79026573" version="3" timestamp="2011-01-05T19:33:08Z" uid="212079" user="atz" changeset="6875342">
+    <nd ref="299470478"/>
+    <nd ref="587644291"/>
+    <nd ref="299470479"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Am Bahnhof"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="width" v="3"/>
+  </way>
+  <way id="79026573" version="4" timestamp="2011-01-07T18:21:59Z" uid="125832" user="tijuca" changeset="6895774">
+    <nd ref="299470478"/>
+    <nd ref="587644291"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Am Bahnhof"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="width" v="3"/>
+  </way>
+  <way id="79026573" version="5" timestamp="2012-01-07T22:54:30Z" uid="125832" user="tijuca" changeset="10326711">
+    <nd ref="1581731315"/>
+    <nd ref="587644291"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Am Bahnhof"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="width" v="3"/>
+  </way>
+  <way id="79026573" version="6" timestamp="2012-02-17T21:06:22Z" uid="212079" user="atz" changeset="10715198">
+    <nd ref="587644291"/>
+    <nd ref="1581731315"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Am Bahnhof"/>
+    <tag k="service" v="driveway"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="width" v="3"/>
+  </way>
+  <way id="79026573" version="7" timestamp="2012-02-25T18:12:57Z" uid="212079" user="atz" changeset="10790462">
+    <nd ref="587644291"/>
+    <nd ref="1647322363"/>
+    <nd ref="1581731315"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Am Bahnhof"/>
+    <tag k="service" v="driveway"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="width" v="3"/>
+  </way>
+</osm>

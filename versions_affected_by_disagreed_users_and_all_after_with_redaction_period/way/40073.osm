@@ -1,0 +1,982 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.20.0">
+  <way id="40073166" version="1" timestamp="2009-09-03T11:43:49Z" uid="115477" user="wowik" changeset="2358805">
+    <nd ref="482253146"/>
+    <nd ref="482253147"/>
+    <nd ref="482253149"/>
+    <nd ref="482253151"/>
+    <nd ref="482252737"/>
+    <tag k="waterway" v="stream"/>
+  </way>
+  <way id="40073173" version="1" timestamp="2009-09-03T11:43:50Z" uid="115477" user="wowik" changeset="2358805">
+    <nd ref="482169210"/>
+    <nd ref="482253154"/>
+    <nd ref="482253155"/>
+    <nd ref="482253156"/>
+    <nd ref="482253157"/>
+    <nd ref="482252737"/>
+    <tag k="waterway" v="stream"/>
+  </way>
+  <way id="40073305" version="7" timestamp="2011-02-21T22:30:18Z" uid="49111" user="Markus B" changeset="7358886">
+    <nd ref="482253286"/>
+    <nd ref="1165873507"/>
+    <nd ref="1165873261"/>
+    <nd ref="482254001"/>
+    <nd ref="482253289"/>
+    <tag k="highway" v="unclassified"/>
+  </way>
+  <way id="40073305" version="8" timestamp="2011-12-30T18:44:49Z" uid="103253" user="gormur" changeset="10248358">
+    <nd ref="482253289"/>
+    <nd ref="482254001"/>
+    <nd ref="1165873261"/>
+    <nd ref="1165873507"/>
+    <nd ref="482253286"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="40073459" version="5" timestamp="2010-07-08T17:07:44Z" uid="74617" user="JohnSmith" changeset="5167338">
+    <nd ref="478865171"/>
+    <nd ref="482253795"/>
+    <nd ref="482253796"/>
+    <nd ref="482253797"/>
+    <nd ref="482253798"/>
+    <nd ref="482253799"/>
+    <nd ref="482253800"/>
+    <nd ref="482253801"/>
+    <nd ref="482253803"/>
+    <nd ref="482253804"/>
+    <nd ref="482253805"/>
+    <nd ref="493926759"/>
+    <nd ref="493930982"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="San Fernando Avenue"/>
+    <tag k="source" v="GPS"/>
+  </way>
+  <way id="40073459" version="6" timestamp="2012-01-19T04:18:23Z" uid="147510" user="woodpeck_fixbot" changeset="10433650">
+    <nd ref="478865171"/>
+    <nd ref="482253795"/>
+    <nd ref="482253796"/>
+    <nd ref="482253797"/>
+    <nd ref="482253798"/>
+    <nd ref="482253799"/>
+    <nd ref="482253800"/>
+    <nd ref="482253801"/>
+    <nd ref="482253803"/>
+    <nd ref="482253804"/>
+    <nd ref="482253805"/>
+    <nd ref="493926759"/>
+    <nd ref="493930982"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="San Fernando Avenue"/>
+    <tag k="source" v="GPS"/>
+  </way>
+  <way id="40073460" version="5" timestamp="2010-05-02T14:09:39Z" uid="4467" user="Rosscoe" changeset="4585497">
+    <nd ref="482253817"/>
+    <nd ref="493930981"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="San Fernando Avenue"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="40073460" version="6" timestamp="2010-07-08T17:07:36Z" uid="74617" user="JohnSmith" changeset="5167338">
+    <nd ref="482253817"/>
+    <nd ref="493930981"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="San Fernando Avenue"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="40073460" version="7" timestamp="2012-01-19T04:18:24Z" uid="147510" user="woodpeck_fixbot" changeset="10433650">
+    <nd ref="482253817"/>
+    <nd ref="493930981"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="San Fernando Avenue"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="40073462" version="3" timestamp="2010-05-02T14:09:35Z" uid="4467" user="Rosscoe" changeset="4585497">
+    <nd ref="482253806"/>
+    <nd ref="482253811"/>
+    <nd ref="482253812"/>
+    <nd ref="482253813"/>
+    <nd ref="482253810"/>
+    <nd ref="482253815"/>
+    <nd ref="482253816"/>
+    <nd ref="482253817"/>
+    <nd ref="482253807"/>
+    <nd ref="482253818"/>
+    <nd ref="482253819"/>
+    <nd ref="482253821"/>
+    <nd ref="482253822"/>
+    <nd ref="482253824"/>
+    <nd ref="482253825"/>
+    <nd ref="482253826"/>
+    <nd ref="482253806"/>
+    <tag k="highway" v="residential"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="40073462" version="4" timestamp="2010-07-08T17:08:07Z" uid="74617" user="JohnSmith" changeset="5167338">
+    <nd ref="482253806"/>
+    <nd ref="482253811"/>
+    <nd ref="482253812"/>
+    <nd ref="482253813"/>
+    <nd ref="482253810"/>
+    <nd ref="482253815"/>
+    <nd ref="482253816"/>
+    <nd ref="482253817"/>
+    <nd ref="482253807"/>
+    <nd ref="482253818"/>
+    <nd ref="482253819"/>
+    <nd ref="482253821"/>
+    <nd ref="482253822"/>
+    <nd ref="482253824"/>
+    <nd ref="482253825"/>
+    <nd ref="482253826"/>
+    <nd ref="482253806"/>
+    <tag k="highway" v="residential"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="40073462" version="5" timestamp="2012-01-19T04:18:27Z" uid="147510" user="woodpeck_fixbot" changeset="10433650">
+    <nd ref="482253806"/>
+    <nd ref="482253811"/>
+    <nd ref="482253812"/>
+    <nd ref="482253813"/>
+    <nd ref="482253810"/>
+    <nd ref="482253815"/>
+    <nd ref="482253816"/>
+    <nd ref="482253817"/>
+    <nd ref="482253807"/>
+    <nd ref="482253818"/>
+    <nd ref="482253819"/>
+    <nd ref="482253821"/>
+    <nd ref="482253822"/>
+    <nd ref="482253824"/>
+    <nd ref="482253825"/>
+    <nd ref="482253826"/>
+    <nd ref="482253806"/>
+    <tag k="highway" v="residential"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="40073463" version="4" timestamp="2010-05-02T14:09:37Z" uid="4467" user="Rosscoe" changeset="4585497">
+    <nd ref="482253821"/>
+    <nd ref="482253827"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="The Rise"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="40073463" version="5" timestamp="2010-07-08T17:06:42Z" uid="74617" user="JohnSmith" changeset="5167338">
+    <nd ref="482253821"/>
+    <nd ref="482253827"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="The Rise"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="40073463" version="6" timestamp="2012-01-19T04:18:32Z" uid="147510" user="woodpeck_fixbot" changeset="10433650">
+    <nd ref="482253821"/>
+    <nd ref="482253827"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="The Rise"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="40073464" version="3" timestamp="2010-07-08T17:07:21Z" uid="74617" user="JohnSmith" changeset="5167338">
+    <nd ref="482253836"/>
+    <nd ref="482253839"/>
+    <nd ref="482253837"/>
+    <nd ref="482253833"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="name" v="Bermuda Drive"/>
+    <tag k="source" v="GPS"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="40073464" version="4" timestamp="2012-01-19T04:18:33Z" uid="147510" user="woodpeck_fixbot" changeset="10433650">
+    <nd ref="482253836"/>
+    <nd ref="482253839"/>
+    <nd ref="482253837"/>
+    <nd ref="482253833"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Bermuda Drive"/>
+    <tag k="source" v="GPS"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="40073465" version="3" timestamp="2010-07-08T17:05:57Z" uid="74617" user="JohnSmith" changeset="5167338">
+    <nd ref="482253839"/>
+    <nd ref="482253840"/>
+    <nd ref="482253841"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed:source" v="default residential speed limit in Australia"/>
+    <tag k="source" v="GPS"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="40073465" version="4" timestamp="2012-01-19T04:18:35Z" uid="147510" user="woodpeck_fixbot" changeset="10433650">
+    <nd ref="482253839"/>
+    <nd ref="482253840"/>
+    <nd ref="482253841"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="GPS"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="40073683" version="3" timestamp="2009-12-24T03:15:08Z" uid="6975" user="ulfl" changeset="3439710">
+    <nd ref="482254009"/>
+    <nd ref="482254011"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Egeskovvej"/>
+    <tag k="source" v="GPS"/>
+  </way>
+  <way id="40073933" version="1" timestamp="2009-09-03T11:46:47Z" uid="115477" user="wowik" changeset="2358805">
+    <nd ref="482254356"/>
+    <nd ref="482254357"/>
+    <nd ref="482254358"/>
+    <nd ref="482254360"/>
+    <nd ref="482254361"/>
+    <nd ref="482254354"/>
+    <nd ref="482254362"/>
+    <nd ref="482254363"/>
+    <tag k="natural" v="water"/>
+  </way>
+  <way id="40073933" version="2" timestamp="2009-09-06T10:35:22Z" uid="45027" user="PA94" changeset="2389377">
+    <nd ref="482254363"/>
+    <nd ref="482254362"/>
+    <nd ref="482254354"/>
+    <nd ref="482254361"/>
+    <nd ref="482254360"/>
+    <nd ref="482254358"/>
+    <nd ref="482254357"/>
+    <nd ref="482254356"/>
+    <nd ref="482254363"/>
+    <tag k="natural" v="water"/>
+  </way>
+  <way id="40073937" version="1" timestamp="2009-09-03T11:46:48Z" uid="115477" user="wowik" changeset="2358805">
+    <nd ref="481154322"/>
+    <nd ref="481154327"/>
+    <nd ref="481154338"/>
+    <nd ref="481154619"/>
+    <nd ref="481154351"/>
+    <nd ref="418593364"/>
+    <nd ref="418593363"/>
+    <nd ref="418593361"/>
+    <nd ref="418593357"/>
+    <nd ref="418593355"/>
+    <nd ref="418593354"/>
+    <nd ref="418593352"/>
+    <nd ref="418593351"/>
+    <nd ref="418593350"/>
+    <nd ref="418593349"/>
+    <nd ref="418593348"/>
+    <nd ref="418593347"/>
+    <nd ref="418593346"/>
+    <nd ref="418593345"/>
+    <nd ref="418593344"/>
+    <nd ref="418593343"/>
+    <nd ref="418593342"/>
+    <nd ref="418593341"/>
+    <nd ref="418593340"/>
+    <nd ref="418593337"/>
+    <nd ref="418593334"/>
+    <nd ref="418593331"/>
+    <nd ref="418593329"/>
+    <nd ref="418593326"/>
+    <nd ref="418596837"/>
+    <tag k="name" v="Мамхурц"/>
+    <tag k="waterway" v="river"/>
+  </way>
+  <way id="40073937" version="2" timestamp="2010-09-02T04:23:04Z" uid="51196" user="garl" changeset="5658919">
+    <nd ref="481154322"/>
+    <nd ref="481154327"/>
+    <nd ref="481154338"/>
+    <nd ref="481154619"/>
+    <nd ref="481154351"/>
+    <nd ref="418593364"/>
+    <nd ref="418593363"/>
+    <nd ref="418593361"/>
+    <nd ref="418593357"/>
+    <nd ref="418593355"/>
+    <nd ref="418593354"/>
+    <nd ref="418593352"/>
+    <nd ref="418593351"/>
+    <nd ref="892667650"/>
+    <nd ref="418593350"/>
+    <nd ref="892667641"/>
+    <nd ref="892667696"/>
+    <nd ref="418593349"/>
+    <nd ref="418593348"/>
+    <nd ref="418593347"/>
+    <nd ref="418593346"/>
+    <nd ref="418593345"/>
+    <nd ref="892667671"/>
+    <nd ref="418593344"/>
+    <nd ref="892667680"/>
+    <nd ref="418593343"/>
+    <nd ref="418593342"/>
+    <nd ref="418593341"/>
+    <nd ref="418593340"/>
+    <nd ref="418593337"/>
+    <nd ref="418593334"/>
+    <nd ref="418593331"/>
+    <nd ref="418593329"/>
+    <nd ref="418593326"/>
+    <nd ref="418596837"/>
+    <tag k="name" v="Мамхурц"/>
+    <tag k="waterway" v="river"/>
+  </way>
+  <way id="40073937" version="3" timestamp="2012-03-02T08:00:33Z" uid="51196" user="garl" changeset="10845429">
+    <nd ref="481154322"/>
+    <nd ref="481154327"/>
+    <nd ref="481154338"/>
+    <nd ref="481154619"/>
+    <nd ref="481154351"/>
+    <nd ref="418593364"/>
+    <nd ref="418593363"/>
+    <nd ref="418593361"/>
+    <nd ref="1655617668"/>
+    <nd ref="418593357"/>
+    <nd ref="1655617666"/>
+    <nd ref="1655617665"/>
+    <nd ref="1655617664"/>
+    <nd ref="1655617648"/>
+    <nd ref="1655617657"/>
+    <nd ref="1655617660"/>
+    <nd ref="418593355"/>
+    <nd ref="1655617642"/>
+    <nd ref="1655617643"/>
+    <nd ref="1655617644"/>
+    <nd ref="418593354"/>
+    <nd ref="1655617641"/>
+    <nd ref="1655617640"/>
+    <nd ref="1655617639"/>
+    <nd ref="1655617637"/>
+    <nd ref="1655617629"/>
+    <nd ref="1655617627"/>
+    <nd ref="418593352"/>
+    <nd ref="418593351"/>
+    <nd ref="892667650"/>
+    <nd ref="418593350"/>
+    <nd ref="892667641"/>
+    <nd ref="892667696"/>
+    <nd ref="418593349"/>
+    <nd ref="418593348"/>
+    <nd ref="418593347"/>
+    <nd ref="418593346"/>
+    <nd ref="418593345"/>
+    <nd ref="892667671"/>
+    <nd ref="418593344"/>
+    <nd ref="892667680"/>
+    <nd ref="418593343"/>
+    <nd ref="418593342"/>
+    <nd ref="418593341"/>
+    <nd ref="418593340"/>
+    <nd ref="418593337"/>
+    <nd ref="418593334"/>
+    <nd ref="418593331"/>
+    <nd ref="418593329"/>
+    <nd ref="418593326"/>
+    <nd ref="418596837"/>
+    <tag k="name" v="Мамхурц"/>
+    <tag k="waterway" v="river"/>
+  </way>
+  <way id="40073937" version="4" timestamp="2012-03-30T03:28:52Z" uid="534149" user="lurlrlrl" changeset="11146771">
+    <nd ref="481154322"/>
+    <nd ref="481154327"/>
+    <nd ref="481154338"/>
+    <nd ref="481154619"/>
+    <nd ref="481154351"/>
+    <nd ref="418593364"/>
+    <nd ref="418593363"/>
+    <nd ref="418593361"/>
+    <nd ref="1655617668"/>
+    <nd ref="418593357"/>
+    <nd ref="1655617666"/>
+    <nd ref="1655617665"/>
+    <nd ref="1655617664"/>
+    <nd ref="1655617648"/>
+    <nd ref="1655617657"/>
+    <nd ref="1655617660"/>
+    <nd ref="418593355"/>
+    <nd ref="1655617642"/>
+    <nd ref="1655617643"/>
+    <nd ref="1655617644"/>
+    <nd ref="418593354"/>
+    <nd ref="1655617641"/>
+    <nd ref="1655617640"/>
+    <nd ref="1655617639"/>
+    <nd ref="1655617637"/>
+    <nd ref="1655617629"/>
+    <nd ref="1655617627"/>
+    <nd ref="418593352"/>
+    <nd ref="418593351"/>
+    <nd ref="892667650"/>
+    <nd ref="418593350"/>
+    <nd ref="892667641"/>
+    <nd ref="892667696"/>
+    <nd ref="418593349"/>
+    <nd ref="418593348"/>
+    <nd ref="418593347"/>
+    <nd ref="418593346"/>
+    <nd ref="418593345"/>
+    <nd ref="892667671"/>
+    <nd ref="418593344"/>
+    <nd ref="892667680"/>
+    <nd ref="418593343"/>
+    <nd ref="418593342"/>
+    <nd ref="418593341"/>
+    <nd ref="418593340"/>
+    <nd ref="418593337"/>
+    <nd ref="418593334"/>
+    <nd ref="418593331"/>
+    <nd ref="418593329"/>
+    <nd ref="418593326"/>
+    <nd ref="418596837"/>
+    <tag k="gvr:code" v="06020000712108100003427"/>
+    <tag k="name" v="Мамхурц"/>
+    <tag k="name:ru" v="Мамхурц"/>
+    <tag k="waterway" v="river"/>
+    <tag k="wikipedia" v="ru:Мамхурц (река)"/>
+  </way>
+  <way id="40073960" version="1" timestamp="2009-09-03T11:46:52Z" uid="115477" user="wowik" changeset="2358805">
+    <nd ref="482254383"/>
+    <nd ref="482254385"/>
+    <nd ref="482254386"/>
+    <nd ref="482254389"/>
+    <nd ref="482254392"/>
+    <nd ref="482254394"/>
+    <nd ref="482254397"/>
+    <nd ref="482254399"/>
+    <nd ref="482254400"/>
+    <nd ref="482254402"/>
+    <nd ref="482254405"/>
+    <nd ref="482254407"/>
+    <nd ref="482254383"/>
+    <tag k="natural" v="water"/>
+  </way>
+  <way id="40073960" version="2" timestamp="2012-03-02T07:39:21Z" uid="51196" user="garl" changeset="10845258"/>
+  <way id="40073166" version="2" timestamp="2012-07-20T10:46:12Z" uid="722137" user="OSMF Redaction Account" changeset="12371673"/>
+  <way id="40073173" version="2" timestamp="2012-07-20T10:46:12Z" uid="722137" user="OSMF Redaction Account" changeset="12371673"/>
+  <way id="40073305" version="9" timestamp="2012-04-05T09:07:15Z" uid="496827" user="Cesarbcg" changeset="11186598">
+    <nd ref="482253290"/>
+    <nd ref="1569665181"/>
+    <nd ref="482253289"/>
+    <nd ref="482254001"/>
+    <nd ref="1165873261"/>
+    <nd ref="1165873507"/>
+    <nd ref="482253286"/>
+    <nd ref="482258416"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Jose Antonio Primo de Rivera"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="40073305" version="10" timestamp="2012-06-28T00:13:42Z" uid="3584" user="gpesquero" changeset="12042228">
+    <nd ref="482253290"/>
+    <nd ref="1569665181"/>
+    <nd ref="482253289"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="name" v="Jose Antonio Primo de Rivera"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="40073460" version="8" timestamp="2012-07-19T04:04:14Z" uid="722137" user="OSMF Redaction Account" changeset="12307588">
+    <nd ref="482253817"/>
+    <nd ref="493930981"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="San Fernando Avenue"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="GPS"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="40073462" version="6" timestamp="2012-07-19T04:04:14Z" uid="722137" user="OSMF Redaction Account" changeset="12307588">
+    <nd ref="482253806"/>
+    <nd ref="482253811"/>
+    <nd ref="482253812"/>
+    <nd ref="482253813"/>
+    <nd ref="482253810"/>
+    <nd ref="482253815"/>
+    <nd ref="482253816"/>
+    <nd ref="482253817"/>
+    <nd ref="482253807"/>
+    <nd ref="482253818"/>
+    <nd ref="482253819"/>
+    <nd ref="482253821"/>
+    <nd ref="482253822"/>
+    <nd ref="482253824"/>
+    <nd ref="482253825"/>
+    <nd ref="482253826"/>
+    <nd ref="482253806"/>
+    <tag k="highway" v="residential"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="source" v="GPS"/>
+  </way>
+  <way id="40073463" version="7" timestamp="2012-07-19T04:04:13Z" uid="722137" user="OSMF Redaction Account" changeset="12307588">
+    <nd ref="482253821"/>
+    <nd ref="482253827"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="The Rise"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="GPS"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="40073933" version="3" timestamp="2012-07-20T10:45:49Z" uid="722137" user="OSMF Redaction Account" changeset="12371666"/>
+  <way id="40073937" version="5" timestamp="2012-07-20T10:45:48Z" uid="722137" user="OSMF Redaction Account" changeset="12371666">
+    <nd ref="1655617668"/>
+    <nd ref="1655617666"/>
+    <nd ref="1655617665"/>
+    <nd ref="1655617664"/>
+    <nd ref="1655617648"/>
+    <nd ref="1655617657"/>
+    <nd ref="1655617660"/>
+    <nd ref="1655617642"/>
+    <nd ref="1655617643"/>
+    <nd ref="1655617644"/>
+    <nd ref="1655617641"/>
+    <nd ref="1655617640"/>
+    <nd ref="1655617639"/>
+    <nd ref="1655617637"/>
+    <nd ref="1655617629"/>
+    <nd ref="1655617627"/>
+    <nd ref="892667650"/>
+    <nd ref="892667641"/>
+    <nd ref="892667696"/>
+    <nd ref="892667671"/>
+    <nd ref="892667680"/>
+    <tag k="gvr:code" v="06020000712108100003427"/>
+    <tag k="name:ru" v="Мамхурц"/>
+    <tag k="wikipedia" v="ru:Мамхурц (река)"/>
+  </way>
+  <way id="40073937" version="6" timestamp="2012-07-26T11:50:38Z" uid="437392" user="Scaramouche" changeset="12498117">
+    <nd ref="1655617668"/>
+    <nd ref="1655617666"/>
+    <nd ref="1655617665"/>
+    <nd ref="1655617664"/>
+    <nd ref="1655617648"/>
+    <nd ref="1655617657"/>
+    <nd ref="1655617660"/>
+    <nd ref="1655617642"/>
+    <nd ref="1655617643"/>
+    <nd ref="1655617644"/>
+    <nd ref="1655617641"/>
+    <nd ref="1655617640"/>
+    <nd ref="1655617639"/>
+    <nd ref="1655617637"/>
+    <nd ref="1655617629"/>
+    <nd ref="1655617627"/>
+    <nd ref="892667650"/>
+    <nd ref="892667641"/>
+    <nd ref="892667696"/>
+    <nd ref="1838668634"/>
+    <nd ref="418593349"/>
+    <nd ref="1838668663"/>
+    <nd ref="1838668666"/>
+    <nd ref="1838668679"/>
+    <nd ref="1838668675"/>
+    <nd ref="418593348"/>
+    <nd ref="1838668676"/>
+    <nd ref="1838668673"/>
+    <nd ref="418593347"/>
+    <nd ref="1838668647"/>
+    <nd ref="1838668630"/>
+    <nd ref="418593346"/>
+    <nd ref="1838668645"/>
+    <nd ref="418593345"/>
+    <nd ref="1838668681"/>
+    <nd ref="1838668668"/>
+    <nd ref="1838668662"/>
+    <nd ref="892667680"/>
+    <nd ref="418593344"/>
+    <nd ref="1838668654"/>
+    <nd ref="1838668680"/>
+    <nd ref="418593343"/>
+    <nd ref="1838668644"/>
+    <nd ref="1838668661"/>
+    <nd ref="1838668667"/>
+    <nd ref="418593342"/>
+    <nd ref="1838668641"/>
+    <nd ref="1838668651"/>
+    <nd ref="1838668636"/>
+    <nd ref="1838668640"/>
+    <nd ref="418593341"/>
+    <nd ref="1838668656"/>
+    <nd ref="1838668678"/>
+    <nd ref="1838668637"/>
+    <nd ref="1838668652"/>
+    <nd ref="1838668638"/>
+    <nd ref="1838668633"/>
+    <nd ref="1838668646"/>
+    <nd ref="1838668631"/>
+    <nd ref="1838668665"/>
+    <nd ref="418593334"/>
+    <nd ref="1838668664"/>
+    <nd ref="1838668674"/>
+    <nd ref="1838668670"/>
+    <nd ref="418593331"/>
+    <nd ref="1838668657"/>
+    <nd ref="1838668660"/>
+    <nd ref="1838668659"/>
+    <nd ref="1838668632"/>
+    <nd ref="1838668635"/>
+    <nd ref="1838668650"/>
+    <tag k="gvr:code" v="06020000712108100003427"/>
+    <tag k="name:ru" v="Мамхурц"/>
+    <tag k="waterway" v="river"/>
+    <tag k="wikipedia" v="ru:Мамхурц (река)"/>
+  </way>
+  <way id="40073937" version="7" timestamp="2012-07-26T18:08:37Z" uid="437392" user="Scaramouche" changeset="12501291">
+    <nd ref="1655617668"/>
+    <nd ref="1655617666"/>
+    <nd ref="1655617665"/>
+    <nd ref="1655617664"/>
+    <nd ref="1655617648"/>
+    <nd ref="1655617657"/>
+    <nd ref="1655617660"/>
+    <nd ref="1655617642"/>
+    <nd ref="1655617643"/>
+    <nd ref="1655617644"/>
+    <nd ref="1655617641"/>
+    <nd ref="1655617640"/>
+    <nd ref="1655617639"/>
+    <nd ref="1655617637"/>
+    <nd ref="1655617629"/>
+    <nd ref="1655617627"/>
+    <nd ref="892667650"/>
+    <nd ref="892667641"/>
+    <nd ref="892667696"/>
+    <nd ref="1838668634"/>
+    <nd ref="418593349"/>
+    <nd ref="1838668663"/>
+    <nd ref="1838668666"/>
+    <nd ref="1838668679"/>
+    <nd ref="1838668675"/>
+    <nd ref="418593348"/>
+    <nd ref="1838668676"/>
+    <nd ref="1838668673"/>
+    <nd ref="418593347"/>
+    <nd ref="1838668647"/>
+    <nd ref="1838668630"/>
+    <nd ref="418593346"/>
+    <nd ref="1838668645"/>
+    <nd ref="418593345"/>
+    <nd ref="1838668681"/>
+    <nd ref="1838668668"/>
+    <nd ref="1839000175"/>
+    <nd ref="1838668662"/>
+    <nd ref="892667680"/>
+    <nd ref="418593344"/>
+    <nd ref="1838668654"/>
+    <nd ref="1838668680"/>
+    <nd ref="418593343"/>
+    <nd ref="1838668644"/>
+    <nd ref="1838668661"/>
+    <nd ref="1838668667"/>
+    <nd ref="418593342"/>
+    <nd ref="1838668641"/>
+    <nd ref="1838668651"/>
+    <nd ref="1838668636"/>
+    <nd ref="1838668640"/>
+    <nd ref="418593341"/>
+    <nd ref="1838668656"/>
+    <nd ref="1838668678"/>
+    <nd ref="1838668637"/>
+    <nd ref="1838668652"/>
+    <nd ref="1838668638"/>
+    <nd ref="1838668633"/>
+    <nd ref="1838668646"/>
+    <nd ref="1838668631"/>
+    <nd ref="1838668665"/>
+    <nd ref="418593334"/>
+    <nd ref="1838668664"/>
+    <nd ref="1838668674"/>
+    <nd ref="1838668670"/>
+    <nd ref="418593331"/>
+    <nd ref="1838668657"/>
+    <nd ref="1838668660"/>
+    <nd ref="1838668659"/>
+    <nd ref="1838668632"/>
+    <nd ref="1838668635"/>
+    <nd ref="1838668650"/>
+    <tag k="gvr:code" v="06020000712108100003427"/>
+    <tag k="name:ru" v="Мамхурц"/>
+    <tag k="waterway" v="river"/>
+    <tag k="wikipedia" v="ru:Мамхурц (река)"/>
+  </way>
+  <way id="40073937" version="8" timestamp="2012-09-03T15:32:49Z" uid="217828" user="stiker1" changeset="12969088">
+    <nd ref="1896474320"/>
+    <nd ref="1896474306"/>
+    <nd ref="1896474297"/>
+    <nd ref="1896474283"/>
+    <nd ref="1896474281"/>
+    <nd ref="1896474279"/>
+    <nd ref="1896474267"/>
+    <nd ref="1896474272"/>
+    <nd ref="1896474275"/>
+    <nd ref="1896474278"/>
+    <nd ref="418593366"/>
+    <nd ref="1896474285"/>
+    <nd ref="1896474300"/>
+    <nd ref="1896474318"/>
+    <nd ref="1896474328"/>
+    <nd ref="1896474336"/>
+    <nd ref="1896474338"/>
+    <nd ref="1896474341"/>
+    <nd ref="1896474349"/>
+    <nd ref="1896474351"/>
+    <nd ref="1896474354"/>
+    <nd ref="1896474356"/>
+    <nd ref="1896474359"/>
+    <nd ref="1896474377"/>
+    <nd ref="1896474392"/>
+    <nd ref="1896474398"/>
+    <nd ref="1896474405"/>
+    <nd ref="1896474412"/>
+    <nd ref="1896474419"/>
+    <nd ref="1896474422"/>
+    <nd ref="1896474425"/>
+    <nd ref="1896474435"/>
+    <nd ref="1896474453"/>
+    <nd ref="1896474481"/>
+    <nd ref="1896474483"/>
+    <nd ref="1896474487"/>
+    <nd ref="1896474489"/>
+    <nd ref="1896474497"/>
+    <nd ref="1896474505"/>
+    <nd ref="1896474508"/>
+    <nd ref="1896474511"/>
+    <nd ref="1896474514"/>
+    <nd ref="1896474516"/>
+    <nd ref="1896474532"/>
+    <nd ref="1896474533"/>
+    <nd ref="1896474534"/>
+    <nd ref="1896474535"/>
+    <nd ref="1896474537"/>
+    <nd ref="1896474539"/>
+    <nd ref="1896474542"/>
+    <nd ref="1896474544"/>
+    <nd ref="1896474545"/>
+    <nd ref="1896474547"/>
+    <nd ref="1896474549"/>
+    <nd ref="1896474552"/>
+    <nd ref="1896474554"/>
+    <nd ref="1896474557"/>
+    <nd ref="1896474559"/>
+    <nd ref="1896474561"/>
+    <nd ref="1896474563"/>
+    <nd ref="1896474565"/>
+    <nd ref="1896474567"/>
+    <nd ref="1896474574"/>
+    <nd ref="1896474575"/>
+    <nd ref="1896474577"/>
+    <nd ref="1896474579"/>
+    <nd ref="1896474580"/>
+    <nd ref="1896474582"/>
+    <nd ref="1896474584"/>
+    <nd ref="1896474586"/>
+    <nd ref="1896474588"/>
+    <nd ref="1896474589"/>
+    <nd ref="1896474591"/>
+    <nd ref="1655617668"/>
+    <nd ref="1655617666"/>
+    <nd ref="1655617665"/>
+    <nd ref="1655617664"/>
+    <nd ref="1655617648"/>
+    <nd ref="1655617657"/>
+    <nd ref="1655617660"/>
+    <nd ref="1896474593"/>
+    <nd ref="1896474595"/>
+    <nd ref="1896474598"/>
+    <nd ref="1896474600"/>
+    <nd ref="1655617642"/>
+    <nd ref="1896474602"/>
+    <nd ref="1896474604"/>
+    <nd ref="1655617643"/>
+    <nd ref="1896474605"/>
+    <nd ref="1655617644"/>
+    <nd ref="1896474606"/>
+    <nd ref="1896474607"/>
+    <nd ref="1655617641"/>
+    <nd ref="1655617640"/>
+    <nd ref="1655617639"/>
+    <nd ref="1896474619"/>
+    <nd ref="1896474620"/>
+    <nd ref="1655617637"/>
+    <nd ref="1896474621"/>
+    <nd ref="1896474622"/>
+    <nd ref="1655617629"/>
+    <nd ref="1896474623"/>
+    <nd ref="1896474624"/>
+    <nd ref="1655617627"/>
+    <nd ref="1896474626"/>
+    <nd ref="1896474628"/>
+    <nd ref="1896474630"/>
+    <nd ref="1896474631"/>
+    <nd ref="1896474633"/>
+    <nd ref="1896474635"/>
+    <nd ref="1896474637"/>
+    <nd ref="1896474639"/>
+    <nd ref="1896474641"/>
+    <nd ref="1896474643"/>
+    <nd ref="1896474645"/>
+    <nd ref="1896474647"/>
+    <nd ref="1896474649"/>
+    <nd ref="892667650"/>
+    <nd ref="1896474658"/>
+    <nd ref="1896474659"/>
+    <nd ref="1896474663"/>
+    <nd ref="1896474664"/>
+    <nd ref="1896474666"/>
+    <nd ref="1896474668"/>
+    <nd ref="1896474671"/>
+    <nd ref="1896474674"/>
+    <nd ref="1896474677"/>
+    <nd ref="1896474683"/>
+    <nd ref="1896474690"/>
+    <nd ref="1896474702"/>
+    <nd ref="1896474706"/>
+    <nd ref="1896474712"/>
+    <nd ref="1896474714"/>
+    <nd ref="1896474719"/>
+    <nd ref="1896474723"/>
+    <nd ref="1896474726"/>
+    <nd ref="1896474728"/>
+    <nd ref="1896474730"/>
+    <nd ref="1896474734"/>
+    <nd ref="1896474740"/>
+    <nd ref="892667641"/>
+    <nd ref="892667696"/>
+    <nd ref="1838668634"/>
+    <nd ref="1896474742"/>
+    <nd ref="1896474746"/>
+    <nd ref="1896474748"/>
+    <nd ref="418593349"/>
+    <nd ref="1896474750"/>
+    <nd ref="1838668663"/>
+    <nd ref="1896474752"/>
+    <nd ref="1896474756"/>
+    <nd ref="1896474760"/>
+    <nd ref="1838668666"/>
+    <nd ref="1896474764"/>
+    <nd ref="1896474765"/>
+    <nd ref="1896474769"/>
+    <nd ref="1838668679"/>
+    <nd ref="1896474771"/>
+    <nd ref="1896474780"/>
+    <nd ref="1838668675"/>
+    <nd ref="418593348"/>
+    <nd ref="1838668676"/>
+    <nd ref="1896474781"/>
+    <nd ref="1896474782"/>
+    <nd ref="1896474783"/>
+    <nd ref="1896474784"/>
+    <nd ref="1838668673"/>
+    <nd ref="1896474786"/>
+    <nd ref="1896474788"/>
+    <nd ref="418593347"/>
+    <nd ref="1838668647"/>
+    <nd ref="1838668630"/>
+    <nd ref="1896474794"/>
+    <nd ref="418593346"/>
+    <nd ref="1896474792"/>
+    <nd ref="1896474795"/>
+    <nd ref="1896474797"/>
+    <nd ref="1896474801"/>
+    <nd ref="1838668645"/>
+    <nd ref="1896474803"/>
+    <nd ref="1896474805"/>
+    <nd ref="1896474807"/>
+    <nd ref="418593345"/>
+    <nd ref="1896474809"/>
+    <nd ref="1838668681"/>
+    <nd ref="1896474811"/>
+    <nd ref="1896474819"/>
+    <nd ref="1896474824"/>
+    <nd ref="1838668668"/>
+    <nd ref="1896474834"/>
+    <nd ref="1896474836"/>
+    <nd ref="1896474838"/>
+    <nd ref="1839000175"/>
+    <nd ref="1896474842"/>
+    <nd ref="1838668662"/>
+    <nd ref="1896474850"/>
+    <nd ref="1896474858"/>
+    <nd ref="1896474859"/>
+    <nd ref="892667680"/>
+    <nd ref="418593344"/>
+    <nd ref="1896474866"/>
+    <nd ref="1896474868"/>
+    <nd ref="1838668654"/>
+    <nd ref="1838668680"/>
+    <nd ref="418593343"/>
+    <nd ref="1838668644"/>
+    <nd ref="1838668661"/>
+    <nd ref="1838668667"/>
+    <nd ref="1896474875"/>
+    <nd ref="418593342"/>
+    <nd ref="1896474882"/>
+    <nd ref="1896474878"/>
+    <nd ref="1838668641"/>
+    <nd ref="1896474884"/>
+    <nd ref="1896474888"/>
+    <nd ref="1896474890"/>
+    <nd ref="1838668651"/>
+    <nd ref="1896474892"/>
+    <nd ref="1838668636"/>
+    <nd ref="1896474896"/>
+    <nd ref="1838668640"/>
+    <nd ref="418593341"/>
+    <nd ref="1896474899"/>
+    <nd ref="1896474901"/>
+    <nd ref="1838668656"/>
+    <nd ref="1896474903"/>
+    <nd ref="1838668678"/>
+    <nd ref="1838668637"/>
+    <nd ref="1896474905"/>
+    <nd ref="1838668652"/>
+    <nd ref="1896474909"/>
+    <nd ref="1896474907"/>
+    <nd ref="1896474911"/>
+    <nd ref="1896474912"/>
+    <nd ref="1896474914"/>
+    <nd ref="1838668638"/>
+    <nd ref="1896474916"/>
+    <nd ref="1896474918"/>
+    <nd ref="1896474920"/>
+    <nd ref="1896474922"/>
+    <nd ref="1896474924"/>
+    <nd ref="1838668633"/>
+    <nd ref="1896474926"/>
+    <nd ref="1838668646"/>
+    <nd ref="1838668631"/>
+    <nd ref="1838668665"/>
+    <nd ref="418593334"/>
+    <nd ref="1838668664"/>
+    <nd ref="1838668674"/>
+    <nd ref="1838668670"/>
+    <nd ref="418593331"/>
+    <nd ref="1838668657"/>
+    <nd ref="1838668660"/>
+    <nd ref="1838668659"/>
+    <nd ref="1838668632"/>
+    <nd ref="1838668635"/>
+    <nd ref="1838668650"/>
+    <tag k="gvr:code" v="06020000712108100003427"/>
+    <tag k="name:ru" v="Мамхурц"/>
+    <tag k="waterway" v="river"/>
+    <tag k="wikipedia" v="ru:Мамхурц (река)"/>
+  </way>
+</osm>
